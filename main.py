@@ -119,6 +119,9 @@ def main():
             card = process_card(card)
             if compare_hash(card):
                 continue
+
+            print("Processing card " + card["name"] + " (" + str(cards_processed + 1) + "/" + str(cards_to_process) + ")")
+
             save_card_info(card)
             download_images(card)
             store_hash(card)
