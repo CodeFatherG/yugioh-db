@@ -22,7 +22,8 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add data/
+        git add cards/
+        git add meta.txt
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update dataset: $(date +'%Y-%m-%d %H:%M')" && git push)
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
