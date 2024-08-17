@@ -111,7 +111,7 @@ def main():
     print(f"Processing {cards_to_process} cards...")
 
     with open("meta.txt", "w") as w:
-        w.write(datetime.now().isoformat() + ":\t" + cards_to_process + " cards" + "\n")
+        w.write(datetime.now().isoformat() + ":\t" + str(cards_to_process) + " cards" + "\n")
 
     cards_processed = 0
     for card in cardinfo_json["data"]:
