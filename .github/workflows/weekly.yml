@@ -2,6 +2,7 @@ name: Weekly dataset download
 on:
   schedule:
     - cron: "0 12 * * 0"
+  workflow_dispatch:
 jobs:
   weekly:
     runs-on: ubuntu-latest
