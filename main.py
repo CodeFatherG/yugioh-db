@@ -113,7 +113,7 @@ def main():
     response = requests.get("https://db.ygoprodeck.com/api/v7/cardinfo.php")
     cardinfo_json = response.json()
 
-    for card in cardinfo_json["data"]:
+    for card in cardinfo_json["data"][0:20]:
         try:
             card = process_card(card)
 
