@@ -2,7 +2,7 @@ name: Weekly Download
 
 on:
   schedule:
-    - cron: "0 12 * * 0"
+    - cron: "0 0 * * 0" # Every Sunday at 00:00
   workflow_dispatch:
     inputs:
       card_count:
