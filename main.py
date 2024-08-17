@@ -80,13 +80,31 @@ def download_images(card):
 def save_card_info(card):
     info_path = os.path.join(get_card_path(card['id']), "info.json")
     
-    if os.path.exists(info_path):
-        return
-    
     print("Saving card info for " + card['name'])
 
     with open(info_path, "w") as w:
         json.dump(card, w)
+
+def store_hash(card):
+    card_id = card['id']
+    card_hash = hash(json.dumps(card))
+    hash_path = os.path.join(get_card_path(card_id), "hash.txt")
+
+    with open(hash_path, "w") as w:
+        w.write(card_hash)
+
+def compare_hash(card) -> bool:
+    card_id = card['id']
+    card_hash = hash(json.dumps(card))
+    hash_path = os.path.join(get_card_path(card_id), "hash.txt")
+
+    if not os.path.exists(hash_path):
+        return False
+
+    with open(hash_path, "r") as r:
+        old_hash = r.read()
+
+    return card_hash == old_hash
 
 def main():
     with open("meta.txt", "w") as w:
@@ -98,8 +116,15 @@ def main():
     for card in cardinfo_json["data"]:
         try:
             card = process_card(card)
+
+            if compare_hash(card):
+                continue
+
             save_card_info(card)
             download_images(card)
+
+            store_hash(card)
+
         except Exception as e:
             print("Error processing card " + card["name"] + ":", e)
 
