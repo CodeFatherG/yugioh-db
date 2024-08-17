@@ -1,4 +1,4 @@
-name: Weekly dataset download
+name: Weekly Download
 on:
   schedule:
     - cron: "0 12 * * 0"
