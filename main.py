@@ -61,6 +61,8 @@ def download_image(image_url, image_path):
     if os.path.exists(image_path):
         return
     
+    print("Downloading " + image_url)
+
     response = requests.get(image_url)
     with open(image_path, "wb") as f:
         f.write(response.content)
@@ -81,6 +83,8 @@ def save_card_info(card):
     if os.path.exists(info_path):
         return
     
+    print("Saving card info for " + card['name'])
+
     with open(info_path, "w") as w:
         json.dump(card, w)
 
@@ -92,9 +96,12 @@ def main():
     cardinfo_json = response.json()
 
     for card in cardinfo_json["data"]:
-        card = process_card(card)
-        save_card_info(card)
-        download_images(card)
+        try:
+            card = process_card(card)
+            save_card_info(card)
+            download_images(card)
+        except Exception as e:
+            print("Error processing card " + card["name"] + ":", e)
 
 if __name__ == "__main__":
     main()
