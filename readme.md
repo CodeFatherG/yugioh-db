@@ -2,5 +2,5 @@
 
 # Yu-Gi-Oh!
 
-A dataset downloaded weekly from [https://ygoprodeck.com/](https://ygoprodeck.com/) and [replicated to Kaggle](https://www.kaggle.com/datasets/ioexception/yugioh-cards)
+A dataset downloaded weekly from [https://ygoprodeck.com/](https://ygoprodeck.com/)
 
