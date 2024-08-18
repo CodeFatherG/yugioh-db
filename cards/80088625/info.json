@@ -1,0 +1,21 @@
+{
+    "id": 80088625,
+    "name": "Binary Blader",
+    "type": "Link Monster",
+    "desc": "2 Normal Monsters\r\nThis card gains these effects based on the number of monsters co-linked to this card.\r\n\u25cf 1+: When this card declares an attack on an opponent's monster: You can activate this effect; this card can make a second attack during each Battle Phase this turn, also if this card battles an opponent's monster this turn, that opponent's monster cannot be destroyed by that battle.\r\n\u25cf 2: After damage calculation, if this card battled an opponent's monster: You can banish that opponent's monster.",
+    "atk": 1800,
+    "def": null,
+    "level": null,
+    "race": "Cyberse",
+    "attribute": "EARTH",
+    "scale": null,
+    "archetype": null,
+    "linkval": 2,
+    "linkmarkers": [
+        "Left",
+        "Right"
+    ],
+    "image_url": "https://images.ygoprodeck.com/images/cards/80088625.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80088625.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80088625.jpg"
+}

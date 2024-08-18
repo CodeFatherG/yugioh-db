@@ -1,10 +1,18 @@
 [
-    {
-        "triggered_time": "2024-08-18T16:25:09.295175",
-        "completed_time": "2024-08-18T16:53:35.634565",
-        "time_taken": "0:28:26.339390",
-        "cards_processed": 13303,
-        "cards_found": 13303,
-        "cards_added": 13303
-    }
+  {
+    "triggered_time": "2024-08-18T16:25:09.295175",
+    "completed_time": "2024-08-18T16:53:35.634565",
+    "time_taken": "0:28:26.339390",
+    "cards_processed": 13303,
+    "cards_found": 13303,
+    "cards_added": 13303
+  },
+  {
+    "triggered_time": "2024-08-18T08:51:10.829725",
+    "completed_time": "2024-08-18T08:53:54.956931",
+    "time_taken": "0:02:44.127206",
+    "cards_processed": 5000,
+    "cards_found": 13303,
+    "cards_added": 5000
+  }
 ]
