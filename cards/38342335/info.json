@@ -1,0 +1,22 @@
+{
+    "id": 38342335,
+    "name": "Knightmare Unicorn",
+    "type": "Link Monster",
+    "desc": "2+ monsters with different names\r\nIf this card is Link Summoned: You can discard 1 card, then target 1 card on the field; shuffle it into the Deck, then, if this card was co-linked when this effect was activated, you can draw 1 card. You can only use this effect of \"Knightmare Unicorn\" once per turn. While any co-linked \"Knightmare\" monsters are on the field, for your normal draw in your Draw Phase, draw 1 card for each different card name among those co-linked \"Knightmare\" monsters, instead of drawing just 1 card.",
+    "atk": 2200,
+    "def": null,
+    "level": 0,
+    "race": "Fiend",
+    "attribute": "DARK",
+    "scale": null,
+    "archetype": "Knightmare",
+    "linkval": 3,
+    "linkmarkers": [
+        "Left",
+        "Right",
+        "Bottom"
+    ],
+    "image_url": "https://images.ygoprodeck.com/images/cards/38342335.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38342335.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38342335.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "id": 83725008,
+    "name": "Jenis, Lightsworn Mender",
+    "type": "Effect Monster",
+    "desc": "During the End Phase, if a card(s) was sent from your Deck to the Graveyard by the effect of a \"Lightsworn\" card this turn: Inflict 500 damage to your opponent, and if you do, gain 500 LP.",
+    "atk": 300,
+    "def": 2100,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "LIGHT",
+    "scale": null,
+    "archetype": "Lightsworn",
+    "linkval": null,
+    "linkmarkers": null,
+    "image_url": "https://images.ygoprodeck.com/images/cards/83725008.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83725008.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83725008.jpg"
+}

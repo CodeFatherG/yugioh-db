@@ -1,0 +1,22 @@
+{
+    "id": 87054946,
+    "name": "Nephthys, the Sacred Flame",
+    "type": "Link Monster",
+    "desc": "2+ monsters, including a Ritual Monster\r\nWhile this card is in the Extra Monster Zone, monsters your opponent controls cannot target \"Nephthys\" monsters in the Main Monster Zones for attacks. This card gains effects based on the number of Ritual Monsters used for its Link Summon.\r\n\u25cf 1+: Cannot be destroyed by battle.\r\n\u25cf 2+: Cannot be destroyed by card effects, also it gains 1200 ATK.\r\n\u25cf 3: Neither player can target this card with card effects, also it gains another 1200 ATK.",
+    "atk": 2400,
+    "def": null,
+    "level": 0,
+    "race": "Winged Beast",
+    "attribute": "FIRE",
+    "scale": null,
+    "archetype": "Nephthys",
+    "linkval": 3,
+    "linkmarkers": [
+        "Bottom-Left",
+        "Bottom",
+        "Bottom-Right"
+    ],
+    "image_url": "https://images.ygoprodeck.com/images/cards/87054946.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87054946.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87054946.jpg"
+}

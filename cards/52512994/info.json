@@ -1,0 +1,18 @@
+{
+    "id": 52512994,
+    "name": "Kasha",
+    "type": "Effect Monster",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more Zombie monsters. If this card is Special Summoned: Shuffle as many other monsters on the field as possible into the Deck, and if you do, this card's ATK becomes 1000 x the number of face-up monsters shuffled into the Deck this way, whose original Type was Zombie.",
+    "atk": -1,
+    "def": 1000,
+    "level": 8,
+    "race": "Zombie",
+    "attribute": "EARTH",
+    "scale": null,
+    "archetype": null,
+    "linkval": null,
+    "linkmarkers": null,
+    "image_url": "https://images.ygoprodeck.com/images/cards/52512994.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52512994.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52512994.jpg"
+}

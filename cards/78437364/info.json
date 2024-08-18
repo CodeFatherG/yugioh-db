@@ -1,0 +1,22 @@
+{
+    "id": 78437364,
+    "name": "Gouki The Great Ogre",
+    "type": "Link Monster",
+    "desc": "2+ \"Gouki\" monsters\r\nAll monsters on the field lose ATK equal to their original DEF. If this card would be destroyed by battle or card effect, you can destroy 1 of your monsters this card points to instead.",
+    "atk": 2600,
+    "def": null,
+    "level": null,
+    "race": "Warrior",
+    "attribute": "EARTH",
+    "scale": null,
+    "archetype": "Gouki",
+    "linkval": 3,
+    "linkmarkers": [
+        "Bottom-Left",
+        "Bottom",
+        "Bottom-Right"
+    ],
+    "image_url": "https://images.ygoprodeck.com/images/cards/78437364.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78437364.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78437364.jpg"
+}
