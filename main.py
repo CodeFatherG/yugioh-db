@@ -121,17 +121,30 @@ def update_meta_json(start_time, end_time, cards_processed, total_cards, cards_a
     }
     
     if os.path.exists(meta_file):
-        with open(meta_file, "r") as f:
-            data = json.load(f)
+        # File exists, try to read it
+        try:
+            with open(meta_file, "r") as f:
+                data = json.load(f)
+        except json.JSONDecodeError:
+            print(f"Warning: {meta_file} contains invalid JSON. Starting with empty data.")
+            data = []
+        except Exception as e:
+            print(f"Error reading {meta_file}: {str(e)}. Starting with empty data.")
+            data = []
     else:
+        # File doesn't exist, start with an empty list
+        print(f"{meta_file} doesn't exist. Creating new file.")
         data = []
     
     data.append(entry)
     
-    with open(meta_file, "w") as f:
-        json.dump(data, f, indent=4)
-
-    print("Updated meta.json")
+    try:
+        with open(meta_file, "w") as f:
+            json.dump(data, f, indent=2)
+        print(f"Updated {meta_file}")
+    except Exception as e:
+        print(f"Error writing to {meta_file}: {str(e)}")
+    
     print("Time taken: " + str(end_time - start_time))
     print("Cards processed: " + str(cards_processed))
     print("Cards found: " + str(total_cards))
