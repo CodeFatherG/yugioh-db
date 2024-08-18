@@ -1,0 +1,22 @@
+{
+    "id": 32617464,
+    "name": "Tri-Gate Wizard",
+    "type": "Link Monster",
+    "desc": "2+ monsters, except Tokens\r\nThis card gains these effects based on the number of monsters co-linked to this card.\r\n\u25cf 1+: If a monster co-linked to this card battles your opponent's monster, any battle damage it inflicts to your opponent is doubled.\r\n\u25cf 2+: Once per turn: You can target 1 card on the field; banish it.\r\n\u25cf 3: Once per turn, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, banish that card.",
+    "atk": 2200,
+    "def": null,
+    "level": null,
+    "race": "Cyberse",
+    "attribute": "EARTH",
+    "scale": null,
+    "archetype": null,
+    "linkval": 3,
+    "linkmarkers": [
+        "Top",
+        "Left",
+        "Right"
+    ],
+    "image_url": "https://images.ygoprodeck.com/images/cards/32617464.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32617464.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32617464.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "id": 91557476,
+    "name": "Sunvine Thrasher",
+    "type": "Link Monster",
+    "desc": "1 Plant Normal Monster\r\nIf a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. If this card is Special Summoned: You can target 1 \"Sunavalon\" Link Monster on the field; this card gains ATK equal to that monster's Link Rating x 800. When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon that monster to your zone a Link Monster points to, but negate its effects.",
+    "atk": 800,
+    "def": null,
+    "level": null,
+    "race": "Plant",
+    "attribute": "EARTH",
+    "scale": null,
+    "archetype": "Sunvine",
+    "linkval": 1,
+    "linkmarkers": [
+        "Bottom"
+    ],
+    "image_url": "https://images.ygoprodeck.com/images/cards/91557476.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91557476.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91557476.jpg"
+}

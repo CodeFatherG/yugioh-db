@@ -1,0 +1,23 @@
+{
+    "id": 29479265,
+    "name": "Unchained Abomination",
+    "type": "Link Monster",
+    "desc": "2+ monsters including a Link Monster\r\nIf a card(s) on the field is destroyed by card effect, except by \"Unchained Abomination\" (except during the Damage Step): You can target 1 card on the field; destroy it. When another monster is destroyed by battle: You can target 1 card on the field; destroy it. During the End Phase: You can target 1 card on the field; destroy it. You can only use each effect of \"Unchained Abomination\" once per turn.",
+    "atk": 3000,
+    "def": null,
+    "level": null,
+    "race": "Fiend",
+    "attribute": "DARK",
+    "scale": null,
+    "archetype": "Unchained",
+    "linkval": 4,
+    "linkmarkers": [
+        "Top",
+        "Bottom-Left",
+        "Bottom",
+        "Bottom-Right"
+    ],
+    "image_url": "https://images.ygoprodeck.com/images/cards/29479265.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29479265.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29479265.jpg"
+}
