@@ -39,8 +39,42 @@ def process_card(card):
     })
     return card_info
 
+def get_image_hash_path(image_path):
+    return f"{os.path.splitext(image_path)[0]}.hash"
+
+async def get_image_hash_from_headers(session, image_url):
+    async with session.head(image_url) as response:
+        if response.status == 200:
+            last_modified = response.headers.get('Last-Modified')
+            content_length = response.headers.get('Content-Length')
+            
+            # Combine available header information
+            header_info = f"{last_modified}{content_length}"
+            
+            if header_info:
+                return hashlib.md5(header_info.encode()).hexdigest()
+    return None
+
+async def compare_image_hash(session, image_url, stored_hash):
+    new_hash = await get_image_hash_from_headers(session, image_url)
+    
+    # If we couldn't get a hash, assume the image has changed
+    if new_hash is None:
+        return False
+    
+    return new_hash == stored_hash
+
 async def download_image_async(session, image_url, image_path):
-    if os.path.exists(image_path):
+    hash_path = get_image_hash_path(image_path)
+    stored_hash = None
+    if os.path.exists(hash_path):
+        with open(hash_path, "r") as f:
+            stored_hash = f.read().strip()
+
+    new_hash = await get_image_hash_from_headers(session, image_url)
+
+    if stored_hash and new_hash and stored_hash == new_hash:
+        print(f"\tImage unchanged: {image_url}")
         return
 
     print(f"\tDownloading {image_url} to {image_path}")
@@ -51,20 +85,19 @@ async def download_image_async(session, image_url, image_path):
             end_time = datetime.now()
             response_time = end_time - start_time
             
-            if response_time.total_seconds() >= 1:
-                response_time_str = f"{response_time.total_seconds():.2f}s"
-            else:
-                response_time_str = f"{response_time.total_seconds() * 1000:.2f}ms"
-            
             if response.status != 200:
-                print(f"Failed to download image {image_url}: {response.status} ({response_time_str})")
+                print(f"Failed to download image {image_url}: {response.status} ({response_time})")
                 return
             
             content = await response.read()
             with open(image_path, "wb") as f:
                 f.write(content)
         
-        print(f"\tDownloaded {image_url} to {image_path} ({response_time_str})")
+            if new_hash:
+                with open(hash_path, "w") as f:
+                    f.write(new_hash)
+        
+        print(f"\tDownloaded {image_url} to {image_path} ({response_time})")
     
     except Exception as e:
         print(f"Error downloading {image_url}: {str(e)}")
@@ -74,11 +107,11 @@ async def download_images_async(session, card):
     image_dir = os.path.join(get_card_path(card_id), "images")
     os.makedirs(image_dir, exist_ok=True)
 
-    tasks = [
-        download_image_async(session, card['image_url'], os.path.join(image_dir, "full.jpg")),
-        download_image_async(session, card['image_url_small'], os.path.join(image_dir, "small.jpg")),
-        download_image_async(session, card['image_url_cropped'], os.path.join(image_dir, "cropped.jpg"))
-    ]
+    tasks = []
+    for image_type, url_key in [("full", 'image_url'), ("small", 'image_url_small'), ("cropped", 'image_url_cropped')]:
+        image_path = os.path.join(image_dir, f"{image_type}.jpg")
+        tasks.append(download_image_async(session, card[url_key], image_path))
+    
     await asyncio.gather(*tasks)
 
 def save_card_info(card):
