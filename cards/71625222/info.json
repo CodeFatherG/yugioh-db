@@ -1,0 +1,18 @@
+{
+    "id": 71625222,
+    "name": "Time Wizard",
+    "type": "Effect Monster",
+    "desc": "Once per turn: You can toss a coin and call it. If you call it right, destroy all monsters your opponent controls. If you call it wrong, destroy as many monsters you control as possible, and if you do, take damage equal to half the total ATK those destroyed monsters had while face-up on the field.",
+    "atk": 500,
+    "def": 400,
+    "level": 2,
+    "race": "Spellcaster",
+    "attribute": "LIGHT",
+    "scale": null,
+    "archetype": "Magician",
+    "linkval": null,
+    "linkmarkers": null,
+    "image_url": "https://images.ygoprodeck.com/images/cards/71625222.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71625222.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71625222.jpg"
+}

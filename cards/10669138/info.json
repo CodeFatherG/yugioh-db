@@ -1,0 +1,24 @@
+{
+    "id": 10669138,
+    "name": "Five-Headed Link Dragon",
+    "type": "Link Monster",
+    "desc": "5 monsters\r\nMust be Link Summoned. If this card is Link Summoned using DARK, EARTH, WATER, FIRE, and WIND Attributes: You can destroy all cards your opponent controls. Cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster. Unaffected by other cards' effects. Once per turn, during your opponent's End Phase: You must banish 5 cards from your GY face-down (this is not optional), or send this card to the GY.",
+    "atk": 5000,
+    "def": null,
+    "level": null,
+    "race": "Dragon",
+    "attribute": "DARK",
+    "scale": null,
+    "archetype": null,
+    "linkval": 5,
+    "linkmarkers": [
+        "Left",
+        "Right",
+        "Bottom-Left",
+        "Bottom",
+        "Bottom-Right"
+    ],
+    "image_url": "https://images.ygoprodeck.com/images/cards/10669138.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10669138.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10669138.jpg"
+}

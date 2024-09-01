@@ -1,0 +1,21 @@
+{
+    "id": 30741503,
+    "name": "Galatea, the Orcust Automaton",
+    "type": "Link Monster",
+    "desc": "2 Effect Monsters, including an \"Orcust\" monster\r\nThis linked card cannot be destroyed by battle. You can target 1 of your banished Machine monsters; shuffle it into the Deck, then you can Set 1 \"Orcust\" Spell/Trap directly from your Deck. You can only use this effect of \"Galatea, the Orcust Automaton\" once per turn.",
+    "atk": 1800,
+    "def": null,
+    "level": 0,
+    "race": "Machine",
+    "attribute": "DARK",
+    "scale": null,
+    "archetype": "Orcust",
+    "linkval": 2,
+    "linkmarkers": [
+        "Top-Right",
+        "Bottom-Left"
+    ],
+    "image_url": "https://images.ygoprodeck.com/images/cards/30741503.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30741503.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30741503.jpg"
+}

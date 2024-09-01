@@ -1,10 +1,58 @@
 [
-    {
-        "triggered_time": "2024-08-18T16:25:09.295175",
-        "completed_time": "2024-08-18T16:53:35.634565",
-        "time_taken": "0:28:26.339390",
-        "cards_processed": 13303,
-        "cards_found": 13303,
-        "cards_added": 13303
-    }
+  {
+    "triggered_time": "2024-08-18T16:25:09.295175",
+    "completed_time": "2024-08-18T16:53:35.634565",
+    "time_taken": "0:28:26.339390",
+    "cards_processed": 13303,
+    "cards_found": 13303,
+    "cards_added": 13303
+  },
+  {
+    "triggered_time": "2024-08-18T08:51:10.829725",
+    "completed_time": "2024-08-18T08:53:54.956931",
+    "time_taken": "0:02:44.127206",
+    "cards_processed": 5000,
+    "cards_found": 13303,
+    "cards_added": 5000
+  },
+  {
+    "triggered_time": "2024-08-18T08:59:21.169395",
+    "completed_time": "2024-08-18T08:59:21.877795",
+    "time_taken": "0:00:00.708400",
+    "cards_processed": 5000,
+    "cards_found": 13303,
+    "cards_added": 0
+  },
+  {
+    "triggered_time": "2024-08-18T09:02:29.097378",
+    "completed_time": "2024-08-18T09:02:55.175027",
+    "time_taken": "0:00:26.077649",
+    "cards_processed": 10000,
+    "cards_found": 13303,
+    "cards_added": 5000
+  },
+  {
+    "triggered_time": "2024-08-18T09:09:13.461417",
+    "completed_time": "2024-08-18T09:10:34.712274",
+    "time_taken": "0:01:21.250857",
+    "cards_processed": 13303,
+    "cards_found": 13303,
+    "cards_added": 3303
+  },
+  {
+    "triggered_time": "2024-08-25T00:42:20.441165",
+    "completed_time": "2024-08-25T00:42:22.901101",
+    "time_taken": "0:00:02.459936",
+    "cards_processed": 13308,
+    "cards_found": 13308,
+    "cards_added": 5
+  },
+  {
+    "triggered_time": "2024-09-01T00:47:15.834770",
+    "completed_time": "2024-09-01T00:47:18.343426",
+    "time_taken": "0:00:02.508656",
+    "cards_processed": 13308,
+    "cards_found": 13308,
+    "cards_added": 27
+  }
 ]

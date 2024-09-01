@@ -1,0 +1,21 @@
+{
+    "id": 37129797,
+    "name": "Vampire Sucker",
+    "type": "Link Monster",
+    "desc": "2 Zombie monsters\r\nIf you would Tribute a monster(s) for a Tribute Summon, you can Tribute a Zombie monster(s) your opponent controls, even though you do not control them. You can only use each of the following effects of \"Vampire Sucker\" once per turn.\r\n\u25cf You can target 1 monster in your opponent's GY; Special Summon it to your opponent's field in Defense Position, but it becomes a Zombie monster.\r\n\u25cf If a Zombie monster(s) is Special Summoned from either GY: Draw 1 card.",
+    "atk": 1600,
+    "def": null,
+    "level": 0,
+    "race": "Zombie",
+    "attribute": "DARK",
+    "scale": null,
+    "archetype": "Vampire",
+    "linkval": 2,
+    "linkmarkers": [
+        "Bottom-Left",
+        "Bottom-Right"
+    ],
+    "image_url": "https://images.ygoprodeck.com/images/cards/37129797.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37129797.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37129797.jpg"
+}

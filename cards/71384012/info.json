@@ -1,0 +1,21 @@
+{
+    "id": 71384012,
+    "name": "Wee Witch's Apprentice",
+    "type": "Link Monster",
+    "desc": "2 DARK monsters\r\nAll DARK monsters on the field gain 500 ATK/DEF, also all LIGHT monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 DARK monster in your GY; add it to your hand. You can only use this effect of \"Wee Witch's Apprentice\" once per turn.",
+    "atk": 1400,
+    "def": null,
+    "level": 0,
+    "race": "Spellcaster",
+    "attribute": "DARK",
+    "scale": null,
+    "archetype": null,
+    "linkval": 2,
+    "linkmarkers": [
+        "Bottom-Left",
+        "Bottom-Right"
+    ],
+    "image_url": "https://images.ygoprodeck.com/images/cards/71384012.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71384012.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71384012.jpg"
+}

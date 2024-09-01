@@ -1,5 +1,4 @@
 name: Weekly Download
-
 on:
   schedule:
     - cron: "0 0 * * 0" # Every Sunday at 00:00
@@ -28,7 +27,9 @@ jobs:
     - name: Run Download
       run: |
         if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.card_count }}" ]; then
-          python ./main.py --card-count ${{ github.event.inputs.card_count }}
+          # Convert to integer by removing decimal part
+          card_count=$(echo "${{ github.event.inputs.card_count }}" | awk '{print int($1)}')
+          python ./main.py --card-count $card_count
         else
           python ./main.py
         fi

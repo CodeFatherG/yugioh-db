@@ -1,0 +1,18 @@
+{
+    "id": 62893810,
+    "name": "Dicelops",
+    "type": "Effect Monster",
+    "desc": "Once per turn: You can roll a six-sided die, then apply the result.\n\u25cf 1: Look at your opponent's hand, also discard 1 card from their hand.\n\u25cf 2, 3, 4, 5: Discard 1 card.\n\u25cf 6: Discard your entire hand.",
+    "atk": 1800,
+    "def": 200,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "FIRE",
+    "scale": null,
+    "archetype": null,
+    "linkval": null,
+    "linkmarkers": null,
+    "image_url": "https://images.ygoprodeck.com/images/cards/62893810.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62893810.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62893810.jpg"
+}

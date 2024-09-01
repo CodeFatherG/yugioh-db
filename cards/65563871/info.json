@@ -1,0 +1,20 @@
+{
+    "id": 65563871,
+    "name": "Sunvine Healer",
+    "type": "Link Monster",
+    "desc": "1 Plant Normal Monster\r\nIf a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. If this card is Special Summoned: You can target 1 \"Sunavalon\" Link Monster on the field; gain LP equal to its Link Rating x 300. When your Plant Link Monster inflicts battle damage to your opponent: You can gain 600 LP.",
+    "atk": 600,
+    "def": null,
+    "level": null,
+    "race": "Plant",
+    "attribute": "EARTH",
+    "scale": null,
+    "archetype": "Sunvine",
+    "linkval": 1,
+    "linkmarkers": [
+        "Top"
+    ],
+    "image_url": "https://images.ygoprodeck.com/images/cards/65563871.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65563871.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65563871.jpg"
+}

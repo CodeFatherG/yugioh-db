@@ -1,0 +1,21 @@
+{
+    "id": 46935289,
+    "name": "Herald of Mirage Lights",
+    "type": "Link Monster",
+    "desc": "2 monsters with the same Type and Attribute, except Tokens\r\nWhen a Spell/Trap Card or effect is activated (Quick Effect): You can send 1 Fairy monster from your hand to the GY; negate the activation, and if you do, destroy it. If this card in your possession is sent to your GY by an opponent's card: You can add up to 2 Ritual Monsters and/or Ritual Spells with different names from your GY to your hand. You can only use each effect of \"Herald of Mirage Lights\" once per turn.",
+    "atk": 600,
+    "def": null,
+    "level": null,
+    "race": "Fairy",
+    "attribute": "LIGHT",
+    "scale": null,
+    "archetype": "Herald",
+    "linkval": 2,
+    "linkmarkers": [
+        "Bottom-Left",
+        "Bottom-Right"
+    ],
+    "image_url": "https://images.ygoprodeck.com/images/cards/46935289.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46935289.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46935289.jpg"
+}

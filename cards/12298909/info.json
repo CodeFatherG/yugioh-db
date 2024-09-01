@@ -1,0 +1,18 @@
+{
+    "id": 12298909,
+    "name": "Prime Material Dragon",
+    "type": "Effect Monster",
+    "desc": "Any effect that would inflict damage to a player increases their Life Points by the same amount, instead. During either player's turn, when a card or effect is activated that would destroy a monster(s) on the field: You can send 1 card from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
+    "atk": 2400,
+    "def": 2000,
+    "level": 6,
+    "race": "Dragon",
+    "attribute": "LIGHT",
+    "scale": null,
+    "archetype": null,
+    "linkval": null,
+    "linkmarkers": null,
+    "image_url": "https://images.ygoprodeck.com/images/cards/12298909.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12298909.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12298909.jpg"
+}

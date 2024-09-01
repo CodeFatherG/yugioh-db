@@ -1,0 +1,18 @@
+{
+    "id": 52339733,
+    "name": "Lindbloom",
+    "type": "Effect Monster",
+    "desc": "If a monster you control battles an opponent's monster, during damage calculation: The ATK of each monster in that battle becomes equal to their current DEF, until the end of the Damage Step.",
+    "atk": 0,
+    "def": 1800,
+    "level": 4,
+    "race": "Wyrm",
+    "attribute": "EARTH",
+    "scale": null,
+    "archetype": null,
+    "linkval": null,
+    "linkmarkers": null,
+    "image_url": "https://images.ygoprodeck.com/images/cards/52339733.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52339733.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52339733.jpg"
+}
