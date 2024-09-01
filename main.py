@@ -127,7 +127,7 @@ def store_hash(card):
     with open(hash_path, "w") as w:
         w.write(card_hash)
 
-def compare_hash(card) -> bool:
+def compare_info_hash(card) -> bool:
     card_id = card['id']
     card_hash = hash(json.dumps(card, sort_keys=True))
     hash_path = os.path.join(get_card_path(card_id), "hash.txt")
@@ -136,6 +136,31 @@ def compare_hash(card) -> bool:
     with open(hash_path, "r") as r:
         old_hash = r.read()
     return card_hash == old_hash
+
+async def check_image_hash(session, image_url, image_path):
+    hash_path = get_image_hash_path(image_path)
+    stored_hash = None
+    if os.path.exists(hash_path):
+        with open(hash_path, "r") as f:
+            stored_hash = f.read().strip()
+
+    new_hash = await get_image_hash_from_headers(session, image_url)
+
+    if stored_hash and new_hash and stored_hash == new_hash:
+        return True
+    return False
+
+async def check_all_image_hashes(session, card):
+    card_id = card['id']
+    image_dir = os.path.join(get_card_path(card_id), "images")
+    
+    all_images_unchanged = True
+    for image_type, url_key in [("full", 'image_url'), ("small", 'image_url_small'), ("cropped", 'image_url_cropped')]:
+        image_path = os.path.join(image_dir, f"{image_type}.jpg")
+        image_unchanged = await check_image_hash(session, card[url_key], image_path)
+        all_images_unchanged = all_images_unchanged and image_unchanged
+
+    return all_images_unchanged
 
 async def sync_card_async(session, card):
     save_card_info(card)
@@ -183,24 +208,30 @@ def update_meta_json(start_time, end_time, cards_processed, total_cards, cards_a
     print("Cards found: " + str(total_cards))
     print("Cards added: " + str(cards_added))
 
-async def process_batch(session, batch, semaphore, total_processed, total_to_process):
-    async def process_single_card(card):
-        async with semaphore:
-            try:
-                card_info = process_card(card)
-                if not compare_hash(card_info):
-                    await sync_card_async(session, card_info)
-                    return True
-            except Exception as e:
-                print(f"Error processing card {card['name']}: {e}")
-        return False
+async def process_single_card(session, card, semaphore):
+    async with semaphore:
+        try:
+            card_info = process_card(card)
+            info_hash_match = compare_info_hash(card_info)
+            image_hashes_match = await check_all_image_hashes(session, card_info)
 
-    tasks = [asyncio.create_task(process_single_card(card)) for card in batch]
+            if not (info_hash_match and image_hashes_match):
+                await sync_card_async(session, card_info)
+                return True
+            else:
+                print(f"\tCard {card_info['name']} unchanged, skipping...")
+                return False
+        except Exception as e:
+            print(f"Error processing card {card['name']}: {e}")
+            return False
+
+async def process_batch(session, batch, semaphore, total_processed, total_to_process):
+    tasks = [asyncio.create_task(process_single_card(session, card, semaphore)) for card in batch]
     results = await asyncio.gather(*tasks)
     cards_added = sum(results)
     
     total_processed += len(batch)
-    print(f"Processed {total_processed}/{total_to_process} cards. Added {cards_added} new cards.")
+    print(f"Processed {total_processed}/{total_to_process} cards. Added or updated {cards_added} cards.")
     
     return cards_added, total_processed
 
