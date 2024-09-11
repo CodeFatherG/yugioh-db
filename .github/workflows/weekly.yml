@@ -20,10 +20,12 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: "3.12.3"
+        
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+
     - name: Run Download
       run: |
         if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.card_count }}" ]; then
@@ -33,12 +35,25 @@ jobs:
         else
           python ./main.py
         fi
-    - name: Commit changes
+
+    - name: Configure Git
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
+    
+    - name: Commit changes
+      run: |
         git add cards/
         git add meta.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update dataset: $(date +'%Y-%m-%d %H:%M')" && git push)
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        git add dist/
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update dataset and build: $(date +'%Y-%m-%d %H:%M')")
+    
+    - name: Install SSH key
+      uses: webfactory/ssh-agent@v0.5.0
+      with:
+        ssh-private-key: ${{ secrets.ACTION_DEPLOY_KEY }}
+
+    - name: Push changes
+      run: |
+        git remote set-url origin git@github.com:${{ github.repository }}.git
+        git push origin HEAD:${{ github.ref }}
