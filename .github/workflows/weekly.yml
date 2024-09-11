@@ -45,7 +45,6 @@ jobs:
       run: |
         git add cards/
         git add meta.json
-        git add dist/
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update dataset and build: $(date +'%Y-%m-%d %H:%M')")
     
     - name: Install SSH key
