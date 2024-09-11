@@ -51,18 +51,8 @@ async def get_image_hash_from_headers(session, image_url):
             # Combine available header information
             header_info = f"{last_modified}{content_length}"
             
-            if header_info:
-                return hashlib.md5(header_info.encode()).hexdigest()
+            return header_info
     return None
-
-async def compare_image_hash(session, image_url, stored_hash):
-    new_hash = await get_image_hash_from_headers(session, image_url)
-    
-    # If we couldn't get a hash, assume the image has changed
-    if new_hash is None:
-        return False
-    
-    return new_hash == stored_hash
 
 async def download_image_async(session, image_url, image_path):
     hash_path = get_image_hash_path(image_path)
@@ -148,6 +138,8 @@ async def check_image_hash(session, image_url, image_path):
 
     if stored_hash and new_hash and stored_hash == new_hash:
         return True
+    
+    print(f"\tStored hash: '{stored_hash}' different to new hash: '{new_hash}'")
     return False
 
 async def check_all_image_hashes(session, card):
