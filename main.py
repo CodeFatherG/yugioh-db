@@ -167,7 +167,7 @@ async def sync_card_async(session, card):
     await download_images_async(session, card)
     store_hash(card)
 
-def update_meta_json(start_time, end_time, cards_processed, total_cards, cards_added):
+def update_meta_json(start_time, end_time, cards_processed, total_cards, updated_cards):
     meta_file = "meta.json"
     entry = {
         "triggered_time": start_time.isoformat(),
@@ -175,11 +175,11 @@ def update_meta_json(start_time, end_time, cards_processed, total_cards, cards_a
         "time_taken": str(end_time - start_time),
         "cards_processed": cards_processed,
         "cards_found": total_cards,
-        "cards_added": cards_added
+        "cards_updated": len(updated_cards),
+        "updated_cards": updated_cards
     }
     
     if os.path.exists(meta_file):
-        # File exists, try to read it
         try:
             with open(meta_file, "r") as f:
                 data = json.load(f)
@@ -190,7 +190,6 @@ def update_meta_json(start_time, end_time, cards_processed, total_cards, cards_a
             print(f"Error reading {meta_file}: {str(e)}. Starting with empty data.")
             data = []
     else:
-        # File doesn't exist, start with an empty list
         print(f"{meta_file} doesn't exist. Creating new file.")
         data = []
     
@@ -206,7 +205,7 @@ def update_meta_json(start_time, end_time, cards_processed, total_cards, cards_a
     print("Time taken: " + str(end_time - start_time))
     print("Cards processed: " + str(cards_processed))
     print("Cards found: " + str(total_cards))
-    print("Cards added: " + str(cards_added))
+    print("Cards updated: " + str(len(updated_cards)))
 
 async def process_single_card(session, card, semaphore):
     async with semaphore:
@@ -217,23 +216,23 @@ async def process_single_card(session, card, semaphore):
 
             if not (info_hash_match and image_hashes_match):
                 await sync_card_async(session, card_info)
-                return True
+                return card_info['name']  # Return the name of the updated card
             else:
                 print(f"\tCard {card_info['name']} unchanged, skipping...")
-                return False
+                return None
         except Exception as e:
             print(f"Error processing card {card['name']}: {e}")
-            return False
+            return None
 
 async def process_batch(session, batch, semaphore, total_processed, total_to_process):
     tasks = [asyncio.create_task(process_single_card(session, card, semaphore)) for card in batch]
     results = await asyncio.gather(*tasks)
-    cards_added = sum(results)
+    updated_cards = [card for card in results if card is not None]
     
     total_processed += len(batch)
-    print(f"Processed {total_processed}/{total_to_process} cards. Added or updated {cards_added} cards.")
+    print(f"Processed {total_processed}/{total_to_process} cards. Added or updated {len(updated_cards)} cards.")
     
-    return cards_added, total_processed
+    return updated_cards, total_processed
 
 async def main_async():
     parser = argparse.ArgumentParser(description='Download Yu-Gi-Oh! card data')
@@ -254,15 +253,15 @@ async def main_async():
 
     start_time = datetime.now()
     
-    cards_added = 0
+    all_updated_cards = []
     total_processed = 0
     semaphore = asyncio.Semaphore(10)  # Limit concurrent operations
 
     async with aiohttp.ClientSession() as session:
         for i in range(0, cards_to_process, batch_size):
             batch = cardinfo_json["data"][i:i+batch_size]
-            batch_added, total_processed = await process_batch(session, batch, semaphore, total_processed, cards_to_process)
-            cards_added += batch_added
+            batch_updated, total_processed = await process_batch(session, batch, semaphore, total_processed, cards_to_process)
+            all_updated_cards.extend(batch_updated)
             
             if total_processed >= cards_to_process:
                 break
@@ -273,7 +272,7 @@ async def main_async():
                      end_time, 
                      total_processed, 
                      len(cardinfo_json["data"]),
-                     cards_added)
-
+                     all_updated_cards)
+    
 if __name__ == "__main__":
     asyncio.run(main_async())
