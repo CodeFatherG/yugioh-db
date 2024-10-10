@@ -165,15 +165,12 @@ async def process_single_card(session, card, semaphore) -> str | None:
             print(f"Error processing card {card['name']}: {e}")
             return None
 
-async def process_batch(session, batch, semaphore, total_processed, total_to_process):
+async def process_batch(session, batch, semaphore):
     tasks = [asyncio.create_task(process_single_card(session, card, semaphore)) for card in batch]
     results = await asyncio.gather(*tasks)
     updated_cards = [card for card in results if card is not None]
-    
-    total_processed += len(batch)
-    print(f"Processed {total_processed}/{total_to_process} cards. Added or updated {len(updated_cards)} cards.")
-    
-    return updated_cards, total_processed
+        
+    return updated_cards
 
 async def main_async():
     parser = argparse.ArgumentParser(description='Download Yu-Gi-Oh! card data')
@@ -187,7 +184,8 @@ async def main_async():
         response = await session.get("https://db.ygoprodeck.com/api/v7/cardinfo.php")
         cardinfo_json = await response.json()
 
-    cards_to_process = min(args.card_count or len(cardinfo_json["data"]), len(cardinfo_json["data"]))
+    card_count = len(cardinfo_json["data"])
+    cards_to_process = min(args.card_count or card_count, card_count)
     batch_size = args.batch_size
 
     print(f"Processing {cards_to_process} cards in batches of {batch_size}...")
@@ -199,12 +197,15 @@ async def main_async():
     semaphore = asyncio.Semaphore(10)  # Limit concurrent operations
 
     async with aiohttp.ClientSession() as session:
-        for i in range(0, cards_to_process, batch_size):
+        for i in range(0, card_count, batch_size):
             batch = cardinfo_json["data"][i:i+batch_size]
-            batch_updated, total_processed = await process_batch(session, batch, semaphore, total_processed, cards_to_process)
+            batch_updated = await process_batch(session, batch, semaphore)
             all_updated_cards.extend(batch_updated)
+
+            total_processed += len(batch)
+            print(f"Processed {total_processed}/{card_count} cards. Added or updated {len(batch_updated)} cards.")
             
-            if total_processed >= cards_to_process:
+            if (len(all_updated_cards) >= cards_to_process):
                 break
 
     end_time = datetime.now()
