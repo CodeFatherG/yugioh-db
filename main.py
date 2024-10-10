@@ -39,7 +39,7 @@ def process_card(card):
     })
     return card_info
 
-async def download_image_async(session, image_url, image_path):
+async def download_image_async(session, image_url, image_path) -> bool:
     print(f"\tDownloading {image_url} to {image_path}")
     start_time = datetime.now()
     
@@ -50,13 +50,24 @@ async def download_image_async(session, image_url, image_path):
             
             if response.status != 200:
                 print(f"Failed to download image {image_url}: {response.status} ({response_time})")
-                return
+                return False
             
             content = await response.read()
+
+            # Check if image already exists
+            if os.path.exists(image_path):
+                with open(image_path, "rb") as f:
+                    existing_content = f.read()
+                
+                if content == existing_content:
+                    print(f"\tImage {image_url} already exists at {image_path} ({response_time})")
+                    return False
+
             with open(image_path, "wb") as f:
                 f.write(content)
         
         print(f"\tDownloaded {image_url} to {image_path} ({response_time})")
+        return True
     
     except Exception as e:
         print(f"Error downloading {image_url}: {str(e)}")
@@ -71,17 +82,35 @@ async def download_images_async(session, card):
         image_path = os.path.join(image_dir, f"{image_type}.jpg")
         tasks.append(download_image_async(session, card[url_key], image_path))
     
-    await asyncio.gather(*tasks)
+    # Check if any image returned True (i.e. was downloaded)
+    if any(await asyncio.gather(*tasks)):
+        print("\tImages downloaded for " + card['name'])
+        return True
+    
+    return False
 
-def save_card_info(card):
+def save_card_info(card) -> bool:
     info_path = os.path.join(get_card_path(card['id']), "info.json")
+
+    # Check if card info already exists
+    if os.path.exists(info_path):
+        with open(info_path, "r") as r:
+            existing_card = json.load(r)
+        
+        if existing_card == card:
+            print("\tCard info already exists for " + card['name'])
+            return False
+
     print("\tSaving card info for " + card['name'])
     with open(info_path, "w") as w:
         json.dump(card, w, indent=4)
 
-async def sync_card_async(session, card):
-    save_card_info(card)
-    await download_images_async(session, card)
+    return True
+
+async def sync_card_async(session, card) -> bool:
+    info_saved = save_card_info(card)
+    image_saved = await download_images_async(session, card)
+    return info_saved or image_saved
 
 def update_meta_json(start_time, end_time, cards_processed, total_cards, updated_cards):
     meta_file = "meta.json"
@@ -123,12 +152,14 @@ def update_meta_json(start_time, end_time, cards_processed, total_cards, updated
     print("Cards found: " + str(total_cards))
     print("Cards updated: " + str(len(updated_cards)))
 
-async def process_single_card(session, card, semaphore):
+async def process_single_card(session, card, semaphore) -> str | None:
     async with semaphore:
         try:
             card_info = process_card(card)
-            await sync_card_async(session, card_info)
-            return card_info['name']  # Return the name of the updated card
+            card_saved = await sync_card_async(session, card_info)
+            if (card_saved):
+                return card_info['name']  # Return the name of the updated card
+            return None
         
         except Exception as e:
             print(f"Error processing card {card['name']}: {e}")
