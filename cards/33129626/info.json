@@ -1,18 +1,45 @@
 {
     "id": 33129626,
     "name": "Centaur Mina",
+    "typeline": [
+        "Beast-Warrior",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 LIGHT Warrior monster + 1 Beast monster\r\nOnce per turn, during your turn, when your opponent activates a Trap Card (Quick Effect): You can negate the activation, and if you do, Set that card. You can only use each of the following effects of \"Centaur Mina\" once per turn. During your Main Phase: You can Special Summon 1 Level 2 or lower monster from your hand or GY. If this card is sent to the GY as Synchro Material for a WIND Warrior monster: You can destroy 1 face-up monster on the field.",
+    "race": "Beast-Warrior",
     "atk": 2200,
     "def": 1600,
     "level": 6,
-    "race": "Beast-Warrior",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33129626.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33129626.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33129626.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/centaur-mina-12264",
+    "card_sets": [
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN020",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.11"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33129626,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33129626.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33129626.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33129626.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.10",
+            "amazon_price": "0.31",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

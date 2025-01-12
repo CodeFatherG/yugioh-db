@@ -2,17 +2,43 @@
     "id": 20590515,
     "name": "Conquistador of the Golden Land",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Special Summon this card as a Normal Monster (Zombie/LIGHT/Level 5/ATK 500/DEF 1800) (this card is also still a Trap), then, if you control \"Eldlich the Golden Lord\", you can destroy 1 face-up card on the field. During the End Phase: You can banish this card from your GY; Set 1 \"Eldlixir\" Spell/Trap directly from your Deck. You can only use 1 \"Conquistador of the Golden Land\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Golden Land",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/20590515.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20590515.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20590515.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/conquistador-of-the-golden-land-10906",
+    "card_sets": [
+        {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN054",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Secret Slayers",
+            "set_code": "SESL-EN034",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 20590515,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20590515.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20590515.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20590515.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.07",
+            "tcgplayer_price": "1.60",
+            "ebay_price": "1.85",
+            "amazon_price": "2.99",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

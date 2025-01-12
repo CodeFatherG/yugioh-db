@@ -2,17 +2,36 @@
     "id": 33499794,
     "name": "Nemleria Repeter",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "If you control another \"Nemleria\" card: You can banish the following number of cards from your Extra Deck face-down, except \"Dreaming Nemleria\", then activate the appropriate effect;\r\n\u25cf 1: Add 1 \"Nemleria\" card from your GY to your hand.\r\n\u25cf 2: Any damage you take this turn is halved.\r\n\u25cf 3: Send 1 Level 10 Beast monster you control to the GY, and if you do, negate the effects of all face-up monsters your opponent currently controls, until the end of this turn.\r\nYou can only use the effect of \"Nemleria Repeter\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Nemleria",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33499794.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33499794.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33499794.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nemleria-repeter-14022",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN077",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33499794,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33499794.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33499794.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33499794.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

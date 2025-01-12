@@ -1,18 +1,65 @@
 {
     "id": 32541773,
     "name": "The Portrait's Secret",
+    "typeline": [
+        "Fiend",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A portrait cursed by the artist, it is said to bring ill fortune to anyone who owns it.",
+    "race": "Fiend",
     "atk": 1200,
     "def": 1500,
     "level": 4,
-    "race": "Fiend",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32541773.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32541773.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32541773.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-portrait-s-secret-2766",
+    "card_sets": [
+        {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN246",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.84"
+        },
+        {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        },
+        {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32541773,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32541773.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32541773.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32541773.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "1.75",
+            "amazon_price": "1.12",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,18 +1,44 @@
 {
     "id": 13382806,
     "name": "Silvervine Senri",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute this card, then target 1 Level 2 monster in your GY, except \"Silvervine Senri\"; Special Summon it, then you can Special Summon 1 Level 2 monster from your hand with a different Attribute than the monster Special Summoned by this effect. You can only use this effect of \"Silvervine Senri\" once per turn.",
+    "race": "Beast",
     "atk": 0,
     "def": 0,
     "level": 2,
-    "race": "Beast",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/13382806.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13382806.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13382806.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/silvervine-senri-12754",
+    "card_sets": [
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.8"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 13382806,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13382806.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13382806.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13382806.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

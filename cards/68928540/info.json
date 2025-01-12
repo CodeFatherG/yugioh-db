@@ -1,18 +1,35 @@
 {
     "id": 68928540,
     "name": "Kamakiriman",
+    "typeline": [
+        "Insect",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A man-shaped mantis with two razor-sharp scythes.''",
+    "race": "Insect",
     "atk": 1150,
     "def": 1400,
     "level": 4,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68928540.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68928540.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68928540.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kamakiriman-5791",
+    "card_images": [
+        {
+            "id": 68928540,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68928540.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68928540.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68928540.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.21",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "5.60",
+            "amazon_price": "1.84",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

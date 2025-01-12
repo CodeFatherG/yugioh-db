@@ -1,18 +1,44 @@
 {
     "id": 99865167,
     "name": "Wind Effigy",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card can be treated as 2 Tributes for the Tribute Summon of a WIND Normal Monster.",
+    "race": "Winged Beast",
     "atk": 1800,
     "def": 200,
     "level": 4,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99865167.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99865167.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99865167.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wind-effigy-8289",
+    "card_sets": [
+        {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 99865167,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99865167.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99865167.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99865167.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

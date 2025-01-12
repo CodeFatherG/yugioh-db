@@ -1,14 +1,20 @@
 {
     "id": 34446231,
     "name": "Infernoid Flood",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ monsters, including an \"Infernoid\" monster\r\nWhen your opponent would Special Summon a monster(s) (Quick Effect): You can Tribute 1 monster; negate the Summon, and if you do, banish that monster(s). If a card(s) is banished from your GY (except during the Damage Step): You can banish 1 card on the field. If this Link Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 1 \"Infernoid\" monster from your Deck, ignoring its Summoning conditions. You can only use each effect of \"Infernoid Flood\" once per turn.",
+    "race": "Fiend",
     "atk": 3000,
     "def": null,
     "level": null,
-    "race": "Fiend",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Infernoid",
     "linkval": 4,
     "linkmarkers": [
@@ -17,7 +23,31 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/34446231.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34446231.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34446231.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/infernoid-flood-14244",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN014",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34446231,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34446231.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34446231.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34446231.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.15",
+            "tcgplayer_price": "1.39",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

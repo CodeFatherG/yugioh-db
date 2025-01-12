@@ -2,17 +2,42 @@
     "id": 39131963,
     "name": "Des Counterblow",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Destroy any monster that inflicts Battle Damage to a player's Life Points by attacking directly.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39131963.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39131963.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39131963.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/des-counterblow-3316",
+    "card_sets": [
+        {
+            "set_name": "Ancient Sanctuary",
+            "set_code": "AST-107",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.08"
+        },
+        {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN220",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39131963,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39131963.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39131963.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39131963.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.85",
+            "ebay_price": "4.00",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

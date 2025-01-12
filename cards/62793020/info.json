@@ -1,18 +1,35 @@
 {
     "id": 62793020,
     "name": "Mystery Hand",
+    "typeline": [
+        "Fiend",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''This monster twists reality and reaches between dimensions to attack its enemies.''",
+    "race": "Fiend",
     "atk": 500,
     "def": 500,
     "level": 2,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62793020.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62793020.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62793020.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mystery-hand-5303",
+    "card_images": [
+        {
+            "id": 62793020,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62793020.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62793020.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62793020.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "4.99",
+            "amazon_price": "1.98",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

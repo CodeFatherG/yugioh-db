@@ -1,18 +1,58 @@
 {
     "id": 40826495,
     "name": "Dissolverock",
+    "typeline": [
+        "Rock",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A monster born in the lava pits, it generates intense heat that can melt away its enemies.",
+    "race": "Rock",
     "atk": 900,
     "def": 1000,
     "level": 3,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/40826495.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40826495.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40826495.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dissolverock-3470",
+    "card_sets": [
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.75"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-E025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.46"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.33"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 40826495,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40826495.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40826495.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40826495.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "1.00",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

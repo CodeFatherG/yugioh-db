@@ -1,18 +1,45 @@
 {
     "id": 49027020,
     "name": "Traptrix Pudica",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Unaffected by the effects of \"Hole\" Normal Traps. You can only use each of the following effects of \"Traptrix Pudica\" once per turn. When this card is Normal Summoned: You can add 1 \"Traptrip Garden\" from your Deck to your hand. If this card is Special Summoned: You can target 1 Special Summoned monster your opponent controls; banish it, also during the next Standby Phase, your opponent can Special Summon 1 of their banished monsters.",
+    "race": "Plant",
     "atk": 900,
     "def": 1900,
     "level": 4,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Traptrix",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49027020.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49027020.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49027020.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-pudica-13592",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49027020,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49027020.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49027020.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49027020.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.48",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 4064925,
     "name": "Ancient Gear Advance",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: Add 1 \"Ancient Gear\" Spell/Trap from your Deck to your hand, except \"Ancient Gear Advance\". Once per turn: You can Tribute 1 monster; draw 1 card and apply this effect for the rest of this turn (even if this card leaves the field).\r\n\u25cf You can Normal Summon \"Ancient Gear Golem\", or Level 5 or higher monsters that mention it, without Tributing.\r\nYou cannot Set cards the turn you activate this card. You can only activate 1 \"Ancient Gear Advance\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ancient Gear",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4064925.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4064925.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4064925.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-advance-14294",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4064925,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4064925.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4064925.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4064925.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

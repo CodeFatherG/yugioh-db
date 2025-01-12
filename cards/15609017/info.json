@@ -2,17 +2,36 @@
     "id": 15609017,
     "name": "Shock Surprise",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Banish up to 2 \"Speedroid\" monsters from your Graveyard, then target that many cards on the field; destroy them.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Roid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15609017.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15609017.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15609017.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shock-surprise-1347",
+    "card_sets": [
+        {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN012",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.32"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 15609017,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15609017.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15609017.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15609017.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.47",
+            "ebay_price": "1.30",
+            "amazon_price": "2.79",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

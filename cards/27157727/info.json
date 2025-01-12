@@ -2,17 +2,36 @@
     "id": 27157727,
     "name": "Stronghold the Hidden Fortress",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Special Summon this card as an Effect Monster (Machine/EARTH/Level 4/ATK 0/DEF 2000) with the following effects (this card is also still a Trap).\r\n\u25cf Gains 1000 ATK for each \"Shining Sarcophagus\", and monster that mentions it, that you control.\r\n\u25cf Once per turn, when an opponent's monster declares an attack, while you control \"Shining Sarcophagus\": You can destroy that monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Shining Sarcophagus",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27157727.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27157727.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27157727.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/stronghold-the-hidden-fortress-14235",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27157727,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27157727.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27157727.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27157727.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

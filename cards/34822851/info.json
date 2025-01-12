@@ -2,17 +2,36 @@
     "id": 34822851,
     "name": "Infernoid Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as an \"Infernoid Token\".\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Fiend",
-    "attribute": null,
-    "scale": null,
     "archetype": "Infernoid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34822851.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34822851.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34822851.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/infernoid-token-2958",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 25",
+            "set_code": "OP25-EN027",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34822851,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34822851.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34822851.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34822851.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "45.00",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

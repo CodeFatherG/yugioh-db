@@ -1,18 +1,55 @@
 {
     "id": 47558785,
     "name": "Mild Turkey",
+    "typeline": [
+        "Winged Beast",
+        "Pendulum",
+        "Normal"
+    ],
     "type": "Pendulum Normal Monster",
+    "humanReadableCardType": "Pendulum Normal Monster",
+    "frameType": "normal_pendulum",
     "desc": "[ Pendulum Effect ] \nOnce per turn: You can roll a six-sided die. Until the end of this turn, reduce this card's Pendulum Scale by that number (min. 1).\n\n[ Monster Effect ] \n''The taste of victory will bowl you over.''",
+    "race": "Winged Beast",
+    "pend_desc": "Once per turn: You can roll a six-sided die. Until the end of this turn, reduce this card's Pendulum Scale by that number (min. 1).",
+    "monster_desc": "''The taste of victory will bowl you over.''",
     "atk": 1000,
     "def": 2000,
     "level": 4,
-    "race": "Winged Beast",
     "attribute": "FIRE",
     "scale": 7,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47558785.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47558785.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47558785.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mild-turkey-4059",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maximum Crisis",
+            "set_code": "MACR-EN095",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47558785,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47558785.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47558785.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47558785.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,51 @@
 {
     "id": 25131968,
     "name": "Ken the Warrior Dragon",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, at the end of the Battle Phase: Return this card from the field to the hand. You can only use each of the following effects of \"Ken the Warrior Dragon\" once per turn. During your Main Phase: You can Special Summon 1 \"Gen the Diamond Tiger\" from your hand or Deck to your opponent's field in Defense Position. If this card is Special Summoned by the effect of \"Gen the Diamond Tiger\": Your opponent draws 2 cards, then they discard 1 card.",
+    "race": "Warrior",
     "atk": 1300,
     "def": 1550,
     "level": 3,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25131968.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25131968.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25131968.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ken-the-warrior-dragon-14164",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN246",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN081",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25131968,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25131968.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25131968.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25131968.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

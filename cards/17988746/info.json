@@ -1,18 +1,51 @@
 {
     "id": 17988746,
     "name": "Parry Knights",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When you take battle damage from an opponent's attacking monster: You can Special Summon this card from your hand, then you can Special Summon 1 monster from your hand with ATK less than or equal to the damage you took.",
+    "race": "Warrior",
     "atk": 2300,
     "def": 2100,
     "level": 6,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17988746.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17988746.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17988746.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/parry-knights-8790",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN061",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN037",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17988746,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17988746.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17988746.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17988746.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

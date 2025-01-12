@@ -2,17 +2,35 @@
     "id": 17874674,
     "name": "Seal of Wickedness",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Once per turn, during your opponent's Standby Phase, select 1 face-up card on the field. The selected card's effect(s) is negated during that turn. During each of your Standby Phases, pay 500 Life Points or destroy this card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17874674.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17874674.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17874674.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/seal-of-wickedness-1552",
+    "card_sets": [
+        {
+            "set_name": "Stardust Overdrive",
+            "set_code": "SOVR-EN079",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17874674,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17874674.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17874674.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17874674.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.42",
+            "tcgplayer_price": "0.36",
+            "ebay_price": "2.50",
+            "amazon_price": "3.08",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

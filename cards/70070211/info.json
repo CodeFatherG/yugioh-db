@@ -2,17 +2,36 @@
     "id": 70070211,
     "name": "Joruri-P.U.N.K. Nashiwari Surprise",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 Set card your opponent controls, or, if you control a \"P.U.N.K.\" monster, you can target 1 face-up card your opponent controls instead; destroy it. You can only activate 1 \"Joruri-P.U.N.K. Nashiwari Surprise\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "P.U.N.K.",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70070211.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70070211.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70070211.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/joruri-p-u-n-k-nashiwari-surprise-12501",
+    "card_sets": [
+        {
+            "set_name": "The Grand Creators",
+            "set_code": "GRCR-EN012",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.03"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70070211,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70070211.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70070211.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70070211.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 66395299,
     "name": "Doppelganger",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "When you take damage from the effect of a monster your opponent controls, inflict the same amount of damage to your opponent.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/66395299.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66395299.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66395299.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/doppelganger-5573",
+    "card_sets": [
+        {
+            "set_name": "Crossroads of Chaos",
+            "set_code": "CSOC-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 66395299,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66395299.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66395299.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66395299.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,60 @@
 {
     "id": 9464441,
     "name": "Adamancipator Risen - Dragite",
+    "typeline": [
+        "Rock",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nDuring your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can return cards your opponent controls to the hand, up to the number of excavated Rock monsters, also place the excavated cards on the bottom of your Deck in any order. When your opponent activates a Spell/Trap Card or effect, while a WATER monster is in your GY (Quick Effect): You can negate the activation, and if you do, destroy it. You can only use each effect of \"Adamancipator Risen - Dragite\" once per turn.",
+    "race": "Rock",
     "atk": 3000,
     "def": 2200,
     "level": 8,
-    "race": "Rock",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Adamancipator",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9464441.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9464441.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9464441.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/adamancipator-risen-dragite-10860",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN232",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 25",
+            "set_code": "OP25-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Secret Slayers",
+            "set_code": "SESL-EN009",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9464441,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9464441.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9464441.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9464441.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "3.26",
+            "amazon_price": "4.82",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

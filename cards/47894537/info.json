@@ -1,18 +1,44 @@
 {
     "id": 47894537,
     "name": "Jongleur-Ghoul Illusionist",
+    "typeline": [
+        "Illusion",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A captivating street performer, who'll catch you off guard with his song and dance and hocus pocus attacks. Once his eyes start spinning, danger is impending, so make a run for it!''",
+    "race": "Illusion",
     "atk": 2000,
     "def": 0,
     "level": 4,
-    "race": "Illusion",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47894537.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47894537.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47894537.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jongleur-ghoul-illusionist-14222",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47894537,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47894537.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47894537.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47894537.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

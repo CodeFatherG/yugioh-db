@@ -1,21 +1,71 @@
 {
     "id": 52119435,
     "name": "Geonator Transverser",
+    "typeline": [
+        "Rock",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Effect Monsters\r\nThis linked card and monsters it points to cannot be destroyed by your opponent's card effects. If this card points to 2 monsters: You can switch control of those monsters. You can only use this effect of \"Geonator Transverser\" once per turn.",
+    "race": "Rock",
     "atk": 1200,
     "def": null,
     "level": null,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Top-Right",
         "Bottom-Left"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/52119435.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52119435.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52119435.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/geonator-transverser-11366",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN199",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 16",
+            "set_code": "OP16-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 16 (POR)",
+            "set_code": "OP16-PT010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Rage",
+            "set_code": "PHRA-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52119435,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52119435.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52119435.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52119435.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "1.01",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

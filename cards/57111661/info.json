@@ -2,17 +2,36 @@
     "id": 57111661,
     "name": "Maliss C TB-11",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "You can activate this card the turn it was Set, by banishing 1 face-up \"Maliss\" monster you control. Special Summon 1 \"Maliss\" monster from your Deck, or if your opponent controls 3 or more cards, you can Special Summon 1 \"Maliss\" Link Monster from your Extra Deck instead. For the rest of this turn, that Summoned monster cannot attack and neither player can activate its effects. You can only activate 1 \"Maliss TB-11\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Maliss",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57111661.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57111661.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57111661.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/maliss-c-tb-11-14677",
+    "card_sets": [
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN024",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57111661,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57111661.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57111661.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57111661.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

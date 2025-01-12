@@ -2,17 +2,42 @@
     "id": 48784854,
     "name": "Heritage of the Light",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "If a monster is Ritual, Fusion, Synchro, or Xyz Summoned, while a monster with the same card type (Ritual, Fusion, Synchro, or Xyz) is on the field: You can draw 1 card. You can only use this effect of \"Heritage of the Light\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48784854.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48784854.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48784854.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heritage-of-the-light-12900",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN186",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN000",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.84"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48784854,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48784854.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48784854.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48784854.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.02",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

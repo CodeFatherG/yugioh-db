@@ -2,17 +2,36 @@
     "id": 80044027,
     "name": "Mikanko Fire Dance",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "Special Summon 1 \"Mikanko\" monster from your hand or GY, and if you do, equip it with this card, then you can Special Summon 1 monster from your opponent's GY to their field, but negate its effects. The equipped monster cannot be destroyed by card effects. You can only activate 1 \"Mikanko Fire Dance\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
     "archetype": "Mikanko",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80044027.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80044027.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80044027.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mikanko-fire-dance-13430",
+    "card_sets": [
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN030",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80044027,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80044027.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80044027.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80044027.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.38",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

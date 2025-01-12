@@ -1,18 +1,53 @@
 {
     "id": 7700132,
     "name": "Worm Noble",
+    "typeline": [
+        "Reptile",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: If this card is flipped face-up by an opponent's monster's attack, inflict damage to your opponent equal to half the attacking monster's ATK.",
+    "race": "Reptile",
     "atk": 1500,
     "def": 2400,
     "level": 6,
-    "race": "Reptile",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Worm",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7700132.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7700132.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7700132.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/worm-noble-661",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN031",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 2",
+            "set_code": "HA02-EN025",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7700132,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7700132.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7700132.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7700132.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.35",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "2.00",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

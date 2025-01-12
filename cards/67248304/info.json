@@ -1,18 +1,53 @@
 {
     "id": 67248304,
     "name": "Reverse Jar",
+    "typeline": [
+        "Rock",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: Change as many other monsters on the field as possible to face-down Defense Position, then, return as many face-up Spells/Traps as possible from the field to the hand, then, each player can Set Spells/Traps from their hand, up to the number returned to their own hand by this effect. You can only use this effect of \"Reverse Jar\" once per turn.",
+    "race": "Rock",
     "atk": 800,
     "def": 900,
     "level": 3,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Jar",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/67248304.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67248304.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67248304.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/reverse-jar-13012",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN077",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.87"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 67248304,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67248304.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67248304.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67248304.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

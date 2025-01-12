@@ -2,17 +2,42 @@
     "id": 65993085,
     "name": "Overdone Burial",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "Activate this card by discarding 1 monster, then target 1 monster in your GY whose Level is lower than the discarded monster's original Level; Special Summon it and equip it with this card. The equipped monster has its effects negated. You can only activate 1 \"Overdone Burial\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65993085.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65993085.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65993085.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/overdone-burial-8705",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN143",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Circuit Break",
+            "set_code": "CIBR-EN063",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65993085,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65993085.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65993085.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65993085.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.99",
+            "amazon_price": "1.83",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

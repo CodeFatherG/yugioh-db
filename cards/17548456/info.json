@@ -1,18 +1,53 @@
 {
     "id": 17548456,
     "name": "Jurrac Meteor",
+    "typeline": [
+        "Dinosaur",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 \"Jurrac\" Tuner + 2 or more non-Tuner Dinosaur-Type monsters\nWhen this card is Synchro Summoned, destroy all cards on the field. Then, you can Special Summon 1 Tuner monster from your Graveyard.",
+    "race": "Dinosaur",
     "atk": 2800,
     "def": 2000,
     "level": 10,
-    "race": "Dinosaur",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Jurrac",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17548456.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17548456.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17548456.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-meteor-1526",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN041",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN029",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17548456,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17548456.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17548456.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17548456.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.86",
+            "tcgplayer_price": "1.77",
+            "ebay_price": "6.95",
+            "amazon_price": "1.78",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

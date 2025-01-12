@@ -2,17 +2,42 @@
     "id": 78864369,
     "name": "Soul Reversal",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Return 1 Flip Effect Monster from your Graveyard to the top of your Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/78864369.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78864369.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78864369.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/soul-reversal-6626",
+    "card_sets": [
+        {
+            "set_name": "Ancient Sanctuary",
+            "set_code": "AST-088",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.44"
+        },
+        {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN201",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 78864369,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78864369.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78864369.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78864369.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.95",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,58 @@
 {
     "id": 30655537,
     "name": "Cyber Falcon",
+    "typeline": [
+        "Machine",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A jet-powered hawk that travels at the speed of sound.",
+    "race": "Machine",
     "atk": 1400,
     "def": 1200,
     "level": 4,
-    "race": "Machine",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30655537.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30655537.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30655537.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-falcon-2607",
+    "card_sets": [
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.74"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-E047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "7.85"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30655537,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30655537.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30655537.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30655537.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "1.00",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

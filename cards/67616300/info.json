@@ -2,17 +2,45 @@
     "id": 67616300,
     "name": "Chicken Game",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "The player with the lowest LP takes no damage. Once per turn, during the Main Phase: The turn player can pay 1000 LP, then activate 1 of these effects;\n\u25cf Draw 1 card.\n\u25cf Destroy this card.\n\u25cf Your opponent gains 1000 LP.\nNeither player can activate cards or effects in response to this effect's activation.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/67616300.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67616300.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67616300.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chicken-game-5681",
+    "card_sets": [
+        {
+            "set_name": "Clash of Rebellions",
+            "set_code": "CORE-EN067",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 26",
+            "set_code": "OP26-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 67616300,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67616300.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67616300.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67616300.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.02",
+            "tcgplayer_price": "1.12",
+            "ebay_price": "3.99",
+            "amazon_price": "4.11",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

@@ -1,18 +1,53 @@
 {
     "id": 71921856,
     "name": "Number 79: Battlin' Boxer Nova Kaiser",
+    "typeline": [
+        "Warrior",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 4 monsters\nOnce per turn: You can attach 1 \"Battlin' Boxer\" monster from your hand or Graveyard to this card as an Xyz Material. This card gains 100 ATK for each Xyz Material attached to it. When this card you control is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target Level 4 or lower \"Battlin' Boxer\" monsters in your Graveyard, up to the number of Xyz Materials this card had on the field; Special Summon those targets.",
+    "race": "Warrior",
     "atk": 2300,
     "def": 1600,
     "level": 4,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Battlin' Boxer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71921856.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71921856.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71921856.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/number-79-battlin-boxer-nova-kaiser-6037",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN044",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "World Superstars",
+            "set_code": "WSUP-EN014",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71921856,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71921856.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71921856.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71921856.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.49",
+            "amazon_price": "1.45",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

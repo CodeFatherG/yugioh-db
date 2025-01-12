@@ -2,17 +2,43 @@
     "id": 59905358,
     "name": "Dice Try!",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "When your opponent activates a Spell/Trap Card, or monster effect, that requires a dice roll: Negate the activation, and if you do, destroy it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dice",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59905358.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59905358.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59905358.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dice-try-5090",
+    "card_sets": [
+        {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN272",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN080",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59905358,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59905358.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59905358.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59905358.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "1.49",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,58 @@
 {
     "id": 2980764,
     "name": "Consecrated Light",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Neither player can Normal or Special Summon DARK monsters or declare an attack with a DARK monster. This card cannot be destroyed by battle with a DARK monster, also you take no battle damage from that battle.",
+    "race": "Fairy",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2980764.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2980764.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2980764.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/consecrated-light-268",
+    "card_sets": [
+        {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN033",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Astral Pack Four",
+            "set_code": "AP04-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Lost Sanctuary Structure Deck",
+            "set_code": "SDLS-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.23"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2980764,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2980764.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2980764.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2980764.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.30",
+            "tcgplayer_price": "2.27",
+            "ebay_price": "1.99",
+            "amazon_price": "4.40",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

@@ -1,18 +1,44 @@
 {
     "id": 9107531,
     "name": "Electro Blaster",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you Normal or Special Summon a FIRE monster(s) (except during the Damage Step): You can Special Summon this card from your hand, then you can send 1 Level 8 Pyro monster from your Deck to the GY. You can only use this effect of \"Electro Blaster\" once per turn. Once per turn, if a Spell Card is activated (except during the Damage Step): You can make all FIRE monsters you currently control gain 300 ATK.",
+    "race": "Machine",
     "atk": 1800,
     "def": 1400,
     "level": 4,
-    "race": "Machine",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9107531.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9107531.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9107531.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/electro-blaster-14260",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN024",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9107531,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9107531.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9107531.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9107531.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

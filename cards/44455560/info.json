@@ -1,18 +1,52 @@
 {
     "id": 44455560,
     "name": "Fire King Courtier Ulcanix",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can destroy 1 other FIRE monster in your hand or face-up field, and if you do, add 1 FIRE Beast, Beast-Warrior, or Winged Beast monster from your Deck to your hand, except \"Fire King Courtier Ulcanix\", then you can make this card's Level become that added monster's. If this card is destroyed and sent to the GY: You can Special Summon 1 \"Fire King High Avatar Garunix\" from your Deck in Defense Position. You can only use each effect of \"Fire King Courtier Ulcanix\" once per turn.",
+    "race": "Winged Beast",
     "atk": 800,
     "def": 2000,
     "level": 4,
-    "race": "Winged Beast",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Fire King",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44455560.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44455560.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44455560.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fire-king-courtier-ulcanix-14350",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN098",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN098",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44455560,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44455560.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44455560.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44455560.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "15.25",
+            "tcgplayer_price": "9.37",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

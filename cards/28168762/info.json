@@ -1,20 +1,50 @@
 {
     "id": 28168762,
     "name": "Sunvine Gardna",
+    "typeline": [
+        "Plant",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 Plant Normal Monster\r\nIf a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. When an attack is declared involving this card, linked to a \"Sunavalon\" Link Monster, and an opponent's monster: You can activate this effect; the damage you take from that battle is halved. When this card is destroyed by battle: End the Battle Phase after the Damage Step.",
+    "race": "Plant",
     "atk": 600,
     "def": null,
     "level": null,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Sunvine",
     "linkval": 1,
     "linkmarkers": [
         "Top"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/28168762.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28168762.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28168762.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sunvine-gardna-11583",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN022",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.26"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28168762,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28168762.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28168762.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28168762.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.30",
+            "amazon_price": "2.83",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

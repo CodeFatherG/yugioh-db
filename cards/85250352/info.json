@@ -2,17 +2,36 @@
     "id": 85250352,
     "name": "Volcanic Blaze Accelerator",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Activate this card by sending 1 \"Blaze Accelerator\" from your hand, Deck, or face-up field to the GY. You can only control 1 \"Volcanic Blaze Accelerator\". Once per turn, during your Main Phase: You can Special Summon 1 \"Volcanic\" monster from your hand. Once per turn: You can target 1 face-up monster your opponent controls; send 1 Level 1 Pyro monster from your Deck to the GY, and if you do, destroy that monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Blaze Accelerator",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85250352.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85250352.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85250352.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/volcanic-blaze-accelerator-13843",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 85250352,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85250352.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85250352.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85250352.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.68",
+            "tcgplayer_price": "1.15",
+            "ebay_price": "5.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

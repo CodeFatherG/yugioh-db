@@ -2,17 +2,43 @@
     "id": 87497553,
     "name": "Crusadia Testament",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Activate 1 of these effects.\r\n\u25cf Your opponent cannot activate cards or effects in response to the activation of your \"Crusadia\" monster effects this turn.\r\n\u25cf After damage calculation, if your \"Crusadia\" Link Monster destroys an opponent's monster by battle: Draw cards equal to your monster's Link Rating.\r\nYou can only activate 1 \"Crusadia Testament\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Crusadia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/87497553.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87497553.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87497553.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crusadia-testament-10069",
+    "card_sets": [
+        {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN078",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.06"
+        },
+        {
+            "set_name": "Dark Neostorm",
+            "set_code": "DANE-EN061",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 87497553,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87497553.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87497553.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87497553.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 9069157,
     "name": "Dragonroid",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, if this card is in your GY: You can make this card become a Dragon monster while in the GY, until the end of this turn. You can discard this card, then activate 1 of these effects;\r\n\u25cf Add 1 non-WIND \"roid\" monster from your Deck to your hand.\r\n\u25cf This turn, the activation of your cards and effects that include an effect that Fusion Summons a Fusion Monster cannot be negated, also your opponent cannot activate cards or effects when a monster is Fusion Summoned this way.\r\nYou can only use this effect of \"Dragonroid\" once per turn.",
+    "race": "Machine",
     "atk": 2900,
     "def": 1000,
     "level": 8,
-    "race": "Machine",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "roid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9069157.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9069157.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9069157.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragonroid-12266",
+    "card_sets": [
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN011",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.51"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9069157,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9069157.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9069157.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9069157.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.28",
+            "ebay_price": "0.99",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

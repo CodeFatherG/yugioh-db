@@ -1,18 +1,53 @@
 {
     "id": 3918345,
     "name": "Magical Reflect Slime",
+    "typeline": [
+        "Aqua",
+        "Gemini",
+        "Effect"
+    ],
     "type": "Gemini Monster",
+    "humanReadableCardType": "Gemini Effect Monster",
+    "frameType": "effect",
     "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n\u25cf Your opponent takes all Battle Damage that you would have taken from a battle involving this card.",
+    "race": "Aqua",
     "atk": 700,
     "def": 1200,
     "level": 3,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Slime",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3918345.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3918345.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3918345.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/magical-reflect-slime-352",
+    "card_sets": [
+        {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENH08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3918345,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3918345.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3918345.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3918345.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "1.25",
+            "amazon_price": "52.85",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

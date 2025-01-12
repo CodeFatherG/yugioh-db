@@ -1,18 +1,44 @@
 {
     "id": 83819309,
     "name": "Cooling Embers",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If a player gains LP (except during the Damage Step): You can Special Summon this card from your hand. Once per turn, if a player gains LP while this card is in the Monster Zone (except during the Damage Step): You can make 1 player gain 1000 LP.",
+    "race": "Pyro",
     "atk": 500,
     "def": 1500,
     "level": 3,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83819309.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83819309.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83819309.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cooling-embers-14362",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83819309,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83819309.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83819309.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83819309.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

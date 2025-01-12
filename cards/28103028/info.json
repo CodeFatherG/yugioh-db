@@ -1,18 +1,35 @@
 {
     "id": 28103028,
     "name": "Ignihorse Dragonith",
+    "typeline": [
+        "Sea Serpent",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A draco-horse racing around freely upon the boiling sea. It continues to run on the water surface today in order to prevent its own flames from extinguishing. It dreams of one day setting foot upon its homeland.''",
+    "race": "Sea Serpent",
     "atk": 2400,
     "def": 1000,
     "level": 7,
-    "race": "Sea Serpent",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28103028.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28103028.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28103028.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ignihorse-dragonith-14572",
+    "card_images": [
+        {
+            "id": 28103028,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28103028.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28103028.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28103028.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

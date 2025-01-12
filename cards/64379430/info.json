@@ -1,18 +1,51 @@
 {
     "id": 64379430,
     "name": "Doomsday Horror",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card's ATK and DEF are equal to the number of banished DARK monsters x 300. If this card is destroyed and sent to the Graveyard: Return all banished DARK monsters to the Graveyards.",
+    "race": "Fiend",
     "atk": -1,
     "def": -1,
     "level": 4,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64379430.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64379430.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64379430.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/doomsday-horror-5434",
+    "card_sets": [
+        {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN049",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN022",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64379430,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64379430.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64379430.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64379430.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "2.99",
+            "amazon_price": "1.03",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

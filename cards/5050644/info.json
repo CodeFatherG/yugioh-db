@@ -2,17 +2,43 @@
     "id": 5050644,
     "name": "Aroma Garden",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "Once per turn, if you control an \"Aroma\" monster: You can gain 500 LP, also all monsters you control gain 500 ATK and DEF until the end of your opponent's next turn (even if this card leaves the field). If a face-up \"Aroma\" monster you control is destroyed by battle or card effect and sent to the Graveyard: Gain 1000 LP.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Aroma",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5050644.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5050644.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5050644.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/aroma-garden-449",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN086",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Clash of Rebellions",
+            "set_code": "CORE-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5050644,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5050644.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5050644.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5050644.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "4.00",
+            "amazon_price": "0.84",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

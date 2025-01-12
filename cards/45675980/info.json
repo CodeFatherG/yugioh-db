@@ -2,17 +2,43 @@
     "id": 45675980,
     "name": "Etude of the Branded",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "During either player's turn, you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using monsters you control as material, including a Dragon monster. You can only use this effect of \"Etude of the Branded\" once per turn. While you control a \"Bystial\" monster, banish any monsters that would be sent to your opponent's GY as Tributes for their Ritual Summon, or as material for their Fusion, Synchro, or Link Summon.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Branded",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45675980.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45675980.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45675980.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/etude-of-the-branded-13709",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN351",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45675980,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45675980.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45675980.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45675980.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

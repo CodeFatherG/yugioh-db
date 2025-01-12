@@ -1,18 +1,49 @@
 {
     "id": 92530005,
     "name": "Performage Ball Balancer",
+    "typeline": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nDuring your Main Phase: You can send 1 \"Performage\" Pendulum Monster from your face-up Extra Deck to the GY, then you can increase this card's Pendulum Scale by that sent monster's. You can only use this effect of \"Performage Ball Balancer\" once per turn.\n\n[ Monster Effect ] \nIf you control a \"Performage\" monster: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can activate 1 of these effects;\r\n\u25cf Add 1 \"Performage\" Pendulum Monster from your Deck to your face-up Extra Deck.\r\n\u25cf Destroy 1 \"Performage\" Monster Card you control.\r\nWhen an opponent's Special Summoned monster declares a direct attack: You can Special Summon this card from your GY. You can only use each effect of \"Performage Ball Balancer\" once per turn.",
+    "race": "Spellcaster",
+    "pend_desc": "During your Main Phase: You can send 1 \"Performage\" Pendulum Monster from your face-up Extra Deck to the GY, then you can increase this card's Pendulum Scale by that sent monster's. You can only use this effect of \"Performage Ball Balancer\" once per turn.",
+    "monster_desc": "If you control a \"Performage\" monster: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can activate 1 of these effects;\r\n\u25cf Add 1 \"Performage\" Pendulum Monster from your Deck to your face-up Extra Deck.\r\n\u25cf Destroy 1 \"Performage\" Monster Card you control.\r\nWhen an opponent's Special Summoned monster declares a direct attack: You can Special Summon this card from your GY. You can only use each effect of \"Performage Ball Balancer\" once per turn.",
     "atk": 1000,
     "def": 1800,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "EARTH",
-    "scale": 3,
     "archetype": "Performage",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92530005.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92530005.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92530005.jpg"
+    "scale": 3,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/performage-ball-balancer-14594",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92530005,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92530005.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92530005.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92530005.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

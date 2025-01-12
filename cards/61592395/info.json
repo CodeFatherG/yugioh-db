@@ -2,17 +2,43 @@
     "id": 61592395,
     "name": "Spellbook of Eternity",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 of your banished \"Spellbook\" Spell Cards, except \"Spellbook of Eternity\"; add that target to your hand. You can only activate 1 \"Spellbook of Eternity\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Spellbook",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/61592395.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61592395.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61592395.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spellbook-of-eternity-5215",
+    "card_sets": [
+        {
+            "set_name": "Abyss Rising",
+            "set_code": "ABYR-EN058",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Astral Pack Four",
+            "set_code": "AP04-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61592395,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61592395.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61592395.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61592395.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.47",
+            "tcgplayer_price": "0.48",
+            "ebay_price": "6.59",
+            "amazon_price": "0.71",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

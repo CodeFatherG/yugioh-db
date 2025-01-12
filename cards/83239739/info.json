@@ -1,18 +1,58 @@
 {
     "id": 83239739,
     "name": "Oyster Meister",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent from the field to the Graveyard, except when destroyed by battle: Special Summon 1 \"Oyster Token\" (Fish-Type/WATER/Level 1/ATK 0/DEF 0).",
+    "race": "Fish",
     "atk": 1600,
     "def": 200,
     "level": 3,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83239739.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83239739.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83239739.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/oyster-meister-6987",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 3",
+            "set_code": "OP03-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENC05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83239739,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83239739.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83239739.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83239739.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

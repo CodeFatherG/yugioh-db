@@ -2,17 +2,35 @@
     "id": 42560034,
     "name": "Night Flight",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 face-up monster you control; return that face-up monster to the hand, and if you do, for the rest of this turn, neither player can activate the effects of cards with the returned card's name.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42560034.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42560034.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42560034.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/night-flight-12503",
+    "card_sets": [
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.88"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42560034,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42560034.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42560034.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42560034.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

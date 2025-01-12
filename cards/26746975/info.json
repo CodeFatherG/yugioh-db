@@ -1,18 +1,45 @@
 {
     "id": 26746975,
     "name": "Dark Guardian",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "(This card is always treated as a \"Gate Guardian\" card.)\r\nCannot be Normal Summoned/Set. Must be either Special Summoned by \"Dark Element\", or Special Summoned (from your hand or GY) by shuffling into the Deck, 1 each of your \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\" that is in your hand, face-up field, GY, and/or banished. Cannot be destroyed by battle. If this card is Special Summoned by the effect of \"Dark Element\", it is unaffected by other monsters' effects or your opponent's activated Spell Cards or effects.",
+    "race": "Warrior",
     "atk": 3800,
     "def": 3800,
     "level": 12,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Guardian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/26746975.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26746975.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26746975.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-guardian-14186",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 26746975,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26746975.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26746975.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26746975.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,46 @@
 {
     "id": 98396890,
     "name": "Vision Resonator",
+    "typeline": [
+        "Fiend",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If a Level 5 or higher DARK monster is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Vision Resonator\" once per turn this way. If this card is sent to the GY: You can add 1 Spell/Trap that mentions \"Red Dragon Archfiend\" from your Deck to your hand. You can only use this effect of \"Vision Resonator\" once per turn.",
+    "race": "Fiend",
     "atk": 400,
     "def": 400,
     "level": 2,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Resonator",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98396890.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98396890.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98396890.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vision-resonator-13980",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98396890,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98396890.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98396890.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98396890.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.56",
+            "tcgplayer_price": "1.19",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

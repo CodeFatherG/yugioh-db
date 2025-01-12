@@ -2,17 +2,27 @@
     "id": 71645243,
     "name": "Rose Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Black Garden\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Plant",
-    "attribute": null,
-    "scale": null,
     "archetype": "Rose Dragon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71645243.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71645243.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71645243.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rose-token-6020",
+    "card_images": [
+        {
+            "id": 71645243,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71645243.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71645243.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71645243.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "15.70",
+            "amazon_price": "9.99",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

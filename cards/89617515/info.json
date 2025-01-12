@@ -1,18 +1,51 @@
 {
     "id": 89617515,
     "name": "Lifeless Leaffish",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Summoned: You can send 1 Fish monster from your Deck to the GY, except \"Lifeless Leaffish\". You can banish this card from your GY, then target 3 Fish monsters in your GY; shuffle those monsters into your Deck, then draw 1 card. You can only use each effect of \"Lifeless Leaffish\" once per turn.",
+    "race": "Fish",
     "atk": 1500,
     "def": 1600,
     "level": 4,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/89617515.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89617515.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89617515.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lifeless-leaffish-11024",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN122",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.93"
+        },
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN033",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 89617515,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89617515.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89617515.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89617515.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.38",
+            "ebay_price": "3.44",
+            "amazon_price": "3.99",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

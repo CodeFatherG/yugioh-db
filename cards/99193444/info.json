@@ -1,18 +1,52 @@
 {
     "id": 99193444,
     "name": "Poseidra, the Storming Atlantean",
+    "typeline": [
+        "Sea Serpent",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "While you control a monster, except \"Poseidra, the Storming Atlantean\", your opponent's monsters cannot target this card for attacks. You can only use each of the following effects of \"Poseidra, the Storming Atlantean\" once per turn. You can send 1 other WATER monster from your hand or face-up field to the GY; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can send 1 \"Atlantean\" or \"Mermail\" monster from your Deck to the GY, then target 1 card your opponent controls; return it to the hand.",
+    "race": "Sea Serpent",
     "atk": 2800,
     "def": 1600,
     "level": 7,
-    "race": "Sea Serpent",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Atlantean",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99193444.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99193444.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99193444.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/poseidra-the-storming-atlantean-14767",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN016",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN016",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 99193444,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99193444.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99193444.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99193444.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

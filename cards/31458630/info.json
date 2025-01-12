@@ -2,17 +2,36 @@
     "id": 31458630,
     "name": "Melodious Concerto",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Fusion Summon 1 Fairy Fusion Monster from your Extra Deck, using monsters from your hand, field, and/or Pendulum Zones. If a \"Melodious\" Fusion Monster(s) is sent to your GY while this card is in your GY, even during the Damage Step: You can place this card on the bottom of your Deck, then draw 1 card. You can only use each effect of \"Melodious Concerto\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Melodious",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31458630.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31458630.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31458630.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/melodious-concerto-14287",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31458630,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31458630.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31458630.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31458630.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

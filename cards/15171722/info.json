@@ -1,18 +1,52 @@
 {
     "id": 15171722,
     "name": "Evolsaur Lios",
+    "typeline": [
+        "Dinosaur",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can Set 1 \"Evolutionary Bridge\" or \"Evo-Singularity\" directly from your Deck. During your Main Phase, if you control this card that was Normal Summoned, or Special Summoned by the effect of a FIRE monster: You can send 1 FIRE Reptile or Dinosaur monster from your Deck to the GY, then you can make 2 monsters on the field become the same Type and Level as that monster sent to the GY. You can only use each effect of \"Evolsaur Lios\" once per turn.",
+    "race": "Dinosaur",
     "atk": 1600,
     "def": 400,
     "level": 4,
-    "race": "Dinosaur",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Evol",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15171722.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15171722.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15171722.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/evolsaur-lios-13788",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN214",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 15171722,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15171722.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15171722.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15171722.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

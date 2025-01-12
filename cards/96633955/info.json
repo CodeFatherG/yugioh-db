@@ -1,18 +1,53 @@
 {
     "id": 96633955,
     "name": "Swordsoul Supreme Sovereign - Chengying",
+    "typeline": [
+        "Wyrm",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nFor each banished card, this card gains 100 ATK/DEF and monsters your opponent controls lose 100 ATK/DEF. If this card would be destroyed by card effect, you can banish 1 card from your GY instead. If a card(s) is banished (except during the Damage Step): You can banish 1 card each from both your opponent's field and GY. You can only use this effect of \"Swordsoul Supreme Sovereign - Chengying\" once per turn.",
+    "race": "Wyrm",
     "atk": 3000,
     "def": 3000,
     "level": 10,
-    "race": "Wyrm",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Swordsoul",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96633955.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96633955.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96633955.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/swordsoul-supreme-sovereign-chengying-12463",
+    "card_sets": [
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN039",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96633955,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96633955.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96633955.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96633955.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "6.42",
+            "tcgplayer_price": "3.73",
+            "ebay_price": "1.99",
+            "amazon_price": "28.99",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

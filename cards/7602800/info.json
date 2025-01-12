@@ -2,17 +2,42 @@
     "id": 7602800,
     "name": "Black Feather Whirlwind",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Once per turn, if you Special Summon a DARK Synchro Monster from the Extra Deck (except during the Damage Step): You can target 1 of your \"Blackwing\" monsters, or \"Black-Winged Dragon\", that is banished or in your GY, with less ATK than that Special Summoned monster; Special Summon it. Once per turn, if a DARK monster you control would be destroyed by battle or card effect, you can remove 1 Black Feather Counter from your field instead.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7602800.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7602800.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7602800.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/black-feather-whirlwind-13272",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN195",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN052",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7602800,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7602800.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7602800.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7602800.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "1.00",
+            "amazon_price": "7.24",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

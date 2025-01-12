@@ -2,17 +2,36 @@
     "id": 34933456,
     "name": "Magistus Invocation",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material, including a Spellcaster monster. If Summoning a \"Magistus\" Fusion Monster this way, you can also use monsters in your Spell & Trap Zones that are equipped to a \"Magistus\" monster. You can only activate 1 \"Magistus Invocation\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Magistus",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34933456.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34933456.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34933456.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/magistus-invocation-11420",
+    "card_sets": [
+        {
+            "set_name": "Genesis Impact",
+            "set_code": "GEIM-EN011",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.35"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34933456,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34933456.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34933456.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34933456.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "4.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

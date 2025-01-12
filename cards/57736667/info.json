@@ -2,17 +2,43 @@
     "id": 57736667,
     "name": "Mikanko Dance - Mayowashidori",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "The equipped monster cannot be destroyed by card effects. You can only use each of the following effects of \"Mikanko Dance - Mayowashidori\" once per turn. At the end of the Damage Step, if your \"Mikanko\" monster battled: You can target 1 card on the field; return it to the hand. If this card is in your GY: You can target 1 \"Mikanko\" monster in your GY; Special Summon it, and if you do, equip it with this card, but banish it when it leaves the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
     "archetype": "Mikanko",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57736667.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57736667.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57736667.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mikanko-dance-mayowashidori-13660",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN348",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57736667,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57736667.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57736667.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57736667.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

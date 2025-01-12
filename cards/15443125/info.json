@@ -2,17 +2,46 @@
     "id": 15443125,
     "name": "Spright Starter",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Special Summon 1 \"Spright\" monster from your Deck, but lose LP equal to its original ATK, also for the rest of this turn after this card resolves, you cannot Special Summon, except Level/Rank/Link 2 monsters. You can only activate 1 \"Spright Starter\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Spright",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15443125.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15443125.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15443125.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spright-starter-13174",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN104",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN055",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 15443125,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15443125.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15443125.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15443125.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.99",
+            "tcgplayer_price": "3.12",
+            "ebay_price": "9.19",
+            "amazon_price": "17.99",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

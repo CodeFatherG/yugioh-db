@@ -1,18 +1,51 @@
 {
     "id": 88190453,
     "name": "Chain Thrasher",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card can attack 1 additional time during the same Battle Phase for each \"Chain Thrasher\" in your Graveyard.",
+    "race": "Warrior",
     "atk": 1000,
     "def": 600,
     "level": 4,
-    "race": "Warrior",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88190453.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88190453.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88190453.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chain-thrasher-7372",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN135",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.56"
+        },
+        {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88190453,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88190453.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88190453.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88190453.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.00",
+            "amazon_price": "1.39",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

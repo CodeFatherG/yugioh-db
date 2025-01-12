@@ -1,18 +1,46 @@
 {
     "id": 10591919,
     "name": "Morphtronic Scopen",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "\u25cf While in Attack Position: Once per turn, you can Special Summon 1 Level 4 \"Morphtronic\" monster from your hand. Destroy it during the End Phase.\n\u25cf While in Defense Position: While this card is in face-up Defense Position, it is Level 4.",
+    "race": "Machine",
     "atk": 800,
     "def": 1400,
     "level": 3,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Morphtronic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/10591919.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10591919.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10591919.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/morphtronic-scopen-917",
+    "card_sets": [
+        {
+            "set_name": "Raging Battle",
+            "set_code": "RGBT-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 10591919,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10591919.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10591919.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10591919.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "1.13",
+            "ebay_price": "2.07",
+            "amazon_price": "1.50",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

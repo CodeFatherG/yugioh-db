@@ -2,17 +2,36 @@
     "id": 35577420,
     "name": "Light Spiral",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Each time a card(s) is sent from your Deck to the Graveyard by the effect of a \"Lightsworn\" monster, remove from play the top card of your opponent's Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Lightsworn",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35577420.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35577420.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35577420.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/light-spiral-3016",
+    "card_sets": [
+        {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35577420,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35577420.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35577420.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35577420.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "1.75",
+            "amazon_price": "1.55",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

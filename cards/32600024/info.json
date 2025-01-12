@@ -1,18 +1,59 @@
 {
     "id": 32600024,
     "name": "Chamber Dragonmaid",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add 1 \"Dragonmaid\" Spell/Trap from your Deck to your hand. At the start of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 7 or higher \"Dragonmaid\" monster from your hand or GY. You can only use each effect of \"Chamber Dragonmaid\" once per turn.",
+    "race": "Dragon",
     "atk": 500,
     "def": 1800,
     "level": 4,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Dragonmaid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32600024.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32600024.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32600024.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chamber-dragonmaid-10828",
+    "card_sets": [
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN026",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN026",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN022",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32600024,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32600024.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32600024.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32600024.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "6.05",
+            "tcgplayer_price": "18.55",
+            "ebay_price": "8.98",
+            "amazon_price": "26.50",
+            "coolstuffinc_price": "9.99"
+        }
+    ]
 }

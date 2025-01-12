@@ -1,18 +1,44 @@
 {
     "id": 42427230,
     "name": "Division",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute all face-up \"Division(s)\" you control: Special Summon up to twice that many \"Machine Tokens\" (Machine/FIRE/Level 1/ATK 200/DEF 200), and each time 1 is destroyed, your opponent takes 500 damage. If this card is banished: You can target any number of Tokens you control; destroy them. You can only use each effect of \"Division\" once per turn.",
+    "race": "Machine",
     "atk": 200,
     "def": 200,
     "level": 2,
-    "race": "Machine",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42427230.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42427230.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42427230.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/division-14257",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN025",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42427230,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42427230.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42427230.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42427230.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

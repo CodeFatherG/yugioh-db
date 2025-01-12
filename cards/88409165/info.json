@@ -1,18 +1,44 @@
 {
     "id": 88409165,
     "name": "Abyss Warrior",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn: You can discard 1 WATER monster to the Graveyard, then target 1 monster in either player's Graveyard; return that target to either the top or bottom of the Deck.",
+    "race": "Aqua",
     "atk": 1800,
     "def": 1300,
     "level": 4,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88409165.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88409165.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88409165.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-warrior-7395",
+    "card_sets": [
+        {
+            "set_name": "Abyss Rising",
+            "set_code": "ABYR-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88409165,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88409165.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88409165.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88409165.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "4.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

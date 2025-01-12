@@ -1,18 +1,45 @@
 {
     "id": 69436288,
     "name": "Doom Kraken",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If \"Umi\" is on the field (Quick Effect): You can target 1 WATER monster you control, except \"Doom Kraken\", and 1 monster your opponent controls; Special Summon this card from your hand, and if you do, return that monster you control to the hand, and if you do that, destroy that opponent's monster. When an opponent's monster declares an attack: You can return this card to the hand, and if you do, negate that attack. You can only use each effect of \"Doom Kraken\" once per turn.",
+    "race": "Aqua",
     "atk": 1400,
     "def": 1600,
     "level": 4,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Umi",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/69436288.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69436288.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69436288.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/doom-kraken-12755",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Duels From the Deep",
+            "set_code": "LED9-EN018",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.49"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 69436288,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69436288.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69436288.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69436288.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "1.90",
+            "amazon_price": "1.09",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

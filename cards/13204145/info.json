@@ -2,17 +2,36 @@
     "id": 13204145,
     "name": "Mimighoul Maker",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Reveal 2 Flip monsters with different names from your Deck, your opponent randomly picks 1 for you to Special Summon to their field in face-down Defense Position, and you add the other to your hand, then you can Special Summon 1 \"Mimighoul\" monster from your hand. If your opponent Special Summons a monster(s) (except during the Damage Step): You can banish this card from your GY, then target 1 face-down monster your opponent controls; change it to face-up Attack or Defense Position. You can only use 1 \"Mimighoul Maker\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Mimighoul",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/13204145.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13204145.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13204145.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mimighoul-maker-14606",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN095",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 13204145,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13204145.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13204145.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13204145.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "0.49",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

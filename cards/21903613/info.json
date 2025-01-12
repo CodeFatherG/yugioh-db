@@ -1,21 +1,51 @@
 {
     "id": 21903613,
     "name": "Sylvan Dancepione",
+    "typeline": [
+        "Plant",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Plant monsters\r\nIf this card is Link Summoned: You can choose a number from 1 to 3 and excavate that many cards from the top of your Deck, and if you do, you can Special Summon up to 2 excavated Plant monsters, but they cannot be used as Link Material, also send the remaining cards to the GY. You can target 1 Plant monster in your GY that has a Level; the Levels of monsters this card points to become that monster's Level, until the end of this turn. You can only use each effect of \"Sylvan Dancepione\" once per turn.",
+    "race": "Plant",
     "atk": 1200,
     "def": null,
     "level": null,
-    "race": "Plant",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Sylvan",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/21903613.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21903613.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21903613.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sylvan-dancepione-13008",
+    "card_sets": [
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN051",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21903613,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21903613.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21903613.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21903613.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

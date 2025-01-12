@@ -2,17 +2,35 @@
     "id": 76500786,
     "name": "Star Power!!",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "During damage calculation, if your Link Monster battles an opponent's monster: Your monster gains ATK equal to the total Levels/Ranks of the monsters it points to x 400, during that damage calculation only. You can only activate 1 \"Star Power!!\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/76500786.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76500786.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76500786.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/star-power-10499",
+    "card_sets": [
+        {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN083",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 76500786,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76500786.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76500786.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76500786.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

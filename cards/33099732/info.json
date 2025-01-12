@@ -2,17 +2,27 @@
     "id": 33099732,
     "name": "Overload Future Fusion",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "You can activate 1 of these effects (but you can only use each effect of \"Overload Future Fusion\" once per turn);\r\n\u25cf Reveal 1 Fusion Monster in your Extra Deck and send 1 material whose name is mentioned on it from your Deck to the GY, but for the rest of this turn, you cannot Special Summon, nor activate the effects of, monsters with the same name as the one sent to the GY by this effect.\r\n\u25cf Fusion Summon 1 DARK Machine Fusion Monster from your Extra Deck, by banishing its materials from your GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Polymerization",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33099732.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33099732.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33099732.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/overload-future-fusion-14015",
+    "card_images": [
+        {
+            "id": 33099732,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33099732.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33099732.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33099732.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

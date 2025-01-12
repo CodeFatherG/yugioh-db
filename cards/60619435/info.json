@@ -2,17 +2,42 @@
     "id": 60619435,
     "name": "Giant Ballgame",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "During your Main Phase, if this card was activated this turn: You can Special Summon 1 Level 6 or lower Insect monster from your GY. You can reveal 1 Insect monster in your hand, then target 1 face-up monster your opponent controls, and 1 Insect monster you control with less ATK than the revealed monster; switch control of those monsters, and if you do, the monster you took control of becomes an Insect monster. You can only use 1 \"Giant Ballgame\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60619435.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60619435.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60619435.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/giant-ballgame-13542",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN325",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60619435,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60619435.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60619435.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60619435.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

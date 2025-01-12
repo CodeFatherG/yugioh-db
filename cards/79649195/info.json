@@ -2,17 +2,42 @@
     "id": 79649195,
     "name": "Armor Break",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "Negate the activation of an Equip Spell Card and destroy it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/79649195.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79649195.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79649195.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/armor-break-6679",
+    "card_sets": [
+        {
+            "set_name": "Ancient Sanctuary",
+            "set_code": "AST-055",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "1.51"
+        },
+        {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN167",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79649195,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79649195.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79649195.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79649195.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "1.00",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

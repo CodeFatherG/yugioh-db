@@ -2,17 +2,35 @@
     "id": 300101004,
     "name": "Royal Flush",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Yugi",
+    "frameType": "skill",
     "desc": "[Flip this card over when you activate this Skill.]\r\n\r\nOnce per turn, if you control \"Queen's Knight\", you can pay 1000 LP to Normal Summon 1 \"King's Knight\" in addition to your Normal Summon or Set. \"King's Knight\" and \"Jack's Knight\" you control cannot attack directly the turn you use this Skill.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Yugi",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300101004.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300101004.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300101004.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/royal-flush-10174",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel: Arena of Lost Souls",
+            "set_code": "SBLS-ENS04",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.63"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300101004,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300101004.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300101004.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300101004.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.42",
+            "tcgplayer_price": "0.53",
+            "ebay_price": "0.99",
+            "amazon_price": "1.77",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

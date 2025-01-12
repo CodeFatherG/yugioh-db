@@ -1,18 +1,53 @@
 {
     "id": 75771170,
     "name": "Arahime the Manifested Mikanko",
+    "typeline": [
+        "Fairy",
+        "Ritual",
+        "Effect"
+    ],
     "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
     "desc": "You can Ritual Summon this card with \"Mikanko Kagura\". Cannot be destroyed by battle, also your opponent takes any battle damage you would have taken from battles involving this card. If you have this card in your hand or GY, and another \"Mikanko\" card in your GY: You can target 1 face-up monster on the field; equip this card to it as an Equip Spell. You can only use this effect of \"Arahime the Manifested Mikanko\" once per turn. Once per turn, during the End Phase, while this card is equipped to a monster: You can return this card and the equipped monster to the hand.",
+    "race": "Fairy",
     "atk": 0,
     "def": 0,
     "level": 9,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Mikanko",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/75771170.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75771170.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75771170.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/arahime-the-manifested-mikanko-13864",
+    "card_sets": [
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN032",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN032",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 75771170,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75771170.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75771170.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75771170.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.63",
+            "tcgplayer_price": "0.42",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

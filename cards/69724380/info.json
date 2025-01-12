@@ -2,17 +2,35 @@
     "id": 69724380,
     "name": "Terrible Deal",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only by paying 1000 Life Points when your opponent activates a Spell Card. Your opponent discards 1 random card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/69724380.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69724380.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69724380.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/terrible-deal-5862",
+    "card_sets": [
+        {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 69724380,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69724380.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69724380.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69724380.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.39",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

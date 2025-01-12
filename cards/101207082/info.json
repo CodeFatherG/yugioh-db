@@ -1,18 +1,45 @@
 {
     "id": 101207082,
     "name": "Vulcarrion the Rotting Phoenix",
+    "typeline": [
+        "Zombie",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a Zombie monster: You can Special Summon this card from your hand. During your Main Phase: You can return this card from the field to the hand, then you can Special Summon 1 Zombie monster from your hand. You can only use each effect of \"Vulcarrion the Rotting Phoenix\" once per turn.",
+    "race": "Zombie",
     "atk": 1600,
     "def": 0,
     "level": 4,
-    "race": "Zombie",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/101207082.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101207082.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101207082.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vulcarrion-the-rotting-phoenix-14875",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN082",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 101207082,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101207082.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101207082.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101207082.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

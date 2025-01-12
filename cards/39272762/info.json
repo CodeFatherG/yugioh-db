@@ -1,18 +1,74 @@
 {
     "id": 39272762,
     "name": "Neo Galaxy-Eyes Photon Dragon",
+    "typeline": [
+        "Dragon",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "3 Level 8 monsters\r\nIf this card is Xyz Summoned using \"Galaxy-Eyes Photon Dragon\" as any of its materials: All other face-up cards currently on the field have their effects negated. Once per turn: You can detach 1 material from this card; detach all materials from monsters your opponent controls, then this card gains 500 ATK for each, also it can attack up to that many times during each Battle Phase this turn.",
+    "race": "Dragon",
     "atk": 4500,
     "def": 3000,
     "level": 8,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Galaxy-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39272762.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39272762.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39272762.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/neo-galaxy-eyes-photon-dragon-3332",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Light's Revenge",
+            "set_code": "BLLR-EN064",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Galactic Overlord",
+            "set_code": "GAOV-EN041",
+            "set_rarity": "Ghost Rare",
+            "set_rarity_code": "(GR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Galactic Overlord",
+            "set_code": "GAOV-EN041",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Galactic Overlord",
+            "set_code": "GAOV-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39272762,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39272762.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39272762.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39272762.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.34",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "5.95",
+            "amazon_price": "12.20",
+            "coolstuffinc_price": "4.99"
+        }
+    ]
 }

@@ -1,18 +1,44 @@
 {
     "id": 28565527,
     "name": "Golden Dragon Summoner",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute 1 monster, then target 1 monster on the field; return it to the hand. You can only use this effect of \"Golden Dragon Summoner\" once per turn.",
+    "race": "Spellcaster",
     "atk": 1000,
     "def": 1000,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28565527.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28565527.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28565527.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/golden-dragon-summoner-2430",
+    "card_sets": [
+        {
+            "set_name": "Super Starter: Space-Time Showdown",
+            "set_code": "YS14-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28565527,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28565527.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28565527.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28565527.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

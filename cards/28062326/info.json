@@ -2,17 +2,26 @@
     "id": 28062326,
     "name": "Plant Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Bamboo Scrap\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Plant",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28062326.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28062326.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28062326.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/plant-token-2388",
+    "card_images": [
+        {
+            "id": 28062326,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28062326.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28062326.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28062326.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "1.50",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

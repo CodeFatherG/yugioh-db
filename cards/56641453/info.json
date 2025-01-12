@@ -2,17 +2,36 @@
     "id": 56641453,
     "name": "Cocoon Veil",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate by Tributing 1 face-up \"Chrysalis\" monster. This turn, any damage to a player caused by an effect becomes 0. Special Summon 1 \"Neo-Spacian\" monster written on the \"Chrysalis\" monster you Tributed from your hand, Deck or from either player's Graveyard.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Chrysalis",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56641453.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56641453.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56641453.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cocoon-veil-4826",
+    "card_sets": [
+        {
+            "set_name": "Tactical Evolution",
+            "set_code": "TAEV-EN065",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56641453,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56641453.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56641453.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56641453.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "0.99",
+            "amazon_price": "1.29",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

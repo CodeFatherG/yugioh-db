@@ -1,18 +1,44 @@
 {
     "id": 15510988,
     "name": "Thunder Kid",
+    "typeline": [
+        "Thunder",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "This monster stores electricity within his body, and can unleash it with catastrophic power.",
+    "race": "Thunder",
     "atk": 700,
     "def": 600,
     "level": 2,
-    "race": "Thunder",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15510988.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15510988.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15510988.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/thunder-kid-1336",
+    "card_sets": [
+        {
+            "set_name": "Champion Pack: Game One",
+            "set_code": "CP01-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "8.5"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 15510988,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15510988.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15510988.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15510988.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.56",
+            "tcgplayer_price": "2.56",
+            "ebay_price": "59.99",
+            "amazon_price": "8.81",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

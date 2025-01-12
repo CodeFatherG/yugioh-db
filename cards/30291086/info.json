@@ -1,18 +1,52 @@
 {
     "id": 30291086,
     "name": "Mental Tuner",
+    "typeline": [
+        "Psychic",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "You can activate 1 of these effects;\r\n\u25cf Banish up to 1 LIGHT and up to 1 DARK monster from your hand and/or GY; increase or decrease this card's Level by the exact number banished, until the end of this turn.\r\n\u25cf Target up to 2 of your banished monsters (1 LIGHT and/or 1 DARK); return them to the GY, and if you do, increase or decrease this card's Level by the exact number returned, until the end of this turn.\r\nYou can only use this effect of \"Mental Tuner\" once per turn.",
+    "race": "Psychic",
     "atk": 200,
     "def": 2100,
     "level": 3,
-    "race": "Psychic",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30291086.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30291086.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30291086.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mental-tuner-13478",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN310",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30291086,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30291086.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30291086.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30291086.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

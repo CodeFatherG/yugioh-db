@@ -1,18 +1,58 @@
 {
     "id": 7019529,
     "name": "Insect Soldiers of the Sky",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card attacks a WIND monster, it gains 1000 ATK during the Damage Step only.",
+    "race": "Insect",
     "atk": 1000,
     "def": 800,
     "level": 3,
-    "race": "Insect",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7019529.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7019529.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7019529.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/insect-soldiers-of-the-sky-601",
+    "card_sets": [
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-101",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.62"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E101",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "8.28"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN101",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7019529,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7019529.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7019529.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7019529.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

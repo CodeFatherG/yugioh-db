@@ -1,18 +1,51 @@
 {
     "id": 86893702,
     "name": "Anotherverse Gluttonia",
+    "typeline": [
+        "Fiend",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A massive, malevolent monstrosity, devourer of diverse dimensions, who molds multiple domains where only the mightiest dare dwell.''",
+    "race": "Fiend",
     "atk": 2500,
     "def": 2000,
     "level": 8,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/86893702.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86893702.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86893702.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/anotherverse-gluttonia-14135",
+    "card_sets": [
+        {
+            "set_name": "Yu-Gi-Oh! Championship Series 2023 prize card",
+            "set_code": "YCSW-EN014",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Yu-Gi-Oh! Championship Series 2023 prize card",
+            "set_code": "YCSW-EN014",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 86893702,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86893702.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86893702.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86893702.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "391.75",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

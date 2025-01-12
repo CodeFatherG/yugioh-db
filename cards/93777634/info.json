@@ -1,18 +1,53 @@
 {
     "id": 93777634,
     "name": "Number 39: Utopia Rising",
+    "typeline": [
+        "Warrior",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 4 monsters\r\nIf this card is Special Summoned: You can target 1 \"Number\" Xyz Monster in your GY, except \"Number 39: Utopia Rising\"; Special Summon it in Defense Position, then you can detach all materials from this card and attach them to that monster. If you Xyz Summon (except during the Damage Step): You can Special Summon this card from your GY, but banish it when it leaves the field. You can only use each effect of \"Number 39: Utopia Rising\" once per turn.",
+    "race": "Warrior",
     "atk": 0,
     "def": 2000,
     "level": 4,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Number",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93777634.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93777634.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93777634.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/number-39-utopia-rising-13087",
+    "card_sets": [
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN021",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93777634,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93777634.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93777634.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93777634.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.99",
+            "amazon_price": "16.50",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

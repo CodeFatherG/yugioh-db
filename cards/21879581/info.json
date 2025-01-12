@@ -2,17 +2,42 @@
     "id": 21879581,
     "name": "Synchro Barrier",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Tribute 1 Synchro Monster you control. You do not take any damage until the End Phase of the next turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21879581.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21879581.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21879581.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/synchro-barrier-1883",
+    "card_sets": [
+        {
+            "set_name": "Duelist Pack: Yusei 3",
+            "set_code": "DP10-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Stardust Overdrive",
+            "set_code": "SOVR-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21879581,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21879581.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21879581.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21879581.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "1.12",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

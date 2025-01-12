@@ -1,18 +1,53 @@
 {
     "id": 41902352,
     "name": "Blackwing - Kochi the Daybreak",
+    "typeline": [
+        "Winged Beast",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card was Special Summoned, it cannot be used as a Synchro Material.",
+    "race": "Winged Beast",
     "atk": 700,
     "def": 1500,
     "level": 4,
-    "race": "Winged Beast",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Blackwing",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/41902352.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41902352.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41902352.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blackwing-kochi-the-daybreak-3574",
+    "card_sets": [
+        {
+            "set_name": "Duelist Pack: Crow",
+            "set_code": "DP11-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN130",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.46"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 41902352,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41902352.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41902352.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41902352.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

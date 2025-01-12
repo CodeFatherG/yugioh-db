@@ -2,17 +2,42 @@
     "id": 82452993,
     "name": "Lone Wolf",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Activate only if the 1 and only monster on your side of the field is \"Chu-Ske the Mouse Fighter\", \"Monk Fighter\", or \"Master Monk\". That monster cannot be destroyed as a result of battle, and is unaffected by any of your opponent's monster effects.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/82452993.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82452993.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82452993.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lone-wolf-6932",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN240",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Lost Millennium",
+            "set_code": "TLM-EN060",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 82452993,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82452993.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82452993.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82452993.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

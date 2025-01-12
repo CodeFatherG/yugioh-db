@@ -1,18 +1,44 @@
 {
     "id": 35752363,
     "name": "Vermillion Sparrow",
+    "typeline": [
+        "Pyro",
+        "Fusion"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Monster",
+    "frameType": "fusion",
     "desc": "\"Rhaimundos of the Red Sword\" + \"Fireyarou\"",
+    "race": "Pyro",
     "atk": 1900,
     "def": 1500,
     "level": 5,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35752363.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35752363.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35752363.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vermillion-sparrow-3026",
+    "card_sets": [
+        {
+            "set_name": "Astral Pack Eight",
+            "set_code": "AP08-EN021",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "5.6"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35752363,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35752363.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35752363.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35752363.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "5.27",
+            "tcgplayer_price": "6.64",
+            "ebay_price": "10.00",
+            "amazon_price": "3.88",
+            "coolstuffinc_price": "4.99"
+        }
+    ]
 }

@@ -1,18 +1,51 @@
 {
     "id": 76722334,
     "name": "Capshell",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can only use 1 of the following effects of \"Capshell\" per turn, and only once that turn.\r\n\u25cf If this card is Tributed: You can draw 1 card.\r\n\u25cf If this card is used as material for a Fusion, Synchro, or Link Summon: You can draw 1 card.\r\n\u25cf If this card is detached from an Xyz Monster to activate that monster's effect: You can draw 1 card.",
+    "race": "Fiend",
     "atk": 0,
     "def": 0,
     "level": 2,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/76722334.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76722334.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76722334.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/capshell-10496",
+    "card_sets": [
+        {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN101",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.17"
+        },
+        {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN000",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 76722334,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76722334.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76722334.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76722334.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "3.00",
+            "amazon_price": "3.69",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

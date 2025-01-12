@@ -2,17 +2,36 @@
     "id": 64038662,
     "name": "Variable Form",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Once per turn, you can activate 1 of these effects.\n\u25cf Target 2 face-up \"Inzektor\" monsters you control; equip one to the other.\n\u25cf Target 1 \"Inzektor\" monster you control that is an Equip Card; Special Summon that target in face-up Defense Position.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Inzektor",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64038662.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64038662.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64038662.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/variable-form-5404",
+    "card_sets": [
+        {
+            "set_name": "Order of Chaos",
+            "set_code": "ORCS-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64038662,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64038662.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64038662.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64038662.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

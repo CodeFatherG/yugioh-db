@@ -1,18 +1,49 @@
 {
     "id": 14105623,
     "name": "Odd-Eyes Arc Pendulum Dragon",
+    "typeline": [
+        "Dragon",
+        "Pendulum",
+        "Normal"
+    ],
     "type": "Pendulum Normal Monster",
+    "humanReadableCardType": "Pendulum Normal Monster",
+    "frameType": "normal_pendulum",
     "desc": "[ Pendulum Effect ] \nIf an \"Odd-Eyes\" card(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Odd-Eyes\" monster from your hand, Deck, or GY. You can only use this effect of \"Odd-Eyes Arc Pendulum Dragon\" once per turn.\n\n[ Monster Effect ] \n''Made from miracles, this valiant and beautiful dragon has gleaming eyes that reflect an arc drawn in the sky.''",
+    "race": "Dragon",
+    "pend_desc": "If an \"Odd-Eyes\" card(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Odd-Eyes\" monster from your hand, Deck, or GY. You can only use this effect of \"Odd-Eyes Arc Pendulum Dragon\" once per turn.",
+    "monster_desc": "''Made from miracles, this valiant and beautiful dragon has gleaming eyes that reflect an arc drawn in the sky.''",
     "atk": 2700,
     "def": 2000,
     "level": 7,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": 8,
     "archetype": "-Eyes Dragon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14105623.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14105623.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14105623.jpg"
+    "scale": 8,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/odd-eyes-arc-pendulum-dragon-8981",
+    "card_sets": [
+        {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENC00",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "9.99"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14105623,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14105623.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14105623.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14105623.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "2.30",
+            "ebay_price": "11.95",
+            "amazon_price": "59.99",
+            "coolstuffinc_price": "11.99"
+        }
+    ]
 }

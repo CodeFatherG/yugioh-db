@@ -1,18 +1,97 @@
 {
     "id": 6728559,
     "name": "Archnemeses Protos",
+    "typeline": [
+        "Wyrm",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 monsters with different Attributes from your GY and/or face-up field. Cannot be destroyed by card effects. You can declare 1 monster Attribute on the field; destroy all monsters on the field with that Attribute, also until the end of the next turn, neither player can Special Summon monsters with that Attribute. You can only use this effect of \"Archnemeses Protos\" once per turn.",
+    "race": "Wyrm",
     "atk": 2500,
     "def": 3000,
     "level": 11,
-    "race": "Wyrm",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Nemeses",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6728559.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6728559.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6728559.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/archnemeses-protos-10836",
+    "card_sets": [
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN008",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN023",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN023",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN023",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN023",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN023",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN023",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 6728559,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6728559.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6728559.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6728559.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "8.06",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

@@ -2,17 +2,42 @@
     "id": 72060415,
     "name": "Deep Sea Aria",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Banish 1 WATER monster from your GY; add 1 Level 4 or lower Sea Serpent monster from your Deck to your hand. You can only activate 1 \"Deep Sea Aria\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/72060415.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72060415.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72060415.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/deep-sea-aria-10769",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN076",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN061",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 72060415,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72060415.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72060415.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72060415.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "1.19",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

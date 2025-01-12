@@ -1,18 +1,52 @@
 {
     "id": 6556909,
     "name": "Red-Eyes Soul",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card's name becomes \"Red-Eyes Black Dragon\" while on the field or in the GY. If your opponent Special Summons a monster(s) (except during the Damage Step): You can send this card from your hand or field to the GY; Special Summon 1 \"Red-Eyes\" monster from your hand or Deck, except \"Red-Eyes Soul\". You can only use this effect of \"Red-Eyes Soul\" once per turn. (Quick Effect): You can target 1 \"Red-Eyes Black Dragon\" you control; inflict damage to your opponent equal to that monster's original ATK. You can only use this effect of \"Red-Eyes Soul\" once per Duel.",
+    "race": "Dragon",
     "atk": 900,
     "def": 2000,
     "level": 7,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Red-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6556909.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6556909.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6556909.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/red-eyes-soul-13039",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN260",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN012",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6556909,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6556909.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6556909.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6556909.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.42",
+            "ebay_price": "1.50",
+            "amazon_price": "1.47",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

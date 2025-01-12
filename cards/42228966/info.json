@@ -2,17 +2,35 @@
     "id": 42228966,
     "name": "Battlefield Tragedy",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "During your Main Phase 2, if no monsters battled each other this turn: You can discard 1 card; Set 1 \"Battlefield Tragedy\" directly from your Deck to your Spell & Trap Zone. You can only use this effect of \"Battlefield Tragedy\" once per turn. Once per turn, during the End Phase, if any monsters battled each other this turn: The turn player sends 5 cards from the top of their Deck to the GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42228966.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42228966.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42228966.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/battlefield-tragedy-12926",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN018",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42228966,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42228966.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42228966.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42228966.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "1.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 66457407,
     "name": "Copy Plant",
+    "typeline": [
+        "Plant",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn: You can target 1 other Plant-Type monster on the field that has a Level; this card's Level becomes that monster's current Level, until the end of this turn.",
+    "race": "Plant",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Plant",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/66457407.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66457407.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66457407.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/copy-plant-5580",
+    "card_sets": [
+        {
+            "set_name": "Astral Pack Five",
+            "set_code": "AP05-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossroads of Chaos",
+            "set_code": "CSOC-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 66457407,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66457407.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66457407.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66457407.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "2.50",
+            "amazon_price": "1.38",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

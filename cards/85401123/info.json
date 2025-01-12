@@ -1,18 +1,45 @@
 {
     "id": 85401123,
     "name": "Mokomoko",
+    "typeline": [
+        "Illusion",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: Draw 1 card.\r\nDuring your Main Phase: You can change this card to face-down Defense Position.\r\nYou can only use each of the preceding effects of \"Mokomoko\" once per turn. If this card battles a monster, neither can be destroyed by that battle.",
+    "race": "Illusion",
     "atk": 300,
     "def": 300,
     "level": 1,
-    "race": "Illusion",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85401123.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85401123.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85401123.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mokomoko-14221",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 85401123,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85401123.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85401123.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85401123.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

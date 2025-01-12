@@ -1,18 +1,53 @@
 {
     "id": 9709452,
     "name": "Gaia Blaze, the Force of the Sun",
+    "typeline": [
+        "Pyro",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this attacking card destroys an opponent's monster by battle: It can make a second attack in a row. Once per turn, at the end of the Battle Phase: You can target FIRE monsters in your GY up to the number of monsters this card destroyed by battle this turn; add them to your hand.",
+    "race": "Pyro",
     "atk": 2600,
     "def": 2100,
     "level": 7,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Gaia Knight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9709452.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9709452.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9709452.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gaia-blaze-the-force-of-the-sun-13826",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN369",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9709452,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9709452.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9709452.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9709452.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

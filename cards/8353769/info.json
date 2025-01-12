@@ -1,18 +1,35 @@
 {
     "id": 8353769,
     "name": "Air Eater",
+    "typeline": [
+        "Fiend",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A monster that feeds on oxygen, suffocating any who stand near.''",
+    "race": "Fiend",
     "atk": 2100,
     "def": 1600,
     "level": 6,
-    "race": "Fiend",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8353769.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8353769.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8353769.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/air-eater-710",
+    "card_images": [
+        {
+            "id": 8353769,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8353769.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8353769.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8353769.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.18",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "5.00",
+            "amazon_price": "119.87",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

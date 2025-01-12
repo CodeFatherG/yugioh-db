@@ -1,18 +1,45 @@
 {
     "id": 64689404,
     "name": "Sword Breaker",
+    "typeline": [
+        "Warrior",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 6 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to declare 1 Monster Type; this card gains the following effect. At the start of the Damage Step, if this card battles a monster of a Type that has been declared: Destroy that monster.",
+    "race": "Warrior",
     "atk": 2700,
     "def": 1000,
     "level": 6,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64689404.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64689404.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64689404.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sword-breaker-5459",
+    "card_sets": [
+        {
+            "set_name": "Return of the Duelist",
+            "set_code": "REDU-EN050",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64689404,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64689404.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64689404.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64689404.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.53",
+            "tcgplayer_price": "0.34",
+            "ebay_price": "1.64",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

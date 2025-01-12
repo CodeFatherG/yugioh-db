@@ -1,18 +1,44 @@
 {
     "id": 32872833,
     "name": "Parsec, the Interstellar Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a Level 8 monster, you can Normal Summon this card without Tributing.",
+    "race": "Dragon",
     "atk": 800,
     "def": 800,
     "level": 8,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32872833.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32872833.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32872833.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/parsec-the-interstellar-dragon-2798",
+    "card_sets": [
+        {
+            "set_name": "Lord of the Tachyon Galaxy",
+            "set_code": "LTGY-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32872833,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32872833.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32872833.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32872833.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "2.50",
+            "amazon_price": "0.69",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 59069885,
     "name": "Embrace of the Tistina",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "When your opponent activates a monster effect on the field: You can target that monster; change it to face-down Defense Position. During the End Phase: You can target 1 face-down Defense Position monster your opponent controls; take control of that monster. You can only use each effect of \"Embrace of the Tistina\" once per turn, and can only activate them while you control a \"Tistina\" monster with 3000 or more DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Tistina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59069885.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59069885.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59069885.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/embrace-of-the-tistina-14189",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN091",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59069885,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59069885.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59069885.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59069885.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

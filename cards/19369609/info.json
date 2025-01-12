@@ -1,18 +1,46 @@
 {
     "id": 19369609,
     "name": "Lyrilusc - Promenade Thrush",
+    "typeline": [
+        "Winged Beast",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 1 monsters\r\nGains 500 ATK for each material attached to it. Once per turn: You can detach 1 material from this card, then target 1 Spell/Trap your opponent controls; shuffle it into the Deck. At the start of the Damage Step, if another monster you control battles: You can detach any number of materials from this card; that monster you control gains 300 ATK for each material detached, until the end of this turn.",
+    "race": "Winged Beast",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Lyrilusc",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19369609.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19369609.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19369609.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lyrilusc-promenade-thrush-12218",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Synchro Storm",
+            "set_code": "LED8-EN038",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.47"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19369609,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19369609.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19369609.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19369609.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.34",
+            "ebay_price": "1.50",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

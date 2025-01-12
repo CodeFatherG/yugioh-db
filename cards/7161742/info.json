@@ -1,18 +1,45 @@
 {
     "id": 7161742,
     "name": "Predaplant Cordyceps",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During your Standby Phase: You can banish this card from your Graveyard, then target 2 Level 4 or lower \"Predaplant\" monsters in your Graveyard; Special Summon them, also, for the rest of this turn, you cannot Special Summon monsters, except Fusion Monsters, nor Normal Summon/Set any monsters.",
+    "race": "Plant",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Plant",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Predaplant",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7161742.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7161742.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7161742.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/predaplant-cordyceps-8327",
+    "card_sets": [
+        {
+            "set_name": "Maximum Crisis",
+            "set_code": "MACR-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7161742,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7161742.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7161742.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7161742.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "2.12",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

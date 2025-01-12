@@ -1,18 +1,46 @@
 {
     "id": 29765339,
     "name": "Watthydra",
+    "typeline": [
+        "Thunder",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 \"Watt\" Tuner + 1 or more non-Tuner Thunder-Type monsters\nThis card can attack your opponent directly. When this card inflicts Battle Damage to your opponent by a direct attack, choose 1 card in your Deck and remove it from play. Add that card to your hand during your 2nd Standby Phase after activating this effect.",
+    "race": "Thunder",
     "atk": 1500,
     "def": 1500,
     "level": 7,
-    "race": "Thunder",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Watt",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29765339.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29765339.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29765339.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/watthydra-2520",
+    "card_sets": [
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN044",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29765339,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29765339.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29765339.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29765339.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.49",
+            "tcgplayer_price": "2.50",
+            "ebay_price": "1.48",
+            "amazon_price": "5.68",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

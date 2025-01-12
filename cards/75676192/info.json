@@ -1,18 +1,53 @@
 {
     "id": 75676192,
     "name": "F.A. Motorhome Transport",
+    "typeline": [
+        "Machine",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nGains ATK equal to its Level x 300. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase the Level of this card by 1. This card gains the following effect(s), based on its current Level.\r\n\u25cf Level 11 or higher: Cannot be destroyed by battle or card effects.\r\n\u25cf Level 13 or higher: Once per turn: You can target 1 \"F.A.\" monster in your GY; Special Summon it.",
+    "race": "Machine",
     "atk": 0,
     "def": 3000,
     "level": 9,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "F.A.",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/75676192.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75676192.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75676192.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/f-a-motorhome-transport-9222",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN226",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Extreme Force",
+            "set_code": "EXFO-EN087",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 75676192,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75676192.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75676192.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75676192.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "7.71",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

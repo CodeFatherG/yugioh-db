@@ -1,18 +1,45 @@
 {
     "id": 85310252,
     "name": "Dododo Driver",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Up to twice per turn, if this card was Special Summoned by the effect of a \"Dododo\" monster this turn: You can target 1 \"Dododo\" monster you control, then activate 1 of these effects;\n\u25cf Increase its Level by 1.\n\u25cf Reduce its Level by 1.",
+    "race": "Warrior",
     "atk": 1800,
     "def": 200,
     "level": 4,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Dododo",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85310252.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85310252.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85310252.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dododo-driver-7151",
+    "card_sets": [
+        {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN093",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 85310252,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85310252.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85310252.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85310252.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "4.95",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

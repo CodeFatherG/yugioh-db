@@ -1,21 +1,65 @@
 {
     "id": 37129797,
     "name": "Vampire Sucker",
+    "typeline": [
+        "Zombie",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Zombie monsters\r\nIf you would Tribute a monster(s) for a Tribute Summon, you can Tribute a Zombie monster(s) your opponent controls, even though you do not control them. You can only use each of the following effects of \"Vampire Sucker\" once per turn.\r\n\u25cf You can target 1 monster in your opponent's GY; Special Summon it to your opponent's field in Defense Position, but it becomes a Zombie monster.\r\n\u25cf If a Zombie monster(s) is Special Summoned from either GY: Draw 1 card.",
+    "race": "Zombie",
     "atk": 1600,
     "def": null,
     "level": 0,
-    "race": "Zombie",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Vampire",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/37129797.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37129797.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37129797.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampire-sucker-9211",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN030",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN050",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN150",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.44"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37129797,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37129797.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37129797.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37129797.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.35",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "3.75",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

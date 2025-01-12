@@ -2,17 +2,26 @@
     "id": 65810490,
     "name": "Wicked Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Statue of the Wicked\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Fiend",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65810490.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65810490.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65810490.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wicked-token-5540",
+    "card_images": [
+        {
+            "id": 65810490,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65810490.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65810490.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65810490.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "21.87",
+            "amazon_price": "1.98",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

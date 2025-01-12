@@ -2,17 +2,36 @@
     "id": 53569894,
     "name": "Pyramid of Light",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "If this face-up card is removed from your side of the field, destroy \"Andro Sphinx\" and \"Sphinx Teleia\" on your side of the field and remove them from play.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Sphinx",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53569894.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53569894.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53569894.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pyramid-of-light-4564",
+    "card_sets": [
+        {
+            "set_name": "Movie Pack",
+            "set_code": "MOV-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53569894,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53569894.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53569894.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53569894.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "9.18",
+            "tcgplayer_price": "1.96",
+            "ebay_price": "3.99",
+            "amazon_price": "9.85",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

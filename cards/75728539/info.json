@@ -2,17 +2,42 @@
     "id": 75728539,
     "name": "Sharv Sarga",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If \"Visas Starfrost\" is on the field: Target 1 Effect Monster on the field; shuffle that target into the Deck, and if you do, during the End Phase of this turn, its owner can add 1 monster from their Deck to their hand with a different Type and a Level lower than the Level/Rank/Link Rating of that monster. If a \"Veda\" monster(s) is Special Summoned, while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use each effect of \"Sharv Sarga\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/75728539.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75728539.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75728539.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sharv-sarga-13996",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN398",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN072",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 75728539,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75728539.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75728539.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75728539.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

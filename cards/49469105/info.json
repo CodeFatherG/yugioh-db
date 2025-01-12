@@ -2,17 +2,35 @@
     "id": 49469105,
     "name": "Revoke Fusion",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Discard 1 \"Polymerization\" to the Graveyard. Send 1 Fusion Monster from your Extra Deck to your Graveyard and Special Summon 1 monster from your hand that is listed as a Fusion Material Monster on that card. The Special Summoned monster is sent to the Graveyard during the End Phase of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49469105.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49469105.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49469105.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/revoke-fusion-4217",
+    "card_sets": [
+        {
+            "set_name": "Duelist Pack: Jaden Yuki 3",
+            "set_code": "DP06-EN020",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.19"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49469105,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49469105.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49469105.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49469105.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "1.50",
+            "amazon_price": "1.21",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

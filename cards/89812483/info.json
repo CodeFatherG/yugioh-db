@@ -2,17 +2,36 @@
     "id": 89812483,
     "name": "Max Metalmorph",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Tribute 1 face-up monster; Special Summon 1 monster that cannot be Normal Summoned/Set and mentions \"Max Metalmorph\" from your hand, Deck, or GY, then you can equip this card to it with the following effect.\r\n\u25cf The equipped monster gains 400 ATK/DEF, it cannot be destroyed by Spell or monster effects, also your opponent cannot target it with monster effects or Spell Cards or effects.\r\nYou can only activate 1 \"Max Metalmorph\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Metalmorph",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/89812483.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89812483.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89812483.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/max-metalmorph-14530",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 89812483,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89812483.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89812483.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89812483.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

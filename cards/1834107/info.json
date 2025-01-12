@@ -2,17 +2,36 @@
     "id": 1834107,
     "name": "Wattcine",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "When a Thunder-Type monster you control inflicts Battle Damage to your opponent, gain Life Points equal to the damage inflicted.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Watt",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/1834107.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1834107.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1834107.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wattcine-164",
+    "card_sets": [
+        {
+            "set_name": "Duelist Revolution",
+            "set_code": "DREV-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 1834107,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1834107.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1834107.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1834107.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.31",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

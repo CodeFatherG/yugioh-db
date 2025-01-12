@@ -2,17 +2,27 @@
     "id": 44459942,
     "name": "Two-for-One Repair Job",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Banish 1 DARK Machine monster from your GY; Special Summon 1 monster from your hand, Deck, or GY that mentions \"Engine Token\". If a face-up DARK Machine monster(s) you control is sent to the GY while this card is in your GY, except by battle (except during the Damage Step): You can banish this card; Special Summon 1 \"Engine Token\" (Machine/EARTH/Level 1/ATK 200/DEF 200) in Attack Position. You can only use 1 \"Two-for-One Repair Job\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Motor",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44459942.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44459942.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44459942.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/two-for-one-repair-job-14857",
+    "card_images": [
+        {
+            "id": 44459942,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44459942.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44459942.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44459942.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

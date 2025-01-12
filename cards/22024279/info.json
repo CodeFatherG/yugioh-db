@@ -2,17 +2,36 @@
     "id": 22024279,
     "name": "Altergeist Revitalization",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Altergeist\" Link Monster in your GY; Special Summon it. You can banish this card from your GY; immediately after this effect resolves, Normal Summon 1 \"Altergeist\" monster. You can only use 1 \"Altergeist Revitalization\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Altergeist",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/22024279.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22024279.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22024279.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/altergeist-revitalization-13870",
+    "card_sets": [
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN069",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22024279,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22024279.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22024279.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22024279.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

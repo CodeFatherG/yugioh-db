@@ -1,18 +1,80 @@
 {
     "id": 91812341,
     "name": "Traptrix Myrmeleo",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. When this card is Normal Summoned: You can add 1 \"Hole\" Normal Trap Card from your Deck to your hand. If this card is Special Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
+    "race": "Insect",
     "atk": 1600,
     "def": 1200,
     "level": 4,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Traptrix",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91812341.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91812341.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91812341.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-myrmeleo-7655",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN086",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Astral Pack Six",
+            "set_code": "AP06-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN033",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN074",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN037",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91812341,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91812341.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91812341.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91812341.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "7.90",
+            "amazon_price": "1.68",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

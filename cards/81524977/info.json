@@ -2,17 +2,35 @@
     "id": 81524977,
     "name": "Seed Cannon",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Each time a Plant-Type monster(s) is Summoned, place 1 Plant Counter on this card (max. 5). You can send this card to the Graveyard to inflict 500 damage to your opponent for each Plant Counter on it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81524977.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81524977.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81524977.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/seed-cannon-6845",
+    "card_sets": [
+        {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81524977,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81524977.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81524977.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81524977.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.37",
+            "amazon_price": "1.07",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

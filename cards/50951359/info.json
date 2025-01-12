@@ -2,17 +2,35 @@
     "id": 50951359,
     "name": "Tuner Capture",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only when your opponent Synchro Summons a monster. Special Summon 1 Tuner Monster used for that Synchro Summon from their Graveyard to your side of the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50951359.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50951359.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50951359.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tuner-capture-4339",
+    "card_sets": [
+        {
+            "set_name": "Raging Battle",
+            "set_code": "RGBT-EN065",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50951359,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50951359.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50951359.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50951359.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

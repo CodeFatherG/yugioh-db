@@ -1,18 +1,45 @@
 {
     "id": 69243722,
     "name": "Gem-Knight Emerald",
+    "typeline": [
+        "Rock",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can banish this face-up card you control and 1 face-up Normal Monster you control to target 1 \"Gem-Knight\" Fusion Monster in your Graveyard; Special Summon it from the Graveyard.",
+    "race": "Rock",
     "atk": 1800,
     "def": 800,
     "level": 4,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Gem-",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/69243722.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69243722.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69243722.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gem-knight-emerald-5822",
+    "card_sets": [
+        {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN096",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 69243722,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69243722.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69243722.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69243722.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.48",
+            "ebay_price": "2.09",
+            "amazon_price": "0.89",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

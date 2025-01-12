@@ -1,18 +1,59 @@
 {
     "id": 85651167,
     "name": "Gearfried the Red-Eyes Iron Knight",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, if either player equips an Equip Card(s) to this card: You can destroy those Equip Cards, then you can destroy 1 Spell/Trap your opponent controls. Once per turn: You can send 1 Equip Card you control that is equipped to this card to the GY, then target 1 Level 7 or lower \"Red-Eyes\" monster in your GY; Special Summon it.",
+    "race": "Warrior",
     "atk": 1800,
     "def": 1600,
     "level": 4,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Red-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85651167.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85651167.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85651167.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gearfried-the-red-eyes-iron-knight-8502",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists",
+            "set_code": "LEDU-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "9.69"
+        },
+        {
+            "set_name": "Legendary Duelists: Season 1",
+            "set_code": "LDS1-EN011",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENI05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 85651167,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85651167.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85651167.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85651167.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.69",
+            "tcgplayer_price": "0.76",
+            "ebay_price": "12.99",
+            "amazon_price": "19.16",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

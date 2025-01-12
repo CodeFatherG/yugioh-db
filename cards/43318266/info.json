@@ -1,18 +1,52 @@
 {
     "id": 43318266,
     "name": "Cloudian - Cirrostratus",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When you Normal Summon this card, place 1 Fog Counter on it for each \"Cloudian\" monster on the field. You can remove 2 Fog Counters from this card to destroy 1 monster on the field.",
+    "race": "Fairy",
     "atk": 900,
     "def": 0,
     "level": 4,
-    "race": "Fairy",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Cloudian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/43318266.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43318266.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43318266.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cloudian-cirrostratus-3690",
+    "card_sets": [
+        {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN011",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENH05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 43318266,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43318266.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43318266.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43318266.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "5.39",
+            "amazon_price": "5.99",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

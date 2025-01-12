@@ -2,17 +2,50 @@
     "id": 37478723,
     "name": "\"Infernoble Arms - Durendal\"",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "While this card is equipped to a monster: You can add 1 Level 5 or lower FIRE Warrior monster from your Deck to your hand, then destroy this card. If this card is sent to the GY because the equipped monster is sent to the GY: You can target 1 Level 5 or lower FIRE Warrior monster in your GY; Special Summon it, also you cannot Special Summon monsters for the rest of the turn, except Warrior monsters. You can only use 1 \"\"Infernoble Arms - Durendal\"\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
     "archetype": "Noble Knight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37478723.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37478723.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37478723.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/infernoble-arms-durendal-10991",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN136",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN042",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN053",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37478723,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37478723.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37478723.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37478723.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "2.96",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

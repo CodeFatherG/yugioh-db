@@ -2,17 +2,56 @@
     "id": 5288597,
     "name": "Transmodify",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Send 1 face-up monster you control to the GY; Special Summon from your Deck, 1 monster with the same Type and Attribute as that monster in the GY, but 1 Level higher. You can only activate 1 \"Transmodify\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5288597.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5288597.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5288597.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/transmodify-467",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN106",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Light's Revenge",
+            "set_code": "BLLR-EN077",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN067",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5288597,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5288597.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5288597.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5288597.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "4.00",
+            "amazon_price": "1.04",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

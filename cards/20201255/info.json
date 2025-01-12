@@ -2,17 +2,43 @@
     "id": 20201255,
     "name": "Gladiator Beast's Comeback",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Special Summon 1 \"Gladiator Beast\" monster from your hand or GY, with a different Type from the monsters you control. It cannot be destroyed by battle.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Gladiator Beast",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/20201255.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20201255.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20201255.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gladiator-beast-s-comeback-10439",
+    "card_sets": [
+        {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN184",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+        },
+        {
+            "set_name": "Chaos Impact",
+            "set_code": "CHIM-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 20201255,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20201255.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20201255.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20201255.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 47171541,
     "name": "Orcustrated Release",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Tribute 2 Machine monsters, then target 1 monster in your GY; Special Summon it. If your opponent controls a Link Monster, you can target 2 monsters, instead. You can only activate 1 \"Orcustrated Release\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Orcust",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47171541.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47171541.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47171541.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/orcustrated-release-9853",
+    "card_sets": [
+        {
+            "set_name": "Savage Strike",
+            "set_code": "SAST-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47171541,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47171541.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47171541.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47171541.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

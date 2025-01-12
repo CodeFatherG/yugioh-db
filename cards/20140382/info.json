@@ -2,17 +2,35 @@
     "id": 20140382,
     "name": "Overwhelm",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "Activate only while you control a face-up Level 7 or higher monster that was Tribute Summoned. Negate the activation of a Trap Card or Effect Monster's effect and destroy that card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/20140382.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20140382.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20140382.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/overwhelm-1730",
+    "card_sets": [
+        {
+            "set_name": "Raging Battle",
+            "set_code": "RGBT-EN088",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 20140382,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20140382.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20140382.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20140382.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.48",
+            "tcgplayer_price": "8.78",
+            "ebay_price": "10.00",
+            "amazon_price": "10.46",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

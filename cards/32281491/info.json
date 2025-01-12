@@ -1,18 +1,45 @@
 {
     "id": 32281491,
     "name": "ZS - Ouroboros Sage",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned: You can Special Summon 1 non-LIGHT \"Number\" monster from your GY, but negate its effects, and if you do, equip both this card and 1 \"Utopia\" monster you control to it, each as an Equip Spell that gives it 1700 ATK, also you can only declare one attack for the rest of this turn. When the monster equipped with this card by this card's effect declares an attack on your opponent's monster: You can double the attacking monster's ATK, but destroy it during the End Phase.",
+    "race": "Warrior",
     "atk": 600,
     "def": 0,
     "level": 3,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Zexal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32281491.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32281491.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32281491.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zs-ouroboros-sage-12285",
+    "card_sets": [
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN026",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0.92"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32281491,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32281491.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32281491.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32281491.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.50",
+            "amazon_price": "0.30",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

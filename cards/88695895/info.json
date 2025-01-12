@@ -2,17 +2,36 @@
     "id": 88695895,
     "name": "Guilt of the Sinful Spoils",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If your opponent Special Summons a monster(s) from the Deck or Extra Deck and you control a \"Diabellstar\" Monster Card (except during the Damage Step): Target 1 monster your opponent controls; shuffle it into the Deck. During the Damage Step, when your \"Diabellstar\" monster battles an opponent's monster: You can banish this card from your GY; that opponent's monster's ATK becomes halved until the end of this turn. You can only use each effect of \"Guilt of the Sinful Spoils\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Sinful Spoils",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88695895.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88695895.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88695895.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/guilt-of-the-sinful-spoils-14585",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN074",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88695895,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88695895.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88695895.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88695895.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

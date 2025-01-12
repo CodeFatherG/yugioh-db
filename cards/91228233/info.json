@@ -2,17 +2,43 @@
     "id": 91228233,
     "name": "Forest of Lost Flowers",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "Monsters you control equipped with \"Starlit Papillon\" are unaffected by your opponent's activated effects. Once per turn, when your \"Adventurer Token\" destroys a monster by battle: You can draw 1 card. Once per turn, during your Main Phase, if the previous effect was activated this turn: You can add 1 Field Spell that mentions \"Adventurer Token\" from your Deck or GY to your hand, except \"Forest of Lost Flowers\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Adventurer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91228233.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91228233.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91228233.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/forest-of-lost-flowers-12534",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN097",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Grand Creators",
+            "set_code": "GRCR-EN034",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.82"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91228233,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91228233.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91228233.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91228233.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "4.95",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

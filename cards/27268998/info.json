@@ -1,18 +1,45 @@
 {
     "id": 27268998,
     "name": "Metalzoa X",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Max Metalmorph\" that was activated by Tributing a Level 5 or higher Fiend monster. You can reveal this card in your hand; Set 1 \"Metalmorph\" Trap from your Deck, and if you do, shuffle this card into the Deck. You can only use this effect of \"Metalzoa X\" once per turn. Twice per turn, when your opponent activates a monster effect, or Spell Card or effect (Quick Effect): You can target 1 face-up monster your opponent controls; destroy it.",
+    "race": "Machine",
     "atk": 3000,
     "def": 2300,
     "level": 8,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Signature move",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27268998.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27268998.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27268998.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/metalzoa-x-14539",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27268998,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27268998.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27268998.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27268998.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

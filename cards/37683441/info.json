@@ -1,21 +1,42 @@
 {
     "id": 37683441,
     "name": "Trickstar Noble Angel",
+    "typeline": [
+        "Fairy",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 \"Trickstar\" monsters\r\nIf this card is Link Summoned: You can add 1 \"Blue Tears\" card from your Deck to your hand. If you have a Fusion Monster in your field or GY: You can target 1 \"Trickstar\" monster in your GY; Special Summon it. If effect damage is inflicted (except during the Damage Step): You can target 1 face-up card on the field; destroy it. You can only use each effect of \"Trickstar Noble Angel\" once per turn.",
+    "race": "Fairy",
     "atk": 2000,
     "def": null,
     "level": null,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Trickstar",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/37683441.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37683441.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37683441.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trickstar-noble-angel-14507",
+    "card_images": [
+        {
+            "id": 37683441,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37683441.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37683441.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37683441.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.48",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

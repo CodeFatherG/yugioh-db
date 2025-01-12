@@ -1,18 +1,51 @@
 {
     "id": 42052439,
     "name": "Fire Flint Lady",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a Warrior monster: You can Special Summon this card from your hand. You can send this card from the field to the GY; Special Summon 1 Level 4 or lower Warrior monster from your hand, and if you do, your opponent cannot target it with card effects this turn. You can only use each effect of \"Fire Flint Lady\" once per turn.",
+    "race": "Warrior",
     "atk": 100,
     "def": 100,
     "level": 1,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42052439.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42052439.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42052439.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fire-flint-lady-11264",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN034",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.48"
+        },
+        {
+            "set_name": "OTS Tournament Pack 24",
+            "set_code": "OP24-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42052439,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42052439.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42052439.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42052439.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "2.29",
+            "amazon_price": "39.99",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

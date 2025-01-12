@@ -2,17 +2,42 @@
     "id": 37406863,
     "name": "Fengsheng Mirror",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Look at your opponent's hand. Select and discard 1 Spirit monster to the Graveyard if Spirit monsters exist in his/her hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37406863.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37406863.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37406863.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fengsheng-mirror-3167",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.45"
+        },
+        {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.9"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37406863,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37406863.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37406863.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37406863.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.01",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

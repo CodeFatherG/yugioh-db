@@ -1,18 +1,44 @@
 {
     "id": 84673574,
     "name": "QQ Enneagon",
+    "typeline": [
+        "Dinosaur",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your hand or GY: You can reveal 1 Level 9 monster in your hand, except \"QQ Enneagon\"; Special Summon both this card and the revealed monster in Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 9 or higher Xyz Monsters. You can only use this effect of \"QQ Enneagon\" once per turn. A Rank 9 or higher Xyz Monster that has this card as material gains this effect.\r\n\u25cf This card gains 900 ATK/DEF.",
+    "race": "Dinosaur",
     "atk": 900,
     "def": 900,
     "level": 9,
-    "race": "Dinosaur",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84673574.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84673574.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84673574.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/qq-enneagon-14747",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN089",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84673574,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84673574.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84673574.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84673574.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

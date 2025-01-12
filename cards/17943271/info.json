@@ -1,18 +1,45 @@
 {
     "id": 17943271,
     "name": "Mementotlan Goblin",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Main Phase, if you control \"Mementoal Tecuhtlica - Combined Creation\" (Quick Effect): You can discard this card; for the rest of this turn, your opponent cannot target \"Memento\" monsters you control with card effects. During your Main Phase: You can destroy 1 \"Memento\" monster you control, and if you do, send up to 2 \"Memento\" cards with different names from each other from your Deck to the GY, except \"Mementotlan Goblin\". You can only use each effect of \"Mementotlan Goblin\" once per turn.",
+    "race": "Fiend",
     "atk": 400,
     "def": 400,
     "level": 1,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Goblin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17943271.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17943271.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17943271.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mementotlan-goblin-14045",
+    "card_sets": [
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN007",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17943271,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17943271.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17943271.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17943271.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

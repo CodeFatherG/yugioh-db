@@ -1,18 +1,58 @@
 {
     "id": 36088082,
     "name": "Bull Blader",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When an attack is declared involving this card and an opponent's monster: You can activate this effect; during this battle involving this monster, neither player takes any battle damage, also destroy the opponent's monster after damage calculation.",
+    "race": "Warrior",
     "atk": 1600,
     "def": 1200,
     "level": 4,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/36088082.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36088082.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36088082.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bull-blader-3053",
+    "card_sets": [
+        {
+            "set_name": "Abyss Rising",
+            "set_code": "ABYR-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN115",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN115",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 36088082,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36088082.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36088082.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36088082.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "1.68",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

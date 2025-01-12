@@ -1,18 +1,52 @@
 {
     "id": 50699850,
     "name": "Loris, Lady of Lament",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 3 or 6 of your Normal Traps that are banished and/or in your GY; place them on the bottom of your Deck in any order, then draw 1 card for every 3 cards placed. If another monster(s) is Tributed, or if a Normal Trap(s) is sent to your GY by an opponent's card effect (except during the Damage Step): You can target 1 Normal Trap in your GY; Set it. You can only use each effect of \"Loris, Lady of Lament\" once per turn.",
+    "race": "Fiend",
     "atk": 1500,
     "def": 500,
     "level": 3,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Lady of Lament",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50699850.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50699850.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50699850.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/loris-lady-of-lament-13131",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN164",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN092",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50699850,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50699850.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50699850.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50699850.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "4.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

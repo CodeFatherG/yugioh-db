@@ -2,17 +2,57 @@
     "id": 50433147,
     "name": "The Nordic Lights",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "\"Nordic\" monsters on the field cannot be destroyed by battle. If this card on the field is destroyed: Destroy all \"Nordic\" monsters on the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Nordic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50433147.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50433147.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50433147.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-nordic-lights-4297",
+    "card_sets": [
+        {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN195",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.41"
+        },
+        {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENB13",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.31"
+        },
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN087",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN087",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50433147,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50433147.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50433147.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50433147.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "6.75",
+            "amazon_price": "5.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

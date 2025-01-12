@@ -1,18 +1,46 @@
 {
     "id": 4167084,
     "name": "The First Darklord",
+    "typeline": [
+        "Fairy",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "3 DARK Fairy monsters\r\nYour opponent cannot target Fairy monsters you control with card effects. You can only use 1 of the following effects of \"The First Darklord\" per turn, and only once that turn.\r\n\u25cf If this card is Fusion Summoned using \"Darklord Morningstar\" as material: You can destroy all cards your opponent controls.\r\n\u25cf During the Main Phase (Quick Effect): You can pay 1000 LP; Special Summon 1 Fairy monster from your hand or GY in Defense Position.",
+    "race": "Fairy",
     "atk": 4000,
     "def": 4000,
     "level": 12,
-    "race": "Fairy",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Darklord",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4167084.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4167084.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4167084.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-first-darklord-11049",
+    "card_sets": [
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4167084,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4167084.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4167084.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4167084.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.39",
+            "tcgplayer_price": "1.30",
+            "ebay_price": "4.50",
+            "amazon_price": "2.96",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

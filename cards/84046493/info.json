@@ -1,18 +1,55 @@
 {
     "id": 84046493,
     "name": "Ghost Beef",
+    "typeline": [
+        "Beast",
+        "Pendulum",
+        "Normal"
+    ],
     "type": "Pendulum Normal Monster",
+    "humanReadableCardType": "Pendulum Normal Monster",
+    "frameType": "normal_pendulum",
     "desc": "[ Pendulum Effect ] \nOnce per turn: You can roll a six-sided die. Until the end of this turn, increase this card's Pendulum Scale by that number (max. 10).\n\n[ Monster Effect ] \n''The Ghost of Christmas Dinner.''",
+    "race": "Beast",
+    "pend_desc": "Once per turn: You can roll a six-sided die. Until the end of this turn, increase this card's Pendulum Scale by that number (max. 10).",
+    "monster_desc": "''The Ghost of Christmas Dinner.''",
     "atk": 2000,
     "def": 1000,
     "level": 7,
-    "race": "Beast",
     "attribute": "DARK",
     "scale": 4,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84046493.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84046493.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84046493.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ghost-beef-7048",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maximum Crisis",
+            "set_code": "MACR-EN096",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84046493,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84046493.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84046493.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84046493.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 923596,
     "name": "Geargiarmor",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: You can add 1 \"Geargia\" monster from your Deck to your hand, except \"Geargiarmor\".",
+    "race": "Machine",
     "atk": 1100,
     "def": 1900,
     "level": 4,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Geargia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/923596.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/923596.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/923596.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/geargiarmor-82",
+    "card_sets": [
+        {
+            "set_name": "Geargia Rampage Structure Deck",
+            "set_code": "SDGR-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.23"
+        },
+        {
+            "set_name": "Return of the Duelist",
+            "set_code": "REDU-EN030",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 923596,
+            "image_url": "https://images.ygoprodeck.com/images/cards/923596.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/923596.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/923596.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "1.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

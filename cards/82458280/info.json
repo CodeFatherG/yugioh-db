@@ -1,18 +1,44 @@
 {
     "id": 82458280,
     "name": "Magic Hole Golem",
+    "typeline": [
+        "Rock",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, you can select 1 face-up monster you control. Its ATK is halved until the End Phase, and it can attack your opponent directly this turn. During the turn you activate this effect, only the selected monster can attack.",
+    "race": "Rock",
     "atk": 0,
     "def": 2000,
     "level": 3,
-    "race": "Rock",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/82458280.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82458280.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82458280.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/magic-hole-golem-6933",
+    "card_sets": [
+        {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 82458280,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82458280.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82458280.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82458280.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

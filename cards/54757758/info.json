@@ -1,18 +1,73 @@
 {
     "id": 54757758,
     "name": "Mudragon of the Swamp",
+    "typeline": [
+        "Wyrm",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 monsters with the same Attribute but different Types\r\nYour opponent cannot target this card, or monsters on the field with the same Attribute as this card, with card effects. Once per turn (Quick Effect): You can declare 1 Attribute; this card becomes that Attribute until the end of this turn.",
+    "race": "Wyrm",
     "atk": 1900,
     "def": 1600,
     "level": 4,
-    "race": "Wyrm",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54757758.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54757758.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54757758.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mudragon-of-the-swamp-8994",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tins",
+            "set_code": "CT15-EN005",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.07"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN028",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN028",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 21",
+            "set_code": "OP21-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Toon Chaos",
+            "set_code": "TOCH-EN049",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54757758,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54757758.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54757758.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54757758.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "1.95",
+            "amazon_price": "3.99",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

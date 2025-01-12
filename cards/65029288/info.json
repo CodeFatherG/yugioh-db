@@ -1,18 +1,46 @@
 {
     "id": 65029288,
     "name": "Performapal Odd-Eyes Metal Claw",
+    "typeline": [
+        "Dragon",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 \"Odd-Eyes\" monster + 1 \"Performapal\" monster\nCannot be used as Fusion Material. If this card was Fusion Summoned with \"Polymerization\", it is unaffected by other cards' effects. When this card declares an attack: All monsters you currently control gain 300 ATK until the end of the Battle Phase.",
+    "race": "Dragon",
     "atk": 3000,
     "def": 3000,
     "level": 8,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Odd-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65029288.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65029288.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65029288.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/performapal-odd-eyes-metal-claw-5483",
+    "card_sets": [
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN092",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65029288,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65029288.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65029288.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65029288.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.33",
+            "ebay_price": "1.20",
+            "amazon_price": "1.45",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

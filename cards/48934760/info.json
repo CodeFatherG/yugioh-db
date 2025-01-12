@@ -2,17 +2,49 @@
     "id": 48934760,
     "name": "Demise of the Land",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Activate only when your opponent Special Summons a monster. Select 1 Field Spell Card from your Deck and activate it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48934760.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48934760.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48934760.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/demise-of-the-land-4175",
+    "card_sets": [
+        {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 14",
+            "set_code": "OP14-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 14 (POR)",
+            "set_code": "OP14-PT019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48934760,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48934760.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48934760.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48934760.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "2.79",
+            "amazon_price": "0.66",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

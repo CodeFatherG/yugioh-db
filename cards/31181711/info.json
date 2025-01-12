@@ -1,18 +1,52 @@
 {
     "id": 31181711,
     "name": "Superheavy Samurai Soulshield Wall",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 1 \"Superheavy Samurai\" monster you control; equip this monster from your hand or your side of the field to that target. It gains 1200 DEF. When the monster equipped with this card by this effect is targeted for an attack: You can send this Equip Card to the Graveyard; negate that attack, but the equipped monster's DEF becomes 0.",
+    "race": "Machine",
     "atk": 1200,
     "def": 1200,
     "level": 3,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Superheavy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31181711.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31181711.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31181711.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/superheavy-samurai-soulshield-wall-2646",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN135",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31181711,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31181711.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31181711.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31181711.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

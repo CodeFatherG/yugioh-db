@@ -1,18 +1,36 @@
 {
     "id": 39239728,
     "name": "Royal Guard",
+    "typeline": [
+        "Machine",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A mechanized soldier created to protect royalty.''",
+    "race": "Machine",
     "atk": 1900,
     "def": 2200,
     "level": 6,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Recolored counterpart",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39239728.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39239728.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39239728.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/royal-guard-3327",
+    "card_images": [
+        {
+            "id": 39239728,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39239728.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39239728.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39239728.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "5.00",
+            "amazon_price": "1.32",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

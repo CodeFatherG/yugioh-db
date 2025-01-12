@@ -1,18 +1,52 @@
 {
     "id": 30348744,
     "name": "T.G. Drill Fish",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card can attack directly. You can only use each of the following effects of \"T.G. Drill Fish\" once per turn.\r\n\u25cf If all monsters you control are \"T.G.\" monsters (min. 1): You can Special Summon this card from your hand.\r\n\u25cf When a \"T.G.\" monster you control inflicts battle damage to your opponent: You can target 1 monster your opponent controls; destroy it.",
+    "race": "Fish",
     "atk": 100,
     "def": 800,
     "level": 1,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "T.G.",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30348744.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30348744.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30348744.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/t-g-drill-fish-10349",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN089",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Hero's Revenge",
+            "set_code": "BLHR-EN024",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.5"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30348744,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30348744.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30348744.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30348744.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

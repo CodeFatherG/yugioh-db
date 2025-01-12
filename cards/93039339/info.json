@@ -1,18 +1,59 @@
 {
     "id": 93039339,
     "name": "Super Starslayer TY-PHON - Sky Crisis",
+    "typeline": [
+        "Fiend",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 12 monsters\r\nDuring the turn, or turn after, your opponent Special Summoned 2 or more monsters from the Extra Deck, you can also Xyz Summon this card by using 1 monster you control with the highest ATK (your choice, if tied). (Transfer its materials to this card.) If you do, you cannot Normal or Special Summon monsters for the rest of this turn. While this Xyz Summoned monster is on the field, neither player can activate the effects of monsters with 3000 or more ATK. Once per turn: You can detach 1 material from this card; return 1 monster from the field to the hand.",
+    "race": "Fiend",
     "atk": 2900,
     "def": 2900,
     "level": 12,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93039339.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93039339.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93039339.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/super-starslayer-ty-phon-sky-crisis-14084",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN119",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN042",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93039339,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93039339.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93039339.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93039339.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "25.35",
+            "tcgplayer_price": "27.68",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "17.99"
+        }
+    ]
 }

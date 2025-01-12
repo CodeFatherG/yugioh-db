@@ -1,18 +1,52 @@
 {
     "id": 82777208,
     "name": "Icejade Acti",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can send 1 WATER monster from your hand to the GY; draw 1 card. If a face-up WATER monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can banish this card; Special Summon 1 \"Icejade\" monster from your hand or GY, except \"Icejade Acti\". You can only use each effect of \"Icejade Acti\" once per turn.",
+    "race": "Aqua",
     "atk": 1000,
     "def": 1000,
     "level": 4,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Icejade",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/82777208.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82777208.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82777208.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/icejade-acti-12453",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN189",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.79"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 82777208,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82777208.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82777208.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82777208.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.69",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

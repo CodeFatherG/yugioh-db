@@ -2,17 +2,43 @@
     "id": 12989604,
     "name": "World Legacy Awakens",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Immediately after this effect resolves, Link Summon 1 Link Monster using monster(s) you control as material. You can only activate 1 \"World Legacy Awakens\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "World Legacy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12989604.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12989604.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12989604.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/world-legacy-awakens-9266",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN048",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN071",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12989604,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12989604.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12989604.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12989604.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

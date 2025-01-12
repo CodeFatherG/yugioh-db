@@ -1,18 +1,44 @@
 {
     "id": 50951254,
     "name": "Magmacho Dragon",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can banish up to 3 FIRE monsters from your GY; this card gains 400 ATK for each, until the end of this turn. If a face-up FIRE monster(s) you control is destroyed by card effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card (but banish it when it leaves the field), then draw 1 card. You can only use each effect of \"Magmacho Dragon\" once per turn.",
+    "race": "Pyro",
     "atk": 1800,
     "def": 2200,
     "level": 8,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50951254.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50951254.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50951254.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/magmacho-dragon-14157",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50951254,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50951254.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50951254.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50951254.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 98319530,
     "name": "\"Infernoble Arms - Almace\"",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "While this card is equipped to a monster: You can equip 1 \"Infernoble Arms\" Equip Spell from your Deck or GY, except \"\"Infernoble Arms - Almace\"\", to 1 appropriate monster you control, then destroy this card. If this card is sent to the GY because the equipped monster is sent to the GY: You can target 1 of your FIRE Warrior monsters that is banished or in your GY; add it to your hand. You can only use 1 \"\"Infernoble Arms - Almace\"\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
     "archetype": "Infernoble Arms",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98319530.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98319530.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98319530.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/infernoble-arms-almace-13794",
+    "card_sets": [
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN056",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN056",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98319530,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98319530.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98319530.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98319530.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "1.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

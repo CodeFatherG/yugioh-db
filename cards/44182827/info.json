@@ -2,17 +2,42 @@
     "id": 44182827,
     "name": "Samsara",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Monster Cards Tributed for a Ritual Summon are returned to the owner's Deck instead of being sent to the Graveyard.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44182827.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44182827.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44182827.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/samsara-3768",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN168",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.56"
+        },
+        {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN048",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44182827,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44182827.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44182827.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44182827.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "13.50",
+            "amazon_price": "1.15",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

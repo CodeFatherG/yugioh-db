@@ -1,21 +1,51 @@
 {
     "id": 39752820,
     "name": "Lib the World Key Blademaster",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters\r\nCan only be Link Summoned while you have a \"World Legacy\" card in your GY. You can only use each of the following effects of \"Lib the World Key Blademaster\" once per turn.\r\n\u25cf During your Main Phase: You can Set 1 \"World Legacy\" Spell/Trap directly from your Deck, but it cannot be activated this turn while you have no \"World Legacy\" monster in your GY.\r\n\u25cf If this Link Summoned card is sent to the GY as Link Material: You can shuffle 1 card on the field into the Deck.",
+    "race": "Cyberse",
     "atk": 2000,
     "def": null,
     "level": null,
-    "race": "Cyberse",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "World Legacy",
     "linkval": 2,
     "linkmarkers": [
         "Left",
         "Bottom-Left"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/39752820.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39752820.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39752820.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lib-the-world-key-blademaster-10708",
+    "card_sets": [
+        {
+            "set_name": "Duel Overload",
+            "set_code": "DUOV-EN023",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.27"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39752820,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39752820.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39752820.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39752820.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.88",
+            "tcgplayer_price": "2.75",
+            "ebay_price": "2.95",
+            "amazon_price": "2.38",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

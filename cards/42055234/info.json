@@ -1,18 +1,45 @@
 {
     "id": 42055234,
     "name": "Dragonmaid Tinkhec",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be destroyed by card effects while you control a Fusion Monster. You can only use each of the following effects of \"Dragonmaid Tinkhec\" once per turn.\r\n\u25cf (Quick Effect): You can discard this card, then target 1 \"Dragonmaid\" monster you control; it gains 2000 ATK until the end of this turn.\r\n\u25cf At the end of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 3 \"Dragonmaid\" monster from your hand.",
+    "race": "Dragon",
     "atk": 2700,
     "def": 1700,
     "level": 8,
-    "race": "Dragon",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Dragonmaid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42055234.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42055234.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42055234.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragonmaid-tinkhec-10535",
+    "card_sets": [
+        {
+            "set_name": "Mystic Fighters",
+            "set_code": "MYFI-EN019",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.67"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42055234,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42055234.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42055234.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42055234.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.77",
+            "tcgplayer_price": "3.20",
+            "ebay_price": "3.75",
+            "amazon_price": "2.17",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

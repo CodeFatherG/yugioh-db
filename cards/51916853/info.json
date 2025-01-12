@@ -1,18 +1,52 @@
 {
     "id": 51916853,
     "name": "Magical Hound",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your hand or GY: You can target 1 face-up Spell/Trap your opponent controls; return it to the hand, and if you do, Special Summon this card. You can only use this effect of \"Magical Hound\" once per Duel.",
+    "race": "Machine",
     "atk": 500,
     "def": 800,
     "level": 1,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/51916853.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51916853.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51916853.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/magical-hound-10840",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN063",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 51916853,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51916853.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51916853.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51916853.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "170.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

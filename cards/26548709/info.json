@@ -1,18 +1,45 @@
 {
     "id": 26548709,
     "name": "Ragnaraika Samurai Beetle",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Special Summon this card (from your hand) by placing 1 of your banished Insect, Plant, or Reptile monsters on the bottom of your Main Deck. You can only Special Summon \"Ragnaraika Samurai Beetle\" once per turn this way. If this card is sent to the GY as material for a \"Ragnaraika\" Link Monster: You can target 1 Level 4 or lower Insect, Plant, or Reptile monster in your GY, except \"Ragnaraika Samurai Beetle\"; Special Summon it in Defense Position. You can only use this effect of \"Ragnaraika Samurai Beetle\" once per turn.",
+    "race": "Insect",
     "atk": 1500,
     "def": 0,
     "level": 3,
-    "race": "Insect",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Ragnaraika",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/26548709.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26548709.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26548709.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ragnaraika-samurai-beetle-14320",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 26548709,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26548709.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26548709.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26548709.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

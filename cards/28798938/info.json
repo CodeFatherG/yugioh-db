@@ -1,18 +1,46 @@
 {
     "id": 28798938,
     "name": "Dual Avatar - Manifested A-Un",
+    "typeline": [
+        "Warrior",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 \"Dual Avatar\" monsters\r\nThis card gains the following effect(s), based on the original names of the materials used for its Fusion Summon. \u25cf \"Dual Avatar - Empowered Kon-Gyo\": The ATK of your battling \"Dual Avatar\" monsters become 3000 during damage calculation only. \u25cf \"Dual Avatar - Empowered Mitsu-Jaku\": Once per opponent's turn (Quick Effect): You can target 1 card on the field; banish it.\r\nIf this Fusion Summoned card is destroyed: You can Special Summon 1 \"Dual Avatar Fists - Yuhi\" and 1 \"Dual Avatar Feet - Kokoku\" from your Deck, and if you do, they cannot be destroyed by battle or card effects this turn.",
+    "race": "Warrior",
     "atk": 0,
     "def": 0,
     "level": 4,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Dual Avatar",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28798938.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28798938.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28798938.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dual-avatar-manifested-a-un-13703",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28798938,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28798938.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28798938.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28798938.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

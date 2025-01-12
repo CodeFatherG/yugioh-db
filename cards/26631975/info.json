@@ -2,17 +2,43 @@
     "id": 26631975,
     "name": "Dinomorphia Domain",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "During the Main Phase: Pay half your LP; Fusion Summon 1 \"Dinomorphia\" Fusion Monster from your Extra Deck, using monsters from your hand, Deck, or field as material. When your opponent activates a card or effect, while your LP are 2000 or less: You can banish this card from your GY; you take no effect damage from your opponent's card effects this turn. You can only activate 1 \"Dinomorphia Domain\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dinomorphia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/26631975.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26631975.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26631975.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dinomorphia-domain-12747",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN037",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN068",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 26631975,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26631975.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26631975.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26631975.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "5.99",
+            "amazon_price": "4.67",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

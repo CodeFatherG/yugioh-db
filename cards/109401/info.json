@@ -1,18 +1,46 @@
 {
     "id": 109401,
     "name": "Dark Dimension Soldier",
+    "typeline": [
+        "Warrior",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nYou can banish 1 card from your hand, then target 1 of your banished DARK monsters; Special Summon that monster in face-up or face-down Defense Position. During the End Phase: Inflict 100 damage to your opponent for each Set card on the field. You can only use each effect of \"Dark Dimension Soldier\" once per turn.",
+    "race": "Warrior",
     "atk": 1200,
     "def": 2400,
     "level": 5,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "D.D.",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/109401.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/109401.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/109401.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-dimension-soldier-12694",
+    "card_sets": [
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN043",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 109401,
+            "image_url": "https://images.ygoprodeck.com/images/cards/109401.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/109401.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/109401.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.93",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

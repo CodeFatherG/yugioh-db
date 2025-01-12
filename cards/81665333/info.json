@@ -2,17 +2,35 @@
     "id": 81665333,
     "name": "Sound the Retreat!",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Return all monsters you control to the hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81665333.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81665333.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81665333.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sound-the-retreat-6855",
+    "card_sets": [
+        {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN077",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81665333,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81665333.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81665333.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81665333.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.35",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

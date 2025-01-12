@@ -1,18 +1,53 @@
 {
     "id": 71222868,
     "name": "Raidraptor - Rising Rebellion Falcon",
+    "typeline": [
+        "Winged Beast",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "5 Level 13 Winged Beast monsters\r\nUnaffected by other cards' effects. If this card is Xyz Summoned: You can destroy as many cards your opponent controls as possible, then if this card has 3 or more \"Raidraptor\" Xyz Monsters with different names as material, inflict damage to your opponent equal to the combined original ATK of the destroyed monsters. Once per turn: You can detach 3 materials from this card, then target 1 \"Raidraptor\" Xyz Monster in your GY; this card gains that monster's effects until the End Phase.",
+    "race": "Winged Beast",
     "atk": 4000,
     "def": 3500,
     "level": 13,
-    "race": "Winged Beast",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Raidraptor",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71222868.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71222868.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71222868.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/raidraptor-rising-rebellion-falcon-14211",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN045",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN045",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71222868,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71222868.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71222868.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71222868.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.09",
+            "tcgplayer_price": "3.27",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

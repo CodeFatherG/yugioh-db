@@ -1,18 +1,59 @@
 {
     "id": 52159691,
     "name": "Raider's Wing",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "(This card is always treated as a \"The Phantom Knights\" and \"Raidraptor\" card.)\r\nIf this card is in your hand or GY: You can detach 1 material from your DARK Xyz Monster; Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Raider's Wing\" once per turn. An Xyz Monster whose original Attribute is DARK and has this card as material gains this effect.\r\n\u25cf Your opponent cannot target this card with card effects.",
+    "race": "Winged Beast",
     "atk": 0,
     "def": 2000,
     "level": 4,
-    "race": "Winged Beast",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Raidraptor",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52159691.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52159691.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52159691.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/raider-s-wing-11226",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN166",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 24",
+            "set_code": "OP24-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Rage",
+            "set_code": "PHRA-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52159691,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52159691.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52159691.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52159691.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

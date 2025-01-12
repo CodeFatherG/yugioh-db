@@ -1,18 +1,52 @@
 {
     "id": 59481082,
     "name": "Lightsworn Dragonling",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you have a \"Lightsworn\" monster in your GY: You can Special Summon this card from your hand. If this card is Special Summoned: You can send 1 \"Lightsworn\" card from your Deck to the GY, except \"Lightsworn Dragonling\". If this card is sent to the GY: You can add 1 Dragon monster with 3000 ATK/2600 DEF from your Deck to your hand. You can only use each effect of \"Lightsworn Dragonling\" once per turn.",
+    "race": "Dragon",
     "atk": 1500,
     "def": 1300,
     "level": 4,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Lightsworn",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59481082.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59481082.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59481082.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lightsworn-dragonling-14299",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN023",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN023",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59481082,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59481082.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59481082.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59481082.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "8.80",
+            "tcgplayer_price": "10.60",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

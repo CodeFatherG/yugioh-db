@@ -2,17 +2,35 @@
     "id": 300302011,
     "name": "It's Jinzo!",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Espa Roba",
+    "frameType": "skill",
     "desc": "\"Jinzo\" monsters you control are unaffected by your opponent's Skill Cards. Once per turn, during your Main Phase, if you control \"Jinzo\", you can look at 1 face-down card in your opponent's Spell & Trap Zones, and if it is a Trap, draw 1 card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Espa Roba",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302011.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302011.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302011.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/it-s-jinzo-11781",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-ENS04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.32"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302011,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302011.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302011.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302011.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "2.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

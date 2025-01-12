@@ -1,18 +1,45 @@
 {
     "id": 69925461,
     "name": "Toy Tank",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Set this card from your hand to your Spell & Trap Zone as a Spell. You can only use each of the following effects of \"Toy Tank\" once per turn. If this Set card in the Spell & Trap Zone is sent to the GY: You can Special Summon this card. You can Tribute this monster; Special Summon 1 Level 6 or lower monster from your hand, or, if you control \"Toy Box\", you can Special Summon 1 Level 6 or lower monster from your GY instead, except \"Toy Tank\".",
+    "race": "Machine",
     "atk": 1000,
     "def": 2100,
     "level": 4,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Toy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/69925461.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69925461.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69925461.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/toy-tank-14274",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN022",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 69925461,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69925461.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69925461.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69925461.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

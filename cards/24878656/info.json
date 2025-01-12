@@ -2,17 +2,36 @@
     "id": 24878656,
     "name": "Toy Box",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Once per turn, when an opponent's monster declares an attack: You can send 1 face-down card you control to the GY; destroy that opponent's monster. Once per turn: You can activate 1 of these effects;\r\n\u25cf From your hand, Deck, face-up Monster Zone, and/or GY, choose up to 2 monsters with \"Toy\" in their original names that can Set themselves from the hand as a Spell, and Set them in your Spell & Trap Zone as Spells.\r\n\u25cf Destroy up to 2 cards in your Spell & Trap Zone.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Toy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/24878656.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24878656.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24878656.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/toy-box-14272",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN023",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 24878656,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24878656.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24878656.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24878656.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.35",
+            "tcgplayer_price": "1.58",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

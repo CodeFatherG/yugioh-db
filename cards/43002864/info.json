@@ -1,18 +1,45 @@
 {
     "id": 43002864,
     "name": "Reptilianne Gardna",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card you control is destroyed and sent to the Graveyard, add 1 \"Reptilianne\" monster from your Deck to your hand.",
+    "race": "Reptile",
     "atk": 0,
     "def": 2000,
     "level": 4,
-    "race": "Reptile",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Reptilianne",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/43002864.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43002864.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43002864.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/reptilianne-gardna-3669",
+    "card_sets": [
+        {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 43002864,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43002864.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43002864.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43002864.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "1.35",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

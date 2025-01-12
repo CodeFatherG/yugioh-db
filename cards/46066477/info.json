@@ -2,17 +2,43 @@
     "id": 46066477,
     "name": "Performance Hurricane",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target cards your opponent controls, up to the number of \"Performapal\" monsters you control; return them to the hand. You can only activate 1 \"Performance Hurricane\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Performapal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46066477.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46066477.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46066477.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/performance-hurricane-3927",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN214",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Breakers of Shadow",
+            "set_code": "BOSH-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46066477,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46066477.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46066477.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46066477.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

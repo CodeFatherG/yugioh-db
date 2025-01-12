@@ -1,18 +1,52 @@
 {
     "id": 79514956,
     "name": "Elegy the Melodious Diva",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Special Summoned \"Melodious\" monsters you control cannot be destroyed by card effects. If this card was Special Summoned, all Fairy-Type monsters you control gain 300 ATK.",
+    "race": "Fairy",
     "atk": 2000,
     "def": 1200,
     "level": 5,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Melodious",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/79514956.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79514956.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79514956.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/elegy-the-melodious-diva-6667",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN130",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79514956,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79514956.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79514956.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79514956.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.33",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

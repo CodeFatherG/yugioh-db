@@ -2,17 +2,36 @@
     "id": 91703676,
     "name": "Fire King Sky Burn",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target an equal number of \"Fire King\" monsters you control and cards your opponent controls; destroy them. If a \"Fire King\" card(s) you control would be destroyed by card effect, you can banish this card from your GY instead. You can only use 1 \"Fire King Sky Burn\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fire King",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91703676.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91703676.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91703676.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fire-king-sky-burn-14110",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Fire Kings",
+            "set_code": "SR14-EN025",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91703676,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91703676.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91703676.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91703676.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

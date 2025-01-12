@@ -1,18 +1,52 @@
 {
     "id": 14047624,
     "name": "Laval Judgment Lord",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn: You can banish 1 \"Laval\" monster from your Graveyard; inflict 1000 damage to your opponent. \"Laval Judgment Lord\" cannot declare an attack the turn this effect is activated.",
+    "race": "Warrior",
     "atk": 2700,
     "def": 1800,
     "level": 7,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Laval",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14047624.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14047624.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14047624.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/laval-judgment-lord-1204",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 5a",
+            "set_code": "DT05-EN029",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 5: Steelswarm Invasion",
+            "set_code": "HA05-EN014",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14047624,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14047624.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14047624.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14047624.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.38",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "3.00",
+            "amazon_price": "1.38",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

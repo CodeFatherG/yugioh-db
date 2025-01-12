@@ -1,18 +1,46 @@
 {
     "id": 5554990,
     "name": "Wattberyx",
+    "typeline": [
+        "Thunder",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "When this card inflicts Battle Damage to your opponent by a direct attack, discard 1 random card from your opponent's hand.",
+    "race": "Thunder",
     "atk": 300,
     "def": 0,
     "level": 3,
-    "race": "Thunder",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Watt",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5554990.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5554990.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5554990.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wattberyx-489",
+    "card_sets": [
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN031",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5554990,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5554990.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5554990.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5554990.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

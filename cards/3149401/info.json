@@ -1,18 +1,45 @@
 {
     "id": 3149401,
     "name": "Ultimate Dragon of Pride and Soul",
+    "typeline": [
+        "Dragon",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "3 monsters with 2500 original ATK/DEF\r\nWhile you control this Fusion Summoned card, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. While you have 25 or more cards in your GY, this Fusion Summoned card gains 4500 ATK/DEF. Once per turn, if your opponent has 25 or more cards in their GY: You can destroy all cards your opponent controls.",
+    "race": "Dragon",
     "atk": 4500,
     "def": 4500,
     "level": 12,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3149401.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3149401.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3149401.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-dragon-of-pride-and-soul-14627",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN000",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3149401,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3149401.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3149401.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3149401.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "44.78",
+            "tcgplayer_price": "88.45",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

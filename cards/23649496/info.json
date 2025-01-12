@@ -1,18 +1,46 @@
 {
     "id": 23649496,
     "name": "Number 18: Heraldry Patriarch",
+    "typeline": [
+        "Psychic",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 4 monsters\nOnce per Chain, during either player's turn, if 2 or more monsters with the same name are on the field: You can detach 1 Xyz Material from this card; choose 1 monster among those with the same name, and destroy all other monsters with that name. While this card remains face-up on the field, your opponent cannot Summon monsters with the same name as any of the monster(s) chosen for this card's effect. If this card is sent to the Graveyard: You can send 2 \"Heraldic Beast\" monsters from your Deck to the Graveyard.",
+    "race": "Psychic",
     "atk": 2200,
     "def": 2200,
     "level": 4,
-    "race": "Psychic",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Heraldic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23649496.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23649496.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23649496.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/number-18-heraldry-patriarch-2040",
+    "card_sets": [
+        {
+            "set_name": "World Superstars",
+            "set_code": "WSUP-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 23649496,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23649496.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23649496.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23649496.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.69",
+            "tcgplayer_price": "1.03",
+            "ebay_price": "0.99",
+            "amazon_price": "1.17",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

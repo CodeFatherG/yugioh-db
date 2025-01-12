@@ -1,18 +1,59 @@
 {
     "id": 23288411,
     "name": "Mementoal Tecuhtlica - Combined Creation",
+    "typeline": [
+        "Wyrm",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by shuffling 5 other \"Memento\" monsters with different names from your hand and/or GY into the Deck/Extra Deck. While you control no other monsters, this card can attack all monsters your opponent controls, once each. Once per turn, if your opponent activates a card or effect (except during the Damage Step): You can Special Summon 1 \"Memento\" monster from your hand or GY.",
+    "race": "Wyrm",
     "atk": 5000,
     "def": 5000,
     "level": 11,
-    "race": "Wyrm",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Memento",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23288411.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23288411.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23288411.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mementoal-tecuhtlica-combined-creation-14049",
+    "card_sets": [
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN001",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN001",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 23288411,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23288411.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23288411.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23288411.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.34",
+            "tcgplayer_price": "2.82",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

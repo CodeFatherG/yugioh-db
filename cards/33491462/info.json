@@ -1,18 +1,45 @@
 {
     "id": 33491462,
     "name": "Snowdrop the Rikka Fairy",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute 1 Plant monster; Special Summon both this card and 1 other Plant monster from your hand, also you cannot Special Summon for the rest of this turn, except Plant monsters. You can target 1 Plant monster you control; all Plant monsters you currently control become that monster's Level until the end of this turn. You can only use each effect of \"Snowdrop the Rikka Fairy\" once per turn.",
+    "race": "Plant",
     "atk": 1200,
     "def": 2600,
     "level": 8,
-    "race": "Plant",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Rikka",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33491462.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33491462.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33491462.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/snowdrop-the-rikka-fairy-10970",
+    "card_sets": [
+        {
+            "set_name": "Secret Slayers",
+            "set_code": "SESL-EN019",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33491462,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33491462.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33491462.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33491462.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "10.87",
+            "tcgplayer_price": "9.46",
+            "ebay_price": "13.99",
+            "amazon_price": "3.48",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

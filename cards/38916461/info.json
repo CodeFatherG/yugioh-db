@@ -1,18 +1,51 @@
 {
     "id": 38916461,
     "name": "Roboyarou",
+    "typeline": [
+        "Machine",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A warrior fully covered with metal. It upgrades by fusing with \"Robolady\".",
+    "race": "Machine",
     "atk": 900,
     "def": 450,
     "level": 3,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38916461.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38916461.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38916461.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/roboyarou-3297",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.48"
+        },
+        {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.9"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38916461,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38916461.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38916461.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38916461.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.28",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

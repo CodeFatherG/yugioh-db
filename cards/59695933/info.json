@@ -2,17 +2,35 @@
     "id": 59695933,
     "name": "Intercept",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "Activate only when a monster is Tribute Summoned with 1 Tribute. Take control of that monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59695933.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59695933.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59695933.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/intercept-5070",
+    "card_sets": [
+        {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN076",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59695933,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59695933.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59695933.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59695933.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.38",
+            "tcgplayer_price": "0.66",
+            "ebay_price": "2.59",
+            "amazon_price": "1.23",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

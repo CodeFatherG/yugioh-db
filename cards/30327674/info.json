@@ -1,18 +1,52 @@
 {
     "id": 30327674,
     "name": "Chaos Witch",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute this card; Special Summon 2 \"Dark Beast Tokens\" (Fiend/DARK/Level 2/ATK 1000/DEF 500). If this card is banished from the hand or GY: You can Special Summon 2 \"Light Beast Tokens\" (Fairy/Tuner/LIGHT/Level 2/ATK 500/DEF 1000). You can only use 1 \"Chaos Witch\" effect per turn, and only once that turn, also you cannot Special Summon monsters from the Extra Deck, except LIGHT or DARK Synchro Monsters, the turn you activate either effect.",
+    "race": "Spellcaster",
     "atk": 1500,
     "def": 1500,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Chaos",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30327674.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30327674.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30327674.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chaos-witch-13476",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN169",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30327674,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30327674.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30327674.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30327674.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

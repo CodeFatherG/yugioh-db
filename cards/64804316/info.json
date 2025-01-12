@@ -1,18 +1,45 @@
 {
     "id": 64804316,
     "name": "Ghostrick Siren",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn, during your Main Phase: You can change this card to face-down Defense Position. If this card is Normal Summoned or flipped face-up: Send the top 2 cards of your Deck to the GY, then if either card was a \"Ghostrick\" card, you can apply 1 of these effects.\r\n\u25cf Add 1 \"Ghostrick\" Spell/Trap from your Deck to your hand.\r\n\u25cf Change 1 Effect Monster your opponent controls to face-down Defense Position.",
+    "race": "Fairy",
     "atk": 800,
     "def": 1500,
     "level": 4,
-    "race": "Fairy",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Ghostrick",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64804316.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64804316.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64804316.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ghostrick-siren-12678",
+    "card_sets": [
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.81"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64804316,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64804316.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64804316.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64804316.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

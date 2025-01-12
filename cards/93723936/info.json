@@ -2,17 +2,36 @@
     "id": 93723936,
     "name": "Scourge of the White Forest",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Tribute 1 Synchro Monster, then target 1 face-up card on the field; negate its effects (until the end of this turn), then if you Tributed a \"White Forest\" Synchro Monster to activate this effect, you can Special Summon 1 Illusion monster from your GY. If this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of \"Scourge of the White Forest\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "White Forest",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93723936.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93723936.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93723936.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/scourge-of-the-white-forest-14574",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93723936,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93723936.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93723936.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93723936.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

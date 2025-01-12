@@ -1,18 +1,35 @@
 {
     "id": 27553701,
     "name": "Absolute King - Megaplunder",
+    "typeline": [
+        "Dinosaur",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''The king of dinosaurs that rules over the Earth. Its mighty roar makes its foes tremble in fear!''",
+    "race": "Dinosaur",
     "atk": 2000,
     "def": 1500,
     "level": 6,
-    "race": "Dinosaur",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27553701.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27553701.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27553701.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/absolute-king-megaplunder-14055",
+    "card_images": [
+        {
+            "id": 27553701,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27553701.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27553701.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27553701.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

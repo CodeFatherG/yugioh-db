@@ -2,17 +2,43 @@
     "id": 53701259,
     "name": "Awakening of the Sacred Beasts",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "This card gains these effects based on the number of \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", and/or \"Raviel, Lord of Phantasms\" with different names you control.\r\n\u25cf 1+: Each time your opponent Normal or Special Summons a monster(s): Gain LP equal to the ATK of that monster(s).\r\n\u25cf 2+: Negate the activated effects of monsters your opponent controls.\r\n\u25cf 3: Any monsters sent to your opponent's GY are banished instead.\r\nOnce per your turn, if you control a Level 10 monster: You can add 1 Continuous Trap from your GY to your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Sacred Beast",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53701259.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53701259.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53701259.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/awakening-of-the-sacred-beasts-10981",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.51"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53701259,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53701259.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53701259.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53701259.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

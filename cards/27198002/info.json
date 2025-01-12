@@ -2,17 +2,26 @@
     "id": 27198002,
     "name": "Fox Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as a \"Fox Token\".\n\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.\n}}",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Zombie",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27198002.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27198002.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27198002.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fox-token-9163",
+    "card_images": [
+        {
+            "id": 27198002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27198002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27198002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27198002.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "1.50",
+            "amazon_price": "1.90",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

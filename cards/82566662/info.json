@@ -1,22 +1,51 @@
 {
     "id": 82566662,
     "name": "Taotie Dragon",
+    "typeline": [
+        "Wyrm",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ monsters Special Summoned from the Extra Deck\r\nThis card gains effects based on the card types (Fusion/Synchro/Xyz) of materials used for its Link Summon.\r\n\u25cf Fusion: Your opponent cannot activate monster effects during the Battle Phase.\r\n\u25cf Synchro: Your opponent cannot activate Spell/Trap Cards and effects during your Main Phase.\r\n\u25cf Xyz: Your opponent cannot activate the effects of cards in the GY during your Main Phase or Battle Phase.",
+    "race": "Wyrm",
     "atk": 2500,
     "def": null,
     "level": null,
-    "race": "Wyrm",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
     "linkval": 3,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/82566662.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82566662.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82566662.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/taotie-dragon-11121",
+    "card_sets": [
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN083",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 82566662,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82566662.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82566662.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82566662.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "12.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

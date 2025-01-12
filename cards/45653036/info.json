@@ -2,17 +2,43 @@
     "id": 45653036,
     "name": "Rain Storm",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Select 1 \"Cloudian\" monster you control. Reduce that monster's ATK by 1000 or 2000 points, and apply the appropriate effect:\n\u25cf 1000 points: Destroy 1 Spell or Trap Card your opponent controls.\n\u25cf 2000 points: Destroy 2 cards your opponent controls.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Cloudian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45653036.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45653036.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45653036.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rain-storm-3890",
+    "card_sets": [
+        {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENH19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45653036,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45653036.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45653036.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45653036.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

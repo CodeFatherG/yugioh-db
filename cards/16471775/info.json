@@ -2,17 +2,36 @@
     "id": 16471775,
     "name": "Ursarctic Departure",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Discard 1 card; add 2 \"Ursarctic\" monsters from your Deck to your hand. If you would Tribute a monster(s) to activate an \"Ursarctic\" monster's effect, except the turn this card was sent to the GY, you can banish this card from your GY instead. You can only use each effect of \"Ursarctic Departure\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ursarctic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16471775.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16471775.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16471775.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ursarctic-departure-12029",
+    "card_sets": [
+        {
+            "set_name": "Ancient Guardians",
+            "set_code": "ANGU-EN036",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16471775,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16471775.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16471775.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16471775.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "1.05",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

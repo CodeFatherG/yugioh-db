@@ -2,17 +2,36 @@
     "id": 48447192,
     "name": "Sword of Sparkles",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "Equip only to an \"X-Saber\" monster. If it destroys an opponent's monster by battle, you can destroy 1 card your opponent controls. You can Tribute 1 monster you control to return this card from your Graveyard to the top of your Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
     "archetype": "X-Saber",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48447192.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48447192.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48447192.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sword-of-sparkles-4139",
+    "card_sets": [
+        {
+            "set_name": "Ancient Prophecy",
+            "set_code": "ANPR-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48447192,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48447192.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48447192.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48447192.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.20",
+            "amazon_price": "0.91",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

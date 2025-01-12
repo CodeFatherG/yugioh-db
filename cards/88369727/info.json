@@ -2,17 +2,56 @@
     "id": 88369727,
     "name": "Foolish Return",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Select 1 card in your opponent's Graveyard. Return it to the Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88369727.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88369727.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88369727.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/foolish-return-7394",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN084",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN058",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Lost Art Promotion (series)",
+            "set_code": "LART-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Lost Art Promotion 2021 L",
+            "set_code": "LART-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88369727,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88369727.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88369727.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88369727.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "2.50",
+            "amazon_price": "4.48",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

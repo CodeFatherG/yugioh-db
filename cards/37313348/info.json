@@ -1,18 +1,58 @@
 {
     "id": 37313348,
     "name": "Turtle Tiger",
+    "typeline": [
+        "Aqua",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A tiger encased in a protective shell that attacks with razor-sharp fangs.",
+    "race": "Aqua",
     "atk": 1000,
     "def": 1500,
     "level": 4,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37313348.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37313348.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37313348.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/turtle-tiger-3158",
+    "card_sets": [
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.87"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-E018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5.28"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5.4"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37313348,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37313348.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37313348.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37313348.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

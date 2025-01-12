@@ -2,17 +2,43 @@
     "id": 7142724,
     "name": "Icejade Cenote Enion Cradle",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: You can add 1 of your \"Icejade\" monsters that is banished or in your GY to your hand. Once per turn, if a monster(s) is Normal or Special Summoned (except during the Damage Step): You can target 1 WATER monster you control; that monster, along with any face-up monsters your opponent currently controls, loses ATK equal to the targeted monster's original ATK, until the end of this turn. You can only activate 1 \"Icejade Cenote Enion Cradle\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Icejade",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7142724.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7142724.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7142724.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/icejade-cenote-enion-cradle-12690",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN052",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7142724,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7142724.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7142724.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7142724.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "3.28",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

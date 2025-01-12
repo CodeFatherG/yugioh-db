@@ -1,18 +1,53 @@
 {
     "id": 66699781,
     "name": "Chaos Mirage Dragon",
+    "typeline": [
+        "Wyrm",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 1 banished LIGHT or DARK monster; Special Summon it to your field, but negate its effects, also for the rest of this turn, you cannot Special Summon monsters from the Extra Deck, except LIGHT or DARK Synchro Monsters. If this card is sent to the GY as Synchro Material: You can target cards your opponent controls, up to the number of other monsters used for the Synchro Summon; banish them. You can only use each effect of \"Chaos Mirage Dragon\" once per turn.",
+    "race": "Wyrm",
     "atk": 1600,
     "def": 600,
     "level": 4,
-    "race": "Wyrm",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Chaos",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/66699781.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66699781.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66699781.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chaos-mirage-dragon-13474",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN170",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN013",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 66699781,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66699781.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66699781.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66699781.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

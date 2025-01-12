@@ -1,18 +1,44 @@
 {
     "id": 2830619,
     "name": "Flame Viper",
+    "typeline": [
+        "Pyro",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A fire-breathing snake whose speed makes it a difficult target.",
+    "race": "Pyro",
     "atk": 400,
     "def": 450,
     "level": 2,
-    "race": "Pyro",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2830619.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2830619.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2830619.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/flame-viper-252",
+    "card_sets": [
+        {
+            "set_name": "McDonald's Promotional Cards 2",
+            "set_code": "MDP2-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.25"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2830619,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2830619.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2830619.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2830619.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.12",
+            "tcgplayer_price": "0.55",
+            "ebay_price": "2.20",
+            "amazon_price": "2.83",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 5037726,
     "name": "Spiritual Light Art - Hijiri",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Tribute 1 LIGHT monster to target 1 banished monster; your opponent can reveal 1 Trap Card from their hand to negate this card's effect, otherwise you Special Summon that monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5037726.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5037726.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5037726.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spiritual-light-art-hijiri-448",
+    "card_sets": [
+        {
+            "set_name": "Galactic Overlord",
+            "set_code": "GAOV-EN077",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5037726,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5037726.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5037726.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5037726.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.00",
+            "tcgplayer_price": "1.02",
+            "ebay_price": "4.99",
+            "amazon_price": "3.47",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

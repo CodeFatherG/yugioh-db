@@ -1,18 +1,49 @@
 {
     "id": 17241941,
     "name": "Gigathunder Giclops",
+    "typeline": [
+        "Thunder",
+        "Pendulum",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Pendulum Tuner Effect Monster",
+    "humanReadableCardType": "Pendulum Tuner Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nOnce per turn: You can target 1 Pendulum Monster you control and 1 monster your opponent controls; change their battle positions.\n\n[ Monster Effect ] \nIf this card, Special Summoned from the Extra Deck, is used as Synchro Material, banish it. If this card is Normal Summoned: You can change its battle position. You can only use each of the following effects of \"Gigathunder Giclops\" once per turn. If the battle position of this card is changed: You can target 1 face-up Spell/Trap on the field; destroy it. If this card is destroyed in the Pendulum Zone: You can return 1 card from your Pendulum Zone to the hand.",
+    "race": "Thunder",
+    "pend_desc": "Once per turn: You can target 1 Pendulum Monster you control and 1 monster your opponent controls; change their battle positions.",
+    "monster_desc": "If this card, Special Summoned from the Extra Deck, is used as Synchro Material, banish it. If this card is Normal Summoned: You can change its battle position. You can only use each of the following effects of \"Gigathunder Giclops\" once per turn. If the battle position of this card is changed: You can target 1 face-up Spell/Trap on the field; destroy it. If this card is destroyed in the Pendulum Zone: You can return 1 card from your Pendulum Zone to the hand.",
     "atk": 1400,
     "def": 1700,
     "level": 4,
-    "race": "Thunder",
     "attribute": "WIND",
     "scale": 5,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17241941.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17241941.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17241941.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gigathunder-giclops-11651",
+    "card_sets": [
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17241941,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17241941.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17241941.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17241941.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "1.00",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

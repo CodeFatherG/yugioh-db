@@ -2,17 +2,35 @@
     "id": 12863633,
     "name": "Curse of the Circle",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 monster your opponent controls; your opponent cannot Tribute it, or use it as a Synchro Material Monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12863633.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12863633.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12863633.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/curse-of-the-circle-1107",
+    "card_sets": [
+        {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN076",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12863633,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12863633.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12863633.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12863633.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

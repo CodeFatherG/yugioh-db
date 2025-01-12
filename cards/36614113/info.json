@@ -1,18 +1,49 @@
 {
     "id": 36614113,
     "name": "D/D Ark",
+    "typeline": [
+        "Fiend",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nYou can target 1 Pendulum Summoned monster your opponent controls; destroy both that monster and this card. You can only use this effect of \"D/D Ark\" once per turn.\n\n[ Monster Effect ] \nIf this card is destroyed by card effect: You can Special Summon 1 face-up \"D/D\" Pendulum Monster from your Extra Deck, except \"D/D Ark\", but its effects are negated. You can only use this effect of \"D/D Ark\" once per turn.",
+    "race": "Fiend",
+    "pend_desc": "You can target 1 Pendulum Summoned monster your opponent controls; destroy both that monster and this card. You can only use this effect of \"D/D Ark\" once per turn.",
+    "monster_desc": "If this card is destroyed by card effect: You can Special Summon 1 face-up \"D/D\" Pendulum Monster from your Extra Deck, except \"D/D Ark\", but its effects are negated. You can only use this effect of \"D/D Ark\" once per turn.",
     "atk": 0,
     "def": 2000,
     "level": 4,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": 1,
     "archetype": "D/D",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/36614113.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36614113.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36614113.jpg"
+    "scale": 1,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-ark-10221",
+    "card_sets": [
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN084",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.02"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 36614113,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36614113.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36614113.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36614113.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

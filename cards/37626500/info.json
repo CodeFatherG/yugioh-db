@@ -2,17 +2,56 @@
     "id": 37626500,
     "name": "Sprite's Blessing",
     "type": "Spell Card",
+    "humanReadableCardType": "Ritual Spell",
+    "frameType": "spell",
     "desc": "This card can be used to Ritual Summon any LIGHT Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Ritual",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37626500.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37626500.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37626500.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sprite-s-blessing-3183",
+    "card_sets": [
+        {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN156",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN252",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN057",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Invasion: Vengeance",
+            "set_code": "INOV-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37626500,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37626500.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37626500.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37626500.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

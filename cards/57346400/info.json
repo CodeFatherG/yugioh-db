@@ -1,18 +1,59 @@
 {
     "id": 57346400,
     "name": "Guard Dog",
+    "typeline": [
+        "Beast",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: Your opponent cannot Special Summon for the rest of this turn.",
+    "race": "Beast",
     "atk": 1500,
     "def": 500,
     "level": 3,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57346400.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57346400.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57346400.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/guard-dog-4886",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN053",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN204",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "7.51"
+        },
+        {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57346400,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57346400.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57346400.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57346400.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "4.95",
+            "amazon_price": "1.48",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

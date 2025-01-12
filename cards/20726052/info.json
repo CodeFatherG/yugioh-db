@@ -2,17 +2,43 @@
     "id": 20726052,
     "name": "Maliss C GWC-06",
     "type": "Trap Card",
+    "humanReadableCardType": " Trap",
+    "frameType": "trap",
     "desc": "You can activate this card the turn it was Set, by banishing 1 face-up \"Maliss\" monster you control. Special Summon 1 of your \"Maliss\" monsters that is banished or in your GY, then if you control a \"Maliss\" Link Monster, you can gain LP equal to the original ATK of that Special Summoned monster. You can only activate 1 \"Maliss GWC-06\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "",
-    "attribute": null,
-    "scale": null,
     "archetype": "Maliss",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/20726052.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20726052.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20726052.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/maliss-c-gwc-06-14688",
+    "card_sets": [
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN023",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 20726052,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20726052.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20726052.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20726052.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

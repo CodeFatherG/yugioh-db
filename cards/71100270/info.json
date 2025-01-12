@@ -1,18 +1,46 @@
 {
     "id": 71100270,
     "name": "Goblin's Crazy Beast",
+    "typeline": [
+        "Fiend",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 6 monsters\r\nOnce per turn (Quick Effect): You can target 1 Spell/Trap on the field; detach 2 materials from a monster(s) on the field, and if you do, attach that target to this card as material. If a monster(s) you control would be destroyed by card effect, you can detach 1 material from this card instead. If this card is in your GY: You can Special Summon this card, then you can attach 1 \"Goblin\" monster from your GY to this card as material. You can only use this effect of \"Goblin's Crazy Beast\" once per Duel.",
+    "race": "Fiend",
     "atk": 2700,
     "def": 0,
     "level": 6,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Goblin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71100270.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71100270.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71100270.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/goblin-s-crazy-beast-14178",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN048",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71100270,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71100270.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71100270.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71100270.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

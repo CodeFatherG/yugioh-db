@@ -1,14 +1,20 @@
 {
     "id": 32991300,
     "name": "Fiendsmith's Agnumday",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ monsters, including a LIGHT Fiend monster\r\nOnce per turn (Quick Effect): You can target 1 LIGHT non-Link Fiend monster in your GY; Special Summon it, and if you do, equip this card you control to that monster as an Equip Spell with the following effects.\r\n\u25cf The equipped monster gains ATK equal to the total Link Rating of Link Monsters equipped to it x 600.\r\n\u25cf If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "race": "Fiend",
     "atk": 1800,
     "def": null,
     "level": null,
-    "race": "Fiend",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Fiendsmith",
     "linkval": 3,
     "linkmarkers": [
@@ -16,7 +22,31 @@
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/32991300.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32991300.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32991300.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiendsmith-s-agnumday-14595",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN045",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32991300,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32991300.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32991300.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32991300.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

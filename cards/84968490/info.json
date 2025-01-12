@@ -2,17 +2,56 @@
     "id": 84968490,
     "name": "Needlebug Nest",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Send the top 5 cards of your Deck to the GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84968490.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84968490.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84968490.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/needlebug-nest-7126",
+    "card_sets": [
+        {
+            "set_name": "Rise of the True Dragons Structure Deck",
+            "set_code": "SR02-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Zombie Horde",
+            "set_code": "SR07-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN079",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Wing Raiders",
+            "set_code": "WIRA-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84968490,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84968490.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84968490.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84968490.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.46",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

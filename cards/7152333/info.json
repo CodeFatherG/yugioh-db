@@ -1,18 +1,52 @@
 {
     "id": 7152333,
     "name": "Umbral Horror Ghoul",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn: You can make this card's ATK 0, and if you do, Special Summon 1 \"Umbral Horror\" monster with 0 ATK from your hand.",
+    "race": "Fiend",
     "atk": 1800,
     "def": 0,
     "level": 4,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Umbral Horror",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7152333.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7152333.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7152333.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/umbral-horror-ghoul-612",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7152333,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7152333.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7152333.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7152333.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

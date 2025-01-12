@@ -1,18 +1,51 @@
 {
     "id": 27015862,
     "name": "Veda Kalanta",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If a card(s) on the field is destroyed by card effect, and \"Visas Starfrost\" is on the field (except during the Damage Step): You can Special Summon this card from your hand, then you can add 1 \"Clear New World\" from your Deck or GY to your hand. If another monster(s) in your possession is destroyed by card effect (except during the Damage Step): You can target 1 monster your opponent controls; destroy it, and if you do, this card gains ATK equal to that monster's original ATK, until the end of this turn. You can only use each effect of \"Veda Kalanta\" once per turn.",
+    "race": "Warrior",
     "atk": 2500,
     "def": 2100,
     "level": 8,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27015862.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27015862.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27015862.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/veda-kalanta-13820",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN363",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27015862,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27015862.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27015862.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27015862.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

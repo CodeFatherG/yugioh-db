@@ -1,18 +1,52 @@
 {
     "id": 55537983,
     "name": "Mimighoul Master",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be destroyed by battle or card effects while your opponent controls any face-down monsters or you control a \"Mimighoul\" monster other than \"Mimighoul Master\". You can only use each of the following effects of \"Mimighoul Master\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Mimighoul\" monster from your Deck to your hand, except \"Mimighoul Master\". During your opponent's Main Phase (Quick Effect): You can change 1 face-down monster on the field to face-up Attack or Defense Position.",
+    "race": "Zombie",
     "atk": 1800,
     "def": 1200,
     "level": 4,
-    "race": "Zombie",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Mimighoul",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/55537983.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55537983.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55537983.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mimighoul-master-14607",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN090",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN090",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 55537983,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55537983.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55537983.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55537983.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.56",
+            "tcgplayer_price": "0.87",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

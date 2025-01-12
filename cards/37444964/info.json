@@ -2,17 +2,36 @@
     "id": 37444964,
     "name": "Dream Mirror Fantasy",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control a \"Dream Mirror\" monster: Target 1 each of your banished \"Dream Mirror of Joy\" and \"Dream Mirror of Terror\"; shuffle them into the Deck, and if you do, banish 1 card on the field. If a \"Dream Mirror\" card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only activate 1 \"Dream Mirror Fantasy\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dream Mirror",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37444964.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37444964.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37444964.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dream-mirror-fantasy-10507",
+    "card_sets": [
+        {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN091",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37444964,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37444964.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37444964.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37444964.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

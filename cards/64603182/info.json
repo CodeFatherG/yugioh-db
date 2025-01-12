@@ -1,18 +1,45 @@
 {
     "id": 64603182,
     "name": "Ancient Gear Dark Golem",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card's name becomes \"Ancient Gear Golem\" while on the field or in the GY. If this card is Normal or Special Summoned: You can add up to 2 cards (\"Ancient Gear\" cards and/or \"Geartown\") from your Deck to your hand, except \"Ancient Gear Dark Golem\", then discard 1 card, also you cannot Set cards for the rest of this turn. You can only use this effect of \"Ancient Gear Dark Golem\" once per turn. If this card attacks, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step.",
+    "race": "Machine",
     "atk": 3000,
     "def": 3000,
     "level": 8,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Ancient Gear",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64603182.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64603182.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64603182.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-dark-golem-14296",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64603182,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64603182.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64603182.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64603182.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.34",
+            "tcgplayer_price": "1.36",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

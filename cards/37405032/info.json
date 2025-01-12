@@ -1,18 +1,36 @@
 {
     "id": 37405032,
     "name": "Trickstar Aqua Angel",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "(This card is always treated as a \"Marincess\" card.)\r\nLink Monsters that point to this card cannot be destroyed by battle. You can only use each of the following effects of \"Trickstar Aqua Angel\" once per Duel. If you control a \"Trickstar\" or \"Marincess\" monster: You can Special Summon this card from your hand or GY. If this card is sent to the GY as Link Material: You can look at all cards in your opponent's hand and all Set cards they control.",
+    "race": "Fairy",
     "atk": 0,
     "def": 0,
     "level": 4,
-    "race": "Fairy",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Marincess",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37405032.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37405032.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37405032.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trickstar-aqua-angel-14502",
+    "card_images": [
+        {
+            "id": 37405032,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37405032.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37405032.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37405032.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.45",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

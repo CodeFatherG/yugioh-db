@@ -1,18 +1,59 @@
 {
     "id": 37343995,
     "name": "Exosister Martha",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control no monsters, or only Xyz Monsters: You can Special Summon this card from your hand, and if you do, Special Summon 1 \"Exosister Elis\" from your Deck. You cannot Special Summon monsters the turn you activate this effect, except \"Exosister\" monsters. If a card(s) moves out of either GY (except during the Damage Step): You can Special Summon from your Extra Deck, 1 \"Exosister\" Xyz Monster, using this face-up card you control as material. (This is treated as an Xyz Summon.) You can only use each effect of \"Exosister Martha\" once per turn.",
+    "race": "Spellcaster",
     "atk": 1600,
     "def": 800,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Exosister",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37343995.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37343995.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37343995.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/exosister-martha-13146",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN127",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN025",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN025",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37343995,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37343995.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37343995.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37343995.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.73",
+            "tcgplayer_price": "2.25",
+            "ebay_price": "11.95",
+            "amazon_price": "25.50",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

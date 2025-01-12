@@ -1,18 +1,53 @@
 {
     "id": 47710198,
     "name": "Swordsoul Sinister Sovereign - Qixing Longyuan",
+    "typeline": [
+        "Wyrm",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner Wyrm monsters\r\nIf you Synchro Summon another Wyrm monster, while this monster is on the field: You can draw 1 card. If your opponent Special Summons a monster(s) (except during the Damage Step): You can banish 1 of those monster(s), and if you do, inflict 1200 damage to your opponent. When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can banish that card, and if you do, inflict 1200 damage to your opponent. You can only use each effect of \"Swordsoul Sinister Sovereign - Qixing Longyuan\" once per turn.",
+    "race": "Wyrm",
     "atk": 2900,
     "def": 2300,
     "level": 10,
-    "race": "Wyrm",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Swordsoul",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47710198.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47710198.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47710198.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/swordsoul-sinister-sovereign-qixing-longyuan-12692",
+    "card_sets": [
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN041",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN040",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47710198,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47710198.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47710198.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47710198.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.36",
+            "tcgplayer_price": "0.28",
+            "ebay_price": "0.99",
+            "amazon_price": "7.18",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

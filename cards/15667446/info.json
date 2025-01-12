@@ -1,18 +1,59 @@
 {
     "id": 15667446,
     "name": "Latinum, Exarch of Dark World",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, target 1 Fiend-Type monster on the field; Special Summon this card from the Graveyard, then that target (if any) gains 500 ATK.",
+    "race": "Fiend",
     "atk": 1500,
     "def": 2400,
     "level": 6,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Dark World",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15667446.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15667446.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15667446.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/latinum-exarch-of-dark-world-1353",
+    "card_sets": [
+        {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN085",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN085",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Dark World",
+            "set_code": "SR13-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 15667446,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15667446.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15667446.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15667446.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "7.95",
+            "amazon_price": "9.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

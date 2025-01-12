@@ -1,18 +1,70 @@
 {
     "id": 39512984,
     "name": "Gem-Knight Master Diamond",
+    "typeline": [
+        "Rock",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "3 \"Gem-Knight\" monsters\nMust first be Fusion Summoned. This card gains 100 ATK for each \"Gem-\" monster in your Graveyard. Once per turn: You can banish 1 Level 7 or lower \"Gem-Knight\" Fusion Monster from your Graveyard; until the End Phase, this card's name becomes that monster's, and replace this effect with that monster's original effects.",
+    "race": "Rock",
     "atk": 2900,
     "def": 2500,
     "level": 9,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Gem-",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39512984.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39512984.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39512984.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gem-knight-master-diamond-3348",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 7b",
+            "set_code": "DT07-EN083",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 7: Knight of Stars",
+            "set_code": "HA07-EN059",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Star Pack ARC-V",
+            "set_code": "SP15-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Star Pack ARC-V",
+            "set_code": "SP15-EN030",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 39512984,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39512984.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39512984.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39512984.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "1.19",
+            "ebay_price": "2.99",
+            "amazon_price": "3.75",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

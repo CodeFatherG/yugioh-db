@@ -2,17 +2,35 @@
     "id": 11808215,
     "name": "Dice Dungeon",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: You can add 1 \"Dimension Dice\" from your Deck to your hand. At the start of the Battle Phase: You can activate this effect; each player rolls a six-sided die and applies the result to all monsters they control, until the end of this turn.\r\n\u25cf 1: Lose 1000 ATK.\r\n\u25cf 2: Gain 1000 ATK.\r\n\u25cf 3: Lose 500 ATK.\r\n\u25cf 4: Gain 500 ATK.\r\n\u25cf 5: Halve their ATK.\r\n\u25cf 6: Double their ATK.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/11808215.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11808215.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11808215.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dice-dungeon-13318",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN005",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 11808215,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11808215.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11808215.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11808215.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

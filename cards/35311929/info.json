@@ -1,18 +1,45 @@
 {
     "id": 35311929,
     "name": "Fengli the Soldrapom",
+    "typeline": [
+        "Plant",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent from the Deck to your GY by a monster effect: You can Special Summon this card, then, if you control another Plant monster, you can halve the ATK/DEF of 1 monster on the field. You can only use this effect of \"Fengli the Soldrapom\" once per turn. Once per turn, if this card on the field would be destroyed by battle or card effect, you can send 1 Plant monster from your Deck to the GY instead.",
+    "race": "Plant",
     "atk": 800,
     "def": 0,
     "level": 1,
-    "race": "Plant",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35311929.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35311929.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35311929.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fengli-the-soldrapom-12508",
+    "card_sets": [
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.99"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35311929,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35311929.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35311929.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35311929.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 80796456,
     "name": "Number 70: Malevolent Sin",
+    "typeline": [
+        "Insect",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 4 monsters\r\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; banish it until your opponent's next Standby Phase. At the end of the Damage Step, if this card attacked: You can make this card gain 300 ATK, and if you do, increase its Rank by 3.",
+    "race": "Insect",
     "atk": 2400,
     "def": 1200,
     "level": 4,
-    "race": "Insect",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80796456.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80796456.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80796456.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/number-70-malevolent-sin-8308",
+    "card_sets": [
+        {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN014",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "5.28"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80796456,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80796456.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80796456.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80796456.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.20",
+            "tcgplayer_price": "3.87",
+            "ebay_price": "4.42",
+            "amazon_price": "20.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

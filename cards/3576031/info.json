@@ -2,17 +2,43 @@
     "id": 3576031,
     "name": "Crystolic Potential",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "All \"Crystron\" monsters you control gain 300 ATK and DEF. Once per turn, during the End Phase: You can draw cards equal to the number of \"Crystron\" Synchro Monsters you Synchro Summoned this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Crystron",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3576031.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3576031.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3576031.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crystolic-potential-317",
+    "card_sets": [
+        {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN153",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Invasion: Vengeance",
+            "set_code": "INOV-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3576031,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3576031.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3576031.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3576031.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

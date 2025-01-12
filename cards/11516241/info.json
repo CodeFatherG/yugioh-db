@@ -1,14 +1,20 @@
 {
     "id": 11516241,
     "name": "Gouki The Powerload Ogre",
+    "typeline": [
+        "Warrior",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ Warrior monsters\r\nGains ATK equal to the combined Link Ratings of all other Link Monsters you control x 200. This Link Summoned card is unaffected by other cards' effects. You can Tribute 1 \"Gouki\" Link Monster, then target cards on the field, up to its Link Rating; destroy them. You can only use this effect of \"Gouki The Powerload Ogre\" once per turn.",
+    "race": "Warrior",
     "atk": 2800,
     "def": null,
     "level": null,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Gouki",
     "linkval": 4,
     "linkmarkers": [
@@ -17,7 +23,38 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/11516241.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11516241.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11516241.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gouki-the-powerload-ogre-10852",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.87"
+        },
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 11516241,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11516241.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11516241.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11516241.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

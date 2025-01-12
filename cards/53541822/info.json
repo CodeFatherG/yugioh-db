@@ -2,17 +2,36 @@
     "id": 53541822,
     "name": "Ancient Gear Duel",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "\"Ancient Gear Golem\", and monsters that mention it, in your Monster Zone are unaffected by your opponent's activated monster effects. If your opponent controls a monster: You can Fusion Summon 1 Fusion Monster that mentions \"Ancient Gear Golem\" from your Extra Deck, by banishing monsters from your field or GY as material, including \"Ancient Gear Golem\" you control, and if you do, it can make up to 3 attacks during each Battle Phase. You can only use this effect of \"Ancient Gear Duel\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ancient Gear",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53541822.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53541822.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53541822.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-duel-14297",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN072",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53541822,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53541822.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53541822.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53541822.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

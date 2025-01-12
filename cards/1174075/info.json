@@ -1,18 +1,53 @@
 {
     "id": 1174075,
     "name": "Drytron Mu Beta Fafnir",
+    "typeline": [
+        "Machine",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 1 monsters\r\nWhen you Ritual Summon, you can detach a material(s) from this card as monster(s) required for the Ritual Summon. You can only use each of the following effects of \"Drytron Mu Beta Fafnir\" once per turn. If this card is Xyz Summoned: You can send 1 \"Drytron\" card from your Deck to the GY. When your opponent activates a Spell/Trap Card, while you control a Machine Ritual Monster (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card.",
+    "race": "Machine",
     "atk": 2000,
     "def": 0,
     "level": 1,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Drytron",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/1174075.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1174075.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1174075.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/drytron-mu-beta-fafnir-11917",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN084",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN043",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 1174075,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1174075.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1174075.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1174075.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "1.50",
+            "amazon_price": "14.45",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

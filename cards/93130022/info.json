@@ -2,17 +2,36 @@
     "id": 93130022,
     "name": "Option Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as an \"Option Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Machine",
-    "attribute": null,
-    "scale": null,
     "archetype": "Konami Arcade Games",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93130022.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93130022.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93130022.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/option-token-7751",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 20",
+            "set_code": "OP20-EN027",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93130022,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93130022.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93130022.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93130022.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "1.75",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

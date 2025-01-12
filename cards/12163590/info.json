@@ -1,18 +1,36 @@
 {
     "id": 12163590,
     "name": "Dragonmaid Stern",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Dragon Fusion Monsters you control cannot be destroyed by your opponent's card effects. You can only use each of the following effects of \"Dragonmaid Stern\" once per turn. You can discard this card; Special Summon 1 \"Dragonmaid\" monster from your GY or banishment, except \"Dragonmaid Stern\". At the end of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 4 or lower \"Dragonmaid\" monster from your hand.",
+    "race": "Dragon",
     "atk": 2800,
     "def": 1800,
     "level": 9,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Dragonmaid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12163590.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12163590.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12163590.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragonmaid-stern-14834",
+    "card_images": [
+        {
+            "id": 12163590,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12163590.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12163590.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12163590.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

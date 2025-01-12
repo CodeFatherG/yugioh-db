@@ -2,17 +2,57 @@
     "id": 8522996,
     "name": "The First Monarch",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Special Summon this card as an Effect Monster (Fiend-Type/DARK/Level 6/ATK 1000/DEF 2400). (This card is also still a Trap Card.) If Summoned this way: You can discard 1 card, then declare 1 Attribute; this card becomes that Attribute, and can be treated as 2 Tributes for the Tribute Summon of a monster with the same Attribute as this card. If this card was Summoned this way, you cannot Special Summon monsters, except monsters with this card's Attribute.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Monarch",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8522996.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8522996.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8522996.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-first-monarch-722",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN243",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Emperor of Darkness Structure Deck",
+            "set_code": "SR01-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of the Valiant",
+            "set_code": "LVAL-EN089",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN091",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8522996,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8522996.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8522996.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8522996.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "2.28",
+            "amazon_price": "2.54",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

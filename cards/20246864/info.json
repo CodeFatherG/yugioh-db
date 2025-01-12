@@ -1,18 +1,52 @@
 {
     "id": 20246864,
     "name": "Windwitch - Freeze Bell",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If all monsters you control are \"Windwitch\" monsters (min. 1): You can Special Summon this card from your hand. You can only use this effect of \"Windwitch - Freeze Bell\" once per turn. Once per turn, during your Main Phase: You can increase this card's Level by 1. A WIND Synchro Monster that was Summoned using this card as Synchro Material cannot be destroyed by battle.",
+    "race": "Spellcaster",
     "atk": 1200,
     "def": 1200,
     "level": 3,
-    "race": "Spellcaster",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Windwitch",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/20246864.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20246864.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20246864.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/windwitch-freeze-bell-11478",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN017",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 20246864,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20246864.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20246864.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20246864.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "2.96",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,18 +1,44 @@
 {
     "id": 48742406,
     "name": "Fairy Archer",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During your Main Phase, you can inflict 400 damage to your opponent for each face-up LIGHT monster you control. This card cannot attack during the same turn you activate this effect. Only one \"Fairy Archer\" can have its effect activated per turn.",
+    "race": "Fairy",
     "atk": 1400,
     "def": 600,
     "level": 3,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48742406.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48742406.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48742406.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fairy-archer-4165",
+    "card_sets": [
+        {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48742406,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48742406.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48742406.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48742406.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "3.24",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 48505422,
     "name": "Legendary Six Samurai - Shinai",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control \"Legendary Six Samurai - Mizuho\", you can Special Summon this card (from your hand). If this card on the field is Tributed: Target 1 \"Six Samurai\" monster in your GY, except \"Legendary Six Samurai - Shinai\"; add it to your hand.",
+    "race": "Warrior",
     "atk": 1500,
     "def": 1500,
     "level": 3,
-    "race": "Warrior",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Six Samurai",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48505422.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48505422.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48505422.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/legendary-six-samurai-shinai-4142",
+    "card_sets": [
+        {
+            "set_name": "Spirit Warriors",
+            "set_code": "SPWA-EN044",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.4"
+        },
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48505422,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48505422.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48505422.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48505422.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.60",
+            "ebay_price": "3.00",
+            "amazon_price": "3.21",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

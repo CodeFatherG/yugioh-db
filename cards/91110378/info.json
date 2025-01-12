@@ -1,18 +1,59 @@
 {
     "id": 91110378,
     "name": "Star Seraph Sovereignty",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be used as material for an Xyz Summon, except for an Xyz Summon that uses 3 or more monsters as material. If you Normal or Special Summon a \"Star Seraph\" monster(s), except during the Damage Step: You can Special Summon this card from your hand, and if you do, draw 1 card, then you can Special Summon it if it is a \"Star Seraph\" monster.",
+    "race": "Fairy",
     "atk": 800,
     "def": 2000,
     "level": 4,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Star Seraph",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91110378.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91110378.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91110378.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/star-seraph-sovereignty-7606",
+    "card_sets": [
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN046",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN061",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.38"
+        },
+        {
+            "set_name": "World Superstars",
+            "set_code": "WSUP-EN020",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91110378,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91110378.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91110378.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91110378.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "1.40",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

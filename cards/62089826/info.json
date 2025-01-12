@@ -2,17 +2,36 @@
     "id": 62089826,
     "name": "True Light",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Your opponent cannot target \"Blue-Eyes White Dragon\" in your Monster Zone with card effects. If this face-up card is sent from the Spell & Trap Zone to the GY: Destroy all monsters you control. You can only use the following effect of \"True Light\" once per turn. You can activate 1 of these effects;\r\n\u25cf Special Summon 1 \"Blue-Eyes White Dragon\" from your hand or GY.\r\n\u25cf Set 1 Spell/Trap directly from your Deck, that specifically lists \"Blue-Eyes White Dragon\" in its text, with a different name from the cards you control and in your GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Blue-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62089826.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62089826.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62089826.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/true-light-12556",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN255",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.04"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 62089826,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62089826.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62089826.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62089826.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.84",
+            "tcgplayer_price": "3.62",
+            "ebay_price": "2.88",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

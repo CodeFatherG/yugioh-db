@@ -2,17 +2,36 @@
     "id": 32175429,
     "name": "Heroic Call",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Special Summon 1 Warrior monster from your hand or GY, but if you Special Summoned a non-\"Heroic\" monster by this effect, negate its effects, also it cannot attack. If your LP are 500 or less: You can banish this card from your GY, then target 1 face-up monster you control; it gains 500 ATK for each \"Heroic\" card you currently control, and for each \"Heroic\" card attached to Xyz Monsters you currently control. You can only activate 1 \"Heroic Call\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Heroic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32175429.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32175429.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32175429.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heroic-call-13340",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN026",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32175429,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32175429.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32175429.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32175429.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

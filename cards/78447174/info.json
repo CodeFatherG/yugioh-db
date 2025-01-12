@@ -1,18 +1,45 @@
 {
     "id": 78447174,
     "name": "Appliancer Socketroll",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control an \"Appliancer\" monster: You can Special Summon this card from your hand. If another \"Appliancer Socketroll\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can Special Summon 1 \"Appliancer Socketroll\" from your Deck. You can only use each effect of \"Appliancer Socketroll\" once per turn.",
+    "race": "Machine",
     "atk": 100,
     "def": 100,
     "level": 1,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Appliancer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/78447174.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78447174.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78447174.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/appliancer-socketroll-11208",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN035",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.44"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 78447174,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78447174.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78447174.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78447174.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

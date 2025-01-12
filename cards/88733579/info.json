@@ -1,18 +1,66 @@
 {
     "id": 88733579,
     "name": "Drill Bug",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card inflicts Battle Damage to your opponent's Life Points, you can select 1 \"Parasite Paracide\" card from your Deck, shuffle the Deck, and place \"Parasite Paracide\" on top of the Deck.",
+    "race": "Insect",
     "atk": 1100,
     "def": 200,
     "level": 2,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Parasite",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88733579.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88733579.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88733579.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/drill-bug-7418",
+    "card_sets": [
+        {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN192",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.02"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-E078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.36"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-EN078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88733579,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88733579.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88733579.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88733579.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

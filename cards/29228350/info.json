@@ -2,17 +2,35 @@
     "id": 29228350,
     "name": "Dragon Laser",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Send 1 \"Trigon\" equipped to a face-up \"Delta Tri\" you control to the Graveyard, and destroy all monsters your opponent controls.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29228350.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29228350.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29228350.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-laser-2480",
+    "card_sets": [
+        {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29228350,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29228350.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29228350.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29228350.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "5.21",
+            "amazon_price": "9.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

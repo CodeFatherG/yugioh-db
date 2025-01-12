@@ -1,21 +1,50 @@
 {
     "id": 64966519,
     "name": "Dispatchparazzi",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Effect Monsters\r\nWhen another monster you control is targeted for an attack: You can change the attack target to this card, and perform damage calculation. When this card is destroyed by battle with an opponent's monster: You can destroy that opponent's monster, and if you do, gain LP equal to half that monster's original ATK. You can only use each effect of \"Dispatchparazzi\" once per turn.",
+    "race": "Fiend",
     "atk": 100,
     "def": null,
     "level": null,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Left",
         "Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/64966519.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64966519.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64966519.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dispatchparazzi-12207",
+    "card_sets": [
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64966519,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64966519.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64966519.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64966519.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

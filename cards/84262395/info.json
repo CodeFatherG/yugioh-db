@@ -2,17 +2,43 @@
     "id": 84262395,
     "name": "Earthbound Release",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When a Level 6 or higher monster(s) is Normal or Special Summoned: Tribute 1 Level 10 \"Earthbound\" monster; destroy as many monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Earthbound",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84262395.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84262395.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84262395.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/earthbound-release-13991",
+    "card_sets": [
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN022",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84262395,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84262395.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84262395.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84262395.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

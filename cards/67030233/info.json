@@ -1,18 +1,74 @@
 {
     "id": 67030233,
     "name": "Majestic Red Dragon",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "\"Majestic Dragon\" + \"Red Dragon Archfiend\" + 1 non-Tuner monster\nCannot be destroyed by card effects. After damage calculation, if this card attacks: Destroy all Defense Position monsters on the field. Once per turn: You can target 1 face-up monster your opponent controls; negate its effects, and if you do, this card gains ATK equal to that monster's ATK. These changes last until the end of this turn. During the End Phase: Target 1 \"Red Dragon Archfiend\" in your Graveyard; return this card from the field to the Extra Deck, then Special Summon that target.",
+    "race": "Dragon",
     "atk": 4000,
     "def": 3000,
     "level": 10,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Archfiend",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/67030233.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67030233.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67030233.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/majestic-red-dragon-5630",
+    "card_sets": [
+        {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN040",
+            "set_rarity": "Ghost Rare",
+            "set_rarity_code": "(GR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN040",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN040",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Collectible Tins 2010 Wave 1",
+            "set_code": "CT07-EN001",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "6.76"
+        },
+        {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN071",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 67030233,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67030233.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67030233.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67030233.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.78",
+            "tcgplayer_price": "1.24",
+            "ebay_price": "2.00",
+            "amazon_price": "8.72",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

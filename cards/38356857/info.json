@@ -1,18 +1,52 @@
 {
     "id": 38356857,
     "name": "Gishki Grimness",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you Ritual Summon exactly 1 WATER Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire Tribute. If this card is Normal or Special Summoned: You can Special Summon 1 \"Gishki\" monster from your Deck, except \"Gishki Grimness\", also you can only declare attacks with Ritual Monsters until the end of this turn. You can only use this effect of \"Gishki Grimness\" once per turn.",
+    "race": "Fish",
     "atk": 600,
     "def": 700,
     "level": 2,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Gishki",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38356857.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38356857.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38356857.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gishki-grimness-13483",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN171",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38356857,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38356857.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38356857.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38356857.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

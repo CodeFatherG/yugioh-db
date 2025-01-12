@@ -1,18 +1,44 @@
 {
     "id": 24521325,
     "name": "Template Skipper",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
     "type": "Effect Monster",
-    "desc": "You can Special Summon this card (from your hand) to your zone a Cyberse Link Monster points to. You can only Special Summon \"Template Skipper\" once per turn this way. During your Main Phase: You can banish 1 Cyberse monster from your hand or GY, and if you do, this card can be treated as Link Material with the same name as the banished monster if used for a Link Summon this turn. You can only use this effect of \"Template Skipper\" once per turn.",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can Special Summon this card (from your hand) to your zone a Cyberse Link Monster points to. You can only Special Summon \"Template Skipper\" once per turn this way. During your Main Phase: You can banish 1 Cyberse monster from your hand or GY, and if you do, this card's name can be treated as the banished monster's, if used as Link Material this turn. You can only use this effect of \"Template Skipper\" once per turn.",
+    "race": "Cyberse",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Cyberse",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/24521325.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24521325.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24521325.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/template-skipper-14755",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 24521325,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24521325.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24521325.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24521325.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

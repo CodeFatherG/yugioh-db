@@ -2,17 +2,27 @@
     "id": 176393,
     "name": "Koa'ki Meiru Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Koa'ki Meiru Prototype\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Rock",
-    "attribute": null,
-    "scale": null,
     "archetype": "Koa'ki Meiru",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/176393.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/176393.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/176393.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/koa-ki-meiru-token-19",
+    "card_images": [
+        {
+            "id": 176393,
+            "image_url": "https://images.ygoprodeck.com/images/cards/176393.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/176393.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/176393.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "1.45",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

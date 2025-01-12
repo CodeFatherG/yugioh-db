@@ -2,17 +2,42 @@
     "id": 24449083,
     "name": "Court of Justice",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Once per turn: You can Special Summon 1 Fairy-Type monster from your hand. You must control a face-up Level 1 Fairy-Type monster to activate and to resolve this effect. You can only activate the effect of one \"Court of Justice\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/24449083.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24449083.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24449083.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/court-of-justice-2115",
+    "card_sets": [
+        {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN013",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.23"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN058",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 24449083,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24449083.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24449083.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24449083.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

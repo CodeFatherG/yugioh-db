@@ -1,18 +1,51 @@
 {
     "id": 26566878,
     "name": "Fiend Scorpion",
+    "typeline": [
+        "Insect",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A huge scorpion inhabited by the soul of a fiend. Usually it holds back, but has untapped potential.",
+    "race": "Insect",
     "atk": 900,
     "def": 200,
     "level": 2,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/26566878.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26566878.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26566878.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiend-scorpion-2279",
+    "card_sets": [
+        {
+            "set_name": "Ancient Sanctuary",
+            "set_code": "AST-059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.45"
+        },
+        {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN172",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 26566878,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26566878.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26566878.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26566878.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

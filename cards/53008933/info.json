@@ -1,18 +1,52 @@
 {
     "id": 53008933,
     "name": "Archfiend's Advent",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "While you control \"Shining Sarcophagus\", you can Normal Summon this card without Tributing. Other monsters you control gain 500 ATK, during your turn only. If this card is Normal or Special Summoned: You can target 1 monster your opponent controls; take control of it until the End Phase, but that monster cannot attack unless you controlled \"Shining Sarcophagus\" when this effect was activated. You can only use this effect of \"Archfiend's Advent\" once per turn.",
+    "race": "Fiend",
     "atk": 2500,
     "def": 1200,
     "level": 6,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Archfiend",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53008933.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53008933.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53008933.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-s-advent-14403",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN046",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN046",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53008933,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53008933.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53008933.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53008933.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.27",
+            "tcgplayer_price": "3.10",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

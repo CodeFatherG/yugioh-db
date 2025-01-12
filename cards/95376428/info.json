@@ -2,17 +2,35 @@
     "id": 95376428,
     "name": "Extra Net",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "If a monster(s) is Special Summoned from the Extra Deck: The opponent of the player that conducted the Special Summon can apply this effect.\n\u25cf Draw 1 card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/95376428.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95376428.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95376428.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/extra-net-7941",
+    "card_sets": [
+        {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN066",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 95376428,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95376428.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95376428.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95376428.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.51",
+            "tcgplayer_price": "0.50",
+            "ebay_price": "1.36",
+            "amazon_price": "1.06",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

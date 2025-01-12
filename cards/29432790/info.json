@@ -2,17 +2,43 @@
     "id": 29432790,
     "name": "Rage with Eyes of Blue",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Banish this card, and as many cards as possible from your hand, field, and GY, face-down, and if you do, Special Summon up to 3 copies of \"Blue-Eyes White Dragon\" from your Deck. You cannot Normal or Special Summon monsters the turn you activate this card, except \"Blue-Eyes White Dragon\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Blue-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29432790.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29432790.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29432790.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rage-with-eyes-of-blue-9570",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN029",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.66"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29432790,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29432790.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29432790.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29432790.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.37",
+            "tcgplayer_price": "0.64",
+            "ebay_price": "1.98",
+            "amazon_price": "21.98",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

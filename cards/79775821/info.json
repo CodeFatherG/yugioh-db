@@ -2,17 +2,43 @@
     "id": 79775821,
     "name": "Therion Stand Up!",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Therion\" monster in your GY; Special Summon it, then you can equip 1 \"Therion\" monster from your hand or GY to it. During the Main Phase: You can banish this card from your GY, then target 2 \"Therion\" monsters (1 on your field and 1 in your GY); equip that monster from your GY to the other monster you control. You can only use 1 \"Therion Stand Up!\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Therion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/79775821.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79775821.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79775821.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/therion-stand-up-13022",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN101",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.84"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79775821,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79775821.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79775821.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79775821.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "9.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 6906306,
     "name": "Rubysapphirus, the Adamant Jewel",
+    "typeline": [
+        "Rock",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 9 monsters\r\nIf this face-up card would be destroyed, you can detach 1 material from this card instead. Gains the following effects, based on the Attributes of its attached materials.\r\n\u25cf FIRE: When this card declares an attack on a monster with higher ATK: You can make this card's ATK become double its current ATK until the end of the Damage Step.\r\n\u25cf WATER: Once per opponent's turn (Quick Effect): You can target 1 card you control; this turn, negate any card or effect activated by your opponent that targeted that card.",
+    "race": "Rock",
     "atk": 2700,
     "def": 1600,
     "level": 9,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6906306.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6906306.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6906306.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rubysapphirus-the-adamant-jewel-14655",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6906306,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6906306.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6906306.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6906306.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

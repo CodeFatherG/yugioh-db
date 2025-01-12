@@ -2,17 +2,49 @@
     "id": 25345186,
     "name": "After the Struggle",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "This card can only be activated during Main Phase 1. All monsters on both sides of the field that have been involved in damage calculation are destroyed during the End Step of the turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25345186.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25345186.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25345186.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/after-the-struggle-2180",
+    "card_sets": [
+        {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN195",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.17"
+        },
+        {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-086",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.96"
+        },
+        {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-EN086",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "32.67"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25345186,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25345186.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25345186.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25345186.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

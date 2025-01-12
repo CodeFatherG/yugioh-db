@@ -2,17 +2,35 @@
     "id": 46005939,
     "name": "Pendulum Xyz",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 2 cards in your Pendulum Zones; Special Summon both targets, but negate their effects, then, immediately after this effect resolves, Xyz Summon 1 Xyz Monster using only those 2 monsters. When you do, you can treat the Level of 1 of the monsters the same as the other monster's. You can only activate 1 \"Pendulum Xyz\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46005939.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46005939.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46005939.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pendulum-xyz-10757",
+    "card_sets": [
+        {
+            "set_name": "King's Court",
+            "set_code": "KICO-EN023",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.89"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46005939,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46005939.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46005939.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46005939.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "1.77",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

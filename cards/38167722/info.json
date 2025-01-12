@@ -2,17 +2,36 @@
     "id": 38167722,
     "name": "Dark Spirit Art - Greed",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Tribute 1 DARK monster. Draw 2 cards. Your opponent can negate this effect by revealing 1 Spell Card in their hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Greed",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38167722.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38167722.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38167722.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-spirit-art-greed-3236",
+    "card_sets": [
+        {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN070",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38167722,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38167722.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38167722.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38167722.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.38",
+            "tcgplayer_price": "0.94",
+            "ebay_price": "5.00",
+            "amazon_price": "4.49",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

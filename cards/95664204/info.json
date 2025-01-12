@@ -2,17 +2,36 @@
     "id": 95664204,
     "name": "Zexal Catapult",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Special Summon 1 \"ZW -\" or \"ZS -\" monster from your hand, then, if you control a \"Utopia\" monster, you can make all monsters you currently control become all Level 4 or all Level 5. During your Main Phase, except the turn this card was sent to the GY: You can banish 1 \"ZW -\" or \"ZS -\" monster and this card from your GY, then target 1 card your opponent controls; destroy it. You can only use each effect of \"Zexal Catapult\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Zexal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/95664204.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95664204.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95664204.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zexal-catapult-12284",
+    "card_sets": [
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN028",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.24"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 95664204,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95664204.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95664204.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95664204.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.34",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

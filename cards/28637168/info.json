@@ -1,18 +1,72 @@
 {
     "id": 28637168,
     "name": "Crane Crane",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned: You can target 1 Level 3 monster in your GY; Special Summon that target, but it has its effects negated. You can only use this effect of \"Crane Crane\" once per turn.",
+    "race": "Winged Beast",
     "atk": 300,
     "def": 900,
     "level": 3,
-    "race": "Winged Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28637168.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28637168.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28637168.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crane-crane-2439",
+    "card_sets": [
+        {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAX-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Premium Gold",
+            "set_code": "PGLD-EN042",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "1.94"
+        },
+        {
+            "set_name": "Structure Deck: Cyberse Link",
+            "set_code": "SDCL-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Super Starter Power-Up Pack",
+            "set_code": "YS13-ENV06",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Wing Raiders",
+            "set_code": "WIRA-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28637168,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28637168.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28637168.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28637168.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "1.98",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

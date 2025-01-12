@@ -1,18 +1,45 @@
 {
     "id": 83575471,
     "name": "Advanced Crystal Beast Ruby Carbuncle",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If \"Advanced Dark\" is not in a Field Zone, send this monster to the GY. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY. While this card is treated as a Continuous Spell: You can Special Summon this card, then you can Special Summon as many \"Advanced Crystal Beast\" Monster Cards as possible from your Spell & Trap Zones. You can only use this effect of \"Advanced Crystal Beast Ruby Carbuncle\" once per turn.",
+    "race": "Fairy",
     "atk": 300,
     "def": 300,
     "level": 3,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Advanced Crystal Beast",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83575471.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83575471.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83575471.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/advanced-crystal-beast-ruby-carbuncle-13308",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN010",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83575471,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83575471.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83575471.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83575471.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.55",
+            "tcgplayer_price": "0.58",
+            "ebay_price": "3.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

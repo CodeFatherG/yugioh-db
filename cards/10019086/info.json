@@ -1,14 +1,20 @@
 {
     "id": 10019086,
     "name": "Tri-Brigade Arms Bucephalus II",
+    "typeline": [
+        "Winged Beast",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "3+ Beast, Beast-Warrior, and/or Winged Beast monsters\r\nCannot be Special Summoned from the Extra Deck unless you have 3 or more \"Tri-Brigade\" Spells/Traps in your GY. Your opponent cannot activate cards or effects when you Special Summon a monster(s). When a monster declares an attack: You can banish this card, also banish all cards your opponent controls. If this card is sent to the GY: You can send 1 Beast, Beast-Warrior, or Winged Beast monster from your Extra Deck to the GY. You can only use this effect of \"Tri-Brigade Arms Bucephalus II\" once per turn.",
+    "race": "Winged Beast",
     "atk": 3500,
     "def": null,
     "level": null,
-    "race": "Winged Beast",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Tri-Brigade",
     "linkval": 5,
     "linkmarkers": [
@@ -18,7 +24,45 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/10019086.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10019086.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10019086.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tri-brigade-arms-bucephalus-ii-13548",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN175",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN048",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN048",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 10019086,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10019086.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10019086.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10019086.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

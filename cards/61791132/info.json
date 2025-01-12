@@ -1,18 +1,52 @@
 {
     "id": 61791132,
     "name": "Malicevorous Fork",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can send 1 other Fiend-Type monster from your hand to the Graveyard; Special Summon this card from your hand.",
+    "race": "Fiend",
     "atk": 400,
     "def": 400,
     "level": 2,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Malicevorous",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/61791132.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61791132.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61791132.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/malicevorous-fork-5230",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN128",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Shadow Specters",
+            "set_code": "SHSP-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61791132,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61791132.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61791132.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61791132.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "2.50",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

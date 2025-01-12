@@ -1,18 +1,44 @@
 {
     "id": 39396763,
     "name": "Dyna Base",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If your LP are lower than your opponent's: You can Special Summon this card from your hand. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using this card you control and other monsters from your hand or field as material. You can only use each effect of \"Dyna Base\" once per turn.",
+    "race": "Machine",
     "atk": 0,
     "def": 2100,
     "level": 4,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39396763.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39396763.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39396763.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dyna-base-13328",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN017",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39396763,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39396763.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39396763.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39396763.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "2.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

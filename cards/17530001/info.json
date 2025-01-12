@@ -1,18 +1,51 @@
 {
     "id": 17530001,
     "name": "Cuben",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn: You can roll a six-sided die, and while this monster is face-up on the field, neither player can Normal or Special Summon monsters with the same Level as the result.",
+    "race": "Thunder",
     "atk": 600,
     "def": 1900,
     "level": 4,
-    "race": "Thunder",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17530001.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17530001.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17530001.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cuben-1522",
+    "card_sets": [
+        {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Shining Victories",
+            "set_code": "SHVI-EN090",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17530001,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17530001.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17530001.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17530001.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.30",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

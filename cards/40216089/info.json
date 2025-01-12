@@ -1,21 +1,51 @@
 {
     "id": 40216089,
     "name": "Platinum Gadget",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Machine monsters\r\nCannot be used as Link Material the turn it is Link Summoned. During your Main Phase: You can Special Summon 1 Level 4 or lower Machine monster from your hand to your zone this card points to. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 \"Gadget\" monster from your Deck. You can only use each effect of \"Platinum Gadget\" once per turn.",
+    "race": "Machine",
     "atk": 1600,
     "def": null,
     "level": null,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Gadget",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/40216089.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40216089.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40216089.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/platinum-gadget-9913",
+    "card_sets": [
+        {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN039",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "5.85"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 40216089,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40216089.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40216089.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40216089.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.53",
+            "tcgplayer_price": "4.55",
+            "ebay_price": "8.99",
+            "amazon_price": "4.93",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

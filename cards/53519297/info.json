@@ -2,17 +2,43 @@
     "id": 53519297,
     "name": "Blackboost",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Banish 2 face-up \"Blackwing\" Tuner monsters you control; draw 2 cards.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Blackwing",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53519297.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53519297.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53519297.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blackboost-4557",
+    "card_sets": [
+        {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN144",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.16"
+        },
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN065",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53519297,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53519297.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53519297.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53519297.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

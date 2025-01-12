@@ -1,18 +1,44 @@
 {
     "id": 17643265,
     "name": "Double Shark",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned: You can reduce the Levels of all Level 4 Fish-Type monsters you currently control by 1. This card can make a second attack during each Battle Phase.",
+    "race": "Fish",
     "atk": 1200,
     "def": 1600,
     "level": 4,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17643265.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17643265.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17643265.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/double-shark-1534",
+    "card_sets": [
+        {
+            "set_name": "Cosmo Blazer",
+            "set_code": "CBLZ-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17643265,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17643265.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17643265.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17643265.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "1.27",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

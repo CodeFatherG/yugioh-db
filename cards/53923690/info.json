@@ -2,17 +2,35 @@
     "id": 53923690,
     "name": "Omega Judgment",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 face-up Monster Card in your Spell & Trap Zone and 2 cards your opponent controls; destroy them.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53923690.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53923690.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53923690.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/omega-judgment-13269",
+    "card_sets": [
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN084",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.88"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53923690,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53923690.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53923690.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53923690.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 74741494,
     "name": "Level Tuning",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Reduce the Level of all face-up monsters you control by 1, until the End Phase.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74741494.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74741494.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74741494.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/level-tuning-6289",
+    "card_sets": [
+        {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 74741494,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74741494.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74741494.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74741494.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "1.39",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

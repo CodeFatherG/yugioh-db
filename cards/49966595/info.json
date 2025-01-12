@@ -2,17 +2,36 @@
     "id": 49966595,
     "name": "Graydle Parasite",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "When an opponent's monster declares a direct attack: You can Special Summon 1 \"Graydle\" monster from your Deck in Attack Position, if you control no monsters. When a \"Graydle\" monster you control declares a direct attack: You can target 1 monster in your opponent's Graveyard; Special Summon that target to their side of the field, if they control no monsters. You can only use each effect of \"Graydle Parasite\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Graydle",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49966595.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49966595.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49966595.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/graydle-parasite-4256",
+    "card_sets": [
+        {
+            "set_name": "Dimension of Chaos",
+            "set_code": "DOCS-EN074",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49966595,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49966595.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49966595.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49966595.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.80",
+            "tcgplayer_price": "0.45",
+            "ebay_price": "3.20",
+            "amazon_price": "3.77",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

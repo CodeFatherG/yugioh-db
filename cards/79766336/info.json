@@ -2,17 +2,42 @@
     "id": 79766336,
     "name": "Trap of Darkness",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If your LP is 3000 or less: Pay 1000 LP, then target 1 Normal Trap in your GY, except \"Trap of Darkness\"; this card's effect becomes that target's activated effect, then banish that target.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/79766336.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79766336.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79766336.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trap-of-darkness-6686",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN092",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79766336,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79766336.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79766336.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79766336.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,27 @@
     "id": 12958920,
     "name": "Skyblaster Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as a \"Skyblaster Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Fiend",
-    "attribute": null,
-    "scale": null,
     "archetype": "Skyblaster",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12958920.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12958920.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12958920.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/skyblaster-token-1115",
+    "card_images": [
+        {
+            "id": 12958920,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12958920.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12958920.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12958920.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.50",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.99",
+            "amazon_price": "1.33",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

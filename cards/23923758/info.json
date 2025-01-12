@@ -1,18 +1,35 @@
 {
     "id": 23923758,
     "name": "Steam Knight - Hamburk",
+    "typeline": [
+        "Warrior",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''One of the knights, he is equipped with \"BFS Armor\", which is made of a dense steel carefully refined at the factory, and \"Foil-Packer\", a special mechanism that can be converted into various weapons depending on the state of combat, thanks to it being linked with the highly analytical \"Coc-OS\". Although \"Hamburk\" is equipped with the usual suite of equipment, he is incredibly popular thanks to his combat style being extremely high calorie. His power is further enhanced by the blessings of the goddess \"Madera\".''",
+    "race": "Warrior",
     "atk": 2500,
     "def": 200,
     "level": 8,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23923758.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23923758.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23923758.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/steam-knight-hamburk-13975",
+    "card_images": [
+        {
+            "id": 23923758,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23923758.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23923758.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23923758.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "19.90",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

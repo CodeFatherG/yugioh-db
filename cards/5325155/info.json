@@ -1,18 +1,46 @@
 {
     "id": 5325155,
     "name": "Tsukahagi, the Poisonous Mayakashi",
+    "typeline": [
+        "Zombie",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "You can only control 1 \"Tsukahagi, the Poisonous Mayakashi\". If a \"Mayakashi\" monster(s) in your possession, except \"Tsukahagi, the Poisonous Mayakashi\", is destroyed by battle or an opponent's card effect, while this card is in the GY: You can Special Summon this card. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except \"Mayakashi\" monsters.",
+    "race": "Zombie",
     "atk": 0,
     "def": 2000,
     "level": 2,
-    "race": "Zombie",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Mayakashi",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5325155.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5325155.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5325155.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tsukahagi-the-poisonous-mayakashi-9731",
+    "card_sets": [
+        {
+            "set_name": "Hidden Summoners",
+            "set_code": "HISU-EN028",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5325155,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5325155.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5325155.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5325155.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

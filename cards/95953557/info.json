@@ -1,18 +1,52 @@
 {
     "id": 95953557,
     "name": "Infernoble Knight Astolfo",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can banish 1 FIRE Warrior monster from your hand or GY; Special Summon this card from your hand, then you can make this card's Level become the Level of that banished monster. You can banish this card from your GY; Special Summon this banished card during your second Standby Phase after this effect's activation, then you can Special Summon 1 of your FIRE Warrior monsters that is banished or in your GY. You can only use each effect of \"Infernoble Knight Astolfo\" once per Duel.",
+    "race": "Warrior",
     "atk": 500,
     "def": 200,
     "level": 1,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Noble Knight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/95953557.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95953557.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95953557.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/infernoble-knight-astolfo-11004",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN108",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.86"
+        },
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.02"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 95953557,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95953557.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95953557.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95953557.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

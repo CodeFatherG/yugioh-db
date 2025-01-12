@@ -2,17 +2,42 @@
     "id": 6351147,
     "name": "Transaction Rollback",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Pay half your LP, then target 1 Normal Trap in your opponent's GY, except \"Transaction Rollback\"; this effect becomes that card's activation effect. You can banish this card from your GY and pay half your LP, then target 1 Normal Trap in your GY, except \"Transaction Rollback\"; this effect becomes that card's activation effect. You can only use 1 \"Transaction Rollback\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6351147.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6351147.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6351147.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/transaction-rollback-13855",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN134",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN038",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6351147,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6351147.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6351147.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6351147.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.34",
+            "tcgplayer_price": "7.13",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

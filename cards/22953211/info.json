@@ -1,22 +1,58 @@
 {
     "id": 22953211,
     "name": "Bellcat Fighter",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "3 monsters, including a Token\r\nWhen this card destroys an opponent's monster by battle: You can Special Summon 1 \"Bellcat Token\" (Machine/WIND/Level 4/ATK 2000/DEF 2000) in Defense Position.",
+    "race": "Machine",
     "atk": 2000,
     "def": null,
     "level": null,
-    "race": "Machine",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
     "linkval": 3,
     "linkmarkers": [
         "Top",
         "Left",
         "Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/22953211.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22953211.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22953211.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bellcat-fighter-9554",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.87"
+        },
+        {
+            "set_name": "Ignition Assault",
+            "set_code": "IGAS-EN095",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22953211,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22953211.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22953211.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22953211.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

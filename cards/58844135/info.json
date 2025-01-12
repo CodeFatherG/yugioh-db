@@ -1,18 +1,55 @@
 {
     "id": 58844135,
     "name": "Antihuman Intelligence ME-PSY-YA",
+    "typeline": [
+        "Cyberse",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nAny card sent to the GY is banished instead, except Monster Cards.\n\n[ Monster Effect ] \nYou can reveal this card in your hand; add 1 other Pendulum Monster from your hand, or 1 card from your Pendulum Zone, to its owner's Extra Deck face-up, and if you do, Special Summon this card. You can only use this effect of \"Antihuman Intelligence ME-PSY-YA\" once per turn. If another monster(s) is Normal or Special Summoned while you control this card: Send that monster(s) to the GY during the End Phase of this turn.",
+    "race": "Cyberse",
+    "pend_desc": "Any card sent to the GY is banished instead, except Monster Cards.",
+    "monster_desc": "You can reveal this card in your hand; add 1 other Pendulum Monster from your hand, or 1 card from your Pendulum Zone, to its owner's Extra Deck face-up, and if you do, Special Summon this card. You can only use this effect of \"Antihuman Intelligence ME-PSY-YA\" once per turn. If another monster(s) is Normal or Special Summoned while you control this card: Send that monster(s) to the GY during the End Phase of this turn.",
     "atk": 2500,
     "def": 3000,
     "level": 8,
-    "race": "Cyberse",
     "attribute": "LIGHT",
     "scale": 0,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58844135.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58844135.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58844135.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/antihuman-intelligence-me-psy-ya-12167",
+    "card_sets": [
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN024",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN024",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58844135,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58844135.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58844135.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58844135.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.62",
+            "tcgplayer_price": "0.71",
+            "ebay_price": "2.50",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

@@ -1,18 +1,46 @@
 {
     "id": 48421595,
     "name": "Necro Synchron",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "This card's name becomes \"Fleur Synchron\" while on the field or in the GY. You can only use each of the following effects of \"Necro Synchron\" once per turn. You can target 1 other face-up monster you control; increase its Level by 2 until the end of this turn. If this card is sent to the GY as Synchro Material for a WIND monster: You can Special Summon 1 Level 1 Plant monster from your Deck.",
+    "race": "Machine",
     "atk": 200,
     "def": 400,
     "level": 2,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Synchron",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48421595.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48421595.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48421595.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/necro-synchron-12219",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Synchro Storm",
+            "set_code": "LED8-EN023",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.61"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48421595,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48421595.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48421595.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48421595.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.50",
+            "amazon_price": "0.53",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

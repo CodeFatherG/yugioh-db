@@ -1,21 +1,58 @@
 {
     "id": 71607202,
     "name": "Muckraker From the Underworld",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Effect Monsters\r\nCannot be used as Link Material the turn it is Link Summoned. If a monster(s) you control would be destroyed by battle or card effect, you can Tribute 1 Fiend monster instead. You can target 1 Fiend monster in your GY, except \"Muckraker From the Underworld\"; discard 1 card, and if you do, Special Summon that monster, also you cannot Special Summon monsters for the rest of this turn, except Fiend monsters. You can only use this effect of \"Muckraker From the Underworld\" once per turn.",
+    "race": "Fiend",
     "atk": 1000,
     "def": null,
     "level": null,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "From the Underworld",
     "linkval": 2,
     "linkmarkers": [
         "Left",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/71607202.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71607202.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71607202.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/muckraker-from-the-underworld-13406",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN194",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN051",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71607202,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71607202.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71607202.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71607202.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.32",
+            "tcgplayer_price": "0.69",
+            "ebay_price": "10.34",
+            "amazon_price": "2.97",
+            "coolstuffinc_price": "4.99"
+        }
+    ]
 }

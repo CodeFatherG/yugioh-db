@@ -1,18 +1,52 @@
 {
     "id": 80611581,
     "name": "Floowandereeze & Empen",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Tribute Summoned: You can add 1 \"Floowandereeze\" Spell/Trap from your Deck to your hand, then immediately after this effect resolves, you can Normal Summon 1 monster. While this Tribute Summoned card is in the Monster Zone, your opponent cannot activate the effects of Special Summoned monsters they control in Attack Position. Once per battle, during damage calculation, if this card battles an opponent's monster (Quick Effect): You can banish 1 card from your hand; that opponent's monster's current ATK/DEF become halved until the end of this turn.",
+    "race": "Winged Beast",
     "atk": 2700,
     "def": 1000,
     "level": 10,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Floowandereeze",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80611581.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80611581.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80611581.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/floowandereeze-empen-12336",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN198",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN017",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80611581,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80611581.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80611581.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80611581.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.50",
+            "amazon_price": "0.57",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

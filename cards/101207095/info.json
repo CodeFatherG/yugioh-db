@@ -2,17 +2,43 @@
     "id": 101207095,
     "name": "Mitsurugi Ritual",
     "type": "Spell Card",
+    "humanReadableCardType": "Ritual Spell",
+    "frameType": "spell",
     "desc": "This card can be used to Ritual Summon any Reptile Ritual Monster. Activate 1 of these effects (but you can only use each effect of \"Mitsurugi Ritual\" once per turn);\r\n\u25cf Ritual Summon 1 Reptile Ritual Monster from your Deck, by Tributing Reptile monsters from your hand or field whose total Levels equal the Level of the Ritual Monster.\r\n\u25cf Ritual Summon 1 Reptile Ritual Monster from your hand, by Tributing up to 2 Reptile monsters from your hand, Deck, or field, whose total Levels equal the Level of the Ritual Monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Ritual",
-    "attribute": null,
-    "scale": null,
     "archetype": "Mitsurugi",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/101207095.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101207095.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101207095.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mitsurugi-ritual-14833",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN095",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN095",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 101207095,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101207095.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101207095.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101207095.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

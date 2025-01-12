@@ -1,18 +1,46 @@
 {
     "id": 61398234,
     "name": "Gate Guardian of Wind and Water",
+    "typeline": [
+        "Spellcaster",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "\"Kazejin\" + \"Suijin\"\r\nMust be Special Summoned (from your Extra Deck) by banishing the above cards you control. Once per Chain, when your opponent activates a Spell/Trap Card or effect on the field (Quick Effect): You can negate that effect. You can only use this effect of \"Gate Guardian of Wind and Water\" twice per turn. If this face-up Special Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 of your banished \"Kazejin\" or \"Suijin\".",
+    "race": "Spellcaster",
     "atk": 2450,
     "def": 2300,
     "level": 9,
-    "race": "Spellcaster",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Gate Guardian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/61398234.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61398234.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61398234.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gate-guardian-of-wind-and-water-13761",
+    "card_sets": [
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61398234,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61398234.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61398234.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61398234.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.94",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

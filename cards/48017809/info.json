@@ -2,17 +2,35 @@
     "id": 48017809,
     "name": "Mirage Tube",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "This card cannot be activated from your hand. Activate only when a face-up monster you control is selected as an attack target. Inflict 1000 damage to your opponent.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48017809.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48017809.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48017809.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mirage-tube-4100",
+    "card_sets": [
+        {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48017809,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48017809.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48017809.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48017809.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 25191307,
     "name": "Raidraptor - Bloom Vulture",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you do not control any face-up monsters, other than Winged Beast monsters: You can Special Summon both this card and 1 \"Raidraptor\" monster from your hand. If you control no monsters: You can target 2 Level 4 or lower \"Raidraptor\" monsters in your GY, including this card; Special Summon them in Defense Position. You can only use 1 \"Raidraptor - Bloom Vulture\" effect per turn, and only once that turn, also you cannot Special Summon monsters the turn you activate either of these effects, except DARK monsters.",
+    "race": "Winged Beast",
     "atk": 300,
     "def": 1900,
     "level": 4,
-    "race": "Winged Beast",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Raidraptor",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25191307.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25191307.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25191307.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/raidraptor-bloom-vulture-14208",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25191307,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25191307.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25191307.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25191307.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.65",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

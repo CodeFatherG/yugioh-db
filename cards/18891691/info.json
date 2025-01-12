@@ -1,18 +1,58 @@
 {
     "id": 18891691,
     "name": "Perfect Machine King",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card gains 500 ATK for each other Machine-Type monster on the field.",
+    "race": "Machine",
     "atk": 2700,
     "def": 1500,
     "level": 8,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/18891691.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18891691.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18891691.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/perfect-machine-king-1631",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN072",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rise of Destiny",
+            "set_code": "RDS-EN012",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rise of Destiny",
+            "set_code": "RDS-EN012",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 18891691,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18891691.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18891691.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18891691.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.52",
+            "tcgplayer_price": "4.07",
+            "ebay_price": "10.00",
+            "amazon_price": "96.42",
+            "coolstuffinc_price": "19.99"
+        }
+    ]
 }

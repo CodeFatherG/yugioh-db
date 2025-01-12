@@ -2,17 +2,35 @@
     "id": 50292967,
     "name": "Past Image",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control a face-up Psychic-Type monster: Target 1 monster your opponent controls; banish it. During the next Standby Phase, it returns to the opponent's side of the field in the same Battle Position.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50292967.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50292967.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50292967.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/past-image-4286",
+    "card_sets": [
+        {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50292967,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50292967.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50292967.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50292967.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 52382379,
     "name": "Nemleria Dream Devourer - Reveil",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your hand or GY: You can banish 3 cards from your Extra Deck face-down, except \"Dreaming Nemleria\"; Special Summon this card. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except Pendulum Monsters. You can send 1 other Level 10 Beast monster from your hand or face-up field to the GY; Set 1 \"Nemleria\" Trap directly from your Deck. You can only use each effect of \"Nemleria Dream Devourer - Reveil\" once per turn.",
+    "race": "Beast",
     "atk": 2500,
     "def": 2500,
     "level": 10,
-    "race": "Beast",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Nemleria",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52382379.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52382379.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52382379.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nemleria-dream-devourer-reveil-13898",
+    "card_sets": [
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52382379,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52382379.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52382379.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52382379.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

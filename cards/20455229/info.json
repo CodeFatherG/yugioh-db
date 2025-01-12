@@ -1,18 +1,45 @@
 {
     "id": 20455229,
     "name": "Firewall Defenser",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent to the GY as material for the Link Summon of a Cyberse monster: You can Special Summon 1 \"Firewall\" monster from your Deck, except \"Firewall Defenser\". You cannot Special Summon monsters the turn you activate this effect, except Cyberse monsters. If a \"Firewall\" monster(s) you control would be destroyed by card effect, you can banish this card from your GY instead. You can only use each effect of \"Firewall Defenser\" once per turn.",
+    "race": "Cyberse",
     "atk": 1200,
     "def": 1500,
     "level": 4,
-    "race": "Cyberse",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Firewall",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/20455229.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20455229.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20455229.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/firewall-defenser-13602",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 20455229,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20455229.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20455229.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20455229.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.13",
+            "tcgplayer_price": "5.52",
+            "ebay_price": "11.90",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "7.99"
+        }
+    ]
 }

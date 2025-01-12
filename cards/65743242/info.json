@@ -2,17 +2,50 @@
     "id": 65743242,
     "name": "Call of the Earthbound",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When an opponent's monster declares an attack: You choose the target of the attack.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Earthbound",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65743242.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65743242.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65743242.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/call-of-the-earthbound-5536",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Immortal Destiny",
+            "set_code": "LED5-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Duelists: Season 3",
+            "set_code": "LDS3-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.91"
+        },
+        {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN096",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65743242,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65743242.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65743242.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65743242.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.89",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

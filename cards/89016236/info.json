@@ -1,18 +1,46 @@
 {
     "id": 89016236,
     "name": "Poeltis de Nouvelles",
+    "typeline": [
+        "Beast-Warrior",
+        "Ritual",
+        "Effect"
+    ],
     "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
     "desc": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can draw 1 card. When a card or effect is activated that targets a monster on the field, or when a monster is targeted for an attack (Quick Effect): You can Tribute 1 \"Nouvelles\" monster you control and 1 Attack Position monster on either field, and if you do, Special Summon 1 Level 4 or 5 \"Nouvelles\" Ritual Monster from your hand or Deck. You can only use each effect of \"Poeltis de Nouvelles\" once per turn.",
+    "race": "Beast-Warrior",
     "atk": 1200,
     "def": 1850,
     "level": 3,
-    "race": "Beast-Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Nouvelles",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/89016236.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89016236.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89016236.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/poeltis-de-nouvelles-13747",
+    "card_sets": [
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN031",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 89016236,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89016236.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89016236.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89016236.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

@@ -2,17 +2,64 @@
     "id": 96598015,
     "name": "Pot of Riches",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Shuffle 3 Pendulum Monsters into the Deck, from your GY and/or face-up from your Extra Deck, then draw 2 cards. You can only activate 1 \"Pot of Riches\" per turn. You cannot Special Summon the turn you activate this card, except by Pendulum Summon.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Greed",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96598015.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96598015.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96598015.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pot-of-riches-8038",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN233",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Ancient Guardians",
+            "set_code": "ANGU-EN055",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.51"
+        },
+        {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENC20",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.32"
+        },
+        {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN063",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Pot Collection",
+            "set_code": "TBC1-EN005",
+            "set_rarity": "Ultra Parallel Rare",
+            "set_rarity_code": "(UPR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96598015,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96598015.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96598015.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96598015.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "1.69",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

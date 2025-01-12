@@ -2,17 +2,35 @@
     "id": 300302072,
     "name": "Setting Sun",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Amnael",
+    "frameType": "skill",
     "desc": "Once per turn, during your Main Phase, if you control a monster whose ATK was ? in the Deck, you can banish 1 card from your hand, then add 1 monster from your Deck to your hand with ? ATK, but with a different name than the cards you control. \"Helios\" monsters you control cannot be banished.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Amnael",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302072.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302072.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302072.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/setting-sun-13948",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENS14",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302072,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302072.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302072.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302072.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

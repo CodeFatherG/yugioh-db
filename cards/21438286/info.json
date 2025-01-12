@@ -2,17 +2,43 @@
     "id": 21438286,
     "name": "Archfiend's Staff of Despair",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "Equip only to a monster you control. During your Main Phase: You can make all monsters your opponent currently controls lose ATK equal to half the equipped monster's ATK, until the end of this turn (even if this card leaves the field). If this card is sent to the GY while equipped to a monster: You can pay 1000 LP; return this card to your hand. You can only use each effect of \"Archfiend's Staff of Despair\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
     "archetype": "Archfiend",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21438286.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21438286.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21438286.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-s-staff-of-despair-11640",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN036",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21438286,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21438286.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21438286.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21438286.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "3.29",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

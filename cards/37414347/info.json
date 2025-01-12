@@ -1,21 +1,58 @@
 {
     "id": 37414347,
     "name": "F.A. Shining Star GT",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Machine monsters\r\nGains ATK equal to the total Levels of the \"F.A.\" monsters this card points to x 300. Neither player takes any battle damage from attacks involving this card. Each time a \"F.A.\" Spell/Trap Card or effect is activated: Place 1 Athlete Counter on this card. When your opponent activates a monster effect (Quick Effect): You can remove 1 Athlete Counter from this card; negate the activation, and if you do, destroy it. You can only use this effect of \"F.A. Shining Star GT\" once per turn.",
+    "race": "Machine",
     "atk": 0,
     "def": null,
     "level": null,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "F.A.",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/37414347.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37414347.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37414347.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/f-a-shining-star-gt-9722",
+    "card_sets": [
+        {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN144",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.01"
+        },
+        {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN097",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37414347,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37414347.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37414347.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37414347.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

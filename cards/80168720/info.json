@@ -2,17 +2,56 @@
     "id": 80168720,
     "name": "Darkness Approaches",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Discard 2 cards from your hand. Select 1 face-up monster and change it to face-down Defense Position.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80168720.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80168720.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80168720.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/darkness-approaches-6722",
+    "card_sets": [
+        {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-040",
+            "set_rarity": "Super Short Print",
+            "set_rarity_code": "(SSP)",
+            "set_price": "1.78"
+        },
+        {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-E040",
+            "set_rarity": "Super Short Print",
+            "set_rarity_code": "(SSP)",
+            "set_price": "8.13"
+        },
+        {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-040",
+            "set_rarity": "Super Short Print",
+            "set_rarity_code": "(SSP)",
+            "set_price": "1.68"
+        },
+        {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-EN040",
+            "set_rarity": "Super Short Print",
+            "set_rarity_code": "(SSP)",
+            "set_price": "2.21"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80168720,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80168720.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80168720.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80168720.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "1.29",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

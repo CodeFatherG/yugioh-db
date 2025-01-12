@@ -2,17 +2,43 @@
     "id": 23639291,
     "name": "Raging Cloudian",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only when a \"Cloudian\" monster(s) you control is destroyed by its own effect and sent to the Graveyard. Special Summon 1 of those monsters from your Graveyard in Attack Position and place 1 Fog Counter on it. It cannot be changed to Defense Position by a card effect.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Cloudian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23639291.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23639291.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23639291.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/raging-cloudian-2039",
+    "card_sets": [
+        {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENH18",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 23639291,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23639291.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23639291.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23639291.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.01",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

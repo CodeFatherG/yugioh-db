@@ -2,17 +2,43 @@
     "id": 88069166,
     "name": "Odin's Eye",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Once per turn, during each player's Standby Phase: You can target 1 \"Aesir\" monster you control; negate its effects until the end of this turn, and if you do, look at all cards in your opponent's hand and all Set cards they control. Your opponent cannot activate cards or effects in response to this effect's activation.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Aesir",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88069166.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88069166.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88069166.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/odin-s-eye-7363",
+    "card_sets": [
+        {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN202",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.2"
+        },
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN072",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88069166,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88069166.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88069166.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88069166.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.95",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

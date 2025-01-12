@@ -2,17 +2,26 @@
     "id": 12965762,
     "name": "Wicked Plant Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Des Dendle\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Plant",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12965762.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12965762.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12965762.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wicked-plant-token-1117",
+    "card_images": [
+        {
+            "id": 12965762,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12965762.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12965762.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12965762.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

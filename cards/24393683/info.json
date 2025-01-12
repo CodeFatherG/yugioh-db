@@ -2,17 +2,43 @@
     "id": 24393683,
     "name": "Gunkan Suship Daily Special",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "(When you activate this card, you can also reveal 1 \"Gunkan Suship Shari\" in your hand.) Reveal 3 \"Gunkan\" monsters from your Deck, your opponent chooses 1 of them for you to add to your hand, also shuffle the rest into your Deck. If you revealed \"Gunkan Suship Shari\" in your hand at activation, you can choose the card to add to your hand, instead of your opponent choosing. If this card is in your GY, except the turn it was sent there: You can banish this card, then target 3 \"Gunkan\" monsters in your GY; shuffle them into the Deck, then draw 1 card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Gunkan",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/24393683.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24393683.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24393683.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gunkan-suship-daily-special-12096",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN169",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN074",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.86"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 24393683,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24393683.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24393683.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24393683.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.95",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

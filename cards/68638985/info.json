@@ -1,18 +1,52 @@
 {
     "id": 68638985,
     "name": "Slime Toad",
+    "typeline": [
+        "Aqua",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A slime with the head of a frog, it attacks by croaking terribly.",
+    "race": "Aqua",
     "atk": 700,
     "def": 500,
     "level": 2,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Frog",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68638985.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68638985.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68638985.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/slime-toad-5768",
+    "card_sets": [
+        {
+            "set_name": "McDonald's Promotional Cards",
+            "set_code": "MP1-004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "6.57"
+        },
+        {
+            "set_name": "OTS Tournament Pack 3",
+            "set_code": "OP03-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 68638985,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68638985.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68638985.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68638985.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.31",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

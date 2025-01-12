@@ -2,17 +2,43 @@
     "id": 71164684,
     "name": "Mannadium Breakheart",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 Tuner or 1 Synchro Monster in your GY; Special Summon it, then if you Special Summoned a LIGHT monster, you can destroy 1 monster your opponent controls with ATK less than or equal to the Special Summoned monster's. If \"Visas Starfrost\", or a monster with 1500 ATK/2100 DEF, you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use each effect of \"Mannadium Breakheart\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Heart",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71164684.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71164684.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71164684.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mannadium-breakheart-13650",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN352",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN072",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71164684,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71164684.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71164684.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71164684.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

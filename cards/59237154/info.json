@@ -2,17 +2,49 @@
     "id": 59237154,
     "name": "Shifting Shadows",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Once per turn, by paying 300 Life Points, rearrange the face-down Defense Position monsters in your Main Monster Zones, then return them in face-down Defense Position.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59237154.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59237154.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59237154.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shifting-shadows-5034",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN227",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Invincible Fortress",
+            "set_code": "SD7-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+        },
+        {
+            "set_name": "The Lost Millennium",
+            "set_code": "TLM-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59237154,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59237154.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59237154.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59237154.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "1.49",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

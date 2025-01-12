@@ -1,18 +1,44 @@
 {
     "id": 63378869,
     "name": "Aiza the Dragoness of Deranged Devotion",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Special Summoned: You can place 1 Deranged Counter on 1 face-up monster your opponent controls, and it cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon while it has that counter. At the start of the Damage Step, if this card battles an opponent's monster with a Deranged Counter: You can destroy that opponent's monster, and if you do, both players take damage equal to its original ATK, also destroy this card at the end of this Battle Phase. You can only use each effect of \"Aiza the Dragoness of Deranged Devotion\" once per turn.",
+    "race": "Dragon",
     "atk": 1500,
     "def": 0,
     "level": 4,
-    "race": "Dragon",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/63378869.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63378869.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63378869.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/aiza-the-dragoness-of-deranged-devotion-14478",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN088",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 63378869,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63378869.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63378869.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63378869.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

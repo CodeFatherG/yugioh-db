@@ -2,17 +2,36 @@
     "id": 69003792,
     "name": "Megalith Unformed",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Activate 1 of these effects;\r\n\u25cf All monsters your opponent controls lose 500 ATK for each Ritual Monster on the field, until the end of this turn.\r\n\u25cf Ritual Summon 1 \"Megalith\" Ritual Monster from your Deck in Defense Position, by Tributing monsters from your hand or field whose total Levels equal exactly twice its Level.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Megalith",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/69003792.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69003792.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69003792.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/megalith-unformed-10829",
+    "card_sets": [
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 69003792,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69003792.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69003792.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69003792.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

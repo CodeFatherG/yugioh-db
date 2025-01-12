@@ -2,17 +2,50 @@
     "id": 14220547,
     "name": "Branded in Central Dogmatika",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "If you Special Summon 1 Ritual Monster (and no other cards) by a Spell Card or effect (except during the Damage Step): You can look at either player's Extra Deck, and send 1 monster from it to the GY. If you Special Summon 1 Fusion Monster (and no other cards) by a Spell Card or effect (except during the Damage Step): You can target that monster; for the rest of this turn, it gains ATK equal to its original ATK, also it can only attack Attack Position monsters your opponent controls. You can only use each effect of \"Branded in Central Dogmatika\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Branded",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14220547.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14220547.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14220547.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/branded-in-central-dogmatika-13183",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN138",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN302",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN058",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.8"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14220547,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14220547.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14220547.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14220547.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

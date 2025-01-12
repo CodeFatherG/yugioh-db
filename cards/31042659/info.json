@@ -1,18 +1,44 @@
 {
     "id": 31042659,
     "name": "Supreme Sovereign Serpent of Golgonda",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "While \"Great Sand Sea - Gold Golgonda\" is on the field, this card's original ATK becomes 3000. You can only use each of the following effects of \"Supreme Sovereign Serpent of Golgonda\" once per turn. While this card is in your hand or GY, if you control a face-up card in your Field Zone: You can Special Summon this card, but banish it when it leaves the field. If \"Great Sand Sea - Gold Golgonda\" on the field would be destroyed by card effect, you can banish 1 monster from your GY instead.",
+    "race": "Reptile",
     "atk": -1,
     "def": 0,
     "level": 8,
-    "race": "Reptile",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31042659.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31042659.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31042659.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/supreme-sovereign-serpent-of-golgonda-11861",
+    "card_sets": [
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31042659,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31042659.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31042659.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31042659.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "34.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

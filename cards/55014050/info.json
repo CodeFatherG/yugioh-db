@@ -1,18 +1,35 @@
 {
     "id": 55014050,
     "name": "Water Girl",
+    "typeline": [
+        "Aqua",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A lovely lady who can launch water projectiles that turn into lethal ice spikes before they reach an opponent.''",
+    "race": "Aqua",
     "atk": 1250,
     "def": 1000,
     "level": 4,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/55014050.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55014050.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55014050.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/water-girl-4687",
+    "card_images": [
+        {
+            "id": 55014050,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55014050.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55014050.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55014050.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "6.40",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "49.99",
+            "amazon_price": "9.72",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

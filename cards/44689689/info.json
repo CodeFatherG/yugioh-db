@@ -2,17 +2,27 @@
     "id": 44689689,
     "name": "Spinos Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Jurrac Spinos\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Dinosaur",
-    "attribute": null,
-    "scale": null,
     "archetype": "Jurrac",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44689689.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44689689.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44689689.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spinos-token-3806",
+    "card_images": [
+        {
+            "id": 44689689,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44689689.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44689689.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44689689.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "2.00",
+            "amazon_price": "1.91",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,53 @@
 {
     "id": 48348921,
     "name": "Number C62: Neo Galaxy-Eyes Prime Photon Dragon",
+    "typeline": [
+        "Dragon",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "3 Level 8 LIGHT monsters\r\nYou can also Xyz Summon this card by using \"Number 62: Galaxy-Eyes Prime Photon Dragon\" you control. (Transfer its materials to this card.) At the start of your Battle Phase: You can detach 1 material from this card; this card can make up to 3 attacks on monsters during this Battle Phase. If this card has \"Galaxy-Eyes Photon Dragon\" as material, it gains these effects.\r\n\u25cf Unaffected by your opponent's monster effects.\r\n\u25cf Gains ATK equal to the combined Levels/Ranks of its attached materials x 100.",
+    "race": "Dragon",
     "atk": 4000,
     "def": 3000,
     "level": 8,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "-Eyes Dragon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48348921.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48348921.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48348921.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/number-c62-neo-galaxy-eyes-prime-photon-dragon-13455",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN069",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48348921,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48348921.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48348921.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48348921.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.29",
+            "tcgplayer_price": "0.91",
+            "ebay_price": "6.84",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "13.99"
+        }
+    ]
 }

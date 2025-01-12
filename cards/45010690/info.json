@@ -1,18 +1,44 @@
 {
     "id": 45010690,
     "name": "Flowerbot",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent to the Graveyard: Draw 1 card, then place 1 card from your hand on the top of the Deck.",
+    "race": "Plant",
     "atk": 1500,
     "def": 800,
     "level": 3,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45010690.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45010690.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45010690.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/flowerbot-3836",
+    "card_sets": [
+        {
+            "set_name": "World Superstars",
+            "set_code": "WSUP-EN036",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45010690,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45010690.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45010690.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45010690.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.25",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

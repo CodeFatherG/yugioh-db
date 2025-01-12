@@ -1,18 +1,52 @@
 {
     "id": 5259518,
     "name": "Predaplant Heliamphorhynchus",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If your opponent controls a monster with a Predator Counter: You can Special Summon this card from your hand. If this card in its owner's possession is destroyed by your opponent's card: You can target 1 DARK Dragon or 1 DARK Plant monster in your GY, except \"Predaplant Heliamphorhynchus\"; Special Summon it. You can only use each effect of \"Predaplant Heliamphorhynchus\" once per turn.",
+    "race": "Plant",
     "atk": 1200,
     "def": 2400,
     "level": 8,
-    "race": "Plant",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Predaplant",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5259518.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5259518.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5259518.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/predaplant-heliamphorhynchus-10370",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Immortal Destiny",
+            "set_code": "LED5-EN046",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.69"
+        },
+        {
+            "set_name": "Legendary Duelists: Season 3",
+            "set_code": "LDS3-EN072",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.92"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5259518,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5259518.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5259518.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5259518.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "3.70",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

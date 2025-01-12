@@ -2,17 +2,35 @@
     "id": 300302060,
     "name": "Cold-Blooded Tactician",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Thelonious Vi",
+    "frameType": "skill",
     "desc": "Once per turn, during your Main Phase, you can change the battle positions of monsters your opponent controls, up to the number of face-up Reptile monsters you control.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Thelonious Vi",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302060.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302060.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302060.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cold-blooded-tactician-13937",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENS19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302060,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302060.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302060.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302060.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

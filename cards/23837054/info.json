@@ -2,17 +2,36 @@
     "id": 23837054,
     "name": "Ogdoadic Calling",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Special Summon 2 \"Ogdoadic Tokens\" (Reptile/DARK/Level 2/ATK 0/DEF 0), OR if you have 8 or more \"Ogdoadic\" monsters with different names in your GY, you can apply this effect instead.\r\n\u25cf Special Summon 2 Reptile monsters with different names from your GY.\r\nYou can only activate 1 \"Ogdoadic Calling\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ogdoadic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23837054.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23837054.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23837054.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ogdoadic-calling-12003",
+    "card_sets": [
+        {
+            "set_name": "Ancient Guardians",
+            "set_code": "ANGU-EN013",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.39"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 23837054,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23837054.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23837054.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23837054.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "2.55",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

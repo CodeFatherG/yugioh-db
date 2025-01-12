@@ -1,18 +1,45 @@
 {
     "id": 82791472,
     "name": "Ancient Warriors - Rebellious Lu Feng",
+    "typeline": [
+        "Beast-Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling the highest ATK \"Ancient Warriors\" monster on the field (even if it's tied). You can only Special Summon \"Ancient Warriors - Rebellious Lu Feng\" once per turn this way. Once per turn, during the Main Phase (Quick Effect): You can destroy the 1 face-up monster your opponent controls with the highest ATK (your choice, if tied), also you cannot activate monster effects the turn you activate this effect, except \"Ancient Warriors\" monsters'. Once per turn, during the End Phase, if your opponent controls a monster with the highest ATK on the field (even if tied): Give control of this card to your opponent.",
+    "race": "Beast-Warrior",
     "atk": 2800,
     "def": 2200,
     "level": 8,
-    "race": "Beast-Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Ancient Warriors",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/82791472.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82791472.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82791472.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-warriors-rebellious-lu-feng-11628",
+    "card_sets": [
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN025",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 82791472,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82791472.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82791472.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82791472.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.42",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

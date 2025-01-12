@@ -2,17 +2,36 @@
     "id": 42172465,
     "name": "World Reassembly",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Special Summon 1 \"World Legacy\" monster from your hand or Deck, but destroy it during the End Phase of the next turn. You can only activate 1 \"World Reassembly\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "World Legacy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42172465.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42172465.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42172465.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/world-reassembly-10461",
+    "card_sets": [
+        {
+            "set_name": "Chaos Impact",
+            "set_code": "CHIM-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42172465,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42172465.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42172465.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42172465.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

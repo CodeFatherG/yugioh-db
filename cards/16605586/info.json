@@ -1,18 +1,59 @@
 {
     "id": 16605586,
     "name": "Destiny HERO - Denier",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can take 1 of your \"Destiny HERO\" monsters from your Deck, GY, or that is banished, and place it on top of your Deck. You can only use this effect of \"Destiny HERO - Denier\" once per turn. If you have a \"Destiny HERO\" monster on your field or in your GY, other than \"Destiny HERO - Denier\": You can Special Summon this card from your GY. You can only use this effect of \"Destiny HERO - Denier\" once per Duel.",
+    "race": "Warrior",
     "atk": 1100,
     "def": 600,
     "level": 3,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Destiny HERO",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16605586.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16605586.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16605586.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-denier-12477",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN199",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN153",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN018",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16605586,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16605586.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16605586.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16605586.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "3.90",
+            "amazon_price": "2.43",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

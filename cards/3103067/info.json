@@ -2,17 +2,35 @@
     "id": 3103067,
     "name": "Attack Guidance Armor",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When a monster declares an attack: Activate 1 of these effects;\r\n\u25cf Destroy the attacking monster.\r\n\u25cf Target 1 monster on either field, except the attacking monster; change the attack target to it and perform damage calculation.\r\nYou can only activate 1 \"Attack Guidance Armor\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3103067.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3103067.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3103067.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/attack-guidance-armor-13088",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Ultimate Kaiba Set",
+            "set_code": "KC01-EN001",
+            "set_rarity": "New",
+            "set_rarity_code": "",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3103067,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3103067.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3103067.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3103067.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "70.60",
+            "tcgplayer_price": "124.75",
+            "ebay_price": "8.00",
+            "amazon_price": "0.29",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,21 +1,57 @@
 {
     "id": 1528054,
     "name": "Silhouhatte Rabbit",
+    "typeline": [
+        "Illusion",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Effect Monsters\r\nIf this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Silhouhatte Rabbit\" once per turn. If this card is Link Summoned: You can Set 1 Continuous Trap from your Deck with an effect that Special Summons itself as a monster, also this card cannot be used as Link Material this turn. If a card in the Spell & Trap Zone is Special Summoned to the Monster Zone (except during the Damage Step): You can target 1 Spell/Trap your opponent controls; destroy it.",
+    "race": "Illusion",
     "atk": 1500,
     "def": null,
     "level": null,
-    "race": "Illusion",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/1528054.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1528054.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1528054.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/silhouhatte-rabbit-14471",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN052",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN052",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 1528054,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1528054.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1528054.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1528054.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "13.94",
+            "tcgplayer_price": "15.18",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

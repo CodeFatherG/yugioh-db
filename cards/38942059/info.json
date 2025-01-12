@@ -1,18 +1,44 @@
 {
     "id": 38942059,
     "name": "Sonic Maid",
+    "typeline": [
+        "Warrior",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A maiden that uses sound to her advantage, she wields a scythe that's shaped like a musical note.",
+    "race": "Warrior",
     "atk": 1200,
     "def": 900,
     "level": 3,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38942059.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38942059.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38942059.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sonic-maid-3298",
+    "card_sets": [
+        {
+            "set_name": "Tournament Pack: 2nd Season",
+            "set_code": "TP2-012",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "87.75"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38942059,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38942059.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38942059.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38942059.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "124.76",
+            "tcgplayer_price": "55.29",
+            "ebay_price": "5.00",
+            "amazon_price": "47.50",
+            "coolstuffinc_price": "59.99"
+        }
+    ]
 }

@@ -2,17 +2,42 @@
     "id": 80584548,
     "name": "Ballista Squad",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Tribute 1 monster, then target 1 card your opponent controls; destroy it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80584548.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80584548.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80584548.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ballista-squad-9408",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN132",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cybernetic Horizon",
+            "set_code": "CYHO-EN077",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80584548,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80584548.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80584548.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80584548.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,59 @@
 {
     "id": 60666820,
     "name": "Nefarious Archfiend Eater of Nefariousness",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can only control 1 \"Nefarious Archfiend Eater of Nefariousness\". If you control a Spellcaster-Type monster, you can Special Summon this card (from your hand). Once per turn, during your opponent's End Phase, if this card is in your Graveyard: You can target 1 face-up monster you control; destroy it, and if you do, Special Summon this card.",
+    "race": "Beast",
     "atk": 1500,
     "def": 200,
     "level": 4,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Archfiend",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60666820.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60666820.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60666820.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nefarious-archfiend-eater-of-nefariousness-5147",
+    "card_sets": [
+        {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Master of Pendulum Structure Deck",
+            "set_code": "SDMP-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+        },
+        {
+            "set_name": "Structure Deck: Spirit Charmers",
+            "set_code": "SDCH-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.8"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60666820,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60666820.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60666820.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60666820.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

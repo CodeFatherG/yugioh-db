@@ -1,18 +1,45 @@
 {
     "id": 23234094,
     "name": "Evolsaur Elias",
+    "typeline": [
+        "Dinosaur",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Special Summoned by the effect of an \"Evoltile\" monster: You can Special Summon 1 Level 6 or lower FIRE Dinosaur-Type monster from your hand.",
+    "race": "Dinosaur",
     "atk": 100,
     "def": 2400,
     "level": 6,
-    "race": "Dinosaur",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Evolsaur",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23234094.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23234094.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23234094.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/evolsaur-elias-2000",
+    "card_sets": [
+        {
+            "set_name": "Order of Chaos",
+            "set_code": "ORCS-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 23234094,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23234094.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23234094.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23234094.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

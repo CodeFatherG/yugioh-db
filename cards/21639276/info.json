@@ -2,17 +2,43 @@
     "id": 21639276,
     "name": "Kashtira Preparations",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "During either player's turn: You can Special Summon 1 of your \"Kashtira\" monsters that is banished or in your hand. If your opponent activates a Trap Card or effect, you control a \"Kashtira\" monster, and this card is already face-up in your Spell & Trap Zone: You can look at your opponent's hand, and if you do, banish 1 card from it face-down. You can only use each effect of \"Kashtira Preparations\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Kashtira",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21639276.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21639276.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21639276.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kashtira-preparations-13290",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN211",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21639276,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21639276.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21639276.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21639276.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

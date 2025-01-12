@@ -1,21 +1,50 @@
 {
     "id": 67073561,
     "name": "Baba Barber",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters\r\nAt the start of each Battle Phase: You can target this card or 1 monster this card points to; banish it until the End Phase. You can only use this effect of \"Baba Barber\" once per turn.",
+    "race": "Fiend",
     "atk": 200,
     "def": null,
     "level": null,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Left",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/67073561.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67073561.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67073561.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/baba-barber-10272",
+    "card_sets": [
+        {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 67073561,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67073561.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67073561.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67073561.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

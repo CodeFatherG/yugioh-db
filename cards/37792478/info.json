@@ -1,18 +1,58 @@
 {
     "id": 37792478,
     "name": "Metabo-Shark",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned: You can target 2 Fish-Type monsters in your Graveyard; shuffle those targets into your Deck.",
+    "race": "Fish",
     "atk": 1800,
     "def": 500,
     "level": 4,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37792478.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37792478.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37792478.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/metabo-shark-3199",
+    "card_sets": [
+        {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN068",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN068",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Stardust Overdrive",
+            "set_code": "SOVR-EN086",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37792478,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37792478.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37792478.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37792478.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.34",
+            "ebay_price": "15.00",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

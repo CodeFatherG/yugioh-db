@@ -1,15 +1,20 @@
 {
     "id": 4731783,
     "name": "A Bao A Qu, the Lightless Shadow",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ monsters, including a Fiend monster\r\nDuring the Main Phase (Quick Effect): You can discard 1 card, then activate 1 of these effects;\r\n\u25cf Destroy 1 card on the field.\r\n\u25cf Banish this card (until the End Phase), and if you do, Special Summon 1 LIGHT or DARK monster from your GY.\r\nDuring your Standby Phase: You can draw cards equal to the number of different Monster Types in your GY, then place cards from your hand on the bottom of the Deck in any order, equal to the number of cards you drew. You can only use each effect of \"A Bao A Qu, the Lightless Shadow\" once per turn.",
+    "race": "Fiend",
     "atk": 2800,
     "def": null,
     "level": null,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
     "linkval": 4,
     "linkmarkers": [
         "Left",
@@ -17,7 +22,38 @@
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/4731783.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4731783.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4731783.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/a-bao-a-qu-the-lightless-shadow-14802",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN049",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN049",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4731783,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4731783.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4731783.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4731783.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "89.89",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 93724592,
     "name": "Karakuri Ninja mdl 339 \"Sazank\"",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. When this card is flipped face-up, select 1 face-up monster on the field, and send it to the Graveyard. During the turn this card is flipped face-up, it can attack your opponent directly.",
+    "race": "Machine",
     "atk": 1200,
     "def": 1200,
     "level": 3,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Karakuri",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93724592.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93724592.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93724592.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/karakuri-ninja-mdl-339-sazank-7799",
+    "card_sets": [
+        {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN022",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93724592,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93724592.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93724592.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93724592.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.03",
+            "tcgplayer_price": "3.88",
+            "ebay_price": "4.95",
+            "amazon_price": "6.19",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

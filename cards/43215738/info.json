@@ -2,17 +2,36 @@
     "id": 43215738,
     "name": "Mementotlan Fracture Dance",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control a \"Memento\" monster: Target 1 card on the field; destroy it, then, if you control \"Mementoal Tecuhtlica - Combined Creation\", you can destroy 1 more card on the field. When an attack is declared involving your \"Memento\" monster and an opponent's monster: You can banish this card from your GY; all monsters your opponent currently controls lose 1000 ATK until the end of this turn. You can only use each effect of \"Mementotlan Fracture Dance\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Memento",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/43215738.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43215738.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43215738.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mementotlan-fracture-dance-14044",
+    "card_sets": [
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN011",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 43215738,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43215738.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43215738.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43215738.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

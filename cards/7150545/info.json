@@ -1,18 +1,65 @@
 {
     "id": 7150545,
     "name": "Buzzsaw Shark",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 1 WATER monster you control; Special Summon from your Deck in Defense Position, 1 Fish monster with the same Level as that monster, but with a different name, and if you do, it cannot activate its effects this turn, also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Buzzsaw Shark\" once per turn. If this card is used for the Xyz Summon of a WATER monster, it can be treated as a Level 3 or 5 monster.",
+    "race": "Fish",
     "atk": 1600,
     "def": 500,
     "level": 4,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7150545.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7150545.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7150545.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/buzzsaw-shark-10804",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.02"
+        },
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Duelists: Duels From the Deep",
+            "set_code": "LED9-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+        },
+        {
+            "set_name": "OTS Tournament Pack 26",
+            "set_code": "OP26-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7150545,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7150545.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7150545.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7150545.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.80",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

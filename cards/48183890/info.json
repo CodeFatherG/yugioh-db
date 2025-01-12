@@ -1,14 +1,20 @@
 {
     "id": 48183890,
     "name": "Traptrix Atypus",
+    "typeline": [
+        "Insect",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ monsters, including an Insect or Plant monster\r\nThis Link Summoned card is unaffected by Trap effects. All \"Traptrix\" monsters you control gain 1000 ATK while you have a Normal Trap in your GY. Once per turn: You can target face-up cards your opponent controls, up to the number of Insect and Plant monsters you control; negate their effects (until the end of this turn), then you can apply this effect.\r\n \u25cf Banish 1 Normal Trap from your GY, and if you do, destroy 1 of those targeted face-up cards.",
+    "race": "Insect",
     "atk": 1800,
     "def": null,
     "level": null,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Traptrix",
     "linkval": 3,
     "linkmarkers": [
@@ -16,7 +22,31 @@
         "Right",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/48183890.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48183890.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48183890.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-atypus-13616",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48183890,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48183890.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48183890.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48183890.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.25",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

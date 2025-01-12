@@ -2,17 +2,42 @@
     "id": 88928798,
     "name": "Guard Mines",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only when a card is activated with an effect that would target and destroy 1 monster you control. Negate the effect and destroy that card. Then inflict 500 damage to your opponent.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88928798.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88928798.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88928798.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/guard-mines-7428",
+    "card_sets": [
+        {
+            "set_name": "Duelist Pack: Crow",
+            "set_code": "DP11-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN067",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88928798,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88928798.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88928798.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88928798.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.29",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

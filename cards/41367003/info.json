@@ -2,17 +2,49 @@
     "id": 41367003,
     "name": "Draw Muscle",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 Defense Position monster you control with 1000 or less DEF; draw 1 card, also that monster cannot be destroyed by battle this turn. You can only activate 1 \"Draw Muscle\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/41367003.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41367003.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41367003.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/draw-muscle-3530",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN168",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Starter Deck: Yuya",
+            "set_code": "YS16-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN057",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 41367003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41367003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41367003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41367003.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.89",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

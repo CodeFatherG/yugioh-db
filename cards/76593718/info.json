@@ -1,18 +1,53 @@
 {
     "id": 76593718,
     "name": "Greed Jar",
+    "typeline": [
+        "Rock",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: Apply these effects in sequence.\r\n\u25cf Excavate any number of cards from the top of your Deck, up to the number of cards your opponent controls, and if you do, add 1 of them to your hand, also send the remaining to the GY.\r\n\u25cf Send monsters from your Extra Deck to the GY, up to the number of monsters your opponent controls that were Special Summoned from the Extra Deck.\r\nYou can only use this effect of \"Greed Jar\" once per turn.",
+    "race": "Rock",
     "atk": 700,
     "def": 800,
     "level": 3,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Jar",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/76593718.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76593718.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76593718.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/greed-jar-13888",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN366",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 76593718,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76593718.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76593718.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76593718.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "1.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

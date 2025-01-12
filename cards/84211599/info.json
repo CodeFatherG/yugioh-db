@@ -2,17 +2,75 @@
     "id": 84211599,
     "name": "Pot of Prosperity",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Banish 3 or 6 cards of your choice from your Extra Deck, face-down; for the rest of this turn after this card resolves, any damage your opponent takes is halved, also excavate cards from the top of your Deck equal to the number of cards banished, add 1 excavated card to your hand, place the rest on the bottom of your Deck in any order. You can only activate 1 \"Pot of Prosperity\" per turn. You cannot draw cards by card effects the turn you activate this card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Greed",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84211599.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84211599.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84211599.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pot-of-prosperity-11636",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN037",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN066",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN066",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN065",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN065",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Pot Collection",
+            "set_code": "TBC1-EN011",
+            "set_rarity": "Ultra Parallel Rare",
+            "set_rarity_code": "(UPR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited",
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 84211599,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84211599.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84211599.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84211599.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.20",
+            "tcgplayer_price": "1.33",
+            "ebay_price": "39.99",
+            "amazon_price": "1.74",
+            "coolstuffinc_price": "39.99"
+        }
+    ]
 }

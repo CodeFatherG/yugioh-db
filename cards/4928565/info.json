@@ -1,18 +1,55 @@
 {
     "id": 4928565,
     "name": "Tearlaments Kashtira",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Main Phase (Quick Effect): You can Special Summon this card from your hand, and if you do, banish 1 \"Kashtira\" or \"Tearlaments\" card from your hand or GY. If this card is Normal or Special Summoned: You can send the top 3 cards of either player's Deck to the GY. If this card is sent to the GY by card effect: You can send the top 2 cards of your Deck to the GY. You can only use each effect of \"Tearlaments Kashtira\" once per turn.",
+    "race": "Psychic",
     "atk": 2300,
     "def": 1200,
     "level": 7,
-    "race": "Psychic",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Kashtira",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4928565.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4928565.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4928565.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tearlaments-kashtira-13495",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN066",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN008",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 4928565,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4928565.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4928565.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4928565.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.86",
+            "tcgplayer_price": "3.44",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "29.99"
+        }
+    ]
 }

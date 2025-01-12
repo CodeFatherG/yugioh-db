@@ -2,17 +2,70 @@
     "id": 63102017,
     "name": "Stop Defense",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Select 1 Defense Position monster on your opponent's side of the field and change it to Attack Position.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/63102017.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63102017.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63102017.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/stop-defense-5328",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Ultimate Kaiba Set",
+            "set_code": "KC01-EN039",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN128",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-095",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "3.97"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-E075",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "7.17"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-EN095",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.00"
+        },
+        {
+            "set_name": "Starter Deck: Pegasus",
+            "set_code": "SDP-031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.94"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 63102017,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63102017.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63102017.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63102017.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "1.59",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

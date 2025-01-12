@@ -2,17 +2,36 @@
     "id": 83199011,
     "name": "Springans Call!",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Springans\" monster or \"Fallen of Albaz\" in your GY; Special Summon it. During the Main Phase, except the turn this card was sent to the GY: You can banish this card and 1 Fusion Monster from your GY, then target 1 \"Springans\" Xyz Monster you control; attach 1 Fusion Monster that lists \"Fallen of Albaz\" as material from your Extra Deck to that monster as material. You can only use each effect of \"Springans Call!\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Springans",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83199011.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83199011.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83199011.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/springans-call-11555",
+    "card_sets": [
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83199011,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83199011.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83199011.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83199011.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "2.69",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

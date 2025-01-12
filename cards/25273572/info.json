@@ -1,18 +1,45 @@
 {
     "id": 25273572,
     "name": "G Golem Pebble Dog",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add to your hand or Special Summon 1 \"G Golem Pebble Dog\" from your Deck, also you cannot Special Summon monsters for the rest of this turn, except Cyberse monsters. If this card is sent from the hand to the GY: You can add 1 \"G Golem\" card from your Deck to your hand. You can only use each effect of \"G Golem Pebble Dog\" once per turn.",
+    "race": "Cyberse",
     "atk": 300,
     "def": 1000,
     "level": 2,
-    "race": "Cyberse",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "G Golem",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25273572.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25273572.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25273572.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/g-golem-pebble-dog-13335",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25273572,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25273572.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25273572.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25273572.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "3.26",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

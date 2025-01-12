@@ -2,17 +2,36 @@
     "id": 29111045,
     "name": "Goblin Biker Grand Breakout",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Tribute 1 monster; Special Summon 1 \"Goblin\" monster from your Deck, but it cannot attack this turn. When a monster declares an attack: You can banish this card from your GY and detach any number of materials from \"Goblin\" Xyz Monsters you control; all monsters your opponent currently controls lose 1000 ATK for each material detached, until the end of this turn. You can only use each effect of \"Goblin Biker Grand Breakout\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Goblin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29111045.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29111045.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29111045.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/goblin-biker-grand-breakout-14582",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN057",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29111045,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29111045.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29111045.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29111045.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

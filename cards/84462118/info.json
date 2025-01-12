@@ -1,18 +1,45 @@
 {
     "id": 84462118,
     "name": "Dragonbite",
+    "typeline": [
+        "Insect",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower Insect monster from your hand. You can banish 1 Level 4 or lower Insect monster from your hand, GY, or face-up field, then target 1 face-up monster you control; increase its Level by the Level of the banished monster, until the end of this turn. You can only use each effect of \"Dragonbite\" once per turn.",
+    "race": "Insect",
     "atk": 1000,
     "def": 1000,
     "level": 4,
-    "race": "Insect",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84462118.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84462118.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84462118.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragonbite-13055",
+    "card_sets": [
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN081",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84462118,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84462118.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84462118.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84462118.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.03",
+            "tcgplayer_price": "0.33",
+            "ebay_price": "1.37",
+            "amazon_price": "0.69",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

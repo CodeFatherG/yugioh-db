@@ -2,17 +2,36 @@
     "id": 65956182,
     "name": "Dark World Accession",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "During the Main Phase: Fusion Summon 1 Fiend Fusion Monster from your Extra Deck, by banishing materials mentioned on it from your field or GY. If Fusion Summoning a \"Dark World\" monster this way, you can also discard monsters as material. During your Main Phase, if this card is in your GY: You can add this card to your hand, then discard 1 \"Dark World\" monster. You can only use each effect of \"Dark World Accession\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dark World",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65956182.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65956182.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65956182.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-world-accession-13431",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Dark World",
+            "set_code": "SR13-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65956182,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65956182.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65956182.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65956182.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

@@ -1,18 +1,51 @@
 {
     "id": 39078434,
     "name": "Infinite Antlion",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, at the start of the Damage Step, when an Insect monster battles: You can target 1 card you control and 1 card your opponent controls; destroy them. You can only use each of the following effects of \"Infinite Antlion\" once per turn. When an opponent's monster declares an attack: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can equip 1 Insect monster from your hand or GY to this card as an Equip Spell that gives it 500 ATK/DEF.",
+    "race": "Insect",
     "atk": 1200,
     "def": 1500,
     "level": 3,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39078434.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39078434.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39078434.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/infinite-antlion-13541",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN312",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39078434,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39078434.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39078434.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39078434.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

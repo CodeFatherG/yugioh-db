@@ -1,18 +1,35 @@
 {
     "id": 23659124,
     "name": "Sea King Dragon",
+    "typeline": [
+        "Sea Serpent",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''Protected by a tough shell, this master of the sea attacks its enemies with toxic bubbles.''",
+    "race": "Sea Serpent",
     "atk": 2000,
     "def": 1700,
     "level": 6,
-    "race": "Sea Serpent",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23659124.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23659124.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23659124.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sea-king-dragon-2041",
+    "card_images": [
+        {
+            "id": 23659124,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23659124.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23659124.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23659124.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "9.61",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

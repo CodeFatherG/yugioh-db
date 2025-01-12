@@ -1,18 +1,52 @@
 {
     "id": 71277255,
     "name": "Mannadium Riumheart",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Main Phase, if this card is in your hand (Quick Effect): You can target 1 \"Mannadium\" monster you control or 1 monster you control with 1500 ATK/2100 DEF; destroy it, and if you do, Special Summon this card. If this card is Normal or Special Summoned: You can add 1 \"Mannadium\" card from your Deck to your hand, except \"Mannadium Riumheart\". You can only use each effect of \"Mannadium Riumheart\" once per turn.",
+    "race": "Warrior",
     "atk": 1500,
     "def": 2100,
     "level": 4,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Mannadium",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71277255.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71277255.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71277255.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mannadium-riumheart-13656",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN079",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN012",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71277255,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71277255.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71277255.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71277255.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.59",
+            "tcgplayer_price": "0.74",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "7.99"
+        }
+    ]
 }

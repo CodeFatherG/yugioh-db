@@ -2,17 +2,42 @@
     "id": 2047519,
     "name": "Hidden Soldiers",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When your opponent Normal or Flip Summons a monster: Special Summon 1 Level 4 or lower DARK monster from your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2047519.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2047519.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2047519.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hidden-soldiers-178",
+    "card_sets": [
+        {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN146",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Duelist Sneak Peek Participation Card",
+            "set_code": "SP02-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "12.24"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2047519,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2047519.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2047519.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2047519.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.99",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "49.99",
+            "amazon_price": "2.54",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

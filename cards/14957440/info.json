@@ -1,18 +1,52 @@
 {
     "id": 14957440,
     "name": "Otoshidamashi",
+    "typeline": [
+        "Beast",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "While you control a monster that is not a Tuner, your opponent's monsters cannot target this card for attacks. If a monster(s) is sent from the field to your opponent's GY: Place 1 Otoshidamashi Counter on this card, then Special Summon \"Otoshidamashi Tokens\" (Beast/EARTH/Level 1/ATK ?/DEF ?) up to the number of Otoshidamashi Counters on this card. Each Token's Level is increased when Summoned by the number of Otoshidamashi Counters on this card, also each Token's ATK/DEF are its Level when Summoned x 500. You can only use this effect of \"Otoshidamashi\" once per turn.",
+    "race": "Beast",
     "atk": 1000,
     "def": 1000,
     "level": 1,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14957440.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14957440.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14957440.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/otoshidamashi-11885",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN074",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14957440,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14957440.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14957440.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14957440.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "1.50",
+            "amazon_price": "1.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

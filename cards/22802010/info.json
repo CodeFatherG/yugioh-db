@@ -2,17 +2,35 @@
     "id": 22802010,
     "name": "Blind Obliteration",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Roll a six-sided die twice and destroy all face-up monsters with Levels/Ranks lower than the total roll.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/22802010.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22802010.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22802010.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blind-obliteration-8803",
+    "card_sets": [
+        {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN079",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22802010,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22802010.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22802010.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22802010.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

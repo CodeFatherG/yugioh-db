@@ -1,18 +1,51 @@
 {
     "id": 58143852,
     "name": "Nightmare Apprentice",
+    "typeline": [
+        "Illusion",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Special Summon this card (from your hand) by discarding 1 card. You can only Special Summon \"Nightmare Apprentice\" once per turn this way. If this card battles a monster, neither can be destroyed by that battle. If this card is Normal or Special Summoned: You can add 1 Illusion monster from your Deck to your hand, except \"Nightmare Apprentice\". You can only use this effect of \"Nightmare Apprentice\" once per turn.",
+    "race": "Illusion",
     "atk": 2000,
     "def": 1700,
     "level": 6,
-    "race": "Illusion",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58143852.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58143852.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58143852.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nightmare-apprentice-14360",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN029",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN029",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58143852,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58143852.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58143852.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58143852.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "18.64",
+            "tcgplayer_price": "25.23",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

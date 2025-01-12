@@ -2,17 +2,42 @@
     "id": 27980138,
     "name": "Quill Pen of Gulldos",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 2 WIND monsters in your Graveyard and 1 card on the field; shuffle both of those first 2 targets into your Deck and return the other to the hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27980138.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27980138.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27980138.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/quill-pen-of-gulldos-2382",
+    "card_sets": [
+        {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN058",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Duelists: Synchro Storm",
+            "set_code": "LED8-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.01"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27980138,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27980138.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27980138.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27980138.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.56",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

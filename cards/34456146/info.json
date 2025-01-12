@@ -1,18 +1,45 @@
 {
     "id": 34456146,
     "name": "Sage of Benevolence - Ciela",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "(This card is always treated as a \"Sky Striker\" card.)\r\nYou can discard 1 Spell; Special Summon this card from your hand. You can banish 1 Spell from your GY; give control of this card to your opponent, and if you do, Special Summon 1 \"Sky Striker Ace\" monster from your GY. If this card is destroyed by battle or card effect and sent to the GY: You can target 1 of your banished \"Sky Striker\" Spells; add it to your hand. You can only use each effect of \"Sage of Benevolence - Ciela\" once per turn.",
+    "race": "Machine",
     "atk": 2200,
     "def": 1000,
     "level": 6,
-    "race": "Machine",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Sky Striker",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34456146.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34456146.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34456146.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sage-of-benevolence-ciela-13606",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN051",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34456146,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34456146.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34456146.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34456146.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

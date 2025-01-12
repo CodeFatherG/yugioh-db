@@ -2,17 +2,27 @@
     "id": 10218411,
     "name": "Double Fusion",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Pay 500 LP; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material, then you can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fusion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/10218411.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10218411.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10218411.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/double-fusion-14801",
+    "card_images": [
+        {
+            "id": 10218411,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10218411.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10218411.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10218411.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

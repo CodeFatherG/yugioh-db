@@ -2,17 +2,36 @@
     "id": 12385638,
     "name": "Kozmourning",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Monsters destroyed by battle with \"Kozmo\" monsters you control are shuffled into the Deck instead of going to the Graveyard. You can banish this card from your Graveyard; the first time you would take battle damage from a battle involving a \"Kozmo\" monster you control this turn, gain that much LP, instead.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Kozmo",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12385638.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12385638.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12385638.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kozmourning-1068",
+    "card_sets": [
+        {
+            "set_name": "Shining Victories",
+            "set_code": "SHVI-EN086",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12385638,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12385638.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12385638.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12385638.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

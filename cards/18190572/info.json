@@ -2,17 +2,49 @@
     "id": 18190572,
     "name": "Micro Ray",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 face-up monster on the field; that target's DEF becomes 0 until the end of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/18190572.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18190572.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18190572.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/micro-ray-1579",
+    "card_sets": [
+        {
+            "set_name": "Ancient Sanctuary",
+            "set_code": "AST-047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+        },
+        {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN159",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Machine Re-Volt",
+            "set_code": "SD10-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.45"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 18190572,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18190572.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18190572.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18190572.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,56 @@
 {
     "id": 82112494,
     "name": "Superheavy Samurai Prodigy Wakaushi",
+    "typeline": [
+        "Machine",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nIf you have no Spells/Traps in your GY: You can place 1 \"Superheavy Samurai\" Pendulum Monster from your Deck, except \"Superheavy Samurai Prodigy Wakaushi\", in your other Pendulum Zone, then Special Summon this card. You can only use this effect of \"Superheavy Samurai Prodigy Wakaushi\" once per turn.\n\n[ Monster Effect ] \nIf you have no Spells/Traps in your GY: You can discard 1 monster; Special Summon 1 \"Superheavy Samurai\" monster from your hand or Deck in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except \"Superheavy Samurai\" monsters. If this card is used as Synchro Material and added to your Extra Deck face-up: You can place this card in your Pendulum Zone. You can only use each effect of \"Superheavy Samurai Prodigy Wakaushi\" once per turn.",
+    "race": "Machine",
+    "pend_desc": "If you have no Spells/Traps in your GY: You can place 1 \"Superheavy Samurai\" Pendulum Monster from your Deck, except \"Superheavy Samurai Prodigy Wakaushi\", in your other Pendulum Zone, then Special Summon this card. You can only use this effect of \"Superheavy Samurai Prodigy Wakaushi\" once per turn.",
+    "monster_desc": "If you have no Spells/Traps in your GY: You can discard 1 monster; Special Summon 1 \"Superheavy Samurai\" monster from your hand or Deck in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except \"Superheavy Samurai\" monsters. If this card is used as Synchro Material and added to your Extra Deck face-up: You can place this card in your Pendulum Zone. You can only use each effect of \"Superheavy Samurai Prodigy Wakaushi\" once per turn.",
     "atk": 1000,
     "def": 1500,
     "level": 4,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": 8,
     "archetype": "Superheavy Samurai",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/82112494.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82112494.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82112494.jpg"
+    "scale": 8,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/superheavy-samurai-prodigy-wakaushi-13645",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN076",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 82112494,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82112494.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82112494.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82112494.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.64",
+            "tcgplayer_price": "0.45",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "7.99"
+        }
+    ]
 }

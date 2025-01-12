@@ -2,17 +2,35 @@
     "id": 51686645,
     "name": "Revenge Rally",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 face-up monster your opponent controls; equip this card to that target. It gains 500 ATK/DEF. If this card is sent to the GY because the equipped monster has left the field: Draw 1 card, or if you activated this card this turn, draw 2 cards then discard 1 card, instead. You can only use this effect of \"Revenge Rally\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/51686645.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51686645.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51686645.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/revenge-rally-10743",
+    "card_sets": [
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN099",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 51686645,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51686645.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51686645.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51686645.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,36 @@
 {
     "id": 595626,
     "name": "Ankuriboh",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When an opponent's monster declares an attack: You can discard this card, then target 1 monster in either GY, except this card; Special Summon it to your field, but send it to the GY during the End Phase. If this card is destroyed by battle or card effect and sent to the GY: You can add 1 \"Monster Reborn\" from your Deck or GY to your hand during the End Phase of this turn. You can only use each effect of \"Ankuriboh\" once per turn.",
+    "race": "Fiend",
     "atk": 300,
     "def": 200,
     "level": 1,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Kuriboh",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/595626.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/595626.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/595626.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ankuriboh-10155",
+    "card_images": [
+        {
+            "id": 595626,
+            "image_url": "https://images.ygoprodeck.com/images/cards/595626.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/595626.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/595626.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "6.80",
+            "amazon_price": "1.77",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

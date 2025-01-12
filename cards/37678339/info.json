@@ -1,18 +1,46 @@
 {
     "id": 37678339,
     "name": "Oneiros, the Dream Mirror Tormentor",
+    "typeline": [
+        "Fiend",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 \"Dream Mirror\" monsters with different Attributes\r\nWhile face-up on the field, this card is also LIGHT-Attribute. You can only use each of the following effects of \"Oneiros, the Dream Mirror Tormentor\" once per turn.\r\n\u25cf When a monster effect is activated while \"Dream Mirror of Terror\" is in a Field Zone (Quick Effect): You can negate that effect.\r\n\u25cf If \"Dream Mirror of Joy\" is in a Field Zone (Quick Effect): You can Tribute this card; Special Summon 1 \"Oneiros, the Dream Mirror Erlking\" from your Extra Deck in Defense Position.",
+    "race": "Fiend",
     "atk": 3000,
     "def": 3000,
     "level": 10,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Dream Mirror",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37678339.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37678339.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37678339.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/oneiros-the-dream-mirror-tormentor-11510",
+    "card_sets": [
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN042",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37678339,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37678339.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37678339.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37678339.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

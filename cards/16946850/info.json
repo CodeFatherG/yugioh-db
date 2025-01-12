@@ -2,17 +2,36 @@
     "id": 16946850,
     "name": "Synthetic Seraphim Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as a \"Synthetic Seraphim Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Fairy",
-    "attribute": null,
-    "scale": null,
     "archetype": "Counter Fairy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16946850.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16946850.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16946850.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/synthetic-seraphim-token-1461",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Wave of Light",
+            "set_code": "SR05-ENTKN",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16946850,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16946850.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16946850.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16946850.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 35151572,
     "name": "Shaman of the Ashened City",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If \"Obsidim, the Ashened City\" is in the Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Shaman of the Ashened City\" once per turn this way. You can target 3 of your Pyro monsters that are banished and/or in your GY; shuffle them into the Deck, then if you shuffled an \"Ashened\" monster, you can add 1 \"Obsidim, the Ashened City\" from your Deck to your hand. You can only use this effect of \"Shaman of the Ashened City\" once per turn.",
+    "race": "Pyro",
     "atk": 1300,
     "def": 1200,
     "level": 4,
-    "race": "Pyro",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Ashened",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35151572.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35151572.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35151572.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shaman-of-the-ashened-city-14483",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN090",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35151572,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35151572.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35151572.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35151572.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

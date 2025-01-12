@@ -1,18 +1,52 @@
 {
     "id": 16632144,
     "name": "Grappler Angler",
+    "typeline": [
+        "Warrior",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "When this card inflicts battle damage to your opponent by a direct attack: You can target 1 monster in your GY; Special Summon it in Defense Position.",
+    "race": "Warrior",
     "atk": 100,
     "def": 100,
     "level": 1,
-    "race": "Warrior",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16632144.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16632144.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16632144.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/grappler-angler-9029",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN187",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Extreme Force",
+            "set_code": "EXFO-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16632144,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16632144.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16632144.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16632144.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

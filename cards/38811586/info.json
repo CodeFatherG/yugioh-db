@@ -1,18 +1,53 @@
 {
     "id": 38811586,
     "name": "Albion the Sanctifire Dragon",
+    "typeline": [
+        "Dragon",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "\"Fallen of Albaz\" + 1 LIGHT Spellcaster monster\r\nCannot be used as Fusion Material. Your opponent cannot target this card with card effects. You can only use each of the following effects of \"Albion the Sanctifire Dragon\" once per turn. During your opponent's turn (Quick Effect): You can target 2 monsters in any GY(s); Special Summon both monsters, 1 to each field. If this card is in your GY: You can Tribute 4 monsters, the 2 in the Extra Monster Zones and the 2 in the central Main Monster Zones, and if you do, Special Summon this card.",
+    "race": "Dragon",
     "atk": 3000,
     "def": 2500,
     "level": 8,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Albaz Dragon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38811586.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38811586.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38811586.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/albion-the-sanctifire-dragon-13689",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN082",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN035",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38811586,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38811586.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38811586.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38811586.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.78",
+            "tcgplayer_price": "1.74",
+            "ebay_price": "17.97",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "29.99"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 61606250,
     "name": "Armed Dragon Blitz",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Armed Dragon\" monster you control; take 1 monster with the same name from your Deck or GY, and either add it to your hand or Special Summon it, ignoring its Summoning conditions, but it cannot attack directly. You can only activate 1 \"Armed Dragon Blitz\" per turn. You cannot Special Summon monsters the turn you activate this card, except Dragon monsters.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Armed Dragon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/61606250.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61606250.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61606250.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/armed-dragon-blitz-11464",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61606250,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61606250.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61606250.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61606250.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.73",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 55276522,
     "name": "Ryu-Ge War Zone",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: Take 1 Dinosaur, 1 Sea Serpent, and 1 Wyrm monster from your Deck, add 1 to your hand, banish 1, and send 1 to the GY, also you cannot Special Summon for the rest of this turn, except Dragon, Dinosaur, Sea Serpent, or Wyrm monsters. If you have \"Sosei Ryu-Ge Mistva\" in your Extra Deck face-up: You can Special Summon 3 \"Ryu-Ge\" monsters with different Types, 1 each from your Deck, GY, and banishment. You can only use each effect of \"Ryu-Ge War Zone\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ryu-Ge",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/55276522.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55276522.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55276522.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ryu-ge-war-zone-14663",
+    "card_sets": [
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN036",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 55276522,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55276522.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55276522.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55276522.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,58 @@
 {
     "id": 9159938,
     "name": "Dark Gray",
+    "typeline": [
+        "Beast",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "Entirely gray, this beast has rarely been seen by mortal eyes.",
+    "race": "Beast",
     "atk": 800,
     "def": 900,
     "level": 3,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9159938.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9159938.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9159938.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-gray-777",
+    "card_sets": [
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.89"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-E008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.27"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.49"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9159938,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9159938.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9159938.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9159938.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "1.75",
+            "amazon_price": "4.94",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,58 @@
 {
     "id": 18108166,
     "name": "Mystery Shell Dragon",
+    "typeline": [
+        "Wyrm",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "Mysterious living matter that suddenly appeared from a different dimension. Its attack paralyzes the target's nerves, and causes intense hallucinations.",
+    "race": "Wyrm",
     "atk": 2000,
     "def": 0,
     "level": 4,
-    "race": "Wyrm",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/18108166.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18108166.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18108166.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mystery-shell-dragon-1571",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Clash of Rebellions",
+            "set_code": "CORE-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 18108166,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18108166.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18108166.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18108166.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

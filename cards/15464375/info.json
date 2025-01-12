@@ -1,18 +1,44 @@
 {
     "id": 15464375,
     "name": "Adularia of the June Moon",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a face-up card in your Spell & Trap Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Adularia of the June Moon\" once per turn this way. Gains 600 ATK/DEF for each face-up Spell/Trap on the field. You can send 2 face-up cards from your Spell & Trap Zone to the GY; send 1 Level 4 or lower monster from your Deck to the GY. You can only use this effect of \"Adularia of the June Moon\" once per turn.",
+    "race": "Spellcaster",
     "atk": 1000,
     "def": 1000,
     "level": 5,
-    "race": "Spellcaster",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15464375.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15464375.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15464375.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/adularia-of-the-june-moon-13303",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN095",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 15464375,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15464375.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15464375.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15464375.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "6.50",
+            "amazon_price": "0.83",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

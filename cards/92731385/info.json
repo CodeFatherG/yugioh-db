@@ -1,18 +1,50 @@
 {
     "id": 92731385,
     "name": "Tearlaments Kitkallos",
+    "typeline": [
+        "Aqua",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 \"Tearlaments\" monster + 1 Aqua monster\r\nIf this card is Special Summoned: You can take 1 \"Tearlaments\" card from your Deck, and either add it to your hand or send it to the GY. You can target 1 monster you control; Special Summon 1 \"Tearlaments\" monster from your hand or GY, and if you do, send the targeted monster to the GY. If this card is sent to the GY by card effect: You can send the top 5 cards of your Deck to the GY. You can only use each effect of \"Tearlaments Kitkallos\" once per turn.",
+    "race": "Aqua",
     "atk": 2300,
     "def": 1200,
     "level": 5,
-    "race": "Aqua",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Tearlaments",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92731385.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92731385.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92731385.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tearlaments-kitkallos-13201",
+    "card_sets": [
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Forbidden",
+        "ban_ocg": "Forbidden"
+    },
+    "card_images": [
+        {
+            "id": 92731385,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92731385.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92731385.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92731385.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "5.23",
+            "tcgplayer_price": "5.16",
+            "ebay_price": "7.98",
+            "amazon_price": "10.98",
+            "coolstuffinc_price": "4.99"
+        }
+    ]
 }

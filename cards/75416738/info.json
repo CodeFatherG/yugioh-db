@@ -1,18 +1,45 @@
 {
     "id": 75416738,
     "name": "Traptrix Arachnocampa",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Unaffected by the effects of \"Hole\" Normal Traps. The first time each Set card in your Spell & Trap Zone would be destroyed by card effect each turn, it is not destroyed. During the Main Phase, if you control a \"Traptrix\" monster (Quick Effect): You can Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Insect or Plant monsters. You can only use this effect of \"Traptrix Arachnocampa\" once per turn.",
+    "race": "Insect",
     "atk": 1300,
     "def": 1500,
     "level": 4,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Traptrix",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/75416738.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75416738.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75416738.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-arachnocampa-13568",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 75416738,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75416738.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75416738.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75416738.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

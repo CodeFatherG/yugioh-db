@@ -2,17 +2,26 @@
     "id": 1426715,
     "name": "Phantom Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Number 48: Shadow Lich\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Fiend",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/1426715.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1426715.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1426715.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/phantom-token-123",
+    "card_images": [
+        {
+            "id": 1426715,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1426715.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1426715.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1426715.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.99",
+            "amazon_price": "5.63",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

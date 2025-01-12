@@ -1,18 +1,51 @@
 {
     "id": 66569334,
     "name": "Nightmell the Dark Bonder",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute 1 monster; Special Summon from your Deck, 1 monster with the same original Type, Attribute, Level, and ATK/DEF as the Tributed monster, but with a different original name. If you Tributed a monster Special Summoned from the Extra Deck, you can Special Summon a monster from your Extra Deck instead that meets those same criteria. You can only use this effect of \"Nightmell the Dark Bonder\" once per turn.",
+    "race": "Psychic",
     "atk": 1500,
     "def": 1500,
     "level": 4,
-    "race": "Psychic",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/66569334.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66569334.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66569334.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nightmell-the-dark-bonder-13236",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN133",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.86"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 66569334,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66569334.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66569334.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66569334.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

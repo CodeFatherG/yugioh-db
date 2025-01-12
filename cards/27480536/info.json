@@ -1,18 +1,45 @@
 {
     "id": 27480536,
     "name": "Armored Shark",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "(This card is always treated as an \"Armored Xyz\" card.)\r\nYou can send 1 WATER Xyz Monster from your Extra Deck to the GY, then target 1 Fish monster in your GY with the same Level as the Rank of that monster; Special Summon it. During your opponent's turn, if this card is in your GY (Quick Effect): You can target 1 WATER Xyz Monster you control; equip this card to that monster as an Equip Spell that gives it 500 ATK. You can only use each effect of \"Armored Shark\" once per turn.",
+    "race": "Fish",
     "atk": 500,
     "def": 2000,
     "level": 3,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Xyz",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27480536.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27480536.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27480536.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/armored-shark-14518",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27480536,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27480536.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27480536.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27480536.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 16240772,
     "name": "Sinful Spoils of Doom - Rciela",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 Level 7 or higher Spellcaster monster you control; apply the following effects.\r\n\u25cf While face-up, that monster is unaffected by other monsters' effects this turn, and is sent to the GY during the Standby Phase of the next turn.\r\n\u25cf All monsters your opponent currently controls lose ATK equal to the targeted monster's ATK, then if their ATK becomes 0 by this effect, destroy them.\r\nYou can only activate 1 \"Sinful Spoils of Doom - Rciela\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Sinful Spoils",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16240772.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16240772.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16240772.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sinful-spoils-of-doom-rciela-14031",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN239",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16240772,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16240772.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16240772.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16240772.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,20 +1,49 @@
 {
     "id": 41739381,
     "name": "Clockwork Knight",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
-    "desc": "1 non-Link Machine monster with 1000 or less original ATK\r\nIf this card is Link Summoned: You can send 1 face-up Continuous Spell you control to the GY; add 1 \"Clockwork Night\" from your Deck to your hand. You can target 1 Machine monster with 1000 or less ATK in your GY; Tribute 1 other Machine monster, and if you do, Special Summon the targeted monster in Defense Position. You can only use each effect of \"Clockwork Knight\" once per turn.",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "1 non-Link Machine monster with 1000 or less original ATK\r\nIf this card is Link Summoned: You can send 1 face-up Continuous Spell you control to the GY; add 1 \"Clockwork Night\" from your Deck to your hand. You can target 1 Machine monster with 1000 or less ATK in your GY; Tribute 1 Machine monster, except this card, and if you do, Special Summon that targeted monster in Defense Position. You can only use each effect of \"Clockwork Knight\" once per turn.",
+    "race": "Machine",
     "atk": 500,
     "def": null,
     "level": null,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
     "linkval": 1,
     "linkmarkers": [
         "Left"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/41739381.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41739381.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41739381.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clockwork-knight-14800",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN050",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 41739381,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41739381.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41739381.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41739381.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

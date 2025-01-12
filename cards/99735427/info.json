@@ -2,17 +2,70 @@
     "id": 99735427,
     "name": "Shadow-Imprisoning Mirror",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Negate all DARK monster effects activated on the field or in the Graveyard.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99735427.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99735427.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99735427.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shadow-imprisoning-mirror-8282",
+    "card_sets": [
+        {
+            "set_name": "Astral Pack Seven",
+            "set_code": "AP07-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duel Terminal 7b",
+            "set_code": "DT07-EN098",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist League 14 participation cards",
+            "set_code": "DL14-EN020",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "15.81"
+        },
+        {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN097",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Turbo Pack: Booster Two",
+            "set_code": "TU02-EN011",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 99735427,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99735427.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99735427.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99735427.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.40",
+            "ebay_price": "1.24",
+            "amazon_price": "4.25",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 45935145,
     "name": "Wollow, Founder of the Drudge Dragons",
+    "typeline": [
+        "Zombie",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 6 monsters\r\nMonsters you control gain 100 ATK/DEF for each card in your opponent's GY. (Quick Effect): You can target 1 card in your opponent's GY and detach 1 or 2 materials from this card, then activate the appropriate effect;\r\n\u25cf 1: Return it to the Deck.\r\n\u25cf 2: If the target is a monster, Special Summon it face-up, or in face-down Defense Position, to your field. If it is not, Set it on your field.\r\nYou can only use this effect of \"Wollow, Founder of the Drudge Dragons\" once per turn.",
+    "race": "Zombie",
     "atk": 2400,
     "def": 1300,
     "level": 6,
-    "race": "Zombie",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45935145.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45935145.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45935145.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wollow-founder-of-the-drudge-dragons-13416",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN191",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN047",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45935145,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45935145.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45935145.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45935145.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "1.79",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

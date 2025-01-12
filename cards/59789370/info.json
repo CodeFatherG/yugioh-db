@@ -1,18 +1,52 @@
 {
     "id": 59789370,
     "name": "Gizmek Arakami, the Hailbringer Hog",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a Machine monster whose ATK equals its own DEF: You can Special Summon this card from your hand. You can banish this card from your GY, then target 1 Machine monster you control whose ATK equals its own DEF; send 1 Machine monster from your Deck to the GY, whose ATK equals its own DEF, with a lower Level than that targeted monster, and if you do, the targeted monster gains ATK/DEF equal to the Level of the monster sent to the GY x 100. You can only use each effect of \"Gizmek Arakami, the Hailbringer Hog\" once per turn.",
+    "race": "Machine",
     "atk": 1850,
     "def": 1850,
     "level": 4,
-    "race": "Machine",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Gizmek",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59789370.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59789370.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59789370.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gizmek-arakami-the-hailbringer-hog-12088",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN133",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN018",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59789370,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59789370.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59789370.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59789370.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "3.60",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 65938950,
     "name": "Don't Slip, the Dogs of War",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When either player draws a Tuner(s) for their normal draw in their Draw Phase: They can reveal that card(s); they draw 2 cards. If your opponent draws by this effect: You lose 2000 LP, and if you do, send this card to the GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65938950.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65938950.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65938950.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/don-t-slip-the-dogs-of-war-13676",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN010",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65938950,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65938950.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65938950.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65938950.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

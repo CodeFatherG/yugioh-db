@@ -2,17 +2,35 @@
     "id": 300302063,
     "name": "Delicious Morsel!",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Camula",
+    "frameType": "skill",
     "desc": "During the End Phase, if a Zombie \"Vampire\" monster you control inflicted battle damage to your opponent this turn, gain LP equal to half the total battle damage your monsters inflicted to your opponent this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Camula",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302063.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302063.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302063.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/delicious-morsel-13940",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENS11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302063,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302063.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302063.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302063.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,51 @@
 {
     "id": 49218300,
     "name": "Sorcerer of the Doomed",
+    "typeline": [
+        "Spellcaster",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A slave of the dark arts, this sorcerer is a master of life-extinguishing spells.",
+    "race": "Spellcaster",
     "atk": 1450,
     "def": 1200,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49218300.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49218300.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49218300.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sorcerer-of-the-doomed-4199",
+    "card_sets": [
+        {
+            "set_name": "Starter Deck: Yugi",
+            "set_code": "SDY-038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.67"
+        },
+        {
+            "set_name": "Starter Deck: Yugi",
+            "set_code": "SDY-E034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.05"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49218300,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49218300.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49218300.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49218300.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.54",
+            "ebay_price": "0.99",
+            "amazon_price": "2.76",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,42 @@
     "id": 47870325,
     "name": "Smile Action",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: Each player can banish up to 5 Spells from their own GY, face-down. If a monster declares an attack: The attacked player activates this effect;\r\n\u25cf You (the attacked player) can randomly add 1 of your cards banished by this card's effect to your hand, then you can discard it and negate that attack, but if you do not discard that added card, any battle damage you take this turn is doubled (even if this card leaves the field).",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47870325.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47870325.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47870325.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/smile-action-10680",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Magical Hero",
+            "set_code": "LED6-EN048",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.2"
+        },
+        {
+            "set_name": "Legendary Duelists: Season 3",
+            "set_code": "LDS3-EN133",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.89"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47870325,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47870325.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47870325.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47870325.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.02",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

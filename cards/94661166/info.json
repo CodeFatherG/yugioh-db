@@ -2,17 +2,35 @@
     "id": 94661166,
     "name": "Incoming Machine!",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Add 1 monster that mentions \"Max Metalmorph\" or 1 \"Metalmorph\" Trap from your Deck or GY to your hand. If you control a \"Metalmorph\" Trap: You can banish this card from your GY, then target 1 Defense Position monster your opponent controls; change it to face-up Attack Position. You can only use this effect of \"Incoming Machine!\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94661166.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94661166.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94661166.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/incoming-machine-14517",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN050",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 94661166,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94661166.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94661166.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94661166.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

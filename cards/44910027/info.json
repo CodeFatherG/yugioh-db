@@ -1,18 +1,55 @@
 {
     "id": 44910027,
     "name": "Victory Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Dragon-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.",
+    "race": "Dragon",
     "atk": 2400,
     "def": 3000,
     "level": 8,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44910027.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44910027.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44910027.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/victory-dragon-3827",
+    "card_sets": [
+        {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN098",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Shonen Jump Vol. 5, Issue 1 promotional card",
+            "set_code": "JUMP-EN011",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "17.68"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Forbidden",
+        "ban_ocg": "Forbidden"
+    },
+    "card_images": [
+        {
+            "id": 44910027,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44910027.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44910027.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44910027.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "6.49",
+            "ebay_price": "11.99",
+            "amazon_price": "43.99",
+            "coolstuffinc_price": "15.99"
+        }
+    ]
 }

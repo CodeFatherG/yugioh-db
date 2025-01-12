@@ -1,18 +1,52 @@
 {
     "id": 4807253,
     "name": "Performage Flame Eater",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During either player's turn, when a card or effect is activated that would inflict damage to you: You can activate this effect; you cannot Special Summon monsters for the rest of this turn, except \"Performage\" monsters, also Special Summon this card from your hand, and if you do, make that effect damage to you 0. If Summoned this way, banish it when it leaves the field. If this card is Normal or Special Summoned: Each player takes 500 damage.",
+    "race": "Spellcaster",
     "atk": 1200,
     "def": 1600,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Performage",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4807253.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4807253.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4807253.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/performage-flame-eater-426",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN060",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Clash of Rebellions",
+            "set_code": "CORE-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4807253,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4807253.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4807253.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4807253.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

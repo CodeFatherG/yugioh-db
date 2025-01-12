@@ -2,17 +2,43 @@
     "id": 917796,
     "name": "Gagagatag",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "All \"Gagaga\" monsters you currently control gain 500 ATK for each \"Gagaga\" monster you currently control, until your next Standby Phase. You can only activate 1 \"Gagagatag\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Gagaga",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/917796.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/917796.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/917796.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gagagatag-81",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN167",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Shadow Specters",
+            "set_code": "SHSP-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 917796,
+            "image_url": "https://images.ygoprodeck.com/images/cards/917796.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/917796.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/917796.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

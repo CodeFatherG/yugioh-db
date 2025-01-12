@@ -2,17 +2,36 @@
     "id": 36982581,
     "name": "Gishki Nekromirror",
     "type": "Spell Card",
+    "humanReadableCardType": "Ritual Spell",
+    "frameType": "spell",
     "desc": "This card can be used to Ritual Summon any \"Gishki\" Ritual Monster. You must also Tribute monsters from your hand or field, whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon, OR Tribute 1 face-up monster your opponent controls. If you Ritual Summon using this card, you lose LP equal to the original ATK of the Ritual Summoned monster. If this card is in your GY: You can target 1 \"Gishki\" monster in your GY; place that card on top of the Deck, and if you do, place this card on the bottom of the Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Ritual",
-    "attribute": null,
-    "scale": null,
     "archetype": "Gishki",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/36982581.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36982581.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36982581.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gishki-nekromirror-13482",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 36982581,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36982581.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36982581.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36982581.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

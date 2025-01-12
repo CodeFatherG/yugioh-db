@@ -2,17 +2,43 @@
     "id": 42431833,
     "name": "Spright Gamma Burst",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "All Level/Rank/Link 2 monsters currently on the field gain 1400 ATK/DEF until the end of this turn. During your Main Phase: You can banish this card from your GY, then target 1 Level/Rank/Link 2 monster you control; it gains 1400 ATK until the end of your opponent's turn. You can only use 1 \"Spright Gamma Burst\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Spright",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42431833.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42431833.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42431833.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spright-gamma-burst-13169",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN105",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42431833,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42431833.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42431833.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42431833.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

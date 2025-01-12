@@ -2,17 +2,36 @@
     "id": 28273805,
     "name": "Six Strike - Double Assault",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Apply 1 of these effects, or if you control 2 or more \"Six Samurai\" monsters, you can apply both effects in sequence.\r\n\u25cf Special Summon 1 \"Six Samurai\" monster with 2000 or less ATK from your hand or GY.\r\n\u25cf Change 1 monster your opponent controls with 2000 or less ATK to face-down Defense Position.\r\nDuring your Main Phase: You can banish this card from your GY, then target 1 \"Six Samurai\" monster in your GY; add it to your hand. You can only use 1 \"Six Strike - Double Assault\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Six Strike",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28273805.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28273805.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28273805.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/six-strike-double-assault-14555",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28273805,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28273805.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28273805.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28273805.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 37582948,
     "name": "Live\u2606Twin Sunny's Snitch",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: You can add 1 \"Live\u2606Twin\" monster from your Deck to your hand. While you control an \"Evil\u2605Twin\" monster, each time your opponent Normal or Special Summons a monster(s), you gain 200 LP, and if you do, inflict 200 damage to your opponent. You can only activate 1 \"Live\u2606Twin Sunny's Snitch\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Live\u2606Twin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37582948.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37582948.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37582948.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/live-twin-sunny-s-snitch-12183",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN161",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN062",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37582948,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37582948.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37582948.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37582948.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.48",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

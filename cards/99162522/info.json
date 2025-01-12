@@ -2,17 +2,50 @@
     "id": 99162522,
     "name": "EXTINGUISH!",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "(This card is always treated as a \"Rescue-ACE\" card.)\r\nIf you control a \"Rescue-ACE\" monster: Target 1 Effect Monster your opponent controls; destroy it, then, if you currently control \"Rescue-ACE Hydrant\", your opponent cannot activate the effects of that destroyed monster, or of monsters with its same original name, this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Rescue-ACE",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99162522.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99162522.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99162522.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/extinguish-13383",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN284",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN012",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN080",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 99162522,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99162522.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99162522.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99162522.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

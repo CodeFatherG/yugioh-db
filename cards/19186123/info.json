@@ -2,17 +2,43 @@
     "id": 19186123,
     "name": "Vision Release",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Vision HERO\" Monster Card in your Spell & Trap Zone; Special Summon it. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 \"Vision HERO\" monster in your GY; add it to your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Vision HERO",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19186123.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19186123.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19186123.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vision-release-10292",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN085",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Hero's Revenge",
+            "set_code": "BLHR-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.56"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19186123,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19186123.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19186123.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19186123.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

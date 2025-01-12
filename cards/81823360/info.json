@@ -1,18 +1,44 @@
 {
     "id": 81823360,
     "name": "Megalosmasher X",
+    "typeline": [
+        "Dinosaur",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "With its sound-baffling armor and gargantuan jaws, this primeval predator's phosphorescence was the only possible pardon for its primitive prey.",
+    "race": "Dinosaur",
     "atk": 2000,
     "def": 0,
     "level": 4,
-    "race": "Dinosaur",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81823360.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81823360.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81823360.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/megalosmasher-x-8512",
+    "card_sets": [
+        {
+            "set_name": "Dinosmasher's Fury Structure Deck",
+            "set_code": "SR04-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.51"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81823360,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81823360.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81823360.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81823360.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.86",
+            "ebay_price": "0.99",
+            "amazon_price": "1.69",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

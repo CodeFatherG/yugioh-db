@@ -1,18 +1,59 @@
 {
     "id": 79933029,
     "name": "Purrelyly",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add 1 \"Purrely\" card from your Deck to your hand, except a Quick-Play Spell. You can target 1 \"Purrely\" Quick-Play Spell in your GY; Special Summon 1 Xyz Monster from your Extra Deck that mentions that card, by using this card you control as material, and if you do, attach that Spell to the Summoned monster. (This is treated as an Xyz Summon.) You can only use each effect of \"Purrelyly\" once per turn.",
+    "race": "Fairy",
     "atk": 100,
     "def": 100,
     "level": 1,
-    "race": "Fairy",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Purrely",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/79933029.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79933029.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79933029.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/purrelyly-13659",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN191",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 22",
+            "set_code": "OP22-EN001",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79933029,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79933029.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79933029.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79933029.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

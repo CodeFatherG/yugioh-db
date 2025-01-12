@@ -1,18 +1,67 @@
 {
     "id": 68505803,
     "name": "Genex Controller",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Normal"
+    ],
     "type": "Normal Tuner Monster",
+    "humanReadableCardType": "Tuner Normal Monster",
+    "frameType": "normal",
     "desc": "As a master of all powers and elements, this is one of the few Genex monsters that can communicate with its companions.",
+    "race": "Machine",
     "atk": 1400,
     "def": 1200,
     "level": 3,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Genex",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68505803.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68505803.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68505803.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/genex-controller-5758",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN050",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN059",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+        },
+        {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN090",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 68505803,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68505803.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68505803.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68505803.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.50",
+            "amazon_price": "0.83",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

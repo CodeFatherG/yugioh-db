@@ -1,18 +1,45 @@
 {
     "id": 9560338,
     "name": "Reaper of Prophecy",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal or Special Summoned: You can activate this effect; apply as many effects as possible, based on the number of \"Spellbook\" Spell Cards with different names in your Graveyard. You can only use the effect of \"Reaper of Prophecy\" once per turn.\n\u25cf 3 or more: This card gains 600 ATK.\n\u25cf 4 or more: Add 1 \"Spellbook\" Spell Card from your Deck to your hand.\n\u25cf 5 or more: Special Summon 1 Level 5 or higher DARK Spellcaster-Type monster from your Deck.",
+    "race": "Spellcaster",
     "atk": 2000,
     "def": 1600,
     "level": 6,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Spellbook",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9560338.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9560338.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9560338.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/reaper-of-prophecy-807",
+    "card_sets": [
+        {
+            "set_name": "Cosmo Blazer",
+            "set_code": "CBLZ-EN036",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9560338,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9560338.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9560338.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9560338.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.68",
+            "tcgplayer_price": "0.66",
+            "ebay_price": "1.39",
+            "amazon_price": "2.46",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

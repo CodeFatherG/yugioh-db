@@ -1,18 +1,44 @@
 {
     "id": 49729312,
     "name": "Primineral Kongreat",
+    "typeline": [
+        "Rock",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If a monster is sent from your opponent's hand or Deck to the GY (except during the Damage Step): You can Special Summon this card from your hand in face-down Defense Position. If this card is flipped face-up: You can target up to 2 cards on the field; destroy them.",
+    "race": "Rock",
     "atk": 3000,
     "def": 2000,
     "level": 8,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49729312.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49729312.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49729312.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/primineral-kongreat-10383",
+    "card_sets": [
+        {
+            "set_name": "Chaos Impact",
+            "set_code": "CHIM-EN024",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49729312,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49729312.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49729312.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49729312.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "2.07",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

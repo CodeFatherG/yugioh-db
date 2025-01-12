@@ -2,17 +2,36 @@
     "id": 42193638,
     "name": "Vaalmonica Versare",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Apply 1 of these effects. Unless you have a \"Vaalmonica\" card in your Pendulum Zone, your opponent chooses the effect.\r\n\u25cf Gain 500 LP, then you can excavate cards from the top of your Deck until you excavate a \"Vaalmonica\" card, then add that card to your hand, also shuffle the rest into the Deck.\r\n\u25cf Take 500 damage, then you can send 1 \"Vaalmonica\" card from your Deck to the GY, except \"Vaalmonica Versare\".\r\nYou can only activate 1 \"Vaalmonica Versare\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Vaalmonica",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42193638.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42193638.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42193638.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vaalmonica-versare-14108",
+    "card_sets": [
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN037",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42193638,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42193638.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42193638.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42193638.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

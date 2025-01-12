@@ -2,17 +2,36 @@
     "id": 62091148,
     "name": "Salamandra with Chain",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 FIRE monster on the field; equip this card to it as an Equip Card that gives it 700 ATK, then you can change 1 Effect Monster on the field to face-down Defense Position. You can banish this card from your GY; Fusion Summon 1 FIRE Warrior or Dragon Fusion Monster from your Extra Deck, by shuffling its materials from your hand, field, and/or GY into the Deck, but destroy it during the End Phase. You can only use this effect of \"Salamandra with Chain\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Salamandra",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62091148.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62091148.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62091148.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/salamandra-with-chain-14328",
+    "card_sets": [
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN009",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 62091148,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62091148.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62091148.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62091148.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

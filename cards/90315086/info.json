@@ -1,18 +1,36 @@
 {
     "id": 90315086,
-    "name": "Jet Shark",
+    "name": "Hydrojet Shark",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If a WATER Xyz Monster is on the field, you can Special Summon this card (from your hand). If Summoned this way, you cannot Special Summon \"Jet Shark\" for the rest of this turn. You can only use 1 of the following effects of \"Jet Shark\" per turn, and only once that turn. During your Main Phase: You can send 1 Fish \"Shark\" monster or 1 \"Xyz\" Spell/Trap from your Deck to the GY. You can banish this card from your GY; add 1 \"Aqua Jet\" card from your Deck or GY to your hand.",
+    "race": "Fish",
     "atk": 1000,
     "def": 0,
     "level": 4,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Shark",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/90315086.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90315086.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90315086.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jet-shark-14768",
+    "card_images": [
+        {
+            "id": 90315086,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90315086.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90315086.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90315086.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 46186135,
     "name": "Enlightenment Dragon",
+    "typeline": [
+        "Dragon",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "\"Judgment Dragon\" + \"Punishment Dragon\"\r\nMust be Special Summoned (from your Extra Deck) by banishing the above monsters, 1 each from your field and GY. Once per turn (Quick Effect): You can pay 2000 LP; banish all other cards on the field and in the GYs. Once per turn, during your End Phase: Send the top 4 cards of your Deck to the GY. If this card in its owner's possession is destroyed by an opponent's card: You can add 2 of your banished monsters to your hand (1 \"Judgment Dragon\" and 1 \"Punishment Dragon\"), then you can Special Summon both, ignoring their Summoning conditions.",
+    "race": "Dragon",
     "atk": 3000,
     "def": 3000,
     "level": 10,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46186135.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46186135.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46186135.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/enlightenment-dragon-14300",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN038",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46186135,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46186135.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46186135.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46186135.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

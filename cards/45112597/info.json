@@ -1,15 +1,20 @@
 {
     "id": 45112597,
     "name": "Worldsea Dragon Zealantis",
+    "typeline": [
+        "Sea Serpent",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1+ Effect Monsters\r\nYou can only control 1 \"Worldsea Dragon Zealantis\". You can only use each of the following effects of \"Worldsea Dragon Zealantis\" once per turn. During your Main Phase: You can banish all monsters on the field, then Special Summon as many monsters as possible that were banished by this effect, to their owners' fields, face-up, or in face-down Defense Position. During the Battle Phase (Quick Effect): You can destroy cards on the field up to the number of co-linked monsters on the field.",
+    "race": "Sea Serpent",
     "atk": 2500,
     "def": null,
     "level": null,
-    "race": "Sea Serpent",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
     "linkval": 4,
     "linkmarkers": [
         "Top",
@@ -17,7 +22,38 @@
         "Right",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/45112597.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45112597.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45112597.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/worldsea-dragon-zealantis-13379",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN193",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN050",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45112597,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45112597.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45112597.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45112597.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.11",
+            "tcgplayer_price": "0.37",
+            "ebay_price": "8.45",
+            "amazon_price": "1.99",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

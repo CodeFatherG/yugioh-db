@@ -1,18 +1,46 @@
 {
     "id": 60823690,
     "name": "Shinobaron Shade Peacock",
+    "typeline": [
+        "Winged Beast",
+        "Ritual",
+        "Effect"
+    ],
     "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
     "desc": "You can Ritual Summon this card with \"Shinobird's Calling\". This card's name becomes \"Shinobaron Peacock\" while in the hand or on the field. You can Tribute this Ritual Summoned card; add 1 Spirit monster and 1 Ritual Spell from your Deck to your hand. You can only use this effect of \"Shinobaron Shade Peacock\" once per turn. Once per turn, during the Standby Phase of the next turn after this card was banished: Special Summon this banished card. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return this card to the hand.",
+    "race": "Winged Beast",
     "atk": 2000,
     "def": 1500,
     "level": 4,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Shinobird",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60823690.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60823690.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60823690.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shinobaron-shade-peacock-14035",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60823690,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60823690.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60823690.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60823690.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,35 @@
 {
     "id": 76512652,
     "name": "Krokodilus",
+    "typeline": [
+        "Reptile",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A vicious crocodile with great intelligence.''",
+    "race": "Reptile",
     "atk": 1100,
     "def": 1200,
     "level": 4,
-    "race": "Reptile",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/76512652.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76512652.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76512652.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/krokodilus-6437",
+    "card_images": [
+        {
+            "id": 76512652,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76512652.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76512652.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76512652.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "9.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

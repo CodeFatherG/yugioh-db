@@ -2,17 +2,42 @@
     "id": 7133305,
     "name": "Water of Life",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "If you control no monsters: Target 1 monster in your GY; Special Summon that target in Attack Position, also, for the rest of this turn after this card resolves, you cannot activate monster effects, except the effects of that Special Summoned monster on the field. You can only activate 1 \"Water of Life\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7133305.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7133305.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7133305.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/water-of-life-10350",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN077",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Hero's Revenge",
+            "set_code": "BLHR-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.46"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7133305,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7133305.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7133305.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7133305.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "1.49",
+            "amazon_price": "1.03",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

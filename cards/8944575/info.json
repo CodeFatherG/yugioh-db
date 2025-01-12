@@ -1,18 +1,35 @@
 {
     "id": 8944575,
     "name": "The Drdek",
+    "typeline": [
+        "Fiend",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A bipedal eyeball that seldom misses an enemy with its lethal talons.''",
+    "race": "Fiend",
     "atk": 700,
     "def": 800,
     "level": 3,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8944575.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8944575.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8944575.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-drdek-756",
+    "card_images": [
+        {
+            "id": 8944575,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8944575.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8944575.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8944575.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.18",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "3.00",
+            "amazon_price": "0.94",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

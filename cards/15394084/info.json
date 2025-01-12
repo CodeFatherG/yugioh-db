@@ -2,17 +2,27 @@
     "id": 15394084,
     "name": "Nordic Beast Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Tanngrisnir of the Nordic Beasts\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Beast",
-    "attribute": null,
-    "scale": null,
     "archetype": "Nordic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15394084.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15394084.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15394084.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nordic-beast-token-1326",
+    "card_images": [
+        {
+            "id": 15394084,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15394084.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15394084.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15394084.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,58 @@
 {
     "id": 43500484,
     "name": "Darkworld Thorns",
+    "typeline": [
+        "Plant",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A thorny plant found in the darklands that wraps itself around any unwary traveler.",
+    "race": "Plant",
     "atk": 1200,
     "def": 900,
     "level": 3,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/43500484.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43500484.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43500484.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/darkworld-thorns-3711",
+    "card_sets": [
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-114",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.21"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-E092",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "7.14"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-EN114",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.4"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 43500484,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43500484.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43500484.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43500484.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "1.00",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

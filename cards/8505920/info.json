@@ -1,18 +1,46 @@
 {
     "id": 8505920,
     "name": "Gate Guardians Combined",
+    "typeline": [
+        "Warrior",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "\"Sanga of the Thunder\" + \"Kazejin\" + \"Suijin\"\r\nMust be Special Summoned (from your Extra Deck) by banishing the above cards from your hand, field, and/or GY. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can negate that effect, and if you do, destroy that card. You can only use this effect of \"Gate Guardians Combined\" thrice per turn. If this face-up Special Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 Level 11 or lower \"Gate Guardian\" monster from your Deck or Extra Deck, ignoring its Summoning conditions.",
+    "race": "Warrior",
     "atk": 3750,
     "def": 3400,
     "level": 12,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Gate Guardian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8505920.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8505920.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8505920.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gate-guardians-combined-13762",
+    "card_sets": [
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8505920,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8505920.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8505920.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8505920.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.43",
+            "tcgplayer_price": "0.76",
+            "ebay_price": "1.59",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

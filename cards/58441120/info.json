@@ -2,17 +2,35 @@
     "id": 58441120,
     "name": "Harmonic Waves",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 face-up monster on the field; it becomes Level 4 until the End Phase.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58441120.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58441120.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58441120.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/harmonic-waves-4967",
+    "card_sets": [
+        {
+            "set_name": "Starter Deck: Dawn of the Xyz",
+            "set_code": "YS11-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58441120,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58441120.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58441120.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58441120.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.50",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

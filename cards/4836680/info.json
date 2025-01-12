@@ -1,18 +1,49 @@
 {
     "id": 4836680,
     "name": "Performapal Odd-Eyes Seer",
+    "typeline": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nYou can target 1 \"Performapal\" or \"Odd-Eyes\" card in your GY; add it to your hand, then destroy this card. You can only use this effect of \"Performapal Odd-Eyes Seer\" once per turn.\n\n[ Monster Effect ] \nDuring your Main Phase, if you control this Pendulum Summoned card: You can activate the following effect, based on its battle position;\r\n\u25cf Attack Position: You can banish this card, then target 1 \"Performapal\" or \"Odd-Eyes\" monster in your GY; Special Summon it.\r\n\u25cf Defense Position: Take 1 \"Performapal\" or \"Odd-Eyes\" Pendulum Monster from your Deck, and either add it to your face-up Extra Deck or send it to the GY.\r\nYou can only use this effect of \"Performapal Odd-Eyes Seer\" once per turn.",
+    "race": "Spellcaster",
+    "pend_desc": "You can target 1 \"Performapal\" or \"Odd-Eyes\" card in your GY; add it to your hand, then destroy this card. You can only use this effect of \"Performapal Odd-Eyes Seer\" once per turn.",
+    "monster_desc": "During your Main Phase, if you control this Pendulum Summoned card: You can activate the following effect, based on its battle position;\r\n\u25cf Attack Position: You can banish this card, then target 1 \"Performapal\" or \"Odd-Eyes\" monster in your GY; Special Summon it.\r\n\u25cf Defense Position: Take 1 \"Performapal\" or \"Odd-Eyes\" Pendulum Monster from your Deck, and either add it to your face-up Extra Deck or send it to the GY.\r\nYou can only use this effect of \"Performapal Odd-Eyes Seer\" once per turn.",
     "atk": 100,
     "def": 1800,
     "level": 6,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": 1,
     "archetype": "Odd-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4836680.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4836680.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4836680.jpg"
+    "scale": 1,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/performapal-odd-eyes-seer-13346",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN031",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4836680,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4836680.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4836680.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4836680.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "3.39",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

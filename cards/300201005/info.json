@@ -2,17 +2,35 @@
     "id": 300201005,
     "name": "Gravekeeper's Lot",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Ishizu",
+    "frameType": "skill",
     "desc": "[If you lose 1800 or more LP, you can activate this Skill during your next Draw Phase.]\r\n\r\nDuring your Draw Phase, you may search your Deck for a \u201cGravekeeper\u2019s\u201d card, reveal it to your opponent, and add it to your hand instead of drawing. If you do that, flip this card over.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Ishizu",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300201005.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300201005.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300201005.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gravekeeper-s-lot-10090",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel Starter Decks: Destiny Masters",
+            "set_code": "SS01-ENBS2",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.51"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300201005,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300201005.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300201005.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300201005.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.28",
+            "ebay_price": "2.15",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 51250293,
     "name": "Majespecter Wind",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "When you activate this card, you can also Tribute 1 WIND Spellcaster monster; Special Summon 1 \"Majespecter\" monster from your hand or GY, or if you Tributed a monster at activation, you can Special Summon 1 \"Majespecter\" monster from your Deck instead. You can only activate 1 \"Majespecter Wind\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Majespecter",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/51250293.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51250293.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51250293.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/majespecter-wind-14147",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN069",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 51250293,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51250293.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51250293.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51250293.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

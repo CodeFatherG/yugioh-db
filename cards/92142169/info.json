@@ -1,18 +1,44 @@
 {
     "id": 92142169,
     "name": "Bite Bug",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand). When you do: Target 1 monster your opponent controls; that monster loses 300 ATK.",
+    "race": "Insect",
     "atk": 300,
     "def": 1000,
     "level": 3,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92142169.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92142169.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92142169.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bite-bug-7683",
+    "card_sets": [
+        {
+            "set_name": "Super Starter Power-Up Pack",
+            "set_code": "YS13-ENV05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92142169,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92142169.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92142169.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92142169.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "1.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

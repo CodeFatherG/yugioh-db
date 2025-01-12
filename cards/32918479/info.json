@@ -1,18 +1,59 @@
 {
     "id": 32918479,
     "name": "Majestic Mech - Senku",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card inflicts Battle Damage to your opponent by a direct attack: Draw 1 card. During the End Phase of the turn this card was Summoned: Send it to the Graveyard.",
+    "race": "Fairy",
     "atk": 1000,
     "def": 500,
     "level": 4,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Majestic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32918479.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32918479.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32918479.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/majestic-mech-senku-2801",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN194",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.57"
+        },
+        {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Starter Deck: Dawn of the Xyz",
+            "set_code": "YS11-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32918479,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32918479.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32918479.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32918479.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 48791583,
     "name": "Invoked Magellanica",
+    "typeline": [
+        "Rock",
+        "Fusion"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Monster",
+    "frameType": "fusion",
     "desc": "\"Aleister the Invoker\" + 1 EARTH monster",
+    "race": "Rock",
     "atk": 3000,
     "def": 3300,
     "level": 8,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Invoked",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48791583.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48791583.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48791583.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/invoked-magellanica-4170",
+    "card_sets": [
+        {
+            "set_name": "Fusion Enforcers",
+            "set_code": "FUEN-EN031",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Genesis Impact",
+            "set_code": "GEIM-EN056",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.06"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48791583,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48791583.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48791583.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48791583.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "6.95",
+            "amazon_price": "7.49",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

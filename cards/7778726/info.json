@@ -1,21 +1,57 @@
 {
     "id": 7778726,
     "name": "Hip Hoshiningen",
+    "typeline": [
+        "Fairy",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 LIGHT monsters\r\nAll LIGHT monsters on the field gain 500 ATK/DEF, also all DARK monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 LIGHT monster in your GY; add it to your hand. You can only use this effect of \"Hip Hoshiningen\" once per turn.",
+    "race": "Fairy",
     "atk": 1400,
     "def": null,
     "level": 0,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/7778726.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7778726.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7778726.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hip-hoshiningen-9434",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN112",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cybernetic Horizon",
+            "set_code": "CYHO-EN050",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7778726,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7778726.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7778726.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7778726.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.44",
+            "amazon_price": "0.97",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

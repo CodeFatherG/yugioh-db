@@ -2,17 +2,43 @@
     "id": 92907248,
     "name": "Wake Up Centur-Ion!",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "If a Monster Card is face-up in your Spell & Trap Zone: You can declare Level 4 or 8; Special Summon 1 \"Centur-Ion Token\" (Pyro/DARK/ATK 0/DEF 0) with the declared Level, but it cannot be used as Fusion or Link Material. During your Main Phase: You can banish this card from your GY; send 1 \"Centur-Ion\" card from your Deck to the GY, except \"Wake Up Centur-Ion!\". You can only use each effect of \"Wake Up Centur-Ion!\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Centur-Ion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92907248.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92907248.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92907248.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wake-up-centur-ion-14358",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN064",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN064",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92907248,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92907248.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92907248.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92907248.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.75",
+            "tcgplayer_price": "1.70",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

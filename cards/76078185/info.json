@@ -1,18 +1,45 @@
 {
     "id": 76078185,
     "name": "Heretical Phobos Covos",
+    "typeline": [
+        "Illusion",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 4 monsters\r\nYou can target 1 Effect Monster your opponent controls; negate its effects, then if it battled this turn, you can take control of it until the End Phase. This is a Quick Effect if this card has an Illusion monster as material. You can only use this effect of \"Heretical Phobos Covos\" once per turn. If this card battles a monster, neither can be destroyed by that battle.",
+    "race": "Illusion",
     "atk": 2100,
     "def": 1500,
     "level": 4,
-    "race": "Illusion",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/76078185.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76078185.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76078185.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heretical-phobos-covos-14432",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN045",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 76078185,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76078185.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76078185.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76078185.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

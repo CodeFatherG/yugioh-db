@@ -1,21 +1,51 @@
 {
     "id": 4709881,
     "name": "Auram the World Chalice Blademaster",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 \"World Chalice\" monsters\r\nGains 300 ATK for each \"World Legacy\" monster in your GY with a different name. You can Tribute 1 \"World Chalice\" monster this card points to, then target 1 other monster in your GY; Special Summon it to your zone this card points to. You can only use this effect of \"Auram the World Chalice Blademaster\" once per turn. If this card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your hand.",
+    "race": "Cyberse",
     "atk": 2000,
     "def": null,
     "level": 0,
-    "race": "Cyberse",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "World Chalice",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/4709881.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4709881.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4709881.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/auram-the-world-chalice-blademaster-8718",
+    "card_sets": [
+        {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN049",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4709881,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4709881.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4709881.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4709881.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.99",
+            "amazon_price": "0.75",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

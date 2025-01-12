@@ -2,17 +2,43 @@
     "id": 844056,
     "name": "Red Arrows",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target up to 2 face-up monsters in the Extra Monster Zone(s); banish them until the End Phase. You can only activate 1 \"Red Arrows\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Rose",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/844056.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/844056.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/844056.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/red-arrows-13554",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN253",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN096",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 844056,
+            "image_url": "https://images.ygoprodeck.com/images/cards/844056.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/844056.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/844056.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "6.80",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

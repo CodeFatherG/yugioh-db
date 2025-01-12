@@ -1,18 +1,60 @@
 {
     "id": 60461804,
     "name": "Destiny HERO - Destroyer Phoenix Enforcer",
+    "typeline": [
+        "Warrior",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 Level 6 or higher \"HERO\" monster + 1 \"Destiny HERO\" monster\r\nMonsters your opponent controls lose 200 ATK for each \"HERO\" card in your GY. You can only use each of the following effects of \"Destiny HERO - Destroyer Phoenix Enforcer\" once per turn. (Quick Effect): You can destroy both 1 card you control and 1 card on the field. If this card is destroyed by battle or card effect: You can activate this effect; Special Summon 1 \"Destiny HERO\" monster from your GY during the Standby Phase of the next turn.",
+    "race": "Warrior",
     "atk": 2500,
     "def": 2100,
     "level": 8,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Destiny HERO",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60461804.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60461804.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60461804.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-destroyer-phoenix-enforcer-12478",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN209",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN039",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN100",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "326.73"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60461804,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60461804.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60461804.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60461804.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "8.64",
+            "tcgplayer_price": "7.11",
+            "ebay_price": "14.99",
+            "amazon_price": "51.99",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

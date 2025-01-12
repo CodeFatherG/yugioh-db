@@ -1,18 +1,52 @@
 {
     "id": 71768839,
     "name": "I.A.S. -Invasive Alien Species-",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be destroyed by battle or card effects while your opponent has a face-up card in their Field Zone. You can only use each of the following effects of \"I.A.S. -Invasive Alien Species-\" once per turn. If your opponent has a face-up card in their Field Zone: You can target 1 monster they control; destroy it, and if you do, this card gains 1000 ATK. If your opponent has a face-up card in their Field Zone, while this card is in your GY: You can Special Summon this card.",
+    "race": "Reptile",
     "atk": 1600,
     "def": 0,
     "level": 4,
-    "race": "Reptile",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Alien",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71768839.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71768839.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71768839.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/i-a-s-invasive-alien-species-14089",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN236",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71768839,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71768839.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71768839.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71768839.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

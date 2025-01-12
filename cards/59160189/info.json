@@ -2,17 +2,35 @@
     "id": 59160189,
     "name": "Torment Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as a \"Torment Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Fiend",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59160189.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59160189.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59160189.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/torment-token-10171",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-ENTKN",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.21"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59160189,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59160189.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59160189.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59160189.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.99",
+            "ebay_price": "2.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

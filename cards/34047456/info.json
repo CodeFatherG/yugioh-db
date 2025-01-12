@@ -2,17 +2,42 @@
     "id": 34047456,
     "name": "Gigantic Thundercross",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target a number of monsters on the field and/or in the GYs, equal to the difference between your banished cards and your opponent's; banish them, then your opponent can Special Summon 1 monster from their Deck. You can only activate 1 \"Gigantic Thundercross\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34047456.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34047456.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34047456.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gigantic-thundercross-13546",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN329",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN072",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34047456,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34047456.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34047456.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34047456.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

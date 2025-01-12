@@ -1,18 +1,53 @@
 {
     "id": 58858807,
     "name": "Tellarknight Constellar Caduceus",
+    "typeline": [
+        "Warrior",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 4 monsters\r\nIf this card is Xyz Summoned: You can target 1 \"tellarknight\" and/or 1 \"Constellar\" card in your GY; add them to your hand. You can banish 1 \"tellarknight\" or 1 \"Constellar\" monster from your hand or Deck, and detach 1 material from this card; this effect becomes that banished monster's effect that activates when it is Normal Summoned. You can only use each effect of \"Tellarknight Constellar Caduceus\" once per turn.",
+    "race": "Warrior",
     "atk": 2500,
     "def": 1650,
     "level": 4,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Constellar",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58858807.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58858807.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58858807.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tellarknight-constellar-caduceus-13668",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN344",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN045",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58858807,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58858807.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58858807.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58858807.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "1.94",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

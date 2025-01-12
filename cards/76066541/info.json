@@ -1,18 +1,51 @@
 {
     "id": 76066541,
     "name": "Dragon Dowser",
+    "typeline": [
+        "Wyrm",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is destroyed by battle and sent to the Graveyard, or when this card you control is destroyed by an opponent's card effect and sent to your Graveyard: You can Special Summon 1 EARTH Pendulum Monster from your Deck in Defense Position, but destroy it during the End Phase. You can only use this effect of \"Dragon Dowser\" once per turn.",
+    "race": "Wyrm",
     "atk": 1500,
     "def": 1500,
     "level": 4,
-    "race": "Wyrm",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/76066541.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76066541.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76066541.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-dowser-6402",
+    "card_sets": [
+        {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN038",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Starter Deck: Yuya",
+            "set_code": "YS16-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 76066541,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76066541.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76066541.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76066541.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

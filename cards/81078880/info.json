@@ -1,18 +1,59 @@
 {
     "id": 81078880,
     "name": "Live\u2606Twin Lil-la Treat",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a \"Ki-sikil\" monster, you can Special Summon this card (from your hand). You can only Special Summon \"Live\u2606Twin Lil-la Treat\" once per turn this way. When either player takes damage from a battle involving an \"Evil\u2605Twin\" monster: You can banish this card from your GY, then target 1 face-up monster your opponent controls; it loses ATK equal to that battle damage. You can only use this effect of \"Live\u2606Twin Lil-la Treat\" once per turn.",
+    "race": "Zombie",
     "atk": 500,
     "def": 0,
     "level": 2,
-    "race": "Zombie",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Lil-la",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81078880.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81078880.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81078880.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/live-twin-lil-la-treat-11616",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN028",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN028",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81078880,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81078880.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81078880.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81078880.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.69",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

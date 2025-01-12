@@ -2,17 +2,43 @@
     "id": 34822850,
     "name": "Void Expansion",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "During your Standby Phase: You can Special Summon 1 \"Infernoid Token\" (Fiend-Type/FIRE/Level 1/ATK 0/DEF 0). To Special Summon an \"Infernoid\" monster using its own procedure, you can banish \"Infernoid\" monster(s) you control instead of those in the Graveyard (or any combination of both). Your opponent cannot target \"Infernoid\" monsters you control for attacks or with card effects, except the \"Infernoid\" monster you control with the highest Level (either, if tied).",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Infernoid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34822850.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34822850.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34822850.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/void-expansion-2957",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN229",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN058",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34822850,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34822850.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34822850.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34822850.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.33",
+            "ebay_price": "1.43",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

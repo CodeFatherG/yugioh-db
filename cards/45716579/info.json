@@ -1,18 +1,53 @@
 {
     "id": 45716579,
     "name": "Earthbound Servant Geo Kraken",
+    "typeline": [
+        "Fiend",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 \"Earthbound\" monsters\r\nIf this card is Special Summoned: You can add 1 Field Spell from your Deck or GY to your hand. If a monster(s) is Special Summoned from your opponent's Extra Deck (except during the Damage Step): You can destroy as many monsters your opponent controls as possible that were Special Summoned this turn, and if you do, inflict 800 damage to your opponent for each monster destroyed. You can only use each effect of \"Earthbound Servant Geo Kraken\" once per turn.",
+    "race": "Fiend",
     "atk": 2800,
     "def": 1200,
     "level": 8,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Earthbound",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45716579.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45716579.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45716579.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/earthbound-servant-geo-kraken-13961",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN276",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN030",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45716579,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45716579.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45716579.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45716579.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

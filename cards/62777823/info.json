@@ -2,17 +2,50 @@
     "id": 62777823,
     "name": "CONTAIN!",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "(This card is always treated as a \"Rescue-ACE\" card.)\r\nIf you control a \"Rescue-ACE\" monster: Target 1 Effect Monster your opponent controls; this turn, that Effect Monster cannot attack, also its effects are negated. If you control \"Rescue-ACE Hydrant\" at resolution of this effect, that monster also cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Rescue-ACE",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62777823.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62777823.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62777823.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/contain-13382",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN283",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN011",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN082",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 62777823,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62777823.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62777823.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62777823.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "999.99",
+            "amazon_price": "10.18",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

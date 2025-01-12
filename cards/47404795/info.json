@@ -1,21 +1,51 @@
 {
     "id": 47404795,
     "name": "Abyss Actor - Super Producer",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters, including a Fiend monster\r\nDuring the Main Phase (Quick Effect): You can target 1 face-up card you control; destroy it, then you can apply 1 of these effects.\r\n\u25cf Place 1 \"Abyss Playhouse - Fantastic Theater\" from your Deck, face-up in your Field Zone.\r\n\u25cf Place 1 \"Abyss Actor\" Pendulum Monster from your Deck in your Pendulum Zone.\r\nYou can only use this effect of \"Abyss Actor - Super Producer\" once per turn.",
+    "race": "Fiend",
     "atk": 1600,
     "def": null,
     "level": null,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Abyss Actor",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/47404795.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47404795.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47404795.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-actor-super-producer-13537",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47404795,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47404795.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47404795.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47404795.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

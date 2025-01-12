@@ -2,17 +2,35 @@
     "id": 91677585,
     "name": "Hi-Five the Sky",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "During your Battle Phase: Target 1 face-up Xyz Monster that attacked this turn; it can make a second attack during this Battle Phase. If it does so using this effect, your opponent cannot activate cards or effects until the end of the Damage Step.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91677585.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91677585.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91677585.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hi-five-the-sky-7645",
+    "card_sets": [
+        {
+            "set_name": "World Superstars",
+            "set_code": "WSUP-EN030",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91677585,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91677585.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91677585.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91677585.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.31",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "1.30",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

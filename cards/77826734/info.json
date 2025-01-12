@@ -2,17 +2,63 @@
     "id": 77826734,
     "name": "Pendulum Reborn",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Special Summon 1 face-up Pendulum Monster from your Extra Deck, or 1 Pendulum Monster from your GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77826734.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77826734.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77826734.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pendulum-reborn-6547",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN229",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Breakers of Shadow",
+            "set_code": "BOSH-EN077",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENC23",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.36"
+        },
+        {
+            "set_name": "Pendulum Evolution",
+            "set_code": "PEVO-EN041",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Starter Deck: Yuya",
+            "set_code": "YS16-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 77826734,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77826734.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77826734.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77826734.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

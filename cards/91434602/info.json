@@ -1,18 +1,45 @@
 {
     "id": 91434602,
     "name": "Majesty Hyperion",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Special Summon this card (from your hand or GY) by banishing 1 \"The Agent\" monster from your hand, field, or GY. You can only Special Summon \"Majesty Hyperion\" once per turn this way. Any battle damage you take from battles involving your Fairy monsters is also inflicted to your opponent. Once per turn: You can banish 1 Fairy monster from your hand or GY, then target 1 card in either GY; banish it. If \"The Sanctuary in the Sky\" is on the field or in either GY, you can use this effect up to twice per turn.",
+    "race": "Fairy",
     "atk": 2100,
     "def": 2700,
     "level": 8,
-    "race": "Fairy",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Hyperion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91434602.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91434602.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91434602.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/majesty-hyperion-12415",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN007",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.67"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91434602,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91434602.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91434602.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91434602.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.97",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

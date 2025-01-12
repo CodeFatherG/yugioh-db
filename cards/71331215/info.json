@@ -2,17 +2,36 @@
     "id": 71331215,
     "name": "War Rock Ordeal",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "You can only control 1 \"War Rock Ordeal\". When this card is activated: Place 3 counters on it. When your \"War Rock\" monster destroys an opponent's monster by battle and sends it to their GY: You can remove 1 counter from this card, and if you do, draw 1 card. If the last counter has been removed by this effect, send this card to the GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "War Rock",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71331215.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71331215.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71331215.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/war-rock-ordeal-11961",
+    "card_sets": [
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN098",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71331215,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71331215.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71331215.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71331215.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "39.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

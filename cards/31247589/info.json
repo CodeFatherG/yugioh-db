@@ -1,18 +1,45 @@
 {
     "id": 31247589,
     "name": "Gladiator Beast Dimacari",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card was Special Summoned by the effect of a \"Gladiator Beast\" monster, it can attack twice during each Battle Phase. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Dimacari\".",
+    "race": "Beast",
     "atk": 1600,
     "def": 1200,
     "level": 4,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Gladiator Beast",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31247589.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31247589.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31247589.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gladiator-beast-dimacari-2650",
+    "card_sets": [
+        {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31247589,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31247589.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31247589.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31247589.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "1.25",
+            "amazon_price": "0.75",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

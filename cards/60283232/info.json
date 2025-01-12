@@ -1,18 +1,53 @@
 {
     "id": 60283232,
     "name": "Wheel Synchron",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card you control is used as Synchro Material, you can treat it as a non-Tuner. You can only use each of the following effects of \"Wheel Synchron\" once per turn. During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 Level 4 or lower monster, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters. You can banish this card from your GY, then target 1 Synchro Monster you control; reduce its Level by up to 4.",
+    "race": "Machine",
     "atk": 800,
     "def": 1000,
     "level": 5,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Synchro",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60283232.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60283232.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60283232.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wheel-synchron-13896",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN206",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60283232,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60283232.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60283232.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60283232.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "1.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

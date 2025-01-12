@@ -1,18 +1,45 @@
 {
     "id": 47349116,
     "name": "Timestar Magician",
+    "typeline": [
+        "Spellcaster",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 4 \"Magician\" Pendulum Monsters\r\nMust first be Xyz Summoned with the above Xyz Materials. Once per turn: You can detach 1 Xyz Material from this card; add to your hand, 1 DARK Spellcaster-Type monster from your Deck, Graveyard, or face-up from your Extra Deck. Once per turn, if a Pendulum Monster Card(s) in your Monster Zone or Pendulum Zone would be destroyed by battle or card effect, you can send 1 Spellcaster-Type monster from your Deck to the Graveyard instead.",
+    "race": "Spellcaster",
     "atk": 2400,
     "def": 1200,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47349116.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47349116.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47349116.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/timestar-magician-8323",
+    "card_sets": [
+        {
+            "set_name": "Pendulum Evolution",
+            "set_code": "PEVO-EN009",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.55"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47349116,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47349116.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47349116.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47349116.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.40",
+            "ebay_price": "1.97",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

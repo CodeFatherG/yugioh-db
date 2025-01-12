@@ -1,18 +1,45 @@
 {
     "id": 64257161,
     "name": "Goblin Biker Mean Merciless",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Goblin\" monster from your hand, except \"Goblin Biker Mean Merciless\". During your Main Phase, if this card is in your GY: You can detach 1 Xyz Material from a monster on either field, and if you do, Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Goblin Biker Mean Merciless\" once per turn.",
+    "race": "Fiend",
     "atk": 1300,
     "def": 0,
     "level": 3,
-    "race": "Fiend",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Goblin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64257161.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64257161.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64257161.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/goblin-biker-mean-merciless-14176",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64257161,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64257161.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64257161.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64257161.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.97",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

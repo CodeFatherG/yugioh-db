@@ -2,17 +2,35 @@
     "id": 300302066,
     "name": "Forged Steel",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Nightshroud",
+    "frameType": "skill",
     "desc": "Once per Duel, during your Main Phase, you can change the name of 1 \"Red-Eyes\" monster or 1 Dragon Normal Monster you control to \"Red-Eyes Black Dragon\" while it's face-up on the field. Each \"Red-Eyes Darkness Dragon\" you control gains the following effect.\r\n\u25cf Once per turn, during your Main Phase: You can Special Summon 1 Dragon monster from your GY that can be Normal Summoned/Set.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Nightshroud",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302066.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302066.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302066.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/forged-steel-13943",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENS02",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302066,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302066.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302066.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302066.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

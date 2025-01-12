@@ -1,21 +1,58 @@
 {
     "id": 22125101,
     "name": "Beyond the Pendulum",
+    "typeline": [
+        "Spellcaster",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Effect Monsters, including a Pendulum Monster\r\nIf this card is Link Summoned in the Extra Monster Zone: You can pay 1200 LP; add 1 Pendulum Monster from your Deck to your hand, but for the rest of this turn, unless you Pendulum Summon after this effect resolves, you cannot activate monster effects, and the effects of any cards in your Pendulum Zones are negated. If 2 monsters with different original Levels are Pendulum Summoned at the same time to the zones this card points to: You can target 2 cards on the field; destroy them. You can only use this effect of \"Beyond the Pendulum\" once per turn.",
+    "race": "Spellcaster",
     "atk": 1200,
     "def": null,
     "level": null,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Pendulum",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/22125101.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22125101.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22125101.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/beyond-the-pendulum-12977",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN087",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN048",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22125101,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22125101.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22125101.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22125101.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.50",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "1.99",
+            "amazon_price": "6.98",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

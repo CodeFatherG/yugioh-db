@@ -1,18 +1,46 @@
 {
     "id": 57420265,
     "name": "Fishborg Harpooner",
+    "typeline": [
+        "Fish",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "You can reveal this card and 1 WATER monster in your hand; Special Summon 1 of them and discard the other. You can only use this effect of \"Fishborg Harpooner\" once per turn. If this card is sent to the GY as material for a WATER Synchro Monster: You can negate the effects of 1 Effect Monster your opponent controls, until the end of this turn.",
+    "race": "Fish",
     "atk": 400,
     "def": 400,
     "level": 4,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Fishborg",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57420265.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57420265.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57420265.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fishborg-harpooner-14346",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN032",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57420265,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57420265.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57420265.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57420265.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.63",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

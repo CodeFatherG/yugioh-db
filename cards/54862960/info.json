@@ -1,18 +1,59 @@
 {
     "id": 54862960,
     "name": "Ni-Ni the Mirror Mikanko",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is not equipped with an Equip Card, you take no damage from battles involving this card. If this card is equipped with an Equip Card, it cannot be destroyed by battle and your opponent takes any battle damage you would have taken from battles involving this card. During your opponent's turn, while this card is equipped with an Equip Card (Quick Effect): You can target 1 face-up monster your opponent controls; take control of it until the End Phase. You can only use this effect of \"Ni-Ni the Mirror Mikanko\" once per turn.",
+    "race": "Spellcaster",
     "atk": 0,
     "def": 0,
     "level": 3,
-    "race": "Spellcaster",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Mikanko",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54862960.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54862960.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54862960.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ni-ni-the-mirror-mikanko-13445",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN294",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN026",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN026",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54862960,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54862960.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54862960.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54862960.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

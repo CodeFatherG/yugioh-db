@@ -2,17 +2,36 @@
     "id": 17536995,
     "name": "Heraldry Change",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When an opponent's monster declares an attack: Special Summon 1 \"Heraldic Beast\" monster from your hand, then end the Battle Phase.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Heraldic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17536995.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17536995.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17536995.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heraldry-change-1524",
+    "card_sets": [
+        {
+            "set_name": "Cosmo Blazer",
+            "set_code": "CBLZ-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17536995,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17536995.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17536995.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17536995.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,51 @@
 {
     "id": 39643167,
     "name": "Bunny Ear Enthusiast",
+    "typeline": [
+        "Beast-Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per Chain, when a monster on the field, except \"Bunny Ear Enthusiast\", activates its effect (Quick Effect): You can place 1 Bunny Ear Counter on it, and it cannot be destroyed by battle as long as it has that Counter. Once per turn (Quick Effect): You can target 1 monster with a Bunny Ear Counter; banish both it and this card until the Standby Phase of the next turn.",
+    "race": "Beast-Warrior",
     "atk": 200,
     "def": 100,
     "level": 1,
-    "race": "Beast-Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39643167.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39643167.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39643167.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bunny-ear-enthusiast-13692",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN343",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39643167,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39643167.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39643167.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39643167.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "1.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

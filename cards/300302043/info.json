@@ -2,17 +2,36 @@
     "id": 300302043,
     "name": "Behold, Gate Guardian!",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Paradox Broth",
+    "frameType": "skill",
     "desc": "Activate this Skill during your Main Phase. Shuffle your entire hand into the Deck, then add 1 Level 11 monster from your Deck to your hand, and if you do, you can Special Summon up to 2 Level 7 monsters with different Attributes from your Deck and/or GY, but their ATK/DEF become 0, also their effects are negated. While you control \"Gate Guardian\", it gains the following effect.\r\n\u25cf Once while face-up on the field, when this card is targeted for an attack: You can change the attacking monster's ATK to 0, until the end of the Damage Step.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Paradox Broth",
-    "attribute": null,
-    "scale": null,
     "archetype": "Guardian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302043.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302043.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302043.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/behold-gate-guardian-13502",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENS04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302043,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302043.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302043.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302043.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -2,17 +2,42 @@
     "id": 63854005,
     "name": "Ready Fusion",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Pay 1000 LP; Special Summon 1 Level 6 or lower non-Effect Fusion Monster from your Extra Deck, but it cannot attack, also destroy it during the End Phase. (This is treated as a Fusion Summon.) You can only activate 1 \"Ready Fusion\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/63854005.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63854005.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63854005.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ready-fusion-12165",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN163",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN066",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 63854005,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63854005.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63854005.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63854005.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.13",
+            "tcgplayer_price": "0.80",
+            "ebay_price": "1.55",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

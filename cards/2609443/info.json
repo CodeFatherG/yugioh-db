@@ -1,18 +1,53 @@
 {
     "id": 2609443,
     "name": "Chronomaly Vimana",
+    "typeline": [
+        "Machine",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 5 monsters\r\nOnce per turn (Quick Effect): You can target 1 face-up monster on the field and 1 Xyz Monster or \"Chronomaly\" monster in your GY; that monster on the field gains half the ATK of that monster in the GY (until the end of this turn), then attach that monster from the GY to this card as material. Once per turn, when your opponent activates a monster effect (Quick Effect): You can detach 2 materials from this card; negate the activation.",
+    "race": "Machine",
     "atk": 2300,
     "def": 2600,
     "level": 5,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Chronomaly",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2609443.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2609443.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2609443.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chronomaly-vimana-12172",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN149",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN044",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2609443,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2609443.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2609443.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2609443.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.52",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

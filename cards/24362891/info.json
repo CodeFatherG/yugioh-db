@@ -2,17 +2,36 @@
     "id": 24362891,
     "name": "Evo-Instant",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Tribute 1 Reptile-Type monster; Special Summon 1 \"Evolsaur\" monster from your Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Evolsaur",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/24362891.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24362891.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24362891.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/evo-instant-2105",
+    "card_sets": [
+        {
+            "set_name": "Order of Chaos",
+            "set_code": "ORCS-EN088",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 24362891,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24362891.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24362891.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24362891.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

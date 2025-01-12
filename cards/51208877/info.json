@@ -2,17 +2,36 @@
     "id": 51208877,
     "name": "Blast Held by Destiny",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When an opponent's monster declares an attack: Destroy the 1 monster your opponent controls with the highest ATK (your choice, if tied), and if you do, inflict damage to your opponent equal to its original ATK, then if \"Exchange of the Spirit\" is not in your GY, you take damage equal to the damage they took. If this card is sent from the hand or Deck to the GY: You can target 1 Level 4 EARTH Fairy monster in your GY; add it to your hand. You can only use each effect of \"Blast Held by Destiny\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Exchange of the Spirit",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/51208877.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51208877.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51208877.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blast-held-by-destiny-13182",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN031",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 51208877,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51208877.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51208877.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51208877.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.50",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

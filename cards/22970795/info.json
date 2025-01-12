@@ -1,18 +1,45 @@
 {
     "id": 22970795,
     "name": "Wightlord",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card's name becomes \"Skull Servant\" while in the GY. You can only use each of the following effects of \"Wightlord\" once per turn. If you have \"Skull Servant\" or \"King of the Skull Servants\" in your GY: You can send this card from your hand or field to the GY; send cards from the top of your Deck to the GY, up to the number of \"Skull Servant\" and \"King of the Skull Servants\" in your GY. You can banish this card from your GY, then target 1 \"Skull Servant\" or \"King of the Skull Servants\" in your GY; Special Summon it.",
+    "race": "Zombie",
     "atk": 300,
     "def": 200,
     "level": 1,
-    "race": "Zombie",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Wight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/22970795.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22970795.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22970795.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wightlord-14304",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22970795,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22970795.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22970795.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22970795.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

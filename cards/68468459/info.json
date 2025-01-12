@@ -1,18 +1,87 @@
 {
     "id": 68468459,
     "name": "Fallen of Albaz",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned (except during the Damage Step): You can discard 1 card; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters on either field as Fusion Material, including this card, but you cannot use other monsters you control as Fusion Material. You can only use this effect of \"Fallen of Albaz\" once per turn.",
+    "race": "Dragon",
     "atk": 1800,
     "def": 0,
     "level": 4,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Dogmatika",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68468459.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68468459.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68468459.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fallen-of-albaz-11098",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN107",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN021",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 19",
+            "set_code": "OP19-EN001",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 19 (POR)",
+            "set_code": "OP19-PT001",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN011",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Albaz Strike",
+            "set_code": "SDAZ-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.23"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 68468459,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68468459.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68468459.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68468459.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "38.99",
+            "amazon_price": "0.43",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

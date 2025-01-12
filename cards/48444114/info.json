@@ -2,17 +2,43 @@
     "id": 48444114,
     "name": "Luna Light Perfume",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Lunalight\" monster in your GY; Special Summon it. You can banish this card from your GY, then discard 1 card; add 1 \"Lunalight\" monster from your Deck to your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Lunalight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48444114.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48444114.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48444114.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/luna-light-perfume-4137",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Sisters of the Rose",
+            "set_code": "LED4-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Dark Illusion",
+            "set_code": "TDIL-EN054",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48444114,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48444114.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48444114.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48444114.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.47",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "1.57",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

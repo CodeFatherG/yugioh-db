@@ -2,17 +2,35 @@
     "id": 21507589,
     "name": "Fish and Swaps",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Discard 1 card to target 2 of your banished Fish, Sea Serpent, or Aqua-Type monsters; add them to your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21507589.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21507589.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21507589.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fish-and-swaps-1853",
+    "card_sets": [
+        {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN087",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21507589,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21507589.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21507589.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21507589.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.74",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

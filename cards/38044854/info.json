@@ -2,17 +2,36 @@
     "id": 38044854,
     "name": "Rise Rank-Up-Magic Raidraptor's Force",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "During the Main Phase or your opponent's Battle Phase: Target 2 or more \"Raidraptor\" Xyz Monsters you control and/or in your GY, including a monster on the field; if at least 2 remain face-up at resolution, Special Summon 1 \"Raidraptor\" Xyz Monster from your Extra Deck with a Rank equal to their combined Ranks, and if you do, attach the targeted monsters to it as material. (This is treated as an Xyz Summon. Transfer their materials to the Summoned monster.) You can only activate 1 \"Rise Rank-Up-Magic Raidraptor's Force\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Raidraptor",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38044854.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38044854.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38044854.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rise-rank-up-magic-raidraptor-s-force-14213",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38044854,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38044854.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38044854.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38044854.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

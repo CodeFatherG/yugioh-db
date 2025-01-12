@@ -2,17 +2,43 @@
     "id": 9597987,
     "name": "Tenchi Kaimei",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "(This card is always treated as a \"Ninjitsu Art\" card.)\r\nWhen a \"Ninja\" monster you control inflicts battle damage to your opponent: You can target 1 card your opponent controls; destroy it. If this face-up card in its owner's Field Zone has left the field because of an opponent's effect, and is now in the GY or banished: You can target any number of \"Ninja\" monsters with different names in your GY; Special Summon them in face-down Defense Position.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ninjitsu Art",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9597987.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9597987.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9597987.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tenchi-kaimei-13531",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN326",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN065",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9597987,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9597987.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9597987.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9597987.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

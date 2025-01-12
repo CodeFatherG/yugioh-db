@@ -1,18 +1,58 @@
 {
     "id": 19066538,
     "name": "Roaring Ocean Snake",
+    "typeline": [
+        "Aqua",
+        "Fusion"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Monster",
+    "frameType": "fusion",
     "desc": "\"Mystic Lamp\" + \"Hyosube\"",
+    "race": "Aqua",
     "atk": 2100,
     "def": 1800,
     "level": 6,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19066538.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19066538.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19066538.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/roaring-ocean-snake-1648",
+    "card_sets": [
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.56"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.86"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.61"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19066538,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19066538.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19066538.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19066538.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.85",
+            "amazon_price": "1.29",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

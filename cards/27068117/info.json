@@ -2,17 +2,42 @@
     "id": 27068117,
     "name": "Overlay Regen",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 face-up Xyz Monster on the field; attach this card to it as an Xyz Material.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27068117.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27068117.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27068117.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/overlay-regen-2316",
+    "card_sets": [
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Return of the Duelist",
+            "set_code": "REDU-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27068117,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27068117.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27068117.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27068117.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

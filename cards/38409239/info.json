@@ -2,17 +2,36 @@
     "id": 38409239,
     "name": "Ghoti Cosmos",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Apply these effects in sequence, based on the number of banished Fish monsters.\r\n\u25cf 1+: Your Fish monsters cannot be destroyed by battle this turn.\r\n\u25cf 4+: The activation and effects of Fish monster effects activated on your field cannot be negated this turn.\r\n\u25cf 8+: Special Summon 1 Fish Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)\r\nYou can only activate 1 \"Ghoti Cosmos\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ghoti",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38409239.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38409239.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38409239.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ghoti-cosmos-13572",
+    "card_sets": [
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN090",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38409239,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38409239.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38409239.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38409239.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

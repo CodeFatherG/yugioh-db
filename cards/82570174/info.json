@@ -1,18 +1,47 @@
 {
     "id": 82570174,
     "name": "Sangenpai Bident Dragion",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Synchro Tuner Monster",
+    "humanReadableCardType": "Synchro Tuner Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Dragon Tuner + 1+ non-Tuner Dragon monsters\r\nIf this card is Synchro Summoned: You can target 1 FIRE Dragon monster in your GY; Special Summon it, also you cannot Special Summon for the rest of this turn, except Dragon monsters. If 3 or more attacks have been declared this turn (Quick Effect): You can Special Summon this card from your GY, then you can destroy 1 Spell/Trap on the field. You can only use this effect of \"Sangenpai Bident Dragion\" once per Duel, and its previous effect only once per turn.",
+    "race": "Dragon",
     "atk": 2600,
     "def": 2000,
     "level": 7,
-    "race": "Dragon",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Sangen",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/82570174.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82570174.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82570174.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sangenpai-bident-dragion-14281",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 82570174,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82570174.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82570174.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82570174.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

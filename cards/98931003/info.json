@@ -2,17 +2,26 @@
     "id": 98931003,
     "name": "Nanana",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 Level 7 or Rank 7 monster you control; it gains 700 ATK/DEF until the end of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98931003.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98931003.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98931003.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nanana-8217",
+    "card_images": [
+        {
+            "id": 98931003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98931003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98931003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98931003.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "122.74",
+            "amazon_price": "46.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 26857786,
     "name": "Cursed Fire King Doom Burst",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is destroyed by battle or card effect and sent to the GY: You can target 1 face-up monster your opponent controls; it loses 400 ATK until the end of this turn. You can only use each of the following effects of \"Cursed Fire King Doom Burst\" once per turn. If you control a Fiend Tuner: You can Special Summon this card from your hand. If this card is Special Summoned: You can target 1 face-up monster your opponent controls; it loses 600 ATK until the end of this turn.",
+    "race": "Fiend",
     "atk": 1600,
     "def": 800,
     "level": 3,
-    "race": "Fiend",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Fire King",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/26857786.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26857786.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26857786.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cursed-fire-king-doom-burst-14492",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN099",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 26857786,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26857786.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26857786.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26857786.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 56605802,
     "name": "Phantom Cricket",
+    "typeline": [
+        "Insect",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: Return 1 face-down monster from the field to the top of its owner's Deck.",
+    "race": "Insect",
     "atk": 300,
     "def": 1000,
     "level": 2,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56605802.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56605802.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56605802.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/phantom-cricket-4821",
+    "card_sets": [
+        {
+            "set_name": "Tactical Evolution",
+            "set_code": "TAEV-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56605802,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56605802.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56605802.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56605802.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 6327734,
     "name": "Hu-Li the Jewel Mikanko",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is not equipped with an Equip Card, you take no damage from battles involving this card. If this card is equipped with an Equip Card, it cannot be destroyed by battle and your opponent takes any battle damage you would have taken from battles involving this card. While you control an Equip Card, your opponent cannot target \"Mikanko\" cards you control with card effects. If either player equips an Equip Card(s) to this card: You can add 1 \"Mikanko\" Trap from your Deck to your hand. You can only use this effect of \"Hu-Li the Jewel Mikanko\" once per turn.",
+    "race": "Psychic",
     "atk": 0,
     "def": 0,
     "level": 3,
-    "race": "Psychic",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Mikanko",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6327734.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6327734.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6327734.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hu-li-the-jewel-mikanko-13658",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN192",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6327734,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6327734.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6327734.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6327734.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

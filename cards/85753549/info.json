@@ -1,18 +1,44 @@
 {
     "id": 85753549,
     "name": "Mikazukinoyaiba, the Moon Fang Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the End Phase, if this card is in your hand or GY: You can Special Summon it, but place it on the bottom of the Deck when it leaves the field. You can discard 1 card; add 1 Level 7 DARK Dragon monster from your Deck to your hand. You can only use each effect of \"Mikazukinoyaiba, the Moon Fang Dragon\" once per turn.",
+    "race": "Dragon",
     "atk": 2200,
     "def": 2350,
     "level": 7,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85753549.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85753549.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85753549.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mikazukinoyaiba-the-moon-fang-dragon-14401",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 85753549,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85753549.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85753549.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85753549.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

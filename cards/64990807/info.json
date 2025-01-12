@@ -2,17 +2,43 @@
     "id": 64990807,
     "name": "Magic Triangle of the Ice Barrier",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Reveal 3 \"Ice Barrier\" monsters with different names in your hand to select 1 card your opponent controls. Destroy the opponent's card and Special Summon 1 \"Ice Barrier\" monster from your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ice Barrier",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64990807.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64990807.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64990807.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/magic-triangle-of-the-ice-barrier-5480",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+        },
+        {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64990807,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64990807.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64990807.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64990807.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 99070951,
     "name": "Esper Girl",
+    "typeline": [
+        "Psychic",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "When this removed from play card is Special Summoned, remove from play the top card of your Deck, face-down. When this card is sent from the field to the Graveyard, add that removed card to your hand.",
+    "race": "Psychic",
     "atk": 500,
     "def": 300,
     "level": 2,
-    "race": "Psychic",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99070951.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99070951.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99070951.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/esper-girl-8229",
+    "card_sets": [
+        {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.16"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 99070951,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99070951.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99070951.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99070951.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "0.99",
+            "amazon_price": "1.05",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

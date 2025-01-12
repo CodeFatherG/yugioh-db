@@ -1,21 +1,51 @@
 {
     "id": 61668670,
     "name": "G Golem Crystal Heart",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Cyberse monsters\r\nYou can target 1 EARTH Link Monster in your GY; Special Summon it to your zone this card points to, and if you do, place 1 GG Counter on this card. You can only use this effect of \"G Golem Crystal Heart\" once per turn. EARTH monsters co-linked to this card gain 600 ATK for each GG Counter on this card, can make a second attack during each Battle Phase, also if they attack a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "race": "Cyberse",
     "atk": 0,
     "def": null,
     "level": null,
-    "race": "Cyberse",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "G Golem",
     "linkval": 2,
     "linkmarkers": [
         "Left",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/61668670.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61668670.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61668670.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/g-golem-crystal-heart-13332",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61668670,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61668670.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61668670.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61668670.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "2.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

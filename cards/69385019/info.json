@@ -1,14 +1,20 @@
 {
     "id": 69385019,
     "name": "Mermail King - Neptabyss",
+    "typeline": [
+        "Sea Serpent",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ monsters, including a Fish, Sea Serpent, or Aqua monster\r\nYour opponent cannot target WATER monsters this card points to with card effects. You can only use each of the following effects of \"Mermail King - Neptabyss\" once per turn. If a WATER monster(s) is sent to the GY to activate a card or effect (except during the Damage Step): You can take 1 \"Abyss-\" Equip Spell from your Deck or GY and either add it to your hand or equip it to this card. If this card in its owner's possession is destroyed by an opponent's card: You can add 1 \"Atlantean\" or \"Mermail\" monster from your Deck to your hand.",
+    "race": "Sea Serpent",
     "atk": 2300,
     "def": null,
     "level": null,
-    "race": "Sea Serpent",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Abyss-",
     "linkval": 3,
     "linkmarkers": [
@@ -16,7 +22,38 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/69385019.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69385019.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69385019.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mermail-king-neptabyss-14623",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN046",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN046",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 69385019,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69385019.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69385019.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69385019.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.41",
+            "tcgplayer_price": "0.41",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

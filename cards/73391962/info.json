@@ -1,18 +1,53 @@
 {
     "id": 73391962,
     "name": "Azamina Mu Rcielago",
+    "typeline": [
+        "Illusion",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 Illusion monster + 1 LIGHT Spellcaster monster\r\nMonsters your opponent controls lose 500 ATK/DEF for each \"Azamina\" monster you control. You can only use each of the following effects of \"Azamina Mu Rcielago\" once per turn. If this card is Fusion Summoned: You can add 1 \"Azamina\" or \"Sinful Spoils\" card from your Deck to your hand. If this card is destroyed by battle or card effect: You can add 1 \"Sinful Spoils\" Spell from your Deck to your hand.",
+    "race": "Illusion",
     "atk": 2000,
     "def": 2400,
     "level": 6,
-    "race": "Illusion",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Azamina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73391962.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73391962.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73391962.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/azamina-mu-rcielago-14577",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN031",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN031",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73391962,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73391962.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73391962.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73391962.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.86",
+            "tcgplayer_price": "3.71",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

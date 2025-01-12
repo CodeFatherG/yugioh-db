@@ -1,18 +1,51 @@
 {
     "id": 86325596,
     "name": "Baron of the Fiend Sword",
+    "typeline": [
+        "Fiend",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "An aristocrat who wields a sword possessed by a malicious spirit that preys on the weak.",
+    "race": "Fiend",
     "atk": 1550,
     "def": 800,
     "level": 4,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/86325596.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86325596.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86325596.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/baron-of-the-fiend-sword-7235",
+    "card_sets": [
+        {
+            "set_name": "Starter Deck: Yugi",
+            "set_code": "SDY-036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.2"
+        },
+        {
+            "set_name": "Starter Deck: Yugi",
+            "set_code": "SDY-E033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.62"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 86325596,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86325596.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86325596.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86325596.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.46",
+            "ebay_price": "3.75",
+            "amazon_price": "0.69",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

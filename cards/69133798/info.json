@@ -1,18 +1,51 @@
 {
     "id": 69133798,
     "name": "Daidara-Bocchi",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Special Summoned. You can Tribute Summon this card face-up by Tributing 1 Zombie monster. Gains 200 ATK for each Zombie monster you control, except this card. At the start of your Main Phase 1, if you have this card, and 2 or more Zombie monsters other than \"Daidara-Bocchi\", in your GY: You can discard 1 card; add this card to your hand.",
+    "race": "Zombie",
     "atk": 2900,
     "def": 2500,
     "level": 10,
-    "race": "Zombie",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/69133798.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69133798.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69133798.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/daidara-bocchi-13516",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN228",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN093",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 69133798,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69133798.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69133798.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69133798.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

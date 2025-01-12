@@ -2,17 +2,50 @@
     "id": 20858318,
     "name": "Dark Scorpion Combination",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "You can only activate this card when there are \"Don Zaloog\", \"Cliff the Trap Remover\", \"Dark Scorpion - Chick the Yellow\", \"Dark Scorpion - Gorg the Strong\", and \"Dark Scorpion - Meanae the Thorn\" face-up on your side of the field. During this turn, any of these 5 cards can attack your opponent's Life Points directly. In that case, the Battle Damage inflicted to your opponent by each of those cards becomes 400 points.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dark Scorpion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/20858318.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20858318.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20858318.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-scorpion-combination-1796",
+    "card_sets": [
+        {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-098",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.73"
+        },
+        {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-EN098",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.00"
+        },
+        {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN260",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 20858318,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20858318.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20858318.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20858318.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "1.25",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

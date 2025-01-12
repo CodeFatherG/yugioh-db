@@ -2,17 +2,36 @@
     "id": 96875080,
     "name": "Orbital Bombardment",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Send 1 \"Alien\" monster from your side of the field to the Graveyard to activate this card. Destroy 1 Spell or Trap Card on the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Alien",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96875080.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96875080.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96875080.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/orbital-bombardment-8058",
+    "card_sets": [
+        {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96875080,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96875080.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96875080.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96875080.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,58 @@
 {
     "id": 58696829,
     "name": "Bio-Mage",
+    "typeline": [
+        "Fairy",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A mysterious priest created as a result of the latest advances in biotechnology.",
+    "race": "Fairy",
     "atk": 1150,
     "def": 1000,
     "level": 3,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58696829.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58696829.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58696829.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bio-mage-4993",
+    "card_sets": [
+        {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-043",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.19"
+        },
+        {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E043",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.98"
+        },
+        {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN043",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.5"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58696829,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58696829.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58696829.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58696829.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "3.99",
+            "amazon_price": "0.78",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

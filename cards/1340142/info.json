@@ -1,21 +1,51 @@
 {
     "id": 1340142,
     "name": "Varar, Vaalmonican Concord",
+    "typeline": [
+        "Spellcaster",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters, including a \"Vaalmonica\" Link Monster\r\nUnaffected by card effects, except \"Vaalmonica\" cards, while you have 6 or more Resonance Counters on your field. Gains 1 additional attack during each Battle Phase, for each Level 4 \"Vaalmonica\" monster you control. Once per turn, when your opponent would Special Summon a monster(s), if you have 3+ Resonance Counters on your field (Quick Effect): You can negate the Special Summon, and if you do, destroy that monster(s), then remove 3 Resonance Counters from your field.",
+    "race": "Spellcaster",
     "atk": 3000,
     "def": null,
     "level": null,
-    "race": "Spellcaster",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Vaalmonica",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/1340142.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1340142.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1340142.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/varar-vaalmonican-concord-14464",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN049",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 1340142,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1340142.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1340142.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1340142.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

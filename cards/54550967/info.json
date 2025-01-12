@@ -1,18 +1,52 @@
 {
     "id": 54550967,
     "name": "Mementotlan Angwitch",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add 1 \"Memento\" monster from your Deck to your hand, except \"Mementotlan Angwitch\". You can target 1 Level 2 or lower \"Memento\" monster in your GY; destroy 1 \"Memento\" monster you control, and if you do, Special Summon the targeted monster. You can only use each effect of \"Mementotlan Angwitch\" once per turn.",
+    "race": "Spellcaster",
     "atk": 800,
     "def": 1000,
     "level": 3,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Memento",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54550967.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54550967.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54550967.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mementotlan-angwitch-14043",
+    "card_sets": [
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN005",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN005",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54550967,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54550967.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54550967.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54550967.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "16.06",
+            "tcgplayer_price": "22.21",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "17.99"
+        }
+    ]
 }

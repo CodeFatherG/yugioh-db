@@ -2,17 +2,36 @@
     "id": 30786387,
     "name": "Flower Stacking",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Choose 3 \"Flower Cardian\" monsters with different names from your Deck, and place them on top of your Deck in any order. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 \"Flower Cardian\" monster in your Graveyard; add it to your hand. You can only use this effect of \"Flower Stacking\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Flower Cardian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30786387.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30786387.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30786387.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/flower-stacking-2615",
+    "card_sets": [
+        {
+            "set_name": "Invasion: Vengeance",
+            "set_code": "INOV-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30786387,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30786387.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30786387.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30786387.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "1.50",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

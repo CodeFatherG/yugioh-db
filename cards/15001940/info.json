@@ -1,18 +1,46 @@
 {
     "id": 15001940,
     "name": "Foie Glasya de Nouvelles",
+    "typeline": [
+        "Warrior",
+        "Ritual",
+        "Effect"
+    ],
     "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
     "desc": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can target up to 3 cards in any GY(s); shuffle them into the Deck. When a card or effect is activated that targets a monster on the field, or when a monster is targeted for an attack (Quick Effect): You can Tribute 1 \"Nouvelles\" monster you control and 1 Attack Position monster on either field, and if you do, Special Summon 1 Level 5 or 6 \"Nouvelles\" Ritual Monster from your hand or Deck. You can only use each effect of \"Foie Glasya de Nouvelles\" once per turn.",
+    "race": "Warrior",
     "atk": 1600,
     "def": 1850,
     "level": 4,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Nouvelles",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15001940.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15001940.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15001940.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/foie-glasya-de-nouvelles-13745",
+    "card_sets": [
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN032",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 15001940,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15001940.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15001940.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15001940.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

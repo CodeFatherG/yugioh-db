@@ -1,14 +1,20 @@
 {
     "id": 35334193,
     "name": "S-Force Justify",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "3 Effect Monsters, including an \"S-Force\" monster\r\nYou cannot Summon/Set monsters to a zone(s) this card points to. (Quick Effect): You can target 1 face-up Effect Monster your opponent controls; negate its effects until the end of this turn, then you can move that opponent's monster to their Monster Zone this card points to. You can only use this effect of \"S-Force Justify\" once per turn. At the start of the Damage Step, if this card attacks: You can banish all monsters this card points to.",
+    "race": "Cyberse",
     "atk": 2600,
     "def": null,
     "level": null,
-    "race": "Cyberse",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "S-Force",
     "linkval": 3,
     "linkmarkers": [
@@ -16,7 +22,31 @@
         "Top",
         "Top-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/35334193.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35334193.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35334193.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/s-force-justify-11620",
+    "card_sets": [
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN048",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35334193,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35334193.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35334193.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35334193.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.35",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "1.15",
+            "amazon_price": "41.39",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

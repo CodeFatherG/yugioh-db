@@ -1,18 +1,66 @@
 {
     "id": 80555116,
     "name": "Naturia Guardian",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When your opponent Normal Summons a monster, this card gains 300 ATK until the End Phase.",
+    "race": "Plant",
     "atk": 1600,
     "def": 400,
     "level": 4,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Naturia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80555116.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80555116.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80555116.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/naturia-guardian-6756",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN009",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 2",
+            "set_code": "HA02-EN003",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN095",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN095",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.05"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80555116,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80555116.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80555116.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80555116.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

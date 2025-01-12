@@ -2,17 +2,35 @@
     "id": 90470931,
     "name": "Oni-Gami Combo",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 face-up Xyz Monster you control and detach all of its Xyz Material; this turn, that target can attack twice during the same Battle Phase.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/90470931.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90470931.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90470931.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/oni-gami-combo-7558",
+    "card_sets": [
+        {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN060",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 90470931,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90470931.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90470931.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90470931.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

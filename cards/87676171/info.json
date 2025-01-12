@@ -1,18 +1,53 @@
 {
     "id": 87676171,
     "name": "Tistina, the Divinity that Defies Darkness",
+    "typeline": [
+        "Aqua",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 10 monsters\r\nIf this card is Special Summoned: You can send all face-down cards your opponent controls to the GY. You can only use this effect of \"Tistina, the Divinity that Defies Darkness\" once per turn. Once per turn, if this card has \"Crystal God Tistina\" as material: You can detach 1 material from this card; it gains 2000 ATK until the end of your opponent's turn. If this card you control is destroyed by an opponent's card while it has material: You can Special Summon 1 \"Tistina\" monster from your GY.",
+    "race": "Aqua",
     "atk": 2000,
     "def": 3000,
     "level": 10,
-    "race": "Aqua",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Tistina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/87676171.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87676171.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87676171.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tistina-the-divinity-that-defies-darkness-14169",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN089",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN089",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 87676171,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87676171.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87676171.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87676171.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

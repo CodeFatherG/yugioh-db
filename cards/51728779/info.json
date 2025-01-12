@@ -1,18 +1,45 @@
 {
     "id": 51728779,
     "name": "Darklord Amdusc",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can discard this card and 1 \"Darklord\" card, then target 1 \"Darklord\" card in your Graveyard; add it to your hand. During either player's turn: You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap Card in your Graveyard; apply that target's effect, then shuffle that target into the Deck. You can only use each effect of \"Darklord Amdusc\" once per turn. You can only Special Summon \"Darklord Amdusc(s)\" once per turn.",
+    "race": "Fairy",
     "atk": 1800,
     "def": 2800,
     "level": 6,
-    "race": "Fairy",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Darklord",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/51728779.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51728779.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51728779.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/darklord-amdusc-4401",
+    "card_sets": [
+        {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN033",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "4.32"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 51728779,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51728779.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51728779.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51728779.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.20",
+            "tcgplayer_price": "1.98",
+            "ebay_price": "6.99",
+            "amazon_price": "5.14",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

@@ -1,18 +1,58 @@
 {
     "id": 22873798,
     "name": "Hyena",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon any number of \"Hyenas\" from your Deck.",
+    "race": "Beast",
     "atk": 1000,
     "def": 300,
     "level": 3,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/22873798.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22873798.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22873798.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hyena-1969",
+    "card_sets": [
+        {
+            "set_name": "Astral Pack One",
+            "set_code": "AP01-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN137",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22873798,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22873798.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22873798.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22873798.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

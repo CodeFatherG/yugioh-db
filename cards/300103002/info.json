@@ -2,17 +2,42 @@
     "id": 300103002,
     "name": "Spell Proof Armor",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Keith",
+    "frameType": "skill",
     "desc": "[Activate this Skill during your Main Phase.] \r\n\r\nAll Machine monsters you control are unaffected by your opponent's Spell effects. You can Normal Summon Machine Normal Monsters with 1 less Tribute. If a non-Machine monster is in your GY, flip this Skill over. This Skill can only be used once per Duel.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Keith",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300103002.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300103002.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300103002.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spell-proof-armor-10514",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-ENS03",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-ENS02",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "7.22"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300103002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300103002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300103002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300103002.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.07",
+            "tcgplayer_price": "1.42",
+            "ebay_price": "3.49",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

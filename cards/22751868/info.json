@@ -2,17 +2,36 @@
     "id": 22751868,
     "name": "Karakuri Showdown Castle",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When a face-up \"Karakuri\" monster you control selects an opponent's face-up monster as an attack target, you can change the target's battle position. When this face-up card on the field is destroyed and sent to the Graveyard, you can select 1 Level 4 or higher \"Karakuri\" monster in your Graveyard, and Special Summon it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Karakuri",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/22751868.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22751868.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22751868.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/karakuri-showdown-castle-1954",
+    "card_sets": [
+        {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN046",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22751868,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22751868.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22751868.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22751868.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "0.47",
+            "ebay_price": "1.50",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

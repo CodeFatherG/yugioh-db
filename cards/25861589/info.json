@@ -2,17 +2,36 @@
     "id": 25861589,
     "name": "Aroma Blend",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Discard 1 card; place 1 \"Humid Winds\", \"Dried Winds\", or \"Blessed Winds\" from your hand or Deck, face-up in your Spell & Trap Zone. You can banish this card from your GY; Fusion Summon 1 Plant Fusion Monster from your Extra Deck, by banishing its materials from your hand or field. If your LP are higher than your opponent's, you can also banish Plant monsters from your GY as material. You can only use each effect of \"Aroma Blend\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Aroma",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25861589.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25861589.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25861589.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/aroma-blend-14201",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25861589,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25861589.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25861589.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25861589.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

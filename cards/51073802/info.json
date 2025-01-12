@@ -1,18 +1,47 @@
 {
     "id": 51073802,
     "name": "Majespecter Porcupine - Yamarashi",
+    "typeline": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "During the Main Phase, if you control a \"Majespecter\" monster (Quick Effect): You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can target 1 \"Majespecter\" Spell in your GY; Set it. You can only use each of the previous effects of \"Majespecter Porcupine - Yamarashi\" once per turn. While this card is in your Monster Zone, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects.",
+    "race": "Spellcaster",
     "atk": 1500,
     "def": 1500,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "WIND",
-    "scale": 2,
     "archetype": "Majespecter",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/51073802.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51073802.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51073802.jpg"
+    "scale": 2,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/majespecter-porcupine-yamarashi-14146",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 51073802,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51073802.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51073802.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51073802.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

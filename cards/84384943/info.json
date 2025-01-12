@@ -1,18 +1,45 @@
 {
     "id": 84384943,
     "name": "Cabrera Stone",
+    "typeline": [
+        "Rock",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Summoned: You can add 1 \"Triangle O\" from your Deck to your hand, then if this card is in Attack Position, change it to Defense Position. You can only use this effect of \"Cabrera Stone\" once per turn. If this card is destroyed by battle or card effect: Take 1000 damage.",
+    "race": "Rock",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Ancient Treasure",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84384943.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84384943.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84384943.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cabrera-stone-13849",
+    "card_sets": [
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN019",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84384943,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84384943.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84384943.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84384943.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

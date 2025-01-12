@@ -2,17 +2,36 @@
     "id": 41790641,
     "name": "Wattkingdom",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Your opponent cannot activate the effects of a monster that activate when it is Normal or Special Summoned, while in the same column as this card or a \"Watt\" monster you control. You can target 1 \"Watt\" monster you control; Special Summon 1 \"Watt\" monster with a different name from your Deck, then you lose LP equal to the Special Summoned monster's ATK, also you cannot Special Summon for the rest of this turn, except Thunder monsters. You can only use this effect of \"Wattkingdom\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Watt",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/41790641.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41790641.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41790641.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wattkingdom-14013",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 41790641,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41790641.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41790641.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41790641.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

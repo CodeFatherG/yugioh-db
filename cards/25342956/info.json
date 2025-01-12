@@ -1,18 +1,37 @@
 {
     "id": 25342956,
     "name": "Gem-Knight Master Diamond Dispersion",
+    "typeline": [
+        "Rock",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "3 \"Gem-\" monsters\r\nDuring the Main Phase (Quick Effect): You can send this card to the GY; Special Summon up to 3 non-Rock \"Gem-\" monsters with different names from your Extra Deck and/or GY, ignoring their Summoning conditions, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion Monsters. When your \"Gem-Knight\" Fusion Monster is destroyed by battle while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Gem-Knight Master Diamond Dispersion\" once per turn.",
+    "race": "Rock",
     "atk": 3000,
     "def": 2600,
     "level": 9,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Gem-",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25342956.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25342956.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25342956.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gem-knight-master-diamond-dispersion-14816",
+    "card_images": [
+        {
+            "id": 25342956,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25342956.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25342956.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25342956.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

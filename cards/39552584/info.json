@@ -1,18 +1,46 @@
 {
     "id": 39552584,
     "name": "Grapha, Dragon Overlord of Dark World",
+    "typeline": [
+        "Fiend",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "\"Grapha, Dragon Lord of Dark World\" + 1 DARK monster\r\nWhen your opponent activates a monster effect, or a Normal Spell/Trap Card, while you have a card(s) in your hand (Quick Effect): You can activate this effect; the activated effect becomes \"Your opponent discards 1 card\". You can only use this effect of \"Grapha, Dragon Overlord of Dark World\" once per turn. If this Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 of your \"Grapha, Dragon Lord of Dark World\" that is banished or in your GY, then each player with a hand discards 1 card.",
+    "race": "Fiend",
     "atk": 3200,
     "def": 2300,
     "level": 10,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Dark World",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39552584.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39552584.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39552584.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/grapha-dragon-overlord-of-dark-world-13438",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Dark World",
+            "set_code": "SR13-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39552584,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39552584.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39552584.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39552584.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.36",
+            "tcgplayer_price": "0.33",
+            "ebay_price": "3.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

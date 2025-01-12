@@ -1,18 +1,47 @@
 {
     "id": 32480825,
     "name": "T.G. Mighty Striker",
+    "typeline": [
+        "Warrior",
+        "Synchro",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Synchro Tuner Monster",
+    "humanReadableCardType": "Synchro Tuner Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1 non-Tuner monster\r\nOnce per turn, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only use each of the following effects of \"T.G. Mighty Striker\" once per turn. If this card is Synchro Summoned: You can add 1 \"T.G.\" Spell/Trap from your Deck to your hand. If this card is sent from your Monster Zone to the GY: You can send 1 \"T.G.\" card from your Deck to the GY.",
+    "race": "Warrior",
     "atk": 1800,
     "def": 0,
     "level": 2,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "T.G.",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32480825.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32480825.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32480825.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/t-g-mighty-striker-14063",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN034",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32480825,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32480825.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32480825.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32480825.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

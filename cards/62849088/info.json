@@ -1,18 +1,73 @@
 {
     "id": 62849088,
     "name": "The Iris Swordsoul",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Main Phase, if a monster, whose effects are negated, is on the field (Quick Effect): You can Special Summon this card from your hand. If your opponent Special Summons a monster(s) (except during the Damage Step): You can activate 1 of these effects based on where it was Special Summoned from;\r\n\u25cf Hand: Special Summon 1 monster from your hand. \u25cf Deck: Draw 2 cards.\r\n\u25cf Extra Deck: Destroy 1 of those monsters Special Summoned from the Extra Deck.\r\nYou can only use each effect of \"The Iris Swordsoul\" once per turn.",
+    "race": "Spellcaster",
     "atk": 2500,
     "def": 2500,
     "level": 8,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Swordsoul",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62849088.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62849088.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62849088.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-iris-swordsoul-12182",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN023",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN009",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN009",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN033",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 62849088,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62849088.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62849088.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62849088.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "9.78",
+            "amazon_price": "64.98",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

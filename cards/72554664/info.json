@@ -2,17 +2,50 @@
     "id": 72554664,
     "name": "Light of the Branded",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 Fusion Monster on the field or in either GY; return it to the Extra Deck, then you can Special Summon 1 \"Fallen of Albaz\" from your GY to your field and 1 monster from your opponent's GY to their field. You can only activate 1 \"Light of the Branded\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Branded",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/72554664.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72554664.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72554664.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/light-of-the-branded-13556",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN178",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 21",
+            "set_code": "OP21-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 72554664,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72554664.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72554664.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72554664.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "1.39",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,18 +1,37 @@
 {
     "id": 6355563,
     "name": "Y-Dragon Yearhead",
+    "typeline": [
+        "Machine",
+        "Union",
+        "Effect"
+    ],
     "type": "Union Effect Monster",
+    "humanReadableCardType": "Union Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Special Summoned: You can equip 1 Level 4 LIGHT Machine monster from your hand or GY to this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except LIGHT monsters. Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+    "race": "Machine",
     "atk": 1500,
     "def": 1600,
     "level": 4,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "A-to-Z",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6355563.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6355563.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6355563.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/y-dragon-yearhead-14512",
+    "card_images": [
+        {
+            "id": 6355563,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6355563.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6355563.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6355563.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.79",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

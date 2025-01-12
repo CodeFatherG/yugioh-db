@@ -1,18 +1,52 @@
 {
     "id": 17080584,
     "name": "Abyssrhine, the Atlantean Spirit",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "(This card is always treated as a \"Mermail\" card.)\r\nYou can Tribute this card from your hand and 1 \"Atlantean\" or \"Mermail\" monster from your hand or field; take 1 Level 7 Fish, Sea Serpent, or Aqua monster from your Deck and either add it to your hand or Special Summon it, also you cannot Special Summon from the Extra Deck for the rest of this turn, except WATER monsters. During your opponent's turn (Quick Effect): You can banish this card from your GY and discard 1 card to the GY; draw 1 card. You can only use each effect of \"Abyssrhine, the Atlantean Spirit\" once per turn.",
+    "race": "Aqua",
     "atk": 1600,
     "def": 1600,
     "level": 3,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Abyss-",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17080584.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17080584.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17080584.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/abyssrhine-the-atlantean-spirit-14616",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN017",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN017",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17080584,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17080584.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17080584.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17080584.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.06",
+            "tcgplayer_price": "4.82",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

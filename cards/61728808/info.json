@@ -1,21 +1,58 @@
 {
     "id": 61728808,
     "name": "Heavymetalfoes Amalgam",
+    "typeline": [
+        "Psychic",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 \"Metalfoes\" monsters\r\nIf this card is sent from the Monster Zone to the GY by a card effect: You can activate 1 of these effects;\r\n\u25cf Target 1 \"Metalfoes\" monster you control; equip this card to it. It gains 1000 ATK.\r\n\u25cf Target 1 \"Metalfoes\" card you control; destroy it, and if you do, Special Summon this card.\r\nYou can only use this effect of \"Heavymetalfoes Amalgam\" once per turn.",
+    "race": "Psychic",
     "atk": 2000,
     "def": null,
     "level": null,
-    "race": "Psychic",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Metalfoes",
     "linkval": 2,
     "linkmarkers": [
         "Left",
         "Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/61728808.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61728808.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61728808.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heavymetalfoes-amalgam-11527",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN027",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61728808,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61728808.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61728808.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61728808.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "15.96",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

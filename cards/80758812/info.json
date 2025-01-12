@@ -2,17 +2,35 @@
     "id": 80758812,
     "name": "Gemini Ablation",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "During the Main Phase: You can discard 1 card, then activate 1 of these effects;\r\n\u25cf Special Summon 1 Gemini monster from your Deck as an Effect Monster that gains its effects.\r\n\u25cf Tribute 1 Gemini monster, and if you do, Special Summon 1 FIRE Warrior monster from your hand or Deck. Then, if you Tributed a Gemini monster that was treated as an Effect Monster and had gained its effects, you can also destroy 1 card on the field.\r\nYou can only use this effect of \"Gemini Ablation\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80758812.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80758812.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80758812.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gemini-ablation-10567",
+    "card_sets": [
+        {
+            "set_name": "Toon Chaos",
+            "set_code": "TOCH-EN019",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.26"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80758812,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80758812.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80758812.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80758812.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "49.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

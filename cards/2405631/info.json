@@ -1,18 +1,46 @@
 {
     "id": 2405631,
     "name": "Guoglim, Spear of the Ghoti",
+    "typeline": [
+        "Fish",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Fish Tuner + 1+ non-Tuner monsters\r\nAt the start of the Damage Step, if this card battles an opponent's monster: You can banish that opponent's monster. During your opponent's Standby Phase: You can banish this card, then, if the monsters used as material for this card's Synchro Summon are all in your GY, you can Special Summon all of them, but banish them when they leave the field. You can only use each effect of \"Guoglim, Spear of the Ghoti\" once per turn.",
+    "race": "Fish",
     "atk": 2700,
     "def": 0,
     "level": 8,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Ghoti",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2405631.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2405631.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2405631.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/guoglim-spear-of-the-ghoti-13574",
+    "card_sets": [
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN089",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2405631,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2405631.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2405631.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2405631.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.75",
+            "tcgplayer_price": "1.10",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

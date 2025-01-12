@@ -2,17 +2,35 @@
     "id": 19162134,
     "name": "Dueltaining",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "For each player, the first time they do each of the following per turn, they draw 2 cards.\r\n\u25cf Special Summon 5 monsters with different Levels at the same time.\r\n\u25cf 1 monster they control battles 5 times.\r\n\u25cf Activate a card or effect as Chain Link 5 or higher.\r\n\u25cf Roll 1 six-sided die, or toss a coin, 5 times.\r\n\u25cf Take damage that made their LP 500 or less.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19162134.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19162134.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19162134.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dueltaining-8419",
+    "card_sets": [
+        {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.12"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19162134,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19162134.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19162134.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19162134.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.29",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

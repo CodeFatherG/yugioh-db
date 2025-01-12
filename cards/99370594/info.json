@@ -1,18 +1,45 @@
 {
     "id": 99370594,
     "name": "Ghost Sleeper, the Underworld Princess",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent to the GY: You can add 1 \"Ghost Fusion\" from your Deck to your hand. If this card is in your GY, except the turn it was sent there: You can banish this card and discard 1 card, then target 1 of your banished Level 4 or higher Zombie monsters; add it to your hand. You can only use each effect of \"Ghost Sleeper, the Underworld Princess\" once per turn.",
+    "race": "Zombie",
     "atk": 1300,
     "def": 0,
     "level": 3,
-    "race": "Zombie",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Underworld",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99370594.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99370594.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99370594.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ghost-sleeper-the-underworld-princess-12948",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN024",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 99370594,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99370594.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99370594.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99370594.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

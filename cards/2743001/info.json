@@ -1,18 +1,46 @@
 {
     "id": 2743001,
     "name": "Crystron Phoenix",
+    "typeline": [
+        "Machine",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner Synchro Monster + 1 or more non-Tuner Synchro Monsters\nIf this card is Synchro Summoned: You can banish all Spell and Trap Cards your opponent controls and in their Graveyard. If this Synchro Summoned card is destroyed by battle or card effect: You can target 1 other monster in your Graveyard; Special Summon it.",
+    "race": "Machine",
     "atk": 2800,
     "def": 2000,
     "level": 9,
-    "race": "Machine",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Crystron",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2743001.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2743001.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2743001.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crystron-phoenix-244",
+    "card_sets": [
+        {
+            "set_name": "Invasion: Vengeance",
+            "set_code": "INOV-EN046",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2743001,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2743001.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2743001.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2743001.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.32",
+            "tcgplayer_price": "2.08",
+            "ebay_price": "3.39",
+            "amazon_price": "7.32",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

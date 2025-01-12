@@ -2,17 +2,36 @@
     "id": 52472775,
     "name": "Prayers of the Voiceless Voice",
     "type": "Spell Card",
+    "humanReadableCardType": "Ritual Spell",
+    "frameType": "spell",
     "desc": "This card can be used to Ritual Summon any LIGHT Ritual Monster. You must also Tribute LIGHT monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. If a face-up LIGHT Ritual Monster(s) you control leaves the field by an opponent's card effect (except during the Damage Step): You can banish this card from your GY; Special Summon 1 \"Sauravis, the Ancient and Ascended\", \"Saffira, Queen of Dragons\", or \"Skull Guardian, Protector of the Voiceless Voice\" from your hand or Deck, ignoring its Summoning conditions. You can only use this effect of \"Prayers of the Voiceless Voice\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Ritual",
-    "attribute": null,
-    "scale": null,
     "archetype": "Voiceless Voice",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52472775.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52472775.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52472775.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/prayers-of-the-voiceless-voice-14142",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52472775,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52472775.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52472775.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52472775.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,27 @@
     "id": 99176254,
     "name": "Maiden of Blue Tears",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If your opponent Special Summons a monster(s) and you control a Link Monster (except during the Damage Step): Target 1 of them; destroy it, and if you do, inflict damage to your opponent equal to half its original ATK. If effect damage is inflicted while this card is in your GY (except during the Damage Step): You can banish this card, then target 1 Normal Spell in your GY or banishment; Set it, but it cannot be activated this turn. You can only use 1 \"Maiden of Blue Tears\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Blue Tears",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99176254.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99176254.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99176254.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/maiden-of-blue-tears-14497",
+    "card_images": [
+        {
+            "id": 99176254,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99176254.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99176254.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99176254.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.80",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

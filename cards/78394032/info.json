@@ -1,18 +1,44 @@
 {
     "id": 78394032,
     "name": "Motor Shell",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent from the field to the GY: You can Special Summon 1 \"Engine Token\" (Machine/EARTH/Level 1/ATK 200/DEF 200) in Attack Position. You can only use this effect of \"Motor Shell\" once per turn.",
+    "race": "Machine",
     "atk": 1300,
     "def": 1800,
     "level": 4,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/78394032.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78394032.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78394032.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/motor-shell-12422",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN030",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.15"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 78394032,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78394032.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78394032.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78394032.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.55",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

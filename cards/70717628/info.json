@@ -1,18 +1,36 @@
 {
     "id": 70717628,
     "name": "Clear Phantom",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can discard 2 cards, including this card; add 2 cards from your Deck to your hand that are either \"Clear World\" and/or Spells/Traps that mention it. You can only use this effect of \"Clear Phantom\" once per turn. You are unaffected by the effects of \"Clear World\". If this card is destroyed: You can target 1 monster your opponent controls; destroy it, and if you do, send the top 3 cards of their Deck to the GY.",
+    "race": "Fiend",
     "atk": 1200,
     "def": 800,
     "level": 3,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Clear",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70717628.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70717628.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70717628.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clear-phantom-14522",
+    "card_images": [
+        {
+            "id": 70717628,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70717628.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70717628.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70717628.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

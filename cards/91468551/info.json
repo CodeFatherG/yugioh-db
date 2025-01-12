@@ -2,17 +2,35 @@
     "id": 91468551,
     "name": "Temple of the Sun",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Face-up monsters you control that were Special Summoned from the Graveyard gain 300 ATK.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91468551.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91468551.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91468551.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/temple-of-the-sun-7627",
+    "card_sets": [
+        {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91468551,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91468551.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91468551.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91468551.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

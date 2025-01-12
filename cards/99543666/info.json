@@ -2,17 +2,50 @@
     "id": 99543666,
     "name": "Despia, Theater of the Branded",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "During your Main Phase: You can Fusion Summon 1 Level 8 or higher Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If a face-up non-Fusion Fairy monster you control leaves the field by an opponent's card effect, or is destroyed by battle: You can target 1 Level 8 or higher Fusion Monster in your GY; Special Summon it. You can only use each effect of \"Despia, Theater of the Branded\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Despia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99543666.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99543666.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99543666.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/despia-theater-of-the-branded-12159",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN154",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.24"
+        },
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN167",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.05"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 99543666,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99543666.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99543666.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99543666.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "1.50",
+            "amazon_price": "4.49",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 41097056,
     "name": "Synchro Cracker",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 Synchro Monster you control; return it to the Extra Deck, and if you do, destroy all face-up monsters your opponent controls with ATK less than or equal to that Synchro Monster's original ATK.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/41097056.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41097056.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41097056.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/synchro-cracker-3498",
+    "card_sets": [
+        {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.02"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 41097056,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41097056.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41097056.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41097056.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "1.25",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

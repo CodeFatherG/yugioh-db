@@ -1,18 +1,52 @@
 {
     "id": 67660909,
     "name": "Priestess of the Ashened City",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If \"Obsidim, the Ashened City\" is in the Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Priestess of the Ashened City\" once per turn this way. If this card is Normal or Special Summoned: You can add 1 \"Ashened\" card from your Deck to your hand, except \"Priestess of the Ashened City\". You can only use this effect of \"Priestess of the Ashened City\" once per turn.",
+    "race": "Pyro",
     "atk": 1200,
     "def": 1300,
     "level": 4,
-    "race": "Pyro",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Ashened",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/67660909.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67660909.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67660909.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/priestess-of-the-ashened-city-14377",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN093",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN093",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 67660909,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67660909.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67660909.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67660909.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.58",
+            "tcgplayer_price": "4.98",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 2978414,
     "name": "Number 46: Dragluon",
+    "typeline": [
+        "Dragon",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 8 Dragon-Type monsters\nOnce per turn, if you control no other monsters: You can detach 1 Xyz Material from this card, then activate 1 of these effects.\n\u25cf Special Summon 1 Dragon-Type monster from your hand.\n\u25cf Target 1 Dragon-Type monster your opponent controls; take control of that target.\n\u25cf Dragon-Type monsters your opponent controls cannot activate their effects until the end of your opponent's turn.",
+    "race": "Dragon",
     "atk": 3000,
     "def": 3000,
     "level": 8,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2978414.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2978414.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2978414.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/number-46-dragluon-267",
+    "card_sets": [
+        {
+            "set_name": "Shadow Specters",
+            "set_code": "SHSP-EN050",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Shadow Specters",
+            "set_code": "SHSP-EN050",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2978414,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2978414.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2978414.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2978414.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.65",
+            "tcgplayer_price": "8.57",
+            "ebay_price": "24.99",
+            "amazon_price": "14.99",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

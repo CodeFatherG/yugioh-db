@@ -2,17 +2,60 @@
     "id": 61292243,
     "name": "EMERGENCY!",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "(This card is always treated as a \"Rescue-ACE\" card.)\r\nSpecial Summon 1 \"Rescue-ACE\" monster from your Deck in Defense Position, then Tribute 1 \"Rescue-ACE\" monster from your hand or field. During your Main Phase: You can banish this card from your GY, then target 1 \"Rescue-ACE\" Trap in your GY; Set it. You can only use each effect of \"EMERGENCY!\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Rescue-ACE",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/61292243.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61292243.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61292243.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/emergency-13884",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN222",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN058",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN081",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 23",
+            "set_code": "OP23-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 61292243,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61292243.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61292243.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61292243.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

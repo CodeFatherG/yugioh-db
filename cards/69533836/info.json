@@ -2,17 +2,26 @@
     "id": 69533836,
     "name": "Soul Fist",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "Equip only to a Dragon Synchro Monster you control. A \"Red Dragon Archfiend\" equipped with this card is unaffected by your opponent's activated card effects. Once per turn: You can change the ATK of all monsters your opponent currently controls to the equipped monster's. Once per turn, when an attack is declared involving the equipped monster: You can target 1 monster in your opponent's GY; banish it, and if you do, the equipped monster gains ATK equal to the banished monster's, until the end of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/69533836.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69533836.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69533836.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/soul-fist-14568",
+    "card_images": [
+        {
+            "id": 69533836,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69533836.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69533836.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69533836.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

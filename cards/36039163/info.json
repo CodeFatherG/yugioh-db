@@ -1,18 +1,73 @@
 {
     "id": 36039163,
     "name": "Penguin Knight",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is sent directly from your Deck to the Graveyard by an effect of a card controlled by your opponent, unite your Graveyard cards and your own Deck, shuffle them and form a new Deck.",
+    "race": "Aqua",
     "atk": 900,
     "def": 800,
     "level": 3,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Penguin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/36039163.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36039163.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36039163.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/penguin-knight-3047",
+    "card_sets": [
+        {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.45"
+        },
+        {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-E001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "10.42"
+        },
+        {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.77"
+        },
+        {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.99"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 36039163,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36039163.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36039163.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36039163.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.00",
+            "amazon_price": "1.22",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

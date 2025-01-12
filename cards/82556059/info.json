@@ -2,17 +2,26 @@
     "id": 82556059,
     "name": "Engine Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Fiendish Engine \u03a9\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Machine",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/82556059.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82556059.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82556059.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/engine-token-6939",
+    "card_images": [
+        {
+            "id": 82556059,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82556059.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82556059.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82556059.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.88",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

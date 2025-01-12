@@ -1,18 +1,59 @@
 {
     "id": 3410461,
     "name": "Alba-Lenatus the Abyss Dragon",
+    "typeline": [
+        "Dragon",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 \"Fallen of Albaz\" + 1+ Dragon monsters\r\nCannot be used as Fusion Material. Must be either Fusion Summoned, or Special Summoned by sending the above cards from any Monster Zones to the GY. This card can attack monsters a number of times each Battle Phase, up to the number of materials used for it. Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: You can add 1 \"Polymerization\" Normal Spell or \"Fusion\" Normal Spell from your Deck to your hand.",
+    "race": "Dragon",
     "atk": 2500,
     "def": 2500,
     "level": 8,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3410461.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3410461.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3410461.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/alba-lenatus-the-abyss-dragon-13035",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN080",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN035",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN035",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3410461,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3410461.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3410461.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3410461.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "11.95",
+            "amazon_price": "33.99",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

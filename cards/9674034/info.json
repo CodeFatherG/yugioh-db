@@ -1,18 +1,63 @@
 {
     "id": 9674034,
     "name": "Snake-Eye Ash",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add 1 Level 1 FIRE monster from your Deck to your hand. You can send 2 face-up cards you control to the GY, including this card; Special Summon 1 \"Snake-Eye\" monster from your hand or Deck, except \"Snake-Eye Ash\". You can only use each effect of \"Snake-Eye Ash\" once per turn.",
+    "race": "Pyro",
     "atk": 800,
     "def": 1000,
     "level": 1,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Snake-Eye",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9674034.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9674034.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9674034.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/snake-eye-ash-14026",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN110",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 25",
+            "set_code": "OP25-EN002",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited",
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 9674034,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9674034.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9674034.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9674034.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.35",
+            "tcgplayer_price": "1.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

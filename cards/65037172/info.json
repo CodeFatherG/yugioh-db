@@ -1,18 +1,46 @@
 {
     "id": 65037172,
     "name": "Cyberse Sage",
+    "typeline": [
+        "Cyberse",
+        "Ritual",
+        "Effect"
+    ],
     "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
     "desc": "You can Ritual Summon this card with \"Cynet Ritual\". During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing materials mentioned on it from your field or GY, including a Cyberse monster. If this card is sent to the GY as Synchro Material: You can target 1 Cyberse monster or 1 Ritual Spell in your GY; add it to your hand. You can only use each effect of \"Cyberse Sage\" once per turn.",
+    "race": "Cyberse",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Cyberse",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Cyber",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65037172.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65037172.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65037172.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cyberse-sage-13599",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65037172,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65037172.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65037172.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65037172.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

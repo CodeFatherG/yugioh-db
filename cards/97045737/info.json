@@ -2,17 +2,42 @@
     "id": 97045737,
     "name": "Dominus Purge",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If your opponent controls a card, you can activate this card from your hand. When a card or effect is activated that includes an effect that adds a card(s) from the Deck to the hand: Negate that effect, then if you have a Trap in your GY, destroy that card. If you activated this card from your hand, you cannot activate the effects of DARK, WATER, and FIRE monsters for the rest of this Duel. You can only activate 1 \"Dominus Purge\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/97045737.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97045737.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97045737.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dominus-purge-14469",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN078",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN078",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 97045737,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97045737.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97045737.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97045737.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "23.41",
+            "tcgplayer_price": "34.69",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

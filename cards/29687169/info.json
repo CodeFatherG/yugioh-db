@@ -1,18 +1,45 @@
 {
     "id": 29687169,
     "name": "Arnis, the Empowered Warrior",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card you control is destroyed by battle with an opponent's attacking monster and sent to your Graveyard: You can Special Summon 1 Spellcaster-Type monster with 1500 or less ATK from your Deck in Attack Position.",
+    "race": "Warrior",
     "atk": 1700,
     "def": 1200,
     "level": 4,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Empowered Warrior",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29687169.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29687169.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29687169.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/arnis-the-empowered-warrior-2514",
+    "card_sets": [
+        {
+            "set_name": "Super Starter: Space-Time Showdown",
+            "set_code": "YS14-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29687169,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29687169.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29687169.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29687169.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "10.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

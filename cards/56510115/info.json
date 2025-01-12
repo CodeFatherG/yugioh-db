@@ -2,17 +2,36 @@
     "id": 56510115,
     "name": "Solfachord Symphony",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Apply these effects, in sequence, based on the number of face-up \"Solfachord\" Pendulum Monsters with different names in your Extra Deck.\r\n\u25cf 3+: \"Solfachord\" Pendulum Monsters you control gain ATK equal to their own Pendulum Scale x 300 this turn.\r\n\u25cf 5+: You can destroy 1 card your opponent controls, then if you have an odd Pendulum Scale in your Pendulum Zone, draw 1 card.\r\n\u25cf 7+: You can Special Summon 1 \"GranSolfachord\" monster from your Extra Deck.\r\nYou can only activate 1 \"Solfachord Symphony\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Solfachord",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56510115.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56510115.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56510115.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/solfachord-symphony-13664",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN065",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56510115,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56510115.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56510115.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56510115.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

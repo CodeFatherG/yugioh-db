@@ -2,17 +2,36 @@
     "id": 3055018,
     "name": "Obsidim, the Ashened City",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "Face-up Special Summoned monsters your opponent controls become Pyro during your turn only. You can only use each of the following effects of \"Obsidim, the Ashened City\" once per turn. During your End Phase: You can target 1 \"Obsidim, the Ashened City\" in your GY; place it on the bottom of your Deck, then draw 1 card. If this card in the Field Zone is destroyed or banished: You can Special Summon 1 \"Ashened\" monster from your Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ashened",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3055018.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3055018.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3055018.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/obsidim-the-ashened-city-14376",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN094",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3055018,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3055018.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3055018.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3055018.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.39",
+            "tcgplayer_price": "0.64",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

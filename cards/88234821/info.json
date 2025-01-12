@@ -1,18 +1,46 @@
 {
     "id": 88234821,
     "name": "Dragunity Knight - Areadbhair",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 \"Dragunity\" Tuner + 1+ non-Tuner monsters\r\nWhen your opponent activates a monster effect (Quick Effect): You can banish 1 \"Dragunity\" monster from your GY; negate the activation, and if you do, banish that card. If this card destroys an opponent's monster by battle, after damage calculation: You can banish that opponent's monster. If this Synchro Summoned card in its owner's control is destroyed by an opponent's card: You can destroy all Spells and Traps your opponent controls. You can only use each effect of \"Dragunity Knight - Areadbhair\" once per turn.",
+    "race": "Dragon",
     "atk": 3300,
     "def": 3200,
     "level": 10,
-    "race": "Dragon",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Dragunity",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88234821.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88234821.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88234821.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-knight-areadbhair-11254",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.9"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88234821,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88234821.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88234821.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88234821.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.46",
+            "tcgplayer_price": "0.38",
+            "ebay_price": "1.75",
+            "amazon_price": "54.99",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

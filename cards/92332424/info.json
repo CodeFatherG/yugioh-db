@@ -1,18 +1,56 @@
 {
     "id": 92332424,
     "name": "Majesty Pegasus, the Dracoslayer",
+    "typeline": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nIf you have a \"Dracoslayer\" or \"Majespecter\" card in your other Pendulum Zone: You can add 1 \"Dracoslayer\" Pendulum Monster with a different original name than that card from your Deck to your hand, then you can destroy 1 card in your Pendulum Zone. You can only use this effect of \"Majesty Pegasus, the Dracoslayer\" once per turn.\n\n[ Monster Effect ] \n(This card is always treated as a \"Majespecter\" card.)\r\n(Quick Effect): You can discard this card; for the rest of this turn, your opponent cannot target \"Dracoslayer\" monsters you control with card effects, also they cannot be destroyed by your opponent's card effects. If this card is Special Summoned by the effect of a \"Dracoslayer\" card, or Pendulum Summoned: You can add 1 Field Spell from your Deck to your hand, then discard 1 card. You can only use this effect of \"Majesty Pegasus, the Dracoslayer\" once per turn.",
+    "race": "Spellcaster",
+    "pend_desc": "If you have a \"Dracoslayer\" or \"Majespecter\" card in your other Pendulum Zone: You can add 1 \"Dracoslayer\" Pendulum Monster with a different original name than that card from your Deck to your hand, then you can destroy 1 card in your Pendulum Zone. You can only use this effect of \"Majesty Pegasus, the Dracoslayer\" once per turn.",
+    "monster_desc": "(This card is always treated as a \"Majespecter\" card.)\r\n(Quick Effect): You can discard this card; for the rest of this turn, your opponent cannot target \"Dracoslayer\" monsters you control with card effects, also they cannot be destroyed by your opponent's card effects. If this card is Special Summoned by the effect of a \"Dracoslayer\" card, or Pendulum Summoned: You can add 1 Field Spell from your Deck to your hand, then discard 1 card. You can only use this effect of \"Majesty Pegasus, the Dracoslayer\" once per turn.",
     "atk": 1500,
     "def": 1500,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "WIND",
-    "scale": 2,
     "archetype": "Dracoslayer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92332424.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92332424.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92332424.jpg"
+    "scale": 2,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/majesty-pegasus-the-dracoslayer-13342",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN173",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN023",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92332424,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92332424.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92332424.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92332424.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.39",
+            "tcgplayer_price": "0.39",
+            "ebay_price": "1.70",
+            "amazon_price": "0.65",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

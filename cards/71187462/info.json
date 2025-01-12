@@ -1,18 +1,53 @@
 {
     "id": 71187462,
     "name": "Blackwing - Vata the Emblem of Wandering",
+    "typeline": [
+        "Winged Beast",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a \"Blackwing\" monster other than \"Blackwing - Vata the Emblem of Wandering\", you can Special Summon this card (from your hand). You can only Special Summon \"Blackwing - Vata the Emblem of Wandering\" once per turn this way. During your Main Phase: You can send this card on the field to the GY along with 1 or more non-Tuner \"Blackwing\" monsters from your Deck, so that the total Levels sent equal exactly 8, and if you do, Special Summon 1 \"Black-Winged Dragon\" from your Extra Deck, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Blackwing - Vata the Emblem of Wandering\" once per turn.",
+    "race": "Winged Beast",
     "atk": 800,
     "def": 0,
     "level": 2,
-    "race": "Winged Beast",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Blackwing",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71187462.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71187462.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71187462.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blackwing-vata-the-emblem-of-wandering-13281",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN152",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71187462,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71187462.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71187462.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71187462.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "1.03",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

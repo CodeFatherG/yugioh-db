@@ -1,21 +1,55 @@
 {
     "id": 27381364,
     "name": "Spright Elf",
+    "typeline": [
+        "Thunder",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters, including a Level/Rank/Link 2 monster\r\nCannot be used as Link Material the turn it is Link Summoned. Your opponent cannot target monsters this card points to with card effects. During the Main Phase (Quick Effect): You can target 1 Level 2 monster in your GY, or, if your opponent controls a monster, you can target 1 Rank/Link 2 monster instead; Special Summon it. You can only use this effect of \"Spright Elf\" once per turn.",
+    "race": "Thunder",
     "atk": 1400,
     "def": null,
     "level": null,
-    "race": "Thunder",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Spright",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/27381364.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27381364.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27381364.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spright-elf-13168",
+    "card_sets": [
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN049",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Forbidden",
+        "ban_ocg": "Forbidden"
+    },
+    "card_images": [
+        {
+            "id": 27381364,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27381364.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27381364.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27381364.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "7.66",
+            "tcgplayer_price": "6.05",
+            "ebay_price": "4.94",
+            "amazon_price": "9.79",
+            "coolstuffinc_price": "15.99"
+        }
+    ]
 }

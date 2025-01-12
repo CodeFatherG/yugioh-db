@@ -1,18 +1,45 @@
 {
     "id": 10796448,
     "name": "Ace\u2605Spades Speculation",
+    "typeline": [
+        "Warrior",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 monster with 2500 or more ATK + 1 face-down Defense Position monster with 2500 or less DEF\r\nYou can only Special Summon \"Ace\u2605Spades Speculation(s)\" once per turn. You can Tribute 1 Attack Position monster and 1 face-down Defense Position monster; Special Summon this card from your GY. This card gains the following effect based on its battle position.\r\n\u25cf Attack Position: Gains ATK equal to the highest original ATK among monsters your opponent controls (your choice, if tied).\r\n\u25cf Defense Position: Cannot be destroyed by battle or card effects.",
+    "race": "Warrior",
     "atk": 2500,
     "def": 2500,
     "level": 7,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/10796448.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10796448.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10796448.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ace\u0442\u0448\u0435spades-speculation-14256",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN039",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 10796448,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10796448.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10796448.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10796448.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

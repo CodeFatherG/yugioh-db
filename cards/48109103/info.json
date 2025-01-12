@@ -1,18 +1,35 @@
 {
     "id": 48109103,
     "name": "Kappa Avenger",
+    "typeline": [
+        "Aqua",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''An amphibian that sold his soul for unlimited power to avenge his late friend.''",
+    "race": "Aqua",
     "atk": 1200,
     "def": 900,
     "level": 3,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48109103.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48109103.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48109103.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kappa-avenger-4106",
+    "card_images": [
+        {
+            "id": 48109103,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48109103.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48109103.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48109103.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "9.50",
+            "amazon_price": "0.69",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 70636044,
     "name": "Varudras, the Final Bringer of the End Times",
+    "typeline": [
+        "Wyrm",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 10 monsters\r\nWhen your opponent activates a card or effect (Quick Effect): You can detach 1 material from this card; negate the activation, then you can detach 1 material from this card, then destroy 1 card on the field. At the start of the Damage Step, if this card attacks while it has material: You can destroy 1 card on the field. If this Xyz Summoned card is destroyed: You can destroy 1 card on the field. You can only use each effect of \"Varudras, the Final Bringer of the End Times\" once per turn.",
+    "race": "Wyrm",
     "atk": 3000,
     "def": 3000,
     "level": 10,
-    "race": "Wyrm",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70636044.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70636044.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70636044.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/varudras-the-final-bringer-of-the-end-times-14359",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN045",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN045",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70636044,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70636044.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70636044.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70636044.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "13.39",
+            "tcgplayer_price": "21.12",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,56 @@
 {
     "id": 3048768,
     "name": "Angello Vaalmonica",
+    "typeline": [
+        "Fairy",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nEach time you gain LP while you control a Fiend Monster Card in your other Pendulum Zone, place 1 Resonance Counter on this card. Once per turn, when an opponent's monster declares an attack, you can: Immediately after this effect resolves, Link Summon 1 \"Vaalmonica\" Link Monster.\n\n[ Monster Effect ] \nIf this card is in your hand: You can discard 1 other card; take 1 \"Dimonno Vaalmonica\" from your Deck, and place this card and that card in your Pendulum Zones. During your Main Phase, if this card was Normal or Special Summoned this turn: You can banish 1 \"Vaalmonica\" Normal Spell/Trap from your GY; apply whichever effect on that card includes gaining LP. You can only use each effect of \"Angello Vaalmonica\" once per turn.",
+    "race": "Fairy",
+    "pend_desc": "Each time you gain LP while you control a Fiend Monster Card in your other Pendulum Zone, place 1 Resonance Counter on this card. Once per turn, when an opponent's monster declares an attack, you can: Immediately after this effect resolves, Link Summon 1 \"Vaalmonica\" Link Monster.",
+    "monster_desc": "If this card is in your hand: You can discard 1 other card; take 1 \"Dimonno Vaalmonica\" from your Deck, and place this card and that card in your Pendulum Zones. During your Main Phase, if this card was Normal or Special Summoned this turn: You can banish 1 \"Vaalmonica\" Normal Spell/Trap from your GY; apply whichever effect on that card includes gaining LP. You can only use each effect of \"Angello Vaalmonica\" once per turn.",
     "atk": 1200,
     "def": 2100,
     "level": 4,
-    "race": "Fairy",
     "attribute": "DARK",
-    "scale": 3,
     "archetype": "Vaalmonica",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3048768.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3048768.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3048768.jpg"
+    "scale": 3,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/angello-vaalmonica-14101",
+    "card_sets": [
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN031",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN031",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3048768,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3048768.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3048768.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3048768.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

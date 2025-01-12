@@ -1,18 +1,51 @@
 {
     "id": 4848423,
     "name": "Muscle Medic",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If a player would take damage from a battle involving this card, they gain that much LP, instead.",
+    "race": "Warrior",
     "atk": 2200,
     "def": 100,
     "level": 4,
-    "race": "Warrior",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4848423.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4848423.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4848423.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/muscle-medic-8695",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN130",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Circuit Break",
+            "set_code": "CIBR-EN041",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4848423,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4848423.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4848423.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4848423.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.90",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 65892310,
     "name": "Brionac, the Magical Ice Dragon",
+    "typeline": [
+        "Sea Serpent",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can discard 1 card, then target 1 card on the field; return it to the hand. If this card is Special Summoned from the GY: You can discard 1 card, then target 1 card on the field; return it to the hand. You can only use each effect of \"Brionac, the Magical Ice Dragon\" once per turn.",
+    "race": "Sea Serpent",
     "atk": 2300,
     "def": 1400,
     "level": 6,
-    "race": "Sea Serpent",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65892310.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65892310.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65892310.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/brionac-the-magical-ice-dragon-14087",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN004",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65892310,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65892310.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65892310.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65892310.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.57",
+            "tcgplayer_price": "1.23",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

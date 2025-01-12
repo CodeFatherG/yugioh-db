@@ -1,18 +1,53 @@
 {
     "id": 80086070,
     "name": "Ursarctic Grand Chariot",
+    "typeline": [
+        "Beast-Warrior",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "Cannot be Synchro Summoned. Must be Special Summoned (from your Extra Deck) by sending 2 monsters you control with a Level difference of 7 to the GY (1 Level 8 or higher Tuner and 1 non-Tuner Synchro Monster). If this card is Special Summoned: You can target up to 2 other cards on the field; destroy them. Once per turn, when a card or effect is activated that targets an \"Ursarctic\" card you control (Quick Effect): You can Tribute 1 monster from your hand or field; negate the activation.",
+    "race": "Beast-Warrior",
     "atk": 2700,
     "def": 700,
     "level": 7,
-    "race": "Beast-Warrior",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Ursarctic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80086070.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80086070.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80086070.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ursarctic-grand-chariot-11925",
+    "card_sets": [
+        {
+            "set_name": "Ancient Guardians",
+            "set_code": "ANGU-EN035",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Ancient Guardians",
+            "set_code": "ANGU-EN035",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80086070,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80086070.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80086070.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80086070.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.84",
+            "tcgplayer_price": "1.07",
+            "ebay_price": "19.98",
+            "amazon_price": "0.30",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

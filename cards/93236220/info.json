@@ -2,17 +2,43 @@
     "id": 93236220,
     "name": "World Legacy Clash",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Banish 1 face-up monster you control (until the End Phase), then target 1 face-up monster your opponent controls; that target loses ATK/DEF equal to the original ATK/DEF of that banished monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "World Legacy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93236220.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93236220.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93236220.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/world-legacy-clash-8907",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN140",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Circuit Break",
+            "set_code": "CIBR-EN058",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93236220,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93236220.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93236220.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93236220.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

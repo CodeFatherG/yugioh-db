@@ -1,18 +1,53 @@
 {
     "id": 46174776,
     "name": "Azamina Moa Regina",
+    "typeline": [
+        "Illusion",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 Illusion monster + 1 Level 6 or higher Fiend monster\r\nYou can target 1 Illusion monster in your GY, except \"Azamina Moa Regina\"; Special Summon it. When an \"Azamina\" or \"Sinful Spoils\" card or effect is activated, except \"Azamina Moa Regina\" (Quick Effect): You can target up to 2 cards on the field; destroy them. You can only use each effect of \"Azamina Moa Regina\" once per turn.",
+    "race": "Illusion",
     "atk": 3000,
     "def": 2000,
     "level": 8,
-    "race": "Illusion",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Azamina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46174776.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46174776.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46174776.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/azamina-moa-regina-14576",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN033",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN033",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46174776,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46174776.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46174776.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46174776.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.64",
+            "tcgplayer_price": "0.51",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

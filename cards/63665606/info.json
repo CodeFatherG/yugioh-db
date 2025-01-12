@@ -2,17 +2,36 @@
     "id": 63665606,
     "name": "Wave-Motion Inferno",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "While you have no cards in your hand, face-up \"Infernity\" monsters you control gain 400 ATK and DEF. You can send this face-up card from the field to the Graveyard to send all cards from your hand to the Graveyard.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Infernity",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/63665606.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63665606.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63665606.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wave-motion-inferno-5375",
+    "card_sets": [
+        {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN088",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 63665606,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63665606.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63665606.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63665606.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "6.69",
+            "tcgplayer_price": "2.15",
+            "ebay_price": "5.35",
+            "amazon_price": "15.99",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

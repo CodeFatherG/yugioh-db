@@ -1,18 +1,45 @@
 {
     "id": 60410769,
     "name": "Jutte Fighter",
+    "typeline": [
+        "Warrior",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, you can change 1 face-up Attack Position monster your opponent controls to face-up Defense Position.",
+    "race": "Warrior",
     "atk": 700,
     "def": 900,
     "level": 2,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60410769.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60410769.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60410769.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jutte-fighter-5125",
+    "card_sets": [
+        {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60410769,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60410769.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60410769.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60410769.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.99",
+            "amazon_price": "1.97",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

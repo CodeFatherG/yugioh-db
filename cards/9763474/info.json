@@ -1,21 +1,50 @@
 {
     "id": 9763474,
     "name": "Haggard Lizardose",
+    "typeline": [
+        "Reptile",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters with different names\r\nYou can banish 1 monster from your face-up field or GY with 2000 or less ATK, then target 1 face-up monster on the field; make its ATK become equal to the original ATK of the monster banished to activate this effect (until the end of this turn), then if you banished a monster that was originally Reptile, draw 1 card. You can only use this effect of \"Haggard Lizardose\" once per turn.",
+    "race": "Reptile",
     "atk": 800,
     "def": null,
     "level": null,
-    "race": "Reptile",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Right",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/9763474.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9763474.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9763474.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/haggard-lizardose-14472",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN089",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9763474,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9763474.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9763474.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9763474.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

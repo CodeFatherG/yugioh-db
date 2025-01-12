@@ -2,17 +2,49 @@
     "id": 5562461,
     "name": "Dark Illusion",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "When a Spell/Trap Card, or monster effect, is activated that targets a DARK monster on the field: Negate the activation, and if you do, destroy that card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5562461.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5562461.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5562461.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-illusion-492",
+    "card_sets": [
+        {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN060",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN071",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.63"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5562461,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5562461.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5562461.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5562461.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.67",
+            "ebay_price": "1.70",
+            "amazon_price": "1.78",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

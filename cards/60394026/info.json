@@ -2,17 +2,43 @@
     "id": 60394026,
     "name": "Ryzeal Plugin",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 of your Xyz Monsters or \"Ryzeal\" monsters that is banished or in your GY; Special Summon it, then you can attach 1 \"Ryzeal\" card from your Deck to 1 Rank 4 Xyz Monster you control, also you cannot declare attacks for the rest of this turn, except with Rank 4 Xyz Monsters. You can only activate 1 \"Ryzeal Plugin\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ryzeal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60394026.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60394026.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60394026.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ryzeal-plugin-14642",
+    "card_sets": [
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN008",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60394026,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60394026.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60394026.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60394026.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

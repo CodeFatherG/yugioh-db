@@ -1,18 +1,52 @@
 {
     "id": 25137581,
     "name": "Sneaky \"C\"",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When your opponent Special Summons a monster(s) (except during the Damage Step): You can Special Summon this card from your hand in face-down Defense Position, and if you do, during the End Phase of this turn, change it to face-up Defense Position. You can only use this effect of \"Sneaky \"C\"\" once per turn. If this card is flipped face-up during the End Phase: Destroy all Special Summoned monsters on the field.",
+    "race": "Insect",
     "atk": 1300,
     "def": 2500,
     "level": 7,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "\"C\"",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25137581.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25137581.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25137581.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sneaky-c-13543",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN173",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN030",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25137581,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25137581.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25137581.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25137581.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

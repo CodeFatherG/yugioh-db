@@ -2,17 +2,35 @@
     "id": 87313164,
     "name": "Oh F!sh!",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "When an Effect Monster's effect activates: Shuffle 1 of your banished Fish, Sea Serpent, or Aqua-Type monsters into the Main Deck; negate the activation and destroy it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/87313164.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87313164.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87313164.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/oh-f-sh-7306",
+    "card_sets": [
+        {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN069",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 87313164,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87313164.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87313164.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87313164.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.65",
+            "tcgplayer_price": "0.54",
+            "ebay_price": "1.74",
+            "amazon_price": "3.56",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

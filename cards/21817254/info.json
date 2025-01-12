@@ -1,18 +1,58 @@
 {
     "id": 21817254,
     "name": "Mega Thunderball",
+    "typeline": [
+        "Thunder",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "Rolls along the ground releasing bolts of electricity to attack its enemies.",
+    "race": "Thunder",
     "atk": 750,
     "def": 600,
     "level": 2,
-    "race": "Thunder",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21817254.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21817254.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21817254.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mega-thunderball-1877",
+    "card_sets": [
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.35"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.31"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.51"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21817254,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21817254.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21817254.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21817254.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "1.29",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

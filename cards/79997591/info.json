@@ -2,17 +2,49 @@
     "id": 79997591,
     "name": "Doble Passe",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When an opponent's monster declares an attack on a face-up Attack Position monster you control: Make your opponent's attack a direct attack instead and inflict damage to your opponent equal to the ATK of the attack target you control. Also, that monster you control can attack your opponent directly during your next turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/79997591.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79997591.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79997591.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/doble-passe-6707",
+    "card_sets": [
+        {
+            "set_name": "Dragons of Legend",
+            "set_code": "DRLG-EN021",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.76"
+        },
+        {
+            "set_name": "Dragons of Legend: The Complete Series",
+            "set_code": "DLCS-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.07"
+        },
+        {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENE19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79997591,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79997591.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79997591.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79997591.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "2.39",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

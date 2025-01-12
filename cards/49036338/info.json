@@ -1,18 +1,73 @@
 {
     "id": 49036338,
     "name": "PSY-Frame Driver",
+    "typeline": [
+        "Psychic",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A Psychic soldier that rides into battle against the Security Forces on currents of lightning, using an autonomic amplifier called \"PSY-Frame\".",
+    "race": "Psychic",
     "atk": 2500,
     "def": 0,
     "level": 6,
-    "race": "Psychic",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "PSY-Frame",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49036338.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49036338.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49036338.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/psy-frame-driver-4187",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN119",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Relentless Revenge",
+            "set_code": "BLRR-EN068",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN028",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.91"
+        },
+        {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN074",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.96"
+        },
+        {
+            "set_name": "Toon Chaos",
+            "set_code": "TOCH-EN025",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49036338,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49036338.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49036338.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49036338.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "2.32",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 68441986,
     "name": "Ninjitsu Art of Mosquito Marching",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Special Summon up to 2 Level 4 or lower Insect monsters from your hand (with the same Level, if Summoning 2). If you control \"Number 2: Ninja Shadow Mosquito\": You can banish this card from your GY, then target face-up monsters your opponent controls up to the number of Insect monsters you control; place 1 Hallucination Counter on each of those monsters. (The effects, if any, of monsters with Hallucination Counters are negated.) You can only use each effect of \"Ninjitsu Art of Mosquito Marching\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ninjitsu Art",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68441986.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68441986.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68441986.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ninjitsu-art-of-mosquito-marching-13343",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN030",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 68441986,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68441986.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68441986.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68441986.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

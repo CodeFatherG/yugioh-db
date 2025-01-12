@@ -1,18 +1,51 @@
 {
     "id": 8508055,
     "name": "Chu-Ske the Mouse Fighter",
+    "typeline": [
+        "Beast",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A fiery mouse, travelling the world to become the strongest fighter in the world of mice. Be careful not to touch him, or you will get burned.",
+    "race": "Beast",
     "atk": 1200,
     "def": 0,
     "level": 3,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8508055.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8508055.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8508055.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chu-ske-the-mouse-fighter-721",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN123",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8508055,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8508055.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8508055.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8508055.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.75",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

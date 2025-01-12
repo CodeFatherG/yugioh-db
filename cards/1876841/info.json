@@ -1,18 +1,46 @@
 {
     "id": 1876841,
     "name": "Morphtronic Scannen",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 \"Morphtronic\" monster from your hand.\r\n\u25cf Attack Position: Once per turn, during your Main Phase: You can add 1 \"Morphtronic\" Spell/Trap from your Deck to your hand, then place 1 card from your hand on top of the Deck.\r\n\u25cf Defense Position: Once per turn, during your Main Phase: You can add 1 Level 4 or lower \"Morphtronic\" monster from your GY to your hand, then place 1 card from your hand on top of the Deck.",
+    "race": "Machine",
     "atk": 1500,
     "def": 600,
     "level": 6,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Morphtronic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/1876841.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1876841.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1876841.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/morphtronic-scannen-13267",
+    "card_sets": [
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN095",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.84"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 1876841,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1876841.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1876841.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1876841.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

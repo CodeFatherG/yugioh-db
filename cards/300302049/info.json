@@ -2,17 +2,36 @@
     "id": 300302049,
     "name": "HERO World",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Jaden Yuki",
+    "frameType": "skill",
     "desc": "Once per turn, if you control a \"HERO\" Normal Monster or \"HERO\" Fusion Monster, you can discard 1 card to activate 1 of these Skills based on the Attribute(s) of that monster:\r\n\u25cf EARTH: Destroy 1 EARTH monster you control and 1 face-up monster your opponent controls.\r\n\u25cf WIND: Destroy 1 face-up Spell/Trap on the field.\r\n\u25cf FIRE: Return all face-up non-FIRE Special Summoned monsters on the field to the hand.\r\n\u25cf WATER: Draw 1 card, also until the end of the next turn, you can activate 1 Normal Trap Card from your hand.\r\n\u25cf LIGHT: Change the battle position of 1 face-up monster on the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Jaden Yuki",
-    "attribute": null,
-    "scale": null,
     "archetype": "HERO",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302049.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302049.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302049.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hero-world-13508",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENS07",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302049,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302049.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302049.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302049.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

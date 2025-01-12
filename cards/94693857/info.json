@@ -1,18 +1,67 @@
 {
     "id": 94693857,
     "name": "Deskbot 001",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "Gains 500 ATK/DEF for each Machine monster you control. If 2 or more Machine monsters are Special Summoned at the same time, while this card is in your GY (except during the Damage Step): You can Special Summon this card.",
+    "race": "Machine",
     "atk": 500,
     "def": 500,
     "level": 1,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Deskbot",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94693857.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94693857.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94693857.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/deskbot-001-7880",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN092",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN107",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.27"
+        },
+        {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 94693857,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94693857.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94693857.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94693857.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.95",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

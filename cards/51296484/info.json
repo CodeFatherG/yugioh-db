@@ -1,18 +1,52 @@
 {
     "id": 51296484,
     "name": "Saffira, Dragon Queen of the Voiceless Voice",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can discard this card; send 1 Ritual Spell from your Deck to the GY, then you can add 1 LIGHT Ritual Monster (Warrior or Dragon) from your Deck or GY to your hand. You can banish this card from your GY; Ritual Summon 1 LIGHT Ritual Monster (Warrior or Dragon) from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. You can only use each effect of \"Saffira, Dragon Queen of the Voiceless Voice\" once per turn.",
+    "race": "Dragon",
     "atk": 2500,
     "def": 2400,
     "level": 6,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Voiceless Voice",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/51296484.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51296484.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51296484.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/saffira-dragon-queen-of-the-voiceless-voice-14138",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN020",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN020",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 51296484,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51296484.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51296484.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51296484.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "8.48",
+            "tcgplayer_price": "8.89",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,44 @@
 {
     "id": 47028805,
     "name": "L Magi Mergy",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Gains ATK equal to the total Link Rating of the Link Monsters in your GY x 400. During the Main Phase, if this card is in your hand (Quick Effect): You can Tribute 1 Cyberse monster or 1 Link Monster; Special Summon this card. You can only use this effect of \"L Magi Mergy\" once per turn.",
+    "race": "Cyberse",
     "atk": 0,
     "def": 1200,
     "level": 2,
-    "race": "Cyberse",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47028805.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47028805.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47028805.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/l-magi-mergy-14590",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47028805,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47028805.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47028805.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47028805.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

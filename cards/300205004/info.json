@@ -2,17 +2,42 @@
     "id": 300205004,
     "name": "Twisted Personality",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Yami Marik",
+    "frameType": "skill",
     "desc": "[At the start of the Duel, flip this card over.]\r\n\r\nEach time a player loses LP, place 1 counter on this card (max. 3). Once per turn, during your Main Phase, you can use 1 of the following Skills.\r\n\u25cf Remove 2 counters from this card, then discard 1 random card from your opponent's hand.\r\n\u25cf Remove 3 counters from this card, then destroy 1 face-up card your opponent controls.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Yami Marik",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300205004.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300205004.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300205004.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/twisted-personality-11197",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENS04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.49"
+        },
+        {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-ENS03",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.67"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300205004,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300205004.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300205004.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300205004.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.50",
+            "ebay_price": "3.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

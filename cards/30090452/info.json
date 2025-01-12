@@ -1,18 +1,35 @@
 {
     "id": 30090452,
     "name": "Zanki",
+    "typeline": [
+        "Warrior",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''His swiftly drawn blade delivers quick and fatal damage.''",
+    "race": "Warrior",
     "atk": 1500,
     "def": 1700,
     "level": 5,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30090452.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30090452.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30090452.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zanki-2549",
+    "card_images": [
+        {
+            "id": 30090452,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30090452.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30090452.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30090452.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "5.00",
+            "amazon_price": "3.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

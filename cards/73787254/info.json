@@ -2,17 +2,36 @@
     "id": 73787254,
     "name": "Saber Vault",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "Each face-up \"X-Saber\" monster on the field gains 100 ATK x its Level, and loses 100 DEF x its Level.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "X-Saber",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73787254.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73787254.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73787254.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/saber-vault-6198",
+    "card_sets": [
+        {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN086",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73787254,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73787254.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73787254.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73787254.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.29",
+            "tcgplayer_price": "2.18",
+            "ebay_price": "1.99",
+            "amazon_price": "15.00",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 43618262,
     "name": "Hatsugai",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Excavate the top 5 cards of your opponent's Deck (or as many as possible), choose 1 excavated card, and declare a number in multiples of 100 (min. 100, max. 3000). Your opponent can choose to gain LP equal to the declared number. If they gained LP, you lose that amount of LP, and if you do, add that chosen card to your hand, also place the rest on top of the Deck in the same order. If they did not, place the excavated cards on top of the Deck in the same order.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/43618262.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43618262.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43618262.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hatsugai-13695",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN080",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 43618262,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43618262.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43618262.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43618262.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "1.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

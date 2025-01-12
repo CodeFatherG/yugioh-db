@@ -2,17 +2,42 @@
     "id": 17509503,
     "name": "The Revenge of the Normal",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Special Summon Level 4 or lower monsters from your hand, up to the number of monsters your opponent controls. You can only activate 1 \"The Revenge of the Normal\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17509503.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17509503.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17509503.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-revenge-of-the-normal-9678",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN214",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Soul Fusion",
+            "set_code": "SOFU-EN079",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17509503,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17509503.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17509503.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17509503.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

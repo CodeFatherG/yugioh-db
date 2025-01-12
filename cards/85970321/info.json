@@ -1,18 +1,45 @@
 {
     "id": 85970321,
     "name": "Yosenju Izna",
+    "typeline": [
+        "Beast-Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of the following effects of \"Yosenju Izna\" once per turn.\r\n\u25cf You can discard this card; this turn, your opponent cannot activate cards or effects when a \"Yosenju\" monster(s) is Normal or Special Summoned.\r\n\u25cf If you control another \"Yosenju\" monster: You can draw 1 card.",
+    "race": "Beast-Warrior",
     "atk": 800,
     "def": 1200,
     "level": 4,
-    "race": "Beast-Warrior",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Yosenju",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85970321.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85970321.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85970321.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/yosenju-izna-10239",
+    "card_sets": [
+        {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 85970321,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85970321.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85970321.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85970321.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

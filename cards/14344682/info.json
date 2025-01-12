@@ -1,18 +1,51 @@
 {
     "id": 14344682,
     "name": "Samurai Sword Baron",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, you can select 1 Defense Position monster your opponent controls. Change it to face-up Attack Position.",
+    "race": "Warrior",
     "atk": 1600,
     "def": 1200,
     "level": 4,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14344682.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14344682.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14344682.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/samurai-sword-baron-1230",
+    "card_sets": [
+        {
+            "set_name": "Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia promotional cards",
+            "set_code": "WC10-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "21.1"
+        },
+        {
+            "set_name": "Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia promotional cards",
+            "set_code": "WC10-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.33"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14344682,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14344682.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14344682.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14344682.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.36",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "1.47",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

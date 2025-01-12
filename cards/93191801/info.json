@@ -2,17 +2,43 @@
     "id": 93191801,
     "name": "Huaquero of the Golden Land",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Special Summon this card as a Normal Monster (Zombie/LIGHT/Level 5/ATK 1800/DEF 1500) (this card is also still a Trap), then, if you control \"Eldlich the Golden Lord\", you can banish 1 card from either GY. During the End Phase: You can banish this card from your GY; Set 1 \"Eldlixir\" Spell/Trap directly from your Deck. You can only use 1 \"Huaquero of the Golden Land\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Golden Land",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93191801.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93191801.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93191801.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/huaquero-of-the-golden-land-10907",
+    "card_sets": [
+        {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN127",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.81"
+        },
+        {
+            "set_name": "Secret Slayers",
+            "set_code": "SESL-EN033",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93191801,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93191801.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93191801.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93191801.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.40",
+            "tcgplayer_price": "0.41",
+            "ebay_price": "1.27",
+            "amazon_price": "1.77",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

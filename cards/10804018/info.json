@@ -1,18 +1,53 @@
 {
     "id": 10804018,
     "name": "Saffira, Divine Dragon of the Voiceless Voice",
+    "typeline": [
+        "Dragon",
+        "Ritual",
+        "Effect"
+    ],
     "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
     "desc": "You can Ritual Summon this card with \"Blessing of the Voiceless Voice\". If this card is Ritual Summoned while you have \"Lo, the Prayers of the Voiceless Voice\" on your field or in your GY: You can draw 2 cards, then discard 1 card. When an attack is declared involving a LIGHT Ritual Monster (Warrior or Dragon): You can discard 1 random card from your opponent's hand. During your opponent's End Phase: You can add 1 LIGHT monster from your GY to your hand. You can only use each effect of \"Saffira, Divine Dragon of the Voiceless Voice\" once per turn.",
+    "race": "Dragon",
     "atk": 2550,
     "def": 2450,
     "level": 7,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Voiceless Voice",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/10804018.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10804018.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10804018.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/saffira-divine-dragon-of-the-voiceless-voice-14289",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN034",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN034",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 10804018,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10804018.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10804018.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10804018.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.35",
+            "tcgplayer_price": "0.33",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

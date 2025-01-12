@@ -2,17 +2,36 @@
     "id": 63804637,
     "name": "Melodious Illusion",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Melodious\" monster you control; this turn, that face-up monster you control is unaffected by your opponent's Spell/Trap effects, and it can make a second attack during each Battle Phase.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Melodious",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/63804637.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63804637.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63804637.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/melodious-illusion-5388",
+    "card_sets": [
+        {
+            "set_name": "Crossed Souls",
+            "set_code": "CROS-EN067",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 63804637,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63804637.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63804637.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63804637.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.42",
+            "ebay_price": "1.00",
+            "amazon_price": "1.76",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

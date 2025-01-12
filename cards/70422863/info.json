@@ -2,17 +2,50 @@
     "id": 70422863,
     "name": "Hexatellarknight",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "Each \"tellarknight\" Xyz Monster gains 200 ATK and DEF for each Xyz Material attached to it. When a \"tellarknight\" Xyz Monster you control is targeted for an attack: You can send 1 \"tellarknight\" card from your hand to the Graveyard; negate that attack.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Tellarknight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70422863.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70422863.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70422863.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hexatellarknight-5925",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN173",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Alliance: Deluxe Edition",
+            "set_code": "DUEA-ENDE7",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.63"
+        },
+        {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70422863,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70422863.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70422863.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70422863.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "1.10",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

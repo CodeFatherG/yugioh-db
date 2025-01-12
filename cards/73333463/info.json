@@ -1,18 +1,59 @@
 {
     "id": 73333463,
     "name": "Armoroid",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Tribute Summoned by Tributing at least 1 \"roid\" monster: Banish all Spells and Traps on the field.",
+    "race": "Machine",
     "atk": 2700,
     "def": 2000,
     "level": 8,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Roid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73333463.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73333463.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73333463.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/armoroid-6157",
+    "card_sets": [
+        {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN099",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Duelists",
+            "set_code": "LEDU-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73333463,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73333463.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73333463.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73333463.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

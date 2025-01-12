@@ -1,18 +1,28 @@
 {
     "id": 90939874,
-    "name": "Six Strike - Legendary Lord's Sextuple Impact",
+    "name": "Six Strike - Sextuple Barrage",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control 3 or more \"Six Samurai\" Synchro Monsters with different names (the number of monsters required to activate this card is reduced by 1 for every 6 Bushido Counters on your field): Destroy all cards your opponent controls. If this Set card in its owner's control is destroyed or banished by an opponent's activated effect: You can Special Summon 1 \"Six Samurai\" monster or \"Shien\" Effect Monster from your Deck or Extra Deck. You can only use each effect of \"Six Strike - Legendary Lord's Sextuple Impact\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Six Strike",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/90939874.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90939874.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90939874.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/six-strike-legendary-lord-s-sextuple-impact-14783",
+    "card_images": [
+        {
+            "id": 90939874,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90939874.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90939874.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90939874.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

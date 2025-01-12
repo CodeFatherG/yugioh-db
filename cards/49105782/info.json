@@ -1,22 +1,58 @@
 {
     "id": 49105782,
     "name": "Hraesvelgr, the Desperate Doom Eagle",
+    "typeline": [
+        "Winged Beast",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ WIND monsters\r\nGains 2400 ATK while your opponent has no monsters in their GY. (Quick Effect): You can target 1 monster in your opponent's GY; shuffle it into the Deck. You can only use this effect of \"Hraesvelgr, the Desperate Doom Eagle\" once per turn.",
+    "race": "Winged Beast",
     "atk": 2400,
     "def": null,
     "level": null,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
     "linkval": 3,
     "linkmarkers": [
         "Top",
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/49105782.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49105782.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49105782.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hraesvelgr-the-desperate-doom-eagle-10498",
+    "card_sets": [
+        {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN141",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+        },
+        {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN082",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49105782,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49105782.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49105782.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49105782.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

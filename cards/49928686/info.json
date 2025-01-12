@@ -1,18 +1,52 @@
 {
     "id": 49928686,
     "name": "Spright Pixies",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a Level/Rank 2 monster, you can Special Summon this card (from your hand). You can only Special Summon \"Spright Pixies\" once per turn this way. During damage calculation, if another Level/Rank/Link 2 monster you control battles an opponent's monster (Quick Effect): You can send this card from your hand or field to the GY; that monster you control gains ATK/DEF equal to the opponent's monster's ATK, until the end of this turn. You can only use this effect of \"Spright Pixies\" once per turn.",
+    "race": "Thunder",
     "atk": 1400,
     "def": 1400,
     "level": 2,
-    "race": "Thunder",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Spright",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49928686.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49928686.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49928686.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spright-pixies-13171",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN077",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49928686,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49928686.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49928686.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49928686.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

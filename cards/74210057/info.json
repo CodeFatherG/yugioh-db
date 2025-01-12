@@ -1,18 +1,44 @@
 {
     "id": 74210057,
     "name": "Texchanger",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, when your monster is targeted for an attack: You can negate that attack, then Special Summon 1 Cyberse Normal Monster from your hand, Deck, or GY.",
+    "race": "Cyberse",
     "atk": 100,
     "def": 100,
     "level": 1,
-    "race": "Cyberse",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74210057.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74210057.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74210057.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/texchanger-9395",
+    "card_sets": [
+        {
+            "set_name": "Starter Deck: Codebreaker",
+            "set_code": "YS18-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 74210057,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74210057.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74210057.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74210057.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

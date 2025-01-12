@@ -2,17 +2,35 @@
     "id": 46497537,
     "name": "Pig Iron vs. Pen Peg",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 face-up monster on the field; if that monster's ATK, DEF, or Level is higher than its original value, it becomes its original value, then pay LP in multiples of 100 (min. 100, max. 1000). During your Main Phase, if both players have the same LP and this card is in your GY: You can Set this card. You can only use this effect of \"Pig Iron vs. Pen Peg\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46497537.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46497537.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46497537.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pig-iron-vs-pen-peg-13718",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46497537,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46497537.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46497537.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46497537.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

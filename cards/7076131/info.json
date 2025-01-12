@@ -2,17 +2,42 @@
     "id": 7076131,
     "name": "Next to be Lost",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Select 1 face-up monster you control. Send 1 card from your Deck to the Graveyard with the same name as the selected card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7076131.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7076131.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7076131.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/next-to-be-lost-605",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN174",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.59"
+        },
+        {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7076131,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7076131.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7076131.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7076131.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.74",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

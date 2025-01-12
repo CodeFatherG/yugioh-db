@@ -2,17 +2,36 @@
     "id": 45943516,
     "name": "War Rock Mountain",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: You can add 1 \"War Rock\" monster from your Deck to your hand. At the start of the Battle Phase, if you control no monsters, or all monsters you control are Warrior monsters: You can Special Summon 1 \"War Rock\" monster from your hand with a different name than the cards you control. If your Warrior monster would be destroyed by battle, you can send this card to the GY instead. You can only activate 1 \"War Rock Mountain\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "War Rock",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45943516.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45943516.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45943516.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/war-rock-mountain-11960",
+    "card_sets": [
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN000",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45943516,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45943516.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45943516.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45943516.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.21",
+            "tcgplayer_price": "0.79",
+            "ebay_price": "2.50",
+            "amazon_price": "39.99",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

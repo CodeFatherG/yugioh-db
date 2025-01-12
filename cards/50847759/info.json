@@ -2,17 +2,36 @@
     "id": 50847759,
     "name": "Last Hope of Nephthys",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 other \"Nephthys\" card you control and 1 card your opponent controls; destroy them. You can only activate 1 \"Last Hope of Nephthys\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Nephthys",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50847759.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50847759.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50847759.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/last-hope-of-nephthys-9707",
+    "card_sets": [
+        {
+            "set_name": "Hidden Summoners",
+            "set_code": "HISU-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50847759,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50847759.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50847759.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50847759.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

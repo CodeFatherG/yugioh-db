@@ -2,17 +2,43 @@
     "id": 51510279,
     "name": "Magikey Duo",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "You can target 1 Normal Monster or 1 \"Magikey\" monster in your GY; add it to your hand, then you can apply 1 of these effects.\r\n\u25cf Fusion Summon 1 \"Magikey\" Fusion Monster from your Extra Deck in Defense Position, using monsters from your hand or field as Fusion Material.\r\n\u25cf Ritual Summon 1 \"Magikey\" Ritual Monster from your hand in Defense Position, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Magikey",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/51510279.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51510279.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51510279.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/magikey-duo-12078",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN167",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN072",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.95"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 51510279,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51510279.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51510279.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51510279.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "14.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

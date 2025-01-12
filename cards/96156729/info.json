@@ -2,17 +2,43 @@
     "id": 96156729,
     "name": "Windwitch Chimes",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Windwitch\" monster you control; Special Summon 1 \"Windwitch\" monster with a different name from your Deck in Defense Position. You can only activate 1 \"Windwitch Chimes\" per turn. You cannot Special Summon monsters the turn you activate this card, except WIND monsters.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Windwitch",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96156729.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96156729.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96156729.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/windwitch-chimes-11473",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN059",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96156729,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96156729.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96156729.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96156729.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

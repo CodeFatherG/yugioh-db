@@ -1,18 +1,45 @@
 {
     "id": 45702014,
     "name": "Elementsaber Molehu",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn (Quick Effect): You can send 1 \"Elementsaber\" monster from your hand to the GY, then target 1 face-up monster on the field; change it to face-down Defense Position. Once per turn, if this card is in the GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
+    "race": "Warrior",
     "atk": 1900,
     "def": 0,
     "level": 4,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Elementsaber",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45702014.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45702014.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45702014.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/elementsaber-molehu-9216",
+    "card_sets": [
+        {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN024",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45702014,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45702014.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45702014.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45702014.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.43",
+            "tcgplayer_price": "0.50",
+            "ebay_price": "1.30",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

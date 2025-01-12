@@ -2,17 +2,36 @@
     "id": 56461575,
     "name": "Spiral Reborn",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 Level 7 or lower Dragon monster in your GY; Special Summon it. If you Special Summoned a \"Gaia the Dragon Champion\" by this effect, your opponent cannot target it with card effects, and it cannot be destroyed by their card effects. You can only activate 1 \"Spiral Reborn\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Gaia The Fierce Knight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56461575.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56461575.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56461575.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spiral-reborn-10925",
+    "card_sets": [
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN069",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56461575,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56461575.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56461575.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56461575.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

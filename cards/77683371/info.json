@@ -1,18 +1,45 @@
 {
     "id": 77683371,
     "name": "Dimension Conjurer",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add 1 \"Magical Dimension\" from your Deck or GY to your hand. If this card is sent from the Monster Zone to the GY: You can draw cards equal to the number of Spellcaster monsters you control, then place cards from your hand on top of your Deck in any order, equal to the number of cards you drew. You can only use each effect of \"Dimension Conjurer\" once per turn.",
+    "race": "Spellcaster",
     "atk": 500,
     "def": 500,
     "level": 1,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Dark Magician",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77683371.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77683371.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77683371.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dimension-conjurer-12559",
+    "card_sets": [
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.77"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 77683371,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77683371.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77683371.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77683371.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

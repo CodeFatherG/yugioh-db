@@ -2,17 +2,36 @@
     "id": 17255673,
     "name": "Heavenly Gate of the Mikanko",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "While you control a monster that is equipped with an Equip Card, all monsters your opponent controls that can attack must attack monsters equipped with Equip Cards. If your \"Mikanko\" monster battles, your opponent cannot activate cards or effects until the end of the Damage Step. At the end of the Damage Step, if your \"Mikanko\" monster attacked: You can send 1 Equip Card you control to the GY; it can make another attack on a monster in a row.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Mikanko",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17255673.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17255673.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17255673.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heavenly-gate-of-the-mikanko-13433",
+    "card_sets": [
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN028",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17255673,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17255673.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17255673.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17255673.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.32",
+            "tcgplayer_price": "4.26",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

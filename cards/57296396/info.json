@@ -2,17 +2,36 @@
     "id": 57296396,
     "name": "Nemleria Louve",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Special Summon 1 \"Nemleria\" monster or 1 Level 10 Beast monster from your hand or Deck in Defense Position, but return it to the hand during the End Phase. You can banish this card from your GY, then target 1 face-up monster your opponent controls; it loses 100 ATK/DEF for each of your currently face-down banished cards, until the end of this turn. You can only use each effect of \"Nemleria Louve\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Nemleria",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57296396.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57296396.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57296396.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nemleria-louve-13897",
+    "card_sets": [
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57296396,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57296396.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57296396.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57296396.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "1.50",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

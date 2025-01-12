@@ -1,18 +1,79 @@
 {
     "id": 51196174,
     "name": "The Calculator",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "The ATK of this card is the combined Levels of all face-up monsters you control x 300.",
+    "race": "Thunder",
     "atk": -1,
     "def": 0,
     "level": 2,
-    "race": "Thunder",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/51196174.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51196174.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51196174.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-calculator-4355",
+    "card_sets": [
+        {
+            "set_name": "2-Player Starter Deck: Yuya & Declan",
+            "set_code": "YS15-ENY11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4"
+        },
+        {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN149",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN149",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Demo Pack",
+            "set_code": "DEM1-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Saber Force Starter Deck",
+            "set_code": "YS15-ENF12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.36"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 51196174,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51196174.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51196174.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51196174.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,44 @@
 {
     "id": 58288565,
     "name": "Butterfly Fish",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent to the GY to activate a monster effect: You can add this card to your hand. If a monster(s) is sent to your GY, except by battle, while this card is in your GY (except during the Damage Step): You can discard 1 card to the GY; Special Summon this card. You can only use 1 \"Butterfly Fish\" effect per turn, and only once that turn. You cannot Special Summon from the Extra Deck, except WATER monsters, the turn you activate either of this card's effects.",
+    "race": "Fish",
     "atk": 700,
     "def": 400,
     "level": 3,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58288565.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58288565.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58288565.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/butterfly-fish-14734",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN088",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58288565,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58288565.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58288565.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58288565.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 300302073,
     "name": "Unlocking the Power",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Kagemaru",
+    "frameType": "skill",
     "desc": "When you Special Summon \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" using the method mentioned on that card, you can use face-up Fiend monsters, Continuous Spells, and/or Continuous Traps you control, regardless of the card type the text requires.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Kagemaru",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302073.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302073.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302073.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/unlocking-the-power-13949",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENS07",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302073,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302073.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302073.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302073.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

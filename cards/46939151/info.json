@@ -1,18 +1,53 @@
 {
     "id": 46939151,
     "name": "Earthbound Prisoner Ground Keeper",
+    "typeline": [
+        "Fiend",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can Special Summon 1 Level 5 or lower \"Earthbound\" monster from your Deck or GY, except \"Earthbound Prisoner Ground Keeper\", also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion or Synchro Monsters. You can only use this effect of \"Earthbound Prisoner Ground Keeper\" once per turn. \"Earthbound\" monsters you control cannot be destroyed by battle or card effects while there is a card in a Field Zone.",
+    "race": "Fiend",
     "atk": 300,
     "def": 300,
     "level": 1,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Earthbound",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46939151.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46939151.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46939151.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/earthbound-prisoner-ground-keeper-13956",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN274",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN027",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46939151,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46939151.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46939151.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46939151.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

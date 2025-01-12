@@ -1,18 +1,51 @@
 {
     "id": 28348537,
     "name": "Blizzard Princess",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 Spellcaster-Type monster. After this card was Normal Summoned, your opponent cannot activate Spell/Trap Cards for the rest of that turn.",
+    "race": "Spellcaster",
     "atk": 2800,
     "def": 2100,
     "level": 8,
-    "race": "Spellcaster",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28348537.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28348537.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28348537.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blizzard-princess-2410",
+    "card_sets": [
+        {
+            "set_name": "Collectible Tins 2012 Wave 1",
+            "set_code": "CT09-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.64"
+        },
+        {
+            "set_name": "Yu-Gi-Oh! GX Volume 7 promotional card",
+            "set_code": "YG07-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "10.12"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28348537,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28348537.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28348537.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28348537.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.60",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "2.99",
+            "amazon_price": "8.49",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

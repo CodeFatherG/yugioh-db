@@ -2,17 +2,49 @@
     "id": 12253117,
     "name": "World Suppression",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "You can only activate this card when a Field Spell Card is activated. Negate the Field Spell Card during the turn this card is activated.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12253117.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12253117.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12253117.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/world-suppression-1057",
+    "card_sets": [
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-E020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5.59"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12253117,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12253117.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12253117.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12253117.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

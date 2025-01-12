@@ -1,18 +1,52 @@
 {
     "id": 16312943,
     "name": "Libromancer Fire",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can reveal 1 Ritual Monster in your hand: Special Summon this card from your hand. If this card is Special Summoned: You can add 1 \"Libromancer\" monster from your Deck to your hand, except \"Libromancer Fire\". You can only use each effect of \"Libromancer Fire\" once per turn.",
+    "race": "Cyberse",
     "atk": 1800,
     "def": 1800,
     "level": 4,
-    "race": "Cyberse",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Libromancer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16312943.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16312943.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16312943.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/libromancer-fire-13245",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN058",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN000",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16312943,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16312943.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16312943.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16312943.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "3.89",
+            "amazon_price": "0.40",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

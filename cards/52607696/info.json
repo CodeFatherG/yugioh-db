@@ -2,17 +2,36 @@
     "id": 52607696,
     "name": "Mirage Mirror Force",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When an opponent's monster declares an attack: Special Summon 1 Illusion monster from your hand or GY, and if you do, return the attacking monster to the hand. If a face-up Illusion monster(s) you control leaves the field by an opponent's card effect, while this card is in your GY (except during the Damage Step): You can banish this card; Special Summon 1 Illusion monster from your hand or GY. You can only use this effect of \"Mirage Mirror Force\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Mirror Trap",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52607696.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52607696.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52607696.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mirage-mirror-force-14340",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN078",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52607696,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52607696.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52607696.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52607696.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

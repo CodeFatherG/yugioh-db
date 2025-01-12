@@ -1,18 +1,45 @@
 {
     "id": 58786132,
     "name": "Lucius the Shadow Vassal",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can banish 1 Level 5 or higher monster from your Graveyard; Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. If this card is Tributed for a Tribute Summon: You can look at all Set cards your opponent controls. Your opponent cannot activate cards or effects in response to this effect's activation. You can only use each effect of \"Lucius the Shadow Vassal\" once per turn.",
+    "race": "Fiend",
     "atk": 800,
     "def": 1000,
     "level": 1,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Vassal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58786132.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58786132.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58786132.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lucius-the-shadow-vassal-4998",
+    "card_sets": [
+        {
+            "set_name": "Emperor of Darkness Structure Deck",
+            "set_code": "SR01-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58786132,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58786132.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58786132.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58786132.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.75",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

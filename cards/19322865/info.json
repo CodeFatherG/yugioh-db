@@ -1,18 +1,53 @@
 {
     "id": 19322865,
     "name": "Earthbound Prisoner Line Walker",
+    "typeline": [
+        "Fiend",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add 1 \"Earthbound Prison\" or \"Harmonic Synchro Fusion\" from your Deck or GY to your hand. If you control a Level 6 or higher \"Earthbound\" monster: You can banish this card from your GY, then target 1 Effect Monster your opponent controls that was Special Summoned from the Extra Deck; shuffle that face-up Effect Monster into the Deck, then your opponent can Special Summon 1 monster with the same name from their Extra Deck. You can only use each effect of \"Earthbound Prisoner Line Walker\" once per turn.",
+    "race": "Fiend",
     "atk": 800,
     "def": 1100,
     "level": 3,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Earthbound",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19322865.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19322865.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19322865.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/earthbound-prisoner-line-walker-13957",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN275",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN029",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19322865,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19322865.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19322865.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19322865.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

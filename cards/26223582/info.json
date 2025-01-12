@@ -1,18 +1,46 @@
 {
     "id": 26223582,
     "name": "Buerillabaisse de Nouvelles",
+    "typeline": [
+        "Beast-Warrior",
+        "Ritual",
+        "Effect"
+    ],
     "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
     "desc": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can excavate the top 5 cards of your Deck, and if you do, you can add 1 excavated \"Nouvelles\" card to your hand, also shuffle the rest into the Deck. When a card or effect is activated that targets this card on the field, or when this card is targeted for an attack (Quick Effect): You can Tribute this card and 1 Attack Position monster on either field, and if you do, Special Summon 1 Level 2 or 3 \"Nouvelles\" Ritual Monster from your hand or Deck. You can only use each effect of \"Buerillabaisse de Nouvelles\" once per turn.",
+    "race": "Beast-Warrior",
     "atk": 400,
     "def": 1850,
     "level": 1,
-    "race": "Beast-Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Nouvelles",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/26223582.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26223582.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26223582.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/buerillabaisse-de-nouvelles-13743",
+    "card_sets": [
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN029",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 26223582,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26223582.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26223582.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26223582.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

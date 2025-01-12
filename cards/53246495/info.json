@@ -1,18 +1,36 @@
 {
     "id": 53246495,
     "name": "Infernity Queen",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you have no cards in your hand and this card is in your GY: You can banish 1 DARK monster from your GY, then target 1 DARK monster you control; it can attack directly this turn. You can only use this effect of \"Infernity Queen\" once per turn.",
+    "race": "Fiend",
     "atk": 300,
     "def": 900,
     "level": 3,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Infernity",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53246495.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53246495.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53246495.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/infernity-queen-14407",
+    "card_images": [
+        {
+            "id": 53246495,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53246495.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53246495.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53246495.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

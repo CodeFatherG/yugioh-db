@@ -2,17 +2,35 @@
     "id": 885016,
     "name": "Multi-Universe",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "Activate only if you do not control a face-up card in your Field Zone. You can target 1 Field Spell that is banished or in either GY; destroy this card, and if you do, place that targeted card face-up in your Field Zone. You can only use this effect of \"Multi-Universe\" once per turn. If a card(s) in the Field Zone would be destroyed by card effect, you can banish this card from your GY instead.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/885016.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/885016.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/885016.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/multi-universe-14475",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN086",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 885016,
+            "image_url": "https://images.ygoprodeck.com/images/cards/885016.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/885016.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/885016.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

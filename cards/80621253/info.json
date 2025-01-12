@@ -1,18 +1,53 @@
 {
     "id": 80621253,
     "name": "Mannadium Torrid",
+    "typeline": [
+        "Fairy",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If you control \"Visas Starfrost\" or a monster with 1500 ATK/2100 DEF, you can Special Summon this card (from your hand). You can only Special Summon \"Mannadium Torrid\" once per turn this way. If this card is destroyed by battle or card effect: You can Special Summon 1 \"Mannadium\" Tuner from your Deck. You can only use this effect of \"Mannadium Torrid\" once per turn.",
+    "race": "Fairy",
     "atk": 0,
     "def": 1500,
     "level": 2,
-    "race": "Fairy",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Mannadium",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80621253.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80621253.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80621253.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mannadium-torrid-13815",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN210",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80621253,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80621253.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80621253.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80621253.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 300302038,
     "name": "Rainbow Crystal Collection",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Jesse Anderso",
+    "frameType": "skill",
     "desc": "If a face-up \"Crystal Beast\" monster you control would be destroyed, you can place a Crystallization Counter on it instead. Monsters with Crystallization Counters are considered Continuous Spell Cards in your Spell & Trap Zone instead of monsters. If a card with a Crystallization Counter would be Special Summoned, remove the counter. Cards with Crystallization Counters can be used as Fusion Material for \"Ultimate Crystal\" monsters.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Jesse Anderso",
-    "attribute": null,
-    "scale": null,
     "archetype": "Crystal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302038.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302038.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302038.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rainbow-crystal-collection-13228",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENS14",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302038,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302038.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302038.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302038.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

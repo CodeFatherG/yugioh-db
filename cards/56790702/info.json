@@ -1,18 +1,52 @@
 {
     "id": 56790702,
     "name": "D.D. Assault Carrier",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot declare an attack unless you banish 1 card from your GY. If exactly 3 of your cards are banished: You can Special Summon this card from your hand. You can only use this effect of \"D.D. Assault Carrier\" once per turn.",
+    "race": "Machine",
     "atk": 2500,
     "def": 2500,
     "level": 8,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "D.D.",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56790702.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56790702.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56790702.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-assault-carrier-12898",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN233",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN082",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.85"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56790702,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56790702.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56790702.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56790702.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "1.50",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

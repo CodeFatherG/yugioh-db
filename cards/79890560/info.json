@@ -1,18 +1,45 @@
 {
     "id": 79890560,
     "name": "Fortune Fairy Hu",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When you draw this card: You can reveal it; Special Summon it from your hand. If this card is Special Summoned from the hand: You can target 1 of your banished Spellcaster monsters; add it to your hand. You can only use each effect of \"Fortune Fairy Hu\" once per turn.",
+    "race": "Spellcaster",
     "atk": 0,
     "def": 0,
     "level": 3,
-    "race": "Spellcaster",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Fortune Fairy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/79890560.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79890560.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79890560.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fortune-fairy-hu-10280",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Hero's Revenge",
+            "set_code": "BLHR-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.53"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79890560,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79890560.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79890560.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79890560.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "4.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

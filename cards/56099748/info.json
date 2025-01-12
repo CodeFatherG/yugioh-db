@@ -1,18 +1,66 @@
 {
     "id": 56099748,
     "name": "Visas Starfrost",
+    "typeline": [
+        "Warrior",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your hand: You can target 1 monster you control with a different Type and Attribute than this card; destroy that monster, and if you do, Special Summon this card. You can only use this effect of \"Visas Starfrost\" once per turn. When this card destroys an opponent's monster by battle: You can make this card gain ATK equal to half the original ATK or DEF of that monster (whichever is higher, your choice if tied).",
+    "race": "Warrior",
     "atk": 2100,
     "def": 1500,
     "level": 6,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56099748.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56099748.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56099748.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/visas-starfrost-13053",
+    "card_sets": [
+        {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAS-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN064",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN100",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN008",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56099748,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56099748.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56099748.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56099748.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.50",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

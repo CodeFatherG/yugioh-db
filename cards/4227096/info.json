@@ -2,17 +2,49 @@
     "id": 4227096,
     "name": "Mistaken Arrest",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Until the end of your next turn after this card resolves, neither player can add cards from their Deck to their hand except by drawing them.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4227096.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4227096.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4227096.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mistaken-arrest-381",
+    "card_sets": [
+        {
+            "set_name": "Clash of Rebellions",
+            "set_code": "CORE-EN065",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN080",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Premium Gold: Infinite Gold",
+            "set_code": "PGL3-EN089",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4227096,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4227096.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4227096.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4227096.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.13",
+            "tcgplayer_price": "1.09",
+            "ebay_price": "1.18",
+            "amazon_price": "3.50",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

@@ -2,17 +2,49 @@
     "id": 73632127,
     "name": "Dimension Slice",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When a monster(s) is Special Summoned to your side of the field (except during the Damage Step): Target 1 face-up monster your opponent controls; banish that target. If the Summon is an Xyz Summon, you can activate this card the turn it was Set.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73632127.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73632127.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73632127.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dimension-slice-6183",
+    "card_sets": [
+        {
+            "set_name": "Galactic Overlord",
+            "set_code": "GAOV-EN076",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "War of the Giants Reinforcements",
+            "set_code": "WGRT-EN094",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3"
+        },
+        {
+            "set_name": "War of the Giants: Round 2",
+            "set_code": "BPW2-EN094",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.51"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73632127,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73632127.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73632127.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73632127.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

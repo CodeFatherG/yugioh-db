@@ -2,17 +2,43 @@
     "id": 62623659,
     "name": "Zexal Construction",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Reveal 1 card in your hand, and if you do, add 1 of the following cards from your Deck to your hand, then shuffle the revealed card into the Deck.\r\n\u25cf \"ZW -\" monster\r\n\u25cf \"ZS -\" monster\r\n\u25cf \"Zexal\" Spell/Trap\r\n\u25cf \"Rank-Up-Magic\" Spell\r\n\u25cf \"Rank-Down-Magic\" Spell\r\nYou can only activate 1 \"Zexal Construction\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Zexal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62623659.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62623659.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62623659.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zexal-construction-11741",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN091",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN051",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 62623659,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62623659.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62623659.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62623659.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.34",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

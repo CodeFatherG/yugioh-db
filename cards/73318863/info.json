@@ -1,18 +1,53 @@
 {
     "id": 73318863,
     "name": "Lyna the Light Charmer",
+    "typeline": [
+        "Spellcaster",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: Take control of 1 LIGHT monster your opponent controls, while this card is face-up on the field.",
+    "race": "Spellcaster",
     "atk": 500,
     "def": 1500,
     "level": 3,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Charmer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73318863.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73318863.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73318863.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lyna-the-light-charmer-6156",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 13 (POR)",
+            "set_code": "OP13-PT029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        },
+        {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73318863,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73318863.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73318863.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73318863.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.63",
+            "tcgplayer_price": "0.73",
+            "ebay_price": "1.50",
+            "amazon_price": "2.70",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

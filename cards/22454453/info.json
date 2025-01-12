@@ -2,17 +2,36 @@
     "id": 22454453,
     "name": "Jar of Generosity",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Place 1 card from your hand on either the top or bottom of the Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Greed",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/22454453.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22454453.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22454453.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jar-of-generosity-12203",
+    "card_sets": [
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN080",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.97"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22454453,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22454453.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22454453.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22454453.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

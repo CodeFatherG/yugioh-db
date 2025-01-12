@@ -2,17 +2,36 @@
     "id": 51779204,
     "name": "Absolute Powerforce",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Red Dragon Archfiend\" you control; if it battles an opponent's monster this turn while you control it, apply these effects until the end of the Damage Step.\r\n\u25cf It gains 1000 ATK.\r\n\u25cf Your opponent cannot activate cards or effects.\r\n\u25cf If it attacks a Defense Position monster, inflict piercing battle damage to your opponent.\r\n\u25cf Any battle damage your opponent takes from that battle is doubled.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Signature move",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/51779204.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51779204.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51779204.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/absolute-powerforce-14077",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 51779204,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51779204.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51779204.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51779204.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

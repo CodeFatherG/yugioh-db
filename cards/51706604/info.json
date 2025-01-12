@@ -2,17 +2,42 @@
     "id": 51706604,
     "name": "Blizzard",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 face-up Spell your opponent controls; this turn, negate the activated effects of that Spell and all Spells on the field with that same original name. If the targeted card would be sent to the opponent's GY this turn, it is added to their hand instead. You can only activate 1 \"Blizzard\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/51706604.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51706604.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51706604.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blizzard-11027",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN144",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+        },
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN063",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 51706604,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51706604.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51706604.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51706604.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

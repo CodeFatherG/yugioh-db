@@ -2,17 +2,42 @@
     "id": 10723472,
     "name": "Burning Soul",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "If you control a Level 8 or higher Synchro Monster: Add 1 card from your GY to your hand, except \"Burning Soul\", then, immediately after this effect resolves, Synchro Summon using monsters you control as material. For the rest of this turn after this card resolves, your opponent cannot target Synchro Monsters on the field with card effects. You can only activate 1 \"Burning Soul\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/10723472.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10723472.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10723472.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/burning-soul-10793",
+    "card_sets": [
+        {
+            "set_name": "King's Court",
+            "set_code": "KICO-EN020",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.19"
+        },
+        {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 10723472,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10723472.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10723472.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10723472.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "2.25",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

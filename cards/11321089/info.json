@@ -1,18 +1,109 @@
 {
     "id": 11321089,
     "name": "Guardian Chimera",
+    "typeline": [
+        "Beast",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "3 monsters with different names\r\nMust first be Fusion Summoned using only Fusion Materials from your hand and field, with at least 1 monster from each. If this card is Fusion Summoned by a Spell Card or effect: You can draw cards equal to the number of cards used as material from the hand, and if you do, destroy cards your opponent controls equal to the number of cards used as material from the field. You can only use this effect of \"Guardian Chimera\" once per turn. While \"Polymerization\" is in your GY, your opponent cannot target this card with card effects.",
+    "race": "Beast",
     "atk": 3300,
     "def": 3300,
     "level": 9,
-    "race": "Beast",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Guardian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/11321089.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11321089.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11321089.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/guardian-chimera-12783",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN023",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN023",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN023",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN023",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN023",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN023",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN040",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN049",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN049",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 11321089,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11321089.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11321089.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11321089.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.66",
+            "tcgplayer_price": "0.28",
+            "ebay_price": "7.99",
+            "amazon_price": "599.99",
+            "coolstuffinc_price": "9.99"
+        }
+    ]
 }

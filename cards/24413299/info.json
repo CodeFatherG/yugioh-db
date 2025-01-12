@@ -1,18 +1,51 @@
 {
     "id": 24413299,
     "name": "The Suppression Pluto",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn: You can declare 1 card name; look at your opponent's hand, then if they have the declared card in their hand, apply 1 of these effects.\r\n\u25cf Take control of 1 monster your opponent controls.\r\n\u25cf Destroy 1 Spell/Trap Card your opponent controls, then you can Set the destroyed Spell/Trap Card on your field.",
+    "race": "Fiend",
     "atk": 2600,
     "def": 2000,
     "level": 8,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/24413299.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24413299.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24413299.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-suppression-pluto-2108",
+    "card_sets": [
+        {
+            "set_name": "Dragons of Legend: The Complete Series",
+            "set_code": "DLCS-EN106",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.87"
+        },
+        {
+            "set_name": "Dragons of Legend: Unleashed",
+            "set_code": "DRL3-EN010",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.78"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 24413299,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24413299.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24413299.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24413299.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

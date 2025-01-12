@@ -1,18 +1,51 @@
 {
     "id": 93953933,
     "name": "Hydralander Orbit",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you have 4 or more monsters in your GY and no monsters in your GY with the same name: You can Tribute this card; excavate the top cards of your Deck, equal to the number of monsters in your GY (or as many as possible), and if you do, if 2 or more monsters were excavated and all excavated monsters had different names, add 1 of those monsters to your hand, also place the remaining cards on top of your Deck in any order. You can banish this card from your GY, then target 1 monster in your GY; place it on the bottom of the Deck. You can only use each effect of \"Hydralander Orbit\" once per turn.",
+    "race": "Machine",
     "atk": 0,
     "def": 1500,
     "level": 1,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93953933.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93953933.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93953933.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hydralander-orbit-13187",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN301",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.83"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93953933,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93953933.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93953933.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93953933.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

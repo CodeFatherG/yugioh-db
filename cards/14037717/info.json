@@ -1,18 +1,44 @@
 {
     "id": 14037717,
     "name": "Spirit of the Books",
+    "typeline": [
+        "Winged Beast",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "This wise spirit dwells in books, using its accumulated knowledge to defeat enemies.",
+    "race": "Winged Beast",
     "atk": 1400,
     "def": 1200,
     "level": 4,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14037717.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14037717.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14037717.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spirit-of-the-books-1203",
+    "card_sets": [
+        {
+            "set_name": "Tournament Pack: 2nd Season",
+            "set_code": "TP2-020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "7.41"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14037717,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14037717.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14037717.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14037717.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "5.78",
+            "tcgplayer_price": "2.69",
+            "ebay_price": "4.00",
+            "amazon_price": "7.93",
+            "coolstuffinc_price": "8.99"
+        }
+    ]
 }

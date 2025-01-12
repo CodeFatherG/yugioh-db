@@ -1,18 +1,49 @@
 {
     "id": 21949879,
     "name": "Performapal Gentrude",
+    "typeline": [
+        "Fiend",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nIf \"Performapal Ladyange\" is in your other Pendulum Zone and you control no monsters, or only Pendulum Monsters: You can add 1 \"Odd-Eyes\" card from your Deck to your hand. You can only use this effect of \"Performapal Gentrude\" once per turn.\n\n[ Monster Effect ] \nIf this card is destroyed: You can place 1 \"Performapal\" Pendulum Monster from your Deck in your Pendulum Zone, except \"Performapal Gentrude\". If this card is face-up in your Extra Deck: You can discard 1 Pendulum Monster; add this card to your hand, then you can return 1 \"Performapal\" or \"Odd-Eyes\" card from your Pendulum Zone to the hand. You can only use 1 \"Performapal Gentrude\" effect per turn, and only once that turn.",
+    "race": "Fiend",
+    "pend_desc": "If \"Performapal Ladyange\" is in your other Pendulum Zone and you control no monsters, or only Pendulum Monsters: You can add 1 \"Odd-Eyes\" card from your Deck to your hand. You can only use this effect of \"Performapal Gentrude\" once per turn.",
+    "monster_desc": "If this card is destroyed: You can place 1 \"Performapal\" Pendulum Monster from your Deck in your Pendulum Zone, except \"Performapal Gentrude\". If this card is face-up in your Extra Deck: You can discard 1 Pendulum Monster; add this card to your hand, then you can return 1 \"Performapal\" or \"Odd-Eyes\" card from your Pendulum Zone to the hand. You can only use 1 \"Performapal Gentrude\" effect per turn, and only once that turn.",
     "atk": 1500,
     "def": 1000,
     "level": 4,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": 8,
     "archetype": "Performapal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21949879.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21949879.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21949879.jpg"
+    "scale": 8,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/performapal-gentrude-12936",
+    "card_sets": [
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21949879,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21949879.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21949879.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21949879.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

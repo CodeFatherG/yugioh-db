@@ -2,17 +2,35 @@
     "id": 300201009,
     "name": "Millennium Eye (Skill Card)",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Pegasus",
+    "frameType": "skill",
     "desc": "[Flip this card over when you activate this Skill.]\r\n\r\nAt the start of the Duel, look at your opponent\u2019s opening hand. You may choose to have that player shuffle their hand into their Deck and draw a new hand. (If both players use a Skill at the same time, the Turn player resolves their Skill first.)",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Pegasus",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300201009.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300201009.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300201009.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/millennium-eye-skill-card-9894",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel Starter Decks: Destiny Masters",
+            "set_code": "SS01-ENCS3",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.23"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300201009,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300201009.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300201009.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300201009.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "9.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

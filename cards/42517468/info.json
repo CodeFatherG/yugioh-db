@@ -1,18 +1,45 @@
 {
     "id": 42517468,
     "name": "Ojama Pink",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent from the hand or field to the GY: You can activate this effect; each player draws 1 card, then each player discards 1 card, then, if you discarded an \"Ojama\" card, you can choose 1 opponent's unused Monster Zone, and it cannot be used until the end of your opponent's turn. You can only use this effect of \"Ojama Pink\" once per turn.",
+    "race": "Beast",
     "atk": 0,
     "def": 1000,
     "level": 2,
-    "race": "Beast",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Ojama",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42517468.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42517468.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42517468.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ojama-pink-11523",
+    "card_sets": [
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42517468,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42517468.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42517468.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42517468.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.49",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

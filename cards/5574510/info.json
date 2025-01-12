@@ -2,17 +2,26 @@
     "id": 5574510,
     "name": "Shateki",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "You can discard 1 card, then target 1 monster your opponent controls that has a Level; roll a six-sided die and apply this effect based on the result.\r\n\u25cf Higher than the targeted monster's Level: Destroy the targeted monster, then you can add 1 monster with the same original Level from your Deck to your hand, also you cannot activate the effect of \"Shateki\" for the rest of this turn.\r\n\u25cf Equal to or lower than that targeted monster's Level: Reduce the targeted monster's Level by 1.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5574510.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5574510.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5574510.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shateki-14865",
+    "card_images": [
+        {
+            "id": 5574510,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5574510.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5574510.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5574510.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

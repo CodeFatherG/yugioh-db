@@ -1,18 +1,53 @@
 {
     "id": 51827737,
     "name": "Genex Recycled",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, you can select 1 \"Genex\" monster in your Graveyard. Until the End Phase, this card's name is treated as the selected monster's name.",
+    "race": "Machine",
     "atk": 200,
     "def": 400,
     "level": 1,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Genex",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/51827737.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51827737.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51827737.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/genex-recycled-4409",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN074",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "3.63"
+        },
+        {
+            "set_name": "Hidden Arsenal 2",
+            "set_code": "HA02-EN044",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 51827737,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51827737.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51827737.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51827737.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

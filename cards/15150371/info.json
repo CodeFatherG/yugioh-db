@@ -1,18 +1,36 @@
 {
     "id": 15150371,
     "name": "Archfiend Mirror",
+    "typeline": [
+        "Fiend",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A wicked mirror that hypnotizes enemies, diverting attacks from their intended targets.''",
+    "race": "Fiend",
     "atk": 700,
     "def": 600,
     "level": 2,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Archfiend",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15150371.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15150371.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15150371.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-mirror-1299",
+    "card_images": [
+        {
+            "id": 15150371,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15150371.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15150371.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15150371.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.75",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "5.11",
+            "amazon_price": "0.54",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

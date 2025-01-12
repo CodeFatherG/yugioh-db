@@ -2,17 +2,85 @@
     "id": 71348837,
     "name": "Madolche Salon",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "During your Main Phase, you can Normal Summon 1 \"Madolche\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If another \"Madolche\" card(s) you control or in your GY is added to your hand or shuffled into your Main Deck by a card effect: Set 1 \"Madolche\" Spell/Trap directly from your Deck, except \"Madolche Salon\". You can only use this effect of \"Madolche Salon\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Madolche",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71348837.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71348837.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71348837.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/madolche-salon-10845",
+    "card_sets": [
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN064",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN069",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN069",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN069",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN069",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN069",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN069",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN069",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71348837,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71348837.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71348837.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71348837.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "13.42",
+            "amazon_price": "3.45",
+            "coolstuffinc_price": "19.99"
+        }
+    ]
 }

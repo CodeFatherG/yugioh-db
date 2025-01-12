@@ -1,18 +1,46 @@
 {
     "id": 3685372,
     "name": "CXyz Gimmick Puppet Fanatix Machinix",
+    "typeline": [
+        "Machine",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "3 Level 9 monsters\r\nIf this card is Special Summoned: You can add 1 \"Puppet\" Trap from your Deck to your hand. You can detach 1 material from this card; Special Summon 1 monster from either GY to your opponent's field in Defense Position. If a monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can target 1 of them; destroy it, and if you do, inflict damage to your opponent equal to half its original ATK. You can only use each effect of \"CXyz Gimmick Puppet Fanatix Machinix\" once per turn.",
+    "race": "Machine",
     "atk": 3100,
     "def": 1500,
     "level": 9,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "CXyz",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3685372.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3685372.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3685372.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cxyz-gimmick-puppet-fanatix-machinix-14414",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN043",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3685372,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3685372.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3685372.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3685372.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

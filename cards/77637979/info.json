@@ -1,21 +1,56 @@
 {
     "id": 77637979,
     "name": "LANphorhynchus",
+    "typeline": [
+        "Cyberse",
+        "Link"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Monster",
+    "frameType": "link",
     "desc": "2 monsters",
+    "race": "Cyberse",
     "atk": 1200,
     "def": null,
     "level": 0,
-    "race": "Cyberse",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/77637979.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77637979.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77637979.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lanphorhynchus-9132",
+    "card_sets": [
+        {
+            "set_name": "Duel Devastator",
+            "set_code": "DUDE-EN021",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.43"
+        },
+        {
+            "set_name": "Structure Deck: Powercode Link",
+            "set_code": "SDPL-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 77637979,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77637979.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77637979.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77637979.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,44 @@
 {
     "id": 86229493,
     "name": "Umbral Soul",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-DARK monsters.",
+    "race": "Reptile",
     "atk": 2000,
     "def": 1500,
     "level": 7,
-    "race": "Reptile",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/86229493.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86229493.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86229493.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/umbral-soul-7226",
+    "card_sets": [
+        {
+            "set_name": "Strike of Neos",
+            "set_code": "STON-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 86229493,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86229493.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86229493.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86229493.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

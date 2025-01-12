@@ -1,18 +1,45 @@
 {
     "id": 56499179,
     "name": "Genro Ryu-Ge Hakva",
+    "typeline": [
+        "Wyrm",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can banish this card from your hand; add 1 \"Ryu-Ge Realm - Wyrm Winds\" from your Deck to your hand. If a monster is banished face-up, this card is already banished, and there are now at least 2 other banished monsters that are not \"Genro Ryu-Ge Hakva\" (except during the Damage Step): You can Special Summon this banished card. You can place 1 \"Ryu-Ge Realm - Wyrm Winds\" you control on the bottom of the Deck; add 1 \"Ryu-Ge\" card from your Deck, GY, or banishment to your hand, except \"Genro Ryu-Ge Hakva\". You can only use each effect of \"Genro Ryu-Ge Hakva\" once per turn.",
+    "race": "Wyrm",
     "atk": 3000,
     "def": 1500,
     "level": 10,
-    "race": "Wyrm",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Ryu-Ge",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56499179.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56499179.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56499179.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/genro-ryu-ge-hakva-14668",
+    "card_sets": [
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN033",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56499179,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56499179.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56499179.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56499179.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,49 @@
 {
     "id": 32349062,
     "name": "D/D Dog",
+    "typeline": [
+        "Fiend",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nYou can target 1 Fusion, Synchro, or Xyz Monster your opponent controls; negate its effects until the end of this turn, then destroy this card. You can only use this effect of \"D/D Dog\" once per turn.\n\n[ Monster Effect ] \nOnce per turn, if your opponent Special Summons a Fusion, Synchro, or Xyz Monster(s) (except during the Damage Step): You can target 1 of those monsters; this turn, that face-up monster cannot attack, also its effects are negated.",
+    "race": "Fiend",
+    "pend_desc": "You can target 1 Fusion, Synchro, or Xyz Monster your opponent controls; negate its effects until the end of this turn, then destroy this card. You can only use this effect of \"D/D Dog\" once per turn.",
+    "monster_desc": "Once per turn, if your opponent Special Summons a Fusion, Synchro, or Xyz Monster(s) (except during the Damage Step): You can target 1 of those monsters; this turn, that face-up monster cannot attack, also its effects are negated.",
     "atk": 2000,
     "def": 2000,
     "level": 6,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": 3,
     "archetype": "D/D",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32349062.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32349062.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32349062.jpg"
+    "scale": 3,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-dog-10891",
+    "card_sets": [
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN091",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32349062,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32349062.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32349062.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32349062.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "14.50",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

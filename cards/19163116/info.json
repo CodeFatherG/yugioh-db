@@ -1,18 +1,59 @@
 {
     "id": 19163116,
     "name": "Gem-Knight Obsidian",
+    "typeline": [
+        "Rock",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent from the hand to your Graveyard: You can target 1 Level 4 or lower Normal Monster in your Graveyard; Special Summon that target.",
+    "race": "Rock",
     "atk": 1500,
     "def": 1200,
     "level": 3,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Gem-",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19163116.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19163116.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19163116.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gem-knight-obsidian-1654",
+    "card_sets": [
+        {
+            "set_name": "Astral Pack Eight",
+            "set_code": "AP08-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duel Terminal 6b",
+            "set_code": "DT06-EN067",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 6: Omega Xyz",
+            "set_code": "HA06-EN031",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19163116,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19163116.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19163116.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19163116.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.54",
+            "tcgplayer_price": "0.63",
+            "ebay_price": "0.99",
+            "amazon_price": "4.75",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

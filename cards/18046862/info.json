@@ -2,17 +2,27 @@
     "id": 18046862,
     "name": "Grief Tablet",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "(This card is always treated as a \"Wedju\" card.)\r\nThe equipped monster cannot attack or be Tributed, also its effects are negated. Once per turn, if you control the equipped monster: You can add 1 \"Wedju\" card from your Deck to your hand, except \"Grief Tablet\". If this card is sent to the GY because the equipped monster is destroyed: You can inflict 500 damage to your opponent. You can only activate 1 \"Grief Tablet\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
     "archetype": "Wedju",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/18046862.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18046862.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18046862.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/grief-tablet-14571",
+    "card_images": [
+        {
+            "id": 18046862,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18046862.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18046862.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18046862.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

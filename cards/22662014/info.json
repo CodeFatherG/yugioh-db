@@ -1,18 +1,45 @@
 {
     "id": 22662014,
     "name": "Amazement Assistant Delia",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can reveal 1 \"Attraction\" Trap in your hand; Special Summon this card from your hand. You can send 1 \"Attraction\" Trap from your hand or face-up field to the GY; Set 1 \"Attraction\" Trap directly from your Deck to your Spell & Trap Zone. You can only use each effect of \"Amazement Assistant Delia\" once per turn.",
+    "race": "Machine",
     "atk": 1800,
     "def": 1400,
     "level": 4,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Amazement",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/22662014.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22662014.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22662014.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/amazement-assistant-delia-12100",
+    "card_sets": [
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN020",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22662014,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22662014.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22662014.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22662014.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "1.82",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

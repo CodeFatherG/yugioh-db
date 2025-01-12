@@ -2,17 +2,36 @@
     "id": 86852702,
     "name": "Machina Redeployment",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Activate 1 of these effects.\r\n\u25cf Discard 1 card; add 2 \"Machina\" monsters with different names from each other from your Deck to your hand.\r\n\u25cf Discard 1 \"Machina\" card; add 2 \"Machina\" cards with different names from each other from your Deck to your hand, except \"Machina Redeployment\".\r\nYou can only activate 1 \"Machina Redeployment\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Machina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/86852702.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86852702.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86852702.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/machina-redeployment-10898",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.9"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 86852702,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86852702.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86852702.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86852702.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.93",
+            "tcgplayer_price": "0.71",
+            "ebay_price": "2.50",
+            "amazon_price": "1.99",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

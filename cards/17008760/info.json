@@ -2,17 +2,36 @@
     "id": 17008760,
     "name": "Materiactor Annulus",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Detach 1 Xyz Material from a monster you control, then if the detached material was sent to your GY, you can Set that card to your field. You can only activate 1 \"Materiactor Annulus\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Materiactor",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17008760.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17008760.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17008760.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/materiactor-annulus-13044",
+    "card_sets": [
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.87"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17008760,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17008760.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17008760.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17008760.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

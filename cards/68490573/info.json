@@ -2,17 +2,49 @@
     "id": 68490573,
     "name": "Time to Stand Up",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If a Dragon Synchro Monster is on the field: Special Summon up to 2 monsters, that are \"Resonator\" monsters and/or Level 1 Dragon monsters, from your Deck. When a monster effect is activated, while you control a Level 10 or higher DARK Dragon Synchro Monster: You can banish this card from your GY; negate that effect, and if you do, 1 Synchro Monster you control gains 2000 ATK until the end of the next turn. You can only use each effect of \"Time to Stand Up\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68490573.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68490573.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68490573.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/time-to-stand-up-12997",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN261",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN017",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 68490573,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68490573.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68490573.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68490573.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

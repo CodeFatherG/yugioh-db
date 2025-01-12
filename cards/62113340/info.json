@@ -1,18 +1,51 @@
 {
     "id": 62113340,
     "name": "Divine Dragon Ragnarok",
+    "typeline": [
+        "Dragon",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A legendary dragon sent by the gods as their instrument. Legends say that if provoked, the whole world will sink beneath the sea.",
+    "race": "Dragon",
     "atk": 1500,
     "def": 1000,
     "level": 4,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62113340.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62113340.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62113340.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/divine-dragon-ragnarok-5255",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN122",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 62113340,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62113340.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62113340.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62113340.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.62",
+            "ebay_price": "3.00",
+            "amazon_price": "1.26",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

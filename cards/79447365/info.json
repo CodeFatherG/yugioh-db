@@ -2,17 +2,50 @@
     "id": 79447365,
     "name": "Toon Mask",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control \"Toon World\": Target 1 face-up monster your opponent controls; Special Summon 1 Toon monster from your hand or Deck, whose Level is less than or equal to the Level/Rank of that monster, ignoring its Summoning conditions.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Toon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/79447365.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79447365.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79447365.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/toon-mask-6664",
+    "card_sets": [
+        {
+            "set_name": "Dragons of Legend 2",
+            "set_code": "DRL2-EN028",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "3.02"
+        },
+        {
+            "set_name": "Dragons of Legend: The Complete Series",
+            "set_code": "DLCS-EN079",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel Starter Decks: Match of the Millennium",
+            "set_code": "SS04-ENB24",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.22"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79447365,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79447365.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79447365.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79447365.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.45",
+            "tcgplayer_price": "0.78",
+            "ebay_price": "2.97",
+            "amazon_price": "3.98",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

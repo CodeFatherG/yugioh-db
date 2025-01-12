@@ -2,17 +2,42 @@
     "id": 40366667,
     "name": "Dominus Impulse",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If your opponent controls a card, you can activate this card from your hand. When a card or effect is activated that includes an effect that Special Summons a monster(s): Negate that effect, then if you have a Trap in your GY, destroy that card. If you activated this card from your hand, you cannot activate the effects of LIGHT, EARTH, and WIND monsters for the rest of this Duel. You can only activate 1 \"Dominus Impulse\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/40366667.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40366667.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40366667.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dominus-impulse-14593",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN079",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN079",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 40366667,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40366667.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40366667.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40366667.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "41.94",
+            "tcgplayer_price": "59.03",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

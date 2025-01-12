@@ -2,17 +2,43 @@
     "id": 78679226,
     "name": "Future Silence",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Add 1 monster that mentions \"Shining Sarcophagus\" from your Deck to your hand, then, if you activated this card during the Battle Phase while you controlled \"Shining Sarcophagus\" and a monster that mentions it, each player draws until they have 6 cards in their hand. You can only activate 1 \"Future Silence\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Shining Sarcophagus",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/78679226.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78679226.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78679226.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/future-silence-14232",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN054",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN054",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 78679226,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78679226.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78679226.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78679226.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.03",
+            "tcgplayer_price": "7.47",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

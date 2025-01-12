@@ -2,17 +2,43 @@
     "id": 56465981,
     "name": "Swordsoul Emergence",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Add 1 \"Swordsoul\" monster from your Deck to your hand, or if you control a Synchro Monster, you can add 1 Wyrm monster instead. If this card is banished: You can target 1 \"Swordsoul\" monster, or Wyrm monster, you control; increase or decrease its Level by 1 until the end of this turn. You can only use each effect of \"Swordsoul Emergence\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Swordsoul",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56465981.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56465981.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56465981.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/swordsoul-emergence-12470",
+    "card_sets": [
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN053",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56465981,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56465981.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56465981.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56465981.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.82",
+            "tcgplayer_price": "6.15",
+            "ebay_price": "4.95",
+            "amazon_price": "10.12",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

@@ -2,17 +2,57 @@
     "id": 54031490,
     "name": "Shien's Smoke Signal",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Add 1 Level 3 or lower \"Six Samurai\" monster from your Deck to your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Six Samurai",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54031490.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54031490.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54031490.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shien-s-smoke-signal-4600",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 26",
+            "set_code": "OP26-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Samurai Warlords Structure Deck",
+            "set_code": "SDWA-EN030",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Spirit Warriors",
+            "set_code": "SPWA-EN015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.04"
+        },
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN048",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54031490,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54031490.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54031490.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54031490.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "1.91",
+            "amazon_price": "1.26",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

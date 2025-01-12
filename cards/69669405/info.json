@@ -1,18 +1,35 @@
 {
     "id": 69669405,
     "name": "Horn Imp",
+    "typeline": [
+        "Fiend",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A small fiend that dwells in the dark, its single horn makes it a formidable opponent.''",
+    "race": "Fiend",
     "atk": 1300,
     "def": 1000,
     "level": 4,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/69669405.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69669405.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69669405.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/horn-imp-5858",
+    "card_images": [
+        {
+            "id": 69669405,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69669405.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69669405.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69669405.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.22",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "3.00",
+            "amazon_price": "1.68",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

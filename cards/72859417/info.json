@@ -2,17 +2,36 @@
     "id": 72859417,
     "name": "Lyrilusc - Bird Sanctuary",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "You can target 2 Winged Beast Xyz Monsters you control; attach 1 of those monsters to the other as material. (Transfer its materials to that monster.) If you control an Xyz Monster with 3 or more materials: You can draw 1 card. You can only use each effect of \"Lyrilusc - Bird Sanctuary\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Lyrilusc",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/72859417.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72859417.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72859417.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lyrilusc-bird-sanctuary-12214",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Synchro Storm",
+            "set_code": "LED8-EN040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.42"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 72859417,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72859417.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72859417.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72859417.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.50",
+            "amazon_price": "0.78",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

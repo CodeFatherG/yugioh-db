@@ -1,18 +1,44 @@
 {
     "id": 54747648,
     "name": "Green Turtle Summoner",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: Target 1 monster your opponent controls; destroy it.",
+    "race": "Spellcaster",
     "atk": 400,
     "def": 1500,
     "level": 3,
-    "race": "Spellcaster",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54747648.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54747648.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54747648.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/green-turtle-summoner-4664",
+    "card_sets": [
+        {
+            "set_name": "Super Starter: Space-Time Showdown",
+            "set_code": "YS14-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54747648,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54747648.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54747648.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54747648.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

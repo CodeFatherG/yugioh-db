@@ -1,18 +1,55 @@
 {
     "id": 40177746,
     "name": "Eva",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent to the GY: You can banish up to 2 other LIGHT Fairy monsters from your field and/or GY; add the same number of Level 2 or lower LIGHT Fairy monsters with different names from your Deck to your hand, except \"Eva\". You can only use this effect of \"Eva\" once per turn.",
+    "race": "Fairy",
     "atk": 500,
     "def": 200,
     "level": 1,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/40177746.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40177746.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40177746.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/eva-8826",
+    "card_sets": [
+        {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN136",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.4"
+        },
+        {
+            "set_name": "Structure Deck: Wave of Light",
+            "set_code": "SR05-EN000",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Semi-Limited",
+        "ban_ocg": "Semi-Limited"
+    },
+    "card_images": [
+        {
+            "id": 40177746,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40177746.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40177746.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40177746.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.88",
+            "amazon_price": "0.84",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

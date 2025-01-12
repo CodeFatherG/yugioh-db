@@ -2,17 +2,49 @@
     "id": 39774685,
     "name": "Vile Germs",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "A Plant-Type monster equipped with this card increases its ATK and DEF by 300 points.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39774685.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39774685.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39774685.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vile-germs-3373",
+    "card_sets": [
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-090",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "3.21"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-E070",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "4.52"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-EN090",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "9.34"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39774685,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39774685.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39774685.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39774685.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.02",
+            "ebay_price": "1.00",
+            "amazon_price": "0.85",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

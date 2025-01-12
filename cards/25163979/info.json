@@ -2,17 +2,43 @@
     "id": 25163979,
     "name": "World Legacy's Nightmare",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "You take no battle damage from attacks involving your co-linked monsters. Once per turn: You can activate 1 of these effects;\r\n\u25cf Move 1 \"Knightmare\" monster you control to another of your Main Monster Zones.\r\n\u25cf Switch the locations of 2 \"Knightmare\" monsters in your Main Monster Zones.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Knightmare",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25163979.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25163979.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25163979.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/world-legacy-s-nightmare-9268",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25163979,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25163979.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25163979.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25163979.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

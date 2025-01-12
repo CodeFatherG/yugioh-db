@@ -1,18 +1,52 @@
 {
     "id": 12097275,
     "name": "Gouki Bearhug",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Special Summoned by the effect of a \"Gouki\" card, or Normal Summoned: You can target 1 face-up monster your opponent controls; its ATK becomes half its original ATK until the end of this turn. If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Bearhug\". You can only use each effect of \"Gouki Bearhug\" once per turn.",
+    "race": "Warrior",
     "atk": 2400,
     "def": 0,
     "level": 6,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Gouki",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12097275.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12097275.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12097275.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gouki-bearhug-9118",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12097275,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12097275.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12097275.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12097275.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

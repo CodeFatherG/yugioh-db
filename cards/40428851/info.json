@@ -1,18 +1,45 @@
 {
     "id": 40428851,
     "name": "Ancient Warriors - Virtuous Liu Xuan",
+    "typeline": [
+        "Beast-Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "While you control another \"Ancient Warriors\" monster, your opponent's monsters cannot target this card for attacks. You can only use each of the following effects of \"Ancient Warriors - Virtuous Liu Xuan\" once per turn.\r\n\u25cf If your opponent controls more monsters than you do: You can send 1 card from your hand or field to the GY; Special Summon 1 \"Ancient Warriors\" monster from your Deck, except \"Ancient Warriors - Virtuous Liu Xuan\". \u25cf When an attack is declared involving another \"Ancient Warriors\" monster you control: You can draw 1 card.",
+    "race": "Beast-Warrior",
     "atk": 1400,
     "def": 1200,
     "level": 4,
-    "race": "Beast-Warrior",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Ancient Warriors",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/40428851.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40428851.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40428851.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-warriors-virtuous-liu-xuan-10618",
+    "card_sets": [
+        {
+            "set_name": "Ignition Assault",
+            "set_code": "IGAS-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 40428851,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40428851.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40428851.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40428851.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.19",
+            "tcgplayer_price": "1.09",
+            "ebay_price": "2.99",
+            "amazon_price": "4.99",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

@@ -1,18 +1,46 @@
 {
     "id": 48958757,
     "name": "Gladiator Beast Claudius",
+    "typeline": [
+        "Beast",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "5 \"Gladiator Beast\" monsters\r\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards from your field and/or GY into the Deck/Extra Deck. If Summoned this way: You can conduct your next Battle Phase twice. Once per turn, if your opponent activates a monster effect (except during the Damage Step): You can activate the following effect depending on whose turn it is;\r\n\u25cf Yours: Special Summon 1 \"Gladiator Beast\" monster from your Deck.\r\n\u25cf Opponent's: Special Summon 1 Level 11 or lower \"Gladiator Beast\" monster from your Extra Deck, ignoring its Summoning conditions.",
+    "race": "Beast",
     "atk": 3700,
     "def": 2600,
     "level": 12,
-    "race": "Beast",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Gladiator",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48958757.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48958757.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48958757.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gladiator-beast-claudius-14789",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN038",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48958757,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48958757.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48958757.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48958757.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.43",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

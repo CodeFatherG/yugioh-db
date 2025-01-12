@@ -1,18 +1,45 @@
 {
     "id": 12890860,
     "name": "Denial Deity Dotan",
+    "typeline": [
+        "Warrior",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 LIGHT monster + 2 monsters, except on the field or in the GY\r\nThis Fusion Summoned card cannot be destroyed by battle. As long as no monsters on your field or GY share an original name with any monster on your opponent's field or GY, monsters you control cannot be destroyed by card effects. You can send from your hand, Deck, or Extra Deck to the GY, 1 monster with the same original name as a monster on your opponent's field or GY, then target 1 monster on their field or GY; banish it.",
+    "race": "Warrior",
     "atk": 3000,
     "def": 2800,
     "level": 10,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12890860.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12890860.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12890860.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/denial-deity-dotan-14735",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN087",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12890860,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12890860.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12890860.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12890860.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

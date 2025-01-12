@@ -1,18 +1,52 @@
 {
     "id": 12954226,
     "name": "Circle of the Fairies",
+    "typeline": [
+        "Plant",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nDuring your Main Phase, you can Normal Summon 1 Insect or Plant monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When a monster is destroyed by battle involving your Insect or Plant monster, and sent to the GY: You can target 1 of those destroyed monsters; inflict damage to your opponent equal to half its ATK, then gain LP equal to the damage inflicted to your opponent. You can only use this effect of \"Circle of the Fairies\" once per turn.",
+    "race": "Plant",
     "atk": 2200,
     "def": 2500,
     "level": 7,
-    "race": "Plant",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12954226.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12954226.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12954226.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/circle-of-the-fairies-13529",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN319",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12954226,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12954226.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12954226.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12954226.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

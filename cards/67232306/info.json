@@ -2,17 +2,35 @@
     "id": 67232306,
     "name": "Mirror Mail",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When a face-up monster you control is targeted for an attack: Its ATK becomes equal to that of the attacking monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/67232306.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67232306.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67232306.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mirror-mail-5650",
+    "card_sets": [
+        {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN067",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 67232306,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67232306.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67232306.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67232306.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

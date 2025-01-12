@@ -2,17 +2,43 @@
     "id": 82886276,
     "name": "Cynet Circuit",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Firewall\" Link Monster you control; Special Summon any number of monsters from your GY to either player's zones linked to that monster. If your LP are 2000 or less: You can banish this card from your GY; return 1 \"Firewall\" Link Monster from your GY to your Extra Deck, then you can Special Summon that monster from your Extra Deck. You can only use each effect of \"Cynet Circuit\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Cynet",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/82886276.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82886276.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82886276.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cynet-circuit-13600",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN349",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN069",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 82886276,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82886276.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82886276.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82886276.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "3.47",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

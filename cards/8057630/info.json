@@ -2,17 +2,36 @@
     "id": 8057630,
     "name": "Core Reinforcement",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Select and Special Summon 1 \"Koa'ki Meiru\" monster from your Graveyard in Attack Position. When that monster is destroyed during your End Phase, the controller of this card takes damage equal to that monster's ATK. When this card is removed from the field, destroy that monster. When that monster is destroyed, destroy this card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Koa'ki Meiru",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8057630.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8057630.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8057630.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/core-reinforcement-683",
+    "card_sets": [
+        {
+            "set_name": "Ancient Prophecy",
+            "set_code": "ANPR-EN073",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8057630,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8057630.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8057630.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8057630.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

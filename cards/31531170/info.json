@@ -2,17 +2,42 @@
     "id": 31531170,
     "name": "Harmonic Oscillation",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "If your opponent has 2 cards in their Pendulum Zones: Target those 2 cards; while both targets are in their Pendulum Zones, you can Pendulum Summon using their Pendulum Scales this turn, but only from the Extra Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31531170.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31531170.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31531170.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/harmonic-oscillation-2675",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossed Souls",
+            "set_code": "CROS-EN063",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31531170,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31531170.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31531170.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31531170.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

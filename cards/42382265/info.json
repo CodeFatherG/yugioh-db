@@ -1,18 +1,40 @@
 {
     "id": 42382265,
     "name": "D/D Scale Surveyor",
+    "typeline": [
+        "Fiend",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nDuring the Standby Phase: You can target up to 2 cards in the Pendulum Zone; their Pendulum Scales become 0 until the end of this turn. You can only use this effect of \"D/D Scale Surveyor\" once per turn.\n\n[ Monster Effect ] \nIf you control a \"D/D\" Pendulum Monster Card: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can make its Level become 4. If this card is sent to the GY or added to the Extra Deck face-up: You can target 1 \"D/D\" Pendulum Monster Card you control; return it to the hand. You can only use each monster effect of \"D/D Scale Surveyor\" once per turn.",
+    "race": "Fiend",
+    "pend_desc": "During the Standby Phase: You can target up to 2 cards in the Pendulum Zone; their Pendulum Scales become 0 until the end of this turn. You can only use this effect of \"D/D Scale Surveyor\" once per turn.",
+    "monster_desc": "If you control a \"D/D\" Pendulum Monster Card: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can make its Level become 4. If this card is sent to the GY or added to the Extra Deck face-up: You can target 1 \"D/D\" Pendulum Monster Card you control; return it to the hand. You can only use each monster effect of \"D/D Scale Surveyor\" once per turn.",
     "atk": 0,
     "def": 1000,
     "level": 2,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": 9,
     "archetype": "D/D",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42382265.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42382265.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42382265.jpg"
+    "scale": 9,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-scale-surveyor-14845",
+    "card_images": [
+        {
+            "id": 42382265,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42382265.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42382265.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42382265.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

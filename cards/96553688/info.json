@@ -1,18 +1,44 @@
 {
     "id": 96553688,
     "name": "Phoenixian Seed",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can send this face-up card to the Graveyard to Special Summon 1 \"Phoenixian Cluster Amaryllis\" from your hand.",
+    "race": "Plant",
     "atk": 800,
     "def": 0,
     "level": 2,
-    "race": "Plant",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96553688.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96553688.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96553688.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/phoenixian-seed-8032",
+    "card_sets": [
+        {
+            "set_name": "Raging Battle",
+            "set_code": "RGBT-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96553688,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96553688.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96553688.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96553688.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "1.02",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

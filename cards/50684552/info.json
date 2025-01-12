@@ -2,17 +2,43 @@
     "id": 50684552,
     "name": "Wonder Garage",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When this face-down card is destroyed and sent to the Graveyard, you can Special Summon 1 Level 4 or lower Machine-Type \"roid\" monster from your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Roid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50684552.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50684552.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50684552.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wonder-garage-4316",
+    "card_sets": [
+        {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENB19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50684552,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50684552.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50684552.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50684552.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

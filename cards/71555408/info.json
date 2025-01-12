@@ -1,18 +1,52 @@
 {
     "id": 71555408,
     "name": "Gouki Iron Claw",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Damage Step, when your \"Gouki\" monster battles an opponent's monster (Quick Effect): You can send this card from your hand to the GY; until the end of this turn, your monster gains 500 ATK, and if it does, it is unaffected by your opponent's card effects. If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Iron Claw\". You can only use each effect of \"Gouki Iron Claw\" once per turn.",
+    "race": "Warrior",
     "atk": 1000,
     "def": 0,
     "level": 2,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Gouki",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71555408.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71555408.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71555408.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gouki-iron-claw-10855",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.01"
+        },
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71555408,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71555408.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71555408.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71555408.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.73",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 76766706,
     "name": "Chaos Seed",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "If you control both LIGHT and DARK monster(s): You can target 1 of your banished LIGHT or DARK Warrior-Type monsters; add it to your hand. You can only activate 1 \"Chaos Seed\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Chaos",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/76766706.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76766706.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76766706.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chaos-seed-6459",
+    "card_sets": [
+        {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN092",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 76766706,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76766706.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76766706.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76766706.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

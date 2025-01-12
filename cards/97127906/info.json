@@ -1,18 +1,45 @@
 {
     "id": 97127906,
     "name": "Alien Shocktrooper",
+    "typeline": [
+        "Reptile",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "The Aliens have used a mysterious biological substance to create a supreme race of soldiers. They do not have the natural powers of the other Aliens, but can make stunning physical attacks.",
+    "race": "Reptile",
     "atk": 1900,
     "def": 800,
     "level": 4,
-    "race": "Reptile",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Alien",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/97127906.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97127906.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97127906.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/alien-shocktrooper-8080",
+    "card_sets": [
+        {
+            "set_name": "Tactical Evolution",
+            "set_code": "TAEV-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 97127906,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97127906.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97127906.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97127906.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.46",
+            "ebay_price": "0.99",
+            "amazon_price": "2.17",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

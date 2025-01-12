@@ -2,17 +2,27 @@
     "id": 101206080,
     "name": "Fireworks Celebration",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate this card by placing 5 Celebration Counters on it. If a monster(s) is Special Summoned from the Extra Deck, and/or a card(s) is sent from the Deck to the GY, by a Spell/Trap effect: Remove 1 Celebration Counter from this card, then, if there are no Celebration Counters on it, destroy it, and if you do, gain 4000 LP, then Set 1 \"Celebration\" Trap from your Deck or GY, then, if you have 1 or less cards in your Deck, you win the Duel.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Celebration",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/101206080.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101206080.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101206080.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fireworks-celebration-14650",
+    "card_images": [
+        {
+            "id": 101206080,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101206080.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101206080.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101206080.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

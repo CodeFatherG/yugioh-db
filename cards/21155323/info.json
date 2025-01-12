@@ -1,18 +1,45 @@
 {
     "id": 21155323,
     "name": "Goggle Golem",
+    "typeline": [
+        "Rock",
+        "Gemini",
+        "Effect"
+    ],
     "type": "Gemini Monster",
+    "humanReadableCardType": "Gemini Effect Monster",
+    "frameType": "effect",
     "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n\u25cf The original ATK of this card becomes 2100.",
+    "race": "Rock",
     "atk": 1500,
     "def": 500,
     "level": 4,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21155323.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21155323.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21155323.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/goggle-golem-1817",
+    "card_sets": [
+        {
+            "set_name": "Tactical Evolution",
+            "set_code": "TAEV-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21155323,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21155323.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21155323.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21155323.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

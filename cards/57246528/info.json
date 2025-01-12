@@ -2,17 +2,35 @@
     "id": 57246528,
     "name": "Synchro Transcend",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 Synchro Monster your opponent controls; Special Summon 1 Synchro Monster that is 1 Level higher than it from your Extra Deck, but it cannot activate its effects this turn. You can only activate 1 \"Synchro Transcend\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57246528.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57246528.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57246528.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/synchro-transcend-9929",
+    "card_sets": [
+        {
+            "set_name": "Duel Overload",
+            "set_code": "DUOV-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.32"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57246528,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57246528.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57246528.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57246528.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.25",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

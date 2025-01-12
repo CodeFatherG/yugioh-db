@@ -2,17 +2,43 @@
     "id": 83558891,
     "name": "Scareclaw Arrival",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Scareclaw\" monster or \"Visas Starfrost\" in your GY; Special Summon it in Defense Position. If a \"Scareclaw\" Link Monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use this effect of \"Scareclaw Arrival\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Scareclaw",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83558891.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83558891.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83558891.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/scareclaw-arrival-13028",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN097",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN059",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83558891,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83558891.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83558891.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83558891.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

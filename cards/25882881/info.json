@@ -1,18 +1,35 @@
 {
     "id": 25882881,
     "name": "Dokuroizo the Grim Reaper",
+    "typeline": [
+        "Zombie",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A messenger of doom that steals a soul with a single blow.''",
+    "race": "Zombie",
     "atk": 900,
     "def": 1200,
     "level": 3,
-    "race": "Zombie",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25882881.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25882881.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25882881.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dokuroizo-the-grim-reaper-2232",
+    "card_images": [
+        {
+            "id": 25882881,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25882881.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25882881.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25882881.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.06",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "4.00",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 14972952,
     "name": "Vaalmonica Ereditare",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "When a Spell/Trap Card, or monster effect, is activated while you control a \"Vaalmonica\" Link Monster: Negate the activation, and if you do, destroy that card. You can banish this card from your GY; shuffle into the Deck, \"Vaalmonica\" cards from your face-up Extra Deck, GY, and/or banishment, except \"Vaalmonica Ereditare\", up to the number of Resonance Counters on your field, then you can draw 1 card for every 3 cards shuffled. You can only use 1 \"Vaalmonica Ereditare\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
     "archetype": "Vaalmonica",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14972952.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14972952.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14972952.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vaalmonica-ereditare-14628",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14972952,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14972952.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14972952.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14972952.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

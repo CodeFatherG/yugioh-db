@@ -2,17 +2,35 @@
     "id": 300202007,
     "name": "Aroma Strategy",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Mai",
+    "frameType": "skill",
     "desc": "[At the start of the Duel, flip this card over.] \r\n\r\nYou may look at the top card of your Deck at any time.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Mai",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300202007.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300202007.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300202007.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/aroma-strategy-10091",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel Starter Decks: Duelists of Tomorrow",
+            "set_code": "SS02-ENCS1",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300202007,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300202007.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300202007.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300202007.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

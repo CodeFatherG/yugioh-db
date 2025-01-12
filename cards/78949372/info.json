@@ -2,17 +2,36 @@
     "id": 78949372,
     "name": "Majespecter Supercell",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "While you have a \"Majespecter\" card in your Pendulum Zone, the activation and effects of other \"Majespecter\" cards activated on your side of the field cannot be negated. Once per turn: You can target 5 \"Majespecter\" cards in your Graveyard; shuffle all 5 into the Deck, then draw 1 card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Majespecter",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/78949372.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78949372.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78949372.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/majespecter-supercell-6634",
+    "card_sets": [
+        {
+            "set_name": "Breakers of Shadow",
+            "set_code": "BOSH-EN074",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 78949372,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78949372.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78949372.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78949372.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

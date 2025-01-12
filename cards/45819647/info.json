@@ -1,14 +1,20 @@
 {
     "id": 45819647,
     "name": "Selene, Queen of the Master Magicians",
+    "typeline": [
+        "Spellcaster",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ monsters, including a Spellcaster monster\r\nIf this card is Link Summoned: Place Spell Counters on this card, equal to the number of Spells on the field and in the GYs. While an \"Endymion\" card(s) is on the field, your opponent's monsters cannot target this card for attacks. Once per turn, during the Main Phase (Quick Effect): You can remove 3 Spell Counters from your field; Special Summon 1 Spellcaster monster from your hand or GY in Defense Position, to your zone this card points to.",
+    "race": "Spellcaster",
     "atk": 1850,
     "def": null,
     "level": null,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Endymion",
     "linkval": 3,
     "linkmarkers": [
@@ -16,7 +22,52 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/45819647.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45819647.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45819647.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/selene-queen-of-the-master-magicians-10696",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN047",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN092",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duel Overload",
+            "set_code": "DUOV-EN014",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "41.84"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45819647,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45819647.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45819647.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45819647.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "5.95",
+            "amazon_price": "44.97",
+            "coolstuffinc_price": "7.99"
+        }
+    ]
 }

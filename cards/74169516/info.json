@@ -1,18 +1,45 @@
 {
     "id": 74169516,
     "name": "Golem that Guards the Millennium Treasures",
+    "typeline": [
+        "Rock",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "The activation of your \"Millennium Ankh\" cannot be negated. You can only use each of the following effects of \"Golem that Guards the Millennium Treasures\" once per turn. If this card is in your hand: You can place it in your Spell & Trap Zone as a face-up Continuous Spell. While this card is a Continuous Spell: You can either pay 2000 LP, or reveal 1 \"Millennium Ankh\" in your hand; Special Summon this card, then you can add 1 \"Wedju Temple\" from your Deck to your hand.",
+    "race": "Rock",
     "atk": 2000,
     "def": 2200,
     "level": 6,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Millennium",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74169516.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74169516.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74169516.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/golem-that-guards-the-millennium-treasures-14383",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 74169516,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74169516.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74169516.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74169516.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

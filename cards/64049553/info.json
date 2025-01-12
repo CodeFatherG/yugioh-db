@@ -2,17 +2,36 @@
     "id": 64049553,
     "name": "Raidraptor - Roost",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "If a \"Raidraptor\" monster(s) is Special Summoned from the Extra Deck to your field (except during the Damage Step): You can add 1 \"Raidraptor\" Spell/Trap from your Deck to your hand, except \"Raidraptor - Roost\". You can target 3 of your \"Raidraptor\" monsters that are banished and/or in your GY; place them on the bottom of your Deck in any order, then draw 1 card. You can only use each effect of \"Raidraptor - Roost\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Raidraptor",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64049553.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64049553.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64049553.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/raidraptor-roost-14212",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64049553,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64049553.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64049553.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64049553.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

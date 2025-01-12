@@ -2,17 +2,56 @@
     "id": 596051,
     "name": "Snake Fang",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Decrease 1 selected monster's DEF by 500 points during the turn this card is activated.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/596051.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/596051.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/596051.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/snake-fang-56",
+    "card_sets": [
+        {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+        },
+        {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-E050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "8.21"
+        },
+        {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.71"
+        },
+        {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.74"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 596051,
+            "image_url": "https://images.ygoprodeck.com/images/cards/596051.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/596051.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/596051.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "1.00",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

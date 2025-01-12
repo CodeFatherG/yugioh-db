@@ -1,18 +1,45 @@
 {
     "id": 17679043,
     "name": "Penguin Torpedo",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card can attack directly. When this card inflicts battle damage to your opponent: You can target 1 Level 6 or lower monster your opponent controls; take control of it until the End Phase, but its effects are negated, also it cannot declare an attack, while you control it. You can only use this effect of \"Penguin Torpedo\" once per turn. At the end of the Damage Step, if this card attacked: Destroy this card.",
+    "race": "Aqua",
     "atk": 550,
     "def": 300,
     "level": 3,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Penguin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17679043.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17679043.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17679043.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/penguin-torpedo-11185",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.39"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17679043,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17679043.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17679043.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17679043.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.96",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

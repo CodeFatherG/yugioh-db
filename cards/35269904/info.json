@@ -2,17 +2,105 @@
     "id": 35269904,
     "name": "Triple Tactics Thrust",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "If your opponent has activated a monster effect during this turn: Set 1 Normal Spell/Trap directly from your Deck, except \"Triple Tactics Thrust\", or if your opponent controls a monster, you can add it to your hand instead. That Set card cannot be activated this turn. You can only activate 1 \"Triple Tactics Thrust\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35269904.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35269904.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35269904.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/triple-tactics-thrust-13534",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN073",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN084",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 22",
+            "set_code": "OP22-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN069",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN072",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN072",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN072",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN072",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN072",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN072",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN072",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35269904,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35269904.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35269904.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35269904.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.90",
+            "tcgplayer_price": "9.04",
+            "ebay_price": "61.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "89.99"
+        }
+    ]
 }

@@ -1,18 +1,53 @@
 {
     "id": 16955631,
     "name": "Giant Mimighoul",
+    "typeline": [
+        "Rock",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 1 monsters\r\nYour non-Xyz \"Mimighoul\" monsters can attack directly while your opponent controls a face-down monster. You can only use each of the following effects of \"Giant Mimighoul\" once per turn. If this card is Xyz Summoned: You can add 1 \"Mimighoul\" card from your Deck to your hand. You can detach 1 material from this card, then target face-up cards on the field up to the number of face-down monsters your opponent controls; destroy them, and if you do, inflict 1000 damage to your opponent for each card destroyed.",
+    "race": "Rock",
     "atk": 1300,
     "def": 2000,
     "level": 1,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Mimighoul",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16955631.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16955631.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16955631.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/giant-mimighoul-14736",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN093",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN093",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16955631,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16955631.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16955631.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16955631.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.47",
+            "tcgplayer_price": "2.65",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

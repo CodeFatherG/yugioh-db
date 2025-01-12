@@ -2,17 +2,43 @@
     "id": 4160316,
     "name": "Centur-Ion Bonds",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Place 1 \"Centur-Ion\" monster from your hand or GY in your Spell & Trap Zone as a face-up Continuous Trap. If a \"Centur-Ion\" Synchro Monster(s) is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can banish this card, then target 1 \"Centur-Ion\" monster in your GY; place it in your Spell & Trap Zone as a face-up Continuous Trap. You can only use each effect of \"Centur-Ion Bonds\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Centur-Ion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4160316.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4160316.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4160316.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/centur-ion-bonds-14125",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN300",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN022",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4160316,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4160316.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4160316.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4160316.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

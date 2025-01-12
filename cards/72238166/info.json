@@ -1,18 +1,52 @@
 {
     "id": 72238166,
     "name": "Node Ryzeal",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you have an Xyz Monster in your field or GY, you can Special Summon this card (from your hand). If Summoned this way, you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Xyz Monsters. You can only Special Summon \"Node Ryzeal\" once per turn this way. You can send 1 card from your hand or field to the GY, then target 1 \"Ryzeal\" monster in your GY, except \"Node Ryzeal\"; Special Summon it in Defense Position, but negate its effects. You can only use this effect of \"Node Ryzeal\" once per turn.",
+    "race": "Thunder",
     "atk": 1400,
     "def": 1600,
     "level": 4,
-    "race": "Thunder",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Ryzeal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/72238166.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72238166.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72238166.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/node-ryzeal-14638",
+    "card_sets": [
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN002",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 72238166,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72238166.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72238166.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72238166.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

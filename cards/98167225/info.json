@@ -2,17 +2,36 @@
     "id": 98167225,
     "name": "Vaalmonica Creation",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "While you have 6 or more Resonance Counters on your field, \"Vaalmonica\" Link Monsters you control gain 1200 ATK. You can only use each of the following effects of \"Vaalmonica Creation\" once per turn. If your opponent Special Summons a monster(s), you can (except during the Damage Step): Immediately after this effect resolves, Link Summon 1 \"Vaalmonica\" Link Monster. If this card is sent from the hand or field to the GY: You can place Resonance Counters on 1 card in your Pendulum Zone that you can place a Resonance Counter on, so it has 3 Resonance Counters.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Vaalmonica",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98167225.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98167225.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98167225.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vaalmonica-creation-14468",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98167225,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98167225.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98167225.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98167225.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

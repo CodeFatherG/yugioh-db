@@ -1,18 +1,46 @@
 {
     "id": 13857930,
     "name": "Neo-Spacian Twinkle Moss",
+    "typeline": [
+        "Plant",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "This card's name is also treated as \"Neo-Spacian Glow Moss\". This card cannot be Special Summoned except with \"NEX\". When this card attacks or is attacked, draw 1 card. Reveal that card, and based on its type apply the proper effect: \u25cf Monster: End the Battle Phase. \u25cf Spell: You can change this card's attack to a direct attack. \u25cf Trap: This monster is changed to Defense Position.",
+    "race": "Plant",
     "atk": 500,
     "def": 1100,
     "level": 4,
-    "race": "Plant",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Neo-Spacian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/13857930.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13857930.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13857930.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/neo-spacian-twinkle-moss-1188",
+    "card_sets": [
+        {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 13857930,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13857930.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13857930.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13857930.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.53",
+            "ebay_price": "1.55",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

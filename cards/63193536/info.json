@@ -2,17 +2,35 @@
     "id": 63193536,
     "name": "Over Capacity",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When your opponent Special Summons a monster: Banish all face-up Level 2 or lower monsters on the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/63193536.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63193536.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63193536.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/over-capacity-5335",
+    "card_sets": [
+        {
+            "set_name": "Order of Chaos",
+            "set_code": "ORCS-EN077",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 63193536,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63193536.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63193536.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63193536.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

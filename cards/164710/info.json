@@ -2,17 +2,49 @@
     "id": 164710,
     "name": "Mischief of the Gnomes",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "This turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set). You can banish this card from the Graveyard; this turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set).",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/164710.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/164710.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/164710.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mischief-of-the-gnomes-16",
+    "card_sets": [
+        {
+            "set_name": "Machine Reactor Structure Deck",
+            "set_code": "SR03-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 21",
+            "set_code": "OP21-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN081",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 164710,
+            "image_url": "https://images.ygoprodeck.com/images/cards/164710.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/164710.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/164710.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.46",
+            "ebay_price": "1.99",
+            "amazon_price": "5.99",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

@@ -1,18 +1,46 @@
 {
     "id": 74615388,
     "name": "Laevatein, Generaider Boss of Shadows",
+    "typeline": [
+        "Fairy",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 9 monsters\r\nYou can only control 1 \"Laevatein, Generaider Boss of Shadows\". Monsters your opponent controls lose 1000 ATK/DEF. (Quick Effect): You can Tribute this Xyz Summoned card; Special Summon 1 non-Fairy \"Generaider\" Xyz Monster from your Extra Deck, then you can attach cards from any field and/or GYs to that Special Summoned monster as material, up to the number of materials this card had.",
+    "race": "Fairy",
     "atk": 2500,
     "def": 2500,
     "level": 9,
-    "race": "Fairy",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Generaider",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74615388.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74615388.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74615388.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/laevatein-generaider-boss-of-shadows-13491",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 74615388,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74615388.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74615388.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74615388.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.44",
+            "tcgplayer_price": "1.70",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "11.99"
+        }
+    ]
 }

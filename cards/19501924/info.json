@@ -2,17 +2,35 @@
     "id": 19501924,
     "name": "Pendulum Transfer",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target up to 2 Pendulum Monsters you control; place those targets in your Pendulum Zones. You can only activate 1 \"Pendulum Transfer\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19501924.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19501924.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19501924.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pendulum-transfer-10791",
+    "card_sets": [
+        {
+            "set_name": "King's Court",
+            "set_code": "KICO-EN022",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.16"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19501924,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19501924.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19501924.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19501924.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "44.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 13927359,
     "name": "Raidraptor - Glorious Bright",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control a \"Raidraptor\" monster: Target 1 face-up monster your opponent controls, or if you control a \"Raidraptor\" Xyz Monster, you can target 1 face-up card your opponent controls; negate that card's effects until the end of this turn. You can banish this card from your GY, then target 1 of your \"Raidraptor\" monsters that is banished or in your GY; add it to your hand. You can only use 1 \"Raidraptor - Glorious Bright\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Raidraptor",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/13927359.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13927359.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13927359.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/raidraptor-glorious-bright-14207",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN074",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 13927359,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13927359.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13927359.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13927359.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

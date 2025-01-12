@@ -2,17 +2,43 @@
     "id": 77765207,
     "name": "Emblema Oath",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Activate 1 of these effects;\r\n\u25cf Place 1 \"Centur-Ion\" monster from your Deck in your Spell & Trap Zone as a face-up Continuous Trap. For the rest of this turn, while you control that card, or any card with that same original name, you cannot Special Summon from the Extra Deck, except \"Centur-Ion\" monsters.\r\n\u25cf Set 1 \"Centur-Ion\" Spell/Trap directly from your Deck.\r\nYou can only activate 1 \"Emblema Oath\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Centur-Ion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77765207.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77765207.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77765207.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/emblema-oath-14130",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN146",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN021",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 77765207,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77765207.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77765207.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77765207.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "10.38",
+            "tcgplayer_price": "9.77",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "39.99"
+        }
+    ]
 }

@@ -1,18 +1,101 @@
 {
     "id": 25550531,
     "name": "Purrely",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can excavate the top 3 cards of your Deck, and if you do, you can add 1 excavated \"Purrely\" Spell/Trap to your hand, also place the rest on the bottom of the Deck in any order. Once per turn: You can reveal 1 \"Purrely\" Quick-Play Spell in your hand, and if you do, Special Summon 1 Xyz Monster that mentions it from your Extra Deck, by using this face-up card you control as material, and if you do, attach the revealed card to the Summoned monster as additional material. (This is treated as an Xyz Summon.)",
+    "race": "Fairy",
     "atk": 100,
     "def": 100,
     "level": 1,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Purrely",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25550531.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25550531.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25550531.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/purery-13446",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN018",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN018",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN018",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN018",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN018",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN018",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN018",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN013",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN013",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25550531,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25550531.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25550531.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25550531.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "23.99"
+        }
+    ]
 }

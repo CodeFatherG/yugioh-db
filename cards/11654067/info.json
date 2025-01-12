@@ -2,17 +2,36 @@
     "id": 11654067,
     "name": "Fire Ejection",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Send 1 Pyro monster from your Deck to the GY, then, if you sent a \"Volcanic\" monster to the GY, you can apply 1 of these effects.\r\n\u25cf Inflict damage to your opponent equal to its Level x 100.\r\n\u25cf Special Summon 1 \"Bomb Token\" (Pyro/FIRE/Level 1/ATK 1000/DEF 1000) to your opponent's field. Each time 1 is destroyed, its controller takes 500 damage.\r\nYou can only activate 1 \"Fire Ejection\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Volcanic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/11654067.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11654067.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11654067.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fire-ejection-13841",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN022",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 11654067,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11654067.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11654067.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11654067.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.55",
+            "tcgplayer_price": "0.52",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

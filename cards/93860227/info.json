@@ -1,18 +1,45 @@
 {
     "id": 93860227,
     "name": "Necroquip Princess",
+    "typeline": [
+        "Fiend",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 monster equipped with a Monster Card + 1 Fiend Monster Card\r\nMust be Special Summoned (from your Extra Deck) by sending the above cards from your hand and/or field to the GY. You can only control 1 \"Necroquip Princess\". If a monster(s) is sent from the hand to the GY to activate a card or effect: You can activate 1 of these effects;\r\n\u25cf Equip 1 of those monsters to this card as an Equip Spell that gives it 500 ATK.\r\n\u25cf Draw 1 card.\r\nYou can only use this effect of \"Necroquip Princess\" once per turn.",
+    "race": "Fiend",
     "atk": 2000,
     "def": 2000,
     "level": 6,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93860227.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93860227.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93860227.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/necroquip-princess-14609",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN085",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93860227,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93860227.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93860227.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93860227.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

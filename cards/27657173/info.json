@@ -1,18 +1,52 @@
 {
     "id": 27657173,
     "name": "Red-Eyes Black Meteor Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can send 1 Level 5 or higher Normal Monster from your hand or Deck to the GY; Special Summon this card from your hand, then increase its Level by 1. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 \"Red-Eyes Fusion\" from your Deck or GY to your hand. You can only use each effect of \"Red-Eyes Black Meteor Dragon\" once per turn.",
+    "race": "Dragon",
     "atk": 2000,
     "def": 2000,
     "level": 6,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Red-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27657173.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27657173.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27657173.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/red-eyes-black-meteor-dragon-13091",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN107",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN095",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27657173,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27657173.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27657173.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27657173.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.19",
+            "tcgplayer_price": "1.85",
+            "ebay_price": "9.95",
+            "amazon_price": "11.99",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

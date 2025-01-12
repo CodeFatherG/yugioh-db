@@ -1,18 +1,52 @@
 {
     "id": 5182107,
     "name": "Superheavy Samurai Security",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add 1 face-up Machine Pendulum Monster from your Extra Deck to your hand. If you have no Spells/Traps in your GY: You can Tribute this card; Special Summon 1 EARTH Machine monster with 1500 or less ATK from your hand or GY, except \"Superheavy Samurai Security\". You can only use each effect of \"Superheavy Samurai Security\" once per turn.",
+    "race": "Machine",
     "atk": 500,
     "def": 1500,
     "level": 4,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Superheavy Samurai",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5182107.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5182107.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5182107.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/superheavy-samurai-security-13722",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN231",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN097",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5182107,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5182107.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5182107.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5182107.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,42 @@
     "id": 20727787,
     "name": "Disarmament",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Destroy all Equip Cards on the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/20727787.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20727787.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20727787.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/disarmament-1781",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN157",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magician's Force",
+            "set_code": "MFC-102",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.44"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 20727787,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20727787.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20727787.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20727787.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "4.50",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 300302005,
     "name": "Fury of Thunder",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Yami Yugi",
+    "frameType": "skill",
     "desc": "Activate the following Skill(s).\r\n\u25cf During your Main Phase, while you control \"Slifer the Sky Dragon\", draw until you have 4 cards in your hand.\r\n\u25cf If \"Slifer the Sky Dragon\" is sent to the GY, you can shuffle it back into your Deck.\r\nEach of these Skills can only be used once per Duel.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Yami Yugi",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302005.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302005.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302005.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fury-of-thunder-11775",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-ENS01",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302005,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302005.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302005.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302005.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "7.79",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

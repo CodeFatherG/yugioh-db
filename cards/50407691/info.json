@@ -1,18 +1,63 @@
 {
     "id": 50407691,
     "name": "Igknight Margrave",
+    "typeline": [
+        "Warrior",
+        "Pendulum",
+        "Normal"
+    ],
     "type": "Pendulum Normal Monster",
+    "humanReadableCardType": "Pendulum Normal Monster",
+    "frameType": "normal_pendulum",
     "desc": "[ Pendulum Effect ] \nIf you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n\n[ Monster Effect ] \n''A high-ranking Igknight warrior. When he does enter the fray, his sweeping attacks are feared not just by the enemy but also his own troops.''",
+    "race": "Warrior",
+    "pend_desc": "If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.",
+    "monster_desc": "''A high-ranking Igknight warrior. When he does enter the fray, his sweeping attacks are feared not just by the enemy but also his own troops.''",
     "atk": 1500,
     "def": 2500,
     "level": 5,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": 7,
     "archetype": "Igknight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50407691.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50407691.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50407691.jpg"
+    "scale": 7,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/igknight-margrave-4293",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Astral Pack Eight",
+            "set_code": "AP08-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Clash of Rebellions",
+            "set_code": "CORE-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50407691,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50407691.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50407691.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50407691.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

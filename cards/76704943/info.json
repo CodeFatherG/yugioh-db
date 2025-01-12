@@ -1,18 +1,35 @@
 {
     "id": 76704943,
     "name": "Yamatano Dragon Scroll",
+    "typeline": [
+        "Dragon",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A dragon conjured from the very scroll in which it was depicted.''",
+    "race": "Dragon",
     "atk": 900,
     "def": 300,
     "level": 2,
-    "race": "Dragon",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/76704943.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76704943.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76704943.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/yamatano-dragon-scroll-6453",
+    "card_images": [
+        {
+            "id": 76704943,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76704943.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76704943.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76704943.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "10.00",
+            "amazon_price": "7.69",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

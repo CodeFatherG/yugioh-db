@@ -1,18 +1,45 @@
 {
     "id": 58363151,
     "name": "S-Force Pla-Tina",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Each of your opponent's monsters in the same column as one of your \"S-Force\" monsters loses 600 ATK. If this card is Normal or Special Summoned: You can target 1 of your banished \"S-Force\" monsters, except \"S-Force Pla-Tina\"; Special Summon it. You can only use this effect of \"S-Force Pla-Tina\" once per turn.",
+    "race": "Spellcaster",
     "atk": 2200,
     "def": 2000,
     "level": 6,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "S-Force",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58363151.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58363151.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58363151.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/s-force-pla-tina-11622",
+    "card_sets": [
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN015",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58363151,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58363151.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58363151.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58363151.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.37",
+            "ebay_price": "1.57",
+            "amazon_price": "46.55",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

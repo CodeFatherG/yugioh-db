@@ -1,18 +1,35 @@
 {
     "id": 98075147,
     "name": "Spiked Snail",
+    "typeline": [
+        "Insect",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A very fast, bipedal snail with a pair of lethal arms.''",
+    "race": "Insect",
     "atk": 700,
     "def": 1300,
     "level": 3,
-    "race": "Insect",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98075147.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98075147.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98075147.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spiked-snail-8150",
+    "card_images": [
+        {
+            "id": 98075147,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98075147.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98075147.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98075147.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "20.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

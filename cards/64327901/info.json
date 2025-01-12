@@ -2,17 +2,43 @@
     "id": 64327901,
     "name": "Goblin Biker Grand Bash",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "\"Goblin\" monsters you control gain 300 ATK for each \"Goblin\" monster you control. During your Main Phase, you can Normal Summon 1 \"Goblin\" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can target 2 \"Goblin\" monsters you control, then activate 1 of these effects;\r\n\u25cf Make the Level of 1 of the monsters become the current Level of the other.\r\n\u25cf Both of their Levels become their combined original Levels.\r\nYou can only use this effect of \"Goblin Biker Grand Bash\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Goblin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64327901.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64327901.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64327901.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/goblin-biker-grand-bash-14180",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN060",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN060",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64327901,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64327901.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64327901.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64327901.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.50",
+            "tcgplayer_price": "0.44",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

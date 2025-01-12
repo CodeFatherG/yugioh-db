@@ -2,17 +2,77 @@
     "id": 25311006,
     "name": "Triple Tactics Talent",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "If your opponent has activated a monster effect during your Main Phase this turn: Activate 1 of these effects;\r\n\u25cf Draw 2 cards.\r\n\u25cf Take control of 1 monster your opponent controls until the End Phase.\r\n\u25cf Look at your opponent's hand, and choose 1 card from it to shuffle into the Deck.\r\nYou can only activate 1 \"Triple Tactics Talent\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25311006.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25311006.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25311006.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/triple-tactics-talent-11112",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN143",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN063",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN063",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN090",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN090",
+            "set_rarity": "Ultra Rare (Pharaoh's Rare)",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN062",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN062",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25311006,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25311006.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25311006.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25311006.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.31",
+            "tcgplayer_price": "8.93",
+            "ebay_price": "9.99",
+            "amazon_price": "59.88",
+            "coolstuffinc_price": "13.99"
+        }
+    ]
 }

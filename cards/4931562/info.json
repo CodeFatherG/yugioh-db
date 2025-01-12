@@ -1,18 +1,35 @@
 {
     "id": 4931562,
     "name": "Mountain Warrior",
+    "typeline": [
+        "Beast-Warrior",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A tough warrior that can move smoothly on even the roughest terrain.",
+    "race": "Beast-Warrior",
     "atk": 600,
     "def": 1000,
     "level": 3,
-    "race": "Beast-Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4931562.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4931562.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4931562.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mountain-warrior-441",
+    "card_images": [
+        {
+            "id": 4931562,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4931562.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4931562.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4931562.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "5.11",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

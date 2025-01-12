@@ -1,18 +1,46 @@
 {
     "id": 6568731,
     "name": "Glacial Beast Iceberg Narwhal",
+    "typeline": [
+        "Aqua",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner WATER monsters\r\nEach time another monster(s) you control is destroyed by your opponent's attack or card effect: Inflict 600 damage to your opponent. During the Battle Phase, when your opponent activates a card or effect while you control another monster (Quick Effect): You can negate that effect, and if you do, destroy that card. You can only use this effect of \"Glacial Beast Iceberg Narwhal\" once per turn.",
+    "race": "Aqua",
     "atk": 2700,
     "def": 1600,
     "level": 7,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Glacial Beast",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6568731.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6568731.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6568731.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/glacial-beast-iceberg-narwhal-11079",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN033",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.52"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6568731,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6568731.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6568731.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6568731.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.41",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.91",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

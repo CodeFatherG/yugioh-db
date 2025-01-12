@@ -1,18 +1,53 @@
 {
     "id": 2203790,
     "name": "XX-Saber Hyunlei",
+    "typeline": [
+        "Warrior",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nWhen this card is Synchro Summoned, you can select and destroy up to 3 Spell or Trap Cards on the field.",
+    "race": "Warrior",
     "atk": 2300,
     "def": 1300,
     "level": 6,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "X-Saber",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2203790.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2203790.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2203790.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/xx-saber-hyunlei-198",
+    "card_sets": [
+        {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN044",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN044",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2203790,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2203790.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2203790.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2203790.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "9.44",
+            "tcgplayer_price": "23.31",
+            "ebay_price": "29.95",
+            "amazon_price": "40.15",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

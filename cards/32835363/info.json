@@ -2,17 +2,35 @@
     "id": 32835363,
     "name": "Cracking",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Once per turn, when a monster(s) is sent from the field to the Graveyard by a card effect: Inflict 800 damage to the owner of the monster(s).",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32835363.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32835363.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32835363.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cracking-2796",
+    "card_sets": [
+        {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32835363,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32835363.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32835363.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32835363.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

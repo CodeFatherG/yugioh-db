@@ -1,18 +1,45 @@
 {
     "id": 6180710,
     "name": "Dream Shark",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "The first time this card would be destroyed by battle each turn, it is not destroyed. You can only use each of the following effects of \"Dream Shark\" once per turn. If you control no monsters, or if all monsters you control are WATER: You can Special Summon this card from your hand. When a card or effect that would inflict damage to you is activated, while this card is in your GY (except during the Damage Step): You can Special Summon this card, and if you do, make that effect damage to you 0. If Summoned this way, it loses 1000 DEF, also banish it when it leaves the field.",
+    "race": "Fish",
     "atk": 0,
     "def": 2600,
     "level": 5,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Shark",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6180710.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6180710.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6180710.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dream-shark-13327",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN025",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6180710,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6180710.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6180710.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6180710.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "1.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

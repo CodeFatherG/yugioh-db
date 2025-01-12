@@ -2,17 +2,43 @@
     "id": 61623148,
     "name": "Dark World Grimoire",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "During your End Phase, if you discard a monster(s) to the Graveyard because you had more cards than your hand size limit: You can target 1 of those monsters; Special Summon that target.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dark World",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/61623148.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61623148.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61623148.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-world-grimoire-5218",
+    "card_sets": [
+        {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN252",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN062",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61623148,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61623148.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61623148.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61623148.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "0.32",
+            "ebay_price": "1.90",
+            "amazon_price": "1.17",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,64 @@
 {
     "id": 34086406,
     "name": "Lavalval Chain",
+    "typeline": [
+        "Sea Serpent",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to activate 1 of these effects;\n\u25cf Send 1 card from your Deck to the Graveyard.\n\u25cf Choose 1 monster from your Deck and place it on top of your Deck.",
+    "race": "Sea Serpent",
     "atk": 1800,
     "def": 1000,
     "level": 4,
-    "race": "Sea Serpent",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Laval",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34086406.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34086406.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34086406.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lavalval-chain-2894",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 7a",
+            "set_code": "DT07-EN035",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 7: Knight of Stars",
+            "set_code": "HA07-EN019",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN044",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Forbidden",
+        "ban_ocg": "Forbidden"
+    },
+    "card_images": [
+        {
+            "id": 34086406,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34086406.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34086406.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34086406.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "5.21",
+            "tcgplayer_price": "7.70",
+            "ebay_price": "43.99",
+            "amazon_price": "6.03",
+            "coolstuffinc_price": "4.99"
+        }
+    ]
 }

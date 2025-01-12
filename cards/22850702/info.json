@@ -1,18 +1,60 @@
 {
     "id": 22850702,
     "name": "Chaos Angel",
+    "typeline": [
+        "Fiend",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner LIGHT or DARK monsters\r\nFor this card's Synchro Summon, you can treat 1 LIGHT or DARK monster you control as a Tuner. If this card is Special Summoned: You can target 1 card on the field; banish it. This card gains these effects based on the original Attributes of materials used for its Synchro Summon.\r\n\u25cf LIGHT: Synchro Monsters you control are unaffected by monster effects activated by your opponent.\r\n\u25cf DARK: Monsters you control cannot be destroyed by battle.",
+    "race": "Fiend",
     "atk": 3500,
     "def": 2800,
     "level": 10,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Chaos",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/22850702.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22850702.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22850702.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chaos-angel-13700",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN086",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN044",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 24",
+            "set_code": "OP24-EN001",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22850702,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22850702.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22850702.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22850702.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "7.14",
+            "tcgplayer_price": "34.87",
+            "ebay_price": "44.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "54.99"
+        }
+    ]
 }

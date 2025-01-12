@@ -1,18 +1,46 @@
 {
     "id": 2407234,
     "name": "Number 69: Heraldry Crest",
+    "typeline": [
+        "Psychic",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "3 Level 4 monsters\nWhen this card is Special Summoned: Negate the effects of all other face-up Xyz Monsters currently on the field. You can target 1 other face-up Xyz Monster on the field; until the End Phase, this card's name and original effect become the same as that monster. You can only use this effect of \"Number 69: Heraldry Crest\" once per turn.",
+    "race": "Psychic",
     "atk": 2600,
     "def": 1400,
     "level": 4,
-    "race": "Psychic",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Heraldry",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2407234.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2407234.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2407234.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/number-69-heraldry-crest-220",
+    "card_sets": [
+        {
+            "set_name": "Lord of the Tachyon Galaxy",
+            "set_code": "LTGY-EN092",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2407234,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2407234.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2407234.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2407234.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.45",
+            "tcgplayer_price": "0.58",
+            "ebay_price": "3.99",
+            "amazon_price": "1.76",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

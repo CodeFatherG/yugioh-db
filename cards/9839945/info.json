@@ -1,21 +1,65 @@
 {
     "id": 9839945,
     "name": "Lyna the Light Charmer, Lustrous",
+    "typeline": [
+        "Spellcaster",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters, including a LIGHT monster\r\n(This card is always treated as a \"Familiar-Possessed\" card.)\r\nYou can target 1 LIGHT monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 LIGHT monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Lyna the Light Charmer, Lustrous\" once per turn.",
+    "race": "Spellcaster",
     "atk": 1850,
     "def": null,
     "level": null,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Charmer",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/9839945.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9839945.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9839945.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lyna-the-light-charmer-lustrous-11919",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN089",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN049",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN049",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9839945,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9839945.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9839945.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9839945.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.44",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "1.50",
+            "amazon_price": "0.35",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

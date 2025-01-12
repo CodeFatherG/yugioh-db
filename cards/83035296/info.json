@@ -1,18 +1,44 @@
 {
     "id": 83035296,
     "name": "Megistric Maginician",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. During the End Phase: You can remove 3 Spell Counters from this card, then target 1 of your banished Spells; add 1 card with the target's name from your Deck to your hand. You can only use this effect of \"Megistric Maginician\" once per turn.",
+    "race": "Spellcaster",
     "atk": 0,
     "def": 2000,
     "level": 1,
-    "race": "Spellcaster",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83035296.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83035296.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83035296.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/megistric-maginician-10274",
+    "card_sets": [
+        {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83035296,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83035296.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83035296.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83035296.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

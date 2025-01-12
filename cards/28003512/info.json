@@ -1,18 +1,51 @@
 {
     "id": 28003512,
     "name": "The Judgement Hand",
+    "typeline": [
+        "Warrior",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "An all-powerful hand that delivers ruthless attacks.",
+    "race": "Warrior",
     "atk": 1400,
     "def": 700,
     "level": 3,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28003512.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28003512.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28003512.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-judgement-hand-2385",
+    "card_sets": [
+        {
+            "set_name": "Tournament Pack: 1st Season",
+            "set_code": "TP1-026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "12.9"
+        },
+        {
+            "set_name": "Tournament Pack: 1st Season",
+            "set_code": "TP1-E026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "15.17"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28003512,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28003512.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28003512.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28003512.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.83",
+            "tcgplayer_price": "3.98",
+            "ebay_price": "3.99",
+            "amazon_price": "15.01",
+            "coolstuffinc_price": "6.99"
+        }
+    ]
 }

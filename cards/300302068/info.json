@@ -2,17 +2,36 @@
     "id": 300302068,
     "name": "No One Suspects the Dark Scorpion Gang!",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Don Zaloog",
+    "frameType": "skill",
     "desc": "Once per Duel, during your Main Phase, if you control \"Don Zaloog\", you can discard 1 card to Special Summon 2 \"Dark Scorpion\" monsters with different names from your hand and Deck (1 from each). \"Don Zaloog\" and \"Dark Scorpion\" monsters you control can attack directly, but when they do so using this Skill, the battle damage inflicted to your opponent becomes 400. You cannot Summon or Set any monsters except \"Don Zaloog\" and/or \"Dark Scorpion\" monsters.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Don Zaloog",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dark Scorpion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302068.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302068.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302068.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/no-one-suspects-the-dark-scorpion-gang-13944",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENS17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302068,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302068.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302068.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302068.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

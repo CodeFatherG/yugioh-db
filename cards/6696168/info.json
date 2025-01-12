@@ -1,18 +1,35 @@
 {
     "id": 6696168,
     "name": "Festiballoon",
+    "typeline": [
+        "Illusion",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card battles a monster, neither can be destroyed by that battle. Each time a monster declares an attack, this card gains 1000 ATK. During your Main Phase: You can make this card lose exactly 5000 ATK, and if you do, destroy all other cards on the field. You can only use this effect of \"Festiballoon\" once per turn.",
+    "race": "Illusion",
     "atk": 0,
     "def": 0,
     "level": 8,
-    "race": "Illusion",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6696168.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6696168.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6696168.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/festiballoon-14862",
+    "card_images": [
+        {
+            "id": 6696168,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6696168.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6696168.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6696168.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

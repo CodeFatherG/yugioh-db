@@ -1,18 +1,52 @@
 {
     "id": 83725008,
     "name": "Jenis, Lightsworn Mender",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the End Phase, if a card(s) was sent from your Deck to the Graveyard by the effect of a \"Lightsworn\" card this turn: Inflict 500 damage to your opponent, and if you do, gain 500 LP.",
+    "race": "Spellcaster",
     "atk": 300,
     "def": 2100,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Lightsworn",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83725008.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83725008.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83725008.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jenis-lightsworn-mender-7023",
+    "card_sets": [
+        {
+            "set_name": "Astral Pack Five",
+            "set_code": "AP05-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83725008,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83725008.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83725008.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83725008.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "2.99",
+            "amazon_price": "2.01",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

@@ -1,18 +1,72 @@
 {
     "id": 92327802,
     "name": "Defect Compiler",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, if you would take damage from an opponent's card effect, place 1 Defect Counter on this card instead (max. 1). Once per turn (Quick Effect): You can remove 1 Defect Counter from this card, then target 1 Cyberse monster you control; it gains 800 ATK until the end of this turn.",
+    "race": "Cyberse",
     "atk": 1000,
     "def": 1000,
     "level": 3,
-    "race": "Cyberse",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92327802.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92327802.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92327802.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/defect-compiler-8670",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN104",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Circuit Break",
+            "set_code": "CIBR-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Star Pack VRAINS",
+            "set_code": "SP18-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Star Pack VRAINS",
+            "set_code": "SP18-EN008",
+            "set_rarity": "Starfoil",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Star Pack VRAINS",
+            "set_code": "SP18-EN008",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "1.08"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92327802,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92327802.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92327802.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92327802.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

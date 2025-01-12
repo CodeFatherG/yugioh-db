@@ -1,18 +1,56 @@
 {
     "id": 54100561,
     "name": "FaSolfachord Fancia",
+    "typeline": [
+        "Fairy",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nPendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.\n\n[ Monster Effect ] \nWhile you have an odd Pendulum Scale in your Pendulum Zone, if your \"Solfachord\" Pendulum Monster would be destroyed by battle, you can destroy this card instead. During your Main Phase: You can add 1 \"Solfachord\" Pendulum Monster from your Deck to your Extra Deck face-up, except \"FaSolfachord Fancia\". You can only use this effect of \"FaSolfachord Fancia\" once per turn.",
+    "race": "Fairy",
+    "pend_desc": "Pendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.",
+    "monster_desc": "While you have an odd Pendulum Scale in your Pendulum Zone, if your \"Solfachord\" Pendulum Monster would be destroyed by battle, you can destroy this card instead. During your Main Phase: You can add 1 \"Solfachord\" Pendulum Monster from your Deck to your Extra Deck face-up, except \"FaSolfachord Fancia\". You can only use this effect of \"FaSolfachord Fancia\" once per turn.",
     "atk": 1600,
     "def": 400,
     "level": 4,
-    "race": "Fairy",
     "attribute": "FIRE",
-    "scale": 5,
     "archetype": "Solfachord",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54100561.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54100561.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54100561.jpg"
+    "scale": 5,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fasolfachord-fancia-12023",
+    "card_sets": [
+        {
+            "set_name": "Ancient Guardians",
+            "set_code": "ANGU-EN017",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Ancient Guardians",
+            "set_code": "ANGU-EN017",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54100561,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54100561.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54100561.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54100561.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "5.43",
+            "tcgplayer_price": "3.51",
+            "ebay_price": "25.00",
+            "amazon_price": "54.99",
+            "coolstuffinc_price": "7.99"
+        }
+    ]
 }

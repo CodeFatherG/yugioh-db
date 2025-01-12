@@ -2,17 +2,36 @@
     "id": 84965420,
     "name": "Drytron Meteor Shower",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "When your opponent Normal or Special Summons a monster(s), while you control a Ritual Monster: Negate the Summon, and if you do, shuffle that monster into the Deck. You can only activate 1 \"Drytron Meteor Shower\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
     "archetype": "Drytron",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84965420.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84965420.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84965420.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/drytron-meteor-shower-11369",
+    "card_sets": [
+        {
+            "set_name": "Genesis Impact",
+            "set_code": "GEIM-EN036",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.04"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84965420,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84965420.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84965420.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84965420.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "40.35",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 32825095,
     "name": "White Moray",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the turn you Normal Summoned this card, it can attack your opponent directly. If this card is Special Summoned from the GY: You can treat it as a Tuner this turn.",
+    "race": "Fish",
     "atk": 600,
     "def": 200,
     "level": 2,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "White",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32825095.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32825095.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32825095.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/white-moray-8523",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Light's Revenge",
+            "set_code": "BLLR-EN018",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.41"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32825095,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32825095.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32825095.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32825095.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "1.31",
+            "amazon_price": "0.65",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,46 @@
 {
     "id": 71101678,
     "name": "Earthbound Servant Geo Grasha",
+    "typeline": [
+        "Fiend",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 \"Earthbound\" Fusion Monster + 1 \"Earthbound\" Synchro Monster\r\nMust be Fusion Summoned. At the start of the Damage Step, if this card battles a monster: Change that monster's ATK/DEF to 0. If a monster(s) in your opponent's possession is destroyed by battle or card effect: You can destroy all cards your opponent controls. You can only use this effect of \"Earthbound Servant Geo Grasha\" once per turn. If this face-up card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 \"Earthbound\" monster from your Deck or Extra Deck.",
+    "race": "Fiend",
     "atk": 3000,
     "def": 1800,
     "level": 10,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Earthbound",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71101678.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71101678.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71101678.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/earthbound-servant-geo-grasha-13912",
+    "card_sets": [
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN031",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71101678,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71101678.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71101678.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71101678.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

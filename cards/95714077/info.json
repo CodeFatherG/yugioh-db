@@ -2,17 +2,43 @@
     "id": 95714077,
     "name": "Wind-Up Factory",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Once per turn, if an effect of a \"Wind-Up\" monster is activated (except during the Damage Step): You can add 1 Level 4 or lower \"Wind-Up\" monster from your Deck to your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Wind-Up",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/95714077.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95714077.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95714077.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wind-up-factory-7972",
+    "card_sets": [
+        {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN054",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Turbo Pack: Booster Eight",
+            "set_code": "TU08-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 95714077,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95714077.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95714077.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95714077.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.60",
+            "tcgplayer_price": "0.98",
+            "ebay_price": "2.99",
+            "amazon_price": "3.99",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

@@ -1,18 +1,53 @@
 {
     "id": 62592805,
     "name": "Epurrely Noir",
+    "typeline": [
+        "Fairy",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 2 monsters\r\nOnce per turn: You can discard 1 card, then target 1 card your opponent controls, or up to 2 if this card has \"Purrely Sleepy Memory\" as material; return that card(s) to the hand. Up to thrice per turn, when you activate a \"Purrely\" Quick-Play Spell Card (Quick Effect): You can attach that card on the field to this card as material, then you can Set 1 \"Purrely\" Trap directly from your Deck.",
+    "race": "Fairy",
     "atk": 1000,
     "def": 2000,
     "level": 2,
-    "race": "Fairy",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Purrely",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62592805.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62592805.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62592805.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/epurrely-noir-13862",
+    "card_sets": [
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN044",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN044",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 62592805,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62592805.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62592805.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62592805.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "7.94",
+            "tcgplayer_price": "5.51",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

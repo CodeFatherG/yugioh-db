@@ -1,21 +1,65 @@
 {
     "id": 72329844,
     "name": "Spright Sprind",
+    "typeline": [
+        "Thunder",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters, including a Level/Rank/Link 2 monster\r\nCannot be used as Link Material the turn it is Link Summoned. You can only use 1 of the following effects of \"Spright Sprind\" per turn, and only once that turn. If this card is Link Summoned: You can send 1 Level 2 monster from your Deck to the GY. If another monster is Special Summoned while this card is on the field (except during the Damage Step): You can detach 1 material from an Xyz Monster you control, then target 1 monster on the field; return it to the hand.",
+    "race": "Thunder",
     "atk": 1400,
     "def": null,
     "level": null,
-    "race": "Thunder",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Spright",
     "linkval": 2,
     "linkmarkers": [
         "Top-Right",
         "Bottom-Left"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/72329844.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72329844.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72329844.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spright-sprind-13397",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN095",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN095",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN048",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 72329844,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72329844.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72329844.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72329844.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.43",
+            "tcgplayer_price": "1.28",
+            "ebay_price": "10.59",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "7.99"
+        }
+    ]
 }

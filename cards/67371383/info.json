@@ -1,18 +1,65 @@
 {
     "id": 67371383,
     "name": "Amphibian Beast",
+    "typeline": [
+        "Fish",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "On land or in the sea, the speed of this monster is unmatchable.",
+    "race": "Fish",
     "atk": 2400,
     "def": 2000,
     "level": 6,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/67371383.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67371383.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67371383.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/amphibian-beast-5664",
+    "card_sets": [
+        {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN211",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-008",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.68"
+        },
+        {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E008",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "3.5"
+        },
+        {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN008",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.00"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 67371383,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67371383.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67371383.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67371383.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "0.44",
+            "ebay_price": "1.99",
+            "amazon_price": "4.99",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

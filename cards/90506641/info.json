@@ -2,17 +2,26 @@
     "id": 90506641,
     "name": "Soul Unseal",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "If your opponent controls a monster and you control a Normal Monster: Choose 5 Normal Monsters in your Deck, add 1 of them to your hand and banish the rest.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/90506641.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90506641.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90506641.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/soul-unseal-9911",
+    "card_images": [
+        {
+            "id": 90506641,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90506641.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90506641.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90506641.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "3.00",
+            "amazon_price": "3.06",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

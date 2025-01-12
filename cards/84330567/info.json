@@ -1,18 +1,53 @@
 {
     "id": 84330567,
     "name": "Tearlaments Rulkallos",
+    "typeline": [
+        "Aqua",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "\"Tearlaments Kitkallos\" + 1 \"Tearlaments\" monster\r\nOther Aqua monsters you control cannot be destroyed by battle. You can only use each of the following effects of \"Tearlaments Rulkallos\" once per turn. When your opponent activates a card or effect that includes an effect that Special Summons a monster(s) (Quick Effect): You can negate the activation, and if you do, destroy it, then, send 1 \"Tearlaments\" card from your hand or face-up field to the GY. If this Fusion Summoned card is sent to the GY by a card effect: You can Special Summon this card.",
+    "race": "Aqua",
     "atk": 3000,
     "def": 2500,
     "level": 8,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Tearlaments",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84330567.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84330567.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84330567.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tearlaments-rulkallos-13300",
+    "card_sets": [
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN039",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN039",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84330567,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84330567.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84330567.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84330567.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "6.96",
+            "tcgplayer_price": "5.93",
+            "ebay_price": "5.95",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "4.99"
+        }
+    ]
 }

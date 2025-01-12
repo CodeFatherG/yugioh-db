@@ -2,17 +2,42 @@
     "id": 36920182,
     "name": "Realm Resonance",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Activate 1 of these effects;\r\n\u25cf Special Summon 1 monster with 1500 ATK/2100 DEF from your GY.\r\n\u25cf Shuffle into the Deck, 1 of your \"Visas Starfrost\" and 4 of your monsters with 1500 ATK/2100 DEF, that are banished, in your GY, and/or face-up on your field, and if you do, Special Summon 1 \"Visas\" Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)\r\nYou can only activate 1 \"Realm Resonance\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/36920182.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36920182.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36920182.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/realm-resonance-13819",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN374",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 36920182,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36920182.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36920182.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36920182.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "1.50",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

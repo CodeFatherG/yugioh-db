@@ -1,18 +1,59 @@
 {
     "id": 49674183,
     "name": "Fallen Angel of Roses",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Special Summon this card (from your hand) by returning 1 Plant-Type monster you control to the hand, except \"Fallen Angel of Roses\", but banish it when it leaves the field.",
+    "race": "Plant",
     "atk": 2400,
     "def": 1300,
     "level": 7,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Fairy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49674183.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49674183.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49674183.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fallen-angel-of-roses-4231",
+    "card_sets": [
+        {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN094",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN103",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.03"
+        },
+        {
+            "set_name": "Premium Collection Tin",
+            "set_code": "PRC1-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.58"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49674183,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49674183.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49674183.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49674183.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

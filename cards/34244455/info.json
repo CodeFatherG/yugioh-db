@@ -1,18 +1,44 @@
 {
     "id": 34244455,
     "name": "Star Staring Starling",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card gains an effect based on your Main Monster Zone it is in.\r\n\u25cf Leftmost: Increase its Level by 4.\r\n\u25cf Rightmost: Increase its Level by 3.\r\n\u25cf Center: Increase its Level by 2.\r\n\u25cf Others: Increase its Level by 1.",
+    "race": "Winged Beast",
     "atk": 1000,
     "def": 1500,
     "level": 4,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34244455.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34244455.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34244455.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/star-staring-starling-10049",
+    "card_sets": [
+        {
+            "set_name": "Dark Neostorm",
+            "set_code": "DANE-EN024",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34244455,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34244455.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34244455.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34244455.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.40",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

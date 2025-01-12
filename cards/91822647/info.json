@@ -2,17 +2,43 @@
     "id": 91822647,
     "name": "Whirlwind of Gusto",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control no monsters: Target 2 \"Gusto\" monsters in your Graveyard; shuffle both targets into the Deck, then Special Summon 1 \"Gusto\" monster with 1000 or less DEF from your Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Gusto",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91822647.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91822647.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91822647.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/whirlwind-of-gusto-7657",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 6b",
+            "set_code": "DT06-EN100",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 6: Omega Xyz",
+            "set_code": "HA06-EN060",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91822647,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91822647.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91822647.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91822647.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.98",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "3.00",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

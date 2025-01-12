@@ -1,18 +1,44 @@
 {
     "id": 84900597,
     "name": "Lamia",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add 1 Level 8 Reptile monster from your Deck to your hand. If this card is banished: You can target 1 Reptile monster you control; it cannot be destroyed by card effects until the end of the next turn. You can only use each effect of \"Lamia\" once per turn.",
+    "race": "Reptile",
     "atk": 1300,
     "def": 1500,
     "level": 4,
-    "race": "Reptile",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84900597.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84900597.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84900597.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lamia-12950",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN021",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84900597,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84900597.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84900597.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84900597.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.50",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

@@ -2,17 +2,42 @@
     "id": 3259760,
     "name": "Spellbound",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "All face-up monsters your opponent currently controls cannot be Tributed, or used as material for a Fusion, Synchro, Xyz, or Link Summon, until the end of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3259760.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3259760.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3259760.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spellbound-13577",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN151",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN000",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3259760,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3259760.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3259760.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3259760.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.66",
+            "tcgplayer_price": "0.39",
+            "ebay_price": "11.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

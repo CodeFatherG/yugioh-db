@@ -2,17 +2,43 @@
     "id": 80627281,
     "name": "Marincess Snow",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If a \"Marincess\" Link Monster(s) you control is destroyed by battle or card effect: Target 1 of those monsters; Special Summon 1 \"Marincess\" Link Monster from your Extra Deck with a lower Link Rating than that monster. (This is treated as a Link Summon.) It is unaffected by your opponent's card effects while you control it. You can only activate 1 \"Marincess Snow\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Marincess",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80627281.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80627281.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80627281.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/marincess-snow-10399",
+    "card_sets": [
+        {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN189",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+        },
+        {
+            "set_name": "Chaos Impact",
+            "set_code": "CHIM-EN067",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80627281,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80627281.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80627281.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80627281.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

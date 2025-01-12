@@ -2,17 +2,36 @@
     "id": 5577649,
     "name": "Scrap Crash",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only when a \"Scrap\" monster you control is destroyed and sent to the Graveyard. Destroy all face-up Spell/Trap Cards on the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Scrap",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5577649.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5577649.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5577649.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/scrap-crash-493",
+    "card_sets": [
+        {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5577649,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5577649.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5577649.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5577649.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

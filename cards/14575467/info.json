@@ -1,18 +1,51 @@
 {
     "id": 14575467,
     "name": "Zombino",
+    "typeline": [
+        "Zombie",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "The two are so close\r\nThey die and return to life\r\nInseparable",
+    "race": "Zombie",
     "atk": 2000,
     "def": 0,
     "level": 4,
-    "race": "Zombie",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14575467.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14575467.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14575467.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zombino-9023",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN169",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Extreme Force",
+            "set_code": "EXFO-EN001",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14575467,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14575467.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14575467.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14575467.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.90",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

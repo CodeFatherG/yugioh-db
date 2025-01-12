@@ -2,17 +2,36 @@
     "id": 53989821,
     "name": "SPYRAL GEAR - Utility Wire",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control \"SPYRAL Super Agent\": Target 1 face-up card your opponent controls; place it on top of the Deck. You can only activate 1 \"SPYRAL GEAR - Utility Wire\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "SPYRAL",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53989821.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53989821.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53989821.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spyral-gear-utility-wire-8552",
+    "card_sets": [
+        {
+            "set_name": "Raging Tempest",
+            "set_code": "RATE-EN088",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53989821,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53989821.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53989821.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53989821.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "1.55",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

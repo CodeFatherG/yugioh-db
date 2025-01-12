@@ -2,17 +2,36 @@
     "id": 80534031,
     "name": "Virtue Stream",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 Fish, Sea Serpent, or Aqua monster you control and 2 cards your opponent controls; destroy them. You can banish this card from your GY, then target 1 face-up monster on the field; if it is a WATER monster, the next time it would be destroyed by card effect this turn, it is not destroyed. If it is not, it becomes WATER. You can only use each effect of \"Virtue Stream\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Signature move",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80534031.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80534031.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80534031.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/virtue-stream-14660",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80534031,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80534031.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80534031.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80534031.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

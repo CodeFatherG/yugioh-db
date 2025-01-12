@@ -1,14 +1,20 @@
 {
     "id": 61470213,
     "name": "Altergeist Adminia",
+    "typeline": [
+        "Spellcaster",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ \"Altergeist\" monsters\r\nIf this card is Link Summoned: You can Set 1 \"Altergeist\" Trap directly from your Deck. Once while this card is face-up on the field, during the Main Phase (Quick Effect): You can send 1 card you control to the GY, then target 1 Effect Monster your opponent controls; take control of that target, and if you do, it is also treated as an \"Altergeist\" monster. You can only use each effect of \"Altergeist Adminia\" once per turn.",
+    "race": "Spellcaster",
     "atk": 3000,
     "def": null,
     "level": null,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Altergeist",
     "linkval": 4,
     "linkmarkers": [
@@ -17,7 +23,38 @@
         "Right",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/61470213.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61470213.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61470213.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/altergeist-adminia-13867",
+    "card_sets": [
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN047",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61470213,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61470213.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61470213.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61470213.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.86",
+            "tcgplayer_price": "0.45",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

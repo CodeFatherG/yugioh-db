@@ -2,17 +2,36 @@
     "id": 33055499,
     "name": "Prey of the Jirai Gumo",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Special Summon this card as a Normal Monster (Insect/EARTH/Level 5/ATK 2100/DEF 100) to your Main Monster Zone in its same column (this card is also still a Trap), then you can destroy 1 monster your opponent controls in this card's column. You can banish this card from your GY; add 1 of your \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" that is banished or in your Deck to your hand. You can only use each effect of \"Prey of the Jirai Gumo\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Trap Monster",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33055499.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33055499.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33055499.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/prey-of-the-jirai-gumo-13765",
+    "card_sets": [
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33055499,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33055499.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33055499.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33055499.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

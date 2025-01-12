@@ -2,17 +2,43 @@
     "id": 34721681,
     "name": "Heavy Forward",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: You can add 1 \"Infinitrack\" monster from your Deck to your hand. Once per turn: You can target 1 Machine Xyz Monster you control, then activate 1 of these effects;\r\n\u25cf Change its battle position.\r\n\u25cf Attach this card to it as material.\r\nYou can only activate 1 \"Heavy Forward\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Infinitrack",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34721681.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34721681.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34721681.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heavy-forward-10839",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN079",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN066",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34721681,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34721681.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34721681.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34721681.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "5.89",
+            "amazon_price": "49.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

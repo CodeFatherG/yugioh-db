@@ -2,17 +2,47 @@
     "id": 46060017,
     "name": "Zoodiac Barrage",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "You can target 1 face-up card you control; destroy it, and if you do, Special Summon 1 \"Zoodiac\" monster from your Deck. You can only use this effect of \"Zoodiac Barrage\" once per turn. If this card is destroyed by a card effect and sent to the Graveyard: You can target 1 \"Zoodiac\" Xyz Monster you control; attach this card from your Graveyard to that Xyz Monster as Xyz Material.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Zoodiac",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46060017.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46060017.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46060017.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zoodiac-barrage-3926",
+    "card_sets": [
+        {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN212",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Raging Tempest",
+            "set_code": "RATE-EN059",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited",
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 46060017,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46060017.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46060017.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46060017.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.16",
+            "tcgplayer_price": "4.01",
+            "ebay_price": "1.50",
+            "amazon_price": "2.67",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

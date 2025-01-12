@@ -1,18 +1,52 @@
 {
     "id": 50810455,
     "name": "Tri-Brigade Kerass",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can discard 1 other Beast, Beast-Warrior, or Winged Beast monster; Special Summon this card from your hand. You can banish any number of Beast, Beast-Warrior, and/or Winged Beast monsters in your GY; Special Summon 1 Beast, Beast-Warrior, or Winged Beast Link Monster from your Extra Deck, with Link Rating equal to the number banished, also you can only use Beast, Beast-Warrior, and Winged Beast monsters as Link Material for the rest of this turn. You can only use each effect of \"Tri-Brigade Kerass\" once per turn.",
+    "race": "Beast",
     "atk": 1200,
     "def": 1500,
     "level": 2,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Tri-Brigade",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50810455.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50810455.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50810455.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tri-brigade-kerass-11316",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN170",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Rage",
+            "set_code": "PHRA-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50810455,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50810455.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50810455.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50810455.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.59",
+            "tcgplayer_price": "0.49",
+            "ebay_price": "1.75",
+            "amazon_price": "7.59",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

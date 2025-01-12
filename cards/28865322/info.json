@@ -1,18 +1,49 @@
 {
     "id": 28865322,
     "name": "Aether, the Evil Empowering Dragon",
+    "typeline": [
+        "Dragon",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nOnce per turn: You can banish 1 \"Empowered Warrior\" monster from your Graveyard, then target 1 card on the field; destroy it.\n\n[ Monster Effect ] \nWhen this card is Normal or Special Summoned: You can target 1 monster on the field; banish it.",
+    "race": "Dragon",
+    "pend_desc": "Once per turn: You can banish 1 \"Empowered Warrior\" monster from your Graveyard, then target 1 card on the field; destroy it.",
+    "monster_desc": "When this card is Normal or Special Summoned: You can target 1 monster on the field; banish it.",
     "atk": 2300,
     "def": 1600,
     "level": 6,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": 4,
     "archetype": "Empower",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28865322.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28865322.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28865322.jpg"
+    "scale": 4,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/aether-the-evil-empowering-dragon-2450",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tins",
+            "set_code": "CT13-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "8.06"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28865322,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28865322.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28865322.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28865322.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

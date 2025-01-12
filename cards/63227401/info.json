@@ -2,17 +2,42 @@
     "id": 63227401,
     "name": "Skill Prisoner",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 card you control; this turn, when any monster effect resolves that targeted that card at activation, negate that effect. During either player's turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 card you control; this turn, when any monster effect resolves that targeted that card at activation, negate that effect.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/63227401.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63227401.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63227401.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/skill-prisoner-5341",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN237",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of the Valiant",
+            "set_code": "LVAL-EN078",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 63227401,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63227401.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63227401.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63227401.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.34",
+            "ebay_price": "2.50",
+            "amazon_price": "1.03",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

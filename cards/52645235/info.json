@@ -1,18 +1,60 @@
 {
     "id": 52645235,
     "name": "Epurrely Happiness",
+    "typeline": [
+        "Fairy",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 2 monsters\r\nAt the end of the Damage Step, if this card battled: You can add 1 \"Purrely\" card from your Deck to your hand, also, if this card has \"Purrely Happy Memory\" as material, you can halve the ATK of 1 face-up monster on the field. Up to thrice per turn, when you activate a \"Purrely\" Quick-Play Spell Card (Quick Effect): You can attach that card on the field to this card as material, then you can return 1 Spell/Trap your opponent controls to the hand.",
+    "race": "Fairy",
     "atk": 2000,
     "def": 100,
     "level": 2,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Purrely",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52645235.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52645235.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52645235.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/epurrely-happiness-13435",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN285",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 21",
+            "set_code": "OP21-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52645235,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52645235.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52645235.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52645235.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

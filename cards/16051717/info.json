@@ -1,18 +1,60 @@
 {
     "id": 16051717,
     "name": "Assault Blackwing - Raikiri the Rain Shower",
+    "typeline": [
+        "Winged Beast",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned using a \"Blackwing\" monster as Material, it is treated as a Tuner monster while face-up on the field. Once per turn: You can target cards your opponent controls, up to the number of other \"Blackwing\" monsters you control; destroy them.",
+    "race": "Winged Beast",
     "atk": 2600,
     "def": 2000,
     "level": 7,
-    "race": "Winged Beast",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Blackwing",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16051717.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16051717.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16051717.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/assault-blackwing-raikiri-the-rain-shower-1381",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN141",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension of Chaos",
+            "set_code": "DOCS-EN047",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension of Chaos",
+            "set_code": "DOCS-EN047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16051717,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16051717.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16051717.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16051717.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "5.23",
+            "tcgplayer_price": "1.85",
+            "ebay_price": "2.89",
+            "amazon_price": "4.64",
+            "coolstuffinc_price": "4.99"
+        }
+    ]
 }

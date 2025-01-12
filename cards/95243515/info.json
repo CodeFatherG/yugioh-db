@@ -1,18 +1,46 @@
 {
     "id": 95243515,
     "name": "Virtual World Tiger - Fufu",
+    "typeline": [
+        "Wyrm",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 9 monsters\r\nGains the following effects, based on the number of \"Virtual World Gate\" cards you control.\r\n\u25cf 2+: This card can attack directly.\r\n\u25cf 4: This card is unaffected by activated card effects, except \"Virtual World\" cards.\r\nOnce per turn (Quick Effect): You can detach 1 material from this card, then target 1 Effect Monster you control and 1 Effect Monster on the field with a different Type and Attribute from it; negate their effects until the end of this turn.",
+    "race": "Wyrm",
     "atk": 2600,
     "def": 2800,
     "level": 9,
-    "race": "Wyrm",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Virtual World",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/95243515.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95243515.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95243515.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/virtual-world-tiger-fufu-13691",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN046",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 95243515,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95243515.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95243515.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95243515.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

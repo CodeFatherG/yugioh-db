@@ -2,17 +2,43 @@
     "id": 32756828,
     "name": "Branded Beast",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Once per turn, during the Main Phase, if you control a \"Bystial\" monster: You can Tribute 1 Dragon monster, then target 1 card your opponent controls; destroy it. During the End Phase: You can target 1 \"Branded\" Continuous Spell/Trap in your GY; place it face-up on your field. You can only use this effect of \"Branded Beast\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Branded",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32756828.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32756828.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32756828.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/branded-beast-13359",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN209",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN073",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32756828,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32756828.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32756828.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32756828.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.40",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

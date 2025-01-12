@@ -2,17 +2,35 @@
     "id": 45064756,
     "name": "Rebirth Judgment",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Once per turn: You can declare 1 Monster Type; monsters in the GYs become that Type for the rest of this turn (even if this card leaves the field).",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45064756.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45064756.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45064756.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rebirth-judgment-12281",
+    "card_sets": [
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN012",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.32"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45064756,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45064756.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45064756.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45064756.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

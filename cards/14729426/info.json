@@ -1,18 +1,45 @@
 {
     "id": 14729426,
     "name": "Interplanetary Invader \"A\"",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase.",
+    "race": "Reptile",
     "atk": 0,
     "def": 500,
     "level": 1,
-    "race": "Reptile",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Alien",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14729426.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14729426.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14729426.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/interplanetary-invader-a-1257",
+    "card_sets": [
+        {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14729426,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14729426.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14729426.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14729426.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

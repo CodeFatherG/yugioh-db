@@ -1,18 +1,52 @@
 {
     "id": 1047075,
     "name": "Fighting Flame Swordsman",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add 1 Spell/Trap that mentions \"Flame Swordsman\" from your Deck to your hand. If this card is sent to the GY: You can send 1 \"Flame Swordsman\" or 1 monster that mentions it from your Deck or Extra Deck to the GY, except \"Fighting Flame Swordsman\". You can only use each effect of \"Fighting Flame Swordsman\" once per turn.",
+    "race": "Warrior",
     "atk": 1800,
     "def": 1600,
     "level": 4,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Flame Swordsman",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/1047075.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1047075.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1047075.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fighting-flame-swordsman-14349",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN132",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 1047075,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1047075.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1047075.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1047075.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.40",
+            "tcgplayer_price": "1.65",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,42 @@
     "id": 23746827,
     "name": "Million-Century Ice Prison",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "During the Main Phase, if a monster(s) you control leaves the field by an opponent's monster effect, except by being destroyed: Activate 1 of these effects;\r\n\u25cf End the Main Phase.\r\n\u25cf Skip Main Phase 1 of your opponent's next turn.\r\nYou can only activate 1 \"Million-Century Ice Prison\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23746827.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23746827.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23746827.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/million-century-ice-prison-13885",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN377",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 23746827,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23746827.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23746827.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23746827.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "1.50",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

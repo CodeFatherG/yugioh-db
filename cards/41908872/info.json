@@ -1,18 +1,56 @@
 {
     "id": 41908872,
     "name": "Supreme King Dragon Lightwurm",
+    "typeline": [
+        "Dragon",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nIf a monster(s) is Special Summoned and you control \"Supreme King Z-ARC\" and another Pendulum Monster (except during the Damage Step): You can Special Summon this card, then you can make the Level and Attribute of either this card or 1 Pendulum Monster you control become the same Level and Attribute as the other. You can only use this effect of \"Supreme King Dragon Lightwurm\" once per turn.\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: You can add 1 face-up \"Supreme King Dragon\" or \"Supreme King Gate\" Pendulum Monster from your Extra Deck to your hand, then, immediately after this effect resolves, you can Synchro or Xyz Summon 1 \"Supreme King Dragon\" monster. If a face-up Pendulum Monster(s) you control is destroyed by battle or card effect, while this card is face-up in your Extra Deck: You can add this card to your hand. You can only use each effect of \"Supreme King Dragon Lightwurm\" once per turn.",
+    "race": "Dragon",
+    "pend_desc": "If a monster(s) is Special Summoned and you control \"Supreme King Z-ARC\" and another Pendulum Monster (except during the Damage Step): You can Special Summon this card, then you can make the Level and Attribute of either this card or 1 Pendulum Monster you control become the same Level and Attribute as the other. You can only use this effect of \"Supreme King Dragon Lightwurm\" once per turn.",
+    "monster_desc": "If this card is Normal or Special Summoned: You can add 1 face-up \"Supreme King Dragon\" or \"Supreme King Gate\" Pendulum Monster from your Extra Deck to your hand, then, immediately after this effect resolves, you can Synchro or Xyz Summon 1 \"Supreme King Dragon\" monster. If a face-up Pendulum Monster(s) you control is destroyed by battle or card effect, while this card is face-up in your Extra Deck: You can add this card to your hand. You can only use each effect of \"Supreme King Dragon Lightwurm\" once per turn.",
     "atk": 1200,
     "def": 1800,
     "level": 4,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": 8,
     "archetype": "Supreme King",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/41908872.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41908872.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41908872.jpg"
+    "scale": 8,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/supreme-king-dragon-lightwurm-13977",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN387",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 41908872,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41908872.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41908872.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41908872.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

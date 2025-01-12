@@ -1,18 +1,51 @@
 {
     "id": 85847157,
     "name": "Proof of Pruflas",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control no Special Summoned monsters: You can Special Summon this card from your hand, also you cannot Special Summon other monsters for the rest of this turn. You can only use this effect of \"Proof of Pruflas\" once per turn. If this card is Normal or Special Summoned, you can (except during the Damage Step): Immediately after this effect resolves, Tribute Summon 1 monster.",
+    "race": "Fiend",
     "atk": 100,
     "def": 100,
     "level": 3,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85847157.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85847157.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85847157.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/proof-of-pruflas-12296",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN105",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN081",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 85847157,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85847157.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85847157.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85847157.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

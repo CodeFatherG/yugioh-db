@@ -2,17 +2,42 @@
     "id": 85407683,
     "name": "New World Stars",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "While you control \"Visas Starfrost\", the first time each monster you control would be destroyed by battle each turn, it is not destroyed. During your End Phase, if you control \"Visas Starfrost\": You can target 1 monster in your GY; shuffle it into the Deck, or, if you control a Tuner Synchro Monster, you can add it to your hand instead. You can only use this effect of \"New World Stars\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85407683.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85407683.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85407683.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/new-world-stars-13817",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN381",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 85407683,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85407683.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85407683.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85407683.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "1.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

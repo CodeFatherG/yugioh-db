@@ -2,17 +2,78 @@
     "id": 98954106,
     "name": "Jar of Avarice",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 5 cards in your GY, except \"Jar of Avarice\"; shuffle all 5 into the Deck, then draw 1 card. You can only activate 1 \"Jar of Avarice\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Greed",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98954106.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98954106.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98954106.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jar-of-avarice-8218",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN033",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossed Souls",
+            "set_code": "CROS-EN074",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENK38",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.78"
+        },
+        {
+            "set_name": "Machine Reactor Structure Deck",
+            "set_code": "SR03-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENE20",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel Starter Decks: Ultimate Predators",
+            "set_code": "SS03-ENV02",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.93"
+        },
+        {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98954106,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98954106.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98954106.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98954106.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "3.06",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

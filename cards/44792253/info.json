@@ -1,18 +1,52 @@
 {
     "id": 44792253,
     "name": "D.D. Destroyer",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card on the field is removed from play, you can select 1 face-up card your opponent controls and destroy it.",
+    "race": "Warrior",
     "atk": 1000,
     "def": 1000,
     "level": 4,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "D.D.",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44792253.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44792253.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44792253.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-destroyer-3815",
+    "card_sets": [
+        {
+            "set_name": "Duelist Revolution",
+            "set_code": "DREV-EN083",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENF11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44792253,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44792253.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44792253.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44792253.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

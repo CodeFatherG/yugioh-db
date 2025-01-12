@@ -2,17 +2,43 @@
     "id": 904185,
     "name": "Vertical Landing",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Tribute any number of WIND monsters, except Tokens; Special Summon an equal number of \"Mecha Phantom Beast Tokens\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). You can only activate 1 \"Vertical Landing\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Mecha Phantom Beast",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/904185.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/904185.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/904185.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vertical-landing-78",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN103",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 904185,
+            "image_url": "https://images.ygoprodeck.com/images/cards/904185.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/904185.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/904185.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

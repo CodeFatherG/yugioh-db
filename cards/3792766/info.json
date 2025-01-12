@@ -1,14 +1,20 @@
 {
     "id": 3792766,
     "name": "Trickstar Delfiendium",
+    "typeline": [
+        "Fairy",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ \"Trickstar\" monsters\r\nWhen this card declares an attack while pointing to a \"Trickstar\" monster: You can target your banished \"Trickstar\" cards, up to the number of Link Monsters your opponent controls; add them to your hand, and if you do, this card gains 1000 ATK for each card added, until the end of this turn.",
+    "race": "Fairy",
     "atk": 2200,
     "def": null,
     "level": 0,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Trickstar",
     "linkval": 3,
     "linkmarkers": [
@@ -16,7 +22,38 @@
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/3792766.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3792766.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3792766.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trickstar-delfiendium-9237",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN040",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3792766,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3792766.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3792766.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3792766.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.04",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

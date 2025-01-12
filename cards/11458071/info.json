@@ -1,18 +1,51 @@
 {
     "id": 11458071,
     "name": "Sky Scourge Enrise",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 3 LIGHT Fairy-Type monsters and 1 DARK Fiend monster in your Graveyard. Once per turn, you can remove from play 1 face-up monster on the field. If you activate this effect, this card cannot attack during this turn.",
+    "race": "Fairy",
     "atk": 2400,
     "def": 1500,
     "level": 8,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/11458071.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11458071.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11458071.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-scourge-enrise-989",
+    "card_sets": [
+        {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN021",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 11458071,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11458071.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11458071.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11458071.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.87",
+            "tcgplayer_price": "1.15",
+            "ebay_price": "1.39",
+            "amazon_price": "0.62",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 40012727,
     "name": "Assault Slash",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only while you control an \"/Assault Mode\" monster. Destroy all face-up monsters on the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Assault Mode",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/40012727.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40012727.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40012727.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/assault-slash-3398",
+    "card_sets": [
+        {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN074",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 40012727,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40012727.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40012727.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40012727.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

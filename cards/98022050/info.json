@@ -1,18 +1,65 @@
 {
     "id": 98022050,
     "name": "Animadorned Archosaur",
+    "typeline": [
+        "Dinosaur",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can destroy 1 Dinosaur monster in your hand or face-up field, except \"Animadorned Archosaur\", then add 1 Reptile, Sea Serpent, or Winged Beast monster with the same original Level as that destroyed monster, OR 1 \"Evolution Pill\" Spell, from your Deck to your hand. You can only use this effect of \"Animadorned Archosaur\" once per turn.",
+    "race": "Dinosaur",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Dinosaur",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98022050.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98022050.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98022050.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/animadorned-archosaur-10812",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN062",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN037",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN050",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN050",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98022050,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98022050.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98022050.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98022050.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "3.24",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

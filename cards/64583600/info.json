@@ -1,18 +1,44 @@
 {
     "id": 64583600,
     "name": "Wish Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute this card; Special Summon 2 \"Dragon Tokens\" (Dragon/EARTH/Level 1/ATK 0/DEF 0), also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Level 5 or higher Dragon monsters. You can only use this effect of \"Wish Dragon\" once per turn.",
+    "race": "Dragon",
     "atk": 700,
     "def": 100,
     "level": 2,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64583600.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64583600.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64583600.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wish-dragon-13518",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN093",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64583600,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64583600.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64583600.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64583600.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

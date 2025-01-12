@@ -2,17 +2,42 @@
     "id": 17427333,
     "name": "E.M.R.",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Tribute 1 Machine monster, then target 1 card on the field for every 1000 original ATK of the Tributed monster; destroy those cards.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17427333.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17427333.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17427333.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/e-m-r-11644",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN043",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN078",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17427333,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17427333.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17427333.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17427333.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

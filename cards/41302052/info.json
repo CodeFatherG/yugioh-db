@@ -1,14 +1,20 @@
 {
     "id": 41302052,
     "name": "Trickstar Bella Madonna",
+    "typeline": [
+        "Fairy",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ \"Trickstar\" monsters\r\nWhile this Link Summoned card points to no monsters, it is unaffected by other cards' activated effects. If this card points to no monsters: You can inflict 200 damage to your opponent for each \"Trickstar\" monster in your GY with a different name. You can only use this effect of \"Trickstar Bella Madonna\" once per turn.",
+    "race": "Fairy",
     "atk": 2800,
     "def": null,
     "level": 0,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Trickstar",
     "linkval": 4,
     "linkmarkers": [
@@ -17,7 +23,38 @@
         "Bottom-Left",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/41302052.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41302052.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41302052.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trickstar-bella-madonna-9093",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN038",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 41302052,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41302052.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41302052.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41302052.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "2.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

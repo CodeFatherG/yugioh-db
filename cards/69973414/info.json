@@ -2,17 +2,43 @@
     "id": 69973414,
     "name": "Blackwing - Twin Shadow",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Shuffle 2 of your \"Blackwing\" monsters (1 Tuner and 1 non-Tuner) that are banished and/or in your GY into the Deck/Extra Deck; Special Summon 1 \"Blackwing\" Synchro Monster or \"Black-Winged Dragon\" from your Extra Deck whose Level equals the total Levels of those 2 monsters. (This is treated as a Synchro Summon.) If you control 2 or more \"Blackwing\" monsters, you can activate this card from your hand. You can only activate 1 \"Blackwing - Twin Shadow\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Blackwing",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/69973414.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69973414.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69973414.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blackwing-twin-shadow-13280",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN207",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 69973414,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69973414.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69973414.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69973414.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "1.17",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

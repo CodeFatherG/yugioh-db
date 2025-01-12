@@ -1,18 +1,52 @@
 {
     "id": 13409151,
     "name": "Desertapir",
+    "typeline": [
+        "Beast",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: Flip 1 face-up monster on the field into face-down Defense Position. You cannot select \"Desertapir\".",
+    "race": "Beast",
     "atk": 900,
     "def": 300,
     "level": 3,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/13409151.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13409151.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13409151.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/desertapir-1150",
+    "card_sets": [
+        {
+            "set_name": "Ancient Sanctuary",
+            "set_code": "AST-068",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "1.49"
+        },
+        {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN181",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 13409151,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13409151.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13409151.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13409151.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.95",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 39276790,
     "name": "Face-Off",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "When a Spell/Trap Card, or monster effect, is activated during the Damage Step: Negate the activation, and if you do, destroy it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39276790.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39276790.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39276790.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/face-off-3333",
+    "card_sets": [
+        {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN077",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39276790,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39276790.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39276790.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39276790.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.33",
+            "ebay_price": "1.82",
+            "amazon_price": "1.26",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

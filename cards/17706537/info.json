@@ -1,18 +1,44 @@
 {
     "id": 17706537,
     "name": "Fossil Tusker",
+    "typeline": [
+        "Rock",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card destroys an opponent's monster by battle and sends it to the Graveyard, inflict 400 damage to your opponent.",
+    "race": "Rock",
     "atk": 1800,
     "def": 0,
     "level": 4,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17706537.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17706537.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17706537.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fossil-tusker-1540",
+    "card_sets": [
+        {
+            "set_name": "Tactical Evolution",
+            "set_code": "TAEV-EN086",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "3.4"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17706537,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17706537.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17706537.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17706537.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "29.49",
+            "amazon_price": "4.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

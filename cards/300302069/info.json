@@ -2,17 +2,35 @@
     "id": 300302069,
     "name": "Order of the Queen",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Tania",
+    "frameType": "skill",
     "desc": "While you control \"Amazoness Queen\", negate the effects of Effect Monsters destroyed by battle with attacking \"Amazoness\" monsters you control.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Tania",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302069.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302069.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302069.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/order-of-the-queen-13945",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENS12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302069,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302069.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302069.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302069.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

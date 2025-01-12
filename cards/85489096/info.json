@@ -1,18 +1,67 @@
 {
     "id": 85489096,
     "name": "Arsenal Summoner",
+    "typeline": [
+        "Spellcaster",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: Add 1 \"Guardian\" card from your Deck to your hand, except \"Celtic Guardian\", \"Winged Dragon, Guardian of the Fortress #1\", \"Winged Dragon, Guardian of the Fortress #2\", \"Guardian of the Labyrinth\", or \"The Reliable Guardian\".",
+    "race": "Spellcaster",
     "atk": 1600,
     "def": 1600,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Guardian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85489096.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85489096.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85489096.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/arsenal-summoner-7164",
+    "card_sets": [
+        {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.53"
+        },
+        {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        },
+        {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN166",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN247",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.08"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 85489096,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85489096.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85489096.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85489096.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.00",
+            "amazon_price": "1.98",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 71595845,
     "name": "Doll Happiness",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: Add 1 \"Grandpa Demetto\" or \"Box of Friends\" from your Deck to your hand. While you control \"Princess Cologne\", your opponent's monsters cannot target monsters with 0 ATK or DEF for attacks. Once per turn: You can destroy 1 monster in your hand or field, and if you do, send 1 \"Doll Monster\" card from your Deck to the GY, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only activate \"Doll Happiness\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Doll",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71595845.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71595845.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71595845.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/doll-happiness-11813",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN098",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.84"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71595845,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71595845.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71595845.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71595845.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "3.47",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

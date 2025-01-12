@@ -1,18 +1,46 @@
 {
     "id": 76865611,
     "name": "Morphtronic Lantron",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "\u25cf While in Attack Position: Any effect damage you would take from an opponent's card effect is inflicted to your opponent instead.\n\u25cf While in Defense Position: When this card is destroyed by battle and sent to the Graveyard, you take no Battle Damage this turn.",
+    "race": "Machine",
     "atk": 200,
     "def": 200,
     "level": 1,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Morphtronic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/76865611.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76865611.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76865611.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/morphtronic-lantron-6467",
+    "card_sets": [
+        {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.14"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 76865611,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76865611.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76865611.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76865611.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.50",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

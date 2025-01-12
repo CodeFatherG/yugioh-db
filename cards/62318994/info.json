@@ -1,18 +1,45 @@
 {
     "id": 62318994,
     "name": "Samsara D Lotus",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute this card; Special Summon 1 \"Yubel\" monster from your Deck. During your opponent's turn, when a monster effect is activated, while you control a \"Yubel\" monster (Quick Effect): You can Tribute this card; the activated effect becomes \"Destroy 1 \"Yubel\" monster on the field\". During your End Phase, if you control \"Yubel\" and this card is in your GY: You can add this card to your hand, or Special Summon it. You can only use each effect of \"Samsara D Lotus\" once per turn.",
+    "race": "Fiend",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Relinquished",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62318994.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62318994.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62318994.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/samsara-d-lotus-14117",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 62318994,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62318994.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62318994.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62318994.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.09",
+            "tcgplayer_price": "2.03",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

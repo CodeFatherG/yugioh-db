@@ -2,17 +2,35 @@
     "id": 36092504,
     "name": "Bayonet Punisher",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Apply these effects, in sequence, depending on the type(s) of \"Borrel\" monsters you control and in your GY. If you control a monster with 3000 or more ATK, your opponent cannot activate cards or effects in response to this card's activation.\r\n\u25cf Fusion: Banish 1 monster your opponent controls.\r\n\u25cf Synchro: Banish 3 random face-down cards from your opponent's Extra Deck, face-up.\r\n\u25cf Xyz: Banish 1 Spell/Trap your opponent controls.\r\n\u25cf Link: Banish up to 3 cards from your opponent's GY.\r\nYou can only activate 1 \"Bayonet Punisher\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/36092504.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36092504.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36092504.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bayonet-punisher-10510",
+    "card_sets": [
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN098",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 36092504,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36092504.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36092504.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36092504.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.32",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

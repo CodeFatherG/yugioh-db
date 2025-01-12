@@ -2,17 +2,27 @@
     "id": 44586427,
     "name": "Batteryman Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Batteryman Solar\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Thunder",
-    "attribute": null,
-    "scale": null,
     "archetype": "Batteryman",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44586427.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44586427.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44586427.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/batteryman-token-9218",
+    "card_images": [
+        {
+            "id": 44586427,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44586427.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44586427.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44586427.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "1.50",
+            "amazon_price": "4.19",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,58 @@
 {
     "id": 57305373,
     "name": "Two-Mouth Darkruler",
+    "typeline": [
+        "Dinosaur",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A dinosaur with two deadly jaws, it stores electricity in its horn and releases high voltage bolts from the mouth on its back.",
+    "race": "Dinosaur",
     "atk": 900,
     "def": 700,
     "level": 3,
-    "race": "Dinosaur",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57305373.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57305373.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57305373.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/two-mouth-darkruler-4882",
+    "card_sets": [
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.95"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-E024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.83"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.01"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57305373,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57305373.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57305373.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57305373.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "8.00",
+            "amazon_price": "0.89",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

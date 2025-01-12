@@ -1,18 +1,46 @@
 {
     "id": 56208713,
     "name": "Bacha the Melodious Maestra",
+    "typeline": [
+        "Fairy",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 \"Melodious\" monsters\r\nWhile you control this Fusion Summoned card, the activated effects of your \"Melodious\" Fusion Monsters cannot be negated. You can only use each of the following effects of \"Bacha the Melodious Maestra\" once per turn. If this card is Special Summoned: You can Special Summon 1 \"Melodious\" monster from your Deck. If this card is sent to the GY: You can target 1 \"Melodious\" monster in your GY, except \"Bacha the Melodious Maestra\"; Special Summon it in Defense Position.",
+    "race": "Fairy",
     "atk": 2500,
     "def": 1800,
     "level": 7,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Melodious",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56208713.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56208713.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56208713.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bacha-the-melodious-maestra-14284",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56208713,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56208713.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56208713.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56208713.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

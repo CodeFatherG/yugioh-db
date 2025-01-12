@@ -1,14 +1,20 @@
 {
     "id": 38502358,
     "name": "Mekk-Knight Spectrum Supreme",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ \"Mekk-Knight\" monsters\nThis card can attack directly if it is the only card in its column. If this card in the Extra Monster Zone points to no monsters, it cannot be destroyed by card effects, also your opponent cannot target it with card effects. You can send 1 other card you control in this card's column to the GY: Special Summon 1 \"Mekk-Knight\" monster from your Deck in Defense Position. You can only use this effect of \"Mekk-Knight Spectrum Supreme\" once per turn.",
+    "race": "Cyberse",
     "atk": 3000,
     "def": null,
     "level": 0,
-    "race": "Cyberse",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Mekk-Knight",
     "linkval": 3,
     "linkmarkers": [
@@ -16,7 +22,38 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/38502358.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38502358.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38502358.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mekk-knight-spectrum-supreme-8966",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN201",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Extreme Force",
+            "set_code": "EXFO-EN047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38502358,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38502358.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38502358.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38502358.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.36",
+            "ebay_price": "0.99",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

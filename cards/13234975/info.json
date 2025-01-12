@@ -2,17 +2,43 @@
     "id": 13234975,
     "name": "Beetrooper Landing",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Fusion Summon 1 Insect Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If this card is in your GY, except the turn it was sent there: You can banish 2 Insect monsters from your GY; add this card to your hand. You can only use this effect of \"Beetrooper Landing\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Beetrooper",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/13234975.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13234975.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13234975.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/beetrooper-landing-12895",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN241",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN090",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.92"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 13234975,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13234975.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13234975.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13234975.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.94",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

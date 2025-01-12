@@ -1,18 +1,45 @@
 {
     "id": 44632120,
     "name": "Kuribah",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "(This card is always treated as a \"Kuriboh\" card.)\r\nWhen this card, or another \"Kuriboh\" monster, you control is destroyed by battle: You can Special Summon 1 monster with 300 ATK/200 DEF from your Deck, except \"Kuribah\". You can only use this effect of \"Kuribah\" once per turn. You can Tribute this card you control and 1 each of \"Kuribee\", \"Kuriboo\", \"Kuribeh\" and \"Kuriboh\" from your hand and/or field; Special Summon 1 \"Kuribabylon\" from your hand, Deck, or GY.",
+    "race": "Fiend",
     "atk": 300,
     "def": 200,
     "level": 1,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Kuriboh",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44632120.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44632120.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44632120.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kuribah-12273",
+    "card_sets": [
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.55"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44632120,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44632120.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44632120.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44632120.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.33",
+            "ebay_price": "8.95",
+            "amazon_price": "1.08",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

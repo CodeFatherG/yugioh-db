@@ -1,18 +1,53 @@
 {
     "id": 92798873,
     "name": "Dinomorphia Rexterm",
+    "typeline": [
+        "Dinosaur",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 \"Dinomorphia\" Fusion Monster + 1 \"Dinomorphia\" monster\r\nYour opponent cannot activate the effects of monsters they control that have ATK greater than or equal to your LP. You can only use each of the following effects of \"Dinomorphia Rexterm\" once per turn. (Quick Effect): You can pay half your LP; the ATK of all monsters your opponent currently controls become equal to your LP, until the end of this turn. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 6 or lower \"Dinomorphia\" monster from your GY.",
+    "race": "Dinosaur",
     "atk": 3000,
     "def": 0,
     "level": 8,
-    "race": "Dinosaur",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Dinomorphia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92798873.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92798873.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92798873.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dinomorphia-rexterm-13006",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN082",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN038",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92798873,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92798873.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92798873.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92798873.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.68",
+            "ebay_price": "2.55",
+            "amazon_price": "3.59",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

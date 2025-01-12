@@ -1,18 +1,51 @@
 {
     "id": 26259179,
     "name": "Couple of Aces",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your hand: You can toss a coin and if the result is heads, Special Summon this card to your field, or if the result is tails, Special Summon this card to your opponent's field. You can only use this effect of \"Couple of Aces\" once per turn. If this card is Special Summoned by its effect: Draw 2 cards.",
+    "race": "Fairy",
     "atk": 100,
     "def": 100,
     "level": 2,
-    "race": "Fairy",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/26259179.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26259179.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26259179.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/couple-of-aces-13501",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN316",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 26259179,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26259179.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26259179.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26259179.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

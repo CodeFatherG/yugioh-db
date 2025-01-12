@@ -1,18 +1,35 @@
 {
     "id": 89974735,
     "name": "Burgundy the Magic Elf",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If a card(s) is discarded from your opponent's hand by card effect (except during the Damage Step): You can inflict 400 damage to your opponent for each card discarded. When this card is destroyed by battle and sent to the GY: You can discard 1 random card from your opponent's hand. You can only use each effect of \"Burgundy the Magic Elf\" once per turn.",
+    "race": "Spellcaster",
     "atk": 1600,
     "def": 1400,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/89974735.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89974735.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89974735.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/burgundy-the-magic-elf-14159",
+    "card_images": [
+        {
+            "id": 89974735,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89974735.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89974735.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89974735.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

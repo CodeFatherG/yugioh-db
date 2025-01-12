@@ -2,17 +2,49 @@
     "id": 35479109,
     "name": "Double Dust Tornado Twins",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target any number of Set cards in your Spell & Trap Zone; return this card to the hand, along with as many of those Set cards as possible (min. 1), then you can Set Spells/Traps from your hand equal to the number of cards returned to your hand by this effect. You can only activate 1 \"Double Dust Tornado Twins\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35479109.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35479109.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35479109.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/double-dust-tornado-twins-13243",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN147",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN306",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN080",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.88"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35479109,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35479109.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35479109.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35479109.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.02",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

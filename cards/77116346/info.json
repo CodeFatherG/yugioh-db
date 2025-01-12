@@ -2,17 +2,43 @@
     "id": 77116346,
     "name": "Dinomist Charge",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: Add 1 \"Dinomist\" monster from your Deck to your hand. Once per turn, if a \"Dinomist\" card(s) is added from the field to your Extra Deck face-up: Add 1 of those cards to your hand. You can only activate 1 \"Dinomist Charge\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dinomist",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77116346.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77116346.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77116346.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dinomist-charge-6489",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN218",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Breakers of Shadow",
+            "set_code": "BOSH-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 77116346,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77116346.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77116346.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77116346.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "1.96",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

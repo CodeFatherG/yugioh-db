@@ -2,17 +2,36 @@
     "id": 64767757,
     "name": "Materiactor Critical",
     "type": "Trap Card",
-    "desc": "When a Spell/Trap Card, or monster effect, is activated: Add 1 of your cards attached to 1 \"Materiactor\" Xyz Monster you control to your hand, and if you do, negate the activation, then apply this effect based on the added card's type.\r\n\u25cf Monster: Place 1 card from your hand on the bottom of the Deck.\r\n\u25cf Spell: All \"Materiactor\" Xyz Monsters you currently control gain 1000 ATK.\r\n\u25cf Trap: You can Set the added card.\r\nYou can only activate 1 \"Materiactor Critical\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
+    "desc": "When a Spell/Trap Card, or monster effect, is activated: Add 1 of your materials from a \"Materiactor\" Xyz Monster you control to your hand, and if you do, negate the activation, then apply the following effect based on the card type added.\r\n\u25cf Monster: Place 1 card from your hand on the bottom of the Deck.\r\n\u25cf Spell: \"Materiactor\" Xyz Monsters you control gain 1000 ATK.\r\n\u25cf Trap: You can Set that added card.\r\nYou can only activate 1 \"Materiactor Critical\" per turn.",
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
     "archetype": "Materiactor",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64767757.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64767757.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64767757.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/materiactor-critical-14758",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN074",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64767757,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64767757.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64767757.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64767757.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,46 @@
 {
     "id": 46804536,
     "name": "Battlin' Boxer King Dempsey",
+    "typeline": [
+        "Warrior",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 4 monsters\r\nIf this card is Special Summoned: You can take 1 Level 4 or lower FIRE Warrior monster or 1 \"Battlin' Boxing\" Spell/Trap from your Deck, and either add it to your hand or send it to the GY. (Quick Effect): You can detach 1 material from a monster you control, and if you do, apply the following effect.\r\n\u25cf Your opponent cannot target \"Battlin' Boxer\" monsters you control with card effects for the rest of this turn.\r\nYou can only use each effect of \"Battlin' Boxer King Dempsey\" once per turn.",
+    "race": "Warrior",
     "atk": 2300,
     "def": 1800,
     "level": 4,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Battlin' Boxer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46804536.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46804536.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46804536.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/battlin-boxer-king-dempsey-13837",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN036",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46804536,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46804536.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46804536.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46804536.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.31",
+            "tcgplayer_price": "2.10",
+            "ebay_price": "6.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "9.99"
+        }
+    ]
 }

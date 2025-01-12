@@ -1,18 +1,59 @@
 {
     "id": 28868394,
     "name": "Traptrix Vesiculo",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Unaffected by the effects of \"Hole\" Normal Traps. You can only use 1 of the following effects of \"Traptrix Vesiculo\" per turn, and only once that turn. You can send 1 Set Trap you control to the GY; Special Summon this card from your hand. If you control no cards in your Spell & Trap Zone: You can banish this card from your GY, then target 1 \"Hole\" Normal Trap in your GY; Set it to your field.",
+    "race": "Plant",
     "atk": 1400,
     "def": 1400,
     "level": 4,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Traptrix",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28868394.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28868394.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28868394.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-vesiculo-11837",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN063",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28868394,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28868394.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28868394.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28868394.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.50",
+            "amazon_price": "18.12",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,35 @@
 {
     "id": 97476032,
     "name": "Ice Doll",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can discard 1 other WATER monster; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 WATER Spellcaster monster from your Deck to your hand. If this card is sent from the field to the GY: You can add 1 \"Ice Doll Mirror\" from your Deck to your hand. You can only use each effect of \"Ice Doll\" once per turn, also you cannot Special Summon the turn you activate any of this card's effects, except WATER monsters.",
+    "race": "Spellcaster",
     "atk": 800,
     "def": 1000,
     "level": 2,
-    "race": "Spellcaster",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/97476032.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97476032.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97476032.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ice-doll-14848",
+    "card_images": [
+        {
+            "id": 97476032,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97476032.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97476032.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97476032.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

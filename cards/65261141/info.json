@@ -2,17 +2,36 @@
     "id": 65261141,
     "name": "Nightmare Pain",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "During your Main Phase: You can destroy 1 DARK monster in your hand or face-up field, and if you do, add 1 \"Yubel\", or 1 card that mentions it, from your Deck to your hand, except \"Nightmare Pain\". You can only use this effect of \"Nightmare Pain\" once per turn. While you control a \"Yubel\" monster, your opponent's monsters that can attack must attack \"Yubel\" monsters. Your opponent takes any battle damage you would have taken from battles involving your \"Yubel\" monsters.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Signature move",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65261141.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65261141.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65261141.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nightmare-pain-14116",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN054",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65261141,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65261141.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65261141.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65261141.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.49",
+            "tcgplayer_price": "1.47",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

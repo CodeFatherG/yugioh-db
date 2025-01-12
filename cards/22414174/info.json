@@ -2,17 +2,36 @@
     "id": 22414174,
     "name": "Synchro Creed",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "If a Synchro Monster is on the field: Draw 1 card, then, if 3 or more Synchro Monsters are on the field, you can draw 1 more card. You can only activate 1 \"Synchro Creed\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Synchro",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/22414174.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22414174.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22414174.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/synchro-creed-14270",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN029",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22414174,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22414174.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22414174.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22414174.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

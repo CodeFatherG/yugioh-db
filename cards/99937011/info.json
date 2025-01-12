@@ -1,18 +1,49 @@
 {
     "id": 99937011,
     "name": "Mudora the Sword Oracle",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can discard 1 other EARTH Fairy monster; Special Summon this card from your hand, then you can place 1 \"Gravekeeper's Trap\" from your Deck face-up in your Spell & Trap Zone. (Quick Effect): You can banish this card from your field or GY, then target up to 3 cards in any GY(s), or up to 5 if \"Exchange of the Spirit\" is on your field or in your GY; shuffle them into the Deck. You can only use each effect of \"Mudora the Sword Oracle\" once per turn.",
+    "race": "Fairy",
     "atk": 1500,
     "def": 1800,
     "level": 4,
-    "race": "Fairy",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Exchange of the Spirit",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99937011.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99937011.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99937011.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mudora-the-sword-oracle-13194",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN026",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited",
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 99937011,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99937011.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99937011.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99937011.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.51",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "1.79",
+            "amazon_price": "0.74",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

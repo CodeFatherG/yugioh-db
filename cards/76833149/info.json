@@ -1,18 +1,67 @@
 {
     "id": 76833149,
     "name": "Melffy Mommy",
+    "typeline": [
+        "Beast",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 2 Beast monsters\r\nOnce per turn (Quick Effect): You can attach 1 Beast monster from your hand or face-up field to this card as material. This card gains effects based on the number of materials attached to it.\r\n\u25cf 3+: Cannot be destroyed by battle.\r\n\u25cf 4+: You take no damage from battles involving this card.\r\n\u25cf 5+: When an attack is declared involving this card and an Attack Position monster: You can inflict damage to your opponent equal to that Attack Position monster's ATK.",
+    "race": "Beast",
     "atk": 1000,
     "def": 1000,
     "level": 2,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Melffy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/76833149.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76833149.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76833149.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/melffy-mommy-10992",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN130",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.89"
+        },
+        {
+            "set_name": "OTS Tournament Pack 15",
+            "set_code": "OP15-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 15 (POR)",
+            "set_code": "OP15-PT011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 76833149,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76833149.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76833149.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76833149.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

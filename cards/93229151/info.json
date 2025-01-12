@@ -2,17 +2,43 @@
     "id": 93229151,
     "name": "Runick Smiting Storm",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Activate 1 of these effects, but skip your next Battle Phase after activation;\r\n\u25cf Banish cards from the top of your opponent's Deck, up to the number of cards they control.\r\n\u25cf Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\r\nYou can only activate 1 \"Runick Smiting Storm\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Runick",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93229151.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93229151.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93229151.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/runick-smiting-storm-13081",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN248",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN036",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93229151,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93229151.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93229151.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93229151.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "4.24",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

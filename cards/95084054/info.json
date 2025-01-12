@@ -2,17 +2,36 @@
     "id": 95084054,
     "name": "Wattcannon",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Once per turn, when a Level 4 or lower Thunder-Type monster(s) is Normal or Special Summoned to the field, inflict 600 damage to your opponent.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Watt",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/95084054.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95084054.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95084054.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wattcannon-7914",
+    "card_sets": [
+        {
+            "set_name": "Duelist Revolution",
+            "set_code": "DREV-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 95084054,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95084054.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95084054.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95084054.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

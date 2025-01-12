@@ -2,17 +2,35 @@
     "id": 86742443,
     "name": "Royal Writ of Taxation",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only during your opponent's Standby Phase. Select 1 random card from your opponent's hand and look at it. Unless the selected card or a card with the same name is Normal Summoned or activated by the end of your next turn, inflict 1000 damage to your opponent. If the selected card or a card with the same name is Normal Summoned or activated by the end of your next turn, you take 1000 damage.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/86742443.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86742443.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86742443.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/royal-writ-of-taxation-7260",
+    "card_sets": [
+        {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 86742443,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86742443.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86742443.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86742443.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

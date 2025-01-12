@@ -1,18 +1,45 @@
 {
     "id": 59369430,
     "name": "Golgoil the Steel Seismic Smasher",
+    "typeline": [
+        "Illusion",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Golgoil the Steel Seismic Smasher\" once per turn. After damage calculation, if your Machine or Illusion monster battled: You can target 1 of your monsters that is banished or in your GY; Special Summon it. If this card is banished from the field: You can Special Summon it.",
+    "race": "Illusion",
     "atk": 1800,
     "def": 3200,
     "level": 10,
-    "race": "Illusion",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Djinn",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59369430.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59369430.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59369430.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/golgoil-the-steel-seismic-smasher-14344",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59369430,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59369430.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59369430.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59369430.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

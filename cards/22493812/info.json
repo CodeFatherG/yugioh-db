@@ -2,17 +2,26 @@
     "id": 22493812,
     "name": "Army Ant Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Multiplication of Ants\". This Token cannot be used as a Tribute for a Tribute Summon.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Insect",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/22493812.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22493812.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22493812.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/army-ant-token-1933",
+    "card_images": [
+        {
+            "id": 22493812,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22493812.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22493812.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22493812.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 73192600,
     "name": "World Legacy Cliffhanger",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When an attack is declared involving 2 Link Monsters: Shuffle all monsters on the field and in the GYs into the Decks. For the rest of this turn after this card resolves, neither player can Link Summon.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "World Legacy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73192600.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73192600.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73192600.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/world-legacy-cliffhanger-10067",
+    "card_sets": [
+        {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN082",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.03"
+        },
+        {
+            "set_name": "Dark Neostorm",
+            "set_code": "DANE-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73192600,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73192600.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73192600.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73192600.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

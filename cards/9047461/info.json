@@ -2,17 +2,27 @@
     "id": 9047461,
     "name": "Steam Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Blackwing - Steam the Cloak\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Aqua",
-    "attribute": null,
-    "scale": null,
     "archetype": "Blackwing",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9047461.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9047461.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9047461.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/steam-token-765",
+    "card_images": [
+        {
+            "id": 9047461,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9047461.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9047461.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9047461.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.88",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

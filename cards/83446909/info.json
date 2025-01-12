@@ -1,18 +1,45 @@
 {
     "id": 83446909,
     "name": "Batteryman Charger",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned, you can Special Summon 1 \"Batteryman\" monster, except \"Batteryman Charger\", from your hand or Deck. This card gains 300 ATK and DEF for each Thunder-Type monster you control.",
+    "race": "Thunder",
     "atk": 1800,
     "def": 1200,
     "level": 5,
-    "race": "Thunder",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Batteryman",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83446909.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83446909.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83446909.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/batteryman-charger-7004",
+    "card_sets": [
+        {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83446909,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83446909.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83446909.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83446909.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "1.50",
+            "amazon_price": "0.29",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

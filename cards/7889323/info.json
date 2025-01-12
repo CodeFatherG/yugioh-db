@@ -2,17 +2,43 @@
     "id": 7889323,
     "name": "Tri-Brigade Showdown",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "If a Beast, Beast-Warrior, or Winged Beast monster is Special Summoned to your field (except during the Damage Step): You can target 1 of your banished \"Tri-Brigade\" monsters; add it to your hand. After damage calculation, if your \"Tri-Brigade\" monster battled an opponent's monster: You can return the opponent's monster to the hand. You can only use each effect of \"Tri-Brigade Showdown\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Tri-Brigade",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7889323.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7889323.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7889323.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tri-brigade-showdown-13398",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN198",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7889323,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7889323.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7889323.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7889323.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

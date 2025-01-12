@@ -2,17 +2,27 @@
     "id": 28674153,
     "name": "Radian Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned by the effect of \"Radian, the Multidimensional Kaiju\". Cannot be used as a Synchro Material monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Fiend",
-    "attribute": null,
-    "scale": null,
     "archetype": "Kaiju",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28674153.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28674153.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28674153.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/radian-token-2444",
+    "card_images": [
+        {
+            "id": 28674153,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28674153.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28674153.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28674153.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "3.45",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

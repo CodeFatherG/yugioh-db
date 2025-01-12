@@ -2,17 +2,42 @@
     "id": 93747864,
     "name": "Desert Sunlight",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "All monsters on your side of the field are changed to face-up Defense Position.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93747864.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93747864.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93747864.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/desert-sunlight-7802",
+    "card_sets": [
+        {
+            "set_name": "Ancient Sanctuary",
+            "set_code": "AST-106",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.82"
+        },
+        {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN219",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93747864,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93747864.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93747864.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93747864.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.66",
+            "ebay_price": "0.99",
+            "amazon_price": "4.53",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

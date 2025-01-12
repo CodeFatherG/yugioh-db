@@ -2,17 +2,35 @@
     "id": 93918159,
     "name": "Supersoaring",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 Dinosaur monster that is banished or in either GY; Special Summon it to your field. You can only activate 1 \"Supersoaring\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93918159.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93918159.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93918159.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/supersoaring-13768",
+    "card_sets": [
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN007",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93918159,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93918159.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93918159.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93918159.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

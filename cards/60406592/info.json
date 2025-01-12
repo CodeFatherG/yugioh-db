@@ -2,17 +2,26 @@
     "id": 60406592,
     "name": "Sinister Seed Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Sinister Seeds\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Plant",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60406592.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60406592.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60406592.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sinister-seed-token-5124",
+    "card_images": [
+        {
+            "id": 60406592,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60406592.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60406592.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60406592.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "4.26",
+            "amazon_price": "1.19",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

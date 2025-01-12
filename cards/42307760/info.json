@@ -1,14 +1,20 @@
 {
     "id": 42307760,
     "name": "Ragnaraika Stag Sovereign",
+    "typeline": [
+        "Insect",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ Insect, Plant, and/or Reptile monsters\r\nIf a monster(s) is Special Summoned from your opponent's Deck and/or Extra Deck (except during the Damage Step): You can destroy 2 monsters on the field. If this card is in your GY: You can target 1 Insect, Plant, or Reptile monster you control; place it on the bottom of the Deck, and if you do, Special Summon this card, also you cannot Special Summon for the rest of this turn, except Insect, Plant, or Reptile monsters. You can only use each effect of \"Ragnaraika Stag Sovereign\" once per turn.",
+    "race": "Insect",
     "atk": 3300,
     "def": null,
     "level": null,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Ragnaraika",
     "linkval": 5,
     "linkmarkers": [
@@ -18,7 +24,38 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/42307760.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42307760.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42307760.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ragnaraika-stag-sovereign-14315",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN050",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN050",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42307760,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42307760.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42307760.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42307760.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.72",
+            "tcgplayer_price": "2.56",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,46 @@
 {
     "id": 22723778,
     "name": "Clorless, Chaos King of Dark World",
+    "typeline": [
+        "Fiend",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "\"Reign-Beaux, Overlord of Dark World\" + 2+ Fiend monsters\r\nIf this card is Fusion Summoned: You can destroy all cards your opponent controls. This card's original ATK/DEF each become the number of materials used for its Summon x 1000. Once per turn (Quick Effect): You can target 1 face-up card you control; discard 1 card, also your opponent cannot target that face-up card with card effects for the rest of this turn.",
+    "race": "Fiend",
     "atk": -1,
     "def": -1,
     "level": 12,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Dark World",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/22723778.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22723778.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22723778.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clorless-chaos-king-of-dark-world-13850",
+    "card_sets": [
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN014",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22723778,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22723778.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22723778.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22723778.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.57",
+            "tcgplayer_price": "0.61",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

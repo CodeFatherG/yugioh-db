@@ -1,21 +1,51 @@
 {
     "id": 49867899,
     "name": "Fiendsmith's Sequence",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters, including a LIGHT Fiend monster\r\nDuring your Main Phase: You can Fusion Summon 1 Fiend Fusion Monster from your Extra Deck, by shuffling its materials from your GY into the Deck. You can target 1 LIGHT non-Link Fiend monster you control; equip this card from your field or GY to that monster you control as an Equip Spell with the following effect.\r\n\u25cf Your opponent cannot target the equipped monster with card effects.\r\nYou can only use each effect of \"Fiendsmith's Sequence\" once per turn.",
+    "race": "Fiend",
     "atk": 1200,
     "def": null,
     "level": null,
-    "race": "Fiend",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Fiendsmith",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/49867899.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49867899.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49867899.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiendsmith-s-sequence-14426",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49867899,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49867899.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49867899.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49867899.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

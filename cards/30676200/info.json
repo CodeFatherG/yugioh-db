@@ -1,18 +1,45 @@
 {
     "id": 30676200,
     "name": "Hero of the Ashened City",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If \"Obsidim, the Ashened City\" is in the Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Hero of the Ashened City\" once per turn this way. During the Main Phase (Quick Effect): You can target 1 Pyro monster on the field; destroy it, then if you destroyed \"Veidos the Eruption Dragon of Extinction\" by this effect, you can place 1 \"Obsidim, the Ashened City\" from your Deck face-up in your Field Zone. You can only use this effect of \"Hero of the Ashened City\" once per turn.",
+    "race": "Pyro",
     "atk": 2600,
     "def": 2100,
     "level": 7,
-    "race": "Pyro",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Ashened",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30676200.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30676200.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30676200.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hero-of-the-ashened-city-14374",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN092",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30676200,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30676200.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30676200.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30676200.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.34",
+            "tcgplayer_price": "0.36",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

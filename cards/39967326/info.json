@@ -2,17 +2,50 @@
     "id": 39967326,
     "name": "Revival of the Immortals",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Earthbound Immortal\" monster in your Graveyard; Special Summon it, but it cannot declare an attack this turn, also your opponent takes no battle damage from attacks involving it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Earthbound",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39967326.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39967326.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39967326.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/revival-of-the-immortals-3389",
+    "card_sets": [
+        {
+            "set_name": "Ancient Prophecy",
+            "set_code": "ANPR-EN089",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN157",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.33"
+        },
+        {
+            "set_name": "Legendary Duelists: Season 3",
+            "set_code": "LDS3-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.92"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39967326,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39967326.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39967326.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39967326.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "4.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

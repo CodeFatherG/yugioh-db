@@ -1,18 +1,56 @@
 {
     "id": 19510093,
     "name": "Superheavy Samurai Monk Big Benkei",
+    "typeline": [
+        "Machine",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nIf you control a \"Superheavy Samurai\" monster: You can add 1 \"Superheavy Samurai Soul\" monster from your Deck to your hand. You can only use this effect of \"Superheavy Samurai Monk Big Benkei\" once per turn.\n\n[ Monster Effect ] \nIf you have no Spells/Traps in your GY: You can send 1 \"Superheavy Samurai Big Benkei\" from your hand or Deck to the GY, and if you do, Special Summon this card from your hand. If this card is used as Synchro Material and added to your Extra Deck face-up: You can place this card in your Pendulum Zone. You can only use each effect of \"Superheavy Samurai Monk Big Benkei\" once per turn.",
+    "race": "Machine",
+    "pend_desc": "If you control a \"Superheavy Samurai\" monster: You can add 1 \"Superheavy Samurai Soul\" monster from your Deck to your hand. You can only use this effect of \"Superheavy Samurai Monk Big Benkei\" once per turn.",
+    "monster_desc": "If you have no Spells/Traps in your GY: You can send 1 \"Superheavy Samurai Big Benkei\" from your hand or Deck to the GY, and if you do, Special Summon this card from your hand. If this card is used as Synchro Material and added to your Extra Deck face-up: You can place this card in your Pendulum Zone. You can only use each effect of \"Superheavy Samurai Monk Big Benkei\" once per turn.",
     "atk": 1000,
     "def": 3500,
     "level": 8,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": 1,
     "archetype": "Superheavy Samurai",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19510093.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19510093.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19510093.jpg"
+    "scale": 1,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/superheavy-samurai-monk-big-benkei-13644",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN187",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19510093,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19510093.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19510093.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19510093.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

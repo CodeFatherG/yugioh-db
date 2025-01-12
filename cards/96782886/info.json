@@ -1,18 +1,49 @@
 {
     "id": 96782886,
     "name": "Mind Master",
+    "typeline": [
+        "Psychic",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "You can pay 800 Life Points and Tribute 1 Psychic-Type monster, except \"Mind Master\", to Special Summon 1 Level 4 or lower Psychic-Type monster from your Deck in face-up Attack Position.",
+    "race": "Psychic",
     "atk": 100,
     "def": 200,
     "level": 1,
-    "race": "Psychic",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96782886.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96782886.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96782886.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mind-master-8051",
+    "card_sets": [
+        {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN016",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Forbidden",
+        "ban_ocg": "Forbidden"
+    },
+    "card_images": [
+        {
+            "id": 96782886,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96782886.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96782886.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96782886.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.41",
+            "ebay_price": "1.95",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

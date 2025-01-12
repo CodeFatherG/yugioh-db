@@ -2,17 +2,35 @@
     "id": 67724434,
     "name": "Double Wild",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 Level 5 or lower monster you control; add 1 Level 10 monster from your Deck to your hand with the same original Type, then you can discard 1 card, and if you do, Special Summon 1 monster from your hand with that same Type, in Defense Position. You cannot Special Summon for the rest of this turn after this card resolves, except monsters with that original Type. You can only activate 1 \"Double Wild\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/67724434.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67724434.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67724434.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/double-wild-14803",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN065",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 67724434,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67724434.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67724434.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67724434.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.40",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

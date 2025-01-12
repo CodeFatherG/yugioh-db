@@ -1,18 +1,51 @@
 {
     "id": 51474037,
     "name": "Yamorimori",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can banish this card from your GY, then target 1 Reptile monster you control and 1 face-up monster your opponent controls, to activate 1 of these effects;\r\n\u25cf Change those monsters to face-down Defense Position.\r\n\u25cf Destroy that monster you control, and if you do, change the ATK of the other monster to 0 until the end of this turn.\r\nYou can only use this effect of \"Yamorimori\" once per turn.",
+    "race": "Reptile",
     "atk": 0,
     "def": 0,
     "level": 2,
-    "race": "Reptile",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/51474037.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51474037.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51474037.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/yamorimori-11923",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 51474037,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51474037.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51474037.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51474037.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,42 @@
     "id": 67523044,
     "name": "Ground Xeno",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Add 1 Dinosaur Tuner or Dinosaur Normal Monster from your Deck to your hand, then destroy 1 card in your hand. You can banish this card from your GY; Fusion Summon 1 Dinosaur Fusion Monster from your Extra Deck, using monsters from your hand or field as material. You can only use each effect of \"Ground Xeno\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/67523044.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67523044.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67523044.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ground-xeno-13735",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN138",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN006",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 67523044,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67523044.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67523044.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67523044.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "5.30",
+            "tcgplayer_price": "4.43",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "25.99"
+        }
+    ]
 }

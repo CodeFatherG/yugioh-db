@@ -2,17 +2,36 @@
     "id": 33503878,
     "name": "Abyss Script - Dramatic Story",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Abyss Actor\" Pendulum Monster you control; Special Summon 1 \"Abyss Actor\" monster from your Deck with a different name, then place the targeted monster in your Pendulum Zone or destroy it. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can return up to 2 cards on the field to the hand. You can only activate 1 \"Abyss Script - Dramatic Story\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Abyss Script",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33503878.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33503878.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33503878.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-script-dramatic-story-13539",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33503878,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33503878.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33503878.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33503878.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

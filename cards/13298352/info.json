@@ -1,18 +1,46 @@
 {
     "id": 13298352,
     "name": "Yaguramaru the Armor Ninja",
+    "typeline": [
+        "Machine",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 \"Ninja\" monsters with different Types\r\nMust first be either Fusion Summoned, or Special Summoned from your Extra Deck by Tributing the above cards. If this card is Special Summoned or flipped face-up: You can banish 1 other \"Ninja\" or \"Ninjitsu Art\" card from your hand, GY, or face-up field, then target 1 card on the field; banish it. You can only use this effect of \"Yaguramaru the Armor Ninja\" once per turn.",
+    "race": "Machine",
     "atk": 2000,
     "def": 2000,
     "level": 5,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Ninja",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/13298352.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13298352.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13298352.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/yaguramaru-the-armor-ninja-13533",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 13298352,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13298352.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13298352.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13298352.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

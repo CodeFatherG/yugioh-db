@@ -1,18 +1,51 @@
 {
     "id": 35026117,
     "name": "Labyrinth Heavy Tank",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Normal Summon this card without Tributing. Cannot attack the turn it is Normal Summoned. During your Main Phase: You can place 1 of your \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" that is banished, or in your hand or Deck, face-up in your Spell & Trap Zone as a Continuous Spell, then, if you control a \"Labyrinth Wall\" card, you can destroy 1 monster your opponent controls. You can only use this effect of \"Labyrinth Heavy Tank\" once per turn.",
+    "race": "Machine",
     "atk": 2400,
     "def": 2400,
     "level": 7,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35026117.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35026117.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35026117.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/labyrinth-heavy-tank-13763",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN257",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35026117,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35026117.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35026117.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35026117.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.49",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

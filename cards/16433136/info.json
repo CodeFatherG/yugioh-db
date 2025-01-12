@@ -2,17 +2,36 @@
     "id": 16433136,
     "name": "Mikanko Purification Dance",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "Equip only to a \"Mikanko\" monster. The equipped monster cannot be destroyed by card effects. If a monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can target 1 monster you control and 1 monster your opponent controls; return them to the hand. You can only use this effect of \"Mikanko Purification Dance\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
     "archetype": "Mikanko",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16433136.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16433136.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16433136.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mikanko-purification-dance-13464",
+    "card_sets": [
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN031",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16433136,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16433136.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16433136.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16433136.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

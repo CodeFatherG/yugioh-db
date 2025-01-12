@@ -2,17 +2,50 @@
     "id": 47436247,
     "name": "Shien's Dojo",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Each time a \"Six Samurai\" monster(s) is Normal or Special Summoned, place 1 Bushido Counter on this card. You can send this card to the GY; Special Summon 1 \"Six Samurai\" or \"Shien\" Effect Monster from your Main Deck, whose Level is less than or equal to the number of Bushido Counters on this card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Six Samurai",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47436247.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47436247.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47436247.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shien-s-dojo-4049",
+    "card_sets": [
+        {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN057",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Samurai Warlords Structure Deck",
+            "set_code": "SDWA-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.25"
+        },
+        {
+            "set_name": "Spirit Warriors",
+            "set_code": "SPWA-EN049",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.37"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47436247,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47436247.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47436247.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47436247.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.82",
+            "tcgplayer_price": "5.88",
+            "ebay_price": "2.94",
+            "amazon_price": "2.98",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

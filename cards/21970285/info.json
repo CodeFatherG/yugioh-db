@@ -1,18 +1,62 @@
 {
     "id": 21970285,
     "name": "Dragon Horn Hunter",
+    "typeline": [
+        "Warrior",
+        "Pendulum",
+        "Normal"
+    ],
     "type": "Pendulum Normal Monster",
+    "humanReadableCardType": "Pendulum Normal Monster",
+    "frameType": "normal_pendulum",
     "desc": "[ Pendulum Effect ] \nAll Normal Monsters gain 200 ATK. You take no battle damage from battles involving Normal Monsters you control.\n\n[ Monster Effect ] \n''The horns were needed to prepare a medicine for her village, suffering from a plague. Unknown to her, the dragons burned and trampled her village, once displaced from their den.''",
+    "race": "Warrior",
+    "pend_desc": "All Normal Monsters gain 200 ATK. You take no battle damage from battles involving Normal Monsters you control.",
+    "monster_desc": "''The horns were needed to prepare a medicine for her village, suffering from a plague. Unknown to her, the dragons burned and trampled her village, once displaced from their den.''",
     "atk": 2300,
     "def": 1000,
     "level": 6,
-    "race": "Warrior",
     "attribute": "DARK",
     "scale": 3,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21970285.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21970285.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21970285.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-horn-hunter-1891",
+    "card_sets": [
+        {
+            "set_name": "Demo Deck 2016",
+            "set_code": "DEM3-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        },
+        {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN000",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Alliance Sneak Peek Participation Card",
+            "set_code": "DUEA-ENSP1",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.71"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21970285,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21970285.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21970285.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21970285.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.60",
+            "ebay_price": "6.25",
+            "amazon_price": "3.03",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

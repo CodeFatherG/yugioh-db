@@ -1,18 +1,45 @@
 {
     "id": 46412900,
     "name": "Volcanic Emperor",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by banishing 3 Pyro monsters or 1 \"Blaze Accelerator\" card from your face-up field and/or GY. You can only Special Summon \"Volcanic Emperor\" once per turn. When Summoned this way: You can inflict 500 damage to your opponent for each banished Pyro monster, then you can Set 1 \"Volcanic\" Trap directly from your Deck. Each time your opponent Special Summons a monster(s), inflict 500 damage to your opponent.",
+    "race": "Pyro",
     "atk": 3100,
     "def": 2400,
     "level": 8,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Volcanic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46412900.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46412900.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46412900.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/volcanic-emperor-13844",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN018",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46412900,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46412900.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46412900.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46412900.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.02",
+            "tcgplayer_price": "1.63",
+            "ebay_price": "12.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "7.99"
+        }
+    ]
 }

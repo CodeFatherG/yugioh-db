@@ -2,17 +2,35 @@
     "id": 300102001,
     "name": "The World's Greatest Fisherman",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Mako",
+    "frameType": "skill",
     "desc": "[Flip this card over when you activate this Skill.]\r\n\r\nOnce per turn, you can pay 500 LP and discard 1 WATER monster, then add 1 WATER monster from your GY to your hand, with a different name and with a Level no more than twice the discarded monster's Level. If you do that, flip this card over.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Mako",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300102001.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300102001.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300102001.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-world-s-greatest-fisherman-10359",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel: Attack from the Deep",
+            "set_code": "SBAD-ENS01",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.47"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300102001,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300102001.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300102001.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300102001.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.54",
+            "tcgplayer_price": "0.59",
+            "ebay_price": "1.15",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

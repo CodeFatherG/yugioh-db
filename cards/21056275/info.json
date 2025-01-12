@@ -2,17 +2,35 @@
     "id": 21056275,
     "name": "Armed Rebeellion",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Special Summon 1 Insect monster with 1000 or less ATK from your hand or Deck, then if you Special Summoned from the Deck, send 1 monster you control to the GY, also you cannot Special Summon for the rest of this turn after this card resolves, except Insect monsters. If a face-up Insect Synchro Monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can banish this card; add 1 \"Summoning Swarm\" from your Deck to your hand. You can only activate 1 \"Armed Rebeellion\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21056275.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21056275.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21056275.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/armed-rebeellion-14617",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21056275,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21056275.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21056275.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21056275.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

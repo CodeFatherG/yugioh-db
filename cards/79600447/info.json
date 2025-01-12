@@ -2,17 +2,36 @@
     "id": 79600447,
     "name": "Mementotlan Cranium Burst",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "While you control a \"Memento\" monster, your opponent's monsters that can attack must attack the \"Memento\" monster you control with the highest ATK (their choice, if tied). When your opponent activates a monster effect on the field (except during the Damage Step): You can target 1 \"Mementoal Tecuhtlica - Combined Creation\" you control; it loses exactly 1000 ATK/DEF, and if it does, negate that activated effect. You can only activate this effect of \"Mementotlan Cranium Burst\" once per Chain.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Memento",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/79600447.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79600447.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79600447.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mementotlan-cranium-burst-14042",
+    "card_sets": [
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN012",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79600447,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79600447.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79600447.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79600447.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

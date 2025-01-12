@@ -1,18 +1,45 @@
 {
     "id": 49296203,
     "name": "Karakuri Bonze mdl 9763 \"Kunamzan\"",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card must attack, if able. If this card is targeted for an attack: Change the battle position of this card. If this card is in your hand: You can target 1 \"Karakuri\" monster you control; change its battle position, and if you do, Special Summon this card as a Tuner, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except EARTH Machine monsters. You can only use this effect of \"Karakuri Bonze mdl 9763 \"Kunamzan\"\" once per turn.",
+    "race": "Machine",
     "atk": 2000,
     "def": 1500,
     "level": 5,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Karakuri",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49296203.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49296203.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49296203.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/karakuri-bonze-mdl-9763-kunamzan-10584",
+    "card_sets": [
+        {
+            "set_name": "Ignition Assault",
+            "set_code": "IGAS-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49296203,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49296203.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49296203.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49296203.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

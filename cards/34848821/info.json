@@ -1,18 +1,59 @@
 {
     "id": 34848821,
     "name": "Brigrand the Glory Dragon",
+    "typeline": [
+        "Beast",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "\"Fallen of Albaz\" + 1 Level 8 or higher monster\r\nCannot be destroyed by battle. While you control this Fusion Summoned card, your opponent cannot target other monsters you control with monster effects. During the End Phase, if this card is in the GY because it was sent there this turn: You can add to your hand, or Special Summon, 1 \"Tri-Brigade\" monster or 1 \"Fallen of Albaz\" from your Deck. You can only use this effect of \"Brigrand the Glory Dragon\" once per turn.",
+    "race": "Beast",
     "atk": 2500,
     "def": 2000,
     "level": 8,
-    "race": "Beast",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34848821.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34848821.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34848821.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/brigrand-the-glory-dragon-11371",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN185",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Rage",
+            "set_code": "PHRA-EN031",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Albaz Strike",
+            "set_code": "SDAZ-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.9"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34848821,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34848821.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34848821.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34848821.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "4.40",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

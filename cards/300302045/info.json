@@ -2,17 +2,35 @@
     "id": 300302045,
     "name": "Beware the Brothers Paradox!",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Paradox Broth",
+    "frameType": "skill",
     "desc": "Apply the following Skills:\r\n\u25cf You can Normal Summon Level 7 monsters for 1 less Tribute.\r\n\u25cf You can Tribute Summon 1 Level 7 monster face-up, in addition to your Normal Summon/Set.\r\n\u25cf Your opponent takes no effect damage.\r\n\u25cf You can only attack with 1 monster each turn, but that monster can make a second attack on monsters during each Battle Phase.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Paradox Broth",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302045.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302045.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302045.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/beware-the-brothers-paradox-13504",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENS09",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302045,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302045.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302045.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302045.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

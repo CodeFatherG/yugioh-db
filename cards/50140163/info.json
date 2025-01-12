@@ -1,18 +1,52 @@
 {
     "id": 50140163,
     "name": "Allure Queen LV7",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, during your Main Phase, if this card was Special Summoned by the effect of \"Allure Queen LV5\", you can select 1 monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) If this card would be destroyed by battle, the equipped monster is destroyed instead.",
+    "race": "Spellcaster",
     "atk": 1500,
     "def": 1500,
     "level": 7,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Allure Queen",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50140163.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50140163.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50140163.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/allure-queen-lv7-4270",
+    "card_sets": [
+        {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN008",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN008",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50140163,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50140163.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50140163.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50140163.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.34",
+            "tcgplayer_price": "3.35",
+            "ebay_price": "7.00",
+            "amazon_price": "1.40",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

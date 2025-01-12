@@ -2,17 +2,42 @@
     "id": 28493337,
     "name": "Armageddon Designator",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Banish 1 card from your hand; neither player can activate cards, or the effects of cards, with that name for the rest of this Duel.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28493337.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28493337.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28493337.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/armageddon-designator-2424",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN112",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN080",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28493337,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28493337.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28493337.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28493337.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

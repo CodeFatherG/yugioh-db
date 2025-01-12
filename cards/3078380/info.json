@@ -1,18 +1,52 @@
 {
     "id": 3078380,
     "name": "Timaeus the United Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can send 1 Spellcaster monster, or 1 Spell/Trap that mentions \"Dark Magician\", from your hand or face-up field to the GY; Special Summon this card from your hand. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material, including a Spellcaster monster. You can only use each effect of \"Timaeus the United Dragon\" once per turn.",
+    "race": "Dragon",
     "atk": 2800,
     "def": 1800,
     "level": 8,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Legendary Knight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3078380.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3078380.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3078380.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/timaeus-the-united-dragon-12562",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN003",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3078380,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3078380.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3078380.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3078380.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.51",
+            "tcgplayer_price": "1.15",
+            "ebay_price": "9.99",
+            "amazon_price": "1.10",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

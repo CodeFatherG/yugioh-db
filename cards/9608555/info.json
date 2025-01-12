@@ -1,18 +1,53 @@
 {
     "id": 9608555,
     "name": "Salamangreat Blaze Dragon",
+    "typeline": [
+        "Cyberse",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 4 monsters\r\nIf this card would be destroyed by battle or card effect, detach 1 material from this card instead. During the Battle Phase, if this card has no material (Quick Effect): You can Special Summon from your Extra Deck, 1 \"Salamangreat\" Xyz Monster by using this face-up card you control as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can only use this effect of \"Salamangreat Blaze Dragon\" once per turn. If this card is Xyz Summoned using \"Salamangreat Blaze Dragon\" as material: You can destroy 1 monster your opponent controls.",
+    "race": "Cyberse",
     "atk": 2300,
     "def": 1200,
     "level": 4,
-    "race": "Cyberse",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Salamangreat",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9608555.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9608555.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9608555.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-blaze-dragon-10509",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes",
+            "set_code": "TN23-EN007",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN025",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.57"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9608555,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9608555.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9608555.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9608555.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "85.99",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

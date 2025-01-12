@@ -1,18 +1,51 @@
 {
     "id": 87978805,
     "name": "Parasitic Ticky",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "The ATK and DEF of this card are each equal to the number of tokens on the field x 500.",
+    "race": "Insect",
     "atk": -1,
     "def": -1,
     "level": 1,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/87978805.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87978805.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87978805.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/parasitic-ticky-7356",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN138",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.34"
+        },
+        {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 87978805,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87978805.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87978805.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87978805.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.72",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

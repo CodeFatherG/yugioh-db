@@ -1,18 +1,65 @@
 {
     "id": 96428622,
     "name": "Cybernetic Cyclopean",
+    "typeline": [
+        "Beast-Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "While you have no cards in your hand, this card gains 1000 ATK.",
+    "race": "Beast-Warrior",
     "atk": 1400,
     "def": 200,
     "level": 4,
-    "race": "Beast-Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96428622.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96428622.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96428622.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cybernetic-cyclopean-8025",
+    "card_sets": [
+        {
+            "set_name": "Cybernetic Revolution",
+            "set_code": "CRV-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.23"
+        },
+        {
+            "set_name": "Starter Deck: Jaden Yuki",
+            "set_code": "YSDJ-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.17"
+        },
+        {
+            "set_name": "Starter Deck: Kaiba Reloaded",
+            "set_code": "YSKR-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96428622,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96428622.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96428622.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96428622.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

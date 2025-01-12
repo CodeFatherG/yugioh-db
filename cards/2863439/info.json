@@ -1,18 +1,58 @@
 {
     "id": 2863439,
     "name": "Fiend Reflection #2",
+    "typeline": [
+        "Winged Beast",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A bird-beast that summons reinforcements with a hand mirror.",
+    "race": "Winged Beast",
     "atk": 1100,
     "def": 1400,
     "level": 4,
-    "race": "Winged Beast",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2863439.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2863439.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2863439.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiend-reflection-2-257",
+    "card_sets": [
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.65"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-E017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "6.73"
+        },
+        {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.24"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2863439,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2863439.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2863439.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2863439.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "20.00",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

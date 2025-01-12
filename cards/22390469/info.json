@@ -1,18 +1,46 @@
 {
     "id": 22390469,
     "name": "Gold Pride - Star Leon",
+    "typeline": [
+        "Thunder",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nDuring the Main Phase (Quick Effect): You can target 1 face-up monster your opponent controls; this card gains ATK equal to that target's original ATK, then, if your LP are lower than your opponent's, you can destroy that monster. You can only use the previous effect of \"Gold Pride - Star Leon\" once per turn. Once per turn, during the End Phase, if the previous effect was activated this turn: Return this card to the Extra Deck, and if you do, Special Summon 1 \"Gold Pride - Leon\" from your Deck or GY.",
+    "race": "Thunder",
     "atk": 2000,
     "def": 2000,
     "level": 6,
-    "race": "Thunder",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Gold Pride",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/22390469.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22390469.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22390469.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gold-pride-star-leon-13732",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN089",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22390469,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22390469.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22390469.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22390469.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.52",
+            "tcgplayer_price": "0.45",
+            "ebay_price": "1.43",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 300302031,
     "name": "Here Goes Something!",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Jaden Yuki",
+    "frameType": "skill",
     "desc": "Once per Duel, you can activate this Skill at the start of your Battle Phase, while you control exactly 1 \"Elemental HERO\" monster (and no other monsters). For the rest of this turn, that 1 monster gains 800 ATK while battling an opponent's monster and can attack all monsters your opponent controls, once each, also you cannot Special Summon monsters for the rest of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Jaden Yuki",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302031.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302031.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302031.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/here-goes-something-13221",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENS01",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302031,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302031.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302031.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302031.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "1.09",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

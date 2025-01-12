@@ -2,17 +2,36 @@
     "id": 40456412,
     "name": "Miracle of the Supreme King",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control \"Supreme King Z-ARC\": Activate 1 of these effects (but you can only use each effect of \"Miracle of the Supreme King\" once per turn);\r\n\u25cf Destroy 1 \"Supreme King Z-ARC\" you control, and if you do, Special Summon 1 \"Odd-Eyes\" Pendulum Monster or 1 LIGHT \"Supreme King Z-ARC\" from your Deck or Extra Deck, ignoring its Summoning conditions.\r\n\u25cf Place 1 face-up Pendulum Monster from your Extra Deck in your Pendulum Zone.\r\n\u25cf Set 1 Quick-Play Spell directly from your Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Supreme King",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/40456412.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40456412.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40456412.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/miracle-of-the-supreme-king-13966",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 40456412,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40456412.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40456412.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40456412.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

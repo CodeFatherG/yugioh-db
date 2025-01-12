@@ -2,17 +2,60 @@
     "id": 13035077,
     "name": "Dragonic Diagram",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "All \"True Draco\" and \"True King\" monsters on the field gain 300 ATK/DEF. The first time each Tribute Summoned \"True Draco\" or \"True King\" monster would be destroyed by battle each turn, it is not destroyed. Once per turn: You can destroy 1 other card you control or in your hand, and if you do, add 1 \"True Draco\" or \"True King\" card from your Deck to your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "True Draco",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/13035077.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13035077.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13035077.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragonic-diagram-8341",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN015",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN125",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Relentless Revenge",
+            "set_code": "BLRR-EN096",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maximum Crisis",
+            "set_code": "MACR-EN053",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 13035077,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13035077.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13035077.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13035077.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "9.99",
+            "amazon_price": "4.93",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

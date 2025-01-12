@@ -1,18 +1,46 @@
 {
     "id": 9603252,
     "name": "Witchcrafter Vice-Madame",
+    "typeline": [
+        "Spellcaster",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 \"Witchcrafter\" monster + 1 Spellcaster monster\r\nWhen a Spell Card or effect, or a non-Fusion Spellcaster monster effect, is activated (Quick Effect): You can activate 1 of these effects (but you can only use each effect of \"Witchcrafter Vice-Madame\" once per turn).\r\n\u25cf Destroy 1 card on the field.\r\n\u25cf Special Summon 1 Level 6 or lower \"Witchcrafter\" monster from your hand or Deck.\r\n\u25cf Add 1 \"Witchcrafter\" Spell/Trap from your GY to your hand.",
+    "race": "Spellcaster",
     "atk": 2700,
     "def": 2800,
     "level": 8,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Witchcrafter",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9603252.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9603252.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9603252.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/witchcrafter-vice-madame-12958",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN020",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9603252,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9603252.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9603252.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9603252.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "1.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

@@ -1,21 +1,57 @@
 {
     "id": 71818935,
     "name": "Moon of the Closed Heaven",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Effect Monsters\r\nYou can target 1 face-up monster your opponent controls this card points to; this turn, if you Link Summon a Link-5 monster using this card you control, you can also use that monster your opponent controls as material. You can only use this effect of \"Moon of the Closed Heaven\" once per turn.",
+    "race": "Fiend",
     "atk": 1200,
     "def": null,
     "level": null,
-    "race": "Fiend",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Top",
         "Top-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/71818935.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71818935.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71818935.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/moon-of-the-closed-heaven-14305",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 26",
+            "set_code": "OP26-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN098",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71818935,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71818935.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71818935.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71818935.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,49 @@
 {
     "id": 65477143,
     "name": "Abyss Actor - Liberty Dramatist",
+    "typeline": [
+        "Fiend",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nWhen a monster declares an attack: You can discard 1 card; Special Summon this card to your opponent's field. You can only use this effect of \"Abyss Actor - Liberty Dramatist\" once per turn.\n\n[ Monster Effect ] \nIf this card is Special Summoned from the Pendulum Zone: The owner of this card reveals 3 \"Abyss Script\" Spells from their Deck, their opponent randomly picks 1 for this card's owner to Set on their field (but the owner destroys it during the End Phase), also shuffle the rest into the Deck. If this card is destroyed: You can shuffle 1 \"Abyss Script\" Spell from your GY into the Deck. You can only use each effect of \"Abyss Actor - Liberty Dramatist\" once per turn.",
+    "race": "Fiend",
+    "pend_desc": "When a monster declares an attack: You can discard 1 card; Special Summon this card to your opponent's field. You can only use this effect of \"Abyss Actor - Liberty Dramatist\" once per turn.",
+    "monster_desc": "If this card is Special Summoned from the Pendulum Zone: The owner of this card reveals 3 \"Abyss Script\" Spells from their Deck, their opponent randomly picks 1 for this card's owner to Set on their field (but the owner destroys it during the End Phase), also shuffle the rest into the Deck. If this card is destroyed: You can shuffle 1 \"Abyss Script\" Spell from your GY into the Deck. You can only use each effect of \"Abyss Actor - Liberty Dramatist\" once per turn.",
     "atk": 1500,
     "def": 1500,
     "level": 4,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": 8,
     "archetype": "Abyss Actor",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65477143.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65477143.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65477143.jpg"
+    "scale": 8,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-actor-liberty-dramatist-13536",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65477143,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65477143.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65477143.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65477143.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

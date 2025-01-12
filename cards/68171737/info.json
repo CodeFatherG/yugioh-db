@@ -1,18 +1,44 @@
 {
     "id": 68171737,
     "name": "Stone Dragon",
+    "typeline": [
+        "Rock",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A dragon formed by huge boulders that are also used to attack the enemy.",
+    "race": "Rock",
     "atk": 2000,
     "def": 2300,
     "level": 7,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68171737.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68171737.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68171737.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/stone-dragon-5731",
+    "card_sets": [
+        {
+            "set_name": "McDonald's Promotional Cards 2",
+            "set_code": "MDP2-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.05"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 68171737,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68171737.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68171737.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68171737.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "7.72",
+            "tcgplayer_price": "0.98",
+            "ebay_price": "8.95",
+            "amazon_price": "1.45",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

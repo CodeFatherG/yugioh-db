@@ -2,17 +2,42 @@
     "id": 41160595,
     "name": "Spell Calling",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "When this face-down card is destroyed and sent to the Graveyard by the effect of a Spell or Trap Card controlled by your opponent, select 1 Quick-Play Spell Card from your Deck and Set it after showing it to your opponent.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/41160595.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41160595.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41160595.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spell-calling-3508",
+    "card_sets": [
+        {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN039",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN039",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 41160595,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41160595.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41160595.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41160595.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

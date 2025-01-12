@@ -2,17 +2,36 @@
     "id": 77543769,
     "name": "Centur-Ion True Awakening",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "When a Spell/Trap Card, or monster effect, is activated: Send 1 face-up Monster Card from your Spell & Trap Zone to the GY; negate the activation, and if you do, destroy that card. You can only activate 1 \"Centur-Ion True Awakening\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
     "archetype": "Centur-Ion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77543769.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77543769.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77543769.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/centur-ion-true-awakening-14126",
+    "card_sets": [
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN024",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 77543769,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77543769.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77543769.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77543769.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

@@ -1,18 +1,28 @@
 {
     "id": 39491690,
-    "name": "Azamina Unleashing",
+    "name": "Azamina Aphes",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "(This card is always treated as a \"White Forest\" card.)\r\nTarget cards on the field up to the number of Fusion and Synchro Monsters (Fiend, Illusion, and Spellcaster) you control and in your GY; return them to the hand. If this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of \"Azamina Unleashing\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Azamina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39491690.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39491690.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39491690.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/azamina-unleashing-14780",
+    "card_images": [
+        {
+            "id": 39491690,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39491690.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39491690.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39491690.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

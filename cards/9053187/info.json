@@ -1,18 +1,51 @@
 {
     "id": 9053187,
     "name": "Gagagigo the Risen",
+    "typeline": [
+        "Reptile",
+        "Xyz"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Monster",
+    "frameType": "xyz",
     "desc": "3 Level 4 monsters",
+    "race": "Reptile",
     "atk": 2950,
     "def": 2800,
     "level": 4,
-    "race": "Reptile",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9053187.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9053187.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9053187.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gagagigo-the-risen-766",
+    "card_sets": [
+        {
+            "set_name": "Abyss Rising",
+            "set_code": "ABYR-EN050",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist League 17 participation cards",
+            "set_code": "DL17-EN012",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "3.81"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9053187,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9053187.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9053187.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9053187.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "6.45",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

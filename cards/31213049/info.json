@@ -2,17 +2,42 @@
     "id": 31213049,
     "name": "XX-clusion",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "When your opponent activates a monster effect in their hand: Negate that activation, then if they have any cards in their hand, you discard 1 card from their hand (of their choice).",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31213049.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31213049.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31213049.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/xx-clusion-13011",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN109",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN079",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.85"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31213049,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31213049.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31213049.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31213049.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

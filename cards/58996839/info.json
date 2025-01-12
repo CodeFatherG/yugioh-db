@@ -1,18 +1,45 @@
 {
     "id": 58996839,
     "name": "Ashoka Pillar",
+    "typeline": [
+        "Rock",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Summoned: You can add 1 Equip Spell from your Deck to your hand, then if this card is in Attack Position, change it to Defense Position. You can only use this effect of \"Ashoka Pillar\" once per turn. If this card is destroyed by battle or card effect: Take 2000 damage.",
+    "race": "Rock",
     "atk": 0,
     "def": 2200,
     "level": 3,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Ancient Treasure",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58996839.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58996839.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58996839.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ashoka-pillar-13848",
+    "card_sets": [
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN018",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58996839,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58996839.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58996839.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58996839.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

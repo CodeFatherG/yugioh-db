@@ -1,18 +1,52 @@
 {
     "id": 39354437,
     "name": "Icejade Aegirine",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add 1 \"Icejade\" Spell/Trap from your Deck to your hand. When your opponent activates a card or effect that targets this card, or targets this card for an attack (Quick Effect): You can activate this effect; the next time this card would be destroyed by battle or card effect this turn, it is not destroyed, also Special Summon 1 WATER monster from your hand or GY, except \"Icejade Aegirine\", but return it to the hand during the End Phase. You can only use each effect of \"Icejade Aegirine\" once per turn.",
+    "race": "Aqua",
     "atk": 1000,
     "def": 2000,
     "level": 3,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Icejade",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39354437.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39354437.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39354437.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/icejade-aegirine-12686",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN007",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39354437,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39354437.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39354437.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39354437.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "4.48",
+            "amazon_price": "0.63",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

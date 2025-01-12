@@ -2,17 +2,43 @@
     "id": 44771289,
     "name": "The Terminus of the Burning Abyss",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Fusion Summon 1 \"Burning Abyss\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 \"Burning Abyss\" monster on the field; it gains 800 ATK and DEF until the end of your opponent's next turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Burning Abyss",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44771289.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44771289.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44771289.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-terminus-of-the-burning-abyss-3812",
+    "card_sets": [
+        {
+            "set_name": "Crossed Souls",
+            "set_code": "CROS-EN085",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Premium Gold: Infinite Gold",
+            "set_code": "PGL3-EN088",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44771289,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44771289.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44771289.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44771289.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "2.45",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

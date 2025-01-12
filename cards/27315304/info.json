@@ -1,18 +1,66 @@
 {
     "id": 27315304,
     "name": "Mist Wurm",
+    "typeline": [
+        "Thunder",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 2 or more non-Tuner monsters\nIf this card is Synchro Summoned: Target up to 3 cards your opponent controls; return those targets to the hand.",
+    "race": "Thunder",
     "atk": 2500,
     "def": 1500,
     "level": 9,
-    "race": "Thunder",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27315304.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27315304.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27315304.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mist-wurm-2333",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN032",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal",
+            "set_code": "HA01-EN023",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN166",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN240",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27315304,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27315304.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27315304.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27315304.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.44",
+            "tcgplayer_price": "1.86",
+            "ebay_price": "1.44",
+            "amazon_price": "8.99",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

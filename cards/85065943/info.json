@@ -1,18 +1,53 @@
 {
     "id": 85065943,
     "name": "Saint Azamina",
+    "typeline": [
+        "Illusion",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
-    "desc": "1 Level 6 or higher Fusion Monster + 1 Level 6 or higher Synchro Monster\r\nYour opponent cannot target this card, cards they control, and cards in their GY and banishment with card effects, also they take any battle damage you would have taken instead. If this card was Fusion Summoned this turn (Quick Effect): You can Special Summon 1 Level 9 or lower \"Azamina\" monster from your Deck or Extra Deck. You can only use this effect of \"St. Azamina\" once per turn.",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "2 Level 6 or higher monsters (1 Fusion + 1 Synchro)\r\nYour opponent cannot target cards in their field, GY, or banishment, or this card on the field, with card effects. Your opponent takes any battle damage you would have taken. If this card was Fusion Summoned this turn (Quick Effect): You can Special Summon 1 Level 9 or lower \"Azamina\" monster from your Deck or Extra Deck. You can only use this effect of \"Saint Azamina\" once per turn.",
+    "race": "Illusion",
     "atk": 0,
     "def": 4000,
     "level": 10,
-    "race": "Illusion",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Azamina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85065943.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85065943.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85065943.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/saint-azamina-14777",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN036",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN036",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 85065943,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85065943.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85065943.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85065943.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

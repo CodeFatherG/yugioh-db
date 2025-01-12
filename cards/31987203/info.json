@@ -1,18 +1,49 @@
 {
     "id": 31987203,
     "name": "Harvest Angel of Doom",
+    "typeline": [
+        "Fairy",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nDuring your Main Phase: You can destroy this card, and if you do, add 1 \"Black Horn of Heaven\" from your Deck to your hand. You can only use this effect of \"Harvest Angel of Doom\" once per turn.\n\n[ Monster Effect ] \nIf this card is Normal or Pendulum Summoned: You can add 1 \"Horn of Heaven\" from your Deck to your hand. If this card is Tributed: You can place this card in your Pendulum Zone. You can only use each effect of \"Harvest Angel of Doom\" once per turn.",
+    "race": "Fairy",
+    "pend_desc": "During your Main Phase: You can destroy this card, and if you do, add 1 \"Black Horn of Heaven\" from your Deck to your hand. You can only use this effect of \"Harvest Angel of Doom\" once per turn.",
+    "monster_desc": "If this card is Normal or Pendulum Summoned: You can add 1 \"Horn of Heaven\" from your Deck to your hand. If this card is Tributed: You can place this card in your Pendulum Zone. You can only use each effect of \"Harvest Angel of Doom\" once per turn.",
     "atk": 1800,
     "def": 1000,
     "level": 4,
-    "race": "Fairy",
     "attribute": "DARK",
-    "scale": 8,
     "archetype": "Counter Fairy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31987203.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31987203.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31987203.jpg"
+    "scale": 8,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/harvest-angel-of-doom-13715",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN026",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31987203,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31987203.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31987203.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31987203.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

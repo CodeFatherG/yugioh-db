@@ -2,17 +2,26 @@
     "id": 48115278,
     "name": "Block Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Blockman\". This Token cannot declare an attack.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Rock",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48115278.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48115278.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48115278.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/block-token-4108",
+    "card_images": [
+        {
+            "id": 48115278,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48115278.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48115278.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48115278.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "2.22",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,42 @@
     "id": 2359348,
     "name": "Pendulum Area",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If all monsters you control are Pendulum Monsters (min. 1): Target 2 cards in your Pendulum Zones; destroy both cards, and if you do, neither player can Special Summon for the rest of this turn, except by Pendulum Summon.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2359348.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2359348.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2359348.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pendulum-area-211",
+    "card_sets": [
+        {
+            "set_name": "Dimension of Chaos",
+            "set_code": "DOCS-EN077",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN170",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0.89"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2359348,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2359348.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2359348.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2359348.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "1.25",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

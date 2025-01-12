@@ -1,18 +1,44 @@
 {
     "id": 57019473,
     "name": "Sishunder",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned: You can target 1 Level 4 LIGHT Thunder-Type monster with 1600 or less ATK in your Graveyard, except \"Sishunder\"; banish that target. During the End Phase of this turn, add that card to your hand.",
+    "race": "Thunder",
     "atk": 900,
     "def": 400,
     "level": 4,
-    "race": "Thunder",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57019473.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57019473.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57019473.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sishunder-4858",
+    "card_sets": [
+        {
+            "set_name": "Return of the Duelist",
+            "set_code": "REDU-EN097",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57019473,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57019473.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57019473.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57019473.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "2.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,35 @@
 {
     "id": 67841515,
     "name": "Barrel Lily",
+    "typeline": [
+        "Plant",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''This wicked flower attacks enemies with pollen projectiles.''",
+    "race": "Plant",
     "atk": 1100,
     "def": 600,
     "level": 3,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/67841515.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67841515.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67841515.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/barrel-lily-5699",
+    "card_images": [
+        {
+            "id": 67841515,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67841515.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67841515.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67841515.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.59",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "4.00",
+            "amazon_price": "79.99",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

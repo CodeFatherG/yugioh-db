@@ -1,18 +1,36 @@
 {
     "id": 5267507,
     "name": "Earthbound Immortal Red Nova",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "There can only be 1 \"Earthbound Immortal\" monster on the field. During the Main Phase (Quick Effect): You can banish this card from your hand or GY; send 1 \"Earthbound Immortal\" monster or \"Red Dragon Archfiend\" from your hand or face-up Monster Zone to the GY, then you can apply 1 of these effects.\r\n\u25cf Special Summon 1 \"Earthbound\" monster from your Deck or Extra Deck.\r\n\u25cf Special Summon 1 \"Red Nova Dragon\" from your Extra Deck. (This is treated as a Synchro Summon.)\r\nYou can only use this effect of \"Earthbound Immortal Red Nova\" once per turn.",
+    "race": "Fiend",
     "atk": 3500,
     "def": 3000,
     "level": 12,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Earthbound",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5267507.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5267507.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5267507.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/earthbound-immortal-red-nova-14528",
+    "card_images": [
+        {
+            "id": 5267507,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5267507.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5267507.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5267507.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 65961085,
     "name": "Wheel of Prophecy",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Special Summoned by the effect of a Spellcaster-Type monster: You can target any number of your banished \"Spellbook\" Spell Cards; shuffle them into the Deck, and if you do, return your other banished \"Spellbook\" Spell Cards to your Graveyard. You can only use the effect of \"Wheel of Prophecy\" once per turn.",
+    "race": "Spellcaster",
     "atk": 2700,
     "def": 1700,
     "level": 8,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Spellbook",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65961085.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65961085.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65961085.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wheel-of-prophecy-5550",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN017",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Lord of the Tachyon Galaxy",
+            "set_code": "LTGY-EN031",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65961085,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65961085.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65961085.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65961085.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

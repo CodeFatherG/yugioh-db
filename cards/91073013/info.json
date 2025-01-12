@@ -1,18 +1,52 @@
 {
     "id": 91073013,
     "name": "Vanquish Soul Caesar Valius",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Main Phase (Quick Effect): You can target 1 non-Dragon \"Vanquish Soul\" monster you control; return it to the hand, and if you do, Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\r\n\u25cf EARTH: This face-up card is unaffected by your opponent's activated effects this turn.\r\n\u25cf EARTH, FIRE, & DARK: Destroy 1 other card on the field.\r\nYou can only use each effect of \"Vanquish Soul Caesar Valius\" once per turn, and cannot activate more than 1 in the same Chain.",
+    "race": "Dragon",
     "atk": 3000,
     "def": 1500,
     "level": 8,
-    "race": "Dragon",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Vanquish Soul",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91073013.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91073013.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91073013.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-caesar-valius-13775",
+    "card_sets": [
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN021",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN021",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91073013,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91073013.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91073013.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91073013.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "7.52",
+            "tcgplayer_price": "11.54",
+            "ebay_price": "24.88",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "19.99"
+        }
+    ]
 }

@@ -1,18 +1,46 @@
 {
     "id": 56863746,
     "name": "Drytron Meteonis DA Draconids",
+    "typeline": [
+        "Machine",
+        "Ritual",
+        "Effect"
+    ],
     "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
     "desc": "You can Ritual Summon this card with \"Meteonis Drytron\". Other \"Drytron\" monsters you control cannot be destroyed by your opponent's card effects. Twice per turn, when your opponent activates a monster effect (Quick Effect): You can banish \"Drytron\" monsters (min. 1) from your GY whose total ATK equal or exceed the original ATK of that monster; negate the activation, and if you do, destroy it. If this Ritual Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 1 Ritual Monster with 4000 ATK from your hand or Deck. (This is treated as a Ritual Summon.)",
+    "race": "Machine",
     "atk": 5000,
     "def": 5000,
     "level": 12,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Drytron",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56863746.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56863746.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56863746.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/drytron-meteonis-da-draconids-14419",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN032",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56863746,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56863746.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56863746.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56863746.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,56 @@
     "id": 19827717,
     "name": "Return of the Doomed",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Discard 1 Monster Card from your hand to the Graveyard. Return 1 of your monsters destroyed and sent to your Graveyard as a result of battle during this turn to your hand at the end of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19827717.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19827717.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19827717.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/return-of-the-doomed-1706",
+    "card_sets": [
+        {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN224",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-021",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.46"
+        },
+        {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E021",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "4.94"
+        },
+        {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN021",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "6.39"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19827717,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19827717.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19827717.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19827717.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.77",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

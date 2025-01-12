@@ -2,17 +2,36 @@
     "id": 77946022,
     "name": "Tenyinfinity",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: You can add 1 \"Vessel for the Dragon Cycle\" or \"Heavenly Dragon Circle\" from your Deck to your hand. You can Tribute 1 Wyrm monster, then target 1 monster on the field; destroy it. You can only use this effect of \"Tenyinfinity\" once per turn. Once per turn, during your End Phase: You can send this card to the GY, and if you do, place 1 \"Flawless Perfection of the Tenyi\" from your Deck or GY, face-up in your Field Zone. You can only activate 1 \"Tenyinfinity\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Tenyi",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77946022.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77946022.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77946022.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tenyinfinity-14762",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN062",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 77946022,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77946022.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77946022.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77946022.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

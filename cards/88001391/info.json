@@ -2,17 +2,36 @@
     "id": 88001391,
     "name": "Zoma the Earthbound Spirit",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Special Summon this card as an Effect Monster (Zombie/DARK/Level 4/ATK 1800/DEF 500) with the following effect (this card is also still a Trap).\r\n\u25cf All monsters your opponent controls that can attack must attack this card.\r\nIf this card Summoned this way is destroyed by an opponent's monster's attack: Inflict damage to your opponent (max. 3000) equal to double the original ATK of the attacking monster. You can only use each effect of \"Zoma the Earthbound Spirit\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Earthbound",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88001391.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88001391.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88001391.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zoma-the-earthbound-spirit-14312",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN079",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88001391,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88001391.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88001391.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88001391.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 3204467,
     "name": "Worm Solid",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card gains 100 DEF for each Reptile-Type \"Worm\" monster in your Graveyard. If your opponent takes Battle Damage from attacking this card, at the end of the Damage Step select 1 Spell or Trap Card your opponent controls, and destroy it.",
+    "race": "Reptile",
     "atk": 1000,
     "def": 1600,
     "level": 4,
-    "race": "Reptile",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Worm",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3204467.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3204467.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3204467.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/worm-solid-292",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN029",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 3",
+            "set_code": "HA03-EN022",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3204467,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3204467.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3204467.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3204467.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "2.00",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

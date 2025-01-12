@@ -2,17 +2,43 @@
     "id": 96434581,
     "name": "Crusadia Power",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Crusadia\" monster you control; that \"Crusadia\" monster is unaffected by card effects this turn, except its own. You can only activate 1 \"Crusadia Power\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Crusadia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96434581.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96434581.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96434581.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crusadia-power-9445",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN117",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cybernetic Horizon",
+            "set_code": "CYHO-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96434581,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96434581.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96434581.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96434581.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

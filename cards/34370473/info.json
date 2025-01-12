@@ -2,17 +2,49 @@
     "id": 34370473,
     "name": "Gryphon's Feather Duster",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Destroy all Spell and Trap Cards on your side of the field. Increase your Life Points by the number of destroyed cards x 500 points.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34370473.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34370473.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34370473.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gryphon-s-feather-duster-2920",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN092",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-091",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.51"
+        },
+        {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-EN091",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34370473,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34370473.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34370473.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34370473.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,55 @@
 {
     "id": 77384395,
     "name": "Pazuzule",
+    "typeline": [
+        "Fiend",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nOnce per turn: You can target 1 card in your other Pendulum Zone; this card's Pendulum Scale becomes the Level of that Pendulum Monster Card until the end of this turn, also you cannot Special Summon for the rest of this turn, except by Pendulum Summon.\n\n[ Monster Effect ] \nPendulum Summons of your monsters cannot be negated.",
+    "race": "Fiend",
+    "pend_desc": "Once per turn: You can target 1 card in your other Pendulum Zone; this card's Pendulum Scale becomes the Level of that Pendulum Monster Card until the end of this turn, also you cannot Special Summon for the rest of this turn, except by Pendulum Summon.",
+    "monster_desc": "Pendulum Summons of your monsters cannot be negated.",
     "atk": 500,
     "def": 500,
     "level": 1,
-    "race": "Fiend",
     "attribute": "DARK",
     "scale": 1,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77384395.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77384395.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77384395.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pazuzule-12522",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN173",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN082",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.07"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 77384395,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77384395.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77384395.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77384395.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

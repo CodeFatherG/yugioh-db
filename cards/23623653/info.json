@@ -1,18 +1,52 @@
 {
     "id": 23623653,
     "name": "Spiritual Beast Tamer Lara",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can only Special Summon \"Spiritual Beast Tamer Lara(s)\" once per turn. You can discard this card; immediately after this effect resolves, Normal Summon 1 \"Ritual Beast\" monster from your hand. If a \"Ritual Beast\" card(s) you control would be destroyed by battle or card effect, you can banish this card from your field or GY instead. If this card is banished: You can Special Summon 1 \"Ritual Beast\" monster from your Deck, except \"Spiritual Beast Tamer Lara\". You can only use each effect of \"Spiritual Beast Tamer Lara\" once per turn.",
+    "race": "Psychic",
     "atk": 100,
     "def": 2000,
     "level": 1,
-    "race": "Psychic",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Ritual Beast",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23623653.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23623653.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23623653.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spiritual-beast-tamer-lara-14253",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN017",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN017",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 23623653,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23623653.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23623653.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23623653.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "15.01",
+            "tcgplayer_price": "14.29",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

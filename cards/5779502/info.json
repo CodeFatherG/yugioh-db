@@ -2,17 +2,35 @@
     "id": 5779502,
     "name": "Underdog",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "During your turn, negate the effects of all face-up monsters your opponent controls. During your opponent's turn, negate the effects of all face-up monsters you control.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5779502.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5779502.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5779502.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/underdog-11953",
+    "card_sets": [
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN092",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5779502,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5779502.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5779502.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5779502.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "1.25",
+            "amazon_price": "8.13",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

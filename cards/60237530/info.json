@@ -1,18 +1,46 @@
 {
     "id": 60237530,
     "name": "Dual Avatar Fists - Armored Ah-Gyo",
+    "typeline": [
+        "Warrior",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 \"Dual Avatar\" monsters\r\nIf this card is Special Summoned: You can target 1 Attack Position monster your opponent controls; destroy it, also this card cannot attack directly for the rest of this turn. You can only use this effect of \"Dual Avatar Fists - Armored Ah-Gyo\" once per turn. While you control a \"Dual Avatar\" Fusion Monster that was Fusion Summoned using an Effect Monster as material, all \"Dual Avatar\" Fusion Monsters you control gain 300 ATK/DEF.",
+    "race": "Warrior",
     "atk": 2100,
     "def": 1500,
     "level": 6,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Dual Avatar",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60237530.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60237530.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60237530.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dual-avatar-fists-armored-ah-gyo-11245",
+    "card_sets": [
+        {
+            "set_name": "Phantom Rage",
+            "set_code": "PHRA-EN032",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60237530,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60237530.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60237530.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60237530.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "2.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

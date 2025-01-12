@@ -1,20 +1,84 @@
 {
     "id": 32519092,
     "name": "Monk of the Tenyi",
+    "typeline": [
+        "Wyrm",
+        "Link"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Monster",
+    "frameType": "link",
     "desc": "1 non-Link \"Tenyi\" monster",
+    "race": "Wyrm",
     "atk": 1000,
     "def": null,
     "level": null,
-    "race": "Wyrm",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Tenyi",
     "linkval": 1,
     "linkmarkers": [
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/32519092.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32519092.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32519092.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/monk-of-the-tenyi-10208",
+    "card_sets": [
+        {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN121",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.66"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN056",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 18",
+            "set_code": "OP18-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 18 (POR)",
+            "set_code": "OP18-PT012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN043",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32519092,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32519092.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32519092.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32519092.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "5.49",
+            "amazon_price": "2.44",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

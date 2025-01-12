@@ -1,18 +1,53 @@
 {
     "id": 62023839,
     "name": "Fishborg Archer",
+    "typeline": [
+        "Fish",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your Graveyard and you control no monsters during either of your Main Phases: You can discard 1 WATER monster; Special Summon this card from your Graveyard, but destroy all monsters you control at the beginning of this turn's Battle Phase, except for WATER monsters. You can only use the effect of \"Fishborg Archer\" once per turn.",
+    "race": "Fish",
     "atk": 300,
     "def": 300,
     "level": 3,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Fishborg",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62023839.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62023839.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62023839.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fishborg-archer-5249",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN122",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN096",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 62023839,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62023839.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62023839.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62023839.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "4.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

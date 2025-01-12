@@ -2,17 +2,35 @@
     "id": 86527709,
     "name": "Insect Invitation",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Face-up monsters your opponent controls that were not Summoned this turn become Insect. You can only use each of the following effects of \"Insect Invitation\" once per turn. You can target 3 of your banished Insect monsters; shuffle them into the Deck, then draw 1 card. During the End Phase, if this card is in the GY because it was sent there from the hand this turn: You can place this card face-up in your Spell & Trap Zone.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/86527709.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86527709.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86527709.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/insect-invitation-14738",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN083",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 86527709,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86527709.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86527709.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86527709.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

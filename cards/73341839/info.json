@@ -1,21 +1,58 @@
 {
     "id": 73341839,
     "name": "Miniborrel Dragon",
+    "typeline": [
+        "Dragon",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 \"Rokket\" monsters\r\nIf you control a \"Borrel\" Link Monster while this card is in your GY: You can Tribute 1 Link-3 or lower monster; Special Summon this card, but it cannot be used as material for the Link Summon of a monster with the same Link Rating as the Tributed monster. You can only use this effect of \"Miniborrel Dragon\" once per turn.",
+    "race": "Dragon",
     "atk": 800,
     "def": null,
     "level": null,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Rokket",
     "linkval": 2,
     "linkmarkers": [
         "Left",
         "Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/73341839.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73341839.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73341839.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/miniborrel-dragon-9412",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN103",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cybernetic Horizon",
+            "set_code": "CYHO-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73341839,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73341839.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73341839.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73341839.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

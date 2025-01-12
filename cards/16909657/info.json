@@ -1,18 +1,45 @@
 {
     "id": 16909657,
     "name": "Reptilianne Scylla",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card destroys a monster with 0 ATK by battle, you can Special Summon that monster from the Graveyard to your side of the field in face-up Defense Position. The effect(s) of that monster is negated.",
+    "race": "Reptile",
     "atk": 1800,
     "def": 1200,
     "level": 4,
-    "race": "Reptile",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Reptilianne",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16909657.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16909657.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16909657.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/reptilianne-scylla-1455",
+    "card_sets": [
+        {
+            "set_name": "Stardust Overdrive",
+            "set_code": "SOVR-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16909657,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16909657.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16909657.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16909657.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "1.75",
+            "amazon_price": "1.78",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

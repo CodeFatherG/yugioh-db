@@ -2,17 +2,42 @@
     "id": 28604635,
     "name": "Weed Out",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Pay 500 Life Points. Destroy all face-up Attack Position Level 3 monsters.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28604635.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28604635.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28604635.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/weed-out-2437",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN114",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.47"
+        },
+        {
+            "set_name": "Elemental Energy",
+            "set_code": "EEN-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28604635,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28604635.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28604635.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28604635.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

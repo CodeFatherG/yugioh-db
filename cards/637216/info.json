@@ -1,18 +1,44 @@
 {
     "id": 637216,
     "name": "Monster Express",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 1 face-up monster you control; send 1 monster from your Extra Deck to the GY with the same original Type as that face-up monster, but for the rest of this turn, you cannot Special Summon monsters, except monsters with the same original Type as the monster sent to the GY by this effect. You can only use this effect of \"Monster Express\" once per turn.",
+    "race": "Machine",
     "atk": 1500,
     "def": 1200,
     "level": 4,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/637216.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/637216.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/637216.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/monster-express-10640",
+    "card_sets": [
+        {
+            "set_name": "Chaos Impact",
+            "set_code": "CHIM-EN000",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 637216,
+            "image_url": "https://images.ygoprodeck.com/images/cards/637216.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/637216.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/637216.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "1.87",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

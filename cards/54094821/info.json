@@ -2,17 +2,35 @@
     "id": 54094821,
     "name": "Ritual Buster",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only when a Ritual Monster is Ritual Summoned. Your opponent cannot activate any Spell or Trap Cards or use their effects until your next Standby Phase.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54094821.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54094821.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54094821.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ritual-buster-4604",
+    "card_sets": [
+        {
+            "set_name": "Stardust Overdrive",
+            "set_code": "SOVR-EN077",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54094821,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54094821.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54094821.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54094821.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.42",
+            "ebay_price": "1.09",
+            "amazon_price": "1.52",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

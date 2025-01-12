@@ -2,17 +2,35 @@
     "id": 91880660,
     "name": "Way Where There's a Will",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "During the Main Phase: The turn player can activate this effect; excavate cards from the top of your Deck, up to the number of cards your opponent controls, and if you do, add 1 of them to your hand, also, after that, place any remaining cards and 1 card from your hand on the bottom of the Deck in any order. You can only use this effect of \"Way Where There's a Will\" once per turn. During the End Phase of any turn a player excavated 9 or more cards at once by this card's effect: That player can activate this effect; shuffle all cards your opponent controls and in their GY into the Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91880660.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91880660.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91880660.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/way-where-there-s-a-will-14366",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN067",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91880660,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91880660.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91880660.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91880660.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

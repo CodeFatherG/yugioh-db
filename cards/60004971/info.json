@@ -2,17 +2,36 @@
     "id": 60004971,
     "name": "Dragunity Divine Lance",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "Equip only to a \"Dragunity\" monster. It gains ATK equal to its Level x 100, also it is unaffected by Trap effects. During your Main Phase: You can equip 1 Dragon-Type \"Dragunity\" Tuner monster from your Deck to the monster equipped with this card. You can only use this effect of \"Dragunity Divine Lance\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dragunity",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60004971.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60004971.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60004971.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-divine-lance-5099",
+    "card_sets": [
+        {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60004971,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60004971.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60004971.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60004971.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "1.90",
+            "amazon_price": "1.18",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

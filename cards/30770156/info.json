@@ -2,17 +2,36 @@
     "id": 30770156,
     "name": "Core Transport Unit",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Once per turn, you can discard 1 card to add 1 \"Iron Core of Koa'ki Meiru\" from your Deck to your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Koa'ki Meiru",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30770156.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30770156.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30770156.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/core-transport-unit-2613",
+    "card_sets": [
+        {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN089",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30770156,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30770156.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30770156.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30770156.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "7.82",
+            "tcgplayer_price": "12.11",
+            "ebay_price": "3.33",
+            "amazon_price": "5.90",
+            "coolstuffinc_price": "7.99"
+        }
+    ]
 }

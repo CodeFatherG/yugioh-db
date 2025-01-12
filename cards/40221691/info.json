@@ -1,18 +1,58 @@
 {
     "id": 40221691,
     "name": "Nightmare Magician",
+    "typeline": [
+        "Illusion",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card battles a monster, neither can be destroyed by that battle. At the end of the Damage Step, if this card battled an opponent's monster: You can take control of that opponent's monster. Once per turn, at the start of the Damage Step, if another monster attacks: You can destroy 1 card on the field.",
+    "race": "Illusion",
     "atk": 2500,
     "def": 2000,
     "level": 7,
-    "race": "Illusion",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/40221691.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40221691.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40221691.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nightmare-magician-13881",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN093",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN025",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN025",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 40221691,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40221691.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40221691.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40221691.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.43",
+            "tcgplayer_price": "0.40",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "7.99"
+        }
+    ]
 }

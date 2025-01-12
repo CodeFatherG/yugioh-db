@@ -1,18 +1,46 @@
 {
     "id": 6182103,
     "name": "Myutant Ultimus",
+    "typeline": [
+        "Psychic",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "3 Level 8 or higher \"Myutant\" monsters\r\nWhen a card or effect is activated (Quick Effect): You can banish 1 \"Myutant\" card from your hand, GY, or face-up field, of the same type (Monster, Spell, or Trap); negate the activation, and if you do, banish that card. If this Fusion Summoned card you control is destroyed by an opponent's card: You can add up to 3 of your banished \"Myutant\" cards (up to 1 each of Monster, Spell, and Trap) to your hand. You can only use each effect of \"Myutant Ultimus\" once per turn.",
+    "race": "Psychic",
     "atk": 3500,
     "def": 3000,
     "level": 10,
-    "race": "Psychic",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Myutant",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6182103.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6182103.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6182103.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/myutant-ultimus-11599",
+    "card_sets": [
+        {
+            "set_name": "Phantom Rage",
+            "set_code": "PHRA-EN091",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6182103,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6182103.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6182103.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6182103.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.18",
+            "tcgplayer_price": "0.68",
+            "ebay_price": "2.98",
+            "amazon_price": "39.99",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

@@ -1,18 +1,51 @@
 {
     "id": 99801464,
     "name": "Sari of the Silverwing Axe",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "(Quick Effect): You can target 1 face-up monster on the field; equip this card from your hand or field to it. It gains 100 ATK/DEF. You can only use this effect of \"Sari of the Silverwing Axe\" once per turn.",
+    "race": "Machine",
     "atk": 500,
     "def": 100,
     "level": 3,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99801464.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99801464.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99801464.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sari-of-the-silverwing-axe-13566",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN315",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 99801464,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99801464.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99801464.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99801464.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

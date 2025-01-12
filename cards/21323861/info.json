@@ -2,17 +2,49 @@
     "id": 21323861,
     "name": "Acid Rain",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Destroy all face-up Machine-Type monsters on the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21323861.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21323861.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21323861.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/acid-rain-1834",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN037",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "3.34"
+        },
+        {
+            "set_name": "Duelist League Series 8 participation card",
+            "set_code": "DL8-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.93"
+        },
+        {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENI14",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21323861,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21323861.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21323861.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21323861.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.39",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

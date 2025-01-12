@@ -2,17 +2,36 @@
     "id": 37042505,
     "name": "Everlasting Alloy",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "If you control \"Jinzo\": Activate 1 of these effects;\r\n\u25cf All Machine monsters you currently control cannot be destroyed by your opponent's card effects, until the end of this turn.\r\n\u25cf When a card or effect is activated that targets a Machine monster(s) you control: Negate that effect.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Jinzo",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37042505.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37042505.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37042505.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/everlasting-alloy-11210",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN037",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.14"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37042505,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37042505.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37042505.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37042505.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

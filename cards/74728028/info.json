@@ -2,17 +2,35 @@
     "id": 74728028,
     "name": "Xyz Reception",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 face-up monster you control that has a Level; Special Summon 1 monster with the same Level as that monster from your hand. Its effects are negated, also its ATK and DEF become 0.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74728028.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74728028.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74728028.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/xyz-reception-6287",
+    "card_sets": [
+        {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN060",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 74728028,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74728028.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74728028.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74728028.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 36352429,
     "name": "Vampire Dragon",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this Tribute Summoned card is sent from the field to the Graveyard: You can add 1 Level 4 or lower monster from your Deck to your hand.",
+    "race": "Zombie",
     "atk": 2400,
     "def": 0,
     "level": 5,
-    "race": "Zombie",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Vampire",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/36352429.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36352429.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36352429.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampire-dragon-3070",
+    "card_sets": [
+        {
+            "set_name": "Astral Pack Three",
+            "set_code": "AP03-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN081",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 36352429,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36352429.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36352429.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36352429.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.57",
+            "tcgplayer_price": "1.73",
+            "ebay_price": "7.99",
+            "amazon_price": "14.99",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 86379342,
     "name": "Tri-Brigade Oath",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 Link Monster you control; Special Summon 1 Beast, Beast-Warrior, or Winged Beast monster with a different Type from your hand or GY. If you control at least 1 each of Beast, Beast-Warrior, and Winged Beast monsters: You can banish this card from your GY, then target 1 face-up Spell/Trap your opponent controls; negate its effects until the end of this turn. You can only use 1 \"Tri-Brigade Oath\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Tri-Brigade",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/86379342.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86379342.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86379342.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tri-brigade-oath-11322",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN213",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.95"
+        },
+        {
+            "set_name": "Phantom Rage",
+            "set_code": "PHRA-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 86379342,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86379342.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86379342.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86379342.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "7.59",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

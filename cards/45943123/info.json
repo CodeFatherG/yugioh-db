@@ -2,17 +2,42 @@
     "id": 45943123,
     "name": "Torpedo Takedown",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 WATER Xyz Monster you control; detach 1 material from it, inflict 400 damage to your opponent for each card in your hand, and if you do, that monster gains ATK equal to the damage inflicted, until the end of this turn. You can banish this card and 1 WATER Xyz Monster from your GY; draw 2 cards. You can only use 1 \"Torpedo Takedown\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45943123.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45943123.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45943123.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/torpedo-takedown-10801",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1"
+        },
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45943123,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45943123.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45943123.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45943123.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "49.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

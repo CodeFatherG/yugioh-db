@@ -1,18 +1,52 @@
 {
     "id": 72700231,
     "name": "Yuki-Musume, the Ice Mayakashi",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a \"Mayakashi\" card, other than \"Yuki-Musume, the Ice Mayakashi\" while this card is in your hand or GY: You can Special Summon this card, then send 1 Zombie monster from your Deck to the GY. You can only use this effect of \"Yuki-Musume, the Ice Mayakashi\" once per turn. You cannot Special Summon monsters from the Extra Deck, except \"Mayakashi\" monsters.",
+    "race": "Zombie",
     "atk": 0,
     "def": 1900,
     "level": 1,
-    "race": "Zombie",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Mayakashi",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/72700231.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72700231.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72700231.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/yuki-musume-the-ice-mayakashi-9971",
+    "card_sets": [
+        {
+            "set_name": "Dark Neostorm",
+            "set_code": "DANE-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Savage Strike Special Edition",
+            "set_code": "SAST-ENSE2",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "11.92"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 72700231,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72700231.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72700231.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72700231.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

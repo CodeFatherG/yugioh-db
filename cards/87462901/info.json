@@ -1,18 +1,44 @@
 {
     "id": 87462901,
     "name": "Emissary from the House of Wax",
+    "typeline": [
+        "Illusion",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When an opponent's monster declares an attack: You can Special Summon this card from your hand. You can only use this effect of \"Emissary from the House of Wax\" once per turn. If this card battles a monster, neither can be destroyed by that battle. At the end of your opponent's Battle Phase: You can activate this effect; until the start of your opponent's next Battle Phase, all Attack Position monsters your opponent currently controls cannot change their battle positions, nor be used as material for a Fusion, Synchro, Xyz, or Link Summon, also their effects are negated.",
+    "race": "Illusion",
     "atk": 800,
     "def": 1800,
     "level": 3,
-    "race": "Illusion",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/87462901.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87462901.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87462901.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/emissary-from-the-house-of-wax-14219",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN030",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 87462901,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87462901.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87462901.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87462901.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,53 @@
 {
     "id": 81260679,
     "name": "Ohime the Manifested Mikanko",
+    "typeline": [
+        "Fairy",
+        "Ritual",
+        "Effect"
+    ],
     "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
     "desc": "You can Ritual Summon this card with \"Mikanko Kagura\". Cannot be destroyed by battle, also your opponent takes any battle damage you would have taken from battles involving this card. You can only use each of the following effects of \"Ohime the Manifested Mikanko\" once per turn. You can reveal this card in your hand; add 1 \"Mikanko\" card from your Deck to your hand, except \"Ohime the Manifested Mikanko\", then discard 1 card. (Quick Effect): You can target 1 Equip Spell in your GY; equip it to 1 appropriate monster on the field.",
+    "race": "Fairy",
     "atk": 0,
     "def": 0,
     "level": 6,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Mikanko",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81260679.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81260679.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81260679.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ohime-the-manifested-mikanko-13443",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN135",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN027",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81260679,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81260679.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81260679.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81260679.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.07",
+            "tcgplayer_price": "1.57",
+            "ebay_price": "15.95",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "34.99"
+        }
+    ]
 }

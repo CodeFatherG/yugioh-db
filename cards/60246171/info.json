@@ -1,18 +1,51 @@
 {
     "id": 60246171,
     "name": "Soitsu",
+    "typeline": [
+        "Fairy",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "Apparently totally unreliable, he wonders if he has incredible potential.",
+    "race": "Fairy",
     "atk": 0,
     "def": 0,
     "level": 3,
-    "race": "Fairy",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60246171.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60246171.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60246171.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/soitsu-5113",
+    "card_sets": [
+        {
+            "set_name": "Cybernetic Revolution",
+            "set_code": "CRV-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.14"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60246171,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60246171.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60246171.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60246171.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "4.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

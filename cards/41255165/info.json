@@ -1,18 +1,46 @@
 {
     "id": 41255165,
     "name": "Penguin Ninja",
+    "typeline": [
+        "Aqua",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: You can target up to 2 Spells/Traps your opponent controls; return them to the hand.\r\nYou can target 1 \"Penguin\" monster you control; change it to face-down Defense Position. You can only use this effect of \"Penguin Ninja\" once per turn.",
+    "race": "Aqua",
     "atk": 1400,
     "def": 700,
     "level": 3,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Penguin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/41255165.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41255165.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41255165.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/penguin-ninja-12412",
+    "card_sets": [
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.85"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 41255165,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41255165.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41255165.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41255165.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.95",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

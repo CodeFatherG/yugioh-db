@@ -1,18 +1,51 @@
 {
     "id": 19357125,
     "name": "Dark Hunter",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card's effect changes depending on the number of DARK monsters in your Graveyard. \u25cf 1 or fewer: This card loses 400 ATK. \u25cf 2 to 4: This card gains 400 ATK. \u25cf 5 or more: You can send this card to the Graveyard to destroy all face-down monsters your opponent controls.",
+    "race": "Fiend",
     "atk": 1600,
     "def": 400,
     "level": 4,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19357125.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19357125.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19357125.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-hunter-1671",
+    "card_sets": [
+        {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN033",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN033",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19357125,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19357125.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19357125.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19357125.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.84",
+            "tcgplayer_price": "0.44",
+            "ebay_price": "2.49",
+            "amazon_price": "67.36",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

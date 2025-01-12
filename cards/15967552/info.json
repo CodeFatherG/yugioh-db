@@ -2,17 +2,42 @@
     "id": 15967552,
     "name": "Small Scuffle",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Choose 2 unused Main Monster Zones in the same column; Special Summon 1 Level 2 or lower monster from your hand or Deck in face-up Attack Position or face-down Defense Position in your chosen Main Monster Zone, then your opponent can do the same from their hand or Deck to theirs. You can only activate 1 \"Small Scuffle\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15967552.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15967552.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15967552.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/small-scuffle-13887",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN385",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 15967552,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15967552.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15967552.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15967552.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "1.50",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

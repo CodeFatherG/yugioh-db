@@ -1,18 +1,53 @@
 {
     "id": 38192988,
     "name": "Red-Eyes Zombie Dragon Lord",
+    "typeline": [
+        "Zombie",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Zombie Tuner + 1+ non-Tuner monsters\r\nDuring your opponent's turn (Quick Effect): You can target 1 Zombie monster in your GY, except \"Red-Eyes Zombie Dragon Lord\"; Special Summon it. If this card is in your GY: You can banish 1 Zombie monster you control; Special Summon this card. You can only use each effect of \"Red-Eyes Zombie Dragon Lord\" once per turn.",
+    "race": "Zombie",
     "atk": 2800,
     "def": 2400,
     "level": 10,
-    "race": "Zombie",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Red-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38192988.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38192988.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38192988.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/red-eyes-zombie-dragon-lord-12971",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN083",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN039",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38192988,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38192988.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38192988.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38192988.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "3.98",
+            "amazon_price": "7.99",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

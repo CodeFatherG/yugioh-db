@@ -1,18 +1,46 @@
 {
     "id": 74627016,
     "name": "T.G. Tank Grub",
+    "typeline": [
+        "Insect",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card you control is used as Synchro Material for a \"T.G.\" monster, you can treat it as a non-Tuner. If this card is sent to the GY as Synchro Material for a \"T.G.\" monster: You can Special Summon 1 \"T.G. Token\" (Machine/EARTH/Level 1/ATK 0/DEF 0) in Attack Position. You can only use this effect of \"T.G. Tank Grub\" once per turn.",
+    "race": "Insect",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "T.G.",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74627016.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74627016.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74627016.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/t-g-tank-grub-9823",
+    "card_sets": [
+        {
+            "set_name": "Savage Strike",
+            "set_code": "SAST-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 74627016,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74627016.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74627016.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74627016.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

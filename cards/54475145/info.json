@@ -1,18 +1,52 @@
 {
     "id": 54475145,
     "name": "Heart of the Blue-Eyes",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "(This card is always treated as a \"Millennium\" card.)\r\nControl of this card cannot switch. You can discard this card; add 1 \"Millennium Ankh\" from your Deck to your hand. You can only use this effect of \"Heart of the Blue-Eyes\" once per turn. If this card is in your GY, and you have successfully activated \"Millennium Ankh\" this Duel, and your opponent Normal or Special Summons a monster(s) that is Level 8 or higher, or has 3000 or more ATK: You can send that monster to the GY, and if you do, Special Summon this card. You can only use this effect of \"Heart of the Blue-Eyes\" once per Duel.",
+    "race": "Dragon",
     "atk": 3000,
     "def": 2500,
     "level": 8,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Blue-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54475145.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54475145.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54475145.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heart-of-the-blue-eyes-14519",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN004",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN004",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54475145,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54475145.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54475145.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54475145.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "7.68",
+            "tcgplayer_price": "7.98",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

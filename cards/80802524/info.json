@@ -2,17 +2,50 @@
     "id": 80802524,
     "name": "Ghostrick Break",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When exactly 1 face-up \"Ghostrick\" monster you control (and no other cards) is destroyed by battle or an opponent's card effect and sent to your Graveyard: Target 2 \"Ghostrick\" monsters in your Graveyard with different names from the destroyed monster; Special Summon them in face-down Defense Position.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ghostrick",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80802524.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80802524.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80802524.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ghostrick-break-6778",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 18",
+            "set_code": "OP18-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.45"
+        },
+        {
+            "set_name": "OTS Tournament Pack 18 (POR)",
+            "set_code": "OP18-PT025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "World Superstars",
+            "set_code": "WSUP-EN043",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80802524,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80802524.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80802524.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80802524.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "2.77",
+            "amazon_price": "1.68",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

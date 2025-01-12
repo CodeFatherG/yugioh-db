@@ -2,17 +2,36 @@
     "id": 26781870,
     "name": "Fraud Freeze",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Once per turn, when your opponent Special Summons a monster(s) from the hand (except during the Damage Step): You can return to the hand all monsters your opponent controls that were Special Summoned from the hand. If neither player controls a \"Flower Cardian\" Synchro Monster, send this card to the Graveyard.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Flower Cardian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/26781870.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26781870.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26781870.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fraud-freeze-2295",
+    "card_sets": [
+        {
+            "set_name": "Invasion: Vengeance",
+            "set_code": "INOV-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 26781870,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26781870.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26781870.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26781870.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.25",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

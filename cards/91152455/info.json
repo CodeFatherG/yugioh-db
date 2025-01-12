@@ -2,17 +2,36 @@
     "id": 91152455,
     "name": "Flame Coating Metalmorph",
     "type": "Trap Card",
-    "desc": "Tribute 1 face-up monster that mentions \"Max Metalmorph\"; Special Summon 1 monster from your Deck that cannot be Normal Summoned/Set and mentions \"Max Metalmorph\", ignoring its Summoning conditions, then you can equip this card to it with the following effect.\r\n\u25cf If the equipped monster would be destroyed by battle or card effect, you can send this card to the GY instead.\r\nYou can only activate 1 \"Flame Coating Metalmorph\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
+    "desc": "Tribute 1 face-up monster that mentions \"Max Metalmorph\"; Special Summon 1 monster that cannot be Normal Summoned/Set and mentions \"Max Metalmorph\" from your Deck, ignoring its Summoning conditions, then you can equip this card to it with the following effect.\r\n\u25cf If the equipped monster would be destroyed by battle or card effect, you can send this card to the GY instead.\r\nYou can only activate 1 \"Flame Coating Metalmorph\" per turn.",
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Metalmorph",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91152455.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91152455.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91152455.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/flame-coating-metalmorph-14778",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91152455,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91152455.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91152455.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91152455.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 72717433,
     "name": "Doll Monster Miss M\u00e4dchen",
+    "typeline": [
+        "Fairy",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''Welcome to our house!\r\nHere I live with Cologne, Grandpa Demetto, and all the other dolls!''",
+    "race": "Fairy",
     "atk": 0,
     "def": 0,
     "level": 4,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Doll Monster",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/72717433.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72717433.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72717433.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/doll-monster-miss-madchen-11815",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN051",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN093",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 72717433,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72717433.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72717433.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72717433.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "3.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

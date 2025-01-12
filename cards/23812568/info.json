@@ -2,17 +2,35 @@
     "id": 23812568,
     "name": "Additional Mirror Level 7",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "If a Level 7 monster(s) is Special Summoned to your field: Send 2 \"Additional Mirror Level 7\" from your hand and/or Deck to the GY, then target 1 of those monsters; Special Summon 2 monsters with the same name as that target from your Deck, then take damage equal to their combined original ATK, also, for the rest of this turn after this card resolves, you can only Special Summon from the Extra Deck once.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23812568.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23812568.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23812568.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/additional-mirror-level-7-13629",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 23812568,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23812568.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23812568.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23812568.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

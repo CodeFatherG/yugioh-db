@@ -1,18 +1,51 @@
 {
     "id": 87742943,
     "name": "Powered Crawler",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can destroy 1 monster your opponent controls with less ATK than this card. You can only use this effect of \"Powered Crawler\" once per turn. All monsters your opponent controls must attack, if able.",
+    "race": "Machine",
     "atk": 2700,
     "def": 2000,
     "level": 7,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/87742943.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87742943.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87742943.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/powered-crawler-11263",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN002",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.47"
+        },
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN127",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 87742943,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87742943.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87742943.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87742943.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "1.25",
+            "amazon_price": "1.03",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

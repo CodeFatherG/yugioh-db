@@ -1,21 +1,57 @@
 {
     "id": 95784714,
     "name": "Flying Mary, the Wandering Ghost Ship",
+    "typeline": [
+        "Zombie",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Zombie monsters\r\nYou can target 1 of your Level 5 or higher Zombie monsters that is banished or in your GY; place this card in your Spell & Trap Zone as a face-up Continuous Spell, and if you do, Special Summon that monster. While this card is a Continuous Spell: You can target 1 Level 5 or higher Zombie monster you control; destroy 1 monster your opponent controls with ATK less than or equal to that monster. You can only use each effect of \"Flying Mary, the Wandering Ghost Ship\" once per turn.",
+    "race": "Zombie",
     "atk": 0,
     "def": null,
     "level": null,
-    "race": "Zombie",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Left",
         "Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/95784714.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95784714.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95784714.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/flying-mary-the-wandering-ghost-ship-14589",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN047",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 95784714,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95784714.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95784714.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95784714.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.47",
+            "tcgplayer_price": "0.50",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

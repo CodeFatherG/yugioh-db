@@ -1,18 +1,55 @@
 {
     "id": 60764609,
     "name": "Fiendsmith Engraver",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can discard this card; add 1 \"Fiendsmith\" Spell/Trap from your Deck to your hand. You can target 1 \"Fiendsmith\" Equip Card you control and 1 monster on the field; send them to the GY. If this card is in your GY: You can shuffle 1 other LIGHT Fiend monster from your GY into the Deck/Extra Deck; Special Summon this card. You can only use each effect of \"Fiendsmith Engraver\" once per turn.",
+    "race": "Fiend",
     "atk": 1800,
     "def": 2400,
     "level": 6,
-    "race": "Fiend",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Fiendsmith",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60764609.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60764609.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60764609.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiendsmith-engraver-14449",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN017",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN017",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 60764609,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60764609.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60764609.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60764609.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "70.02",
+            "tcgplayer_price": "96.83",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

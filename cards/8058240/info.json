@@ -1,18 +1,36 @@
 {
     "id": 8058240,
     "name": "Binding Chain",
+    "typeline": [
+        "Fairy",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''The mystic links of this chain can rob enemies of their power.''",
+    "race": "Fairy",
     "atk": 1000,
     "def": 1100,
     "level": 3,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Recolored counterpart",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8058240.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8058240.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8058240.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/binding-chain-684",
+    "card_images": [
+        {
+            "id": 8058240,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8058240.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8058240.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8058240.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.47",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "5.00",
+            "amazon_price": "99.77",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 55119278,
     "name": "Morphtronic Radion",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "\u25cf While in Attack Position: \"Morphtronic\" monsters you control gain 800 ATK. \u25cf While in Defense Position: \"Morphtronic\" monsters you control gain 1000 DEF.",
+    "race": "Thunder",
     "atk": 1000,
     "def": 900,
     "level": 4,
-    "race": "Thunder",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Morphtronic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/55119278.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55119278.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55119278.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/morphtronic-radion-4696",
+    "card_sets": [
+        {
+            "set_name": "Crossroads of Chaos",
+            "set_code": "CSOC-EN011",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 55119278,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55119278.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55119278.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55119278.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.16",
+            "tcgplayer_price": "0.87",
+            "ebay_price": "1.40",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

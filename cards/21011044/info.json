@@ -2,17 +2,57 @@
     "id": 21011044,
     "name": "Shaddoll Schism",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "During the Main Phase, you can: Fusion Summon 1 \"Shaddoll\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY, but it cannot attack directly. Then, you can send to the GY 1 monster your opponent controls with the same Attribute as that Fusion Summoned monster. You can only use this effect of \"Shaddoll Schism\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Shaddoll",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21011044.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21011044.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21011044.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shaddoll-schism-10931",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN152",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN077",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN077",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN076",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21011044,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21011044.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21011044.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21011044.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "2.48",
+            "amazon_price": "2.49",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

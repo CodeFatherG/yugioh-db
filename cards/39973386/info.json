@@ -2,17 +2,35 @@
     "id": 39973386,
     "name": "Duality",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Tribute 1 LIGHT or DARK monster; Special Summon 1 LIGHT or DARK monster from your hand or Extra Deck with the same original Type and Level, but a different original Attribute. During your Main Phase: You can banish this card from your GY, then target 1 LIGHT and 1 DARK monster in your GY; shuffle both into the Deck, then draw 1 card. You can only use each effect of \"Duality\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39973386.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39973386.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39973386.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/duality-13609",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN036",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39973386,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39973386.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39973386.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39973386.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "8.82",
+            "tcgplayer_price": "9.85",
+            "ebay_price": "1.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "21.99"
+        }
+    ]
 }

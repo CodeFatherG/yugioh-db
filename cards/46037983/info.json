@@ -1,18 +1,46 @@
 {
     "id": 46037983,
     "name": "Paces, Light of the Ghoti",
+    "typeline": [
+        "Fish",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "You can banish this card you control; Special Summon 1 Fish monster from your hand, except \"Paces, Light of the Ghoti\". During the Standby Phase of the next turn after this card was banished: You can Special Summon this banished card. During your opponent's Main Phase, if this card was Special Summoned this turn, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Fish Synchro Monster using this card you control. You can only use each effect of \"Paces, Light of the Ghoti\" once per turn.",
+    "race": "Fish",
     "atk": 0,
     "def": 0,
     "level": 2,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Ghoti",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46037983.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46037983.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46037983.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/paces-light-of-the-ghoti-13420",
+    "card_sets": [
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN086",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46037983,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46037983.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46037983.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46037983.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.25",
+            "tcgplayer_price": "1.20",
+            "ebay_price": "2.14",
+            "amazon_price": "0.68",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

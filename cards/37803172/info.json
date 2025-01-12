@@ -1,18 +1,45 @@
 {
     "id": 37803172,
     "name": "Hazy Flame Peryton",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Special Summoned, except by a \"Hazy Flame\" monster's effect. Your opponent cannot target this card with card effects. You can send 1 FIRE monster from your hand to the Graveyard and Tribute this card; Special Summon 2 \"Hazy Flame\" monsters from your Deck. You can only use this effect of \"Hazy Flame Peryton\" once per turn.",
+    "race": "Pyro",
     "atk": 1600,
     "def": 1700,
     "level": 6,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Hazy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37803172.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37803172.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37803172.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hazy-flame-peryton-3201",
+    "card_sets": [
+        {
+            "set_name": "Cosmo Blazer",
+            "set_code": "CBLZ-EN031",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37803172,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37803172.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37803172.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37803172.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "2.00",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

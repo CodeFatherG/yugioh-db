@@ -2,17 +2,35 @@
     "id": 300202009,
     "name": "Tribal Synergy",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Mai",
+    "frameType": "skill",
     "desc": "[At the start of the Duel, flip this card over.]\r\n\r\nIf you have an \u201cAmazoness\u201d monster and a \u201cHarpie\u201d monster in your hand, reveal them and draw 1 card.\r\n\r\nIf you control an \u201cAmazoness\u201d monster and a \u201cHarpie\u201d monster, draw 2 cards.\r\n\r\nEach of these Skills can only be used once per Duel.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Mai",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300202009.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300202009.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300202009.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tribal-synergy-9808",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel Starter Decks: Duelists of Tomorrow",
+            "set_code": "SS02-ENCS3",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.07"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300202009,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300202009.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300202009.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300202009.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "1.56",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,59 @@
 {
     "id": 73602965,
     "name": "Arias the Labrynth Butler",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Main Phase (Quick Effect): You can send this card from your hand or field to the GY; Special Summon 1 \"Labrynth\" monster, or Set 1 Normal Trap, from your hand. The Set Normal Trap can be activated this turn. When your opponent activates a card or effect in response to your card or effect activation of a Normal Trap or a \"Labrynth\" card, except \"Arias the Labrynth Butler\" (Quick Effect): You can activate this effect in the GY; Special Summon this card. You can only use each effect of \"Arias the Labrynth Butler\" once per turn.",
+    "race": "Fiend",
     "atk": 1500,
     "def": 2500,
     "level": 6,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Labrynth",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73602965.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73602965.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73602965.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/arias-the-labrynth-butler-14078",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN116",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN017",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN017",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73602965,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73602965.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73602965.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73602965.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "7.73",
+            "tcgplayer_price": "9.37",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "19.99"
+        }
+    ]
 }

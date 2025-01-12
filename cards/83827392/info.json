@@ -1,18 +1,60 @@
 {
     "id": 83827392,
     "name": "Expurrely Noir",
+    "typeline": [
+        "Fairy",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 7 monsters\r\nYou can also Xyz Summon this card by using a Rank 2 monster you control with 5 or more materials. (Transfer its materials to this card.) This card is unaffected by your opponent's activated effects while it has 5 or more materials. You can detach 2 materials from this card, then target 1 card your opponent controls or in their GY; place it on the bottom of the Deck. This is a Quick Effect if this card has a Level 1 \"Purrely\" monster as material.",
+    "race": "Fairy",
     "atk": 1100,
     "def": 2800,
     "level": 7,
-    "race": "Fairy",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Purrely",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83827392.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83827392.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83827392.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/expurrely-noir-13450",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN288",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN018",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN018",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83827392,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83827392.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83827392.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83827392.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

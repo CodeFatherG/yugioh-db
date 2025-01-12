@@ -1,18 +1,51 @@
 {
     "id": 56369281,
     "name": "Wolf Axwielder",
+    "typeline": [
+        "Beast-Warrior",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "Once it has started battle, this monster attacks fiercely and cannot stop.",
+    "race": "Beast-Warrior",
     "atk": 1650,
     "def": 1000,
     "level": 4,
-    "race": "Beast-Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56369281.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56369281.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56369281.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wolf-axwielder-4799",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.27"
+        },
+        {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.4"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56369281,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56369281.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56369281.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56369281.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.35",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

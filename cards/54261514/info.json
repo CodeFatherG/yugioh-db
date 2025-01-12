@@ -2,17 +2,35 @@
     "id": 54261514,
     "name": "Final Bringer of the End Times",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 monster you control and 1 card your opponent controls; destroy them. You can only activate 1 \"Final Bringer of the End Times\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54261514.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54261514.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54261514.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/final-bringer-of-the-end-times-14588",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN064",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54261514,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54261514.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54261514.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54261514.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.53",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

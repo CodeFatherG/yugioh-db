@@ -2,17 +2,43 @@
     "id": 30802207,
     "name": "Exosister Carpedivem",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Neither player can target \"Exosister\" monsters you control with effects of monsters that were Special Summoned from the GY. You can only use each of the following effects of \"Exosister Carpedivem\" once per turn. If you Xyz Summon an \"Exosister\" monster: You can declare 1 card name; negate the activated effects and effects on the field of cards with that original name, until the end of this turn. When an attack is declared involving your \"Exosister\" monster: You can target 1 Spell/Trap your opponent controls; destroy it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Exosister",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30802207.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30802207.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30802207.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/exosister-carpedivem-12540",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN262",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Grand Creators",
+            "set_code": "GRCR-EN023",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.11"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30802207,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30802207.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30802207.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30802207.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.54",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

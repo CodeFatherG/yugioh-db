@@ -1,18 +1,45 @@
 {
     "id": 59297550,
     "name": "Wind-Up Magician",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If the effect of a \"Wind-Up\" monster is activated, except \"Wind-Up Magician\": You can Special Summon 1 Level 4 or lower \"Wind-Up\" monster from your Deck in face-up Defense Position. This effect can only be used once while this card is face-up on the field.",
+    "race": "Spellcaster",
     "atk": 600,
     "def": 1800,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Wind-Up",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59297550.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59297550.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59297550.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wind-up-magician-5040",
+    "card_sets": [
+        {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59297550,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59297550.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59297550.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59297550.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.36",
+            "tcgplayer_price": "0.87",
+            "ebay_price": "3.25",
+            "amazon_price": "1.99",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

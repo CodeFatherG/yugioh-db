@@ -2,17 +2,43 @@
     "id": 49299410,
     "name": "The Black Goat Laughs",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Declare 1 Monster Card name; this turn, neither player can Special Summon monsters with that original name, except from the GY. You can banish this card from the GY, then declare 1 Monster Card name; this turn, neither player can activate the effects of monsters on the field with that original name. You can only use 1 \"The Black Goat Laughs\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Toy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49299410.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49299410.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49299410.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-black-goat-laughs-14171",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN078",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN078",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49299410,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49299410.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49299410.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49299410.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "14.48",
+            "tcgplayer_price": "19.51",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

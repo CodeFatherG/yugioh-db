@@ -2,17 +2,36 @@
     "id": 49936169,
     "name": "U.A. Locker Room",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "(This card is always treated as a \"F.A.\" card.)\r\nTarget 1 \"U.A.\" or \"F.A.\" monster you control or in your GY; add it to the hand, and if you do, you gain 500 LP, then you can apply this effect.\r\n\u25cf Reveal any number of \"U.A.\" and/or \"F.A.\" monsters in your hand, shuffle them into the Deck, then draw cards equal to the number of shuffled cards.\r\nYou can only activate 1 \"U.A. Locker Room\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "U.A.",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49936169.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49936169.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49936169.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/u-a-locker-room-11248",
+    "card_sets": [
+        {
+            "set_name": "Phantom Rage",
+            "set_code": "PHRA-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49936169,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49936169.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49936169.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49936169.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

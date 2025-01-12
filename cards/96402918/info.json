@@ -1,18 +1,52 @@
 {
     "id": 96402918,
     "name": "Lancea, Ancestral Dragon of the Ice Mountain",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 WATER Tuner + 1+ non-Tuner monsters\r\nOnce per Chain, if your opponent Special Summons a monster(s) (except during the Damage Step): You can Special Summon 1 \"Ice Barrier\" monster from your hand, Deck, Extra Deck, or GY, then you can change 1 Attack Position monster your opponent controls to Defense Position. You can only use this effect of \"Lancea, Ancestral Dragon of the Ice Mountain\" twice per turn. If this face-up Synchro Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 \"Ice Barrier\" Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)",
+    "race": "Dragon",
     "atk": 3300,
     "def": 2700,
     "level": 10,
-    "race": "Dragon",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96402918.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96402918.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96402918.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lancea-ancestral-dragon-of-the-ice-mountain-14245",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN005",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN005",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96402918,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96402918.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96402918.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96402918.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "14.42",
+            "tcgplayer_price": "9.64",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

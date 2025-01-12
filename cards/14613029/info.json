@@ -2,17 +2,36 @@
     "id": 14613029,
     "name": "Morphtronic Mix-up",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control 2 or more face-up \"Morphtronic\" monsters, select 2 cards your opponent controls. Destroy 1 card of your opponent's choice from those 2.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Morphtronic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14613029.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14613029.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14613029.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/morphtronic-mix-up-1250",
+    "card_sets": [
+        {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14613029,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14613029.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14613029.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14613029.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

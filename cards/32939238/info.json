@@ -2,17 +2,43 @@
     "id": 32939238,
     "name": "Ninjitsu Art Tool - Iron Digger",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "The equipped monster gains 500 ATK, also it is treated as a \"Ninja\" monster. You can only use each of the following effects of \"Ninjitsu Art Tool - Iron Digger\" once per turn. You can banish 1 \"Ninja\" monster from your GY, then target 1 card on the field; destroy it. If this card is sent from the field to the GY: You can target 1 of your banished \"Ninja\" monsters; add it to your hand or Special Summon it in face-down Defense Position.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ninjitsu Art",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32939238.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32939238.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32939238.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ninjitsu-art-tool-iron-digger-13368",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN202",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32939238,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32939238.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32939238.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32939238.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

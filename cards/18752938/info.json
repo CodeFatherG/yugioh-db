@@ -2,17 +2,35 @@
     "id": 18752938,
     "name": "Seed of Deception",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Special Summon 1 Level 2 or lower Plant-Type monster from your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/18752938.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18752938.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18752938.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/seed-of-deception-1622",
+    "card_sets": [
+        {
+            "set_name": "Crossroads of Chaos",
+            "set_code": "CSOC-EN046",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 18752938,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18752938.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18752938.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18752938.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

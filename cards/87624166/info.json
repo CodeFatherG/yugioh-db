@@ -2,17 +2,35 @@
     "id": 87624166,
     "name": "Ancient Forest",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When you activate this card, change any Defense Position monster(s) to face-up Attack Position. Flip Effects are not activated at this time. If a monster attacks, destroy it at the end of that turn's Battle Phase.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/87624166.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87624166.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87624166.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-forest-7337",
+    "card_sets": [
+        {
+            "set_name": "Ancient Prophecy",
+            "set_code": "ANPR-EN048",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 87624166,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87624166.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87624166.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87624166.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "15.97",
+            "tcgplayer_price": "22.11",
+            "ebay_price": "5.00",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

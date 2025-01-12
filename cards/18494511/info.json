@@ -1,18 +1,60 @@
 {
     "id": 18494511,
     "name": "Icejade Ran Aegirine",
+    "typeline": [
+        "Aqua",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "This card's name becomes \"Icejade Cenote Enion Cradle\" while equipped with an Equip Card. You can discard 1 other \"Icejade\" card or WATER monster; Special Summon this card from your hand, then you can Special Summon 1 \"Icejade Token\" (Aqua/WATER/Level 3/ATK 0/DEF 0). While that Token is in the Monster Zone, the player who Summoned it cannot Special Summon from the Extra Deck, except WATER monsters. You can only use this effect of \"Icejade Ran Aegirine\" once per turn.",
+    "race": "Aqua",
     "atk": 1500,
     "def": 2500,
     "level": 7,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Icejade",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/18494511.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18494511.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18494511.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/icejade-ran-aegirine-13707",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN077",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN081",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN010",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 18494511,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18494511.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18494511.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18494511.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.50",
+            "tcgplayer_price": "0.88",
+            "ebay_price": "3.59",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "4.99"
+        }
+    ]
 }

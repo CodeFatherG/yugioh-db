@@ -1,18 +1,45 @@
 {
     "id": 32305461,
     "name": "Fortune Fairy En",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When you draw this card: You can reveal it; Special Summon it from your hand. If this card is Special Summoned from the hand: You can target 1 Set card your opponent controls; destroy it. You can only use each effect of \"Fortune Fairy En\" once per turn.",
+    "race": "Spellcaster",
     "atk": 0,
     "def": 0,
     "level": 2,
-    "race": "Spellcaster",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Fortune Fairy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32305461.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32305461.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32305461.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fortune-fairy-en-10279",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Hero's Revenge",
+            "set_code": "BLHR-EN015",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.43"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32305461,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32305461.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32305461.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32305461.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "4.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,21 +1,65 @@
 {
     "id": 26847978,
     "name": "Tri-Brigade Ferrijit the Barren Blossom",
+    "typeline": [
+        "Beast",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Beast, Beast-Warrior, and/or Winged Beast monsters\r\nDuring your Main Phase: You can Special Summon 1 Level 4 or lower Beast, Beast-Warrior, or Winged Beast monster from your hand, also you cannot use monsters as Link Material for the rest of this turn, except Beast, Beast-Warrior, or Winged Beast monsters. If this card is sent to the GY: You can draw 1 card, then place 1 card from your hand on the bottom of the Deck. You can only use each effect of \"Tri-Brigade Ferrijit the Barren Blossom\" once per turn.",
+    "race": "Beast",
     "atk": 1600,
     "def": null,
     "level": null,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Tri-Brigade",
     "linkval": 2,
     "linkmarkers": [
         "Left",
         "Bottom-Left"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/26847978.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26847978.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26847978.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tri-brigade-ferrijit-the-barren-blossom-11317",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN196",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Rage",
+            "set_code": "PHRA-EN046",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Rage",
+            "set_code": "PHRA-EN046",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 26847978,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26847978.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26847978.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26847978.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.10",
+            "tcgplayer_price": "1.28",
+            "ebay_price": "2.95",
+            "amazon_price": "7.59",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

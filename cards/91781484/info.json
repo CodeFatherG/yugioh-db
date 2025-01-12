@@ -2,17 +2,43 @@
     "id": 91781484,
     "name": "D/D/D Headhunt",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control a \"D/D/D\" monster: Target 1 face-up monster your opponent controls; take control of it until the End Phase of the next turn, but its effects are negated, it cannot declare an attack, also if it is a monster Special Summoned from the Extra Deck, it is also treated as a \"D/D/D\" monster. You can only activate 1 \"D/D/D Headhunt\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "D/D",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91781484.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91781484.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91781484.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-d-headhunt-12781",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN043",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.86"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91781484,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91781484.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91781484.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91781484.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

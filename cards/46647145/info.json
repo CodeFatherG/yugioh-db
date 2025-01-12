@@ -2,17 +2,43 @@
     "id": 46647145,
     "name": "World Legacy Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as a \"World Legacy Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Machine",
-    "attribute": null,
-    "scale": null,
     "archetype": "World Legacy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46647145.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46647145.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46647145.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/world-legacy-token-9270",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 15",
+            "set_code": "OP15-EN026",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.66"
+        },
+        {
+            "set_name": "OTS Tournament Pack 15 (POR)",
+            "set_code": "OP15-PT026",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46647145,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46647145.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46647145.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46647145.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.62",
+            "tcgplayer_price": "2.22",
+            "ebay_price": "2.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

@@ -1,18 +1,62 @@
 {
     "id": 32731036,
     "name": "The Bystial Lubellion",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by Tributing 1 Level 6 or higher DARK Dragon monster. You can only Special Summon \"The Bystial Lubellion\" once per turn this way. You can send this card from your hand to the GY; add 1 \"Bystial\" monster from your Deck to your hand, except \"The Bystial Lubellion\". During your Main Phase: You can place 1 \"Branded\" Continuous Spell/Trap from your Deck face-up on your field. You can only use each effect of \"The Bystial Lubellion\" once per turn.",
+    "race": "Dragon",
     "atk": 2500,
     "def": 3000,
     "level": 8,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Bystial",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32731036.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32731036.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32731036.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-bystial-lubellion-13377",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN160",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN103",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN009",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 32731036,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32731036.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32731036.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32731036.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "15.86",
+            "tcgplayer_price": "28.15",
+            "ebay_price": "19.95",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "19.99"
+        }
+    ]
 }

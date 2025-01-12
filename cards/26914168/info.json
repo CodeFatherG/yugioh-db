@@ -1,18 +1,65 @@
 {
     "id": 26914168,
     "name": "Dark Honest",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, during your Main Phase: You can return this face-up card to the hand. During the Damage Step, when your DARK monster battles an opponent's monster (Quick Effect): You can send this card from your hand to the GY; that opponent's monster loses ATK equal to its own ATK, until the end of this turn.",
+    "race": "Fairy",
     "atk": 1100,
     "def": 1900,
     "level": 4,
-    "race": "Fairy",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/26914168.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26914168.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26914168.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-honest-11903",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN068",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN022",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN047",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN047",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 26914168,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26914168.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26914168.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26914168.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.50",
+            "amazon_price": "0.95",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

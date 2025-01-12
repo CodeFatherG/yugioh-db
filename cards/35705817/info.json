@@ -2,17 +2,36 @@
     "id": 35705817,
     "name": "Ghost Fusion",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using only Zombie monsters you control as material. If your LP are lower than your opponent's, you can also banish up to 1 Zombie monster from your hand, Deck, or GY as material. You can only activate 1 \"Ghost Fusion\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fusion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35705817.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35705817.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35705817.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ghost-fusion-12946",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN026",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35705817,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35705817.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35705817.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35705817.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "39.00",
+            "amazon_price": "1.29",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

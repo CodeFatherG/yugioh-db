@@ -2,17 +2,36 @@
     "id": 68250822,
     "name": "Spright Double Cross",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 monster on the field or in either GY, then activate 1 of these appropriate effects;\r\n\u25cf Attach the targeted monster to 1 Rank 2 monster you control as material.\r\n\u25cf Place the targeted monster your opponent controls in your zone your Link-2 monster points to, and take control of it.\r\n\u25cf Special Summon the targeted monster from either GY to your zone your Link-2 monster points to.\r\nYou can only activate 1 \"Spright Double Cross\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Spright",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68250822.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68250822.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68250822.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spright-double-cross-13396",
+    "card_sets": [
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN074",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 68250822,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68250822.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68250822.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68250822.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.49",
+            "ebay_price": "0.99",
+            "amazon_price": "4.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

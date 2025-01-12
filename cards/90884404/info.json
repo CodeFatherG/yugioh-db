@@ -2,17 +2,26 @@
     "id": 90884404,
     "name": "Utchatzimime Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Phantasmal Lord Ultimitl Bishbaalkin\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Fiend",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/90884404.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90884404.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90884404.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/utchatzimime-token-7589",
+    "card_images": [
+        {
+            "id": 90884404,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90884404.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90884404.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90884404.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "1.54",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

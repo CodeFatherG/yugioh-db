@@ -1,18 +1,45 @@
 {
     "id": 88232397,
     "name": "Skilled Brown Magician",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can remove 1 Spell Counter from this card, then activate 1 of these effects;\r\n\u25cf This card gains 1500 ATK, and its Level is increased by 1.\r\n\u25cf Add 1 \"Kuriboh\" monster or 1 \"Multiply\" from your Deck or GY to your hand.\r\nYou can only use this effect of \"Skilled Brown Magician\" once per turn.",
+    "race": "Spellcaster",
     "atk": 300,
     "def": 200,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Skilled Magician",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88232397.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88232397.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88232397.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/skilled-brown-magician-12773",
+    "card_sets": [
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.78"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88232397,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88232397.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88232397.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88232397.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

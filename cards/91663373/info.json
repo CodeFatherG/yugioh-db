@@ -1,18 +1,51 @@
 {
     "id": 91663373,
     "name": "Cyber Esper",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "While this card is in face-up Attack Position, you can look at every card your opponent draws.",
+    "race": "Machine",
     "atk": 1200,
     "def": 1800,
     "level": 4,
-    "race": "Machine",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91663373.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91663373.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91663373.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-esper-7644",
+    "card_sets": [
+        {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN005",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91663373,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91663373.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91663373.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91663373.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "0.33",
+            "ebay_price": "4.99",
+            "amazon_price": "2.80",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

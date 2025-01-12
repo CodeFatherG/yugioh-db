@@ -1,18 +1,52 @@
 {
     "id": 52370835,
     "name": "Heroic Challenger - Swordshield",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During either player's turn, if you control a face-up \"Heroic\" monster: You can send this card from your hand to the Graveyard; for the rest of this turn, you take no Battle Damage and \"Heroic\" monsters you control cannot be destroyed by battle.",
+    "race": "Warrior",
     "atk": 0,
     "def": 2000,
     "level": 4,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Heroic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52370835.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52370835.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52370835.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heroic-challenger-swordshield-4464",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 19 (POR)",
+            "set_code": "OP19-PT035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Return of the Duelist",
+            "set_code": "REDU-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52370835,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52370835.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52370835.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52370835.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.09",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

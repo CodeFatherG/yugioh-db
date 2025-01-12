@@ -1,18 +1,52 @@
 {
     "id": 92003832,
     "name": "Gold Pride - Roller Baller",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If your LP are lower than your opponent's: You can Special Summon this card from your hand. During the Main Phase (Quick Effect): You can Fusion Summon 1 \"Gold Pride\" Fusion Monster from your Extra Deck, using monsters from your hand or field as material. You can only use each effect of \"Gold Pride - Roller Baller\" once per turn.",
+    "race": "Psychic",
     "atk": 1800,
     "def": 1600,
     "level": 5,
-    "race": "Psychic",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Gold Pride",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92003832.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92003832.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92003832.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gold-pride-roller-baller-13905",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN204",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN086",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92003832,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92003832.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92003832.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92003832.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.41",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "9.45",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "9.99"
+        }
+    ]
 }

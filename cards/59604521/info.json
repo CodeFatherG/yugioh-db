@@ -1,18 +1,45 @@
 {
     "id": 59604521,
     "name": "Trickstar Rhodode",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can discard 1 \"Trickstar\" card, then target 1 \"Trickstar\" Link Monster in your GY; Special Summon it. You can only use this effect of \"Trickstar Rhodode\" once per turn. Each time a card(s) is banished from your opponent's GY, immediately inflict 200 damage to your opponent for each card banished.",
+    "race": "Fairy",
     "atk": 1400,
     "def": 1900,
     "level": 4,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Trickstar",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59604521.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59604521.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59604521.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trickstar-rhodode-9184",
+    "card_sets": [
+        {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59604521,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59604521.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59604521.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59604521.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.44",
+            "tcgplayer_price": "0.37",
+            "ebay_price": "0.99",
+            "amazon_price": "0.29",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

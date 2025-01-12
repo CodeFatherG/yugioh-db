@@ -1,18 +1,45 @@
 {
     "id": 46576366,
     "name": "Lyrilusc - Celestine Wagtail",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Special Summoned: You can add 1 \"Lyrilusc\" Spell/Trap from your Deck to your hand. If this card is in your GY: You can target 1 \"Lyrilusc\" Xyz Monster you control; attach this card to it as material. You can only use each effect of \"Lyrilusc - Celestine Wagtail\" once per turn.",
+    "race": "Winged Beast",
     "atk": 200,
     "def": 0,
     "level": 1,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Lyrilusc",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46576366.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46576366.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46576366.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lyrilusc-celestine-wagtail-12216",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Synchro Storm",
+            "set_code": "LED8-EN036",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.75"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46576366,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46576366.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46576366.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46576366.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.65",
+            "tcgplayer_price": "0.70",
+            "ebay_price": "1.58",
+            "amazon_price": "1.79",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 67378935,
     "name": "Overlay Network",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "You can activate 1 of these effects.\r\n\u25cf Target 1 face-up monster you control that has a Level; Special Summon 1 monster with the same Level from your hand or GY in Defense Position, but its effects are negated. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except Xyz Monsters.\r\n\u25cf Target 1 Xyz Monster you control; add 1 card attached to it to the hand.\r\nYou can only use this effect of \"Overlay Network\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Overlay",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/67378935.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67378935.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67378935.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/overlay-network-12986",
+    "card_sets": [
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN020",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 67378935,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67378935.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67378935.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67378935.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.33",
+            "ebay_price": "1.99",
+            "amazon_price": "2.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

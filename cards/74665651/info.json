@@ -2,17 +2,36 @@
     "id": 74665651,
     "name": "Dream Mirror of Joy",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "During the End Phase: You can banish this card; activate 1 \"Dream Mirror of Terror\" directly from your hand or Deck. You can only use this effect of \"Dream Mirror of Joy\" once per turn. \"Dream Mirror\" monsters you control cannot be targeted by your opponent's card effects, or their monsters' attacks, except your \"Dream Mirror\" monster(s) with the highest Level. This effect is only applied while you control a LIGHT \"Dream Mirror\" monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dream Mirror",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74665651.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74665651.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74665651.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dream-mirror-of-joy-10505",
+    "card_sets": [
+        {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN089",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 74665651,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74665651.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74665651.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74665651.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.25",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

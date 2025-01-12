@@ -2,17 +2,35 @@
     "id": 24425055,
     "name": "Booby Trap E",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Discard 1 card; Set 1 Continuous Trap Card from your hand or Graveyard to your field. That Set card can be activated during this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/24425055.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24425055.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24425055.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/booby-trap-e-2110",
+    "card_sets": [
+        {
+            "set_name": "Wing Raiders",
+            "set_code": "WIRA-EN013",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 24425055,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24425055.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24425055.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24425055.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,27 @@
     "id": 56051649,
     "name": "Spider Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as any Token.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Insect",
-    "attribute": null,
-    "scale": null,
     "archetype": "Spider",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56051649.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56051649.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56051649.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spider-token-4774",
+    "card_images": [
+        {
+            "id": 56051649,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56051649.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56051649.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56051649.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "11.45",
+            "tcgplayer_price": "3.37",
+            "ebay_price": "2.40",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

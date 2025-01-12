@@ -1,18 +1,50 @@
 {
     "id": 50687050,
     "name": "Arktos XII - Chronochasm Vaylantz",
+    "typeline": [
+        "Fairy",
+        "Fusion",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Fusion Monster",
+    "humanReadableCardType": "Fusion Pendulum Effect Monster",
+    "frameType": "fusion_pendulum",
     "desc": "[ Pendulum Effect ] \nYou can activate 1 of these effects;\r\n\u25cf Special Summon this card to your Main Monster Zone in its same column.\r\n\u25cf Move 1 monster in your Main Monster Zone to an adjacent (horizontal) Monster Zone.\r\nYou can only use this effect of \"Arktos XII - Chronochasm Vaylantz\" once per turn.\n\n[ Monster Effect ] \n2 Level 5 or higher \"Vaylantz\" monsters\r\nMust first be Special Summoned (from your face-down Extra Deck) by Tributing the above cards. (Quick Effect): You can switch the locations of 2 monsters in your Main Monster Zones or 2 monsters in your opponent's Main Monster Zones. If a card in the Monster Zone moves to another Monster Zone (except during the Damage Step): You can destroy 1 card on the field. You can only use each effect of \"Arktos XII - Chronochasm Vaylantz\" once per turn.",
+    "race": "Fairy",
+    "pend_desc": "You can activate 1 of these effects;\r\n\u25cf Special Summon this card to your Main Monster Zone in its same column.\r\n\u25cf Move 1 monster in your Main Monster Zone to an adjacent (horizontal) Monster Zone.\r\nYou can only use this effect of \"Arktos XII - Chronochasm Vaylantz\" once per turn.",
+    "monster_desc": "2 Level 5 or higher \"Vaylantz\" monsters\r\nMust first be Special Summoned (from your face-down Extra Deck) by Tributing the above cards. (Quick Effect): You can switch the locations of 2 monsters in your Main Monster Zones or 2 monsters in your opponent's Main Monster Zones. If a card in the Monster Zone moves to another Monster Zone (except during the Damage Step): You can destroy 1 card on the field. You can only use each effect of \"Arktos XII - Chronochasm Vaylantz\" once per turn.",
     "atk": 3000,
     "def": 3000,
     "level": 12,
-    "race": "Fairy",
     "attribute": "EARTH",
-    "scale": 12,
     "archetype": "Vaylantz",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50687050.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50687050.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50687050.jpg"
+    "scale": 12,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/arktos-xii-chronochasm-vaylantz-13526",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN037",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50687050,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50687050.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50687050.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50687050.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

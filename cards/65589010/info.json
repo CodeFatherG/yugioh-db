@@ -2,17 +2,43 @@
     "id": 65589010,
     "name": "Dogmatika Nation",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "Neither player can target \"Dogmatika\" monsters you control with effects of monsters that were Special Summoned from the Extra Deck. You can only use each of the following effects of \"Dogmatika Nation\" once per turn.\r\n\u25cf After damage calculation, if your \"Dogmatika\" monster battled an opponent's monster: Destroy that opponent's monster.\r\n\u25cf If this face-up card in the Field Zone is destroyed by an opponent's card effect: You can have each player send 1 monster from their Extra Deck to the GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dogmatika",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65589010.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65589010.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65589010.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dogmatika-nation-11097",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN134",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.88"
+        },
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65589010,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65589010.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65589010.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65589010.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

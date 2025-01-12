@@ -2,17 +2,36 @@
     "id": 65496951,
     "name": "Vaalmonica Disarmonia",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Place 1 Resonance Counter on 1 card in your Pendulum Zone that you can place a Resonance Counter on, then apply 1 of these effects.\r\n\u25cf Gain 500 LP, then you can add 1 of your banished \"Vaalmonica\" cards to your hand, except \"Vaalmonica Disarmonia\".\r\n\u25cf Take 500 damage, then you can add 1 \"Vaalmonica\" card from your GY to your hand, except \"Vaalmonica Disarmonia\".\r\nYou can only activate 1 \"Vaalmonica Disarmonia\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Vaalmonica",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65496951.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65496951.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65496951.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vaalmonica-disarmonia-14354",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65496951,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65496951.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65496951.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65496951.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

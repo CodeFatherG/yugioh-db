@@ -2,17 +2,35 @@
     "id": 70284332,
     "name": "Tuner's Scheme",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Activate only when a Synchro Monster is Special Summoned to your opponent's side of the field. Take control of that Synchro Monster. Remove it from play when it is destroyed. Destroy this card when that monster is removed from the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70284332.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70284332.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70284332.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tuner-s-scheme-5914",
+    "card_sets": [
+        {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN077",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70284332,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70284332.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70284332.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70284332.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.65",
+            "tcgplayer_price": "5.34",
+            "ebay_price": "5.99",
+            "amazon_price": "1.88",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

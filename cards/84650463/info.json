@@ -1,18 +1,65 @@
 {
     "id": 84650463,
     "name": "Slushy",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned: You can send 1 \"Slushy\" from your Deck to the GY. If you have 3 copies of \"Slushy\" total, either banished and/or in your GY (combined): You can banish this card from your GY, then target 1 Level 5 or higher Sea Serpent monster in your GY; Special Summon that target. You can only use this effect of \"Slushy\" once per turn.",
+    "race": "Aqua",
     "atk": 0,
     "def": 0,
     "level": 2,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84650463.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84650463.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84650463.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/slushy-7099",
+    "card_sets": [
+        {
+            "set_name": "Abyss Rising",
+            "set_code": "ABYR-EN083",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Astral Pack Two",
+            "set_code": "AP02-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel Tournament Pack 2",
+            "set_code": "STP2-EN013",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel: Attack from the Deep",
+            "set_code": "SBAD-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84650463,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84650463.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84650463.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84650463.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "3.95",
+            "amazon_price": "0.41",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

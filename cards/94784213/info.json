@@ -1,18 +1,54 @@
 {
     "id": 94784213,
     "name": "Majespecter Fox - Kyubi",
+    "typeline": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "When this card is Normal or Special Summoned: You can add 1 \"Majespecter\" Trap Card from your Deck to your hand. You can only use this effect of \"Majespecter Fox - Kyubi\" once per turn. Cannot be targeted or destroyed by your opponent's card effects.",
+    "race": "Spellcaster",
     "atk": 1500,
     "def": 1000,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "WIND",
-    "scale": 2,
     "archetype": "Majespecter",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94784213.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94784213.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94784213.jpg"
+    "scale": 2,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/majespecter-fox-kyubi-7887",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN128",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension of Chaos",
+            "set_code": "DOCS-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 94784213,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94784213.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94784213.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94784213.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.50",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 67748760,
     "name": "Absorouter Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a \"Rokket\" monster, you can Special Summon this card (from your hand). You can only Special Summon \"Absorouter Dragon\" once per turn this way. If this card is sent to the GY: You can add 1 \"Rokket\" monster from your Deck to your hand. You can only use this effect of \"Absorouter Dragon\" once per turn.",
+    "race": "Dragon",
     "atk": 1200,
     "def": 2800,
     "level": 7,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Rokket",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/67748760.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67748760.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67748760.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/absorouter-dragon-10387",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.61"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 67748760,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67748760.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67748760.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67748760.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.80",
+            "tcgplayer_price": "0.91",
+            "ebay_price": "4.50",
+            "amazon_price": "2.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

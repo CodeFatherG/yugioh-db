@@ -1,18 +1,59 @@
 {
     "id": 64977888,
     "name": "Apprentice Piper",
+    "typeline": [
+        "Spellcaster",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: You can Special Summon 1 monster from your hand.\r\nIf this card is destroyed by battle or card effect and sent to the Graveyard: You can Special Summon 1 monster from your hand.",
+    "race": "Spellcaster",
     "atk": 100,
     "def": 1500,
     "level": 2,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64977888.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64977888.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64977888.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/apprentice-piper-5479",
+    "card_sets": [
+        {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAS-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN194",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Raging Tempest",
+            "set_code": "RATE-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64977888,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64977888.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64977888.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64977888.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.89",
+            "amazon_price": "1.70",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

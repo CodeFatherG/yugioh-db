@@ -1,18 +1,51 @@
 {
     "id": 97973387,
     "name": "Droll Bird",
+    "typeline": [
+        "Winged Beast",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "This monster stuns its enemies with a massive beak and ear-piercing wails.",
+    "race": "Winged Beast",
     "atk": 600,
     "def": 500,
     "level": 2,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/97973387.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97973387.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97973387.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/droll-bird-8142",
+    "card_sets": [
+        {
+            "set_name": "World Championship 2010 Card Pack",
+            "set_code": "WCPP-EN001",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "World Championship 2011 Card Pack",
+            "set_code": "WP11-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 97973387,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97973387.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97973387.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97973387.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "60.27",
+            "tcgplayer_price": "28.30",
+            "ebay_price": "3.88",
+            "amazon_price": "18.48",
+            "coolstuffinc_price": "39.99"
+        }
+    ]
 }

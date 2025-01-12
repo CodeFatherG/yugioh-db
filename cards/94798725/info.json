@@ -1,18 +1,53 @@
 {
     "id": 94798725,
     "name": "Gunkan Suship Uni-class Super-Dreadnought",
+    "typeline": [
+        "Aqua",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 5 monsters\r\nIf this card is Xyz Summoned: You can apply these effects, in sequence, based on the materials used. You can only use this effect of \"Gunkan Suship Uni-class Super-Dreadnought\" once per turn.\r\n\u25cf \"Gunkan Suship Shari\": Draw 1 card. \u25cf \"Gunkan Suship Uni\": This card gains the ability to attack directly.\r\nOnce per turn, during your Main Phase or your opponent's Battle Phase (Quick Effect): You can target face-up cards your opponent controls, up to the number of \"Gunkan\" monsters you control Special Summoned from the Extra Deck; negate their effects.",
+    "race": "Aqua",
     "atk": 2900,
     "def": 500,
     "level": 5,
-    "race": "Aqua",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Gunkan",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94798725.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94798725.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94798725.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gunkan-suship-uni-class-super-dreadnought-12409",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN214",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN048",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 94798725,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94798725.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94798725.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94798725.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.95",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

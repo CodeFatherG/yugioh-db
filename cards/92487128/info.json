@@ -1,18 +1,57 @@
 {
     "id": 92487128,
     "name": "Sosei Ryu-Ge Mistva",
+    "typeline": [
+        "Dragon",
+        "Ritual",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Ritual Monster",
+    "humanReadableCardType": "Ritual Pendulum Effect Monster",
+    "frameType": "ritual_pendulum",
     "desc": "[ Pendulum Effect ] \nDuring your Main Phase: You can add 1 non-Pendulum \"Ryu-Ge\" card from your Deck to your hand, then destroy this card. You can only use this effect of \"Sosei Ryu-Ge Mistva\" once per turn.\n\n[ Monster Effect ] \nMust be Special Summoned by its own effect. You can only Special Summon \"Sosei Ryu-Ge Mistva(s)\" once per turn. If a monster(s) on the field is destroyed by battle or card effect, while this card is in your Extra Deck: You can Tribute 1 Level 10 \"Ryu-Ge\" monster, and if you do, Special Summon this card (this is treated as a Ritual Summon), then you can apply this effect.\r\n\u25cf Destroy up to 2 cards you control, and if you do, place up to that many \"Ryu-Ge\" Continuous Spells from your Deck face-up on your field.",
+    "race": "Dragon",
+    "pend_desc": "During your Main Phase: You can add 1 non-Pendulum \"Ryu-Ge\" card from your Deck to your hand, then destroy this card. You can only use this effect of \"Sosei Ryu-Ge Mistva\" once per turn.",
+    "monster_desc": "Must be Special Summoned by its own effect. You can only Special Summon \"Sosei Ryu-Ge Mistva(s)\" once per turn. If a monster(s) on the field is destroyed by battle or card effect, while this card is in your Extra Deck: You can Tribute 1 Level 10 \"Ryu-Ge\" monster, and if you do, Special Summon this card (this is treated as a Ritual Summon), then you can apply this effect.\r\n\u25cf Destroy up to 2 cards you control, and if you do, place up to that many \"Ryu-Ge\" Continuous Spells from your Deck face-up on your field.",
     "atk": 3500,
     "def": 2500,
     "level": 10,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": 0,
     "archetype": "Ryu-Ge",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92487128.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92487128.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92487128.jpg"
+    "scale": 0,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sosei-ryu-ge-mistva-14723",
+    "card_sets": [
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN034",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN034",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92487128,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92487128.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92487128.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92487128.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "5.85",
+            "tcgplayer_price": "5.27",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

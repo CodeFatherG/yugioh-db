@@ -2,17 +2,36 @@
     "id": 16938770,
     "name": "Xyz Poseidon Splash",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control an Xyz Monster that has an Xyz Monster as material: Declare 1 monster Attribute on the field; destroy all monsters on the field with that Attribute, except monsters equipped with an Equip Spell. You can banish this card from your GY and detach 1 material from a monster you control; Special Summon 1 Fish, Sea Serpent, or Aqua monster from your GY to either field. You can only use 1 \"Xyz Poseidon Splash\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Xyz",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16938770.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16938770.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16938770.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/xyz-poseidon-splash-14661",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN069",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16938770,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16938770.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16938770.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16938770.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

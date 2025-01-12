@@ -1,18 +1,46 @@
 {
     "id": 69601012,
     "name": "Berfomet the Mythical King of Phantom Beasts",
+    "typeline": [
+        "Fiend",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 monsters with different Types (Beast, Fiend, or Illusion)\r\nThis card's name becomes \"Chimera the Flying Mythical Beast\" while on the field or in the GY. You can only use each of the following effects of \"Berfomet the Mythical King of Phantom Beasts\" once per turn. If this card is Fusion Summoned: You can send 1 Beast, Fiend, or Illusion monster from your Deck to the GY. During your opponent's turn (Quick Effect): You can banish this card from your GY, then target 1 of your banished Beast, Fiend, or Illusion monsters, except \"Berfomet the Mythical King of Phantom Beasts\"; Special Summon it.",
+    "race": "Fiend",
     "atk": 2400,
     "def": 600,
     "level": 6,
-    "race": "Fiend",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Chimera",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/69601012.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69601012.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69601012.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/berfomet-the-mythical-king-of-phantom-beasts-14023",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN032",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 69601012,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69601012.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69601012.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69601012.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.45",
+            "tcgplayer_price": "0.94",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

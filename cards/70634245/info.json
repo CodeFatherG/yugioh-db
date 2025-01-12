@@ -1,18 +1,46 @@
 {
     "id": 70634245,
     "name": "Legendary Lord Six Samurai - Enishi",
+    "typeline": [
+        "Warrior",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nWarrior monsters you control gain 500 ATK/DEF during the Battle Phase only. You can only use each of the following effects of \"Legendary Lord Six Samurai - Enishi\" once per turn. If this card is Synchro Summoned: You can banish any number of \"Six Samurai\" monsters from your GY, then target that many monsters your opponent controls; return those monsters to the hand. If this card is sent to the GY: You can Special Summon 1 of your banished \"Six Samurai\" monsters.",
+    "race": "Warrior",
     "atk": 1700,
     "def": 1200,
     "level": 6,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Six Samurai",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70634245.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70634245.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70634245.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/legendary-lord-six-samurai-enishi-14536",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70634245,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70634245.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70634245.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70634245.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

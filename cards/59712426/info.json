@@ -1,18 +1,45 @@
 {
     "id": 59712426,
     "name": "Arcana Force XV - The Fiend",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can discard this card; add 1 \"Light Barrier\" from your Deck or GY to your hand. If this card is Summoned: Toss a coin and this card gains the appropriate effect.\r\n\u25cf Heads: When an attack is declared involving this card: You can target 1 monster on the field; destroy it, and if you do, inflict 500 damage to its controller.\r\n\u25cf Tails: If an attack is declared involving this card: Destroy all monsters on the field.",
+    "race": "Fairy",
     "atk": 2500,
     "def": 2500,
     "level": 7,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Arcana Force",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59712426.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59712426.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59712426.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/arcana-force-xv-the-fiend-13953",
+    "card_sets": [
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59712426,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59712426.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59712426.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59712426.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

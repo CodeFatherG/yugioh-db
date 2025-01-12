@@ -2,17 +2,35 @@
     "id": 1259814,
     "name": "RGB Rainbowlution",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Once per turn: You can target 1 face-up monster on the field; its Type is changed to Machine, also it gains the LIGHT/DARK/EARTH/WATER/FIRE/WIND Attributes (even if this card leaves the field).",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/1259814.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1259814.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1259814.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rgb-rainbowlution-13674",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN011",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 1259814,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1259814.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1259814.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1259814.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 19882096,
     "name": "Scareclaw Belone",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Special Summon this card (from your hand) to your Main Monster Zone, adjacent to a \"Scareclaw\" monster you control or in its column. You can only Special Summon \"Scareclaw Belone\" once per turn this way. If your \"Scareclaw\" monster in the Extra Monster Zone attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "race": "Beast",
     "atk": 0,
     "def": 1700,
     "level": 3,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Scareclaw",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19882096.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19882096.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19882096.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/scareclaw-belone-13031",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.84"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19882096,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19882096.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19882096.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19882096.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

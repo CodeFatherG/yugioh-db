@@ -1,18 +1,59 @@
 {
     "id": 57111330,
     "name": "Therion \"Duke\" Yul",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can only use the 1st of the following effects of \"Therion \"Duke\" Yul\" once per turn.\r\n\u25cf You can target 1 \"Therion\" monster or 1 Psychic monster in your GY; Special Summon this card from your hand, and if you do, equip that monster to this card.\r\n\u25cf While you control an Equip Card, \"Therion\" monsters you control cannot be destroyed by your opponent's card effects.\r\nA \"Therion\" monster equipped with this card gains 700 ATK, also it gains the 2nd effect listed above as if it were \"Therion \"Duke\" Yul\".",
+    "race": "Psychic",
     "atk": 2100,
     "def": 2800,
     "level": 8,
-    "race": "Psychic",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Therion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57111330.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57111330.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57111330.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/therion-duke-yul-13015",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN061",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.86"
+        },
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN061",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57111330,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57111330.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57111330.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57111330.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "1.50",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

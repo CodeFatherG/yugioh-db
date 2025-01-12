@@ -1,18 +1,36 @@
 {
     "id": 63028558,
     "name": "Anotherverse Solaria",
+    "typeline": [
+        "Pyro",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''The stellar god of another world, harboring its twilight sun. His frozen flames leave a scorched trail across the dimensions, forever seeking new strength.''",
+    "race": "Pyro",
     "atk": 2500,
     "def": 2000,
     "level": 8,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Anotherverse",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/63028558.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63028558.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63028558.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/anotherverse-solaria-14684",
+    "card_images": [
+        {
+            "id": 63028558,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63028558.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63028558.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63028558.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

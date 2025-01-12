@@ -2,17 +2,43 @@
     "id": 41475424,
     "name": "Mektimed Blast",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Meklord\" monster you control and 1 card your opponent controls; destroy them.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Meklord",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/41475424.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41475424.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41475424.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mektimed-blast-3548",
+    "card_sets": [
+        {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.53"
+        },
+        {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN175",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.28"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 41475424,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41475424.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41475424.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41475424.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

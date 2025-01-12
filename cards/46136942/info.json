@@ -1,18 +1,63 @@
 {
     "id": 46136942,
     "name": "Performapal Odd-Eyes Dissolver",
+    "typeline": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nOnce per turn, during your Main Phase: You can Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.\n\n[ Monster Effect ] \nAt the start of the Damage Step, if your Pendulum Monster battles an opponent's monster: You can Special Summon this card from your hand, and if you do, your monster cannot be destroyed by that battle. You can only use this effect of \"Performapal Odd-Eyes Dissolver\" once per turn. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand, field, and/or Pendulum Zones, including this card.",
+    "race": "Spellcaster",
+    "pend_desc": "Once per turn, during your Main Phase: You can Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+    "monster_desc": "At the start of the Damage Step, if your Pendulum Monster battles an opponent's monster: You can Special Summon this card from your hand, and if you do, your monster cannot be destroyed by that battle. You can only use this effect of \"Performapal Odd-Eyes Dissolver\" once per turn. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand, field, and/or Pendulum Zones, including this card.",
     "atk": 2000,
     "def": 2600,
     "level": 8,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": 4,
     "archetype": "Odd-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46136942.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46136942.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46136942.jpg"
+    "scale": 4,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/performapal-odd-eyes-dissolver-8658",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Light's Revenge",
+            "set_code": "BLLR-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "5.24"
+        },
+        {
+            "set_name": "OTS Tournament Pack 19",
+            "set_code": "OP19-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 19 (POR)",
+            "set_code": "OP19-PT008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46136942,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46136942.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46136942.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46136942.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.39",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "2.25",
+            "amazon_price": "2.49",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

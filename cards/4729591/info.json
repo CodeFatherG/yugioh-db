@@ -1,20 +1,50 @@
 {
     "id": 4729591,
     "name": "Appliancer Kappa Scale",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 \"Appliancer\" monster\r\nCannot be used as Link Material the turn it is Link Summoned. You can Tribute this co-linked card; Special Summon 1 \"Appliancer\" Link Monster from your GY, except \"Appliancer Kappa Scale\". You can Tribute this card that is not co-linked; Special Summon 1 Level 4 or lower \"Appliancer\" monster from your GY. You can only use each effect of \"Appliancer Kappa Scale\" once per turn.",
+    "race": "Machine",
     "atk": 0,
     "def": null,
     "level": null,
-    "race": "Machine",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Appliancer",
     "linkval": 1,
     "linkmarkers": [
         "Top"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/4729591.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4729591.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4729591.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/appliancer-kappa-scale-11204",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN039",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.07"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4729591,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4729591.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4729591.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4729591.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "3.49",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

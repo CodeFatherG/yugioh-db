@@ -1,18 +1,65 @@
 {
     "id": 90908427,
     "name": "Steel Ogre Grotto #2",
+    "typeline": [
+        "Machine",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A mechanized iron doll with tremendous strength.",
+    "race": "Machine",
     "atk": 1900,
     "def": 2200,
     "level": 6,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/90908427.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90908427.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90908427.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/steel-ogre-grotto-2-7592",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Ultimate Kaiba Set",
+            "set_code": "KC01-EN008",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.78"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-E001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5.87"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 90908427,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90908427.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90908427.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90908427.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.01",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

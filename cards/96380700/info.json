@@ -1,20 +1,50 @@
 {
     "id": 96380700,
     "name": "Talkback Lancer",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 Level 2 or lower Cyberse monster\r\nYou can Tribute 1 other Cyberse monster, then target 1 \"Code Talker\" monster in your GY with a different original name from that monster; Special Summon it to your zone this card points to. You can only use this effect of \"Talkback Lancer\" once per turn.",
+    "race": "Cyberse",
     "atk": 1200,
     "def": null,
     "level": null,
-    "race": "Cyberse",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Code Talker",
     "linkval": 1,
     "linkmarkers": [
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/96380700.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96380700.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96380700.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/talkback-lancer-9544",
+    "card_sets": [
+        {
+            "set_name": "Fists of the Gadgets",
+            "set_code": "FIGA-EN046",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.27"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96380700,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96380700.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96380700.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96380700.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 91098230,
     "name": "Ancient Gear Tanker",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Ancient Gear\" monster from your hand, except \"Ancient Gear Tanker\", ignoring its Summoning conditions, or, if your opponent controls a monster, you can Special Summon from your GY instead. You can target 1 face-up card you control; destroy it, also for the rest of this turn, all monsters you control that are \"Ancient Gear Golem\", or mention it, gain 600 ATK. You can only use each effect of \"Ancient Gear Tanker\" once per turn.",
+    "race": "Machine",
     "atk": 1300,
     "def": 1300,
     "level": 4,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Ancient Gear",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91098230.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91098230.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91098230.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-tanker-14298",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91098230,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91098230.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91098230.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91098230.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

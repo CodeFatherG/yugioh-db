@@ -1,18 +1,52 @@
 {
     "id": 13256226,
     "name": "Elemental HERO Spirit of Neos",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When an opponent's monster declares an attack: You can Special Summon this card from your hand in Defense Position, and if you do, it cannot be destroyed by battle. If this card is Special Summoned: You can add from your Deck to your hand 1 \"Polymerization\" or 1 Spell/Trap that mentions an \"Elemental HERO\" monster's card name. During your Main Phase: You can shuffle this card into the Deck, and if you do, Special Summon 1 \"Elemental HERO\" Normal Monster from your Deck. You can only use each effect of \"Elemental HERO Spirit of Neos\" once per turn.",
+    "race": "Warrior",
     "atk": 2500,
     "def": 2000,
     "level": 7,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Elemental HERO",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/13256226.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13256226.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13256226.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/elemental-hero-spirit-of-neos-13142",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN117",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 13256226,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13256226.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13256226.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13256226.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.46",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "3.99",
+            "amazon_price": "0.93",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

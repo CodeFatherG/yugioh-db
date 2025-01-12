@@ -2,17 +2,43 @@
     "id": 1050684,
     "name": "Scrapyard",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Add 1 \"Scrap\" Tuner monster from your Deck to your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Scrap",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/1050684.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1050684.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1050684.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/scrapyard-97",
+    "card_sets": [
+        {
+            "set_name": "Duelist Revolution",
+            "set_code": "DREV-EN047",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 9 (POR)",
+            "set_code": "OP09-PT033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 1050684,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1050684.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1050684.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1050684.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "5.98",
+            "tcgplayer_price": "6.32",
+            "ebay_price": "11.59",
+            "amazon_price": "18.99",
+            "coolstuffinc_price": "8.99"
+        }
+    ]
 }

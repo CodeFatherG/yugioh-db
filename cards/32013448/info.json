@@ -1,18 +1,52 @@
 {
     "id": 32013448,
     "name": "Evening Twilight Knight",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "A \"Black Luster Soldier\" monster Ritual Summoned using this card gains these effects. You can only use this effect of \"Evening Twilight Knight\" once per turn.\r\n\u25cf Once per turn: You can target 1 monster your opponent controls; banish it.\r\n\u25cf Once per turn: You can banish 1 random card from your opponent's hand face-down, until your opponent's next End Phase.\r\nIf this card is banished from your Graveyard: You can add 1 Ritual Monster from your Deck to your hand. You can only use this effect of \"Evening Twilight Knight\" once per turn.",
+    "race": "Warrior",
     "atk": 500,
     "def": 2000,
     "level": 4,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Black Luster Soldier",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32013448.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32013448.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32013448.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/evening-twilight-knight-2722",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN124",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension of Chaos",
+            "set_code": "DOCS-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32013448,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32013448.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32013448.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32013448.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.71",
+            "tcgplayer_price": "4.35",
+            "ebay_price": "12.00",
+            "amazon_price": "8.98",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

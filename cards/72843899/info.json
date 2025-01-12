@@ -1,18 +1,52 @@
 {
     "id": 72843899,
     "name": "Advanced Crystal Beast Topaz Tiger",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If \"Advanced Dark\" is not in a Field Zone, send this monster to the GY. All \"Advanced Crystal Beast\" monsters you control gain 400 ATK/DEF, also monsters your opponent controls lose 400 ATK/DEF. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY.",
+    "race": "Beast",
     "atk": 1600,
     "def": 1000,
     "level": 4,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Advanced Crystal Beast",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/72843899.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72843899.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72843899.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/advanced-crystal-beast-topaz-tiger-13310",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN012",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN013",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 72843899,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72843899.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72843899.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72843899.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.51",
+            "tcgplayer_price": "0.38",
+            "ebay_price": "1.23",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

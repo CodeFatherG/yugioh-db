@@ -1,18 +1,53 @@
 {
     "id": 95973569,
     "name": "T.G. Glaive Blaster",
+    "typeline": [
+        "Machine",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner Synchro Monster + 2+ non-Tuner Synchro Monsters\r\nMust be Synchro Summoned. (Quick Effect): You can target 1 monster on the field Special Summoned from the Extra Deck; banish it. You can use this effect a number of times per turn, up to the number of non-Tuner Synchro Monsters used as Synchro Material for this card. Once per turn, if a monster(s) is banished face-up (except during the Damage Step): You can target 1 of them; Special Summon it to your field, ignoring its Summoning conditions.",
+    "race": "Machine",
     "atk": 4000,
     "def": 4000,
     "level": 12,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "T.G.",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/95973569.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95973569.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95973569.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/t-g-glaive-blaster-14062",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN036",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN036",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 95973569,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95973569.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95973569.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95973569.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

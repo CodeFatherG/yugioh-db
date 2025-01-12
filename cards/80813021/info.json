@@ -1,18 +1,35 @@
 {
     "id": 80813021,
     "name": "Torike",
+    "typeline": [
+        "Beast",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''Although a poor defender, this monster's sharp horn gives it an edge when attacking.''",
+    "race": "Beast",
     "atk": 1200,
     "def": 600,
     "level": 3,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80813021.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80813021.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80813021.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/torike-6780",
+    "card_images": [
+        {
+            "id": 80813021,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80813021.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80813021.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80813021.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.36",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.10",
+            "amazon_price": "12.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

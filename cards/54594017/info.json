@@ -1,18 +1,46 @@
 {
     "id": 54594017,
     "name": "Blackwing - Sharnga the Waning Moon",
+    "typeline": [
+        "Winged Beast",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If a monster with 2000 or more ATK is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Blackwing - Sharnga the Waning Moon\" once per turn this way. If you control a \"Blackwing\" Synchro Monster (Quick Effect): You can banish this card from your GY, then target 1 face-up card your opponent controls; destroy it. You can only use this effect of \"Blackwing - Sharnga the Waning Moon\" once per Duel.",
+    "race": "Winged Beast",
     "atk": 500,
     "def": 500,
     "level": 2,
-    "race": "Winged Beast",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Blackwing",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54594017.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54594017.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54594017.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blackwing-sharnga-the-waning-moon-13631",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN039",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54594017,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54594017.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54594017.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54594017.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.50",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

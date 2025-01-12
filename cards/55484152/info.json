@@ -2,17 +2,36 @@
     "id": 55484152,
     "name": "Sangen Furo",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Once per turn, when a monster is destroyed by battle involving your FIRE Dragon monster: You can target 1 of those destroyed monsters; Special Summon it to your field in Defense Position. During your opponent's End Phase: You can pay 1000 LP, then target 1 \"Sangen\" Spell/Trap in your GY; Set it, but banish it when it leaves the field. You can only use this effect of \"Sangen Furo\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Sangen",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/55484152.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55484152.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55484152.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sangen-furo-14573",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN061",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 55484152,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55484152.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55484152.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55484152.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

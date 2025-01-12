@@ -2,17 +2,27 @@
     "id": 40844553,
     "name": "Einherjar Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Valkyrie of the Nordic Ascendant\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Warrior",
-    "attribute": null,
-    "scale": null,
     "archetype": "Nordic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/40844553.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40844553.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40844553.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/einherjar-token-3474",
+    "card_images": [
+        {
+            "id": 40844553,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40844553.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40844553.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40844553.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

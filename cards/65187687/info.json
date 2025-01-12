@@ -1,18 +1,53 @@
 {
     "id": 65187687,
     "name": "Skeletal Dragon Felgrand",
+    "typeline": [
+        "Zombie",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Zombie Tuner + 1+ non-Tuner monsters\r\nIf this card is Special Summoned: You can target 1 monster your opponent controls or in their GY; banish it. If a monster(s) is Special Summoned from either GY, while this monster is on the field (except during the Damage Step): You can target 1 other face-up monster on the field; negate its effects until the end of this turn. You can only use each effect of \"Skeletal Dragon Felgrand\" once per turn.",
+    "race": "Zombie",
     "atk": 2800,
     "def": 2800,
     "level": 8,
-    "race": "Zombie",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Felgrand",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65187687.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65187687.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65187687.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/skeletal-dragon-felgrand-12961",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN084",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN040",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65187687,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65187687.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65187687.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65187687.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "2.08",
+            "amazon_price": "2.22",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

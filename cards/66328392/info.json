@@ -2,17 +2,43 @@
     "id": 66328392,
     "name": "Deception of the Sinful Spoils",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "You can Tribute 1 monster from your hand or field; add 1 \"Azamina\" card from your Deck to your hand. If a monster(s) is sent to your opponent's GY, and you control an \"Azamina\" monster (except during the Damage Step): You can make your opponent lose 1500 LP, and if you do, gain 1500 LP. During the End Phase, if this card is in the GY because it was sent there from the Spell & Trap Zone this turn while face-up: You can Set it. You can only use each effect of \"Deception of the Sinful Spoils\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Sinful Spoils",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/66328392.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66328392.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66328392.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/deception-of-the-sinful-spoils-14584",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN055",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN055",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 66328392,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66328392.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66328392.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66328392.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "31.68",
+            "tcgplayer_price": "38.73",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

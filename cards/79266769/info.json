@@ -1,14 +1,20 @@
 {
     "id": 79266769,
     "name": "Darkness Metal, the Dragon of Dark Steel",
+    "typeline": [
+        "Dragon",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ Effect Monsters with the same Type and Attribute\r\nYou can target 1 of your monsters that is banished or in your GY; Special Summon it to your zone this card points to, in Defense Position, but its effects are negated, also you cannot Special Summon Link Monsters for the rest of this turn, and the Summoned monster is placed on the bottom of the Deck when it leaves the field. You can only use this effect of \"Darkness Metal, the Dragon of Dark Steel\" once per turn.",
+    "race": "Dragon",
     "atk": 2800,
     "def": null,
     "level": 0,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Red-Eyes",
     "linkval": 4,
     "linkmarkers": [
@@ -17,7 +23,45 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/79266769.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79266769.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79266769.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/darkness-metal-the-dragon-of-dark-steel-9493",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN047",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN044",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Weekly Shonen Jump December 2018 membership promotional cards",
+            "set_code": "JUMP-EN087",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "11.33"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79266769,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79266769.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79266769.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79266769.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.77",
+            "tcgplayer_price": "3.49",
+            "ebay_price": "9.49",
+            "amazon_price": "14.90",
+            "coolstuffinc_price": "4.99"
+        }
+    ]
 }

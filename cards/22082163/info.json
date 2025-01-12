@@ -2,17 +2,43 @@
     "id": 22082163,
     "name": "Amazoness Willpower",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Select 1 \"Amazoness\" monster in your Graveyard and Special Summon it in Attack Position. It cannot change its battle position and must attack if able. When this card is removed from the field, destroy that monster. When that monster is destroyed, destroy this card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Amazoness",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/22082163.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22082163.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22082163.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/amazoness-willpower-1903",
+    "card_sets": [
+        {
+            "set_name": "Duelist Revolution",
+            "set_code": "DREV-EN072",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-END17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22082163,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22082163.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22082163.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22082163.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.28",
+            "ebay_price": "3.79",
+            "amazon_price": "3.18",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

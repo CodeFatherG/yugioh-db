@@ -2,17 +2,42 @@
     "id": 4433488,
     "name": "Cynet Cascade",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you Link Summon a Link Monster: You can target 1 monster in your GY used as its material; Special Summon it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4433488.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4433488.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4433488.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cynet-cascade-10181",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN249",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN099",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.87"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4433488,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4433488.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4433488.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4433488.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

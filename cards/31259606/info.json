@@ -1,18 +1,51 @@
 {
     "id": 31259606,
     "name": "Supreme Sea Mare",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can send 1 Aqua monster from your Deck to the GY, except \"Supreme Sea Mare\". During your End Phase: You can Tribute this card, then target 1 Aqua monster in your GY, except \"Supreme Sea Mare\"; add it to your hand. You can only use each effect of \"Supreme Sea Mare\" once per turn.",
+    "race": "Aqua",
     "atk": 1500,
     "def": 1600,
     "level": 4,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31259606.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31259606.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31259606.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/supreme-sea-mare-13043",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.84"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31259606,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31259606.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31259606.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31259606.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

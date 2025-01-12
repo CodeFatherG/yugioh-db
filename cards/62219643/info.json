@@ -2,17 +2,36 @@
     "id": 62219643,
     "name": "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Tribute 1 \"Mayakashi\" or \"Shiranui\" Synchro or Link Monster; neither player can Special Summon monsters from the hand, Deck, or Extra Deck for the rest of this turn. You can banish this card from your GY, then target 1 of your banished Zombie monsters; return it to the GY. You can only use 1 \"Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Mayakashi",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62219643.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62219643.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62219643.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ghost-meets-girl-a-masterful-mayakashi-shiranui-saga-12912",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN015",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 62219643,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62219643.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62219643.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62219643.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "2.00",
+            "amazon_price": "4.24",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

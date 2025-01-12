@@ -2,17 +2,35 @@
     "id": 96127902,
     "name": "Made to Order Mermaid Outfit Outfitter",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 card in your opponent's GY; banish it, then you can add 1 card from your Deck to your hand with the same name as that banished card. You can only activate 1 \"Made to Order Mermaid Outfit Outfitter\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96127902.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96127902.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96127902.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/made-to-order-mermaid-outfit-outfitter-13724",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN085",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96127902,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96127902.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96127902.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96127902.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.23",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

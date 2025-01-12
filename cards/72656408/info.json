@@ -1,18 +1,55 @@
 {
     "id": 72656408,
     "name": "Bystial Baldrake",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 1 LIGHT or DARK monster in either GY; banish it, and if you do, Special Summon this card from your hand. This is a Quick Effect if your opponent controls a monster. If your opponent Special Summons a Ritual, Fusion, Synchro, Xyz, and/or Link Monster(s) (except during the Damage Step): You can Tribute 1 other LIGHT or DARK monster, then target 1 of those Special Summoned monsters; banish it. You can only use each effect of \"Bystial Baldrake\" once per turn.",
+    "race": "Dragon",
     "atk": 2500,
     "def": 2000,
     "level": 6,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Bystial",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/72656408.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72656408.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72656408.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bystial-baldrake-13519",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN069",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 72656408,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72656408.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72656408.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72656408.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

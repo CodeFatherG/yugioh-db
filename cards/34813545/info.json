@@ -2,17 +2,43 @@
     "id": 34813545,
     "name": "Naturia Blessing",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Activate 1 of these effects;\r\n\u25cf Special Summon 1 \"Naturia\" monster from your hand or GY.\r\n\u25cf Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using monsters you control as material, including a \"Naturia\" monster.\r\n\u25cf Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as material, including a \"Naturia\" monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Naturia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34813545.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34813545.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34813545.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/naturia-blessing-13296",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN204",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34813545,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34813545.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34813545.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34813545.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "6.50",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

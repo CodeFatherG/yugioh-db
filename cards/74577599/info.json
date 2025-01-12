@@ -2,17 +2,36 @@
     "id": 74577599,
     "name": "Traptrix Holeutea",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "You can activate this card the turn it was Set, by discarding 1 Normal Trap. Special Summon this card in Defense Position as a Normal Monster (Plant/EARTH/Level 4/ATK 400/DEF 2400). (This card is NOT treated as a Trap.) You can banish this card from your GY, then target 1 \"Traptrix\" monster in your GY; Special Summon it. You can only use 1 \"Traptrix Holeutea\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Hole",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74577599.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74577599.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74577599.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-holeutea-13618",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN046",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 74577599,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74577599.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74577599.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74577599.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

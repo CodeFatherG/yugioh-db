@@ -2,17 +2,36 @@
     "id": 300302033,
     "name": "Land of the Ojamas (Skill Card)",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Chazz Princet",
+    "frameType": "skill",
     "desc": "Once per turn: You can send 1 \"Ojama\" card from your hand to the GY; Special Summon 1 \"Ojama\" monster from your GY. While you control an \"Ojama\" monster, switch the original ATK/DEF of all monsters on the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Chazz Princet",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ojama",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302033.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302033.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302033.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/land-of-the-ojamas-skill-card-13223",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENS03",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302033,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302033.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302033.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302033.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "1.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

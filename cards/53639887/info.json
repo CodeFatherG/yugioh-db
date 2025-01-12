@@ -2,17 +2,50 @@
     "id": 53639887,
     "name": "Divine Temple of the Snake-Eye",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: You can place 1 \"Snake-Eye\" monster from your hand, Deck, or GY face-up in its owner's Spell & Trap Zone as a Continuous Spell. Level 1 FIRE monsters you control gain 1100 ATK. Once per turn, if your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can target 1 Monster Card on the field treated as a Continuous Spell; Special Summon it to your field. You can only activate 1 \"Divine Temple of the Snake-Eye\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Snake-Eye",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53639887.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53639887.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53639887.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/divine-temple-of-the-snake-eye-14034",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN123",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN056",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN056",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53639887,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53639887.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53639887.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53639887.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.79",
+            "tcgplayer_price": "0.61",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "9.99"
+        }
+    ]
 }

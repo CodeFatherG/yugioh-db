@@ -1,18 +1,45 @@
 {
     "id": 2648201,
     "name": "ZW - Sleipnir Mail",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 1 \"Utopia\" monster you control; equip this monster from your hand or your side of the field to that target. It gains 1000 ATK. When this card you control is sent to your Graveyard because the equipped monster was destroyed by your opponent's card (by battle or card effect): You can target 1 \"Utopia\" monster in your Graveyard; Special Summon that target. You can only control 1 \"ZW - Sleipnir Mail\".",
+    "race": "Beast",
     "atk": 1000,
     "def": 1000,
     "level": 4,
-    "race": "Beast",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Utopia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2648201.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2648201.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2648201.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zw-sleipnir-mail-239",
+    "card_sets": [
+        {
+            "set_name": "Primal Origin",
+            "set_code": "PRIO-EN096",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2648201,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2648201.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2648201.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2648201.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

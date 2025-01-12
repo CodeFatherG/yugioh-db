@@ -2,17 +2,43 @@
     "id": 81549048,
     "name": "Ryu-Ge Rivalry",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Special Summon 1 \"Ryu-Ge\" monster from your hand, Deck, or GY, but return it to the hand during the End Phase. You can banish this card from your GY, then target 1 \"Ryu-Ge\" Continuous Spell in your banishment, GY, or field; place it on the bottom of the Deck, then draw 1 card. You can only use each effect of \"Ryu-Ge Rivalry\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ryu-Ge",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81549048.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81549048.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81549048.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ryu-ge-rivalry-14683",
+    "card_sets": [
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN040",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81549048,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81549048.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81549048.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81549048.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

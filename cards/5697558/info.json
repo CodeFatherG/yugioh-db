@@ -2,17 +2,43 @@
     "id": 5697558,
     "name": "The Hidden City",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: You can add 1 \"Subterror\" monster from your Deck to your hand. Once per turn: You can change 1 face-down Defense Position \"Subterror\" monster you control to face-up Attack or Defense Position. Once per turn, when an opponent's monster declares an attack: You can change 1 face-down Defense Position \"Subterror\" monster you control to face-up Attack or Defense Position, then you can negate the attack. You can only activate 1 \"The Hidden City\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Subterror",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5697558.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5697558.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5697558.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-hidden-city-504",
+    "card_sets": [
+        {
+            "set_name": "Fists of the Gadgets",
+            "set_code": "FIGA-EN049",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Dark Illusion",
+            "set_code": "TDIL-EN085",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5697558,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5697558.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5697558.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5697558.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.36",
+            "tcgplayer_price": "2.32",
+            "ebay_price": "0.99",
+            "amazon_price": "3.99",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

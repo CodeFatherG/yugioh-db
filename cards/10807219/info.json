@@ -1,18 +1,44 @@
 {
     "id": 10807219,
     "name": "Newbee!",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you have a monster with 0 ATK/DEF in your GY, you can Special Summon this card (from your hand). You can only Special Summon \"Newbee!\" once per turn this way. If this card is Special Summoned from the hand: You can apply these effects in sequence.\r\n\u25cf Add 1 LIGHT Insect monster from your GY to your hand, except \"Newbee!\".\r\n\u25cf Place 1 of your Traps that is banished or in your GY on either the top or bottom of the Deck.\r\nYou can only use this effect of \"Newbee!\" once per turn.",
+    "race": "Insect",
     "atk": 0,
     "def": 0,
     "level": 2,
-    "race": "Insect",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/10807219.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10807219.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10807219.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/newbee-14651",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 10807219,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10807219.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10807219.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10807219.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

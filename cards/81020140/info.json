@@ -1,18 +1,52 @@
 {
     "id": 81020140,
     "name": "Volcanic Blaster",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is destroyed and sent to the Graveyard by battle, you can place 1 \"Volcanic\" monster in your Deck on top of your Deck.",
+    "race": "Pyro",
     "atk": 1200,
     "def": 600,
     "level": 3,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Volcanic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81020140.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81020140.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81020140.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/volcanic-blaster-6798",
+    "card_sets": [
+        {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENH08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81020140,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81020140.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81020140.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81020140.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

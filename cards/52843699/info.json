@@ -1,18 +1,52 @@
 {
     "id": 52843699,
     "name": "Simorgh, Bird of Perfection",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "While face-up on the field, this card is also WIND-Attribute. You can only use each of the following effects of \"Simorgh, Bird of Perfection\" once per turn. During your Main Phase, if you Normal or Special Summon a Winged Beast monster(s): You can reveal this card in your hand; immediately after this effect resolves, Normal Summon 1 \"Simorgh\" monster. If this card is Normal Summoned: You can send 1 \"Simorgh\" monster from your Deck to the GY; add 1 \"Simorgh\" Spell/Trap from your Deck to your hand.",
+    "race": "Winged Beast",
     "atk": 1800,
     "def": 500,
     "level": 4,
-    "race": "Winged Beast",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Simorgh",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52843699.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52843699.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52843699.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/simorgh-bird-of-perfection-12769",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.99"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52843699,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52843699.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52843699.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52843699.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "1.25",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

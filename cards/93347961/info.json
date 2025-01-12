@@ -1,18 +1,46 @@
 {
     "id": 93347961,
     "name": "Elemental HERO Flame Wingman - Infernal Rage",
+    "typeline": [
+        "Warrior",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 \"Elemental HERO\" monsters with different Attributes\r\nMust be Fusion Summoned. If this card is Special Summoned: You can add 1 card with \"Favorite\" in its name from your Deck or GY to your hand. You can Tribute this card that was Fusion Summoned using a Normal Monster(s) as material; Special Summon 1 Level 7 or lower \"Elemental HERO\" monster from your Deck or Extra Deck that cannot be Normal Summoned/Set, ignoring its Summoning conditions. You can only use each effect of \"Elemental HERO Flame Wingman - Infernal Rage\" once per turn.",
+    "race": "Warrior",
     "atk": 2100,
     "def": 1200,
     "level": 8,
-    "race": "Warrior",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Elemental HERO",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93347961.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93347961.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93347961.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/elemental-hero-flame-wingman-infernal-rage-13753",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN012",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93347961,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93347961.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93347961.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93347961.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.01",
+            "tcgplayer_price": "3.46",
+            "ebay_price": "14.39",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "9.99"
+        }
+    ]
 }

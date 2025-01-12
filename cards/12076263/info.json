@@ -1,18 +1,59 @@
 {
     "id": 12076263,
     "name": "Wind-Up Dog",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During your Main Phase: You can increase this card's Level by 2 and ATK by 600, until the End Phase. This effect can be used only once while this card is face-up on the field.",
+    "race": "Beast",
     "atk": 1200,
     "def": 900,
     "level": 3,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Wind-Up",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12076263.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12076263.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12076263.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wind-up-dog-1040",
+    "card_sets": [
+        {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN167",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN167",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12076263,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12076263.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12076263.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12076263.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.01",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

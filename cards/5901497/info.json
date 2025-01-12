@@ -1,18 +1,58 @@
 {
     "id": 5901497,
     "name": "Queen's Double",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This monster may attack your opponent's Life Points directly.",
+    "race": "Warrior",
     "atk": 350,
     "def": 300,
     "level": 1,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5901497.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5901497.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5901497.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/queen-s-double-517",
+    "card_sets": [
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-051",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "3.15"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E051",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0.00"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN051",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0.00"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5901497,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5901497.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5901497.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5901497.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "2.99",
+            "amazon_price": "4.28",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

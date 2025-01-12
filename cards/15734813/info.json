@@ -1,18 +1,58 @@
 {
     "id": 15734813,
     "name": "Soul Tiger",
+    "typeline": [
+        "Beast",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "The soul of a tiger that is said to devour human souls. He is a famous soul that you wouldn't want to run into in a dark alley.",
+    "race": "Beast",
     "atk": 0,
     "def": 2100,
     "level": 4,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15734813.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15734813.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15734813.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/soul-tiger-1357",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.76"
+        },
+        {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 15734813,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15734813.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15734813.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15734813.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

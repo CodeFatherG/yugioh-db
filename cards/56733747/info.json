@@ -1,18 +1,53 @@
 {
     "id": 56733747,
     "name": "Elemental HERO Shining Neos Wingman",
+    "typeline": [
+        "Warrior",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "\"Elemental HERO Neos\" + 1 \"Wingman\" Fusion Monster\r\nMust be Fusion Summoned. Gains 300 ATK for each monster in your GY, also cannot be destroyed by card effects. If this card is Special Summoned: You can destroy cards your opponent controls up to the number of different Attributes among the monsters on the field. You can only use this effect of \"Elemental HERO Shining Neos Wingman\" once per turn. If this card destroys a monster by battle: Inflict damage to your opponent equal to that monster's original ATK.",
+    "race": "Warrior",
     "atk": 3100,
     "def": 2500,
     "level": 8,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Elemental HERO",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56733747.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56733747.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56733747.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/elemental-hero-shining-neos-wingman-13141",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN062",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56733747,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56733747.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56733747.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56733747.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.43",
+            "tcgplayer_price": "1.87",
+            "ebay_price": "5.19",
+            "amazon_price": "28.49",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

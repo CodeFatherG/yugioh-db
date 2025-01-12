@@ -1,20 +1,64 @@
 {
     "id": 28168628,
     "name": "Rock of the Vanquisher",
+    "typeline": [
+        "Rock",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 \"Vanquish Soul\" monster\r\nCannot be used as Link Material. While you control a \"Vanquish Soul\" monster, your opponent's monsters can only target monsters you control with the highest ATK (their choice, if tied) for attacks. During the Main Phase (Quick Effect): You can activate 1 of these effects;\r\n\u25cf Special Summon 1 \"Vanquish Soul\" monster from your hand.\r\n\u25cf Add 1 \"Vanquish Soul\" monster from your GY to your hand.\r\nYou can only use this effect of \"Rock of the Vanquisher\" once per turn.",
+    "race": "Rock",
     "atk": 0,
     "def": null,
     "level": null,
-    "race": "Rock",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Vanquish Soul",
     "linkval": 1,
     "linkmarkers": [
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/28168628.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28168628.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28168628.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rock-of-the-vanquisher-13785",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN141",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 24",
+            "set_code": "OP24-EN002",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN022",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28168628,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28168628.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28168628.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28168628.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.53",
+            "tcgplayer_price": "0.52",
+            "ebay_price": "19.88",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "25.99"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 32270212,
     "name": "Ties That Bind",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "If you control \"Shining Sarcophagus\" and a monster that mentions it: Special Summon up to 2 Level 4 or lower monsters with different names that mention \"Shining Sarcophagus\" from your hand and/or Deck, also, for the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck. You can only activate 1 \"Ties That Bind\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Shining Sarcophagus",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32270212.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32270212.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32270212.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ties-that-bind-14237",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN053",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN053",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32270212,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32270212.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32270212.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32270212.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.55",
+            "tcgplayer_price": "1.56",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

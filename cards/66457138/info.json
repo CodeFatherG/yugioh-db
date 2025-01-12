@@ -1,18 +1,66 @@
 {
     "id": 66457138,
     "name": "Fluffal Leo",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card declares an attack: It gains 500 ATK until the end of the Battle Phase.",
+    "race": "Fairy",
     "atk": 1600,
     "def": 1200,
     "level": 4,
-    "race": "Fairy",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Fluffal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/66457138.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66457138.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66457138.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fluffal-leo-5579",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN138",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Star Pack Battle Royal",
+            "set_code": "SP17-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Star Pack Battle Royal",
+            "set_code": "SP17-EN002",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 66457138,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66457138.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66457138.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66457138.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

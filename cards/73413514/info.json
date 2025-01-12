@@ -1,18 +1,44 @@
 {
     "id": 73413514,
     "name": "Neverending Nightmare Absorber",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Gains 1000 ATK each time your opponent activates a monster effect. If your opponent activates a monster effect in their hand, GY, or banishment (except during the Damage Step): You can Special Summon this card from your GY (if it was there when they activated) or hand (even if not), but destroy it during the End Phase. You can only use this effect of \"Neverending Nightmare Absorber\" once per turn.",
+    "race": "Fairy",
     "atk": 0,
     "def": 0,
     "level": 2,
-    "race": "Fairy",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73413514.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73413514.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73413514.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/neverending-nightmare-absorber-14527",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73413514,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73413514.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73413514.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73413514.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

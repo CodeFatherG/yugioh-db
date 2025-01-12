@@ -2,17 +2,50 @@
     "id": 59419719,
     "name": "Fossil Fusion",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Fusion Summon 1 \"Fossil\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from any GYs (except for materials with a specific GY requirement listed). If you banished monsters from both GYs, neither player can target that Special Summoned monster with monster effects. If a face-up \"Fossil\" Fusion Monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can add this card from the GY to your hand. You can only use this effect of \"Fossil Fusion\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fossil",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59419719.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59419719.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59419719.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fossil-fusion-11009",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN011",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "2.83"
+        },
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN134",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN166",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.36"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59419719,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59419719.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59419719.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59419719.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

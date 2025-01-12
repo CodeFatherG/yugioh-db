@@ -2,17 +2,43 @@
     "id": 904186,
     "name": "Mecha Phantom Beast Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as a \"Mecha Phantom Beast Token\".\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Machine",
-    "attribute": null,
-    "scale": null,
     "archetype": "Phantom Beast",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/904186.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/904186.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/904186.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mecha-phantom-beast-token-79",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 9",
+            "set_code": "OP09-EN026",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "7.34"
+        },
+        {
+            "set_name": "OTS Tournament Pack 9 (POR)",
+            "set_code": "OP09-PT026",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 904186,
+            "image_url": "https://images.ygoprodeck.com/images/cards/904186.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/904186.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/904186.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.11",
+            "tcgplayer_price": "6.71",
+            "ebay_price": "6.99",
+            "amazon_price": "7.98",
+            "coolstuffinc_price": "4.99"
+        }
+    ]
 }

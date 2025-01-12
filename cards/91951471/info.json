@@ -2,17 +2,36 @@
     "id": 91951471,
     "name": "Vanquish Soul Dust Devil",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Vanquish Soul\" monster you control; change its battle position, then you can change face-up monsters your opponent controls to face-down Defense Position, up to the number of \"Vanquish Soul\" monsters you control with different names. You can only activate 1 \"Vanquish Soul Dust Devil\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Vanquish Soul",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91951471.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91951471.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91951471.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-dust-devil-13784",
+    "card_sets": [
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN024",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91951471,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91951471.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91951471.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91951471.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "2.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

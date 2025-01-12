@@ -2,17 +2,42 @@
     "id": 20417688,
     "name": "Stars Align across the Milky Way",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Reveal 1 Ritual Monster in your hand; add 1 Ritual Monster with the same Level but a different name from your Deck to your hand. You can banish this card from your GY and send 1 Ritual Spell from your hand to the GY; this effect becomes that card's effect that Ritual Summons a monster when the card is activated. You can only use each effect of \"Stars Align across the Milky Way\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/20417688.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20417688.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20417688.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/stars-align-across-the-milky-way-13413",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN214",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN079",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 20417688,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20417688.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20417688.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20417688.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

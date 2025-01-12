@@ -1,18 +1,52 @@
 {
     "id": 93730409,
     "name": "Whirlwind Weasel",
+    "typeline": [
+        "Beast",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: Your opponent cannot activate any Spell or Trap Cards for the rest of this turn.",
+    "race": "Beast",
     "atk": 500,
     "def": 1500,
     "level": 3,
-    "race": "Beast",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93730409.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93730409.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93730409.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/whirlwind-weasel-7801",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN205",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.37"
+        },
+        {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93730409,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93730409.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93730409.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93730409.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.72",
+            "ebay_price": "1.49",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 38848158,
     "name": "Igknights Unite",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Igknight\" card you control; destroy it, and if you do, Special Summon 1 \"Igknight\" monster from your Deck. You can only activate 1 \"Igknights Unite\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Igknight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38848158.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38848158.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38848158.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/igknights-unite-3294",
+    "card_sets": [
+        {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN155",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Invasion: Vengeance",
+            "set_code": "INOV-EN061",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38848158,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38848158.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38848158.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38848158.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

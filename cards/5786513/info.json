@@ -2,17 +2,36 @@
     "id": 5786513,
     "name": "Turn Silence",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 face-up monster you control; increase its Level by 3, also if you activated this card in response to your opponent's monster effect activation, while you control \"Shining Sarcophagus\" and a monster that mentions it, negate that opponent's effect. During damage calculation, if your monster that mentions \"Shining Sarcophagus\" battles: You can banish this card from your GY; end the Battle Phase. You can only activate 1 \"Turn Silence\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Shining Sarcophagus",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5786513.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5786513.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5786513.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/turn-silence-14239",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN052",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5786513,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5786513.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5786513.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5786513.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

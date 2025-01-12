@@ -1,18 +1,53 @@
 {
     "id": 73082255,
     "name": "The Zombie Vampire",
+    "typeline": [
+        "Zombie",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 8 monsters\r\nIf you use a monster(s) with a Level that is owned by your opponent for the Xyz Summon of this card, treat it as Level 8. Neither player can target this card with effects of Special Summoned monsters, except those Special Summoned from the GY. You can detach 1 material from this card; each player sends the top 4 cards from their Deck to the GY, then if any monsters were sent to either GY by this effect, you can Special Summon 1 of those monsters to your field. You can only use this effect of \"The Zombie Vampire\" once per turn.",
+    "race": "Zombie",
     "atk": 3000,
     "def": 2800,
     "level": 8,
-    "race": "Zombie",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Vampire",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73082255.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73082255.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73082255.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-zombie-vampire-12679",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN024",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN045",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73082255,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73082255.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73082255.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73082255.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.81",
+            "tcgplayer_price": "0.37",
+            "ebay_price": "6.95",
+            "amazon_price": "13.99",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

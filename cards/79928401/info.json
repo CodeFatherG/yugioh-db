@@ -1,18 +1,44 @@
 {
     "id": 79928401,
     "name": "Victorica, Angel of Bravery",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Special Summoned: You can Special Summon 1 Level 5 or higher LIGHT monster from your hand, but you lose LP equal to its original ATK, also its ATK becomes doubled until the end of this turn. If this card in the Monster Zone is destroyed: You can banish 1 other Fairy monster from your GY; add 1 Fairy monster with the same Level as that monster from your Deck to your hand. You can only use each effect of \"Victorica, Angel of Bravery\" once per turn.",
+    "race": "Fairy",
     "atk": 1400,
     "def": 800,
     "level": 4,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/79928401.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79928401.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79928401.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/victorica-angel-of-bravery-12564",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.11"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79928401,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79928401.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79928401.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79928401.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.60",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

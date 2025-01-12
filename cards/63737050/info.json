@@ -1,18 +1,51 @@
 {
     "id": 63737050,
     "name": "Ryu Okami",
+    "typeline": [
+        "Wyrm",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If your opponent Special Summons a monster(s): Your opponent sends 1 card from their Extra Deck to the Graveyard.",
+    "race": "Wyrm",
     "atk": 2900,
     "def": 1200,
     "level": 8,
-    "race": "Wyrm",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/63737050.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63737050.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63737050.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ryu-okami-5382",
+    "card_sets": [
+        {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Shining Victories",
+            "set_code": "SHVI-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 63737050,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63737050.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63737050.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63737050.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

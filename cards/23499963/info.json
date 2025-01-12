@@ -2,17 +2,36 @@
     "id": 23499963,
     "name": "Springans Watch",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Add 1 \"Great Sand Sea - Gold Golgonda\" from your Deck to your hand. If \"Great Sand Sea - Gold Golgonda\" is in your Field Zone, you can apply this effect instead.\r\n\u25cf Add 1 \"Springans\" monster from your Deck to your hand, and if you do, send 1 \"Springans\" monster from your Deck to the GY.\r\nYou can only activate 1 \"Springans Watch\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Springans",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23499963.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23499963.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23499963.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/springans-watch-11564",
+    "card_sets": [
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN054",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 23499963,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23499963.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23499963.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23499963.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

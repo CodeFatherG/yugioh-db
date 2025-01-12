@@ -2,17 +2,36 @@
     "id": 83831356,
     "name": "Runaway Karakuri",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Select 1 face-up \"Karakuri\" monster on the field. Until the End Phase, it gains 1000 ATK but its effect(s) is negated.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Karakuri",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83831356.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83831356.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83831356.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/runaway-karakuri-7033",
+    "card_sets": [
+        {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN058",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83831356,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83831356.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83831356.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83831356.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

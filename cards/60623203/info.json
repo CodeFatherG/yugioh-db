@@ -2,17 +2,43 @@
     "id": 60623203,
     "name": "Xyz Align",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Declare a Level from 1 to 12, then target 2 face-up monsters on the field, including 1 monster you control; they become the declared Level (until the end of this turn), also, for the rest of this turn after this card resolves, you cannot Special Summon monsters from the Extra Deck, except monsters with the same Type as a targeted monster. You can only activate 1 \"Xyz Align\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Xyz",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60623203.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60623203.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60623203.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/xyz-align-13727",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN336",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN084",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60623203,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60623203.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60623203.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60623203.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 68456353,
     "name": "Exterio's Fang",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "Activate only if you control a face-up \"Naturia\" monster and have at least 1 card in your hand. Negate the activation of an opponent's Spell/Trap Card and destroy it. Then, send 1 card from your hand to the Graveyard.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
     "archetype": "Naturia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68456353.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68456353.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68456353.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/exterio-s-fang-5754",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 18 (POR)",
+            "set_code": "OP18-PT036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 68456353,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68456353.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68456353.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68456353.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.42",
+            "ebay_price": "1.71",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

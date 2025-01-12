@@ -1,18 +1,53 @@
 {
     "id": 29942771,
     "name": "Naturia Camellia",
+    "typeline": [
+        "Plant",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can send 1 \"Naturia\" card from your Deck to the GY. If you would Tribute a monster(s) to activate a \"Naturia\" monster's effect, you can send the top 2 cards of your Deck to the GY instead. If your opponent Normal or Special Summons a monster (except during the Damage Step): You can Special Summon 1 \"Naturia\" monster from your GY. You can only use each effect of \"Naturia Camellia\" once per turn.",
+    "race": "Plant",
     "atk": 1400,
     "def": 700,
     "level": 4,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Naturia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29942771.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29942771.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29942771.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/naturia-camellia-13294",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN171",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29942771,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29942771.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29942771.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29942771.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "6.50",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

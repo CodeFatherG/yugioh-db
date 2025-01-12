@@ -1,18 +1,45 @@
 {
     "id": 74010769,
     "name": "Hazy Flame Griffin",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If your opponent controls a monster, and all the monsters (if any) on your side of the field and in your Graveyard are FIRE (and only FIRE), you can Special Summon this card (from your hand). Your opponent cannot target this card with card effects.",
+    "race": "Winged Beast",
     "atk": 200,
     "def": 2100,
     "level": 6,
-    "race": "Winged Beast",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Hazy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74010769.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74010769.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74010769.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hazy-flame-griffin-6222",
+    "card_sets": [
+        {
+            "set_name": "Cosmo Blazer",
+            "set_code": "CBLZ-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 74010769,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74010769.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74010769.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74010769.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

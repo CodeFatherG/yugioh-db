@@ -2,17 +2,43 @@
     "id": 9175957,
     "name": "Tally-ho! Springans",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "When you activate this card, you can also detach up to 3 materials from monsters you control; add 1 \"Springans\" monster from your Deck to your hand, then, if you detached any material at activation, you can Special Summon that many \"Springans\" monsters from your hand or GY. During your Main Phase, if this card is in your GY: You can target 1 Xyz Monster on the field; detach 1 material from it, and if you do, add this card to your hand. You can only use 1 \"Tally-ho! Springans\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Springans",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9175957.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9175957.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9175957.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tally-ho-springans-13547",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN322",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9175957,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9175957.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9175957.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9175957.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

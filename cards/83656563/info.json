@@ -1,18 +1,46 @@
 {
     "id": 83656563,
     "name": "Fossil Machine Skull Wagon",
+    "typeline": [
+        "Rock",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 Rock monster in your GY + 1 Level 5 or 6 monster\r\nMust first be Special Summoned with \"Fossil Fusion\". This card can make up to 2 attacks on monsters during each Battle Phase. When this card destroys an opponent's monster by battle: You can inflict 800 damage to your opponent. You can banish this card from your GY, then target 1 Spell/Trap on the field; destroy it. You can only use this effect of \"Fossil Machine Skull Wagon\" once per turn.",
+    "race": "Rock",
     "atk": 1700,
     "def": 1500,
     "level": 6,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Fossil",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83656563.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83656563.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83656563.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fossil-machine-skull-wagon-11758",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN020",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.38"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83656563,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83656563.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83656563.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83656563.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.51",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

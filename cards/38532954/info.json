@@ -2,17 +2,43 @@
     "id": 38532954,
     "name": "F.A. Pit Stop",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"F.A.\" monster you control; reduce its Level by 2, and if you do, draw cards equal to the number of \"F.A. Pit Stop\" in your GY +1. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 \"F.A.\" monster in your GY; Special Summon it. You can only use each effect of \"F.A. Pit Stop\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "F.A.",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38532954.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38532954.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38532954.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/f-a-pit-stop-8987",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN162",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Circuit Break",
+            "set_code": "CIBR-EN089",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38532954,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38532954.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38532954.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38532954.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.88",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

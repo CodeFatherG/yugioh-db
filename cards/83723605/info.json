@@ -2,17 +2,36 @@
     "id": 83723605,
     "name": "Marincess Circulation",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 WATER Link Monster you control; return it to the Extra Deck, and if you do, Special Summon 1 \"Marincess\" Link Monster from your Extra Deck with the same Link Rating but a different name, but it cannot attack directly or be destroyed by battle this turn. (This is treated as a Link Summon.) If you control a Link-3 or higher \"Marincess\" monster, you can activate this card from your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Marincess",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83723605.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83723605.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83723605.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/marincess-circulation-12800",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Duels From the Deep",
+            "set_code": "LED9-EN036",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.92"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83723605,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83723605.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83723605.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83723605.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

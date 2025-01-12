@@ -1,18 +1,44 @@
 {
     "id": 15079028,
     "name": "World Soul - Carbon",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute this Normal Summoned/Set card; add 1 EARTH Fairy monster from your Deck to your hand, except \"World Soul - Carbon\". If a face-up Fairy monster(s) you control is sent to the GY, while this card is in your GY (except during the Damage Step): You can place this card on top of your Deck. You can only use 1 \"World Soul - Carbon\" effect per turn, and only once that turn.",
+    "race": "Fairy",
     "atk": 0,
     "def": 0,
     "level": 4,
-    "race": "Fairy",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15079028.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15079028.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15079028.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/world-soul-carbon-11921",
+    "card_sets": [
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 15079028,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15079028.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15079028.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15079028.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "2.86",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

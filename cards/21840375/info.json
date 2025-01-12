@@ -2,17 +2,50 @@
     "id": 21840375,
     "name": "Hidden Spellbook",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "During your turn: Target 2 Spell Cards in your Graveyard; shuffle those targets into the Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Spellbook",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21840375.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21840375.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21840375.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hidden-spellbook-1879",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN154",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Gold Series: Haunted Mine",
+            "set_code": "GLD5-EN048",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magician's Force",
+            "set_code": "MFC-099",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.39"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21840375,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21840375.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21840375.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21840375.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.83",
+            "ebay_price": "3.99",
+            "amazon_price": "1.59",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

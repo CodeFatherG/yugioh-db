@@ -2,17 +2,36 @@
     "id": 2542230,
     "name": "Red Cocoon",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 Dragon-Type Synchro Monster you control; equip this card to it. While it is battling an opponent's monster, until the end of the Damage Step, negate the effects of all face-up monsters your opponent controls. During the End Phase, if this card is in the Graveyard because it was sent there this turn: You can target 1 \"Red Dragon Archfiend\" in your Graveyard; Special Summon it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Archfiend",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2542230.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2542230.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2542230.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/red-cocoon-232",
+    "card_sets": [
+        {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.14"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2542230,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2542230.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2542230.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2542230.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.92",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "1.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

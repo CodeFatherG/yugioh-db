@@ -2,17 +2,36 @@
     "id": 59741415,
     "name": "Machina Overdrive",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 Machine monster you control; Special Summon 1 \"Machina\" monster with a different name from your hand or Deck, and if you do, destroy that targeted monster. You can banish this card from your GY, then target 3 of your Machine monsters that are banished and/or in your GY; shuffle them into your Deck, then draw 1 card. You can only use 1 \"Machina Overdrive\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Machina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59741415.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59741415.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59741415.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/machina-overdrive-10900",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.04"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59741415,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59741415.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59741415.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59741415.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.30",
+            "tcgplayer_price": "0.44",
+            "ebay_price": "3.26",
+            "amazon_price": "3.69",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 45133463,
     "name": "Call of the Reaper",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only when a monster(s) is Special Summoned from your Graveyard. Select and Special Summon 1 \"Supay\" or 1 \"Fire Ant Ascator\" from your Graveyard.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45133463.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45133463.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45133463.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/call-of-the-reaper-3847",
+    "card_sets": [
+        {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45133463,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45133463.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45133463.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45133463.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

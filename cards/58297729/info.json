@@ -2,17 +2,35 @@
     "id": 58297729,
     "name": "Transmission Gear",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "During damage calculation, if your monster battles an opponent's monster: Play rock-paper-scissors with your opponent. Make the losing player banish the battling monster they control, face-down.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58297729.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58297729.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58297729.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/transmission-gear-8806",
+    "card_sets": [
+        {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN080",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58297729,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58297729.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58297729.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58297729.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.90",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 91286284,
     "name": "Gold Pride - That Came Out of Nowhere!",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Special Summon 1 \"Gold Pride\" monster from your hand or GY, then your opponent can Special Summon 1 monster from their hand or GY to their field, but negate its effects. You can only activate 1 \"Gold Pride - That Came Out of Nowhere!\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Gold Pride",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91286284.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91286284.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91286284.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gold-pride-that-came-out-of-nowhere-13906",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN089",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91286284,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91286284.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91286284.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91286284.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.34",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "1.44",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

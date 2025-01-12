@@ -1,18 +1,51 @@
 {
     "id": 49109013,
     "name": "Doomstar Ulka",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When exactly 1 monster you control (and no other monsters) leaves the field by an opponent's card effect (except during the Damage Step): You can banish this card from your hand or GY; if that monster is in the GY or banished face-up, Special Summon it, otherwise, Special Summon this banished card. If this card is Special Summoned: You can make this card gain 1500 ATK until the end of the next turn. You can only use each effect of \"Doomstar Ulka\" once per turn.",
+    "race": "Beast",
     "atk": 1500,
     "def": 400,
     "level": 4,
-    "race": "Beast",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49109013.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49109013.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49109013.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/doomstar-ulka-13891",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN365",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49109013,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49109013.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49109013.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49109013.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "1.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

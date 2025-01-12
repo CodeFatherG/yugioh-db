@@ -2,17 +2,36 @@
     "id": 94185340,
     "name": "Sacrifice Level-Up",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 Xyz Monster you control; banish 2 materials from it, and if you do, Special Summon 1 Xyz Monster from your Extra Deck, whose Rank is 1 higher than that monster, but it cannot attack this turn. You can only activate 1 \"Sacrifice Level-Up\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Relinquished",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94185340.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94185340.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94185340.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sacrifice-level-up-14268",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN034",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 94185340,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94185340.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94185340.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94185340.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

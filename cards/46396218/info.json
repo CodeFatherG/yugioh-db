@@ -1,18 +1,46 @@
 {
     "id": 46396218,
     "name": "Azamina Ilia Silvia",
+    "typeline": [
+        "Illusion",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 Illusion monster + 1 LIGHT Spellcaster monster\r\nAny battle damage your \"Azamina\" monsters, except \"Azamina Ilia Silvia\", inflicts to your opponent is doubled. You can only use each of the following effects of \"Azamina Ilia Silvia\" once per turn. When your opponent activates a card or effect (Quick Effect): You can Tribute this card; negate that effect. If this card is destroyed by battle or card effect: You can add 1 \"Sinful Spoils\" Trap from your Deck to your hand.",
+    "race": "Illusion",
     "atk": 1900,
     "def": 1500,
     "level": 6,
-    "race": "Illusion",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Azamina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46396218.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46396218.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46396218.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/azamina-ilia-silvia-14579",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN030",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46396218,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46396218.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46396218.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46396218.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

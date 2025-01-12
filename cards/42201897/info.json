@@ -2,17 +2,36 @@
     "id": 42201897,
     "name": "Azamina Determination",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Reveal 1 \"Azamina\" Fusion Monster in your Extra Deck, and for every 4 Levels it has (round down), shuffle 1 \"Sinful Spoils\" card from your GY and/or banishment into the Deck, then Special Summon the revealed monster. (This is treated as a Fusion Summon.) You can banish this card from your GY, then target 1 \"Sinful Spoils\" Spell/Trap in your GY; Set it, but it cannot be activated this turn. You can only use 1 \"Azamina Determination\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Azamina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42201897.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42201897.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42201897.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/azamina-determination-14575",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42201897,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42201897.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42201897.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42201897.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

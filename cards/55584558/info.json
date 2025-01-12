@@ -2,17 +2,47 @@
     "id": 55584558,
     "name": "Purrely Delicious Memory",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Choose 1 monster on the field, and until the end of the next turn, it cannot be destroyed by battle. After choosing a card, then you can apply the following effect.\r\n\u25cf Discard 1 card, and if you do, Special Summon 1 Level 1 \"Purrely\" monster from your Deck.\r\nA \"Purrely\" Xyz Monster that has this card as material gains the following effect.\r\n\u25cf Gains 300 ATK/DEF for each material attached to it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Purrely",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/55584558.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55584558.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55584558.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/purrely-delicious-memory-13447",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN291",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN023",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Semi-Limited",
+        "ban_ocg": "Semi-Limited"
+    },
+    "card_images": [
+        {
+            "id": 55584558,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55584558.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55584558.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55584558.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

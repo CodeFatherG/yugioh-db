@@ -2,17 +2,43 @@
     "id": 92067220,
     "name": "Joker's Straight",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Discard 1 card, Special Summon 1 \"Queen's Knight\" from your Deck, add 1 \"King's Knight\" or \"Jack's Knight\" from your Deck to your hand, then, immediately after this effect resolves, you can Normal Summon 1 monster. You cannot Special Summon monsters from the Extra Deck for the rest of this turn, except LIGHT Warrior monsters. During the End Phase, if this card is in your GY: You can target 1 LIGHT Warrior monster in your GY; shuffle it into the Deck, and if you do, add this card to your hand. You can only use each effect of \"Joker's Straight\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Knight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92067220.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92067220.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92067220.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/joker-s-straight-12436",
+    "card_sets": [
+        {
+            "set_name": "King's Court",
+            "set_code": "KICO-EN004",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "King's Court",
+            "set_code": "KICO-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92067220,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92067220.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92067220.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92067220.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "8.82",
+            "tcgplayer_price": "8.69",
+            "ebay_price": "40.00",
+            "amazon_price": "5.99",
+            "coolstuffinc_price": "6.99"
+        }
+    ]
 }

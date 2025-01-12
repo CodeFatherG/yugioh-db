@@ -2,17 +2,50 @@
     "id": 92428405,
     "name": "Soul of the Supreme King",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Pay half your LP; Special Summon 1 \"Supreme King Z-ARC\" from your Extra Deck, ignoring its Summoning conditions, but negate its effects. It is returned to the Extra Deck during the End Phase of the next turn. When your opponent activates a Spell Card or effect: You can banish this card from your GY and 1 \"Supreme King Z-ARC\" from your face-up Monster Zone; Special Summon up to 1 each \"Pendulum Dragon\", \"Xyz Dragon\", \"Synchro Dragon\", and \"Fusion Dragon\" monsters from your hand, Deck, Extra Deck, and/or GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Supreme King",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92428405.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92428405.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92428405.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/soul-of-the-supreme-king-13068",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN268",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN027",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 23",
+            "set_code": "OP23-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92428405,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92428405.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92428405.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92428405.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

@@ -1,18 +1,54 @@
 {
     "id": 31178212,
     "name": "Majespecter Unicorn - Kirin",
+    "typeline": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "During either player's turn: You can target 1 Pendulum Monster in your Monster Zone and 1 monster your opponent controls; return them to the hand(s). You can only use this effect of \"Majespecter Unicorn - Kirin\" once per turn. Cannot be targeted or destroyed by your opponent's card effects.",
+    "race": "Spellcaster",
     "atk": 2000,
     "def": 2000,
     "level": 6,
-    "race": "Spellcaster",
     "attribute": "WIND",
-    "scale": 2,
     "archetype": "Majespecter",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31178212.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31178212.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31178212.jpg"
+    "scale": 2,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/majespecter-unicorn-kirin-2645",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN129",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension of Chaos",
+            "set_code": "DOCS-EN029",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31178212,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31178212.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31178212.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31178212.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.73",
+            "tcgplayer_price": "0.92",
+            "ebay_price": "1.95",
+            "amazon_price": "0.93",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

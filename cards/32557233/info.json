@@ -2,17 +2,36 @@
     "id": 32557233,
     "name": "Rikka Tranquility",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When you activate this card, you can also Tribute 1 Plant monster; Special Summon 1 \"Rikka\" monster from your GY in Defense Position, then, if you Tributed a monster when you activated this card, Special Summon 1 Plant monster from your GY in Defense Position. You can only activate 1 \"Rikka Tranquility\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Rikka",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32557233.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32557233.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32557233.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rikka-tranquility-10965",
+    "card_sets": [
+        {
+            "set_name": "Secret Slayers",
+            "set_code": "SESL-EN025",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32557233,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32557233.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32557233.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32557233.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.34",
+            "ebay_price": "0.99",
+            "amazon_price": "0.75",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

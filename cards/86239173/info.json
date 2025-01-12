@@ -1,18 +1,52 @@
 {
     "id": 86239173,
     "name": "Horned Saurus",
+    "typeline": [
+        "Dinosaur",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "\"Kaitoptera\" + 1 Dinosaur or Dragon monster\r\nThis card can attack directly the turn it is Special Summoned. You can only use each of the following effects of \"Horned Saurus\" once per turn. If this card is Fusion Summoned: You can place 1 Field Spell from your Deck or GY face-up in your Field Zone. During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 Dinosaur or Dragon monster.",
+    "race": "Dinosaur",
     "atk": 2000,
     "def": 1600,
     "level": 6,
-    "race": "Dinosaur",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/86239173.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86239173.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86239173.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/horned-saurus-13853",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN271",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN013",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 86239173,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86239173.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86239173.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86239173.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

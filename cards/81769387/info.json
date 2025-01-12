@@ -1,20 +1,50 @@
 {
     "id": 81769387,
     "name": "Appliancer Propelion",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 \"Appliancer\" monster\r\nCannot be used as Link Material the turn it is Link Summoned. This card can attack directly. Once per turn, during damage calculation, if your monster battles an opponent's monster, while this card is co-linked (Quick Effect): You can make that opponent's monster's ATK 0 during that damage calculation only. Once per turn, during damage calculation, if this monster that is not co-linked battles an opponent's monster (Quick Effect): You can make that opponent's monster's ATK 0 during that damage calculation only.",
+    "race": "Machine",
     "atk": 1200,
     "def": null,
     "level": null,
-    "race": "Machine",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Appliancer",
     "linkval": 1,
     "linkmarkers": [
         "Top"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/81769387.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81769387.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81769387.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/appliancer-propelion-12315",
+    "card_sets": [
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.02"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81769387,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81769387.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81769387.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81769387.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

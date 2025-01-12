@@ -1,18 +1,49 @@
 {
     "id": 32787239,
     "name": "Performapal Trumpanda",
+    "typeline": [
+        "Beast",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nOnce per turn: You can increase this card's Pendulum Scale by 1 (max. 12).\n\n[ Monster Effect ] \nWhen your Pendulum Monster is targeted for an attack: You can negate the attack. You can only use this effect of \"Performapal Trumpanda\" once per turn.",
+    "race": "Beast",
+    "pend_desc": "Once per turn: You can increase this card's Pendulum Scale by 1 (max. 12).",
+    "monster_desc": "When your Pendulum Monster is targeted for an attack: You can negate the attack. You can only use this effect of \"Performapal Trumpanda\" once per turn.",
     "atk": 800,
     "def": 800,
     "level": 3,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": 3,
     "archetype": "Performapal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32787239.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32787239.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32787239.jpg"
+    "scale": 3,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/performapal-trumpanda-2793",
+    "card_sets": [
+        {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN095",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32787239,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32787239.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32787239.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32787239.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

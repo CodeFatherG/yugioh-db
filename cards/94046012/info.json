@@ -1,18 +1,46 @@
 {
     "id": 94046012,
     "name": "Orcust Brass Bombard",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "You can banish this card from your GY; Special Summon 1 \"Orcust\" monster from your hand, except \"Orcust Brass Bombard\", also you cannot Special Summon monsters for the rest of this turn, except DARK monsters. You can only use this effect of \"Orcust Brass Bombard\" once per turn.",
+    "race": "Machine",
     "atk": 500,
     "def": 1900,
     "level": 1,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Orcust",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94046012.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94046012.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94046012.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/orcust-brass-bombard-9658",
+    "card_sets": [
+        {
+            "set_name": "Soul Fusion",
+            "set_code": "SOFU-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 94046012,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94046012.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94046012.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94046012.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.49",
+            "tcgplayer_price": "0.64",
+            "ebay_price": "1.00",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

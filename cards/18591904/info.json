@@ -2,17 +2,63 @@
     "id": 18591904,
     "name": "Final Destiny",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Discard 5 cards from your hand. Destroy all cards on the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/18591904.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18591904.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18591904.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/final-destiny-1609",
+    "card_sets": [
+        {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.47"
+        },
+        {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-E035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.9"
+        },
+        {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.35"
+        },
+        {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.99"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 18591904,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18591904.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18591904.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18591904.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "1.00",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

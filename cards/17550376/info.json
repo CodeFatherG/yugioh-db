@@ -1,18 +1,45 @@
 {
     "id": 17550376,
     "name": "Nemleria Dream Defender - Oreiller",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you have a face-up Pendulum Monster in your Extra Deck, you can Special Summon this card (from your hand). You can only Special Summon \"Nemleria Dream Defender - Oreiller\" once per turn this way. If you have \"Dreaming Nemleria\" face-up in your Extra Deck (Quick Effect): You can banish 1 face-down card from your Extra Deck, face-down; this card gains 500 ATK for each monster your opponent currently controls, until the end of this turn. You can only use this effect of \"Nemleria Dream Defender - Oreiller\" once per turn.",
+    "race": "Beast",
     "atk": 2500,
     "def": 2000,
     "level": 10,
-    "race": "Beast",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Nemurelia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17550376.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17550376.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17550376.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nemleria-dream-defender-oreiller-13684",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17550376,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17550376.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17550376.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17550376.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

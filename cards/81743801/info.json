@@ -1,18 +1,51 @@
 {
     "id": 81743801,
     "name": "Mighty Dino King Rex",
+    "typeline": [
+        "Dinosaur",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this attacking card destroys an opponent's monster by battle: It can make a second attack during this Battle Phase. Once per turn, if you control this card that was not Summoned this turn: You can target up to 2 monsters your opponent controls; destroy them.",
+    "race": "Dinosaur",
     "atk": 3200,
     "def": 1200,
     "level": 9,
-    "race": "Dinosaur",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81743801.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81743801.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81743801.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mighty-dino-king-rex-13770",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN209",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81743801,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81743801.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81743801.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81743801.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 88617904,
     "name": "Promotion",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 Level 3 or lower EARTH Warrior monster you control; send it to the GY, and if you do, Special Summon 1 Level 4 or higher EARTH Warrior monster from your Deck, then, if you control a \"Puppet\" monster that was originally an EARTH Warrior, that Special Summoned monster gains ATK/DEF equal to the number of cards currently in your opponent's GY x 100. You can only activate 1 \"Promotion\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Puppet",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88617904.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88617904.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88617904.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/promotion-12923",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN017",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88617904,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88617904.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88617904.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88617904.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "7.95",
+            "amazon_price": "69.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

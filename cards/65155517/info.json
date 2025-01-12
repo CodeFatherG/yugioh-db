@@ -1,18 +1,40 @@
 {
     "id": 65155517,
-    "name": "Speedroid Clackernel",
+    "name": "Speedroid Colonel Clackers",
+    "typeline": [
+        "Machine",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nYou can banish 1 \"Speedroid\" card from your GY; place 1 \"Speedroid\" Pendulum Monster from your Deck in your Pendulum Zone, also you cannot Special Summon for the rest of this turn, except WIND monsters. You can only use this effect of \"Speedroid Clackernel\" once per turn.\n\n[ Monster Effect ] \nIf this card on the field is destroyed by battle or card effect: You can Special Summon 1 \"Speedroid Clackernel\" from your hand, Deck, or GY as a Tuner. If your \"Clear Wing\" monster battles while this card is face-up in your Extra Deck, during damage calculation: You can banish this card, and if you do, that monster gains 700 ATK. You can only use each monster effect of \"Speedroid Clackernel\" once per turn.",
+    "race": "Machine",
+    "pend_desc": "You can banish 1 \"Speedroid\" card from your GY; place 1 \"Speedroid\" Pendulum Monster from your Deck in your Pendulum Zone, also you cannot Special Summon for the rest of this turn, except WIND monsters. You can only use this effect of \"Speedroid Clackernel\" once per turn.",
+    "monster_desc": "If this card on the field is destroyed by battle or card effect: You can Special Summon 1 \"Speedroid Clackernel\" from your hand, Deck, or GY as a Tuner. If your \"Clear Wing\" monster battles while this card is face-up in your Extra Deck, during damage calculation: You can banish this card, and if you do, that monster gains 700 ATK. You can only use each monster effect of \"Speedroid Clackernel\" once per turn.",
     "atk": 200,
     "def": 1800,
     "level": 2,
-    "race": "Machine",
     "attribute": "WIND",
-    "scale": 8,
     "archetype": "roid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65155517.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65155517.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65155517.jpg"
+    "scale": 8,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/speedroid-clackernel-14710",
+    "card_images": [
+        {
+            "id": 65155517,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65155517.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65155517.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65155517.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

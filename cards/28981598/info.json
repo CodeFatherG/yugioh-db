@@ -1,18 +1,52 @@
 {
     "id": 28981598,
     "name": "Nine-Lives Cat",
+    "typeline": [
+        "Zombie",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 9 monsters\r\nYour opponent cannot target other monsters you control, that were Special Summoned from the GY, with card effects. You can detach 1 material from this card, then target 1 Level 9 monster in your GY or 1 monster in your opponent's GY; Special Summon it. You can only use this effect of \"Nine-Lives Cat\" once per turn.",
+    "race": "Zombie",
     "atk": 900,
     "def": 3300,
     "level": 9,
-    "race": "Zombie",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28981598.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28981598.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28981598.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nine-lives-cat-10883",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.02"
+        },
+        {
+            "set_name": "Ignition Assault",
+            "set_code": "IGAS-EN083",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28981598,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28981598.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28981598.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28981598.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 37552929,
     "name": "Maiden of the Millennium Moon",
+    "typeline": [
+        "Illusion",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Maiden of the Millennium Moon\" once per turn. If this card is in your hand: You can place it in your Spell & Trap Zone as a face-up Continuous Spell. If your opponent activates a card or effect, while this card is a Continuous Spell (except during the Damage Step): You can Special Summon this card, and if you do, for the rest of this turn, your opponent cannot target Level 5 or higher Illusion or Spellcaster monsters you control with card effects.",
+    "race": "Illusion",
     "atk": 1500,
     "def": 1300,
     "level": 4,
-    "race": "Illusion",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Millennium",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37552929.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37552929.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37552929.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/maiden-of-the-millennium-moon-14386",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37552929,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37552929.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37552929.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37552929.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

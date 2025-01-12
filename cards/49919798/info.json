@@ -1,18 +1,53 @@
 {
     "id": 49919798,
     "name": "Symphonic Warrior Synthess",
+    "typeline": [
+        "Machine",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: You can add 1 \"Symphonic Warrior\" monster from your Deck to your hand, except \"Symphonic Warrior Synthess\".\r\nOnce per turn: You can target 1 monster you control or in your Graveyard whose original name includes \"Symphonic Warrior\", except \"Symphonic Warrior Synthess\"; until the End Phase, this card's name becomes that monster's original name, and replace this effect with that monster's original effects. You can banish this card from your Graveyard, then target 1 of your banished \"Symphonic Warrior\" monsters, except \"Symphonic Warrior Synthess\"; Special Summon it.",
+    "race": "Machine",
     "atk": 1200,
     "def": 1900,
     "level": 4,
-    "race": "Machine",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Symphonic Warrior",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49919798.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49919798.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49919798.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/symphonic-warrior-synthess-4254",
+    "card_sets": [
+        {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN233",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Raging Tempest",
+            "set_code": "RATE-EN091",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49919798,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49919798.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49919798.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49919798.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

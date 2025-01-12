@@ -2,17 +2,36 @@
     "id": 23581825,
     "name": "Rank-Up-Magic Soul Shave Force",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Pay half your LP, then target 1 \"Raidraptor\" Xyz Monster in your Graveyard; Special Summon it, then Special Summon from your Extra Deck, 1 Xyz Monster that is 2 Ranks higher than that monster, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon.)",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Raidraptor",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23581825.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23581825.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23581825.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rank-up-magic-soul-shave-force-2033",
+    "card_sets": [
+        {
+            "set_name": "Wing Raiders",
+            "set_code": "WIRA-EN028",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 23581825,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23581825.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23581825.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23581825.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.26",
+            "tcgplayer_price": "2.24",
+            "ebay_price": "4.95",
+            "amazon_price": "4.09",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

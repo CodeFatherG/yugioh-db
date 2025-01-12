@@ -1,18 +1,44 @@
 {
     "id": 38383368,
     "name": "Extraceratops",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When a monster in the Extra Monster Zone is destroyed by battle with a monster in the Main Monster Zone and sent to the GY, while this card is in the GY: You can Special Summon this card, in Defense Position, to the field of that destroyed monster's owner. You can only use this effect of \"Extraceratops\" once per turn. If this card Summoned this way is destroyed and sent to the GY: Draw 1 card.",
+    "race": "Warrior",
     "atk": 100,
     "def": 100,
     "level": 1,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38383368.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38383368.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38383368.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/extraceratops-9859",
+    "card_sets": [
+        {
+            "set_name": "Savage Strike",
+            "set_code": "SAST-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38383368,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38383368.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38383368.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38383368.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

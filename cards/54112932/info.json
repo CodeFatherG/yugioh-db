@@ -1,18 +1,35 @@
 {
     "id": 54112932,
     "name": "Potato & Chips",
+    "typeline": [
+        "Plant",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''Potato and Chips always get along. They always idle in their room eating potato chips. Consomm\u00e9 punch ones are delicious too. Norishio ones are delicious too. Potato and Chips' delicious life.''",
+    "race": "Plant",
     "atk": 200,
     "def": 200,
     "level": 2,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54112932.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54112932.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54112932.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/potato-chips-9910",
+    "card_images": [
+        {
+            "id": 54112932,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54112932.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54112932.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54112932.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.99",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "3.00",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

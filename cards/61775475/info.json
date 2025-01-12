@@ -1,18 +1,46 @@
 {
     "id": 61775475,
     "name": "Arms of Genex Return Zero",
+    "typeline": [
+        "Machine",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 DARK Tuner + 1+ non-Tuner monsters\r\nWhen your opponent activates a monster effect (Quick Effect): You can banish 1 monster from your GY with the same Attribute; negate the activation, and if you do, destroy that monster. (You can only banish each Attribute once per turn to activate this effect of \"Arms of Genex Return Zero\".) Once per turn: You can target up to 6 of your \"Genex\" monsters with different Attributes that are banished and/or in your GY; shuffle them into the Deck, then you can destroy up to that many cards in the Spell & Trap Zones.",
+    "race": "Machine",
     "atk": 3100,
     "def": 2950,
     "level": 10,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Genex",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/61775475.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61775475.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61775475.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/arms-of-genex-return-zero-14240",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN009",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61775475,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61775475.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61775475.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61775475.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.41",
+            "tcgplayer_price": "1.55",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

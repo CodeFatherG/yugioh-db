@@ -1,18 +1,44 @@
 {
     "id": 81354330,
     "name": "Red Sparrow Summoner",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card you control is destroyed by battle with an opponent's attacking monster and sent to your Graveyard: You can Special Summon 1 Warrior-Type monster with 1500 or less ATK from your Deck in Attack Position.",
+    "race": "Spellcaster",
     "atk": 1600,
     "def": 1300,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81354330.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81354330.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81354330.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/red-sparrow-summoner-6830",
+    "card_sets": [
+        {
+            "set_name": "Super Starter: Space-Time Showdown",
+            "set_code": "YS14-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81354330,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81354330.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81354330.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81354330.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

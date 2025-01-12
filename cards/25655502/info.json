@@ -1,18 +1,58 @@
 {
     "id": 25655502,
     "name": "Bickuribox",
+    "typeline": [
+        "Fiend",
+        "Fusion"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Monster",
+    "frameType": "fusion",
     "desc": "\"Crass Clown\" + \"Dream Clown\"",
+    "race": "Fiend",
     "atk": 2300,
     "def": 2000,
     "level": 7,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25655502.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25655502.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25655502.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bickuribox-2207",
+    "card_sets": [
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-093",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.28"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E093",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "8.71"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN093",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.99"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25655502,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25655502.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25655502.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25655502.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.75",
+            "amazon_price": "1.77",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

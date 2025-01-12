@@ -2,17 +2,35 @@
     "id": 61322713,
     "name": "Shadow's Light",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 DARK monster you control; Special Summon 1 LIGHT monster from your Deck or Extra Deck with the same original Type and Level. You can banish this card from your GY; during your Main Phase this turn, you can Normal Summon 1 LIGHT or DARK monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can only use each effect of \"Shadow's Light\" once per turn. You cannot conduct your Battle Phase the turn you activate either of this card's effects.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/61322713.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61322713.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61322713.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shadow-s-light-13612",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN037",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61322713,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61322713.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61322713.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61322713.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.83",
+            "tcgplayer_price": "0.82",
+            "ebay_price": "2.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "9.99"
+        }
+    ]
 }

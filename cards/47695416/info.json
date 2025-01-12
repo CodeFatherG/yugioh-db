@@ -1,18 +1,35 @@
 {
     "id": 47695416,
     "name": "Candle of Fate",
+    "typeline": [
+        "Fiend",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "Decides the fate of an opponent when the candle on its fingertip burns out.",
+    "race": "Fiend",
     "atk": 600,
     "def": 600,
     "level": 2,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47695416.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47695416.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47695416.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/candle-of-fate-4074",
+    "card_images": [
+        {
+            "id": 47695416,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47695416.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47695416.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47695416.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.95",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "3.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

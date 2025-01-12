@@ -2,17 +2,36 @@
     "id": 31398842,
     "name": "Xyz Force",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Send 1 \"Xyz\" card from your Deck to the GY, except \"Xyz Force\", or if an Xyz Monster is on the field that has an Xyz Monster as material, you can add the \"Xyz\" card to your hand instead. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; detach 1 material from an Xyz Monster on either field, then if the detached material was an Xyz Monster, you can Special Summon that monster from your GY or your banishment, in Defense Position. You can only use each effect of \"Xyz Force\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Xyz",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31398842.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31398842.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31398842.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/xyz-force-14400",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN089",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31398842,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31398842.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31398842.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31398842.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

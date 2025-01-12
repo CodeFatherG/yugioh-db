@@ -1,18 +1,59 @@
 {
     "id": 2511,
     "name": "Labrynth Cooclock",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "(Quick Effect): You can discard this card; this turn, you can activate 1 Normal Trap Card that was Set this turn, if you control a \"Labrynth\" monster. If a card(s) is sent from your hand to the GY to activate your Normal Trap Card or your \"Labrynth\" card or effect, except \"Labrynth Cooclock\", while this card is in your GY (except during the Damage Step): You can add this card to your hand, or Special Summon it. You can only use each effect of \"Labrynth Cooclock\" once per turn.",
+    "race": "Fiend",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Labrynth",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2511.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2511.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2511.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/labrynth-cooclock-13115",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN232",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 23",
+            "set_code": "OP23-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN020",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2511,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2511.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2511.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2511.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "1.29",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

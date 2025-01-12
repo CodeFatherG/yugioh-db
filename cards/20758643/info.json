@@ -1,18 +1,59 @@
 {
     "id": 20758643,
     "name": "Graff, Malebranche of the Burning Abyss",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. You can only use 1 of these effects of \"Graff, Malebranche of the Burning Abyss\" per turn, and only once that turn.\n\u25cf If you control no Spell/Trap Cards: You can Special Summon this card from your hand.\n\u25cf If this card is sent to the Graveyard: You can Special Summon 1 \"Burning Abyss\" monster from your Deck, except \"Graff, Malebranche of the Burning Abyss\".",
+    "race": "Fiend",
     "atk": 1000,
     "def": 1500,
     "level": 3,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Burning Abyss",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/20758643.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20758643.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20758643.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/graff-malebranche-of-the-burning-abyss-1783",
+    "card_sets": [
+        {
+            "set_name": "Astral Pack Eight",
+            "set_code": "AP08-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN083",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Premium Gold: Infinite Gold",
+            "set_code": "PGL3-EN044",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 20758643,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20758643.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20758643.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20758643.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.34",
+            "tcgplayer_price": "0.85",
+            "ebay_price": "2.21",
+            "amazon_price": "2.49",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

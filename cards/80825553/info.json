@@ -1,18 +1,52 @@
 {
     "id": 80825553,
     "name": "Cloudian - Smoke Ball",
+    "typeline": [
+        "Fairy",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "Smoke Balls are newly born Cloudians. They fear being alone, and would rather swing and sway in the sky with their friends.",
+    "race": "Fairy",
     "atk": 200,
     "def": 600,
     "level": 1,
-    "race": "Fairy",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Cloudian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80825553.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80825553.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80825553.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cloudian-smoke-ball-6781",
+    "card_sets": [
+        {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENH08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80825553,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80825553.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80825553.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80825553.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.95",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

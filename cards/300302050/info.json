@@ -2,17 +2,36 @@
     "id": 300302050,
     "name": "HEROES UNITE - FUSION!!",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Jaden Yuki",
+    "frameType": "skill",
     "desc": "Activate this Skill during your Main Phase. Discard 1 card, then Fusion Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If Summoning an \"Elemental HERO\" Fusion Monster this way that requires 3 or more materials, and you control 2 \"Elemental HERO\" monsters that are mentioned on it as materials, you can also use monsters in your Deck as Fusion Material. This Skill can only be used once per Duel.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Jaden Yuki",
-    "attribute": null,
-    "scale": null,
     "archetype": "HERO",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302050.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302050.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302050.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heroes-unite-fusion-13509",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENS01",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302050,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302050.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302050.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302050.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

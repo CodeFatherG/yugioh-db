@@ -1,18 +1,44 @@
 {
     "id": 75311421,
     "name": "Votis",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned: You can excavate the top 3 cards of your Deck, and if you do, you can banish 1 excavated monster to add 1 monster with its same name to your hand, from either your Deck or the other excavated cards, also shuffle the rest into the Deck. Once per turn, during the End Phase, if this card is in your GY because it was sent there this turn after being Normal Summoned/Set: You can excavate the top 3 cards of your Deck, and if you do, place them on top of the Deck in any order.",
+    "race": "Fiend",
     "atk": 1700,
     "def": 1900,
     "level": 4,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/75311421.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75311421.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75311421.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/votis-13135",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN094",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 75311421,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75311421.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75311421.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75311421.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

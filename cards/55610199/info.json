@@ -1,18 +1,60 @@
 {
     "id": 55610199,
     "name": "Gem-Knight Lady Rose Diamond",
+    "typeline": [
+        "Fairy",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 \"Gem-Knight\" monster + 1 Fairy monster\r\nOnce per opponent's turn, the first time a \"Gem-Knight\" monster(s) you control would be destroyed by card effect, it is not destroyed. During your turn, when your opponent activates a monster effect (Quick Effect): You can banish 1 \"Gem-Knight\" card from your GY, then target 1 face-up card your opponent controls; destroy it.",
+    "race": "Fairy",
     "atk": 2700,
     "def": 2400,
     "level": 8,
-    "race": "Fairy",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Gem-",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/55610199.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55610199.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55610199.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gem-knight-lady-rose-diamond-13150",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN134",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN157",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN044",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 55610199,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55610199.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55610199.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55610199.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "5.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

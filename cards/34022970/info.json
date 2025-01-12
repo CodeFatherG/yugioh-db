@@ -1,18 +1,59 @@
 {
     "id": 34022970,
     "name": "Ext Ryzeal",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Special Summon this card (from your hand) by sending 1 Xyz Monster from your Extra Deck to the GY. If Summoned this way, you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Xyz Monsters. You can only Special Summon \"Ext Ryzeal\" once per turn this way. If this card is Normal or Special Summoned and you control no other face-up monsters, except Level/Rank 4 monsters: You can add 1 FIRE Thunder monster from your Deck to your hand. You can only use this effect of \"Ext Ryzeal\" once per turn.",
+    "race": "Pyro",
     "atk": 500,
     "def": 2000,
     "level": 4,
-    "race": "Pyro",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Ryzeal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34022970.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34022970.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34022970.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ext-ryzeal-14636",
+    "card_sets": [
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN004",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN004",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34022970,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34022970.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34022970.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34022970.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "22.61",
+            "tcgplayer_price": "23.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

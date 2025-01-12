@@ -1,18 +1,35 @@
 {
     "id": 52800428,
     "name": "Fiend's Hand",
+    "typeline": [
+        "Zombie",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''Arms that reach out from the Swamp of Chaos to drag down the unwary.''",
+    "race": "Zombie",
     "atk": 600,
     "def": 600,
     "level": 2,
-    "race": "Zombie",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52800428.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52800428.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52800428.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiend-s-hand-4495",
+    "card_images": [
+        {
+            "id": 52800428,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52800428.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52800428.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52800428.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.52",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "1.00",
+            "amazon_price": "6.99",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

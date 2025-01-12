@@ -2,17 +2,49 @@
     "id": 19844995,
     "name": "Power Filter",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Neither player can Special Summon monsters with 1000 or less ATK.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19844995.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19844995.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19844995.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/power-filter-1707",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 16",
+            "set_code": "OP16-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 16 (POR)",
+            "set_code": "OP16-PT018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN058",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19844995,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19844995.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19844995.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19844995.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.18",
+            "tcgplayer_price": "1.97",
+            "ebay_price": "4.69",
+            "amazon_price": "3.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

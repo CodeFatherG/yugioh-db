@@ -2,17 +2,36 @@
     "id": 80893872,
     "name": "Royal Penguins Garden",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: You can add 1 \"Penguin\" card from your Deck to your hand, except \"Royal Penguins Garden\". Once per turn, during your Main Phase: You can decrease the Level of 1 \"Penguin\" monster in your hand or face-up field by 1 (until the end of this turn), then discard 1 card. You can only activate 1 \"Royal Penguins Garden\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Penguin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80893872.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80893872.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80893872.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/royal-penguins-garden-12406",
+    "card_sets": [
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.89"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80893872,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80893872.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80893872.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80893872.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.96",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

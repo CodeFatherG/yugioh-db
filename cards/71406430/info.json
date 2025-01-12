@@ -1,18 +1,53 @@
 {
     "id": 71406430,
     "name": "Libromancer Doombroker",
+    "typeline": [
+        "Fiend",
+        "Ritual",
+        "Effect"
+    ],
     "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
     "desc": "You can Ritual Summon this card with a \"Libromancer\" card. If this card is Ritual Summoned by using a monster(s) on the field, it can attack directly. You can only use each of the following effects of \"Libromancer Doombroker\" once per turn. During your Main Phase: You can Set 1 \"Libromancer\" Trap directly from your Deck. When this card inflicts battle damage to your opponent: You can target 1 face-up monster your opponent controls; shuffle it into the Deck.",
+    "race": "Fiend",
     "atk": 2500,
     "def": 2000,
     "level": 6,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Libromancer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71406430.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71406430.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71406430.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/libromancer-doombroker-13058",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN089",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71406430,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71406430.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71406430.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71406430.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "1.42",
+            "amazon_price": "2.43",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,18 +1,44 @@
 {
     "id": 50690129,
     "name": "Catche Eve L2",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your hand: You can target 1 Level 3 or higher monster you control; reduce its Level by exactly 2, and if you do, Special Summon this card. You can only use this effect of \"Catche Eve L2\" once per turn.",
+    "race": "Cyberse",
     "atk": 800,
     "def": 600,
     "level": 2,
-    "race": "Cyberse",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50690129.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50690129.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50690129.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/catche-eve-l2-9868",
+    "card_sets": [
+        {
+            "set_name": "Savage Strike",
+            "set_code": "SAST-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50690129,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50690129.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50690129.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50690129.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

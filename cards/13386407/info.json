@@ -2,17 +2,36 @@
     "id": 13386407,
     "name": "Ravenous Vendread",
     "type": "Spell Card",
+    "humanReadableCardType": "Ritual Spell",
+    "frameType": "spell",
     "desc": "Special Summon 1 \"Vendread\" monster from your hand, Deck, or GY in face-down Defense Position, except \"Vendread Scavenger\", then apply the following effect.\r\n\u25cf Ritual Summon any 1 \"Vendread\" Ritual Monster from your hand or GY by Tributing monsters you control, including the monster Special Summoned by this card, whose total Levels equal or exceed the Level of the Ritual Monster.\r\nYou can only activate 1 \"Ravenous Vendread\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Ritual",
-    "attribute": null,
-    "scale": null,
     "archetype": "Vendread",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/13386407.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13386407.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13386407.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ravenous-vendread-13196",
+    "card_sets": [
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.84"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 13386407,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13386407.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13386407.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13386407.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "1.36",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

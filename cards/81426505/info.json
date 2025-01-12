@@ -2,17 +2,36 @@
     "id": 81426505,
     "name": "Six Strike - Triple Impact",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "If you control 3 or more face-up \"Six Samurai\" monsters, you can activate 1 of these effects:\n\u25cf Destroy all face-up monsters your opponent controls.\n\u25cf Destroy all face-up Spell/Trap Cards your opponent controls.\n\u25cf Destroy all Set Spell/Trap Cards your opponent controls.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Six Samurai",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81426505.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81426505.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81426505.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/six-strike-triple-impact-6835",
+    "card_sets": [
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81426505,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81426505.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81426505.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81426505.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.40",
+            "ebay_price": "2.18",
+            "amazon_price": "1.74",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

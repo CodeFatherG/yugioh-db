@@ -1,18 +1,49 @@
 {
     "id": 14513273,
     "name": "Supreme King Gate Magician",
+    "typeline": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \n\"Supreme King Z-ARC\" you control cannot be banished by your opponent's card effects. During your Main Phase: You can destroy this card, and if you do, place 1 \"Supreme King Gate\" Pendulum Monster from your hand or Deck in your Pendulum Zone, except \"Supreme King Gate Magician\". You can only use this effect of \"Supreme King Gate Magician\" once per turn.\n\n[ Monster Effect ] \nIf you have a \"Supreme King Gate\" card in your Pendulum Zone, except \"Supreme King Gate Magician\": You can send 1 \"Pendulum Dragon\", \"Xyz Dragon\", \"Synchro Dragon\", or \"Fusion Dragon\" monster from your hand or Extra Deck to the GY, and if you do, Special Summon this card from your hand. If this card is Special Summoned: You can add 1 card that mentions \"Supreme King Z-ARC\" from your Deck to your hand, except a Spellcaster monster. You can only use each effect of \"Supreme King Gate Magician\" once per turn.",
+    "race": "Spellcaster",
+    "pend_desc": "\"Supreme King Z-ARC\" you control cannot be banished by your opponent's card effects. During your Main Phase: You can destroy this card, and if you do, place 1 \"Supreme King Gate\" Pendulum Monster from your hand or Deck in your Pendulum Zone, except \"Supreme King Gate Magician\". You can only use this effect of \"Supreme King Gate Magician\" once per turn.",
+    "monster_desc": "If you have a \"Supreme King Gate\" card in your Pendulum Zone, except \"Supreme King Gate Magician\": You can send 1 \"Pendulum Dragon\", \"Xyz Dragon\", \"Synchro Dragon\", or \"Fusion Dragon\" monster from your hand or Extra Deck to the GY, and if you do, Special Summon this card from your hand. If this card is Special Summoned: You can add 1 card that mentions \"Supreme King Z-ARC\" from your Deck to your hand, except a Spellcaster monster. You can only use each effect of \"Supreme King Gate Magician\" once per turn.",
     "atk": 2500,
     "def": 2000,
     "level": 7,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": 1,
     "archetype": "Magician",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14513273.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14513273.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14513273.jpg"
+    "scale": 1,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/supreme-king-gate-magician-13978",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14513273,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14513273.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14513273.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14513273.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "1.73",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

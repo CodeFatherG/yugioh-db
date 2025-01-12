@@ -2,17 +2,42 @@
     "id": 47594192,
     "name": "Three of a Kind",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control 3 or more monsters with the same name, except Tokens: Target 3 cards your opponent controls; destroy those targets.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47594192.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47594192.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47594192.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/three-of-a-kind-4061",
+    "card_sets": [
+        {
+            "set_name": "Cyber Dragon Revolution Structure Deck",
+            "set_code": "SDCR-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Return of the Duelist",
+            "set_code": "REDU-EN077",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47594192,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47594192.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47594192.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47594192.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

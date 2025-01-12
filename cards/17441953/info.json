@@ -1,18 +1,35 @@
 {
     "id": 17441953,
     "name": "Turtle Raccoon",
+    "typeline": [
+        "Aqua",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A cunning raccoon protected by a solid turtle shell, it attacks with deception.''",
+    "race": "Aqua",
     "atk": 700,
     "def": 900,
     "level": 3,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17441953.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17441953.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17441953.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/turtle-raccoon-1512",
+    "card_images": [
+        {
+            "id": 17441953,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17441953.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17441953.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17441953.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "10.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

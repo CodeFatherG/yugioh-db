@@ -1,18 +1,48 @@
 {
     "id": 93683815,
     "name": "Vulmina, Statue of the Sacred Dragon",
+    "typeline": [
+        "Dragon",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nIf a monster(s) is Special Summoned by your Trap effect (except during the Damage Step): You can target 1 card on the field; return it to the hand, then you can Special Summon this card. You can only use this effect of \"Vulmina, Statue of the Sacred Dragon\" once per turn.\n\n[ Monster Effect ] \nWhen an opponent's monster declares an attack: You can place this monster in your Pendulum Zone, and if you do, return the opponent's monster to the hand. You can only use this effect of \"Vulmina, Statue of the Sacred Dragon\" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+    "race": "Dragon",
+    "pend_desc": "If a monster(s) is Special Summoned by your Trap effect (except during the Damage Step): You can target 1 card on the field; return it to the hand, then you can Special Summon this card. You can only use this effect of \"Vulmina, Statue of the Sacred Dragon\" once per turn.",
+    "monster_desc": "When an opponent's monster declares an attack: You can place this monster in your Pendulum Zone, and if you do, return the opponent's monster to the hand. You can only use this effect of \"Vulmina, Statue of the Sacred Dragon\" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
     "atk": 200,
     "def": 1800,
     "level": 2,
-    "race": "Dragon",
     "attribute": "LIGHT",
     "scale": 1,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93683815.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93683815.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93683815.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vulmina-statue-of-the-sacred-dragon-14611",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN082",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93683815,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93683815.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93683815.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93683815.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 11489642,
     "name": "Triangle O",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "If you control \"Crystal Skull\", \"Ashoka Pillar\", and \"Cabrera Stone\": Destroy all cards on the field, also for the rest of this turn, your opponent takes any effect damage you would have taken instead. You can banish this card from your GY, then target 1 each of \"Crystal Skull\", \"Ashoka Pillar\", and \"Cabrera Stone\" in your GY; shuffle them into the Deck, then draw 3 cards. You can only use 1 \"Triangle O\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ancient Treasure",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/11489642.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11489642.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11489642.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/triangle-o-13858",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN273",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN020",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 11489642,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11489642.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11489642.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11489642.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

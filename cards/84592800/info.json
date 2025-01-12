@@ -1,18 +1,45 @@
 {
     "id": 84592800,
     "name": "Morphtronic Videon",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "\u25cf While in Attack Position: This card gains 800 ATK for each Equip Card equipped to it. \n\u25cf While in Defense Position: This card gains 800 DEF for each Equip Card equipped to it.",
+    "race": "Machine",
     "atk": 1000,
     "def": 1000,
     "level": 4,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Morphtronic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84592800.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84592800.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84592800.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/morphtronic-videon-7095",
+    "card_sets": [
+        {
+            "set_name": "Raging Battle",
+            "set_code": "RGBT-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84592800,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84592800.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84592800.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84592800.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "1.20",
+            "amazon_price": "1.09",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

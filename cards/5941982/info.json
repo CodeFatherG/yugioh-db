@@ -2,17 +2,43 @@
     "id": 5941982,
     "name": "Scareclaw Alternative",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Tribute 3 \"Scareclaw\" monsters; for the rest of this turn, your opponent can only Special Summon monsters in Defense Position. During your turn: You can banish this card from your GY; inflict 100 damage to your opponent for each Defense Position monster on the field. You can only use this effect of \"Scareclaw Alternative\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Scareclaw",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5941982.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5941982.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5941982.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/scareclaw-alternative-13026",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN105",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5941982,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5941982.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5941982.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5941982.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

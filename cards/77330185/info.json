@@ -1,18 +1,45 @@
 {
     "id": 77330185,
     "name": "XX-Saber Garsem",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card on the field is destroyed and sent to the Graveyard by a card effect, add 1 \"X-Saber\" monster from your Deck to your hand. This card gains 200 ATK for each face-up \"X-Saber\" monster you control.",
+    "race": "Beast",
     "atk": 1400,
     "def": 400,
     "level": 4,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "X-Saber",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77330185.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77330185.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77330185.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/xx-saber-garsem-6501",
+    "card_sets": [
+        {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN026",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 77330185,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77330185.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77330185.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77330185.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

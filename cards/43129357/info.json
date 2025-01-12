@@ -1,21 +1,51 @@
 {
     "id": 43129357,
     "name": "Ragnaraika Skeletal Soldier",
+    "typeline": [
+        "Plant",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters, including an Insect, Plant, or Reptile monster\r\nYou can target 1 \"Ragnaraika\" monster in your GY; Special Summon it in Defense Position. If this card is in your GY: You can target 1 Insect, Plant, or Reptile monster you control; place it on the bottom of the Deck, and if you do, Special Summon this card. You can only use each effect of \"Ragnaraika Skeletal Soldier\" once per turn, also you cannot Special Summon during the turn you activate either of this card's effects, except Insect, Plant, or Reptile monsters.",
+    "race": "Plant",
     "atk": 1600,
     "def": null,
     "level": null,
-    "race": "Plant",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Ragnaraika",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/43129357.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43129357.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43129357.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ragnaraika-skeletal-soldier-14318",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 43129357,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43129357.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43129357.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43129357.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

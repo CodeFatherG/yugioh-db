@@ -1,18 +1,51 @@
 {
     "id": 48017189,
     "name": "EM:P Meowmine",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If a Link Monster is on the field or in either GY, you can Special Summon this card (from your hand). You can only Special Summon \"EM:P Meowmine\" once per turn this way. If a Link-2 monster you control is sent to the GY or banished face-up (except during the Damage Step): You can banish this card from your GY (if it was there when the monster was sent or banished) or hand (even if not), then target 1 card your opponent controls; return it to the hand. You can only use this effect of \"EM:P Meowmine\" once per turn.",
+    "race": "Cyberse",
     "atk": 800,
     "def": 0,
     "level": 2,
-    "race": "Cyberse",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48017189.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48017189.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48017189.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/em-p-meowmine-14193",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN032",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN032",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48017189,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48017189.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48017189.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48017189.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.40",
+            "tcgplayer_price": "4.77",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,36 @@
 {
     "id": 16246527,
     "name": "Armored Rat",
+    "typeline": [
+        "Beast",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''The fur on this monster rat is tough enough to repel swords.''",
+    "race": "Beast",
     "atk": 950,
     "def": 1100,
     "level": 3,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Recolored counterpart",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16246527.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16246527.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16246527.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/armored-rat-1399",
+    "card_images": [
+        {
+            "id": 16246527,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16246527.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16246527.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16246527.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "9.99",
+            "amazon_price": "8.47",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

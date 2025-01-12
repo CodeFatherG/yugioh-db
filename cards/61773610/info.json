@@ -2,17 +2,36 @@
     "id": 61773610,
     "name": "Guardian of the Voiceless Voice",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "If a face-up monster(s) you control is destroyed by battle or card effect, except Ritual Monsters: You can Special Summon 1 \"Skull Guardian\" from your hand or Deck. You can send this face-up card to the GY, then target 1 Ritual Monster you control; it gains ATK equal to the combined original ATK of the other monsters currently on the field, until the end of this turn. You can only use each effect of \"Guardian of the Voiceless Voice\" once per turn, and cannot activate more than 1 in the same Chain.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Guardian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/61773610.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61773610.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61773610.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/guardian-of-the-voiceless-voice-14662",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN074",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61773610,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61773610.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61773610.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61773610.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

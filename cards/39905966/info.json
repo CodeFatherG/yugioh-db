@@ -1,18 +1,52 @@
 {
     "id": 39905966,
     "name": "Gishki Marker",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Summoned: You can target 1 \"Gishki\" Ritual Monster or \"Gishki\" Ritual Spell Card in your Graveyard; add that target to your hand.",
+    "race": "Aqua",
     "atk": 1600,
     "def": 1200,
     "level": 4,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Gishki",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39905966.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39905966.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39905966.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gishki-marker-3384",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 5b",
+            "set_code": "DT05-EN066",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 5: Steelswarm Invasion",
+            "set_code": "HA05-EN033",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39905966,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39905966.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39905966.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39905966.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

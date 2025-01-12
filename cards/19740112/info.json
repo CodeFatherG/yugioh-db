@@ -1,18 +1,51 @@
 {
     "id": 19740112,
     "name": "Barrier Statue of the Drought",
+    "typeline": [
+        "Rock",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "No monsters can be Special Summoned, except for EARTH monsters.",
+    "race": "Rock",
     "atk": 1000,
     "def": 1000,
     "level": 4,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19740112.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19740112.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19740112.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/barrier-statue-of-the-drought-1700",
+    "card_sets": [
+        {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN115",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19740112,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19740112.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19740112.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19740112.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.38",
+            "ebay_price": "0.99",
+            "amazon_price": "1.28",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

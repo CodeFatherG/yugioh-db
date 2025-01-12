@@ -1,18 +1,94 @@
 {
     "id": 98881700,
     "name": "Crystal Shark",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is used for the Xyz Summon of a \"Number\" monster, it can be treated as a Level 3 or 4 monster. If this card is in your hand or GY: You can target 1 WATER monster on the field; Special Summon this card (but banish this card when it leaves the field), and if you do, halve that monster's ATK, also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Crystal Shark\" once per turn.",
+    "race": "Fish",
     "atk": 1100,
     "def": 800,
     "level": 5,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Shark",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98881700.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98881700.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98881700.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crystal-shark-12908",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Duels From the Deep",
+            "set_code": "LED9-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.88"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN031",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN031",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN031",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN031",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN031",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN031",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN031",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98881700,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98881700.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98881700.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98881700.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "1.74",
+            "amazon_price": "0.80",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

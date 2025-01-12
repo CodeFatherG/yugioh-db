@@ -2,17 +2,50 @@
     "id": 21770261,
     "name": "Slime Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as a \"Slime Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Aqua",
-    "attribute": null,
-    "scale": null,
     "archetype": "Slime",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21770261.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21770261.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21770261.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/slime-token-1873",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 19",
+            "set_code": "OP19-EN028",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.64"
+        },
+        {
+            "set_name": "OTS Tournament Pack 19",
+            "set_code": "OP19-EN029",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 19 (POR)",
+            "set_code": "OP19-PT029",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21770261,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21770261.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21770261.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21770261.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.20",
+            "tcgplayer_price": "0.62",
+            "ebay_price": "7.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

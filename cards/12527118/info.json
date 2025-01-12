@@ -1,18 +1,51 @@
 {
     "id": 12527118,
     "name": "Cassimolar",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned: You can target 1 face-up monster your opponent controls; it gains ATK equal to its original ATK, also during the End Phase of the next turn, destroy that face-up monster, and if you do, your opponent takes damage equal to half its original ATK. At the start of your opponent's Battle Phase: You can Tribute this Normal Summoned/Set card; your opponent's monsters cannot attack directly for the rest of this turn.",
+    "race": "Fiend",
     "atk": 1000,
     "def": 1200,
     "level": 3,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12527118.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12527118.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12527118.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cassimolar-13128",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN183",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN093",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12527118,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12527118.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12527118.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12527118.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

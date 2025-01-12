@@ -2,17 +2,42 @@
     "id": 80036543,
     "name": "Hope for Escape",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If your opponent's LP is at least 1000 higher than yours: Pay 1000 LP; draw 1 card for every 2000 points difference between your LP and your opponent's.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80036543.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80036543.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80036543.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hope-for-escape-6711",
+    "card_sets": [
+        {
+            "set_name": "Pendulum Domination Structure Deck",
+            "set_code": "SDPD-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN063",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80036543,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80036543.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80036543.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80036543.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.61",
+            "tcgplayer_price": "0.46",
+            "ebay_price": "1.99",
+            "amazon_price": "1.79",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

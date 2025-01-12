@@ -1,18 +1,45 @@
 {
     "id": 32314730,
     "name": "Koa'ki Meiru Crusader",
+    "typeline": [
+        "Beast-Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Beast-Warrior-Type monster in your hand. If this card destroys an opponent's monster by battle, you can add 1 \"Koa'ki Meiru\" card from your Graveyard to your hand.",
+    "race": "Beast-Warrior",
     "atk": 1900,
     "def": 1300,
     "level": 4,
-    "race": "Beast-Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Koa'ki Meiru",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32314730.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32314730.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32314730.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/koa-ki-meiru-crusader-2745",
+    "card_sets": [
+        {
+            "set_name": "Ancient Prophecy",
+            "set_code": "ANPR-EN019",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32314730,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32314730.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32314730.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32314730.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.53",
+            "tcgplayer_price": "6.11",
+            "ebay_price": "2.90",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

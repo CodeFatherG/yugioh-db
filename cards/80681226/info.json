@@ -2,17 +2,36 @@
     "id": 80681226,
     "name": "Psychic Wave",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "If you control a Machine monster: Send 1 \"Jinzo\" from your hand or Deck to the GY; inflict 600 damage to your opponent. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 Machine monster in your GY; send 1 \"Jinzo\" monster from your Deck to the GY, and if you do, add that targeted monster to your hand. You can only use this effect of \"Psychic Wave\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Jinzo",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80681226.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80681226.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80681226.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/psychic-wave-11251",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN015",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.45"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80681226,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80681226.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80681226.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80681226.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "0.99",
+            "amazon_price": "34.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

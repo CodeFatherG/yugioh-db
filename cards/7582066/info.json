@@ -1,18 +1,45 @@
 {
     "id": 7582066,
     "name": "Psychic Nightmare",
+    "typeline": [
+        "Psychic",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1 or more non-Tuner Psychic-Type monsters\nOnce per turn, during your Main Phase, you can pick 1 random card in your opponent's hand and call what type of card it is (Monster, Spell or Trap). If you call it right, this card gains 1000 ATK until your opponent's End Phase.",
+    "race": "Psychic",
     "atk": 2400,
     "def": 1800,
     "level": 6,
-    "race": "Psychic",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7582066.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7582066.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7582066.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/psychic-nightmare-651",
+    "card_sets": [
+        {
+            "set_name": "Duelist Revolution",
+            "set_code": "DREV-EN085",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7582066,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7582066.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7582066.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7582066.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "5.13",
+            "tcgplayer_price": "7.87",
+            "ebay_price": "66.66",
+            "amazon_price": "9.99",
+            "coolstuffinc_price": "7.99"
+        }
+    ]
 }

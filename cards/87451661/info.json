@@ -1,18 +1,46 @@
 {
     "id": 87451661,
     "name": "Scarred Dragon Archfiend",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner DARK monsters\r\nThis card's name becomes \"Red Dragon Archfiend\" while on the field or in the GY. If this card is sent from the Monster Zone to the GY: You can Special Summon 1 \"Red Dragon Archfiend\" from your Extra Deck (this is treated as a Synchro Summon), then, if this card was sent to the GY as Synchro Material for a DARK Dragon Synchro Monster, you can destroy all Attack Position monsters your opponent controls. You can only use this effect of \"Scarred Dragon Archfiend\" once per turn.",
+    "race": "Dragon",
     "atk": 3000,
     "def": 2500,
     "level": 8,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Archfiend",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/87451661.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87451661.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87451661.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/scarred-dragon-archfiend-14018",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN049",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 87451661,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87451661.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87451661.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87451661.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.36",
+            "tcgplayer_price": "0.60",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

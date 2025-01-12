@@ -1,18 +1,46 @@
 {
     "id": 42303365,
     "name": "Reptilianne Viper",
+    "typeline": [
+        "Reptile",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned, you can select and take control of 1 face-up monster with 0 ATK your opponent controls.",
+    "race": "Reptile",
     "atk": 0,
     "def": 0,
     "level": 2,
-    "race": "Reptile",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Reptilianne",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42303365.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42303365.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42303365.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/reptilianne-viper-3607",
+    "card_sets": [
+        {
+            "set_name": "Stardust Overdrive",
+            "set_code": "SOVR-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42303365,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42303365.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42303365.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42303365.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.37",
+            "ebay_price": "1.91",
+            "amazon_price": "600.78",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

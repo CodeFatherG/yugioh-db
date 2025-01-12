@@ -1,18 +1,45 @@
 {
     "id": 11637481,
     "name": "U.A. Libero Spiker",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Libero Spiker\". You can only Special Summon \"U.A. Libero Spiker\" once per turn this way. During your opponent's Main Phase (Quick Effect): You can shuffle 1 Level 5 or higher \"U.A.\" monster from your hand into the Deck, and if you do, Special Summon 1 \"U.A.\" monster from your Deck with a different name, then return this card to the hand. You can only use this effect of \"U.A. Libero Spiker\" once per turn.",
+    "race": "Warrior",
     "atk": 1800,
     "def": 1800,
     "level": 4,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "U.A.",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/11637481.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11637481.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11637481.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/u-a-libero-spiker-11247",
+    "card_sets": [
+        {
+            "set_name": "Phantom Rage",
+            "set_code": "PHRA-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 11637481,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11637481.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11637481.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11637481.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "1.73",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

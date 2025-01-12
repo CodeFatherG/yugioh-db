@@ -2,17 +2,36 @@
     "id": 84220251,
     "name": "Heraldry Reborn",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Heraldic Beast\" monster in your Graveyard; Special Summon it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Heraldic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84220251.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84220251.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84220251.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heraldry-reborn-7062",
+    "card_sets": [
+        {
+            "set_name": "Cosmo Blazer",
+            "set_code": "CBLZ-EN057",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84220251,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84220251.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84220251.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84220251.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.32",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

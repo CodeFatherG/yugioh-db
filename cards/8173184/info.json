@@ -1,20 +1,57 @@
 {
     "id": 8173184,
     "name": "Repair Genex Controller",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 Level 4 or lower \"Genex\" monster\r\nYou can only Special Summon \"Repair Genex Controller(s)\" once per turn. If this card is Link Summoned: You can add 1 \"Genex\" monster from your GY to your hand. Once per Chain, if a \"Genex\" monster(s) is added to your hand, except by drawing it, you can (except during the Damage Step): Immediately after this effect resolves, Normal Summon 1 \"Genex\" monster, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Summon using a \"Genex\" Tuner as material.",
+    "race": "Machine",
     "atk": 1200,
     "def": null,
     "level": null,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Genex",
     "linkval": 1,
     "linkmarkers": [
         "Left"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/8173184.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8173184.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8173184.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/repair-genex-controller-14249",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN010",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN010",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8173184,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8173184.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8173184.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8173184.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

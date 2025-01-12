@@ -2,17 +2,43 @@
     "id": 55766177,
     "name": "Fabled Treason",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Fabled\" monster in your GY and 1 face-up card on the field; discard 1 card, and if you do, Special Summon that monster from your GY, and if you do that, destroy that card on the field. You can only activate 1 \"Fabled Treason\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fabled",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/55766177.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55766177.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55766177.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fabled-treason-11482",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 55766177,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55766177.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55766177.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55766177.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "1.51",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 300104005,
     "name": "Switcheroo",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Keith",
+    "frameType": "skill",
     "desc": "Activate this Skill during your Main Phase. Once per turn, you can shuffle 1 card from your hand into the Deck, then draw 1 card, also flip this card over. You can use this Skill up to twice per Duel.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Keith",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300104005.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300104005.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300104005.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/switcheroo-10749",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-ENS05",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.99"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300104005,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300104005.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300104005.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300104005.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.91",
+            "tcgplayer_price": "3.34",
+            "ebay_price": "2.99",
+            "amazon_price": "6.25",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

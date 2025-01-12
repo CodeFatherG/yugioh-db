@@ -1,18 +1,51 @@
 {
     "id": 32485518,
     "name": "Immortal Ruler",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Special Summoned. You can Tribute this card, then target 1 \"Zombie World\" in your GY; add that target to your hand.",
+    "race": "Zombie",
     "atk": 1800,
     "def": 200,
     "level": 4,
-    "race": "Zombie",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32485518.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32485518.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32485518.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/immortal-ruler-2763",
+    "card_sets": [
+        {
+            "set_name": "Raging Battle",
+            "set_code": "RGBT-EN082",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Zombie Horde",
+            "set_code": "SR07-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32485518,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32485518.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32485518.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32485518.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "14.99",
+            "amazon_price": "1.02",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

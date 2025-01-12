@@ -1,18 +1,45 @@
 {
     "id": 49389190,
     "name": "Ikelos, the Dream Mirror Sprite",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Special Summoned by the effect of a \"Dream Mirror\" monster: You can add 1 \"Dream Mirror\" card from your Deck to your hand, except \"Ikelos, the Dream Mirror Sprite\". During the Main or Battle Phase, if \"Dream Mirror of Terror\" is in a Field Zone (Quick Effect): You can Tribute this card; Special Summon 1 \"Ikelos, the Dream Mirror Mara\" from your Deck. You can only use each effect of \"Ikelos, the Dream Mirror Sprite\" once per turn.",
+    "race": "Fairy",
     "atk": 0,
     "def": 500,
     "level": 1,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Dream Mirror",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49389190.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49389190.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49389190.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ikelos-the-dream-mirror-sprite-10501",
+    "card_sets": [
+        {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN085",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49389190,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49389190.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49389190.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49389190.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.39",
+            "tcgplayer_price": "1.49",
+            "ebay_price": "9.00",
+            "amazon_price": "0.29",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

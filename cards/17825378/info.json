@@ -1,18 +1,56 @@
 {
     "id": 17825378,
     "name": "Predaplant Triantis",
+    "typeline": [
+        "Plant",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nWhile this card is in your Pendulum Zone, if you Fusion Summon a DARK Fusion Monster, you can also use cards in your Pendulum Zones as monsters on the field, as material for its Fusion Summon.\n\n[ Monster Effect ] \nIf this card is sent to the GY or added to your Extra Deck face-up because it was used as Fusion Material: You can choose monsters on the field, up to the number of monsters you control, and place 1 Predator Counter on each one, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.",
+    "race": "Plant",
+    "pend_desc": "While this card is in your Pendulum Zone, if you Fusion Summon a DARK Fusion Monster, you can also use cards in your Pendulum Zones as monsters on the field, as material for its Fusion Summon.",
+    "monster_desc": "If this card is sent to the GY or added to your Extra Deck face-up because it was used as Fusion Material: You can choose monsters on the field, up to the number of monsters you control, and place 1 Predator Counter on each one, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.",
     "atk": 2400,
     "def": 1000,
     "level": 8,
-    "race": "Plant",
     "attribute": "DARK",
-    "scale": 8,
     "archetype": "Predap",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17825378.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17825378.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17825378.jpg"
+    "scale": 8,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/predaplant-triantis-12990",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.88"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17825378,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17825378.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17825378.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17825378.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 3496543,
     "name": "Sinful Spoils of the White Forest",
     "type": "Spell Card",
-    "desc": "If you control a Fiend, Illusion, or Spellcaster monster: Activate 1 of these effects;\r\n\u25cf Special Summon 1 Fiend, Illusion, or Spellcaster monster from your hand.\r\n\u25cf Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material.\r\nIf this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of \"Sinful Spoils of the White Forest\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
+    "desc": "If you control a Fiend, Illusion, or Spellcaster monster: Activate 1 of these effects;\r\n\u25cf Special Summon 1 Fiend, Illusion, or Spellcaster monster from your hand.\r\n\u25cf Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field.\r\nIf this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of \"Sinful Spoils of the White Forest\" once per turn.",
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Sinful Spoils",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3496543.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3496543.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3496543.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sinful-spoils-of-the-white-forest-14773",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3496543,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3496543.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3496543.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3496543.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

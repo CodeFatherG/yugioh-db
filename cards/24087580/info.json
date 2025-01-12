@@ -1,18 +1,56 @@
 {
     "id": 24087580,
     "name": "Amazoness Silver Sword Master",
+    "typeline": [
+        "Warrior",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \n\"Amazoness\" monsters you control gain ATK equal to their own Level x 100. When an attack is declared involving your \"Amazoness\" monster: You can target 1 \"Amazoness\" Spell/Trap in your GY; add it to your hand. You can only use this effect of \"Amazoness Silver Sword Master\" once per turn.\n\n[ Monster Effect ] \nIf this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone. If an \"Amazoness\" monster(s) is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can place this card in your Pendulum Zone. You can only use each effect of \"Amazoness Silver Sword Master\" once per turn.",
+    "race": "Warrior",
+    "pend_desc": "\"Amazoness\" monsters you control gain ATK equal to their own Level x 100. When an attack is declared involving your \"Amazoness\" monster: You can target 1 \"Amazoness\" Spell/Trap in your GY; add it to your hand. You can only use this effect of \"Amazoness Silver Sword Master\" once per turn.",
+    "monster_desc": "If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone. If an \"Amazoness\" monster(s) is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can place this card in your Pendulum Zone. You can only use each effect of \"Amazoness Silver Sword Master\" once per turn.",
     "atk": 1200,
     "def": 2000,
     "level": 3,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": 7,
     "archetype": "Amazoness",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/24087580.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24087580.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24087580.jpg"
+    "scale": 7,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/amazoness-silver-sword-master-13127",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN220",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN094",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 24087580,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24087580.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24087580.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24087580.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "9.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

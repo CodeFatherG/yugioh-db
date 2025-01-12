@@ -2,17 +2,36 @@
     "id": 25964547,
     "name": "Dream Mirror Hypnagogia",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Choose 1 \"Dream Mirror of Joy\" and 1 \"Dream Mirror of Terror\" from your hand and/or Deck, and place 1 in your Field Zone and the other in your opponent's Field Zone, face-up. You can only activate 1 \"Dream Mirror Hypnagogia\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dream Mirror",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25964547.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25964547.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25964547.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dream-mirror-hypnagogia-10637",
+    "card_sets": [
+        {
+            "set_name": "Chaos Impact",
+            "set_code": "CHIM-EN090",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25964547,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25964547.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25964547.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25964547.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "2.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

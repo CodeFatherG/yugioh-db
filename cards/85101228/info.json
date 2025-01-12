@@ -2,17 +2,36 @@
     "id": 85101228,
     "name": "Morphtronic Bind",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "While you control a face-up \"Morphtronic\" monster, all Level 4 or higher monsters your opponent controls cannot attack or change their battle positions.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Morphtronic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85101228.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85101228.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85101228.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/morphtronic-bind-7139",
+    "card_sets": [
+        {
+            "set_name": "Raging Battle",
+            "set_code": "RGBT-EN072",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 85101228,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85101228.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85101228.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85101228.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.28",
+            "ebay_price": "1.76",
+            "amazon_price": "1.26",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

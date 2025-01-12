@@ -2,17 +2,42 @@
     "id": 61411502,
     "name": "Elemental Burst",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Tribute 1 each of WIND, WATER, FIRE, and EARTH monsters to activate this card. Destroy all cards on your opponent's side of the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/61411502.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61411502.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61411502.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/elemental-burst-5204",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN179",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61411502,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61411502.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61411502.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61411502.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "1.66",
+            "ebay_price": "1.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

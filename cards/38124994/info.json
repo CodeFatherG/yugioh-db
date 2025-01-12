@@ -1,18 +1,52 @@
 {
     "id": 38124994,
     "name": "Fluffal Rabbit",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent to the Graveyard as a Fusion Material for a Fusion Summon: You can target 1 \"Edge Imp Sabres\" or 1 \"Fluffal\" monster in your Graveyard, except \"Fluffal Rabbit\"; add it to your hand. You can only use this effect of \"Fluffal Rabbit\" once per turn.",
+    "race": "Fairy",
     "atk": 300,
     "def": 1200,
     "level": 1,
-    "race": "Fairy",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Fluffal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38124994.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38124994.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38124994.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fluffal-rabbit-3233",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN143",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38124994,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38124994.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38124994.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38124994.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.33",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

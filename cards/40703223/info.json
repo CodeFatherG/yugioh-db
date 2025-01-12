@@ -2,17 +2,36 @@
     "id": 40703223,
     "name": "Kuriboh Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as a \"Kuriboh Token\".\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Fiend",
-    "attribute": null,
-    "scale": null,
     "archetype": "Kuriboh",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/40703223.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40703223.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40703223.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kuriboh-token-3464",
+    "card_sets": [
+        {
+            "set_name": "Yu-Gi-Oh! Advent Calendar (2019)",
+            "set_code": "AC19-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.86"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 40703223,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40703223.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40703223.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40703223.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.89",
+            "tcgplayer_price": "3.54",
+            "ebay_price": "2.79",
+            "amazon_price": "2.85",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

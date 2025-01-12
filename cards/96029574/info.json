@@ -1,18 +1,45 @@
 {
     "id": 96029574,
     "name": "Black Brutdrago",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1 or more non-Tuner Gemini monsters\nOnce per turn, you can send 1 Gemini monster from your hand to the Graveyard to select and destroy 1 Spell or Trap Card your opponent controls. When this card is destroyed and sent to the Graveyard, you can select 1 Gemini monster in your Graveyard and Special Summon it. The Special Summoned Gemini monster is treated as an Effect Monster, and gains its effect.",
+    "race": "Dragon",
     "atk": 3000,
     "def": 2600,
     "level": 8,
-    "race": "Dragon",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96029574.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96029574.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96029574.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/black-brutdrago-7997",
+    "card_sets": [
+        {
+            "set_name": "Stardust Overdrive",
+            "set_code": "SOVR-EN043",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96029574,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96029574.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96029574.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96029574.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "11.46",
+            "tcgplayer_price": "9.64",
+            "ebay_price": "3.50",
+            "amazon_price": "3.19",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

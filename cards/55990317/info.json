@@ -1,18 +1,53 @@
 {
     "id": 55990317,
     "name": "Hugin the Runick Wings",
+    "typeline": [
+        "Fairy",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 \"Runick\" monsters\r\nIf this card is Special Summoned from the Extra Deck: You can discard 1 card; add 1 \"Runick\" Field Spell from your Deck to your hand. If another card(s) you control would be destroyed by card effect, you can banish this card you control instead. If this card on the field is destroyed by battle or card effect: Return this card to the Extra Deck.",
+    "race": "Fairy",
     "atk": 0,
     "def": 0,
     "level": 2,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Runick",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/55990317.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55990317.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55990317.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hugin-the-runick-wings-13111",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN249",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN037",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 55990317,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55990317.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55990317.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55990317.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.57",
+            "tcgplayer_price": "1.83",
+            "ebay_price": "9.99",
+            "amazon_price": "1.37",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

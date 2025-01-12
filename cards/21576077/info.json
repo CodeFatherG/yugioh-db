@@ -2,17 +2,36 @@
     "id": 21576077,
     "name": "Drytron Eclipse",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Drytron\" monster in your GY; add it to your hand. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 \"Drytron\" monster you control; it gains 2000 ATK until the end of your opponent's turn. You can only use each effect of \"Drytron Eclipse\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Drytron",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21576077.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21576077.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21576077.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/drytron-eclipse-11333",
+    "card_sets": [
+        {
+            "set_name": "Genesis Impact",
+            "set_code": "GEIM-EN034",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.17"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21576077,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21576077.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21576077.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21576077.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "4.00",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,36 @@
 {
     "id": 47643326,
     "name": "Space Omajinai Usagi",
+    "typeline": [
+        "Spellcaster",
+        "Tuner",
+        "Normal"
+    ],
     "type": "Normal Tuner Monster",
+    "humanReadableCardType": "Tuner Normal Monster",
+    "frameType": "normal",
     "desc": "''A mysterious visitor from the heavens. She converts people's sense of pain into signals and sends them into space, but why she does so is still unknown to this day.\r\n...pain, pain, fly away, fly away.''",
+    "race": "Spellcaster",
     "atk": 0,
     "def": 1500,
     "level": 1,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47643326.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47643326.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47643326.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/space-omajinai-usagi-14751",
+    "card_images": [
+        {
+            "id": 47643326,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47643326.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47643326.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47643326.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

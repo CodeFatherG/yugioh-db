@@ -1,18 +1,45 @@
 {
     "id": 72578374,
     "name": "Khaos Starsource Dragon",
+    "typeline": [
+        "Dragon",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 LIGHT or DARK Dragon monster + 1 Dragon monster\r\nIf this card is Fusion Summoned: You can target cards your opponent controls, up to the number of LIGHT and DARK monsters used as this card's material; destroy them. If this card is banished: You can target 1 Level 4 LIGHT or DARK Dragon monster you control; its Level becomes 8. You can only use each effect of \"Khaos Starsource Dragon\" once per turn.",
+    "race": "Dragon",
     "atk": 2500,
     "def": 2500,
     "level": 8,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/72578374.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72578374.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72578374.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/khaos-starsource-dragon-14552",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 72578374,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72578374.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72578374.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72578374.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

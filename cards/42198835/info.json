@@ -1,18 +1,52 @@
 {
     "id": 42198835,
     "name": "Illegal Knight",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Main Phase, if you control no monsters, or control an \"Adventurer Token\" (Quick Effect): You can Special Summon this card from your hand. If you control an \"Adventurer Token\" (Quick Effect): You can target up to 2 cards your opponent controls; give control of this card to your opponent, and if you do, return that card(s) to the hand. You can only use each effect of \"Illegal Knight\" once per turn.",
+    "race": "Fiend",
     "atk": 2000,
     "def": 2000,
     "level": 7,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Adventurer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42198835.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42198835.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42198835.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/illegal-knight-12983",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN072",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN023",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42198835,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42198835.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42198835.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42198835.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "2.98",
+            "amazon_price": "2.11",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

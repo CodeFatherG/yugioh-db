@@ -1,18 +1,74 @@
 {
     "id": 48009503,
     "name": "Heroic Champion - Gandiva",
+    "typeline": [
+        "Warrior",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 4 Warrior-Type monsters\nOnce per turn, when a Level 4 or lower monster(s) is Special Summoned to your opponent's side of the field (except during the Damage Step): You can detach 1 Xyz Material from this card; destroy that Special Summoned monster(s).",
+    "race": "Warrior",
     "atk": 2100,
     "def": 1800,
     "level": 4,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Heroic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48009503.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48009503.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48009503.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heroic-champion-gandiva-4099",
+    "card_sets": [
+        {
+            "set_name": "Abyss Rising",
+            "set_code": "ABYR-EN042",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Abyss Rising",
+            "set_code": "ABYR-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN124",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 19",
+            "set_code": "OP19-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.97"
+        },
+        {
+            "set_name": "OTS Tournament Pack 19 (POR)",
+            "set_code": "OP19-PT025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48009503,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48009503.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48009503.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48009503.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.93",
+            "amazon_price": "5.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

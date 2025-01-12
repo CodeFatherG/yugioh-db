@@ -1,18 +1,60 @@
 {
     "id": 7511613,
     "name": "Ryzeal Duo Drive",
+    "typeline": [
+        "Thunder",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 4 monsters\r\nFor each material this card has, monsters you control gain 100 ATK and monsters your opponent controls lose 100 ATK. You can only use each of the following effects of \"Ryzeal Duo Drive\" once per turn. If this card is Special Summoned: You can attach 1 \"Ryzeal\" monster from your GY to this card as material. During your Main Phase: You can detach 2 materials from a monster(s) you control, and if you do, add 2 \"Ryzeal\" cards with different names from your Deck to your hand.",
+    "race": "Thunder",
     "atk": 2500,
     "def": 2000,
     "level": 4,
-    "race": "Thunder",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Ryzeal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7511613.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7511613.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7511613.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ryzeal-duo-drive-14640",
+    "card_sets": [
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN006",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN006",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN006",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7511613,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7511613.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7511613.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7511613.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.49",
+            "tcgplayer_price": "1.57",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 89732524,
     "name": "Tour Bus To Forbidden Realms",
+    "typeline": [
+        "Fiend",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: Add 1 Fiend-Type monster from your Deck to your hand, except a DARK or LIGHT monster.",
+    "race": "Fiend",
     "atk": 600,
     "def": 1000,
     "level": 3,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/89732524.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89732524.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89732524.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tour-bus-to-forbidden-realms-7499",
+    "card_sets": [
+        {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN085",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN078",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 89732524,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89732524.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89732524.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89732524.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

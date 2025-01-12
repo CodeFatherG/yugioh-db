@@ -1,18 +1,55 @@
 {
     "id": 2563463,
     "name": "Wandering Gryphon Rider",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Main Phase, if you control no monsters, or control an \"Adventurer Token\" (Quick Effect): You can Special Summon this card from your hand. When a card or effect is activated while you control an \"Adventurer Token\" (Quick Effect): You can shuffle this card into the Deck, and if you do, negate that activation, and if you do that, destroy that card. You can only use each effect of \"Wandering Gryphon Rider\" once per turn.",
+    "race": "Winged Beast",
     "atk": 2000,
     "def": 2800,
     "level": 7,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Adventurer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2563463.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2563463.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2563463.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wandering-gryphon-rider-12536",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN267",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Grand Creators",
+            "set_code": "GRCR-EN028",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.39"
+        }
+    ],
+    "banlist_info": {
+        "ban_ocg": "Forbidden"
+    },
+    "card_images": [
+        {
+            "id": 2563463,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2563463.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2563463.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2563463.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "2.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

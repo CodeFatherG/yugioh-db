@@ -1,18 +1,52 @@
 {
     "id": 81696879,
     "name": "Centur-Ion Chimerea",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When your opponent activates a monster effect as Chain Link 2 or higher (Quick Effect): You can make the activated effect become \"Your opponent places 1 \"Centur-Ion\" monster from their face-up field or GY in their Spell & Trap Zone as a face-up Continuous Trap\", also you cannot Special Summon \"Centur-Ion Chimerea\" for the rest of this turn. During the Main Phase, if this card is a Continuous Trap: You can Special Summon this card. You can only use each effect of \"Centur-Ion Chimerea\" once per turn.",
+    "race": "Pyro",
     "atk": 1200,
     "def": 1600,
     "level": 4,
-    "race": "Pyro",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Centur-Ion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81696879.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81696879.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81696879.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/centur-ion-chimerea-14629",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN016",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81696879,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81696879.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81696879.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81696879.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.47",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

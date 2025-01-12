@@ -2,17 +2,64 @@
     "id": 46874015,
     "name": "Return of the Six Samurai",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Six Samurai\" monster in your GY; Special Summon that target. Destroy it during the End Phase of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Six Samurai",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46874015.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46874015.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46874015.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/return-of-the-six-samurai-3994",
+    "card_sets": [
+        {
+            "set_name": "Gold Series 2009",
+            "set_code": "GLD2-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN262",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.15"
+        },
+        {
+            "set_name": "Samurai Warlords Structure Deck",
+            "set_code": "SDWA-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.13"
+        },
+        {
+            "set_name": "Spirit Warriors",
+            "set_code": "SPWA-EN052",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.38"
+        },
+        {
+            "set_name": "Strike of Neos",
+            "set_code": "STON-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46874015,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46874015.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46874015.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46874015.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 57753602,
     "name": "Gem Flash Energy",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "During each of your Standby Phases, inflict damage to your opponent equal to the number of face-up Continuous Spell Cards on the field x 300.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57753602.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57753602.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57753602.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gem-flash-energy-4916",
+    "card_sets": [
+        {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57753602,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57753602.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57753602.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57753602.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.99",
+            "amazon_price": "1.18",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

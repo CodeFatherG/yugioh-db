@@ -1,18 +1,53 @@
 {
     "id": 18843291,
     "name": "Minerva, the Athenian Lightsworn",
+    "typeline": [
+        "Fairy",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\n\"Lightsworn\" monsters you control cannot be banished by card effects. You can only use each of the following effects of \"Minerva, the Athenian Lightsworn\" once per turn. If this card is Synchro Summoned: You can send \"Lightsworn\" monsters with different Types from your Deck to the GY, up to the number of \"Lightsworn\" monsters used as this card's material. You can banish up to 4 \"Lightsworn\" monsters from your GY; send that many cards from the top of your Deck to the GY.",
+    "race": "Fairy",
     "atk": 2800,
     "def": 1800,
     "level": 8,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Lightsworn",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/18843291.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18843291.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18843291.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/minerva-the-athenian-lightsworn-14302",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN043",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 18843291,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18843291.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18843291.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18843291.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.92",
+            "tcgplayer_price": "2.36",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 56574543,
     "name": "Bujingi Sinyou",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During either player's Damage Step, if a Beast-Warrior-Type \"Bujin\" monster you control battles an opponent's monster: You can banish this card from your Graveyard; that monster you control gains ATK equal to the current ATK of the opponent's monster it is battling until the end of the Damage Step, and if it does, all battle damage your opponent takes from that battle is halved. You can only use this effect of \"Bujingi Sinyou\" once per turn.",
+    "race": "Beast",
     "atk": 1500,
     "def": 1000,
     "level": 4,
-    "race": "Beast",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Bujin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56574543.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56574543.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56574543.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bujingi-sinyou-4816",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN049",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Primal Origin",
+            "set_code": "PRIO-EN084",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56574543,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56574543.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56574543.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56574543.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.69",
+            "tcgplayer_price": "0.38",
+            "ebay_price": "7.99",
+            "amazon_price": "1.77",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

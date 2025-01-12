@@ -2,17 +2,43 @@
     "id": 84361420,
     "name": "Edge Hammer",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Tribute 1 \"Elemental HERO Bladedge\" to target 1 monster your opponent controls; destroy that target and inflict damage to your opponent equal to that target's original ATK.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Elemental HERO",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84361420.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84361420.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84361420.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/edge-hammer-7075",
+    "card_sets": [
+        {
+            "set_name": "Duelist Pack: Jaden Yuki 2",
+            "set_code": "DP03-EN029",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.47"
+        },
+        {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN113",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.58"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84361420,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84361420.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84361420.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84361420.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "2.25",
+            "amazon_price": "1.33",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

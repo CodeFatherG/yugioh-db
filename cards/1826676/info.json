@@ -1,18 +1,51 @@
 {
     "id": 1826676,
     "name": "Toy Knight",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Special Summoned from the Deck. If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). When this card is Normal or Special Summoned: You can Special Summon 1 \"Toy Knight\" from your hand.",
+    "race": "Machine",
     "atk": 200,
     "def": 1200,
     "level": 4,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/1826676.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1826676.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1826676.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/toy-knight-161",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN244",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN093",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 1826676,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1826676.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1826676.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1826676.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "5.49",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

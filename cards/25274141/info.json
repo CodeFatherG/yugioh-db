@@ -2,17 +2,50 @@
     "id": 25274141,
     "name": "Urgent Schedule",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "If your opponent controls more monsters than you do: Special Summon 1 Level 4 or lower and 1 Level 5 or higher EARTH Machine monsters from your Deck in Defense Position, but negate their effects. You cannot declare attacks the turn you activate this card, except with Machine monsters. If this Set card is sent from the field to the GY: You can add 1 Level 10 Machine monster from your Deck to your hand. You can only use each effect of \"Urgent Schedule\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Train",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25274141.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25274141.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25274141.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/urgent-schedule-9883",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN125",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "6.15"
+        },
+        {
+            "set_name": "Legendary Duelists: Sisters of the Rose",
+            "set_code": "LED4-EN037",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "10.95"
+        },
+        {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN063",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.79"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25274141,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25274141.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25274141.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25274141.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.33",
+            "tcgplayer_price": "0.73",
+            "ebay_price": "1.48",
+            "amazon_price": "1.05",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

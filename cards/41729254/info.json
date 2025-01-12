@@ -1,18 +1,52 @@
 {
     "id": 41729254,
     "name": "Hajun, the Winged Mayakashi",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Mayakashi\" monster from your Deck, except \"Hajun, the Winged Mayakashi\". You can only use this effect of \"Hajun, the Winged Mayakashi\" once per turn. You cannot Special Summon monsters from the Extra Deck, except \"Mayakashi\" monsters.",
+    "race": "Zombie",
     "atk": 600,
     "def": 400,
     "level": 1,
-    "race": "Zombie",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Mayakashi",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/41729254.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41729254.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41729254.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hajun-the-winged-mayakashi-9723",
+    "card_sets": [
+        {
+            "set_name": "Hidden Summoners",
+            "set_code": "HISU-EN029",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN017",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 41729254,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41729254.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41729254.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41729254.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.50",
+            "amazon_price": "4.17",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

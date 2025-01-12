@@ -1,18 +1,45 @@
 {
     "id": 42328171,
     "name": "Wind-Up Bat",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 1 \"Wind-Up\" monster in your Graveyard; change this face-up Attack Position card you control to face-up Defense Position, and add that target to your hand. This effect can only be used once while this card is face-up on the field.",
+    "race": "Machine",
     "atk": 300,
     "def": 350,
     "level": 1,
-    "race": "Machine",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Wind-Up",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42328171.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42328171.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42328171.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wind-up-bat-3610",
+    "card_sets": [
+        {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42328171,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42328171.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42328171.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42328171.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

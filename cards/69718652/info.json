@@ -1,18 +1,46 @@
 {
     "id": 69718652,
     "name": "Ritual Beast Ulti-Nochiudrago",
+    "typeline": [
+        "Wyrm",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 \"Ritual Beast Tamer\" monster + 1 \"Spiritual Beast\" monster\r\nMust be Special Summoned (from your Extra Deck) by banishing the above cards from your field and/or GY. You can only Special Summon \"Ritual Beast Ulti-Nochiudrago(s)\" once per turn. Your opponent cannot target other \"Ritual Beast\" monsters you control with card effects. (Quick Effect): You can return this card to the Extra Deck, then target 1 of your banished \"Ritual Beast\" monsters; Special Summon it, but it cannot attack directly.",
+    "race": "Wyrm",
     "atk": 2400,
     "def": 1900,
     "level": 7,
-    "race": "Wyrm",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Ritual Beast",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/69718652.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69718652.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69718652.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ritual-beast-ulti-nochiudrago-14251",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN018",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 69718652,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69718652.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69718652.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69718652.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.35",
+            "tcgplayer_price": "0.41",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

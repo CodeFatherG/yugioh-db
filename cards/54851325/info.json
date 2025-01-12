@@ -2,17 +2,42 @@
     "id": 54851325,
     "name": "Realm Eulogy",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 monster you control and 1 Effect Monster your opponent controls; destroy that monster you control, and if you do, negate that opponent's monster's effects until the end of this turn, then if \"Visas Starfrost\" is on the field, you can destroy that targeted monster. During your Main Phase, if a \"Veda\" Monster Card is on the field: You can banish this card from your GY; destroy 1 monster you control. You can only use each effect of \"Realm Eulogy\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54851325.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54851325.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54851325.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/realm-eulogy-13995",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN394",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54851325,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54851325.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54851325.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54851325.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

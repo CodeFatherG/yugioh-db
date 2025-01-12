@@ -2,17 +2,35 @@
     "id": 23446369,
     "name": "Eye of Illusion",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "If you control an Illusion or Spellcaster monster: Activate 1 of these effects;\r\n\u25cf Your Illusion and Spellcaster monsters cannot be destroyed by battle this turn.\r\n\u25cf During your opponent's turn: Target 1 face-up monster your opponent controls; take control of it until the End Phase.\r\n\u25cf When an opponent's monster declares an attack: Target 1 face-up monster your opponent controls, except the attacking monster; change the attack target to it and perform damage calculation.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23446369.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23446369.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23446369.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/eye-of-illusion-13962",
+    "card_sets": [
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 23446369,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23446369.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23446369.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23446369.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.60",
+            "tcgplayer_price": "2.61",
+            "ebay_price": "9.80",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

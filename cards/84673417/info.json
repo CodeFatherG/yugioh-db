@@ -1,18 +1,52 @@
 {
     "id": 84673417,
     "name": "Jain, Twilightsworn General",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn: You can banish 1 \"Lightsworn\" monster from your hand or GY, then target 1 face-up monster on the field; it loses ATK and DEF equal to the banished monster's Level x 300, until the end of this turn. Once per turn, if your other \"Lightsworn\" monster's effect is activated: Send the top 2 cards of your Deck to the GY.",
+    "race": "Warrior",
     "atk": 1800,
     "def": 1200,
     "level": 4,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Lightsworn",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84673417.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84673417.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84673417.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jain-twilightsworn-general-8443",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84673417,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84673417.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84673417.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84673417.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

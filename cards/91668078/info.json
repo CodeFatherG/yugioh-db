@@ -2,17 +2,35 @@
     "id": 91668078,
     "name": "In Papa's Footsteps",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "If a card(s) is sent to the GY, except \"In Papa's Footsteps\": Banish up to 5 cards from your GY, face-down, then if 7 or more of your cards are currently banished face-down, your opponent banishes as many cards as possible from their GY (max. 5) face-down.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91668078.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91668078.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91668078.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/in-papa-s-footsteps-14364",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91668078,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91668078.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91668078.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91668078.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

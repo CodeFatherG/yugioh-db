@@ -2,17 +2,56 @@
     "id": 53778229,
     "name": "Silent Graveyard",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Discard 1 card; effects that activate in the GY this turn are negated.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53778229.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53778229.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53778229.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/silent-graveyard-4580",
+    "card_sets": [
+        {
+            "set_name": "Duel Devastator",
+            "set_code": "DUDE-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.21"
+        },
+        {
+            "set_name": "OTS Tournament Pack 9",
+            "set_code": "OP09-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.48"
+        },
+        {
+            "set_name": "OTS Tournament Pack 9 (POR)",
+            "set_code": "OP09-PT021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        },
+        {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN060",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53778229,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53778229.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53778229.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53778229.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.84",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

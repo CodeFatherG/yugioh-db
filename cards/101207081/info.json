@@ -1,18 +1,44 @@
 {
     "id": 101207081,
     "name": "Dark Necromancer",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can send 1 Fiend or Zombie Ritual Monster from the hand or Deck to the GY, then you can add 1 Ritual Spell from your Deck to your hand. If this card is banished: You can target 1 of your banished Level 4 or lower Fiend or Zombie monsters; Special Summon it. You can only use each effect of \"Dark Necromancer\" once per turn.",
+    "race": "Zombie",
     "atk": 1000,
     "def": 1400,
     "level": 4,
-    "race": "Zombie",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/101207081.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101207081.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101207081.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-necromancer-14867",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN081",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 101207081,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101207081.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101207081.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101207081.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 48745395,
     "name": "Labrynth Archfiend",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Gains 400 ATK for each Normal Trap with a different name in your GY. Your opponent's monsters cannot target Fiend monsters for attacks, except \"Labrynth Archfiend\". You can only use each of the following effects of \"Labrynth Archfiend\" once per turn. If a Trap Card is activated (except during the Damage Step): You can Special Summon this card from your hand. If this card is Special Summoned: You can Set 1 Normal Trap from your Deck that can only be activated when an attack is declared.",
+    "race": "Fiend",
     "atk": 2000,
     "def": 2800,
     "level": 7,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Archfiend",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48745395.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48745395.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48745395.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/labrynth-archfiend-13112",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN227",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN015",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48745395,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48745395.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48745395.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48745395.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.54",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

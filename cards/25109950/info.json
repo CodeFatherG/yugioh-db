@@ -1,18 +1,58 @@
 {
     "id": 25109950,
     "name": "The Little Swordsman of Aile",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Offer 1 monster on your side of the field as a Tribute to increase this monster's ATK by 700 points until the end of the turn.",
+    "race": "Warrior",
     "atk": 800,
     "def": 1300,
     "level": 3,
-    "race": "Warrior",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25109950.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25109950.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25109950.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-little-swordsman-of-aile-2157",
+    "card_sets": [
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-085",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.52"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E085",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.74"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN085",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.9"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25109950,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25109950.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25109950.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25109950.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

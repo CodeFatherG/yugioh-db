@@ -2,17 +2,35 @@
     "id": 47961342,
     "name": "Switch Point",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Choose 1 monster your opponent controls, and your opponent sends either of the following to the GY.\r\n\u25cf The chosen monster.\r\n\u25cf The other monsters they control.\r\nYour opponent must control 3 or more monsters for you to activate and resolve this effect.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47961342.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47961342.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47961342.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/switch-point-13499",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN099",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47961342,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47961342.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47961342.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47961342.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

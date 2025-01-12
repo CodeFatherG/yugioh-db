@@ -1,18 +1,49 @@
 {
     "id": 572850,
     "name": "Tearlaments Scheiren",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During your Main Phase: You can Special Summon this card from your hand, and if you do, send 1 monster from your hand to the GY, then, send the top 3 cards of your Deck to the GY. If this card is sent to the GY by card effect (except during the Damage Step): You can Fusion Summon 1 Fusion Monster from your Extra Deck, by placing Fusion Materials mentioned on it from your hand, field, and/or GY, including this card from your GY, on the bottom of the Deck in any order. You can only use each effect of \"Tearlaments Scheiren\" once per turn.",
+    "race": "Aqua",
     "atk": 1800,
     "def": 1300,
     "level": 4,
-    "race": "Aqua",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Tearlaments",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/572850.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/572850.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/572850.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tearlaments-scheiren-13206",
+    "card_sets": [
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN014",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited",
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 572850,
+            "image_url": "https://images.ygoprodeck.com/images/cards/572850.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/572850.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/572850.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.45",
+            "tcgplayer_price": "1.18",
+            "ebay_price": "2.95",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

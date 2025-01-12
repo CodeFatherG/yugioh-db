@@ -2,17 +2,43 @@
     "id": 63017368,
     "name": "Wedju Temple",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "During your Main Phase: You can place 1 monster from your hand in your Spell & Trap Zone as a face-up Continuous Spell, then place 1 \"Millennium\" monster from your Deck in your Spell & Trap Zone as a face-up Continuous Spell. You can only use this effect of \"Wedju Temple\" once per turn. If a face-up \"Millennium\" monster(s) you control is destroyed by battle or card effect, you can place it in your Spell & Trap Zone as a face-up Continuous Spell, instead of sending it to the GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Wedju",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/63017368.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63017368.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63017368.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wedju-temple-14389",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN054",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN054",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 63017368,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63017368.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63017368.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63017368.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.87",
+            "tcgplayer_price": "1.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

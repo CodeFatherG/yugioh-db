@@ -1,18 +1,45 @@
 {
     "id": 77590412,
     "name": "Puppet Rook",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned: You can change this card to Defense Position, and if you do, send 1 EARTH Warrior monster from your Deck to your GY. Monsters your opponent controls that can attack must attack this card. Once per turn, when this card is targeted for an attack: You can target 1 Level 6 or higher EARTH Warrior monster in your GY; send this card from the field to the GY, and if you do, Special Summon that monster, then change the attack target to it.",
+    "race": "Warrior",
     "atk": 1200,
     "def": 1800,
     "level": 4,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Puppet",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77590412.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77590412.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77590412.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/puppet-rook-12925",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 77590412,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77590412.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77590412.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77590412.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.00",
+            "amazon_price": "9.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

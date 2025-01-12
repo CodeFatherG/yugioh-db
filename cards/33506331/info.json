@@ -1,18 +1,36 @@
 {
     "id": 33506331,
     "name": "Clear Cube",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You are unaffected by the effects of \"Clear World\". During your Main Phase, you can Normal Summon 1 monster that mentions \"Clear World\" in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this face-up card in its owner's control leaves the field by an opponent's card: You can Special Summon 1 monster from your Deck that mentions \"Clear World\".",
+    "race": "Machine",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Clear",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33506331.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33506331.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33506331.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clear-cube-14521",
+    "card_images": [
+        {
+            "id": 33506331,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33506331.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33506331.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33506331.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

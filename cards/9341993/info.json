@@ -2,17 +2,43 @@
     "id": 9341993,
     "name": "Adamancipator Relief",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Tribute any number of \"Adamancipator\" monsters, then target cards on the field equal to that number +1; destroy them.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Adamancipator",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9341993.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9341993.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9341993.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/adamancipator-relief-10857",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN235",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Secret Slayers",
+            "set_code": "SESL-EN012",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9341993,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9341993.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9341993.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9341993.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

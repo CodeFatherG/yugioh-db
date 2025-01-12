@@ -2,17 +2,43 @@
     "id": 54306223,
     "name": "Venom Swamp",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "During each player's End Phase: Place 1 Venom Counter on each face-up monster, except \"Venom\" monsters. Monsters lose 500 ATK for each Venom Counter on them. Destroy a monster if its ATK becomes 0 by this effect.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Venom",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54306223.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54306223.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54306223.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/venom-swamp-4619",
+    "card_sets": [
+        {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN216",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.52"
+        },
+        {
+            "set_name": "Tactical Evolution",
+            "set_code": "TAEV-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54306223,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54306223.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54306223.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54306223.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.84",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

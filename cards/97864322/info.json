@@ -1,20 +1,64 @@
 {
     "id": 97864322,
     "name": "Emperor Charles the Great",
+    "typeline": [
+        "Warrior",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 Level 9 \"Infernoble Knight Emperor Charles\" equipped with an Equip Card(s)\r\nIf this card is Link Summoned: You can target 1 \"Infernoble Knight Emperor Charles\" in your GY; this card's name becomes that target's original name, and it gains that target's original effects, then equip that target to this card as an Equip Spell that gives it 500 ATK. Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can send 1 Equip Spell from your hand or face-up field to the GY; negate the activation, and if you do, destroy that card.",
+    "race": "Warrior",
     "atk": 3000,
     "def": null,
     "level": null,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Noble Knight",
     "linkval": 1,
     "linkmarkers": [
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/97864322.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97864322.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97864322.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/emperor-charles-the-great-13790",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN100",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN048",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN048",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 97864322,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97864322.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97864322.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97864322.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.35",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

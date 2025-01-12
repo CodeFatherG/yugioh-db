@@ -1,18 +1,45 @@
 {
     "id": 30013902,
     "name": "Sunseed Shadow",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a Plant Normal Monster: You can Special Summon this card from your hand. You can banish this card from your GY, then target 1 linked Link-2 or lower \"Sunavalon\" or \"Sunvine\" monster you control; Special Summon 1 monster with the same name from your Extra Deck, but negate its effects, also you cannot Special Summon for the rest of this turn, except Plant monsters. You can only use each effect of \"Sunseed Shadow\" once per turn.",
+    "race": "Plant",
     "atk": 0,
     "def": 400,
     "level": 1,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Sunseed",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30013902.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30013902.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30013902.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sunseed-shadow-11581",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.64"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30013902,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30013902.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30013902.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30013902.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.99",
+            "amazon_price": "49.99",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

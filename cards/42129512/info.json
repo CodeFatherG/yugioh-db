@@ -1,18 +1,66 @@
 {
     "id": 42129512,
     "name": "Big Koala",
+    "typeline": [
+        "Beast",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A species of huge Des Koala. He's meek, but people are afraid of him because he's very powerful.",
+    "race": "Beast",
     "atk": 2700,
     "def": 2000,
     "level": 7,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Koala",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42129512.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42129512.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42129512.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/big-koala-3594",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.69"
+        },
+        {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENI02",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42129512,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42129512.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42129512.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42129512.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

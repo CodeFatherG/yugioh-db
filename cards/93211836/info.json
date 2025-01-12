@@ -1,18 +1,52 @@
 {
     "id": 93211836,
     "name": "Genex Army",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Tribute Summoned by Tributing a \"Genex\" monster, you can destroy 1 card your opponent controls.",
+    "race": "Machine",
     "atk": 2300,
     "def": 1300,
     "level": 6,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Genex",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93211836.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93211836.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93211836.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/genex-army-7757",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN075",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 2",
+            "set_code": "HA02-EN045",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93211836,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93211836.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93211836.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93211836.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.60",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

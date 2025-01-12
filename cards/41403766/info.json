@@ -1,18 +1,36 @@
 {
     "id": 41403766,
     "name": "Giant Scorpion of the Tundra",
+    "typeline": [
+        "Insect",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''An extraordinary blue scorpion found in the tundra, not in the desert.''",
+    "race": "Insect",
     "atk": 1100,
     "def": 1000,
     "level": 3,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Recolored counterpart",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/41403766.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41403766.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41403766.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/giant-scorpion-of-the-tundra-3536",
+    "card_images": [
+        {
+            "id": 41403766,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41403766.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41403766.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41403766.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.57",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "5.68",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

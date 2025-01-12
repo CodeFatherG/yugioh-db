@@ -2,17 +2,27 @@
     "id": 100438009,
     "name": "Raizeol Cross",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "You cannot Xyz Summon monsters with the same name as a card you control. You can target 2 \"Raizeol\" cards in your GY, except \"Raizeol Cross\"; place them on the bottom of the Deck in any order, then draw 1 card. You can only use this effect of \"Raizeol Cross\" once per turn. Once per turn, when an opponent's activated monster effect resolves, you can detach 1 material from a \"Raizeol\" Xyz Monster you control, and if you do, negate that effect.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Raizeol",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/100438009.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100438009.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100438009.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/raizeol-cross-14674",
+    "card_images": [
+        {
+            "id": 100438009,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100438009.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100438009.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100438009.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

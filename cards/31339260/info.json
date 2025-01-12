@@ -1,18 +1,45 @@
 {
     "id": 31339260,
     "name": "Zombie Warrior",
+    "typeline": [
+        "Zombie",
+        "Fusion"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Monster",
+    "frameType": "fusion",
     "desc": "\"Skull Servant\" + \"Battle Warrior\"",
+    "race": "Zombie",
     "atk": 1200,
     "def": 900,
     "level": 3,
-    "race": "Zombie",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Skull Servant",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31339260.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31339260.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31339260.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zombie-warrior-2658",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 1",
+            "set_code": "OP01-EN019",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31339260,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31339260.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31339260.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31339260.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.23",
+            "tcgplayer_price": "19.35",
+            "ebay_price": "5.00",
+            "amazon_price": "42.06",
+            "coolstuffinc_price": "19.99"
+        }
+    ]
 }

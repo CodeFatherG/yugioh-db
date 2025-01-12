@@ -1,18 +1,45 @@
 {
     "id": 81677154,
     "name": "Mementotlan Tatsunootoshigo",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you do not control any face-up monsters, other than \"Memento\" monsters: You can Special Summon this card from your hand. During your Main Phase: You can destroy 1 \"Memento\" monster you control, and send any number of \"Memento\" monster(s) (with different names) from your Deck to the GY whose total Levels are less than or equal to the destroyed monster's original Level. You can only use each effect of \"Mementotlan Tatsunootoshigo\" once per turn.",
+    "race": "Beast",
     "atk": 1350,
     "def": 1600,
     "level": 5,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Memento",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81677154.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81677154.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81677154.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mementotlan-tatsunootoshigo-14048",
+    "card_sets": [
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81677154,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81677154.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81677154.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81677154.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

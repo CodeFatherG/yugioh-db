@@ -1,18 +1,44 @@
 {
     "id": 29157292,
     "name": "Metal Illusionist",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Increase this card's Level by 4 during your opponent's turn only. You can only use each of the following effects of \"Metal Illusionist\" once per turn. If this card is Normal or Special Summoned: You can Set 1 \"Metalmorph\" Trap from your Deck, then if \"Max Metalmorph\" is in your GY, you can draw 1 card. You can declare 1 other Monster Type; this card becomes that Type, until the end of your opponent's turn.",
+    "race": "Spellcaster",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29157292.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29157292.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29157292.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/metal-illusionist-14538",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29157292,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29157292.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29157292.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29157292.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

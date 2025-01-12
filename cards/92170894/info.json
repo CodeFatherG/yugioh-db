@@ -1,18 +1,45 @@
 {
     "id": 92170894,
     "name": "Performapal Longphone Bull",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Special Summoned: You can add 1 \"Performapal\" monster from your Deck to your hand, except a Pendulum Monster. You can only use this effect of \"Performapal Longphone Bull\" once per turn.",
+    "race": "Beast",
     "atk": 1600,
     "def": 1200,
     "level": 4,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Performapal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92170894.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92170894.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92170894.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/performapal-longphone-bull-7684",
+    "card_sets": [
+        {
+            "set_name": "Starter Deck: Yuya",
+            "set_code": "YS16-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92170894,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92170894.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92170894.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92170894.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.85",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

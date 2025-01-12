@@ -1,18 +1,45 @@
 {
     "id": 15240238,
     "name": "Mist Bird Clausolas",
+    "typeline": [
+        "Winged Beast",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn: You can target 1 face-up monster your opponent controls; its ATK becomes 0, and if it does, its effects are negated. These changes last until the end of this turn.",
+    "race": "Winged Beast",
     "atk": 0,
     "def": 2300,
     "level": 3,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15240238.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15240238.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15240238.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mist-bird-clausolas-1306",
+    "card_sets": [
+        {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN043",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 15240238,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15240238.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15240238.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15240238.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.55",
+            "tcgplayer_price": "0.58",
+            "ebay_price": "2.49",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

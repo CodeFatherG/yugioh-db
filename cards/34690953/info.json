@@ -2,17 +2,43 @@
     "id": 34690953,
     "name": "Curse of Aramatir",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "During your Main Phase: You can Special Summon 1 \"Adventurer Token\" (Fairy/EARTH/Level 4/ATK 2000/DEF 2000) to either field, then send 1 card from your hand to the GY. You cannot Special Summon monsters the turn you activate this effect, except \"Adventurer Tokens\" and monsters that mention it. If a monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Adventurer Token\" to either field. You can only use each effect of \"Curse of Aramatir\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Adventurer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34690953.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34690953.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34690953.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/curse-of-aramatir-13381",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN099",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN067",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34690953,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34690953.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34690953.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34690953.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "1.00",
+            "amazon_price": "3.68",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

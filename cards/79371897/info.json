@@ -2,17 +2,42 @@
     "id": 79371897,
     "name": "Reinforcement of the Army's Troops",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "When an attack is declared involving your Warrior monster: You can Special Summon 1 Level 4 or lower Warrior monster from your hand. You can only use this effect of \"Reinforcement of the Army's Troops\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/79371897.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79371897.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79371897.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/reinforcement-of-the-army-s-troops-11956",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN051",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN088",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79371897,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79371897.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79371897.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79371897.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

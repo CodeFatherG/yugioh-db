@@ -2,17 +2,57 @@
     "id": 45898858,
     "name": "Bonding - H2O",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Tribute 2 \"Hydrogeddon\" and 1 \"Oxygeddon\"; Special Summon 1 \"Water Dragon\" from your hand, Deck, or GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Bonding",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45898858.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45898858.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45898858.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bonding-h2o-3908",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN103",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.97"
+        },
+        {
+            "set_name": "Elemental Energy",
+            "set_code": "EEN-EN043",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Duelists",
+            "set_code": "LEDU-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENC14",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45898858,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45898858.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45898858.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45898858.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

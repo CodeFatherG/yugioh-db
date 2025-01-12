@@ -2,17 +2,43 @@
     "id": 71705144,
     "name": "Performapal Recasting",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Reveal any number of \"Performapal\" monsters from your hand and shuffle them into the Deck, then draw cards equal to the number of cards you shuffled into the Deck +1. You can only activate 1 \"Performapal Recasting\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Performapal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71705144.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71705144.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71705144.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/performapal-recasting-6026",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossed Souls",
+            "set_code": "CROS-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71705144,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71705144.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71705144.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71705144.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

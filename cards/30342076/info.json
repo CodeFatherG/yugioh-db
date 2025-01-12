@@ -1,20 +1,49 @@
 {
     "id": 30342076,
     "name": "Link Decoder",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 Level 4 or lower Cyberse monster\r\nIf this card is sent to the GY as material for a Cyberse Link Monster with 2300 or more original ATK: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Link Decoder\" once per turn.",
+    "race": "Cyberse",
     "atk": 300,
     "def": null,
     "level": null,
-    "race": "Cyberse",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
     "linkval": 1,
     "linkmarkers": [
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/30342076.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30342076.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30342076.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/link-decoder-13754",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN013",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30342076,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30342076.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30342076.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30342076.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.54",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

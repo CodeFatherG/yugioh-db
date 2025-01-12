@@ -1,18 +1,66 @@
 {
     "id": 7478431,
     "name": "Naturia Sunflower",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute this card and 1 \"Naturia\" monster to negate the activation of an effect of an Effect Monster your opponent controls, and destroy it.",
+    "race": "Plant",
     "atk": 500,
     "def": 0,
     "level": 2,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Naturia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7478431.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7478431.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7478431.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/naturia-sunflower-639",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN018",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 3",
+            "set_code": "HA03-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN102",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN102",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.04"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7478431,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7478431.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7478431.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7478431.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.46",
+            "ebay_price": "2.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,26 @@
     "id": 38527680,
     "name": "Union Activation",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Send 1 LIGHT Machine Normal or Union monster from your hand or Deck to the GY, and if you do, add 1 LIGHT Machine monster with the same ATK, but a different original name, from your Deck to your hand. If you Special Summon 3 LIGHT Machine monsters at the same time while this card is in your GY: You can banish this card; add 1 monster with 3000 or more ATK from your Deck to your hand, then, immediately after this effect resolves, Normal Summon it. You can only use each effect of \"Union Activation\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38527680.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38527680.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38527680.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/union-activation-14508",
+    "card_images": [
+        {
+            "id": 38527680,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38527680.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38527680.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38527680.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.95",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

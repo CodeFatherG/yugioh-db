@@ -2,17 +2,27 @@
     "id": 2819436,
     "name": "Phantasm Spiral Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Summoned by the effect of \"Pacifis, the Phantasm City\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Wyrm",
-    "attribute": null,
-    "scale": null,
     "archetype": "Phantasm Spiral",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2819436.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2819436.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2819436.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/phantasm-spiral-token-8417",
+    "card_images": [
+        {
+            "id": 2819436,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2819436.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2819436.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2819436.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

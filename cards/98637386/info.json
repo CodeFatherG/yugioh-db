@@ -1,18 +1,45 @@
 {
     "id": 98637386,
     "name": "Goyo Predator",
+    "typeline": [
+        "Warrior",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your side of the field, but any battle damage it inflicts to a player is halved. You can only use this effect of \"Goyo Predator\" once per turn.",
+    "race": "Warrior",
     "atk": 2400,
     "def": 1200,
     "level": 6,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98637386.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98637386.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98637386.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/goyo-predator-8194",
+    "card_sets": [
+        {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN039",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.59"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98637386,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98637386.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98637386.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98637386.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.62",
+            "tcgplayer_price": "0.50",
+            "ebay_price": "2.89",
+            "amazon_price": "3.24",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

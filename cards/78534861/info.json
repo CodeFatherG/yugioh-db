@@ -1,18 +1,59 @@
 {
     "id": 78534861,
     "name": "Scareclaw Kashtira",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Main Phase (Quick Effect): You can Special Summon this card from your hand, and if you do, banish 1 \"Kashtira\" or \"Scareclaw\" card from your hand or GY. You can only use this effect of \"Scareclaw Kashtira\" once per turn. This card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. If your \"Kashtira\" or \"Scareclaw\" monster battles an opponent's monster, that opponent's monster's effects are negated until the end of this turn.",
+    "race": "Psychic",
     "atk": 0,
     "def": 2600,
     "level": 7,
-    "race": "Psychic",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Kashtira",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/78534861.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78534861.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78534861.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/scareclaw-kashtira-13494",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN168",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 21",
+            "set_code": "OP21-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 78534861,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78534861.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78534861.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78534861.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

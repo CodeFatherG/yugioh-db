@@ -2,17 +2,43 @@
     "id": 49551909,
     "name": "Heroic Retribution Sword",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 face-up \"Heroic\" monster you control; equip this card to that target. All Battle Damage you take from battles involving the equipped monster is also inflicted to your opponent. After damage calculation: Destroy any opponent's monster that battles the equipped monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Heroic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49551909.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49551909.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49551909.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heroic-retribution-sword-4222",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 19 (POR)",
+            "set_code": "OP19-PT039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Return of the Duelist",
+            "set_code": "REDU-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49551909,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49551909.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49551909.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49551909.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

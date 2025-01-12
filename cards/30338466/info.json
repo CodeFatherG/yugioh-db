@@ -2,17 +2,43 @@
     "id": 30338466,
     "name": "Bujin Regalia - The Sword",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate 1 of these effects.\r\n\u25cf Target 1 \"Bujin\" monster in your Graveyard; add that target to your hand.\r\n\u25cf Target 1 of your banished \"Bujin\" monsters; send that target to the Graveyard.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Bujin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30338466.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30338466.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30338466.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bujin-regalia-the-sword-2572",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN107",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN074",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30338466,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30338466.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30338466.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30338466.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

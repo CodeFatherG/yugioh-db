@@ -2,17 +2,43 @@
     "id": 34771947,
     "name": "Labyrinth Wall Shadow",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "Monsters cannot attack the turn they are Summoned, except monsters whose original Level is 5 or higher. Once per turn, during your Main Phase: You can place 1 of your \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" that is banished, or in your hand or Deck, face-up in your Spell & Trap Zone as a Continuous Spell. At the start of your opponent's Battle Phase: You can target 1 monster your opponent controls with less than 1600 ATK; destroy it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Labyrinth Wall",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34771947.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34771947.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34771947.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/labyrinth-wall-shadow-13764",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN259",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN007",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34771947,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34771947.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34771947.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34771947.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

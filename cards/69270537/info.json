@@ -2,17 +2,35 @@
     "id": 69270537,
     "name": "Contact Out",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Return 1 \"Neos\" Fusion Monster you control to the Extra Deck. If all the Fusion Material Monsters listed on that Fusion Monster are in your Deck, you can Special Summon them.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/69270537.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69270537.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69270537.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/contact-out-5826",
+    "card_sets": [
+        {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 69270537,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69270537.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69270537.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69270537.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.36",
+            "tcgplayer_price": "0.52",
+            "ebay_price": "1.99",
+            "amazon_price": "2.03",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 31552317,
     "name": "Crystron Inclusion",
     "type": "Spell Card",
-    "desc": "When this card is activated: You can add 1 \"Crystron\" card from your Deck to your hand, except \"Crystron Inclusion\". The first time each of your \"Crystron\" monsters would be destroyed by battle each turn, it is not destroyed. You can banish this card from your GY, then target 1 \"Crystron\" monster in your GY; Special Summon it. You can only use this effect of \"Crystron Inclusion\" once per turn. You can only activate 1 \"Crystron Inclusion\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
+    "desc": "When this card is activated: You can add 1 \"Crystron\" card from your Deck to your hand, except \"Crystron Inclusion\". The first time each \"Crystron\" monster you control would be destroyed by battle each turn, it is not destroyed. You can banish this card from your GY, then target 1 \"Crystron\" monster in your GY; Special Summon it. You can only use this effect of \"Crystron Inclusion\" once per turn. You can only activate 1 \"Crystron Inclusion\" per turn.",
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Crystron",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31552317.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31552317.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31552317.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crystron-inclusion-14720",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN061",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31552317,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31552317.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31552317.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31552317.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 23213239,
     "name": "Danger! Disturbance! Disorder!",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When your \"Danger!\" monster is destroyed by battle with an opponent's monster: You can destroy that opponent's monster. You can banish 3 \"Danger!\" Spells/Traps with different names from your GY; destroy all cards on the field, also you cannot Special Summon monsters for the rest of this turn, except \"Danger!\" monsters. You can only use this effect of \"Danger! Disturbance! Disorder!\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Danger!",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23213239.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23213239.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23213239.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/danger-disturbance-disorder-10572",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN248",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN097",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.81"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 23213239,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23213239.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23213239.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23213239.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "1.50",
+            "amazon_price": "1.42",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

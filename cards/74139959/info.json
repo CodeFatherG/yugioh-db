@@ -1,15 +1,20 @@
 {
     "id": 74139959,
     "name": "Cosmic Tree Irmistil",
+    "typeline": [
+        "Plant",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "3+ Effect Monsters\r\nYou can only control 1 \"Cosmic Tree Irmistil\". Each time your opponent Special Summons a monster(s) face-up during the Main Phase, you gain LP equal to their ATK. Once per turn (Quick Effect): You can pay LP in multiples of 1000 (max. 3000); this card gains that much ATK.",
+    "race": "Plant",
     "atk": 2000,
     "def": null,
     "level": null,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
     "linkval": 5,
     "linkmarkers": [
         "Top-Left",
@@ -18,7 +23,31 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/74139959.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74139959.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74139959.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cosmic-tree-irmistil-14411",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 74139959,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74139959.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74139959.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74139959.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 47132793,
     "name": "Blaze, Supreme Ruler of all Dragons",
+    "typeline": [
+        "Dragon",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 7 monsters\r\nOnce per turn: You can detach 1 material from this card; destroy 2 cards (1 from your hand or field, and 1 your opponent controls). You can banish a total of 2 FIRE and/or Dragon monsters from your hand and/or GY; Special Summon this card from your GY, but return it to the Extra Deck when it leaves the field. You can only use this effect of \"Blaze, Supreme Ruler of all Dragons\" once per turn.",
+    "race": "Dragon",
     "atk": 2800,
     "def": 1800,
     "level": 7,
-    "race": "Dragon",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47132793.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47132793.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47132793.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blaze-supreme-ruler-of-all-dragons-14228",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN045",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN045",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47132793,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47132793.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47132793.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47132793.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "10.66",
+            "tcgplayer_price": "13.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 84491298,
     "name": "Cell Explosion Virus",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only when an opponent's monster with an A-Counter declares an attack. Destroy all Attack Position monsters your opponent controls.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Alien",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84491298.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84491298.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84491298.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cell-explosion-virus-7089",
+    "card_sets": [
+        {
+            "set_name": "Champion Pack: Game Eight",
+            "set_code": "CP08-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN076",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84491298,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84491298.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84491298.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84491298.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "1.75",
+            "amazon_price": "1.22",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,42 @@
     "id": 70569684,
     "name": "High Rate Draw",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Destroy 2 or more monsters you control, and if you do, draw 1 card for every 2 monsters destroyed. During your opponent's Main Phase, if this card is in your GY: You can target 1 monster you control; destroy it, and if you do, Set this card, but banish it when it leaves the field. You can only use this effect of \"High Rate Draw\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70569684.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70569684.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70569684.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/high-rate-draw-11186",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN018",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.32"
+        },
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN137",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70569684,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70569684.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70569684.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70569684.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "1.25",
+            "amazon_price": "1.25",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

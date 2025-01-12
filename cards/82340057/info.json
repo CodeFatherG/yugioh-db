@@ -2,17 +2,27 @@
     "id": 82340057,
     "name": "Ceremonial Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Offering to the Immortals\". This Token cannot be Tributed, except for a Tribute Summon of an \"Earthbound Immortal\" monster, and cannot be used as Synchro Material monsters.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Rock",
-    "attribute": null,
-    "scale": null,
     "archetype": "Earthbound",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/82340057.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82340057.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82340057.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ceremonial-token-6923",
+    "card_images": [
+        {
+            "id": 82340057,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82340057.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82340057.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82340057.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "27.04",
+            "tcgplayer_price": "3.97",
+            "ebay_price": "6.99",
+            "amazon_price": "1.11",
+            "coolstuffinc_price": "7.99"
+        }
+    ]
 }

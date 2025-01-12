@@ -2,17 +2,35 @@
     "id": 53545926,
     "name": "Token Support",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "You can Tribute any number of Tokens, then target 1 monster you control with 0 ATK; it gains ATK equal to the number Tributed x 1000 (until the end of this turn), and if it does, it can attack monsters up to the number Tributed during each Battle Phase this turn. You can only use this effect of \"Token Support\" once per turn. At the end of your opponent's Battle Phase: You can Special Summon \"Support Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) up to the number of Tokens destroyed during this Battle Phase.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53545926.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53545926.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53545926.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/token-support-14657",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN067",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53545926,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53545926.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53545926.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53545926.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

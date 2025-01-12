@@ -1,18 +1,45 @@
 {
     "id": 57541158,
     "name": "Marincess Sleepy Maiden",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 1 \"Marincess\" card you control; Special Summon this card from your hand, and if you do, it gains this effect.\r\n\u25cf While this card is in the Monster Zone, the targeted card cannot be destroyed by your opponent's card effects.\r\nYou can banish this card from your GY, then target 1 \"Marincess\" Link Monster you control; equip it with 1 \"Marincess\" Link Monster from your GY. You can only use each effect of \"Marincess Sleepy Maiden\" once per turn.",
+    "race": "Cyberse",
     "atk": 500,
     "def": 2500,
     "level": 5,
-    "race": "Cyberse",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Marincess",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57541158.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57541158.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57541158.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/marincess-sleepy-maiden-12793",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Duels From the Deep",
+            "set_code": "LED9-EN032",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.93"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57541158,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57541158.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57541158.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57541158.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

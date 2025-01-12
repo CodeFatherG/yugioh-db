@@ -1,21 +1,51 @@
 {
     "id": 72246674,
     "name": "Gladiator Beast Dareios",
+    "typeline": [
+        "Beast-Warrior",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters, including a \"Gladiator Beast\" monster\r\nDuring your opponent's Battle Phase, \"Gladiator Beast\" monsters you control cannot be destroyed by battle or card effects. If this card is Link Summoned: You can Special Summon 1 Level 4 or lower \"Gladiator Beast\" monster from your hand or GY, or if your opponent controls a monster, you can Special Summon 1 \"Gladiator Beast\" monster from your Deck instead, also for the rest of this turn, you can only use \"Gladiator Beast\" monsters as Link Material. You can only use this effect of \"Gladiator Beast Dareios\" once per turn.",
+    "race": "Beast-Warrior",
     "atk": 1700,
     "def": null,
     "level": null,
-    "race": "Beast-Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Gladiator",
     "linkval": 2,
     "linkmarkers": [
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/72246674.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72246674.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72246674.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gladiator-beast-dareios-14790",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN048",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 72246674,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72246674.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72246674.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72246674.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.45",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

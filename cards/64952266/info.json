@@ -2,17 +2,43 @@
     "id": 64952266,
     "name": "Against the Wind",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Select 1 \"Blackwing\" monster in your Graveyard. Take damage equal to the ATK of the selected monster, and add it to your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Blackwing",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64952266.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64952266.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64952266.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/against-the-wind-5476",
+    "card_sets": [
+        {
+            "set_name": "Duelist Pack: Crow",
+            "set_code": "DP11-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Raging Battle",
+            "set_code": "RGBT-EN050",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64952266,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64952266.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64952266.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64952266.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "1.51",
+            "amazon_price": "1.35",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

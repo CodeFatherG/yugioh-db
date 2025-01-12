@@ -2,17 +2,43 @@
     "id": 12292422,
     "name": "Specimen Inspection",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Reveal 1 \"Fossil Fusion\" in your hand; send 1 monster from your hand to the GY, and if you do, declare a Type and a Level, then your opponent looks at their hand and Deck, and sends 1 monster with the declared Type and Level from one of them to the GY (if possible). You can only activate 1 \"Specimen Inspection\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fossil",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12292422.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12292422.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12292422.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/specimen-inspection-11089",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN013",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.58"
+        },
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN136",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12292422,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12292422.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12292422.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12292422.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

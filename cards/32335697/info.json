@@ -2,17 +2,42 @@
     "id": 32335697,
     "name": "Haunted Zombies",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Banish 1 Zombie monster from either GY and Special Summon 2 \"Haunted Tokens\" (Zombie/DARK/ATK 0/DEF 0) with the same Level as the banished monster. If this card is in your GY: You can shuffle 1 of your banished Zombie monsters into the Deck, and if you do, Set this card, but banish it when it leaves the field. You can only use 1 \"Haunted Zombies\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32335697.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32335697.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32335697.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/haunted-zombies-12964",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN106",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.89"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32335697,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32335697.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32335697.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32335697.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.97",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

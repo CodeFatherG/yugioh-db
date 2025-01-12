@@ -1,18 +1,27 @@
 {
     "id": 4341721,
-    "name": "Trick or Treat!",
+    "name": "Hallo-Ween!",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Add 1 \"Hallo, the Spirit of Tricks\" or \"Ween, the Spirit of Treats\" from your Deck or GY to your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4341721.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4341721.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4341721.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trick-or-treat-14795",
+    "card_images": [
+        {
+            "id": 4341721,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4341721.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4341721.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4341721.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

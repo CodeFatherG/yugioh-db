@@ -2,17 +2,49 @@
     "id": 49658464,
     "name": "Digit Jamming",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "During damage calculation, if a monster battles while a monster with 1000 or more ATK is on the field: The ATK of all monsters currently on the field becomes reduced by 1000 for every 1000 ATK they have, also their DEF becomes reduced by 1000 for every 1000 DEF they have. If this card is destroyed: Apply the above ATK/DEF adjustments to all monsters currently on the field, until the end of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49658464.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49658464.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49658464.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/digit-jamming-13244",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN143",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN303",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.87"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49658464,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49658464.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49658464.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49658464.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

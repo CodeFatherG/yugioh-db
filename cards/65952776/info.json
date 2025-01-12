@@ -2,17 +2,50 @@
     "id": 65952776,
     "name": "Dunnell, the Noble Arms of Light",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "Equip only to a monster you control. You can only control 1 \"Dunnell, the Noble Arms of Light\". The equipped monster gains 500 ATK for each monster you control with a different name that mentions \"Adventurer Token\". If this card is sent to the GY: You can target 1 \"Adventurer Token\" you control; equip this card to that target. You can only use this effect of \"Dunnell, the Noble Arms of Light\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
     "archetype": "Adventurer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65952776.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65952776.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65952776.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dunnell-the-noble-arms-of-light-12530",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN269",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN094",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Grand Creators",
+            "set_code": "GRCR-EN030",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.84"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65952776,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65952776.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65952776.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65952776.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

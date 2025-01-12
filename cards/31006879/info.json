@@ -2,17 +2,56 @@
     "id": 31006879,
     "name": "On Your Mark, Get Set, DUEL!",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: If you control no other cards, you can add 1 \"Synchron\" monster from your Deck to your hand. Once per turn, during your Standby Phase: Place 1 Signal Counter on this card. You can remove 2 Signal Counters from your field and send this face-up card to the GY; draw 2 cards, then send 1 card from your hand to the GY. You can only activate 1 \"On Your Mark, Get Set, DUEL!\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31006879.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31006879.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31006879.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/on-your-mark-get-set-duel-12993",
+    "card_sets": [
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN016",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN016",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN276",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN276",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31006879,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31006879.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31006879.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31006879.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "2.00",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

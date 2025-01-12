@@ -2,17 +2,50 @@
     "id": 78665705,
     "name": "Ancient Chant",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Add 1 \"The Winged Dragon of Ra\" from your Deck or GY to your hand, and if you do, you can Tribute Summon 1 monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can banish this card from your GY: If you Tribute Summon \"The Winged Dragon of Ra\" this turn, its original ATK/DEF become the combined original ATK/DEF of the monsters Tributed for its Summon. You can only activate 1 \"Ancient Chant\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Egyptian God",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/78665705.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78665705.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78665705.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-chant-11076",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "34.84"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN069",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN069",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 78665705,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78665705.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78665705.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78665705.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.82",
+            "tcgplayer_price": "5.31",
+            "ebay_price": "6.97",
+            "amazon_price": "49.96",
+            "coolstuffinc_price": "33.99"
+        }
+    ]
 }

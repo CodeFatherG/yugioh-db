@@ -2,17 +2,43 @@
     "id": 41085464,
     "name": "Libromancer Bonded",
     "type": "Spell Card",
+    "humanReadableCardType": "Ritual Spell",
+    "frameType": "spell",
     "desc": "This card can be used to Ritual Summon any \"Libromancer\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If you Ritual Summon \"Libromancer Fireburst\" with this effect, using \"Libromancer Firestarter\" on the field, it cannot be destroyed, or banished, by card effects.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Ritual",
-    "attribute": null,
-    "scale": null,
     "archetype": "Libromancer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/41085464.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41085464.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41085464.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/libromancer-bonded-13261",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN114",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN089",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 41085464,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41085464.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41085464.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41085464.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

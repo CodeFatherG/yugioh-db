@@ -1,18 +1,45 @@
 {
     "id": 34242278,
     "name": "Noble Knight's Shield-Bearer",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can banish 1 LIGHT monster from your GY; draw 1 card. You can banish this card from your hand or field; add 1 Level 6 or lower WIND Beast monster from your Deck to your hand. You can only use 1 \"Noble Knight's Shield-Bearer\" effect per turn, and only once that turn.",
+    "race": "Warrior",
     "atk": 800,
     "def": 1300,
     "level": 4,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Noble Knight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34242278.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34242278.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34242278.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/noble-knight-s-shield-bearer-12278",
+    "card_sets": [
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN017",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.12"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34242278,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34242278.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34242278.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34242278.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.37",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

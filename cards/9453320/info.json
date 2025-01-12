@@ -1,18 +1,46 @@
 {
     "id": 9453320,
     "name": "Abysstrite, the Atlantean Spirit",
+    "typeline": [
+        "Sea Serpent",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 7 WATER monsters\r\nWATER monsters you control gain 300 ATK/DEF for each material attached to this card. You can only use each of the following effects of \"Abysstrite, the Atlantean Spirit\" once per turn. If this card is Xyz Summoned: You can target 1 Level 7 or lower Fish, Sea Serpent, or Aqua monster in your GY; Special Summon it. You can detach 1 material from this card; Set 1 \"Abyss-\" Trap from your Deck.",
+    "race": "Sea Serpent",
     "atk": 2100,
     "def": 2800,
     "level": 7,
-    "race": "Sea Serpent",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Abyss-",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9453320.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9453320.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9453320.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/abysstrite-the-atlantean-spirit-14766",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN046",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9453320,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9453320.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9453320.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9453320.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

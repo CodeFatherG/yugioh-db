@@ -2,17 +2,43 @@
     "id": 60883493,
     "name": "Vanquish Soul Snow Devil",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Reveal up to 1 each of DARK, EARTH, and FIRE monsters in your hand; apply the following effect(s) in sequence, based on the number revealed.\r\n\u25cf 1+: Inflict 400 damage to your opponent, then you can Special Summon 1 \"Vanquish Soul\" monster from your hand.\r\n\u25cf 2+: Inflict 600 damage to your opponent, also this turn, \"Vanquish Soul\" monsters you control cannot be destroyed by card effects.\r\n\u25cf 3: Inflict 800 damage to your opponent, then you can destroy all monsters on the field.\r\nYou can only activate 1 \"Vanquish Soul Snow Devil\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Vanquish Soul",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60883493.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60883493.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60883493.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-snow-devil-14009",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN245",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60883493,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60883493.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60883493.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60883493.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

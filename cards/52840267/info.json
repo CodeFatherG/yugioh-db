@@ -1,18 +1,59 @@
 {
     "id": 52840267,
     "name": "Darklord Ixchel",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can discard this card and 1 \"Darklord\" card; draw 2 cards. (Quick Effect): You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap in your GY; apply that target's effect, then shuffle that target into the Deck. You can only use each effect of \"Darklord Ixchel\" once per turn. You can only Special Summon \"Darklord Ixchel(s)\" once per turn.",
+    "race": "Fairy",
     "atk": 2500,
     "def": 2900,
     "level": 10,
-    "race": "Fairy",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Darklord",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52840267.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52840267.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52840267.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/darklord-ixchel-4500",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Relentless Revenge",
+            "set_code": "BLRR-EN076",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN030",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "12.85"
+        },
+        {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN106",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52840267,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52840267.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52840267.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52840267.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.60",
+            "tcgplayer_price": "0.55",
+            "ebay_price": "3.00",
+            "amazon_price": "4.71",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

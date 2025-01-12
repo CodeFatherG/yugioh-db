@@ -2,17 +2,43 @@
     "id": 653675,
     "name": "Synchro Overtop",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target any number of Level 7 or 8 Dragon Synchro Monsters in your GY; Special Summon them in Defense Position, but their Levels become 1 and their effects are negated, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters. When a Synchro Monster you control is destroyed by battle: You can banish this card from your GY; Special Summon 1 \"Crimson Dragon\" from your Extra Deck. You can only use each effect of \"Synchro Overtop\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Synchro",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/653675.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/653675.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/653675.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/synchro-overtop-13895",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN371",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 653675,
+            "image_url": "https://images.ygoprodeck.com/images/cards/653675.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/653675.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/653675.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "1.50",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

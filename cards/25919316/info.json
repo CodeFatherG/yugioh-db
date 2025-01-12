@@ -1,21 +1,57 @@
 {
     "id": 25919316,
     "name": "Pitknight Filly",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Effect Monsters\r\nIf this card is Special Summoned to a zone a Link Monster points to: You can target 1 monster you control with 1500 or less ATK; this turn, it can make a second attack during each Battle Phase, also if it battles an opponent's monster, any battle damage it inflicts to your opponent is doubled. During the Standby Phase of the next turn after this card was destroyed by battle or card effect and sent to the GY: You can Special Summon this card. You can only use each effect of \"Pitknight Filly\" once per turn.",
+    "race": "Cyberse",
     "atk": 1500,
     "def": null,
     "level": null,
-    "race": "Cyberse",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Left",
         "Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/25919316.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25919316.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25919316.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pitknight-filly-14165",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN249",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN084",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25919316,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25919316.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25919316.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25919316.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

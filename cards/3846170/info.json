@@ -1,18 +1,45 @@
 {
     "id": 3846170,
     "name": "Karakuri Soldier mdl 236 \"Nisamu\"",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Level 4 or lower \"Karakuri\" monster from your Deck in face-up Attack Position.",
+    "race": "Machine",
     "atk": 1400,
     "def": 200,
     "level": 4,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Karakuri",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3846170.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3846170.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3846170.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/karakuri-soldier-mdl-236-nisamu-346",
+    "card_sets": [
+        {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3846170,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3846170.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3846170.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3846170.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.56",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "0.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

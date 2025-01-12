@@ -1,18 +1,59 @@
 {
     "id": 2656842,
     "name": "Beetrooper Scout Buggy",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You cannot Special Summon monsters, except Insect monsters. If this card is Normal or Special Summoned: You can Special Summon 1 \"Beetrooper Scout Buggy\" from your hand, Deck, or GY. You can only use this effect of \"Beetrooper Scout Buggy\" once per turn.",
+    "race": "Insect",
     "atk": 1000,
     "def": 300,
     "level": 3,
-    "race": "Insect",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Beetrooper",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2656842.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2656842.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2656842.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/beetrooper-scout-buggy-12550",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN117",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN000",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty Premiere! promotional card",
+            "set_code": "DAMA-ENSP1",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "21.35"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2656842,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2656842.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2656842.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2656842.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.39",
+            "tcgplayer_price": "0.65",
+            "ebay_price": "0.99",
+            "amazon_price": "0.40",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

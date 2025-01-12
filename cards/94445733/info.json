@@ -2,17 +2,43 @@
     "id": 94445733,
     "name": "Runick Destruction",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Activate 1 of these effects, but skip your next Battle Phase after activation;\r\n\u25cf Target 1 Spell/Trap your opponent controls; destroy it, then banish the top 4 cards of your opponent's Deck.\r\n\u25cf Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\r\nYou can only activate 1 \"Runick Destruction\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Runick",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94445733.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94445733.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94445733.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/runick-destruction-13075",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN243",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN031",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 94445733,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94445733.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94445733.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94445733.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.69",
+            "tcgplayer_price": "0.40",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 35569555,
     "name": "Dogmatikamatrix",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: You can add 1 \"Dogmatika\" Ritual Monster or 1 \"Dogmatika\" Ritual Spell from your Deck to your hand, then if your opponent controls a monster, you can add 1 \"Dogmatika\" card from your Deck to your hand. Once per turn, if you control a \"Dogmatika\" Ritual Monster: You can look at either player's Extra Deck, and send 1 monster from it to the GY. You can only activate 1 \"Dogmatikamatrix\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dogmatika",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35569555.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35569555.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35569555.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dogmatikamatrix-13520",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN055",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35569555,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35569555.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35569555.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35569555.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.59",
+            "tcgplayer_price": "0.93",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

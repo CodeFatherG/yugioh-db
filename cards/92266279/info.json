@@ -2,17 +2,50 @@
     "id": 92266279,
     "name": "Humid Winds",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "You can pay 1000 LP; add 1 \"Aroma\" monster from your Deck to your hand. If your LP is lower than your opponent's: You can gain 500 LP. You can only use each effect of \"Humid Winds\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Aroma",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92266279.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92266279.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92266279.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/humid-winds-7689",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN092",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Clash of Rebellions",
+            "set_code": "CORE-EN074",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 25",
+            "set_code": "OP25-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92266279,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92266279.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92266279.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92266279.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "1.53",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

@@ -2,17 +2,42 @@
     "id": 5990062,
     "name": "Reversal Quiz",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Send all cards in your hand and on your side of the field to the Graveyard. Call the type of card (Spell, Trap, or Monster) on top of your Deck. If you call it right, exchange your current Life Points with your opponent's current ones.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5990062.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5990062.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5990062.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/reversal-quiz-525",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-092",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.79"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5990062,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5990062.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5990062.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5990062.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.64",
+            "tcgplayer_price": "1.48",
+            "ebay_price": "2.69",
+            "amazon_price": "1.65",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

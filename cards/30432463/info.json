@@ -1,18 +1,56 @@
 {
     "id": 30432463,
     "name": "Dimonno Vaalmonica",
+    "typeline": [
+        "Fiend",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nEach time you take effect damage while you control a Fairy Monster Card in your other Pendulum Zone, place 1 Resonance Counter on this card. Monsters your opponent controls lose 100 ATK for each Resonance Counter on your field.\n\n[ Monster Effect ] \nIf this card is in your hand: You can discard 1 other card; take 1 \"Angello Vaalmonica\" from your Deck, and place this card and that card in your Pendulum Zones. During your Main Phase, if this card was Normal or Special Summoned this turn: You can banish 1 \"Vaalmonica\" Normal Spell/Trap from your GY; apply whichever effect on that card includes taking damage. You can only use each effect of \"Dimonno Vaalmonica\" once per turn.",
+    "race": "Fiend",
+    "pend_desc": "Each time you take effect damage while you control a Fairy Monster Card in your other Pendulum Zone, place 1 Resonance Counter on this card. Monsters your opponent controls lose 100 ATK for each Resonance Counter on your field.",
+    "monster_desc": "If this card is in your hand: You can discard 1 other card; take 1 \"Angello Vaalmonica\" from your Deck, and place this card and that card in your Pendulum Zones. During your Main Phase, if this card was Normal or Special Summoned this turn: You can banish 1 \"Vaalmonica\" Normal Spell/Trap from your GY; apply whichever effect on that card includes taking damage. You can only use each effect of \"Dimonno Vaalmonica\" once per turn.",
     "atk": 1200,
     "def": 2100,
     "level": 4,
-    "race": "Fiend",
     "attribute": "LIGHT",
-    "scale": 5,
     "archetype": "Vaalmonica",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30432463.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30432463.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30432463.jpg"
+    "scale": 5,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dimonno-vaalmonica-14102",
+    "card_sets": [
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN032",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN032",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30432463,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30432463.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30432463.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30432463.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

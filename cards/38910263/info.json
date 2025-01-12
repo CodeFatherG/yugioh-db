@@ -1,18 +1,45 @@
 {
     "id": 38910263,
     "name": "Fire King Avatar Rangbali",
+    "typeline": [
+        "Beast-Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If a face-up \"Fire King\" monster(s) you control is destroyed by card effect (except during the Damage Step): You can Special Summon this card from your hand. When a Spell/Trap Card or effect is activated, while this card is on the field (Quick Effect): You can negate the activation, and if you do, destroy 1 other FIRE monster in your hand or face-up field. You can only use each effect of \"Fire King Avatar Rangbali\" once per turn.",
+    "race": "Beast-Warrior",
     "atk": 1600,
     "def": 200,
     "level": 4,
-    "race": "Beast-Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Fire King",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38910263.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38910263.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38910263.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fire-king-avatar-rangbali-14109",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Fire Kings",
+            "set_code": "SR14-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38910263,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38910263.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38910263.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38910263.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

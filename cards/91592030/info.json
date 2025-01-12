@@ -2,17 +2,42 @@
     "id": 91592030,
     "name": "Intimidating Ore - Summonite",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 3 monsters in your GY; you choose 1 of the 3, then your opponent chooses 1 of the following effects, and you apply that effect.\r\n\u25cf Special Summon the chosen monster.\r\n\u25cf Special Summon as many of the other monsters as possible.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91592030.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91592030.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91592030.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/intimidating-ore-summonite-13567",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN334",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN080",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91592030,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91592030.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91592030.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91592030.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

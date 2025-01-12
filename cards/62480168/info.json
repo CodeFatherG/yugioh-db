@@ -2,17 +2,36 @@
     "id": 62480168,
     "name": "Amazoness Hot Spring",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "When this card is activated: You can take 1 \"Amazoness\" monster from your Deck, and either add it to your hand or (if it is a Pendulum Monster) place it in your Pendulum Zone. When you take battle damage while you control an \"Amazoness\" Monster Card: You can gain LP equal to the damage you took. You can only use this effect of \"Amazoness Hot Spring\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Amazoness",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62480168.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62480168.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62480168.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/amazoness-hot-spring-13312",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN039",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 62480168,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62480168.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62480168.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62480168.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.50",
+            "amazon_price": "3.06",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 42141493,
     "name": "Mulcharmy Fuwalos",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control no cards (Quick Effect): You can discard this card; apply these effects this turn.\r\n\u25cf Each time your opponent Special Summons a monster(s) from the Deck and/or Extra Deck, immediately draw 1 card.\r\n\u25cf Once, during this End Phase, if the number of cards in your hand is more than the number of cards your opponent controls +6, you must randomly shuffle cards from your hand into the Deck so the number in your hand equals the number your opponent controls +6.\r\nYou can only activate 1 other \"Mulcharmy\" monster effect, the turn you activate this effect.",
+    "race": "Winged Beast",
     "atk": 100,
     "def": 600,
     "level": 4,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Mulcharmy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42141493.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42141493.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42141493.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mulcharmy-fuwalos-14591",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN024",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN024",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42141493,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42141493.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42141493.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42141493.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "63.69",
+            "tcgplayer_price": "81.76",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

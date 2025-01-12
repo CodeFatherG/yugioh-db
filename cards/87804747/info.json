@@ -1,18 +1,52 @@
 {
     "id": 87804747,
     "name": "Ultimate Great Insect",
+    "typeline": [
+        "Insect",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 Level 8 Insect monster + 1 Level 7 Insect monster\r\nYou can only Special Summon \"Ultimate Great Insect\" once per turn. Must first be either Fusion Summoned, or Special Summoned from your Extra Deck by Tributing 1 Insect monster with 2000 or more DEF equipped with an Equip Card. Cannot be destroyed by battle. Once per turn, during the Battle Phase, if a face-up card is in a Field Zone (Quick Effect): You can destroy all monsters your opponent controls.",
+    "race": "Insect",
     "atk": 3000,
     "def": 2600,
     "level": 9,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/87804747.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87804747.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87804747.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-great-insect-13535",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN174",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN035",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 87804747,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87804747.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87804747.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87804747.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

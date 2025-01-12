@@ -1,18 +1,45 @@
 {
     "id": 7903368,
     "name": "Crystal Skull",
+    "typeline": [
+        "Rock",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Summoned: Take 1000 damage, then change this card to Defense Position. During the End Phase, if you did not take effect damage this turn: You can either add to your hand or Special Summon 1 Rock monster with 0 ATK from your Deck. You can only use this effect of \"Crystal Skull\" once per turn.",
+    "race": "Rock",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Rock",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Ancient Treasure",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7903368.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7903368.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7903368.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crystal-skull-13315",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN022",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7903368,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7903368.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7903368.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7903368.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.59",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

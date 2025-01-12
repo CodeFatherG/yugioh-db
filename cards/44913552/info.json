@@ -1,18 +1,51 @@
 {
     "id": 44913552,
     "name": "Timeater",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card destroys an opponent's monster by battle: Your opponent skips their next Main Phase 1.",
+    "race": "Machine",
     "atk": 1900,
     "def": 1700,
     "level": 6,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44913552.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44913552.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44913552.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/timeater-3828",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 6a",
+            "set_code": "DT06-EN013",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.35"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44913552,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44913552.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44913552.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44913552.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.34",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

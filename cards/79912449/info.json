@@ -2,17 +2,43 @@
     "id": 79912449,
     "name": "Mikanko Reflection Rondo",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "Equip only to an opponent's monster. While you control a \"Mikanko\" monster, take control of that equipped monster. Neither player can activate the effects of the equipped monster while you control it. When this card leaves the field, send the equipped monster to the GY. You can only control 1 \"Mikanko Reflection Rondo\". You can only activate 1 \"Mikanko Reflection Rondo\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
     "archetype": "Mikanko",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/79912449.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79912449.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79912449.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mikanko-reflection-rondo-13440",
+    "card_sets": [
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN033",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN033",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79912449,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79912449.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79912449.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79912449.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

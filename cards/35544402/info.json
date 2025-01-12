@@ -2,17 +2,36 @@
     "id": 35544402,
     "name": "Constellar Twinkle",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Constellar\" monster you control; increase its Level by 1 or 2. If this card is in the Graveyard: You can banish 1 \"Constellar\" monster from your Graveyard; add this card from the Graveyard to your hand. You can only use this effect of \"Constellar Twinkle\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Constellar",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35544402.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35544402.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35544402.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/constellar-twinkle-3012",
+    "card_sets": [
+        {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35544402,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35544402.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35544402.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35544402.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

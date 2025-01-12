@@ -1,18 +1,52 @@
 {
     "id": 83488497,
     "name": "Scareclaw Astra",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Special Summon this card (from your hand) to your Main Monster Zone, adjacent to a \"Scareclaw\" monster you control or in its column. You can only Special Summon \"Scareclaw Astra\" once per turn this way. Your \"Scareclaw\" monsters in the Extra Monster Zone(s) can attack a number of times each Battle Phase, up to the number of Defense Position \"Scareclaw\" monsters you control with different names.",
+    "race": "Beast",
     "atk": 0,
     "def": 1300,
     "level": 3,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Scareclaw",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83488497.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83488497.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83488497.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/scareclaw-astra-13027",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN065",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.85"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83488497,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83488497.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83488497.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83488497.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

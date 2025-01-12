@@ -1,18 +1,51 @@
 {
     "id": 4550066,
     "name": "Rebuildeer",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card destroys an opponent's monster by battle: You can target 1 Cyberse monster with 1500 or less ATK in your GY; Special Summon it.",
+    "race": "Cyberse",
     "atk": 1800,
     "def": 800,
     "level": 4,
-    "race": "Cyberse",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4550066.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4550066.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4550066.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rebuildeer-10178",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN245",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN094",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.87"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4550066,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4550066.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4550066.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4550066.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "1.50",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

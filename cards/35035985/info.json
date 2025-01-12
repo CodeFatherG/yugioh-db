@@ -1,18 +1,46 @@
 {
     "id": 35035985,
     "name": "Embers of the Ashened",
+    "typeline": [
+        "Pyro",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 Pyro monsters\r\nIf this card is Fusion Summoned: You can target 1 Field Spell in your GY; add it to your hand. At the start of the Damage Step, if this card battles an opponent's Pyro monster: You can destroy that opponent's monster, and if it is your turn, this card can make a second attack in a row. You can only use each effect of \"Embers of the Ashened\" once per turn.",
+    "race": "Pyro",
     "atk": 2900,
     "def": 2400,
     "level": 8,
-    "race": "Pyro",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Ashened",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35035985.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35035985.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35035985.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/embers-of-the-ashened-14480",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN093",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35035985,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35035985.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35035985.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35035985.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

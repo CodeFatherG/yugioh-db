@@ -2,17 +2,43 @@
     "id": 88836438,
     "name": "Spright Smashers",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Banish 1 \"Springans\", \"Therion\" or \"Spright\" card from your hand or GY, then activate 1 of these effects;\r\n\u25cf Special Summon 1 \"Springans\" monster from your Deck.\r\n\u25cf Special Summon 1 \"Therion\" monster from your GY.\r\n\u25cf Banish 1 Level/Rank/Link 2 monster you control and 1 card your opponent controls.\r\nYou can only activate 1 \"Spright Smashers\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Spright",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88836438.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88836438.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88836438.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spright-smashers-13173",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN098",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88836438,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88836438.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88836438.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88836438.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

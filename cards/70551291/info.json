@@ -1,18 +1,60 @@
 {
     "id": 70551291,
     "name": "Black Luster Soldier - Legendary Swordsman",
+    "typeline": [
+        "Warrior",
+        "Ritual",
+        "Effect"
+    ],
     "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
     "desc": "You can Ritual Summon this card with \"Chaos Form\" or \"Super Soldier Ritual\". Must be Ritual Summoned. During your Draw Phase, before you draw: You can reveal this card in your hand; give up your normal draw this turn, and if you do, add 1 Ritual Spell from your Deck to your hand. Your opponent cannot activate cards or effects during your Battle Phase. When this attacking card, that was Ritual Summoned using a Normal Monster, destroys an opponent's monster by battle: You can shuffle all cards your opponent controls into the Deck.",
+    "race": "Warrior",
     "atk": 3000,
     "def": 2500,
     "level": 8,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Black Luster Soldier",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70551291.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70551291.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70551291.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/black-luster-soldier-legendary-swordsman-13093",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN129",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN011",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70551291,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70551291.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70551291.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70551291.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.44",
+            "tcgplayer_price": "1.68",
+            "ebay_price": "19.99",
+            "amazon_price": "9.49",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

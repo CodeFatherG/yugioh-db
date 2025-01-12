@@ -1,18 +1,54 @@
 {
     "id": 21368273,
     "name": "Mannadium Trisukta",
+    "typeline": [
+        "Fairy",
+        "Synchro",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Synchro Tuner Monster",
+    "humanReadableCardType": "Synchro Tuner Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can target 1 Level 2 Tuner in your GY; Special Summon it, but negate its effects. You can target any number of Tuners you control; change their Levels to 2, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use each effect of \"Mannadium Trisukta\" once per turn.",
+    "race": "Fairy",
     "atk": 2300,
     "def": 1200,
     "level": 6,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Mannadium",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21368273.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21368273.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21368273.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mannadium-trisukta-13993",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN037",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN037",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21368273,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21368273.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21368273.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21368273.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.86",
+            "tcgplayer_price": "1.02",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "7.99"
+        }
+    ]
 }

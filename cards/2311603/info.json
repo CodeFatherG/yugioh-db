@@ -1,18 +1,65 @@
 {
     "id": 2311603,
     "name": "Overdrive",
+    "typeline": [
+        "Machine",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "An all-terrain armored vehicle armed with a heavy-duty machine gun.",
+    "race": "Machine",
     "atk": 1600,
     "def": 1500,
     "level": 4,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2311603.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2311603.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2311603.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/overdrive-204",
+    "card_sets": [
+        {
+            "set_name": "Demo Deck 2015",
+            "set_code": "DEM2-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.23"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-060",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-E060",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "6.73"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-EN060",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2311603,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2311603.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2311603.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2311603.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "62.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

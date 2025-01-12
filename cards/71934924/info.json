@@ -2,17 +2,36 @@
     "id": 71934924,
     "name": "Swift Samurai Storm!",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Each turn, after the first time a \"Six Samurai\" monster you control battles, all \"Six Samurai\" monsters you control gain 300 ATK until the end of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Six Samurai",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71934924.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71934924.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71934924.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/swift-samurai-storm-6040",
+    "card_sets": [
+        {
+            "set_name": "Strike of Neos",
+            "set_code": "STON-EN058",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71934924,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71934924.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71934924.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71934924.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "1.76",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

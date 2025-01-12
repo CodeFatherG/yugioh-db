@@ -1,18 +1,52 @@
 {
     "id": 77312273,
     "name": "Shell of Chaos",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by card effect. If this face-up card would leave the field, banish it instead. You can only use each of the following effects of \"Shell of Chaos\" once per turn. You can banish 1 LIGHT monster from your hand or GY; Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except LIGHT or DARK Synchro Monsters. If this card is Special Summoned: You can target 1 of your banished \"Core of Chaos\"; Special Summon it.",
+    "race": "Machine",
     "atk": 1600,
     "def": 0,
     "level": 4,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Chaos",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77312273.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77312273.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77312273.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shell-of-chaos-13479",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN308",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 77312273,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77312273.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77312273.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77312273.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

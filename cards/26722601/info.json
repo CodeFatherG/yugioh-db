@@ -1,18 +1,52 @@
 {
     "id": 26722601,
     "name": "Steelswarm Gatekeeper",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If a \"Steelswarm\" monster is Tribute Summoned face-up while this card is face-up on the field, you can Normal Summon or Set 1 monster in addition to your Normal Summon or Set that turn.",
+    "race": "Fiend",
     "atk": 1500,
     "def": 1900,
     "level": 4,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Steelswarm",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/26722601.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26722601.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26722601.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/steelswarm-gatekeeper-2291",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 5b",
+            "set_code": "DT05-EN078",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 5: Steelswarm Invasion",
+            "set_code": "HA05-EN045",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 26722601,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26722601.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26722601.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26722601.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

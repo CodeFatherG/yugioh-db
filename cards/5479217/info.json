@@ -2,17 +2,43 @@
     "id": 5479217,
     "name": "Jurrac Impact",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control a Dinosaur-Type monster with 2500 or more ATK: Destroy all cards on the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Jurrac",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5479217.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5479217.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5479217.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-impact-483",
+    "card_sets": [
+        {
+            "set_name": "Astral Pack Five",
+            "set_code": "AP05-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cosmo Blazer",
+            "set_code": "CBLZ-EN079",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5479217,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5479217.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5479217.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5479217.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

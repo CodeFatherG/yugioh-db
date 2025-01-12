@@ -1,18 +1,45 @@
 {
     "id": 81096431,
     "name": "Drake Shark",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "A \"Shark Drake\" Xyz Monster that has this card as material gains this effect.\r\n\u25cf Once per turn: You can detach 2 materials from this card, then target 1 Spell/Trap on the field; attach it to this card as material.\r\nYou can only use each of the following effects of \"Drake Shark\" once per turn. If this card is added to your hand, except by drawing it: You can Special Summon this card. This card can be treated as 2 materials for the Xyz Summon of a WATER Xyz Monster that requires 3 or more materials.",
+    "race": "Fish",
     "atk": 1400,
     "def": 1050,
     "level": 4,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Shark",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81096431.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81096431.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81096431.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/drake-shark-14526",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81096431,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81096431.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81096431.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81096431.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

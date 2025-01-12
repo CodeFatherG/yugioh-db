@@ -2,17 +2,49 @@
     "id": 17236839,
     "name": "Flash Fusion",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Material. Destroy it during the End Phase.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17236839.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17236839.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17236839.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/flash-fusion-1490",
+    "card_sets": [
+        {
+            "set_name": "Dragons of Legend",
+            "set_code": "DRLG-EN016",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.15"
+        },
+        {
+            "set_name": "Dragons of Legend: The Complete Series",
+            "set_code": "DLCS-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.95"
+        },
+        {
+            "set_name": "Hidden Summoners",
+            "set_code": "HISU-EN057",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.77"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17236839,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17236839.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17236839.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17236839.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

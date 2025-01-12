@@ -1,20 +1,50 @@
 {
     "id": 71791814,
     "name": "Magical Musketeer Max",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 Level 8 or lower \"Magical Musket\" monster\r\nIf this card is Link Summoned: You can activate 1 of these effects;\r\n\u25cf Add \"Magical Musket\" Spells/Traps with different names from your Deck to your hand, up to the number of monsters your opponent controls. \u25cf Special Summon \"Magical Musket\" monsters with different names from your Deck, up to the number of Spells/Traps your opponent controls.\r\nYou can only use this effect of \"Magical Musketeer Max\" once per turn. During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand.",
+    "race": "Fiend",
     "atk": 1000,
     "def": null,
     "level": null,
-    "race": "Fiend",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Magical Musket",
     "linkval": 1,
     "linkmarkers": [
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/71791814.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71791814.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71791814.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/magical-musketeer-max-9916",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Hero's Revenge",
+            "set_code": "BLHR-EN052",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.4"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71791814,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71791814.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71791814.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71791814.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.01",
+            "tcgplayer_price": "3.19",
+            "ebay_price": "1.76",
+            "amazon_price": "2.08",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

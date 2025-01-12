@@ -1,18 +1,44 @@
 {
     "id": 42348802,
     "name": "Trakodon",
+    "typeline": [
+        "Dinosaur",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A tiger-striped dragon that is often seen racing across the wasteland at tremendous speeds.",
+    "race": "Dinosaur",
     "atk": 1300,
     "def": 800,
     "level": 3,
-    "race": "Dinosaur",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42348802.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42348802.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42348802.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trakodon-3612",
+    "card_sets": [
+        {
+            "set_name": "McDonald's Promotional Cards 2",
+            "set_code": "MDP2-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "6.54"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42348802,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42348802.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42348802.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42348802.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.89",
+            "tcgplayer_price": "1.61",
+            "ebay_price": "1.79",
+            "amazon_price": "2.60",
+            "coolstuffinc_price": "4.99"
+        }
+    ]
 }

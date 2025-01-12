@@ -2,17 +2,43 @@
     "id": 458748,
     "name": "The Book of the Law",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Tribute 1 \"Invoked\" monster; Special Summon 1 \"Invoked\" monster from your Extra Deck with a different original Attribute from that monster's. (This Special Summon is treated as a Fusion Summon.) You can only activate 1 \"The Book of the Law\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Invoked",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/458748.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/458748.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/458748.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-book-of-the-law-46",
+    "card_sets": [
+        {
+            "set_name": "Fusion Enforcers",
+            "set_code": "FUEN-EN036",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Genesis Impact",
+            "set_code": "GEIM-EN054",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.26"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 458748,
+            "image_url": "https://images.ygoprodeck.com/images/cards/458748.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/458748.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/458748.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "3.50",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

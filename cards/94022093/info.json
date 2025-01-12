@@ -1,18 +1,51 @@
 {
     "id": 94022093,
     "name": "Behegon",
+    "typeline": [
+        "Aqua",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "With an enormous maw and massive teeth, this monstrosity is one dangerous and strange serpent from the deep.",
+    "race": "Aqua",
     "atk": 1350,
     "def": 1000,
     "level": 4,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94022093.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94022093.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94022093.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/behegon-7823",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 4",
+            "set_code": "OP04-EN015",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Tournament Pack 8",
+            "set_code": "TP8-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.88"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 94022093,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94022093.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94022093.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94022093.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.78",
+            "ebay_price": "1.49",
+            "amazon_price": "1.91",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

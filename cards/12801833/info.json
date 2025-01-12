@@ -2,17 +2,36 @@
     "id": 12801833,
     "name": "Traptrip Garden",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "During your Main Phase, you can Normal Summon 1 \"Traptrix\" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) The first time each Insect or Plant monster you control would be destroyed by battle each turn, it is not destroyed. You can banish 1 monster you control; Special Summon 1 \"Traptrix\" monster from your hand or GY. You can only use this effect of \"Traptrip Garden\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Traptrix",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12801833.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12801833.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12801833.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/traptrip-garden-13596",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN023",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12801833,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12801833.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12801833.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12801833.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.48",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

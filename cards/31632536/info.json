@@ -1,18 +1,46 @@
 {
     "id": 31632536,
     "name": "Laval Dual Slasher",
+    "typeline": [
+        "Warrior",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1 or more non-Tuner FIRE monsters\nThis card gains effects based on the number of \"Laval\" monsters in your Graveyard:\n\u25cf 2+: Once per turn, if this card attacks a Defense Position monster, it can attack once again in a row.\n\u25cf 3+: If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
+    "race": "Warrior",
     "atk": 2400,
     "def": 200,
     "level": 5,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Laval",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31632536.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31632536.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31632536.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/laval-dual-slasher-2687",
+    "card_sets": [
+        {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN092",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31632536,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31632536.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31632536.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31632536.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

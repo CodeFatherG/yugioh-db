@@ -1,18 +1,51 @@
 {
     "id": 29303524,
     "name": "Seleglare the Luminous Lunar Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Normal Summon/Set this card without Tributing, but its original ATK becomes 1500. During the Main Phase (Quick Effect): You can target 1 monster your opponent controls with ATK less than or equal to this card; return this card to the hand, and if you do, take control of that opponent's monster until the End Phase. You can only use this effect of \"Seleglare the Luminous Lunar Dragon\" once per turn.",
+    "race": "Dragon",
     "atk": 2400,
     "def": 1000,
     "level": 6,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29303524.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29303524.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29303524.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/seleglare-the-luminous-lunar-dragon-10789",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN159",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN087",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29303524,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29303524.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29303524.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29303524.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.69",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

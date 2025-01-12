@@ -2,17 +2,43 @@
     "id": 81978611,
     "name": "Xyz Entrust",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Add 1 \"Armored Xyz\" card from your Deck or GY to your hand, then you can make up to 2 face-up monsters you control become all Level 3 or all Level 5, until the end of this turn. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 Xyz Monster Card treated as an Equip Card in your Spell & Trap Zone; Special Summon it. You can only activate 1 \"Xyz Entrust\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Xyz",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81978611.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81978611.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81978611.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/xyz-entrust-14068",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN393",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81978611,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81978611.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81978611.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81978611.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

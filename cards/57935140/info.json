@@ -1,18 +1,36 @@
 {
     "id": 57935140,
     "name": "Tenderness",
+    "typeline": [
+        "Fairy",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''An adorable fairy that celebrates the gift of love.''",
+    "race": "Fairy",
     "atk": 700,
     "def": 1400,
     "level": 3,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Recolored counterpart",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57935140.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57935140.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57935140.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tenderness-4931",
+    "card_images": [
+        {
+            "id": 57935140,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57935140.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57935140.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57935140.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "5.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

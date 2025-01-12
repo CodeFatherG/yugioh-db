@@ -1,18 +1,53 @@
 {
     "id": 94130731,
     "name": "Transcendosaurus Glaciasaurus",
+    "typeline": [
+        "Dinosaur",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nCannot be destroyed by battle. Dinosaur monsters you control that were Special Summoned from the GY cannot be destroyed by your opponent's card effects, also your opponent cannot target them with card effects. If this card is destroyed: You can shuffle 1 Normal Monster from your GY into the Deck, then you can Special Summon this card. You can only use this effect of \"Transcendosaurus Glaciasaurus\" once per turn.",
+    "race": "Dinosaur",
     "atk": 3600,
     "def": 2700,
     "level": 12,
-    "race": "Dinosaur",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Transcendosaurus",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94130731.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94130731.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94130731.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/transcendosaurus-glaciasaurus-13738",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN297",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN004",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 94130731,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94130731.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94130731.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94130731.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

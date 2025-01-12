@@ -1,21 +1,51 @@
 {
     "id": 9024198,
     "name": "D/D/D Abyss King Gilgamesh",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 \"D/D\" monsters\r\nIf this card is Special Summoned: You can activate this effect; you cannot Special Summon monsters for the rest of this turn, except \"D/D\" monsters, also place 2 \"D/D\" Pendulum Monsters with different names from your Deck in your Pendulum Zones, and if you do, take 1000 damage. If this Link Summoned card is destroyed by battle with an opponent's attacking monster, or by an opponent's card effect while in its owner's Monster Zone: You can Special Summon 1 \"D/D\" monster from your Extra Deck or GY in Defense Position. You can only use each effect of \"D/D/D Abyss King Gilgamesh\" once per turn.",
+    "race": "Fiend",
     "atk": 1800,
     "def": null,
     "level": null,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "D/D",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/9024198.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9024198.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9024198.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-d-abyss-king-gilgamesh-9890",
+    "card_sets": [
+        {
+            "set_name": "Duel Overload",
+            "set_code": "DUOV-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.86"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9024198,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9024198.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9024198.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9024198.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.63",
+            "tcgplayer_price": "0.63",
+            "ebay_price": "2.00",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

@@ -1,18 +1,36 @@
 {
     "id": 4145915,
     "name": "Gimmick Puppet Fiendish Knight",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your hand: You can target 1 \"Gimmick Puppet\" monster in your GY or 1 monster in your opponent's GY; Special Summon it to its owner's field in Defense Position, but its effects are negated, then Special Summon this card. If this card is sent to the GY, except from the hand: You can add it to your hand. You can only use each effect of \"Gimmick Puppet Fiendish Knight\" once per turn, also you cannot Special Summon from the Extra Deck the turn you activate either of this card's effects, except \"Gimmick Puppet\" monsters.",
+    "race": "Machine",
     "atk": 1800,
     "def": 500,
     "level": 4,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Gimmick Puppet",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4145915.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4145915.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4145915.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gimmick-puppet-fiendish-knight-14532",
+    "card_images": [
+        {
+            "id": 4145915,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4145915.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4145915.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4145915.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

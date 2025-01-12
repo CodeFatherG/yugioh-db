@@ -1,18 +1,70 @@
 {
     "id": 4538826,
     "name": "Chaos Emperor, the Dragon of Armageddon",
+    "typeline": [
+        "Dragon",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nYou can pay 1000 LP, then target 1 of your banished Dragon monsters; destroy this card, and if you do, add that monster to your hand. You can only use this effect of \"Chaos Emperor, the Dragon of Armageddon\" once per turn.\n\n[ Monster Effect ] \nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Extra Deck) by banishing 1 LIGHT and 1 DARK monster from your GY. You can only Special Summon \"Chaos Emperor, the Dragon of Armageddon\" once per turn this way. Once per turn: You can pay half your LP; send as many cards you control as possible to the GY, except from the Extra Monster Zone, and if you do, send cards your opponent controls to the GY, up to the number of your cards sent to the GY, then, inflict 300 damage to your opponent for each card sent to their GY by this card's effect. If this face-up Special Summoned card leaves the field, return it to the bottom of the Deck.",
+    "race": "Dragon",
+    "pend_desc": "You can pay 1000 LP, then target 1 of your banished Dragon monsters; destroy this card, and if you do, add that monster to your hand. You can only use this effect of \"Chaos Emperor, the Dragon of Armageddon\" once per turn.",
+    "monster_desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Extra Deck) by banishing 1 LIGHT and 1 DARK monster from your GY. You can only Special Summon \"Chaos Emperor, the Dragon of Armageddon\" once per turn this way. Once per turn: You can pay half your LP; send as many cards you control as possible to the GY, except from the Extra Monster Zone, and if you do, send cards your opponent controls to the GY, up to the number of your cards sent to the GY, then, inflict 300 damage to your opponent for each card sent to their GY by this card's effect. If this face-up Special Summoned card leaves the field, return it to the bottom of the Deck.",
     "atk": 3000,
     "def": 2500,
     "level": 8,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": 1,
     "archetype": "Chaos",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4538826.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4538826.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4538826.jpg"
+    "scale": 1,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chaos-emperor-the-dragon-of-armageddon-9498",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN051",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN026",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Yu-Gi-Oh! Championship Series 2018 prize card",
+            "set_code": "YCSW-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3042.55"
+        },
+        {
+            "set_name": "Yu-Gi-Oh! Championship Series 2018 prize card",
+            "set_code": "YCSW-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3042.55"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4538826,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4538826.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4538826.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4538826.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.17",
+            "tcgplayer_price": "1.00",
+            "ebay_price": "18.00",
+            "amazon_price": "9.98",
+            "coolstuffinc_price": "59.99"
+        }
+    ]
 }

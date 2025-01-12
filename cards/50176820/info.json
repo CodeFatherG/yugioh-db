@@ -1,18 +1,35 @@
 {
     "id": 50176820,
     "name": "Mech Bass",
+    "typeline": [
+        "Machine",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''This monster carries a devastating plasma cannon on its powerful back.''",
+    "race": "Machine",
     "atk": 1800,
     "def": 1500,
     "level": 5,
-    "race": "Machine",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50176820.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50176820.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50176820.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mech-bass-4274",
+    "card_images": [
+        {
+            "id": 50176820,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50176820.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50176820.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50176820.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "10.00",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

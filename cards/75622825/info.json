@@ -2,17 +2,26 @@
     "id": 75622825,
     "name": "Tricky Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Tricky Spell 4\". This Token cannot declare an attack.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Spellcaster",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/75622825.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75622825.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75622825.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tricky-token-6367",
+    "card_images": [
+        {
+            "id": 75622825,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75622825.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75622825.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75622825.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

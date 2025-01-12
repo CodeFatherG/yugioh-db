@@ -1,18 +1,46 @@
 {
     "id": 32991027,
     "name": "Georgius, Swordman of the Ice Barrier",
+    "typeline": [
+        "Winged Beast",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "While you control another \"Ice Barrier\" monster, your opponent cannot activate the effects of monsters in the GY. You can only use each of the following effects of \"Georgius, Swordman of the Ice Barrier\" once per turn. If you control an \"Ice Barrier\" monster: You can Special Summon this card from your hand in Defense Position. If this card is Normal or Special Summoned: You can Special Summon 1 Level 5 or lower \"Ice Barrier\" monster from your hand or GY.",
+    "race": "Winged Beast",
     "atk": 2000,
     "def": 1200,
     "level": 6,
-    "race": "Winged Beast",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Ice Barrier",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32991027.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32991027.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32991027.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/georgius-swordman-of-the-ice-barrier-14242",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN006",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 32991027,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32991027.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32991027.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32991027.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.88",
+            "tcgplayer_price": "1.77",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

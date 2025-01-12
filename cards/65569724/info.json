@@ -2,17 +2,26 @@
     "id": 65569724,
     "name": "Ice Doll Mirror",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Send 1 WATER monster from your hand or face-up field to the GY; Special Summon 1 monster from your hand or Deck with the same name as 1 WATER monster you control, also you cannot Special Summon for the rest of this turn after this card resolves, except WATER monsters. You can banish this card from your GY; add 1 \"Ice Doll\" from your Deck or GY to your hand. You can only use each effect of \"Ice Doll Mirror\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65569724.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65569724.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65569724.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ice-doll-mirror-14849",
+    "card_images": [
+        {
+            "id": 65569724,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65569724.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65569724.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65569724.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

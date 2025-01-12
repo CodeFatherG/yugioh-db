@@ -1,20 +1,41 @@
 {
     "id": 42097666,
     "name": "Spirit with Eyes of Blue",
+    "typeline": [
+        "Dragon",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 Level 4 or lower Dragon or Spellcaster monster\r\nYou cannot Special Summon, except Dragon monsters. You can only use each of the following effects of \"Spirit with Eyes of Blue\" once per turn. If this card is Link Summoned: You can take 1 \"Mausoleum of White\" from your Deck, and either add it to your hand or send it to the GY. You can Tribute this card; Special Summon 1 \"Blue-Eyes\" monster from your hand or GY, but if you Special Summon an Effect Monster from the GY, it cannot attack, also its effects are negated.",
+    "race": "Dragon",
     "atk": 300,
     "def": null,
     "level": null,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "with Eyes of Blue",
     "linkval": 1,
     "linkmarkers": [
         "Bottom-Left"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/42097666.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42097666.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42097666.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spirit-with-eyes-of-blue-14673",
+    "card_images": [
+        {
+            "id": 42097666,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42097666.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42097666.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42097666.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

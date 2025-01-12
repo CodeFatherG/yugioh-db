@@ -1,18 +1,51 @@
 {
     "id": 78783557,
     "name": "Veidos the Eruption Dragon of Extinction",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Main Phase, if this card is in your hand (Quick Effect): You can target 1 card in a Field Zone; Special Summon this card to your opponent's field, and if you do, destroy that card, then you can add to your hand or Set 1 \"Ashened\" Continuous Trap from your Deck. If this card is sent from your opponent's field to your GY: You can destroy all monsters on the field. You can only use each effect of \"Veidos the Eruption Dragon of Extinction\" once per turn.",
+    "race": "Pyro",
     "atk": 2800,
     "def": 1500,
     "level": 9,
-    "race": "Pyro",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/78783557.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78783557.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78783557.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/veidos-the-eruption-dragon-of-extinction-14378",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN090",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN090",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 78783557,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78783557.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78783557.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78783557.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "11.63",
+            "tcgplayer_price": "10.50",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

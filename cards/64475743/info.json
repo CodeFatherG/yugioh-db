@@ -1,18 +1,52 @@
 {
     "id": 64475743,
     "name": "Kittytail, Mystical Beast of the Forest",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can target 1 Beast, Beast-Warrior, Winged Beast, Insect, or Plant monster in your GY; send 1 monster from your Deck to the GY with the same original Type as that monster. If this card in its owner's possession is destroyed by an opponent's card: You can add 1 Beast, Beast-Warrior, Winged Beast, Insect, or Plant monster from your Deck to your hand, except \"Kittytail, Mystical Beast of the Forest\". You can only use each effect of \"Kittytail, Mystical Beast of the Forest\" once per turn.",
+    "race": "Beast",
     "atk": 200,
     "def": 200,
     "level": 2,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Mystical Beast of the Forest",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64475743.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64475743.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64475743.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kittytail-mystical-beast-of-the-forest-13471",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN205",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN096",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64475743,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64475743.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64475743.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64475743.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

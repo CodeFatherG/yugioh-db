@@ -2,17 +2,42 @@
     "id": 300302010,
     "name": "I'm Just Gonna Attack!",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Joey Wheeler",
+    "frameType": "skill",
     "desc": "Once per Duel, during your Main Phase, you can make 1 monster you control gain 100 ATK until the end of this turn, also, during the Battle Phase this turn, negate your opponent's first Trap Card or effect that resolves, and Set it instead of sending it to the GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Joey Wheeler",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302010.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302010.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302010.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/i-m-just-gonna-attack-11780",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel Tournament Pack 6",
+            "set_code": "STP6-ENS04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-ENS12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.33"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302010,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302010.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302010.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302010.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

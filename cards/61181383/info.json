@@ -2,17 +2,43 @@
     "id": 61181383,
     "name": "Battery Charger",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Pay 500 Life Points. Special Summon 1 \"Batteryman\" monster from your Graveyard.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Batteryman",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/61181383.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61181383.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61181383.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/battery-charger-5189",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN221",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Lost Millennium",
+            "set_code": "TLM-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61181383,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61181383.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61181383.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61181383.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.32",
+            "ebay_price": "1.49",
+            "amazon_price": "1.59",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 95192919,
     "name": "Simorgh, Lord of the Storm",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Your opponent cannot target this Tribute Summoned card with Spell/Trap Cards or effects. You can only use each of the following effects of \"Simorgh, Lord of the Storm\" once per turn.\r\n\u25cf When a Spell/Trap Card or effect is activated (Quick Effect): You can Tribute 1 WIND Winged Beast monster, then target 1 card your opponent controls; shuffle it into the Deck.\r\n\u25cf When a Winged Beast monster you control is destroyed by battle while this card is in your GY: You can add this card to your hand.",
+    "race": "Winged Beast",
     "atk": 2900,
     "def": 2000,
     "level": 8,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Simorgh",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/95192919.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95192919.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95192919.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/simorgh-lord-of-the-storm-10253",
+    "card_sets": [
+        {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 95192919,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95192919.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95192919.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95192919.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 22398665,
     "name": "Meteonis Drytron",
     "type": "Spell Card",
+    "humanReadableCardType": "Ritual Spell",
+    "frameType": "spell",
     "desc": "This card can be used to Ritual Summon any Ritual Monster from your hand or GY. You must also Tribute Machine monsters from your hand or field whose total ATK equal or exceed the ATK of the Ritual Monster you Ritual Summon. If this card is in your GY: You can target 1 \"Drytron\" monster you control; it loses exactly 1000 ATK until the end of your opponent's turn, and if it does, add this card to your hand. You can only use this effect of \"Meteonis Drytron\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Ritual",
-    "attribute": null,
-    "scale": null,
     "archetype": "Drytron",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/22398665.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22398665.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22398665.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/meteonis-drytron-11340",
+    "card_sets": [
+        {
+            "set_name": "Genesis Impact",
+            "set_code": "GEIM-EN032",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "4.72"
+        },
+        {
+            "set_name": "Genesis Impact",
+            "set_code": "GEIM-EN032",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22398665,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22398665.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22398665.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22398665.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "9.20",
+            "tcgplayer_price": "5.75",
+            "ebay_price": "12.95",
+            "amazon_price": "1.20",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

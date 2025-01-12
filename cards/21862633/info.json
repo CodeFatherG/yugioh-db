@@ -2,17 +2,35 @@
     "id": 21862633,
     "name": "Piercing the Darkness",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "If you Normal or Special Summon a non-Token Normal Monster(s) (except during the Damage Step): You can draw 1 card. When an attack is declared involving an opponent's monster and a monster you control that is a Level 5 or higher Normal Monster, or was Ritual Summoned using a Normal Monster, or was Fusion, Synchro, or Xyz Summoned using a Normal Monster as material: You can make that monster you control gain ATK equal to that opponent's monster's ATK, until the end of this turn. You can only use each effect of \"Piercing the Darkness\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21862633.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21862633.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21862633.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/piercing-the-darkness-12555",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN257",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.69"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21862633,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21862633.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21862633.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21862633.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.51",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "1.28",
+            "amazon_price": "1.04",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

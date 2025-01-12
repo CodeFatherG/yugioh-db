@@ -2,17 +2,36 @@
     "id": 54631665,
     "name": "SPYRAL Resort",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "Your opponent cannot target other \"SPYRAL\" cards you control with card effects. Once per turn: You can add 1 \"SPYRAL\" monster from your Deck to your hand. Once per turn, during your End Phase, shuffle 1 monster from your Graveyard into the Deck or destroy this card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "SPYRAL",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54631665.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54631665.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54631665.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spyral-resort-4656",
+    "card_sets": [
+        {
+            "set_name": "Invasion: Vengeance",
+            "set_code": "INOV-EN089",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54631665,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54631665.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54631665.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54631665.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.46",
+            "tcgplayer_price": "0.53",
+            "ebay_price": "2.49",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

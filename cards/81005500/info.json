@@ -1,18 +1,44 @@
 {
     "id": 81005500,
     "name": "Ween, the Spirit of Treats",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
     "type": "Effect Monster",
-    "desc": "If this card is Normal or Special Summoned: You can activate this effect; if you still control this face-up card, your opponent chooses 1 of these effects for you to apply.\r\n\u25cf This card gains 800 ATK for each Zombie monster currently in your GY.\r\n\u25cf Inflict 500 damage to your opponent for each Zombie monster in your GY.\r\nIf this card is destroyed by battle or effect: You can Special Summon 1 monster from your opponent's GY to your field.\r\nYou can only use each effect of \"Ween, the Spirit of Treats\" once per turn.",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can activate this effect; if you still control this face-up card, your opponent chooses 1 of these effects for you to apply.\r\n\u25cf This card gains 800 ATK for each Zombie monster currently in your GY.\r\n\u25cf Inflict 500 damage to your opponent for each Zombie monster in your GY.\r\nIf this card is destroyed by battle or card effect: You can Special Summon 1 monster from your opponent's GY to your field.\r\nYou can only use each effect of \"Ween, the Spirit of Treats\" once per turn.",
+    "race": "Zombie",
     "atk": 0,
     "def": 0,
     "level": 4,
-    "race": "Zombie",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81005500.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81005500.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81005500.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ween-the-spirit-of-treats-14796",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81005500,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81005500.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81005500.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81005500.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

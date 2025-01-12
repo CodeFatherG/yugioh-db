@@ -1,18 +1,52 @@
 {
     "id": 73478096,
     "name": "Photon Emperor",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent to the GY, except from the field, while another \"Photon\" or \"Galaxy\" monster is on your field or in your GY: You can Special Summon this card in Defense Position. You can only use this effect of \"Photon Emperor\" once per turn. After you Normal or Special Summon this card, you can Normal Summon 1 LIGHT monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+    "race": "Warrior",
     "atk": 2800,
     "def": 1000,
     "level": 8,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Photon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73478096.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73478096.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73478096.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/photon-emperor-13458",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN165",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73478096,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73478096.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73478096.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73478096.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

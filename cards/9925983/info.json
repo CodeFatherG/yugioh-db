@@ -2,17 +2,27 @@
     "id": 9925983,
     "name": "Blackwing - Black Crest Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Black Wing Revenge\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Winged Beast",
-    "attribute": null,
-    "scale": null,
     "archetype": "Blackwing",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9925983.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9925983.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9925983.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blackwing-black-crest-token-839",
+    "card_images": [
+        {
+            "id": 9925983,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9925983.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9925983.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9925983.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "4.64",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

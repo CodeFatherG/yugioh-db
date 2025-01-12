@@ -2,17 +2,43 @@
     "id": 19271881,
     "name": "Brightest, Blazing, Branded King",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Choose 1 Fusion Monster you control that mentions \"Fallen of Albaz\" as material, and negate the effects of all other face-up cards currently on the field until the end of this turn. During the End Phase, if a Fusion Monster(s) was sent to your GY this turn: You can add this card from the GY to your hand. You can only use 1 \"Brightest, Blazing, Branded King\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Branded",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19271881.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19271881.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19271881.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/brightest-blazing-branded-king-13697",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN350",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19271881,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19271881.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19271881.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19271881.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

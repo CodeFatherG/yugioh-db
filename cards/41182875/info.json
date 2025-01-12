@@ -2,17 +2,42 @@
     "id": 41182875,
     "name": "Javelin Beetle Pact",
     "type": "Spell Card",
+    "humanReadableCardType": "Ritual Spell",
+    "frameType": "spell",
     "desc": "This card is used to Ritual Summon \"Javelin Beetle\". You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Ritual",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/41182875.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41182875.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41182875.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/javelin-beetle-pact-3512",
+    "card_sets": [
+        {
+            "set_name": "Premium Pack (TCG)",
+            "set_code": "PP01-EN012",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "4.73"
+        },
+        {
+            "set_name": "Premium Pack (TCG)",
+            "set_code": "PP01-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.55"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 41182875,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41182875.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41182875.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41182875.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "3.95",
+            "amazon_price": "5.74",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,42 @@
     "id": 90557975,
     "name": "Updraft",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Remove all Fog Counters from the field. Inflict 300 damage to your opponent for each Fog Counter you removed.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/90557975.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90557975.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90557975.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/updraft-7564",
+    "card_sets": [
+        {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN067",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN067",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 90557975,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90557975.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90557975.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90557975.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.45",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "0.99",
+            "amazon_price": "1.08",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

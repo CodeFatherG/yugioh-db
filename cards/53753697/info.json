@@ -1,18 +1,44 @@
 {
     "id": 53753697,
     "name": "Zoa the Fiendish Beast",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If your opponent controls a monster, you can Normal Summon this card without Tributing. You can only use each of the following effects of \"Zoa the Fiendish Beast\" once per turn. If this card is in your hand: You can Special Summon this card in Defense Position, then if \"Max Metalmorph\" is not in your GY, your opponent can Special Summon 1 monster from their hand. During your Main Phase: You can Set 1 \"Metalmorph\" Trap from your Deck.",
+    "race": "Fiend",
     "atk": 2600,
     "def": 1900,
     "level": 7,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53753697.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53753697.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53753697.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zoa-the-fiendish-beast-14531",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53753697,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53753697.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53753697.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53753697.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

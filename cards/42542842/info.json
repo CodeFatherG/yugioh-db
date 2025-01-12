@@ -1,18 +1,53 @@
 {
     "id": 42542842,
     "name": "Dakki, the Graceful Mayakashi",
+    "typeline": [
+        "Zombie",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "You can only control 1 \"Dakki, the Graceful Mayakashi\". When a \"Mayakashi\" monster(s) is Special Summoned to your field from the Extra Deck, while this card is in the GY (except during the Damage Step): You can Special Summon this card. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except \"Mayakashi\" monsters.",
+    "race": "Zombie",
     "atk": 1000,
     "def": 0,
     "level": 2,
-    "race": "Zombie",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Mayakashi",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42542842.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42542842.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42542842.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dakki-the-graceful-mayakashi-9716",
+    "card_sets": [
+        {
+            "set_name": "Hidden Summoners",
+            "set_code": "HISU-EN027",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42542842,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42542842.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42542842.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42542842.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "3.16",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

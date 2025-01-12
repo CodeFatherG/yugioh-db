@@ -1,18 +1,51 @@
 {
     "id": 70493141,
     "name": "The Ascended of Thunder",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Special Summon this card (from your hand) by paying 3000 LP. If this card Summoned this way in its owner's control is destroyed by an opponent's card (by battle or card effect): Gain 5000 LP.",
+    "race": "Thunder",
     "atk": 2700,
     "def": 2400,
     "level": 7,
-    "race": "Thunder",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70493141.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70493141.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70493141.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-ascended-of-thunder-8802",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN060",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN036",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70493141,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70493141.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70493141.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70493141.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.53",
+            "tcgplayer_price": "0.46",
+            "ebay_price": "2.68",
+            "amazon_price": "2.89",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

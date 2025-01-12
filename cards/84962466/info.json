@@ -2,17 +2,35 @@
     "id": 84962466,
     "name": "Beast Rising",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Once per turn, you can remove from play 1 face-up Beast-Type or Beast-Warrior-Type monster you control to select 1 other face-up Beast-Type or Beast-Warrior-Type monster you control. The selected monster gains the original ATK of the monster removed from play for this effect.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84962466.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84962466.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84962466.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/beast-rising-7125",
+    "card_sets": [
+        {
+            "set_name": "Duelist Revolution",
+            "set_code": "DREV-EN074",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84962466,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84962466.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84962466.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84962466.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 4599182,
     "name": "This Creepy Little Punk",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "(This card is always treated as an \"Infernity\" card.)\r\nSpecial Summon 1 of your \"Infernity\" monsters that is banished, or in your hand or GY. If a face-up \"Infernity\" monster(s) you control is destroyed by battle, or leaves the field because of an opponent's card effect, while this card is in your GY: You can Set this card. You can only use each effect of \"This Creepy Little Punk\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Infernity",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4599182.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4599182.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4599182.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/this-creepy-little-punk-13040",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN262",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN018",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4599182,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4599182.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4599182.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4599182.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "1.94",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

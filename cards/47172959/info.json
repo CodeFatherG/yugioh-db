@@ -1,18 +1,53 @@
 {
     "id": 47172959,
     "name": "Yubel - The Loving Defender Forever",
+    "typeline": [
+        "Fiend",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 \"Yubel\" monster + 1+ Effect Monsters on the field\r\nIf this card is Fusion Summoned: You can inflict 500 damage to your opponent for each material used. You can only use this effect of \"Yubel - The Loving Defender Forever\" once per turn. Cannot be destroyed by battle or card effects, also you take no battle damage from battles involving this card. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, and if you do, banish that monster.",
+    "race": "Fiend",
     "atk": 0,
     "def": 0,
     "level": 12,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Yubel",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47172959.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47172959.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47172959.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/yubel-the-loving-defender-forever-14119",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN038",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN038",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47172959,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47172959.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47172959.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47172959.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "9.28",
+            "tcgplayer_price": "10.74",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

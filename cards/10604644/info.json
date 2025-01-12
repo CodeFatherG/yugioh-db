@@ -1,18 +1,59 @@
 {
     "id": 10604644,
     "name": "Therion \"King\" Regulus",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can only use each of the following effects of \"Therion \"King\" Regulus\" once per turn.\r\n\u25cf You can target 1 \"Therion\" monster or 1 Machine monster in your GY; Special Summon this card from your hand, and if you do, equip that monster to this card.\r\n\u25cf When your opponent activates a card or effect (Quick Effect): You can send 1 \"Therion\" Monster Card from your hand or face-up field to the GY; negate that effect.\r\nA \"Therion\" monster equipped with this card gains 700 ATK, also it can activate the 2nd effect listed above as if it were \"Therion \"King\" Regulus\".",
+    "race": "Machine",
     "atk": 2800,
     "def": 1600,
     "level": 8,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Therion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/10604644.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10604644.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10604644.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/therion-king-regulus-13016",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN063",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN007",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN007",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 10604644,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10604644.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10604644.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10604644.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.74",
+            "tcgplayer_price": "1.33",
+            "ebay_price": "48.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "139.99"
+        }
+    ]
 }

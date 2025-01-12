@@ -1,18 +1,59 @@
 {
     "id": 36378213,
     "name": "Ambulanceroid",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When a \"roid\" monster is added from your Graveyard to your hand, you can Special Summon that monster.",
+    "race": "Machine",
     "atk": 300,
     "def": 1200,
     "level": 3,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Roid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/36378213.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36378213.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36378213.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ambulanceroid-3076",
+    "card_sets": [
+        {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENB08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Starter Deck: Syrus Truesdale",
+            "set_code": "YSDS-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.4"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 36378213,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36378213.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36378213.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36378213.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

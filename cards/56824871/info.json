@@ -1,18 +1,59 @@
 {
     "id": 56824871,
     "name": "Infernoble Knight - Renaud",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a FIRE Warrior monster, you can Special Summon this card (from your hand). If Summoned this way, treat this card as a Tuner. You can only Special Summon \"Infernoble Knight - Renaud\" once per turn this way. If this card is Special Summoned: You can target 1 of your FIRE Warrior monsters, or 1 of your Equip Spells, that is banished or in your GY, except \"Infernoble Knight - Renaud\"; add it to your hand. You can only use this effect of \"Infernoble Knight - Renaud\" once per turn.",
+    "race": "Warrior",
     "atk": 500,
     "def": 500,
     "level": 1,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Noble Knight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56824871.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56824871.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56824871.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/infernoble-knight-renaud-10744",
+    "card_sets": [
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN038",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN038",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Toon Chaos",
+            "set_code": "TOCH-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "21.39"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56824871,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56824871.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56824871.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56824871.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.77",
+            "tcgplayer_price": "0.51",
+            "ebay_price": "2.99",
+            "amazon_price": "39.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

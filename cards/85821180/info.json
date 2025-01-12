@@ -2,17 +2,35 @@
     "id": 85821180,
     "name": "Tuner's High",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Discard 1 monster; Special Summon from your Deck, 1 Tuner monster with the same original Type and Attribute, but 1 Level higher than the discarded monster had in hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85821180.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85821180.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85821180.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tuner-s-high-7193",
+    "card_sets": [
+        {
+            "set_name": "Shining Victories",
+            "set_code": "SHVI-EN067",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 85821180,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85821180.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85821180.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85821180.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "1.25",
+            "amazon_price": "3.01",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

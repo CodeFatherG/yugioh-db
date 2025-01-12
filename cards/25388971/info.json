@@ -2,17 +2,36 @@
     "id": 25388971,
     "name": "Sangen Kaiho",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "During the Main Phase, if all monsters you control are FIRE Dragon monsters (min. 1) and your opponent controls more monsters than you do: End the Main Phase. If 3 or more attacks have been declared this turn: You can banish this card from your GY; draw 1 card, then you can Special Summon any number of \"Tenpai Dragon\" monsters from your hand. You can only use each effect of \"Sangen Kaiho\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Sangen",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25388971.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25388971.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25388971.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sangen-kaiho-14443",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25388971,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25388971.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25388971.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25388971.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

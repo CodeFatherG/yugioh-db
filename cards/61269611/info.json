@@ -1,18 +1,52 @@
 {
     "id": 61269611,
     "name": "Dinowrestler Iguanodraka",
+    "typeline": [
+        "Dinosaur",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can discard 1 other Dinosaur monster; Special Summon this card from your hand. You can Tribute 1 Dinosaur monster, then target 1 \"Dinowrestler\" monster in your GY with a different original name from the Tributed monster; Special Summon it in Defense Position. You can only use each effect of \"Dinowrestler Iguanodraka\" once per turn.",
+    "race": "Dinosaur",
     "atk": 2000,
     "def": 0,
     "level": 6,
-    "race": "Dinosaur",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Dinowrestler",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/61269611.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61269611.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61269611.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dinowrestler-iguanodraka-10512",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN182",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN094",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61269611,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61269611.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61269611.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61269611.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

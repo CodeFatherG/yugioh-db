@@ -1,18 +1,52 @@
 {
     "id": 29280200,
     "name": "Vanquish Soul Dr. Mad Love",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add 1 \"Vanquish Soul\" Spell/Trap from your Deck to your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\r\n\u25cf DARK: 1 face-up monster your opponent controls loses 500 ATK/DEF.\r\n\u25cf DARK & EARTH: Return the 1 monster with the lowest DEF on the field to the hand (your choice, if tied).\r\nYou can only use each effect of \"Vanquish Soul Dr. Mad Love\" once per turn, and cannot activate more than 1 in the same Chain.",
+    "race": "Fiend",
     "atk": 1200,
     "def": 2000,
     "level": 4,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Vanquish Soul",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29280200.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29280200.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29280200.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-dr-mad-love-13809",
+    "card_sets": [
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN019",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN019",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29280200,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29280200.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29280200.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29280200.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "10.80",
+            "tcgplayer_price": "10.43",
+            "ebay_price": "24.88",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "19.99"
+        }
+    ]
 }

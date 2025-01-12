@@ -1,18 +1,51 @@
 {
     "id": 34198387,
     "name": "Meowseclick",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If a Field Spell Card is activated: You can Special Summon this card from your hand, then, if face-up cards are in both Field Zones, this card cannot be destroyed by battle or card effects this turn. You can only use this effect of \"Meowseclick\" once per turn. During your turn, the effects of the face-up card in your opponent's Field Zone are negated. During your opponent's turn, the effects of the face-up card in your Field Zone are negated.",
+    "race": "Cyberse",
     "atk": 1400,
     "def": 1100,
     "level": 4,
-    "race": "Cyberse",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34198387.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34198387.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34198387.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/meowseclick-12514",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN207",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN034",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34198387,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34198387.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34198387.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34198387.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.35",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

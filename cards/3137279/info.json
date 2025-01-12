@@ -1,18 +1,45 @@
 {
     "id": 3137279,
     "name": "Ixeep, Omen of the Ghoti",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If a Fish monster(s) is banished (except during the Damage Step): You can Special Summon this card from your hand. During the Standby Phase of the next turn after this card was banished: You can target 1 of your \"Ghoti\" Traps that is banished or in your GY; Set that target. You can only use each effect of \"Ixeep, Omen of the Ghoti\" once per turn.",
+    "race": "Fish",
     "atk": 1500,
     "def": 0,
     "level": 4,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Ghoti",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3137279.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3137279.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3137279.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ixeep-omen-of-the-ghoti-13575",
+    "card_sets": [
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN086",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3137279,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3137279.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3137279.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3137279.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

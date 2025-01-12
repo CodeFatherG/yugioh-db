@@ -1,14 +1,20 @@
 {
     "id": 84521924,
     "name": "GranSolfachord Coolia",
+    "typeline": [
+        "Fairy",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ monsters, including a Pendulum Monster\r\nGains 100 ATK for each face-up Pendulum Monster in your Extra Deck. The activated effects of Pendulum Monsters this card points to cannot be negated. Once per turn, when your opponent activates a card or effect (Quick Effect): You can Special Summon 1 \"Solfachord\" card with an odd Pendulum Scale from your Pendulum Zone to your zone this card points to, and if you do, negate the activation, then you can add 1 \"Solfachord\" Pendulum Monster with an even Pendulum Scale from your Deck to your face-up Extra Deck.",
+    "race": "Fairy",
     "atk": 2700,
     "def": null,
     "level": null,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "GranSolfachord",
     "linkval": 3,
     "linkmarkers": [
@@ -16,7 +22,31 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/84521924.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84521924.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84521924.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gransolfachord-coolia-13663",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN049",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84521924,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84521924.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84521924.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84521924.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

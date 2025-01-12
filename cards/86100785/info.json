@@ -1,18 +1,44 @@
 {
     "id": 86100785,
     "name": "Zone Eater",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "A monster attacked by this card will be destroyed during the End Phase of the 5th turn after the attack.",
+    "race": "Aqua",
     "atk": 250,
     "def": 200,
     "level": 1,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/86100785.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86100785.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86100785.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zone-eater-7212",
+    "card_sets": [
+        {
+            "set_name": "McDonald's Promotional Cards 2",
+            "set_code": "MDP2-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.16"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 86100785,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86100785.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86100785.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86100785.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "7.21",
+            "tcgplayer_price": "0.81",
+            "ebay_price": "3.00",
+            "amazon_price": "2.73",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

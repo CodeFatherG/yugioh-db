@@ -2,17 +2,43 @@
     "id": 29863101,
     "name": "Assault Teleport",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Return 1 \"/Assault Mode\" monster from your hand to the Deck. Draw 2 cards.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Assault Mode",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29863101.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29863101.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29863101.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/assault-teleport-2530",
+    "card_sets": [
+        {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 10 (POR)",
+            "set_code": "OP10-PT035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29863101,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29863101.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29863101.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29863101.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

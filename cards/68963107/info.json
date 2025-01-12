@@ -1,18 +1,35 @@
 {
     "id": 68963107,
     "name": "Boo Koo",
+    "typeline": [
+        "Spellcaster",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A book-like wizard with a wealth of magic written inside.''",
+    "race": "Spellcaster",
     "atk": 650,
     "def": 500,
     "level": 2,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68963107.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68963107.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68963107.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/boo-koo-5795",
+    "card_images": [
+        {
+            "id": 68963107,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68963107.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68963107.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68963107.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "10.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

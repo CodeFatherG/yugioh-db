@@ -2,17 +2,36 @@
     "id": 58882608,
     "name": "Breath of the Tistina",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "During your Main Phase, you can Normal Summon 1 \"Tistina\" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can target 1 face-up monster you control, or if you control a LIGHT \"Tistina\" monster, you can target 1 face-up monster on the field instead; change that monster to face-down Defense Position, then add 1 \"Tistina\" card from your Deck to your hand, except \"Breath of the Tistina\". You can only use this effect of \"Breath of the Tistina\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Tistina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58882608.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58882608.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58882608.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/breath-of-the-tistina-14080",
+    "card_sets": [
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN091",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58882608,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58882608.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58882608.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58882608.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.02",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

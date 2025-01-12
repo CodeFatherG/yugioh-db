@@ -2,17 +2,43 @@
     "id": 13611090,
     "name": "Majespecter Sonics",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Majespecter\" monster you control; until the end of this turn, its ATK and DEF become double its current ATK and DEF, also any battle damage it inflicts to your opponent is halved.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Majespecter",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/13611090.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13611090.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13611090.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/majespecter-sonics-1168",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN219",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Breakers of Shadow",
+            "set_code": "BOSH-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 13611090,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13611090.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13611090.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13611090.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

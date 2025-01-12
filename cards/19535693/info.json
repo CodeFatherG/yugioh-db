@@ -1,18 +1,53 @@
 {
     "id": 19535693,
     "name": "Noh-P.U.N.K. Ze Amin",
+    "typeline": [
+        "Psychic",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "You can pay 600 LP; add 1 \"P.U.N.K.\" monster from your Deck to your hand, except \"Noh-P.U.N.K. Ze Amin\". If this card is sent to the GY: You can target 1 \"P.U.N.K.\" monster you control; it gains 600 ATK. You can only use each effect of \"Noh-P.U.N.K. Ze Amin\" once per turn.",
+    "race": "Psychic",
     "atk": 600,
     "def": 600,
     "level": 3,
-    "race": "Psychic",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "P.U.N.K.",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19535693.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19535693.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19535693.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/noh-p-u-n-k-ze-amin-12505",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN062",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Grand Creators",
+            "set_code": "GRCR-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.66"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19535693,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19535693.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19535693.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19535693.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.73",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

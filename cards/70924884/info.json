@@ -1,18 +1,44 @@
 {
     "id": 70924884,
     "name": "Alinsection",
+    "typeline": [
+        "Insect",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A stag beetle with a saw-like head and arms.",
+    "race": "Insect",
     "atk": 950,
     "def": 700,
     "level": 3,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70924884.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70924884.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70924884.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/alinsection-5960",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel Starter Decks: Ultimate Predators",
+            "set_code": "SS03-ENB07",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.07"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70924884,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70924884.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70924884.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70924884.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "7.00",
+            "amazon_price": "1.29",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

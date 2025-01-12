@@ -1,18 +1,44 @@
 {
     "id": 6297941,
     "name": "Burglar",
+    "typeline": [
+        "Beast",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A sly rat. He will come at you with his huge left claw.",
+    "race": "Beast",
     "atk": 850,
     "def": 800,
     "level": 3,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6297941.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6297941.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6297941.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/burglar-553",
+    "card_sets": [
+        {
+            "set_name": "Tournament Pack 6",
+            "set_code": "TP6-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.44"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6297941,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6297941.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6297941.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6297941.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.39",
+            "tcgplayer_price": "0.78",
+            "ebay_price": "2.99",
+            "amazon_price": "1.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

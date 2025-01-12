@@ -2,17 +2,36 @@
     "id": 71089030,
     "name": "Earthbound Prison",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: You can target 1 Effect Monster your opponent controls; this card gains this effect.\r\n\u25cf While this card is in the Field Zone, negate the effects of that face-up Effect Monster while it is on the field.\r\nDuring your Main Phase, you can Normal Summon 1 \"Earthbound\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this card in your possession is destroyed by an opponent's card effect, and you have an \"Earthbound\" monster in your field or GY: Halve your opponent's LP, and if you do, negate the effects of all face-up cards your opponent currently controls, until the end of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Earthbound",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71089030.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71089030.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71089030.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/earthbound-prison-13955",
+    "card_sets": [
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN034",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71089030,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71089030.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71089030.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71089030.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

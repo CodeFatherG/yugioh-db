@@ -1,18 +1,45 @@
 {
     "id": 89172051,
     "name": "Dragunity Legatus",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control \"Dragon Ravine\" or a \"Dragunity\" monster: You can Special Summon this card from your hand. If a \"Dragunity\" Monster Card(s) is in your Spell & Trap Zone: You can target 1 Spell/Trap on the field; destroy it. You can only use each effect of \"Dragunity Legatus\" once per turn.",
+    "race": "Winged Beast",
     "atk": 1800,
     "def": 1200,
     "level": 4,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Dragunity",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/89172051.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89172051.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89172051.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-legatus-11328",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN037",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.02"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 89172051,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89172051.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89172051.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89172051.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.23",
+            "tcgplayer_price": "1.02",
+            "ebay_price": "4.99",
+            "amazon_price": "54.99",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

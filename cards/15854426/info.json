@@ -2,17 +2,46 @@
     "id": 15854426,
     "name": "Divine Wind of Mist Valley",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "Once per turn, if a WIND monster you control returns to the hand (except during the Damage Step): You can Special Summon 1 Level 4 or lower WIND monster from your Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Mist Valley",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15854426.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15854426.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15854426.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/divine-wind-of-mist-valley-1362",
+    "card_sets": [
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Secret Forces",
+            "set_code": "THSF-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.38"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 15854426,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15854426.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15854426.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15854426.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 94446564,
     "name": "Matching Outfits",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Both players reveal the top card of their Deck, and if they are the same type of card (Monster, Spell, or Trap), both players add them to their hands. Otherwise, banish them.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94446564.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94446564.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94446564.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/matching-outfits-9556",
+    "card_sets": [
+        {
+            "set_name": "Ignition Assault",
+            "set_code": "IGAS-EN099",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 94446564,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94446564.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94446564.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94446564.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

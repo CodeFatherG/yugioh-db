@@ -1,21 +1,65 @@
 {
     "id": 952523,
     "name": "Traptrix Cularia",
+    "typeline": [
+        "Plant",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Insect and/or Plant monsters\r\nThis Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of \"Traptrix Cularia\" once per turn. After you activate a \"Hole\" Normal Trap Card, you can Set it instead of sending it to the GY. During your End Phase: You can target 1 \"Traptrix\" monster in your GY; Special Summon it in Defense Position.",
+    "race": "Plant",
     "atk": 1800,
     "def": null,
     "level": null,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Traptrix",
     "linkval": 2,
     "linkmarkers": [
         "Right",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/952523.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/952523.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/952523.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-cularia-11838",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN087",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN046",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 952523,
+            "image_url": "https://images.ygoprodeck.com/images/cards/952523.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/952523.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/952523.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.50",
+            "amazon_price": "54.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

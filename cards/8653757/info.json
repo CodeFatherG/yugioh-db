@@ -2,17 +2,43 @@
     "id": 8653757,
     "name": "Photon Timestop",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Take 1 \"Photon\" or \"Galaxy\" Continuous Spell/Trap from your Deck and either add it to your hand or place it face-up on your field. If this Set card in its owner's control is destroyed by your opponent's card effect during your opponent's turn and you control \"Galaxy-Eyes Photon Dragon\" or an Xyz Monster that has it as material: You can activate this effect; it becomes the End Phase of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Photon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8653757.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8653757.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8653757.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/photon-timestop-13457",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN328",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8653757,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8653757.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8653757.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8653757.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

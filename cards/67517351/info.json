@@ -2,17 +2,36 @@
     "id": 67517351,
     "name": "Hyper Rank-Up-Magic Utopiforce",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 Rank 9 or lower \"Utopia\" Xyz Monster you control; Special Summon 1 Rank 10 or higher \"Utopia\" or \"Utopic\" Xyz Monster from your Extra Deck, by using that Xyz Monster you control as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) If an Xyz Monster(s) is Special Summoned by the effect of a Rank 10 or higher \"Utopia\" or \"Utopic\" Xyz Monster, while this card is in your GY (except during the Damage Step): You can target 1 of those Special Summoned monsters; attach this card to it as material. You can only use each effect of \"Hyper Rank-Up-Magic Utopiforce\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Rank-Up-Magic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/67517351.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67517351.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67517351.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hyper-rank-up-magic-utopiforce-12271",
+    "card_sets": [
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN060",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.52"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 67517351,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67517351.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67517351.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67517351.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "1.49",
+            "amazon_price": "0.73",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

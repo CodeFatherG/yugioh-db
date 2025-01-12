@@ -1,18 +1,45 @@
 {
     "id": 3376703,
     "name": "Arcana Force V - The Hierophant",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can discard this card; this turn, your opponent cannot activate cards or effects when an \"Arcana Force\" monster(s) is Summoned to your field. If this card is Summoned: Toss a coin.\r\n\u25cf Heads: Special Summon 1 Level 4 or lower \"Arcana Force\" monster from your Deck with a different name from the monsters you control and in your GY.\r\n\u25cf Tails: Special Summon 1 \"Arcana Force\" monster from your Deck to your opponent's field.",
+    "race": "Fairy",
     "atk": 1500,
     "def": 1500,
     "level": 4,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Arcana Force",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3376703.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3376703.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3376703.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/arcana-force-v-the-hierophant-14785",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3376703,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3376703.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3376703.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3376703.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

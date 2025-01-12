@@ -1,18 +1,56 @@
 {
     "id": 70427670,
     "name": "Predaplant Bufolicula",
+    "typeline": [
+        "Plant",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nDuring your Main Phase: You can Fusion Summon 1 DARK Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. You can only use this effect of \"Predaplant Bufolicula\" once per turn.\n\n[ Monster Effect ] \nIf this card is sent to the GY or added to your Extra Deck face-up because it was used as Fusion Material: You can add 1 face-up DARK Pendulum Monster from your Extra Deck to your hand, except \"Predaplant Bufolicula\". You can only use this effect of \"Predaplant Bufolicula\" once per turn.",
+    "race": "Plant",
+    "pend_desc": "During your Main Phase: You can Fusion Summon 1 DARK Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. You can only use this effect of \"Predaplant Bufolicula\" once per turn.",
+    "monster_desc": "If this card is sent to the GY or added to your Extra Deck face-up because it was used as Fusion Material: You can add 1 face-up DARK Pendulum Monster from your Extra Deck to your hand, except \"Predaplant Bufolicula\". You can only use this effect of \"Predaplant Bufolicula\" once per turn.",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Plant",
     "attribute": "DARK",
-    "scale": 0,
     "archetype": "Predap",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70427670.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70427670.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70427670.jpg"
+    "scale": 0,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/predaplant-bufolicula-12988",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.86"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70427670,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70427670.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70427670.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70427670.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "54.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

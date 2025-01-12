@@ -2,17 +2,35 @@
     "id": 14731897,
     "name": "Unity",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Select 1 monster on your side of the field. The DEF of the selected monster becomes equal to the combined original DEF of all face-up monsters on your side of the field, until the end of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14731897.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14731897.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14731897.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/unity-1259",
+    "card_sets": [
+        {
+            "set_name": "Shonen Jump May 2006 subscription bonus",
+            "set_code": "JUMP-EN006",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "16.85"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14731897,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14731897.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14731897.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14731897.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "11.19",
+            "tcgplayer_price": "5.76",
+            "ebay_price": "1.98",
+            "amazon_price": "15.14",
+            "coolstuffinc_price": "9.99"
+        }
+    ]
 }

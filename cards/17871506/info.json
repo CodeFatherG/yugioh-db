@@ -1,18 +1,46 @@
 {
     "id": 17871506,
     "name": "Meteor Dragon Red-Eyes Impact",
+    "typeline": [
+        "Dragon",
+        "Gemini",
+        "Effect"
+    ],
     "type": "Gemini Monster",
+    "humanReadableCardType": "Gemini Effect Monster",
+    "frameType": "effect",
     "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n\u25cf Other \"Red-Eyes\" monsters you control cannot be destroyed by battle or card effects.",
+    "race": "Dragon",
     "atk": 1800,
     "def": 2000,
     "level": 6,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Red-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17871506.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17871506.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17871506.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/meteor-dragon-red-eyes-impact-1551",
+    "card_sets": [
+        {
+            "set_name": "Invasion: Vengeance",
+            "set_code": "INOV-EN028",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17871506,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17871506.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17871506.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17871506.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.57",
+            "tcgplayer_price": "1.41",
+            "ebay_price": "5.00",
+            "amazon_price": "4.59",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

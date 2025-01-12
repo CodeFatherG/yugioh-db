@@ -2,17 +2,35 @@
     "id": 300302029,
     "name": "Energizing Elements",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Bastion Misaw",
+    "frameType": "skill",
     "desc": "You can declare FIRE, WATER, EARTH, or WIND. This turn, monsters with the declared Attribute gain 500 ATK and lose 400 DEF, also any battle damage they inflict is halved. If you control no monsters with the declared Attribute, flip this card over.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Bastion Misaw",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302029.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302029.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302029.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/energizing-elements-13219",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENS17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302029,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302029.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302029.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302029.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 83203672,
     "name": "Springans Branga",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your hand, field, or GY: You can target 1 \"Springans\" Xyz Monster you control; attach this card to it as material. You can banish this card and 1 \"Springans\" monster with a different name from your GY; add 1 \"Springans\" card from your Deck to your hand. You can only use each effect of \"Springans Branga\" once per turn.",
+    "race": "Machine",
     "atk": 500,
     "def": 2500,
     "level": 8,
-    "race": "Machine",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Springans",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83203672.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83203672.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83203672.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/springans-branga-11558",
+    "card_sets": [
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83203672,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83203672.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83203672.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83203672.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

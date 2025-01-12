@@ -2,17 +2,26 @@
     "id": 68815402,
     "name": "Wild Fire Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Wild Fire\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Pyro",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68815402.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68815402.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68815402.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wild-fire-token-5783",
+    "card_images": [
+        {
+            "id": 68815402,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68815402.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68815402.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68815402.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

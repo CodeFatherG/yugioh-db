@@ -1,18 +1,44 @@
 {
     "id": 44201739,
     "name": "Mira Match",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your hand: You can reveal 3 cards with different names from your hand and/or Deck that match the names of 3 different cards in your opponent's GY, and if you do, Special Summon this card. When your opponent activates a card or effect (Quick Effect): You can send this card Summoned by its previous effect to the GY; send 1 card with the same name as that opponent's card from your Deck or Extra Deck to the GY, and if you do, negate the activation. You can only use each effect of \"Mira Match\" once per turn.",
+    "race": "Spellcaster",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Spellcaster",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44201739.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44201739.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44201739.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mira-match-14264",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN038",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44201739,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44201739.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44201739.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44201739.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

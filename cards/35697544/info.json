@@ -2,17 +2,36 @@
     "id": 35697544,
     "name": "Fighting Flame Sword",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Activate 1 of these effects;\r\n\u25cf Add 1 card from your Deck to your hand that mentions \"Flame Swordsman\", except \"Fighting Flame Sword\".\r\n\u25cf When an attack is declared involving a FIRE Warrior monster you control: You can target 1 card on the field; destroy it.\r\n\u25cf When your opponent activates a card or effect that targets \"Flame Swordsman\", or a monster(s) that mentions it, that you control: Negate that effect.\r\nYou can only activate 1 \"Fighting Flame Sword\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Flame Swordsman",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35697544.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35697544.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35697544.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fighting-flame-sword-14323",
+    "card_sets": [
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN008",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35697544,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35697544.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35697544.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35697544.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.46",
+            "tcgplayer_price": "11.65",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 2311090,
     "name": "Spright Carrot",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a Level/Link 2 monster, you can Special Summon this card (from your hand). You can only Special Summon \"Spright Carrot\" once per turn this way. When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can Tribute 1 other Level/Rank/Link 2 monster; negate that effect, then if you Tributed a Rank/Link 2 monster to activate this effect, you can destroy that card. You can only use this effect of \"Spright Carrot\" once per turn.",
+    "race": "Thunder",
     "atk": 1000,
     "def": 1900,
     "level": 2,
-    "race": "Thunder",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Spright",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2311090.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2311090.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2311090.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spright-carrot-13167",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN067",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2311090,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2311090.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2311090.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2311090.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

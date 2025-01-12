@@ -1,18 +1,50 @@
 {
     "id": 90587641,
     "name": "Superheavy Samurai Commander Shanawo",
+    "typeline": [
+        "Machine",
+        "Synchro",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Synchro Pendulum Effect Monster",
+    "humanReadableCardType": "Synchro Pendulum Effect Monster",
+    "frameType": "synchro_pendulum",
     "desc": "[ Pendulum Effect ] \nWhen an opponent's monster declares an attack: You can Special Summon this card, then if you have no Spells/Traps in your GY, change that opponent's monster's ATK to 0, also negate its effects. You can only use this effect of \"Superheavy Samurai Commander Shanawo\" once per turn.\n\n[ Monster Effect ] \n1 Tuner + 1+ non-Tuner monsters\r\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during the Battle Phase, if you control this Synchro Summoned card (Quick Effect): You can Special Summon 1 \"Superheavy Samurai\" Monster Card from your GY or face-up Spell & Trap Zone, then you can place this card in your Pendulum Zone.",
+    "race": "Machine",
+    "pend_desc": "When an opponent's monster declares an attack: You can Special Summon this card, then if you have no Spells/Traps in your GY, change that opponent's monster's ATK to 0, also negate its effects. You can only use this effect of \"Superheavy Samurai Commander Shanawo\" once per turn.",
+    "monster_desc": "1 Tuner + 1+ non-Tuner monsters\r\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during the Battle Phase, if you control this Synchro Summoned card (Quick Effect): You can Special Summon 1 \"Superheavy Samurai\" Monster Card from your GY or face-up Spell & Trap Zone, then you can place this card in your Pendulum Zone.",
     "atk": 2000,
     "def": 2500,
     "level": 8,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": 1,
     "archetype": "Superheavy Samurai",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/90587641.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90587641.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90587641.jpg"
+    "scale": 1,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/superheavy-samurai-commander-shanawo-13641",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 90587641,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90587641.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90587641.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90587641.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

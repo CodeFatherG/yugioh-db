@@ -1,18 +1,35 @@
 {
     "id": 46533533,
     "name": "Pity",
+    "typeline": [
+        "Fiend",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A lil' cutie inside a glass flask, said to bring good luck to its contractor. However, the stopper must never be pulled out. No matter what, you must never, ever, ever...''",
+    "race": "Fiend",
     "atk": 0,
     "def": 0,
     "level": 4,
-    "race": "Fiend",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46533533.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46533533.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46533533.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pity-14840",
+    "card_images": [
+        {
+            "id": 46533533,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46533533.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46533533.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46533533.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

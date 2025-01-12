@@ -1,18 +1,45 @@
 {
     "id": 39522887,
     "name": "Snopios, Shade of the Ghoti",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Main Phase (Quick Effect): You can banish 2 Fish monsters from your hand and/or GY; Special Summon this card from your hand. If this card is Special Summoned: You can target 1 face-up card on the field; banish it when it leaves the field. If this card is banished: You can banish 1 Fish monster from your GY; add this card to your hand. You can only use each effect of \"Snopios, Shade of the Ghoti\" once per turn.",
+    "race": "Fish",
     "atk": 2100,
     "def": 0,
     "level": 6,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Ghoti",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39522887.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39522887.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39522887.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/snopios-shade-of-the-ghoti-13576",
+    "card_sets": [
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN087",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39522887,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39522887.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39522887.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39522887.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

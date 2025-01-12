@@ -1,18 +1,66 @@
 {
     "id": 60953118,
     "name": "Arcana Force XIV - Temperance",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During damage calculation, in either player's turn: You can discard this card; you take no Battle Damage from that battle. When this card is Summoned: Toss a coin and apply this effect. The effect lasts while this card is face-up on the field.\n\u25cf Heads: Halve all Battle Damage you take.\n\u25cf Tails: Halve all Battle Damage your opponent takes.",
+    "race": "Fairy",
     "atk": 2400,
     "def": 2400,
     "level": 6,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Arcana Force",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60953118.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60953118.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60953118.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/arcana-force-xiv-temperance-5171",
+    "card_sets": [
+        {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN151",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN151",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 14 (POR)",
+            "set_code": "OP14-PT028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60953118,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60953118.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60953118.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60953118.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.81",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

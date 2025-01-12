@@ -2,17 +2,35 @@
     "id": 50838440,
     "name": "Three in One",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "During your opponent's End Phase, if your opponent has more total cards in their hand and field than you have in your hand and field: Special Summon 3 Normal Monsters from your GY. You can banish this card from your GY, then target 3 Monster Cards you control with different original names; Set 1 Spell/Trap from your hand or Deck that mentions the original names of all 3 targets.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50838440.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50838440.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50838440.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/three-in-one-14463",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN080",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50838440,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50838440.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50838440.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50838440.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

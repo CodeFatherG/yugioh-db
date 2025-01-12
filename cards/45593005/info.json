@@ -1,18 +1,45 @@
 {
     "id": 45593005,
     "name": "Morphtronic Magnen Bar",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "\u25cf While in Attack Position: Once per turn, if you control exactly 2 other face-up Attack Position monsters, and no additional monsters, this card gains the combined ATK of the other two monsters you control until the End Phase. The other two monsters cannot attack the turn you activate this effect.\n\u25cf While in Defense Position: Monsters you control cannot attack.",
+    "race": "Thunder",
     "atk": 100,
     "def": 100,
     "level": 1,
-    "race": "Thunder",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Morphtronic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45593005.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45593005.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45593005.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/morphtronic-magnen-bar-3884",
+    "card_sets": [
+        {
+            "set_name": "Ancient Prophecy",
+            "set_code": "ANPR-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45593005,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45593005.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45593005.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45593005.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.09",
+            "amazon_price": "1.09",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

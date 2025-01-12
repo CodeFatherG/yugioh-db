@@ -2,17 +2,35 @@
     "id": 8198621,
     "name": "Dark Soul Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as a \"Dark Soul Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Zombie",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8198621.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8198621.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8198621.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-soul-token-693",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN102",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8198621,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8198621.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8198621.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8198621.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "3.28",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

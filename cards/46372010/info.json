@@ -2,17 +2,57 @@
     "id": 46372010,
     "name": "Dark Contract with the Gate",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "During your Main Phase: You can add 1 \"D/D\" monster from your Deck to your hand. You can only use this effect of \"Dark Contract with the Gate\" once per turn. Once per turn, during your Standby Phase: Take 1000 damage.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "D/D",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46372010.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46372010.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46372010.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-contract-with-the-gate-3954",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN168",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension of Chaos",
+            "set_code": "DOCS-EN093",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN159",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.6"
+        },
+        {
+            "set_name": "Pendulum Domination Structure Deck",
+            "set_code": "SDPD-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46372010,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46372010.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46372010.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46372010.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.39",
+            "tcgplayer_price": "0.39",
+            "ebay_price": "1.50",
+            "amazon_price": "0.83",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

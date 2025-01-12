@@ -1,18 +1,46 @@
 {
     "id": 50123605,
     "name": "Heavy Cavalry of the Indestructible Insects",
+    "typeline": [
+        "Insect",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 Level 5 or higher Insect monster + 1 Insect monster\r\nCannot be destroyed by your opponent's card effects. If all face-up monsters you control are Insect monsters (Quick Effect): You can target 2 monsters on the field, including an Insect monster you control; banish them. You can only use this effect of \"Heavy Cavalry of the Indestructible Insects\" once per turn.",
+    "race": "Insect",
     "atk": 2500,
     "def": 1800,
     "level": 7,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Indestructible Insect",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50123605.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50123605.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50123605.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heavy-cavalry-of-the-indestructible-insects-14737",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN082",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50123605,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50123605.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50123605.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50123605.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

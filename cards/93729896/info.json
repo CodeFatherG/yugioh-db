@@ -2,17 +2,45 @@
     "id": 93729896,
     "name": "Nightmare Throne",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: You can take 1 Fiend monster with 0 ATK/DEF from your Deck, and either add it to your hand or destroy it. Once per turn, if a face-up \"Yubel\" monster(s) you control leaves the field by card effect: You can add to your hand 1 \"Yubel\" monster from your Deck, GY, or banishment, whose original Level is 1 higher or lower than 1 of those monsters, then you can Special Summon it, ignoring its Summoning conditions. You can only activate 1 \"Nightmare Throne\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93729896.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93729896.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93729896.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nightmare-throne-14342",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN061",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN061",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_ocg": "Semi-Limited"
+    },
+    "card_images": [
+        {
+            "id": 93729896,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93729896.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93729896.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93729896.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "12.91",
+            "tcgplayer_price": "14.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,51 @@
 {
     "id": 27189308,
     "name": "Cheepcheepcheep",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: You can Special Summon 1 Level 5 or higher Tuner monster from your Deck.",
+    "race": "Winged Beast",
     "atk": 300,
     "def": 200,
     "level": 1,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27189308.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27189308.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27189308.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cheepcheepcheep-2326",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN090",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27189308,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27189308.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27189308.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27189308.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

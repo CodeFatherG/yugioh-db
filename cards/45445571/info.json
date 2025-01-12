@@ -1,18 +1,36 @@
 {
     "id": 45445571,
     "name": "The Duke of Demise",
+    "typeline": [
+        "Fiend",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 Fiend and/or Zombie monsters\r\nOnce per turn, during your Standby Phase, pay 500 LP or destroy this card. Cannot be destroyed by battle. You can only use each of the following effects of \"The Duke of Demise\" once per turn. During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 monster. You can banish this card from your GY, then target 1 Level 4 or higher Fiend or Zombie monster in your GY; add it to your hand.",
+    "race": "Fiend",
     "atk": 2000,
     "def": 1700,
     "level": 6,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45445571.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45445571.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45445571.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-duke-of-demise-14559",
+    "card_images": [
+        {
+            "id": 45445571,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45445571.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45445571.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45445571.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

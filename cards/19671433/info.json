@@ -2,17 +2,43 @@
     "id": 19671433,
     "name": "Mannadium Imaginings",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Reveal 1 \"Mannadium\" monster or \"Visas Starfrost\" in your hand; draw 2 cards, then place 1 card from your hand on the bottom of the Deck. You can banish this card from your GY, then target 1 monster you control with 1500 ATK/2100 DEF; treat it as a Tuner until the end of this turn. You can only use each effect of \"Mannadium Imaginings\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Mannadium",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19671433.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19671433.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19671433.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mannadium-imaginings-13652",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN196",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19671433,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19671433.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19671433.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19671433.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

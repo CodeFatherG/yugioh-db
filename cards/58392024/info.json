@@ -2,17 +2,42 @@
     "id": 58392024,
     "name": "Mispolymerization",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only when a Fusion Monster is Special Summoned. Return all face-up Fusion Monsters to their respective Extra Decks.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58392024.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58392024.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58392024.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mispolymerization-4965",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN233",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Lost Millennium",
+            "set_code": "TLM-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58392024,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58392024.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58392024.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58392024.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.25",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

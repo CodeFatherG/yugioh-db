@@ -2,17 +2,35 @@
     "id": 46967601,
     "name": "Cursed Bill",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "When the equipped monster is destroyed and this card is sent to the Graveyard, inflict damage to the player who controlled the equipped monster, equal to the monster's original DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46967601.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46967601.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46967601.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cursed-bill-4002",
+    "card_sets": [
+        {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46967601,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46967601.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46967601.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46967601.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

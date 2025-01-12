@@ -1,18 +1,65 @@
 {
     "id": 97385276,
     "name": "Level Warrior",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If there are no monsters on the field, you can Normal Summon this card as a Level 2 monster. If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand) as a Level 4 monster.",
+    "race": "Warrior",
     "atk": 300,
     "def": 600,
     "level": 3,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/97385276.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97385276.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97385276.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/level-warrior-8098",
+    "card_sets": [
+        {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN208",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN208",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Pack: Yusei 2",
+            "set_code": "DP09-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Raging Battle",
+            "set_code": "RGBT-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 97385276,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97385276.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97385276.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97385276.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 35552985,
     "name": "Fiendsmith's Sanct",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "If you control no face-up monsters, or the only face-up monsters you control are LIGHT Fiend monsters: Special Summon 1 \"Fiendsmith Token\" (Fiend/LIGHT/Level 1/ATK 0/DEF 0), also you cannot declare attacks for the rest of this turn, except with Fiend monsters. If a face-up \"Fiendsmith\" monster(s) you control is destroyed by an opponent's card effect, while this card is in your GY: You can Set this card. You can only use each effect of \"Fiendsmith's Sanct\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fiendsmith",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35552985.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35552985.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35552985.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiendsmith-s-sanct-14425",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35552985,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35552985.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35552985.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35552985.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

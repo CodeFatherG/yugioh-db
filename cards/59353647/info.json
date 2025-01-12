@@ -1,18 +1,53 @@
 {
     "id": 59353647,
     "name": "Amazoness Pet Liger King",
+    "typeline": [
+        "Beast",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 Level 5 or higher \"Amazoness\" monster + 1 \"Amazoness\" monster\r\nYour opponent's monsters cannot attack any monsters, except this one. You can target 1 \"Amazoness\" card you control and 1 \"Amazoness\" Warrior monster in your GY; destroy that card on the field, and if you do, Special Summon that other monster from the GY. This card cannot attack the turn this effect is activated. You can only use this effect of \"Amazoness Pet Liger King\" once per turn.",
+    "race": "Beast",
     "atk": 2900,
     "def": 2800,
     "level": 9,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Amazoness",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59353647.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59353647.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59353647.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/amazoness-pet-liger-king-13124",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN224",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN098",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59353647,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59353647.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59353647.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59353647.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "1.98",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

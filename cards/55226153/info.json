@@ -1,18 +1,49 @@
 {
     "id": 55226153,
     "name": "DoSolfachord Cutia",
+    "typeline": [
+        "Fairy",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nPendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.\n\n[ Monster Effect ] \nWhile you have an even Pendulum Scale in your Pendulum Zone, \"Solfachord\" Pendulum Monsters you control gain ATK equal to 100 x their own Pendulum Scale. If this card is Normal or Special Summoned: You can add 1 \"Solfachord\" Pendulum Monster from your Deck to your hand, except \"DoSolfachord Cutia\". You can only use this effect of \"DoSolfachord Cutia\" once per turn.",
+    "race": "Fairy",
+    "pend_desc": "Pendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.",
+    "monster_desc": "While you have an even Pendulum Scale in your Pendulum Zone, \"Solfachord\" Pendulum Monsters you control gain ATK equal to 100 x their own Pendulum Scale. If this card is Normal or Special Summoned: You can add 1 \"Solfachord\" Pendulum Monster from your Deck to your hand, except \"DoSolfachord Cutia\". You can only use this effect of \"DoSolfachord Cutia\" once per turn.",
     "atk": 100,
     "def": 400,
     "level": 1,
-    "race": "Fairy",
     "attribute": "EARTH",
-    "scale": 8,
     "archetype": "Solfachord",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/55226153.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55226153.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55226153.jpg"
+    "scale": 8,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dosolfachord-cutia-12018",
+    "card_sets": [
+        {
+            "set_name": "Ancient Guardians",
+            "set_code": "ANGU-EN014",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 55226153,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55226153.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55226153.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55226153.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "1.48",
+            "amazon_price": "54.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

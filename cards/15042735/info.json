@@ -1,18 +1,35 @@
 {
     "id": 15042735,
     "name": "Hurricail",
+    "typeline": [
+        "Spellcaster",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A tornado that ravages the wastelands with sharp winds that can cut to the bone.''",
+    "race": "Spellcaster",
     "atk": 900,
     "def": 200,
     "level": 2,
-    "race": "Spellcaster",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15042735.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15042735.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15042735.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hurricail-1292",
+    "card_images": [
+        {
+            "id": 15042735,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15042735.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15042735.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15042735.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "10.68",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 16990348,
     "name": "Gladiator Beast Charge",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target face-up cards on the field, up to the number of \"Gladiator Beast\" monsters you control with different names; destroy them.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Gladiator Beast",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16990348.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16990348.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16990348.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gladiator-beast-charge-10436",
+    "card_sets": [
+        {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN193",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+        },
+        {
+            "set_name": "Chaos Impact",
+            "set_code": "CHIM-EN071",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16990348,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16990348.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16990348.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16990348.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

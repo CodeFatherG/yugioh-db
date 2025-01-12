@@ -2,17 +2,36 @@
     "id": 6004133,
     "name": "Abyss Actors' Dress Rehearsal",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "At the start of your Main Phase 1: Add 1 \"Abyss Actor\" card and 1 \"Abyss Script\" Spell from your Deck to your hand. For the rest of this turn after this card resolves, you cannot Pendulum Summon monsters, except \"Abyss Actor\" monsters.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Abyss Actor",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6004133.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6004133.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6004133.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-actors-dress-rehearsal-13538",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN063",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6004133,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6004133.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6004133.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6004133.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

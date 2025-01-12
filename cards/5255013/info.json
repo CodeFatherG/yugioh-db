@@ -2,17 +2,36 @@
     "id": 5255013,
     "name": "Zefra Path",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Activate this card only if you have 2 \"Zefra\" cards in your Pendulum Zones, with active Pendulum Scales of 1 and 7. If this card is activated: Shuffle all monsters you control into the Deck, except \"Zefra\" monsters. Neither player can Special Summon monsters, except from the hand or the Extra Deck. While you have a card(s) in your Pendulum Zone, this card cannot be targeted by card effects. Destroy this card if a card(s) in your Pendulum Zone is destroyed.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Zefra",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5255013.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5255013.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5255013.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zefra-path-462",
+    "card_sets": [
+        {
+            "set_name": "Crossed Souls",
+            "set_code": "CROS-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5255013,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5255013.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5255013.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5255013.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 54860010,
     "name": "Worm Prince",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card destroys an opponent's monster by battle, you can add 1 Reptile-Type \"Worm\" monster from your Deck to your hand. Destroy this card during the End Phase if you do not control another Reptile-Type \"Worm\" monster.",
+    "race": "Reptile",
     "atk": 2200,
     "def": 400,
     "level": 6,
-    "race": "Reptile",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Worm",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54860010.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54860010.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54860010.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/worm-prince-4672",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN083",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "2.2"
+        },
+        {
+            "set_name": "Hidden Arsenal 2",
+            "set_code": "HA02-EN053",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54860010,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54860010.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54860010.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54860010.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "2.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

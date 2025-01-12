@@ -1,18 +1,45 @@
 {
     "id": 88284599,
     "name": "Sauravis, Dragon Sage of the Voiceless Voice",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Special Summon this card (from your hand) by shuffling 2 Spells from your hand and/or GY into the Deck, including a Ritual Spell. You can only Special Summon \"Sauravis, Dragon Sage of the Voiceless Voice\" once per turn this way. When your opponent activates a card or effect (Quick Effect): You can return this card from the field to the hand; Special Summon 1 LIGHT Ritual Monster (Warrior or Dragon) from your hand or Deck, but shuffle it into the Deck during the End Phase of the next turn. You can only use this effect of \"Sauravis, Dragon Sage of the Voiceless Voice\" once per turn.",
+    "race": "Dragon",
     "atk": 2600,
     "def": 2800,
     "level": 7,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Voiceless Voice",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88284599.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88284599.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88284599.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sauravis-dragon-sage-of-the-voiceless-voice-14139",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88284599,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88284599.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88284599.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88284599.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

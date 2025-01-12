@@ -1,21 +1,71 @@
 {
     "id": 13117073,
     "name": "Barricadeborg Blocker",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters with different names\r\nIf this card is Link Summoned: You can discard 1 card; during the End Phase of this turn, add 1 Continuous or Field Spell from your GY to your hand. You can only use this effect of \"Barricadeborg Blocker\" once per turn. Face-up Spells you control cannot be destroyed by your opponent's card effects.",
+    "race": "Machine",
     "atk": 1000,
     "def": null,
     "level": null,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Left",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/13117073.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13117073.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13117073.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/barricadeborg-blocker-10497",
+    "card_sets": [
+        {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN140",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.76"
+        },
+        {
+            "set_name": "OTS Tournament Pack 15",
+            "set_code": "OP15-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 15 (POR)",
+            "set_code": "OP15-PT006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN081",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 13117073,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13117073.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13117073.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13117073.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "4.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

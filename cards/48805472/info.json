@@ -2,17 +2,35 @@
     "id": 48805472,
     "name": "Traptantalizing Tune",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Discard 1 Level 4 Insect or Plant monster, or 1 Normal Trap; draw 2 cards. You can banish this card from your GY, then target 1 of your banished Level 4 Insect or Plant monsters, or Normal Traps; place it on the bottom of the Deck. You can only use each effect of \"Traptantalizing Tune\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48805472.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48805472.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48805472.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/traptantalizing-tune-13595",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN024",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48805472,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48805472.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48805472.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48805472.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

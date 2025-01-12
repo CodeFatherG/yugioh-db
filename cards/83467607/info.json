@@ -2,17 +2,35 @@
     "id": 83467607,
     "name": "Nature's Reflection",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "During this turn, any effect activated by your opponent that would inflict damage becomes an effect that inflicts damage to their Life Points.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83467607.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83467607.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83467607.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nature-s-reflection-7007",
+    "card_sets": [
+        {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN065",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83467607,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83467607.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83467607.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83467607.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "1.00",
+            "amazon_price": "0.95",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

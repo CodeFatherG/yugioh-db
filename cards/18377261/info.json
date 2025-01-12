@@ -1,18 +1,59 @@
 {
     "id": 18377261,
     "name": "Ha-Re the Sword Mikanko",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is not equipped with an Equip Card, you take no damage from battles involving this card. If this card is equipped with an Equip Card, it cannot be destroyed by battle and your opponent takes any battle damage you would have taken from battles involving this card. If an Equip Card becomes equipped to this card: You can add 1 \"Mikanko\" Equip Spell from your Deck to your hand. You can only use this effect of \"Ha-Re the Sword Mikanko\" once per turn.",
+    "race": "Warrior",
     "atk": 0,
     "def": 0,
     "level": 3,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Mikanko",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/18377261.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18377261.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18377261.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ha-re-the-sword-mikanko-13439",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN293",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN025",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN025",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 18377261,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18377261.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18377261.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18377261.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

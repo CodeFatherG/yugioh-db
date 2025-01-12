@@ -1,18 +1,45 @@
 {
     "id": 29092121,
     "name": "Cipher Biplane",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn: You can target 2 \"Cipher\" monsters you control; their Levels become 8 until the end of this turn. You can only use each of the following effects of \"Cipher Biplane\" once per turn. If a \"Cipher\" monster(s) is Normal or Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand. If this card is destroyed by battle or card effect and sent to the GY: You can banish this card from your GY; add 1 \"Cipher\" monster from your Deck to your hand.",
+    "race": "Machine",
     "atk": 1000,
     "def": 2000,
     "level": 6,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Cipher",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29092121.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29092121.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29092121.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cipher-biplane-12316",
+    "card_sets": [
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN038",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.61"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29092121,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29092121.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29092121.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29092121.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.33",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

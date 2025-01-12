@@ -2,17 +2,63 @@
     "id": 8842266,
     "name": "Poison of the Old Man",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Activate 1 of these effects;\n\u25cf Gain 1200 LP.\n\u25cf Inflict 800 damage to your opponent.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8842266.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8842266.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8842266.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/poison-of-the-old-man-751",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN088",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magician's Force",
+            "set_code": "MFC-033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.11"
+        },
+        {
+            "set_name": "Saber Force Starter Deck",
+            "set_code": "YS15-ENF18",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.78"
+        },
+        {
+            "set_name": "Starter Deck: Dawn of the Xyz",
+            "set_code": "YS11-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Super Starter: Space-Time Showdown",
+            "set_code": "YS14-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8842266,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8842266.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8842266.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8842266.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "1.25",
+            "amazon_price": "1.16",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

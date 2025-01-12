@@ -2,17 +2,27 @@
     "id": 85771020,
     "name": "Asmo Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Darklord Asmodeus\". This Token cannot be destroyed by a card effect.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Fairy",
-    "attribute": null,
-    "scale": null,
     "archetype": "Darklord",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85771020.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85771020.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85771020.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/asmo-token-7188",
+    "card_images": [
+        {
+            "id": 85771020,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85771020.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85771020.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85771020.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

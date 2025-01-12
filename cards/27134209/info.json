@@ -1,18 +1,44 @@
 {
     "id": 27134209,
     "name": "Beargram, Shelled Emperor of the Forest Crown",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by banishing 3 Insect and/or Plant monsters from your hand and/or GY. You can only Special Summon \"Beargram, Shelled Emperor of the Forest Crown\" once per turn. Your opponent cannot activate monster effects in response to your Spell/Trap Card or effect activation. Once per turn, during your Main Phase: You can destroy all face-up monsters on the field, except Insect and Plant monsters, also this card cannot attack directly for the rest of this turn.",
+    "race": "Insect",
     "atk": 3400,
     "def": 2900,
     "level": 9,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27134209.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27134209.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27134209.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/beargram-shelled-emperor-of-the-forest-crown-13544",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN021",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27134209,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27134209.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27134209.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27134209.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.06",
+            "tcgplayer_price": "1.07",
+            "ebay_price": "1.47",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

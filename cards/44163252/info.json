@@ -1,18 +1,52 @@
 {
     "id": 44163252,
     "name": "Valkyrie Sechste",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Special Summoned: You can Special Summon 1 \"Valkyrie\" monster from your Deck, except \"Valkyrie Sechste\". During your Main Phase: You can send the top 2 cards of your opponent's Deck to the GY. You can only use each effect of \"Valkyrie Sechste\" once per turn.",
+    "race": "Fairy",
     "atk": 0,
     "def": 2000,
     "level": 1,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Valkyrie",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44163252.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44163252.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44163252.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/valkyrie-sechste-10106",
+    "card_sets": [
+        {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.09"
+        },
+        {
+            "set_name": "Savage Strike",
+            "set_code": "SAST-EN088",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44163252,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44163252.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44163252.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44163252.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "3.26",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

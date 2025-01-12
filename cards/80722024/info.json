@@ -2,17 +2,36 @@
     "id": 80722024,
     "name": "Mementotlan Bone Party",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Destroy 1 \"Memento\" monster in your hand or face-up field, take 1 \"Memento\" monster from your Deck with a different name, and either add it to your hand or Special Summon it in Defense Position. During your Main Phase: You can banish this card from your GY, then target 1 \"Memento\" monster you control; if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. You can only use each effect of \"Mementotlan Bone Party\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Memento",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80722024.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80722024.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80722024.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mementotlan-bone-party-14041",
+    "card_sets": [
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN009",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80722024,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80722024.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80722024.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80722024.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "20.78",
+            "tcgplayer_price": "21.80",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "13.99"
+        }
+    ]
 }

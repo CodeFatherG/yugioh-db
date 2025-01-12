@@ -2,17 +2,42 @@
     "id": 58019984,
     "name": "New World Formation",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 Spell/Trap in your GY that mentions \"Visas Starfrost\"; Set it, and if you Set a Trap or Quick-Play Spell, it can be activated this turn. You can banish this card from your GY, then target 3 Spells/Traps in your GY that mention \"Visas Starfrost\", except \"New World Formation\"; shuffle them into the Deck. You can only use each effect of \"New World Formation\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58019984.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58019984.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58019984.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/new-world-formation-13816",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN380",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58019984,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58019984.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58019984.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58019984.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

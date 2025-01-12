@@ -1,18 +1,52 @@
 {
     "id": 96676583,
     "name": "Maliss P Chessy Cat",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Any monster destroyed by battle with a \"Maliss\" Link Monster that points to this card is banished. You can only use each of the following effects of \"Maliss Chessy Cat\" once per turn. During your Main Phase: You can banish 1 \"Maliss\" card from your hand, then you can draw 2 cards. If this card is banished: You can pay 300 LP; Special Summon it, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Link Monsters.",
+    "race": "Cyberse",
     "atk": 1500,
     "def": 300,
     "level": 3,
-    "race": "Cyberse",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Maliss",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96676583.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96676583.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96676583.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/maliss-p-chessy-cat-14679",
+    "card_sets": [
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN016",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN016",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96676583,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96676583.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96676583.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96676583.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.31",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

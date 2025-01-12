@@ -2,17 +2,35 @@
     "id": 300302044,
     "name": "Believe in your Bro",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - ",
+    "frameType": "skill",
     "desc": "Once per turn, you can activate 1 of these Skills based on the face-up monster(s) you control:\r\n\u25cf \"Elemental HERO\": Discard 1 Trap, then add 1 Level 6 or lower Machine \"roid\" monster from your GY to your hand, then you can destroy 1 monster your opponent controls whose ATK is less than or equal to the added card's.\r\n\u25cf Machine \"roid\": Discard 1 Spell, then Special Summon 1 Level 6 or lower Machine \"roid\" or \"Elemental HERO\" monster from your Deck in Defense Position, but negate its effects.\r\n \u25cf Both: Discard 1 card, then Fusion Summon 1 Fusion Monster using only \"roid\" and \"Elemental HERO\" monsters you control.\r\nEach of these Skills can only be used once per Duel.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302044.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302044.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302044.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/believe-in-your-bro-13503",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENS11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302044,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302044.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302044.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302044.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

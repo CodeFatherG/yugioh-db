@@ -1,18 +1,46 @@
 {
     "id": 57357130,
     "name": "Salamangreat Weasel",
+    "typeline": [
+        "Cyberse",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If you have 2 or more \"Salamangreat\" monsters in your GY: You can Special Summon this card from your hand. If a \"Salamangreat\" Ritual, Fusion, Synchro, Xyz, or Link Monster(s) is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can target 1 other \"Salamangreat\" monster in your GY; place this card on the bottom of your Deck, and if you do, Special Summon that monster to your opponent's field, then draw 1 card. You can only use each effect of \"Salamangreat Weasel\" once per turn.",
+    "race": "Cyberse",
     "atk": 700,
     "def": 1400,
     "level": 3,
-    "race": "Cyberse",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Salamangreat",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57357130.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57357130.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57357130.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-weasel-13972",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57357130,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57357130.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57357130.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57357130.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.50",
+            "tcgplayer_price": "0.72",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

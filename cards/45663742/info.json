@@ -1,18 +1,52 @@
 {
     "id": 45663742,
     "name": "Snake-Eye Oak",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can target 1 of your Level 1 FIRE monsters that is banished or in your GY; either add it to your hand or Special Summon it. You can send 2 face-up cards you control to the GY, including this card; Special Summon 1 \"Snake-Eye\" monster from your hand or Deck, except \"Snake-Eye Oak\". You can only use each effect of \"Snake-Eye Oak\" once per turn.",
+    "race": "Pyro",
     "atk": 900,
     "def": 200,
     "level": 1,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Snake-Eye",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45663742.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45663742.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45663742.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/snake-eye-oak-14027",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN111",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45663742,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45663742.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45663742.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45663742.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.56",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 39114494,
     "name": "Blessing of the Voiceless Voice",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "You can target 1 of your \"Voiceless Voice\" cards that is banished or in your GY, except \"Blessing of the Voiceless Voice\"; add it to your hand. If a non-Ritual Monster(s) is Normal or Special Summoned face-up (except during the Damage Step): You can Ritual Summon 1 LIGHT Ritual Monster (Warrior or Dragon) from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed the Level of that Ritual Monster, and if you do, it cannot be destroyed by battle. You can only use each effect of \"Blessing of the Voiceless Voice\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Voiceless Voice",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39114494.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39114494.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39114494.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blessing-of-the-voiceless-voice-14290",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN062",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39114494,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39114494.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39114494.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39114494.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

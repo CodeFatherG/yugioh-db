@@ -1,18 +1,53 @@
 {
     "id": 101207092,
     "name": "Ame no Murakumo no Mitsurugi",
+    "typeline": [
+        "Reptile",
+        "Ritual",
+        "Effect"
+    ],
     "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
     "desc": "You can Ritual Summon this card with \"Mitsurugi Ritual\". If this card is Special Summoned: You can destroy all monsters your opponent controls. When your opponent activates a card or effect (Quick Effect): You can activate this effect; your opponent can discard 1 card, or that effect is negated. If this card is Tributed: You can add 1 \"Mitsurugi\" card from your Deck to your hand, except \"Ame no Murakumo no Mitsurugi\", then you can Special Summon this card. You can only use each effect of \"Ame no Murakumo no Mitsurugi\" once per turn.",
+    "race": "Reptile",
     "atk": 3200,
     "def": 800,
     "level": 8,
-    "race": "Reptile",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Mitsurugi",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/101207092.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101207092.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101207092.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ame-no-murakumo-no-mitsurugi-14827",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN092",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN092",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 101207092,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101207092.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101207092.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101207092.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

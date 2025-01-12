@@ -2,17 +2,36 @@
     "id": 42577802,
     "name": "Myutant Fusion",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Fusion Summon 1 \"Myutant\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your hand or field. If your opponent has activated a card or effect this turn, you can use up to 1 monster each from your Deck and GY as Fusion Material. You can only activate 1 \"Myutant Fusion\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Myutant",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42577802.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42577802.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42577802.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/myutant-fusion-11593",
+    "card_sets": [
+        {
+            "set_name": "Phantom Rage",
+            "set_code": "PHRA-EN093",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42577802,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42577802.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42577802.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42577802.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "39.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

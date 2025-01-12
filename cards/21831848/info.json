@@ -2,17 +2,36 @@
     "id": 21831848,
     "name": "Gagagadraw",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Banish 3 \"Gagaga\" monsters from your Graveyard; draw 2 cards.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Gagaga",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21831848.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21831848.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21831848.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gagagadraw-1878",
+    "card_sets": [
+        {
+            "set_name": "Cosmo Blazer",
+            "set_code": "CBLZ-EN055",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21831848,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21831848.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21831848.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21831848.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.63",
+            "tcgplayer_price": "0.44",
+            "ebay_price": "1.89",
+            "amazon_price": "3.72",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

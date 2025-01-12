@@ -1,18 +1,58 @@
 {
     "id": 59797187,
     "name": "Gonogo",
+    "typeline": [
+        "Rock",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "At the end of the Damage Step, if this card battled an opponent's monster: Change that monster to face-down Defense Position.",
+    "race": "Rock",
     "atk": 1350,
     "def": 1600,
     "level": 3,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59797187.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59797187.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59797187.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gonogo-5082",
+    "card_sets": [
+        {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN047",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59797187,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59797187.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59797187.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59797187.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "3.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

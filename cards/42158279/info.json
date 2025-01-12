@@ -2,17 +2,43 @@
     "id": 42158279,
     "name": "Dogmatikaturgy",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Ritual Summon 1 \"Dogmatika\" Ritual Monster from your hand or Deck by Tributing \"Dogmatika\" monsters and/or Ritual, Fusion, or Synchro Monsters from your field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon. If this card is in your GY: You can banish this card, then target 2 \"Dogmatika\" monsters with different Levels in your GY; add 1 of them to your hand, and place the other on the bottom of your Deck. You can only use 1 \"Dogmatikaturgy\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dogmatika",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42158279.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42158279.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42158279.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dogmatikaturgy-13038",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN103",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.84"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42158279,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42158279.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42158279.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42158279.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

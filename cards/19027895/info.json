@@ -2,17 +2,36 @@
     "id": 19027895,
     "name": "Salamangreat Revive",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 FIRE monster in your GY; Special Summon it. You can banish this card from your GY, then target 1 \"Salamangreat\" monster you control and 1 monster in your GY with the same name; shuffle that monster from the GY into the Deck, and if you do, that monster you control gains ATK equal to its original ATK until the end of this turn. You can only use each effect of \"Salamangreat Revive\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Salamangreat",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19027895.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19027895.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19027895.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-revive-13983",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN007",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19027895,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19027895.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19027895.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19027895.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

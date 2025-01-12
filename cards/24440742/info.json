@@ -2,17 +2,43 @@
     "id": 24440742,
     "name": "Silhouhatte Trick",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Special Summon this card as an Effect Monster (Illusion/DARK/Level 4/ATK 1500/DEF 600) with the following effects (this card is also still a Trap).\r\n\u25cf If this card is Special Summoned: You can target face-up cards your opponent controls, up to the number of Illusion monsters you control; negate their effects until the end of this turn.\r\n\u25cf If this card battles a monster, neither can be destroyed by that battle.\r\nYou can only activate 1 \"Silhouhatte Trick\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Trap Monster",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/24440742.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24440742.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24440742.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/silhouhatte-trick-14470",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN079",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN079",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 24440742,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24440742.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24440742.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24440742.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.44",
+            "tcgplayer_price": "0.51",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 60242223,
     "name": "Bystial Saronir",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 1 LIGHT or DARK monster in either GY; banish it, and if you do, Special Summon this card from your hand. This is a Quick Effect if your opponent controls a monster. If this card is sent to the GY: You can send 1 \"Bystial\" monster or 1 \"Branded\" Spell/Trap from your Deck to the GY, except \"Bystial Saronir\". You can only use each effect of \"Bystial Saronir\" once per turn.",
+    "race": "Dragon",
     "atk": 2500,
     "def": 2000,
     "level": 6,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Bystial",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60242223.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60242223.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60242223.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bystial-saronir-13362",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN158",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60242223,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60242223.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60242223.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60242223.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.22",
+            "tcgplayer_price": "5.27",
+            "ebay_price": "2.84",
+            "amazon_price": "1.65",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

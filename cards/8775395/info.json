@@ -2,17 +2,36 @@
     "id": 8775395,
     "name": "Evil Eyes Unleashed",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Send 1 \"Evil Eye\" monster and 1 \"Evil Eye\" Spell/Trap from your Deck to the GY; add 1 \"Evil Eye\" Equip Spell from your Deck to your hand, but for the rest of this turn, each time you activate a non-\"Evil Eye\" card or effect, you lose 500 LP. If you Link Summon an \"Evil Eye\" Link Monster: You can banish this card from your GY; equip 1 \"Evil Eye\" Equip Spell from your GY to 1 \"Evil Eye\" Link Monster you control. You can only use each effect of \"Evil Eyes Unleashed\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Evil Eye",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8775395.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8775395.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8775395.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/evil-eyes-unleashed-13485",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8775395,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8775395.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8775395.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8775395.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

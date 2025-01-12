@@ -1,18 +1,51 @@
 {
     "id": 3248469,
     "name": "Wannabee!",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the End Phase: You can send this card from your hand or field to the GY; excavate cards from the top of your Deck, equal to the number of your opponent's unused Spell & Trap Zones, and you can Set 1 excavated Trap to your field (but send it to the GY during the next End Phase), also place the rest on the bottom of the Deck in any order. You can only use this effect of \"Wannabee!\" once per turn.",
+    "race": "Insect",
     "atk": 0,
     "def": 0,
     "level": 2,
-    "race": "Insect",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3248469.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3248469.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3248469.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wannabee-13719",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN081",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN031",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3248469,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3248469.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3248469.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3248469.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.28",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

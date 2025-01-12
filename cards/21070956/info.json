@@ -2,17 +2,49 @@
     "id": 21070956,
     "name": "Altar for Tribute",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Select 1 monster on your side of the field and send it to the Graveyard. Increase your Life Points by an amount equal to the original ATK of the monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21070956.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21070956.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21070956.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/altar-for-tribute-1809",
+    "card_sets": [
+        {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-095",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.43"
+        },
+        {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-EN095",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        },
+        {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN257",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21070956,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21070956.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21070956.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21070956.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

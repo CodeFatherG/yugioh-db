@@ -1,18 +1,53 @@
 {
     "id": 99054885,
     "name": "The Agent of Destruction - Venus",
+    "typeline": [
+        "Fairy",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "You can banish 1 \"The Agent of Creation - Venus\" from your GY; Special Summon this card from your hand. You can pay LP in multiples of 500, then for every 500 LP paid, target 1 of your \"Mystical Shine Ball\" that is banished or in your GY; Special Summon them, but place them on the bottom of the Deck when they leave the field. You can only use 1 \"The Agent of Destruction - Venus\" effect per turn, and only once that turn.",
+    "race": "Fairy",
     "atk": 0,
     "def": 1600,
     "level": 3,
-    "race": "Fairy",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "The Agent",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99054885.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99054885.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99054885.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-agent-of-destruction-venus-12699",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN015",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.84"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 99054885,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99054885.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99054885.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99054885.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "1.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,14 +1,20 @@
 {
     "id": 36114945,
     "name": "Yuki-Onna, the Icicle Mayakashi",
+    "typeline": [
+        "Zombie",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ Zombie monsters\r\nYou can only control 1 \"Yuki-Onna, the Icicle Mayakashi\". You can only use each of the following effects of \"Yuki-Onna, the Icicle Mayakashi\" once per turn. If this card is Special Summoned: You can target 1 Effect Monster your opponent controls; negate its effects. (Quick Effect): You can banish this card from your GY; Special Summon 1 of your Zombie Synchro Monsters that is banished or in your GY.",
+    "race": "Zombie",
     "atk": 2400,
     "def": null,
     "level": null,
-    "race": "Zombie",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Mayakashi",
     "linkval": 3,
     "linkmarkers": [
@@ -16,7 +22,31 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/36114945.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36114945.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36114945.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/yuki-onna-the-icicle-mayakashi-12916",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN014",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 36114945,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36114945.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36114945.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36114945.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "4.24",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

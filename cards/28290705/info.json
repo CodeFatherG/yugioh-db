@@ -1,18 +1,45 @@
 {
     "id": 28290705,
     "name": "Fairy King Albverdich",
+    "typeline": [
+        "Plant",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 4 EARTH monsters\nOnce per turn: You can detach 1 Xyz Material from this card; all non-EARTH monsters currently on the field lose 500 ATK and DEF.",
+    "race": "Plant",
     "atk": 2300,
     "def": 1400,
     "level": 4,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28290705.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28290705.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28290705.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fairy-king-albverdich-2406",
+    "card_sets": [
+        {
+            "set_name": "Return of the Duelist",
+            "set_code": "REDU-EN049",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28290705,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28290705.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28290705.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28290705.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "1.29",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

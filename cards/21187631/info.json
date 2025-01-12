@@ -1,18 +1,46 @@
 {
     "id": 21187631,
     "name": "Altergeist Dragvirion",
+    "typeline": [
+        "Spellcaster",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nWhen an opponent's Special Summoned monster declares an attack: You can return 1 \"Altergeist\" monster you control to the hand; negate that attack. If this card is Tributed and sent to the GY: You can Special Summon this card. You can only use each effect of \"Altergeist Dragvirion\" once per turn.",
+    "race": "Spellcaster",
     "atk": 2200,
     "def": 1200,
     "level": 6,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Altergeist",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21187631.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21187631.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21187631.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/altergeist-dragvirion-10026",
+    "card_sets": [
+        {
+            "set_name": "Dark Neostorm",
+            "set_code": "DANE-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21187631,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21187631.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21187631.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21187631.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

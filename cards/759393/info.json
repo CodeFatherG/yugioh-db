@@ -1,18 +1,67 @@
 {
     "id": 759393,
     "name": "Hiita the Fire Charmer",
+    "typeline": [
+        "Spellcaster",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: Target 1 face-up FIRE monster your opponent controls; take control of that target while this card is face-up on the field.",
+    "race": "Spellcaster",
     "atk": 500,
     "def": 1500,
     "level": 3,
-    "race": "Spellcaster",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Charmer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/759393.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/759393.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/759393.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hiita-the-fire-charmer-71",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN208",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duel Terminal 6b",
+            "set_code": "DT06-EN063",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Spirit Charmers",
+            "set_code": "SDCH-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.56"
+        },
+        {
+            "set_name": "The Lost Millennium",
+            "set_code": "TLM-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 759393,
+            "image_url": "https://images.ygoprodeck.com/images/cards/759393.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/759393.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/759393.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.99",
+            "amazon_price": "5.48",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

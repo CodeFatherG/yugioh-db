@@ -2,17 +2,42 @@
     "id": 88654892,
     "name": "Mutamorphosis",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Tribute 1 Fusion or Synchro Monster; Special Summon 1 monster from your Deck with the same Level as the Tributed monster's original Level, but return it to the hand during the End Phase. You can only activate 1 \"Mutamorphosis\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88654892.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88654892.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88654892.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mutamorphosis-14160",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN070",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN070",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88654892,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88654892.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88654892.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88654892.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.23",
+            "tcgplayer_price": "0.89",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

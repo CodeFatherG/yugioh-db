@@ -1,18 +1,52 @@
 {
     "id": 95679145,
     "name": "Dogmatika Maximus",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can banish 1 Fusion, Synchro, Xyz, or Link Monster from your GY; Special Summon this card from your hand. During your Main Phase: You can activate this effect; send 2 monsters with different names from your Extra Deck to the GY, also your opponent sends 2 monsters from their Extra Deck to the GY, also you cannot Special Summon from the Extra Deck for the rest of this turn. You can only use each effect of \"Dogmatika Maximus\" once per turn.",
+    "race": "Spellcaster",
     "atk": 1500,
     "def": 3000,
     "level": 8,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Dogmatika",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/95679145.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95679145.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95679145.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dogmatika-maximus-11104",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN105",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN009",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 95679145,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95679145.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95679145.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95679145.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "6.38",
+            "tcgplayer_price": "4.03",
+            "ebay_price": "1.98",
+            "amazon_price": "13.96",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

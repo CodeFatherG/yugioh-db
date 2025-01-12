@@ -1,18 +1,51 @@
 {
     "id": 52253888,
     "name": "Light Law Medium",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "At the start of your opponent's Battle Phase: You can target any number of Attack Position monsters your opponent controls; while this card is in your Monster Zone, those monsters must attack this card this turn, if able. Once per turn, when an attack is declared involving this card and an opponent's Attack Position monster: You can negate the attack, and if you do, inflict damage to your opponent equal to half the original ATK of that opponent's monster.",
+    "race": "Fairy",
     "atk": 400,
     "def": 300,
     "level": 2,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52253888.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52253888.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52253888.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/light-law-medium-13007",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.83"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52253888,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52253888.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52253888.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52253888.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.02",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 33184236,
     "name": "Karakuri Trick House",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only when the battle position of a face-up \"Karakuri\" monster you control is changed. Select 1 card on the field, and destroy it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Karakuri",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33184236.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33184236.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33184236.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/karakuri-trick-house-2819",
+    "card_sets": [
+        {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33184236,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33184236.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33184236.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33184236.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "1.55",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

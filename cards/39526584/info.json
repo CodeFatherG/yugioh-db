@@ -2,17 +2,35 @@
     "id": 39526584,
     "name": "Gift Card",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Your opponent gains 3000 Life Points.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39526584.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39526584.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39526584.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gift-card-3349",
+    "card_sets": [
+        {
+            "set_name": "Tactical Evolution",
+            "set_code": "TAEV-EN078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "7.15"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39526584,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39526584.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39526584.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39526584.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "5.89",
+            "tcgplayer_price": "5.03",
+            "ebay_price": "1.00",
+            "amazon_price": "4.99",
+            "coolstuffinc_price": "4.99"
+        }
+    ]
 }

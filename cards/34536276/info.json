@@ -1,18 +1,35 @@
 {
     "id": 34536276,
     "name": "Ganigumo",
+    "typeline": [
+        "Insect",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A crab that binds its enemies with a sticky web and attacks them with its sharp claws.''",
+    "race": "Insect",
     "atk": 600,
     "def": 800,
     "level": 2,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34536276.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34536276.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34536276.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ganigumo-2934",
+    "card_images": [
+        {
+            "id": 34536276,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34536276.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34536276.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34536276.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "5.88",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "4.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

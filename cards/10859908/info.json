@@ -1,18 +1,35 @@
 {
     "id": 10859908,
     "name": "Holograh",
+    "typeline": [
+        "Machine",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''This machine generates illusions that leave an enemy wide open to attacks.''",
+    "race": "Machine",
     "atk": 1100,
     "def": 700,
     "level": 3,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/10859908.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10859908.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10859908.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/holograh-936",
+    "card_images": [
+        {
+            "id": 10859908,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10859908.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10859908.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10859908.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.12",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "4.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

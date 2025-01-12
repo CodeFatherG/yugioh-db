@@ -2,17 +2,43 @@
     "id": 37750912,
     "name": "Stardust Illumination",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Send 1 \"Stardust\" monster from your Deck to the GY, or if you control \"Stardust Dragon\" or a Synchro Monster that mentions it, you can Special Summon it instead. You can banish this card from your GY, then target 1 \"Stardust\" monster you control; increase or decrease its Level by 1 until the end of this turn. You can only use each effect of \"Stardust Illumination\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Stardust",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37750912.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37750912.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37750912.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/stardust-illumination-12013",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN152",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN051",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37750912,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37750912.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37750912.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37750912.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.39",
+            "ebay_price": "1.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

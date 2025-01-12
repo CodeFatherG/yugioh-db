@@ -2,17 +2,71 @@
     "id": 29843091,
     "name": "Ojama Trio",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Special Summon 3 \"Ojama Tokens\" (Beast-Type/LIGHT/Level 2/ATK 0/DEF 1000) to your opponent's field in Defense Position. They cannot be Tributed for a Tribute Summon, and each time 1 is destroyed, its controller takes 300 damage.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ojama",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29843091.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29843091.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29843091.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ojama-trio-2526",
+    "card_sets": [
+        {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-047",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "1.57"
+        },
+        {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-EN047",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0.00"
+        },
+        {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN209",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dinosmasher's Fury Structure Deck",
+            "set_code": "SR04-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Pack: Chazz Princeton",
+            "set_code": "DP2-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29843091,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29843091.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29843091.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29843091.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.40",
+            "tcgplayer_price": "0.58",
+            "ebay_price": "2.25",
+            "amazon_price": "0.94",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

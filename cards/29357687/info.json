@@ -1,21 +1,65 @@
 {
     "id": 29357687,
     "name": "Gorgon, Empress of the Evil Eyed",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters including an \"Evil Eye\" monster\r\nGains 100 ATK for each \"Evil Eye\" card with different names in your GY. If this card is equipped with \"Evil Eye of Selene\" (Quick Effect): You can target 1 Effect Monster your opponent controls; negate its effects until the end of this turn. You can only use this effect of \"Gorgon, Empress of the Evil Eyed\" once per turn. Once per turn, during the next Standby Phase after this effect was activated: Destroy 1 monster this card points to.",
+    "race": "Fiend",
     "atk": 1900,
     "def": null,
     "level": null,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Evil Eye",
     "linkval": 2,
     "linkmarkers": [
         "Top",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/29357687.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29357687.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29357687.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gorgon-empress-of-the-evil-eyed-10433",
+    "card_sets": [
+        {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN177",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.1"
+        },
+        {
+            "set_name": "Chaos Impact",
+            "set_code": "CHIM-EN048",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Chaos Impact",
+            "set_code": "CHIM-EN048",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29357687,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29357687.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29357687.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29357687.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

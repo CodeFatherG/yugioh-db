@@ -1,18 +1,37 @@
 {
     "id": 89604813,
     "name": "Blue-Eyes Ultimate Spirit Dragon",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "2+ Tuners + 1 non-Tuner \"Blue-Eyes\" monster\r\nYour opponent cannot banish cards from your GY. You can only use each of the following effects of \"Blue-Eyes Ultimate Spirit Dragon\" once per turn. When a card or effect is activated on the field (Quick Effect): You can negate the activation, and if you do, this card gains 1000 ATK until the end of this turn. If this card is destroyed by battle or card effect: You can Special Summon 1 LIGHT Dragon monster from your GY, except \"Blue-Eyes Ultimate Spirit Dragon\".",
+    "race": "Dragon",
     "atk": 3500,
     "def": 4000,
     "level": 12,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Blue-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/89604813.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89604813.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89604813.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blue-eyes-ultimate-spirit-dragon-14644",
+    "card_images": [
+        {
+            "id": 89604813,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89604813.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89604813.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89604813.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 96704018,
     "name": "Heraldic Beast Berners Falcon",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Summoned: You can make all face-up Level 5 or higher monsters you currently control become Level 4.",
+    "race": "Winged Beast",
     "atk": 1000,
     "def": 1600,
     "level": 4,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Heraldic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96704018.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96704018.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96704018.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heraldic-beast-berners-falcon-8047",
+    "card_sets": [
+        {
+            "set_name": "Abyss Rising",
+            "set_code": "ABYR-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96704018,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96704018.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96704018.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96704018.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

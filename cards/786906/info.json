@@ -2,17 +2,36 @@
     "id": 786906,
     "name": "Fateful Hour",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 monster that cannot be Normal Summoned/Set in either GY; Special Summon it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Shiranui",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/786906.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/786906.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/786906.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fateful-hour-9824",
+    "card_sets": [
+        {
+            "set_name": "Savage Strike",
+            "set_code": "SAST-EN075",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 786906,
+            "image_url": "https://images.ygoprodeck.com/images/cards/786906.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/786906.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/786906.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.72",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

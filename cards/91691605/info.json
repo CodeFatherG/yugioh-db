@@ -1,18 +1,52 @@
 {
     "id": 91691605,
     "name": "Destiny HERO - Drilldark",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Destiny HERO\" monster from your hand with ATK less than or equal to this card's ATK on the field. You can only use this effect of \"Destiny HERO - Drilldark\" once per turn. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "race": "Warrior",
     "atk": 1600,
     "def": 1200,
     "level": 4,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Destiny HERO",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91691605.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91691605.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91691605.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-drilldark-7646",
+    "card_sets": [
+        {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.63"
+        },
+        {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.42"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91691605,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91691605.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91691605.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91691605.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "1.12",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 45283341,
     "name": "Eternal Bond",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target any number of \"Photon\" monsters in your GY; Special Summon them, but their effects are negated. During your Main Phase: You can banish this card from your GY, then target 1 \"Photon\" monster your opponent controls; take control of it, and if you do, its ATK for the rest of this turn becomes the combined original ATK of all \"Photon\" monsters you currently control, also you cannot declare attacks this turn, except with that monster. You can only use each effect of \"Eternal Bond\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Photon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45283341.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45283341.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45283341.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/eternal-bond-10756",
+    "card_sets": [
+        {
+            "set_name": "King's Court",
+            "set_code": "KICO-EN025",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.93"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45283341,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45283341.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45283341.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45283341.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "14.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

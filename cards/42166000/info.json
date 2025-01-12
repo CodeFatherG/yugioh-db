@@ -1,18 +1,60 @@
 {
     "id": 42166000,
     "name": "Egyptian God Slime",
+    "typeline": [
+        "Aqua",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 Aqua monster + 1 Level 10 WATER monster\r\nMust first be either Fusion Summoned, or Special Summoned from your Extra Deck by Tributing 1 Level 10 Aqua monster with 0 ATK. This card can be treated as 1 or 3 Tributes for the Tribute Summon of a monster. Cannot be destroyed by battle. Your opponent's monsters cannot target for attacks, and your opponent cannot target with card effects, any monsters you control, except \"Egyptian God Slime\".",
+    "race": "Aqua",
     "atk": 3000,
     "def": 3000,
     "level": 10,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Egyptian God",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42166000.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42166000.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42166000.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/egyptian-god-slime-11008",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN029",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN029",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "59.14"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42166000,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42166000.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42166000.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42166000.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "2.99",
+            "amazon_price": "49.99",
+            "coolstuffinc_price": "69.99"
+        }
+    ]
 }

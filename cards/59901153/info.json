@@ -1,18 +1,44 @@
 {
     "id": 59901153,
     "name": "Phalaenop Sisters",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If the total Levels of monsters you control are less than or equal to the total Levels of monsters your opponent controls: You can Tribute this card; add 1 Level 7 or higher Insect or Plant monster from your Deck to your hand. During the End Phase of this turn, take 2700 damage if you did not Normal or Special Summon the added monster, or a card with the same original name, after activating this effect. You can only use this effect of \"Phalaenop Sisters\" once per turn.",
+    "race": "Fairy",
     "atk": 300,
     "def": 300,
     "level": 1,
-    "race": "Fairy",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59901153.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59901153.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59901153.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/phalaenop-sisters-14746",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN085",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59901153,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59901153.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59901153.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59901153.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

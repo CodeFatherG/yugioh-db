@@ -1,18 +1,44 @@
 {
     "id": 93966624,
     "name": "Spell Strider",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your hand: You can target 2 face-up Spell Cards on the field (1 from each side of the field); banish them, and if you do, Special Summon this card.",
+    "race": "Warrior",
     "atk": 1800,
     "def": 600,
     "level": 4,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93966624.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93966624.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93966624.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spell-strider-7819",
+    "card_sets": [
+        {
+            "set_name": "The Dark Illusion",
+            "set_code": "TDIL-EN037",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93966624,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93966624.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93966624.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93966624.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

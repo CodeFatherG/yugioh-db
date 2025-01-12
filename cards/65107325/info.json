@@ -2,17 +2,42 @@
     "id": 65107325,
     "name": "Sour Scheduling - Red Vinegar Vamoose",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Activate this card only if your opponent controls a card in this Set card's column; return all other cards in this card's column to the hand. Neither player can use the unused zones in this card's column. You can only control 1 \"Sour Scheduling - Red Vinegar Vamoose\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65107325.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65107325.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65107325.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sour-scheduling-red-vinegar-vamoose-13564",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN333",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN079",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65107325,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65107325.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65107325.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65107325.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

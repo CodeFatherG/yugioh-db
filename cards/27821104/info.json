@@ -2,17 +2,43 @@
     "id": 27821104,
     "name": "Asceticism of the Six Samurai",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Six Samurai\" monster you control; Special Summon 1 \"Six Samurai\" monster from your Deck with the same ATK but a different name, and if you do, destroy it during the End Phase of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Six Samurai",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27821104.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27821104.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27821104.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/asceticism-of-the-six-samurai-2367",
+    "card_sets": [
+        {
+            "set_name": "Spirit Warriors",
+            "set_code": "SPWA-EN048",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.57"
+        },
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN050",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27821104,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27821104.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27821104.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27821104.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.43",
+            "tcgplayer_price": "4.30",
+            "ebay_price": "1.94",
+            "amazon_price": "1.25",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

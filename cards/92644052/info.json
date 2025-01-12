@@ -1,18 +1,56 @@
 {
     "id": 92644052,
     "name": "Performapal Duelist Extraordinaire",
+    "typeline": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nOnce per turn, at the start of the Damage Step, if a monster battles a monster: You can return this card to the hand, and if you do, banish 1 Spell from your Deck. For that battle, your monster cannot be destroyed, also the battle damage you take is halved.\n\n[ Monster Effect ] \nWhen this card inflicts battle damage to your opponent: You can add 1 \"Supreme King Dragon\" monster, \"Supreme King Gate\" monster, or \"Soul of the Supreme King\" from your Deck to your hand. Once per turn, during the Standby Phase: Activate this effect; each player can banish 1 Spell from their Deck. Once per turn, when a monster declares an attack: Activate this effect; the attacked player can apply the following effect.\r\n\u25cf Add 1 of your banished Spells to your hand, then discard it, and if you do, negate that attack.",
+    "race": "Spellcaster",
+    "pend_desc": "Once per turn, at the start of the Damage Step, if a monster battles a monster: You can return this card to the hand, and if you do, banish 1 Spell from your Deck. For that battle, your monster cannot be destroyed, also the battle damage you take is halved.",
+    "monster_desc": "When this card inflicts battle damage to your opponent: You can add 1 \"Supreme King Dragon\" monster, \"Supreme King Gate\" monster, or \"Soul of the Supreme King\" from your Deck to your hand. Once per turn, during the Standby Phase: Activate this effect; each player can banish 1 Spell from their Deck. Once per turn, when a monster declares an attack: Activate this effect; the attacked player can apply the following effect.\r\n\u25cf Add 1 of your banished Spells to your hand, then discard it, and if you do, negate that attack.",
     "atk": 1800,
     "def": 400,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": 8,
     "archetype": "Performapal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92644052.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92644052.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92644052.jpg"
+    "scale": 8,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/performapal-duelist-extraordinaire-13082",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN265",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN024",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92644052,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92644052.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92644052.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92644052.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.46",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

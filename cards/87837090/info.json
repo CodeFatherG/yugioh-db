@@ -1,18 +1,52 @@
 {
     "id": 87837090,
     "name": "Kuibelt the Blade Dragon",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can target 1 card on the field; destroy it. If this card on the field is destroyed: You can target 1 face-up monster on the field; that monster cannot attack until the end of your opponent's turn. You can only use each effect of \"Kuibelt the Blade Dragon\" once per turn.",
+    "race": "Dragon",
     "atk": 2500,
     "def": 1900,
     "level": 7,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/87837090.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87837090.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87837090.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kuibelt-the-blade-dragon-14070",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN226",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN083",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 87837090,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87837090.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87837090.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87837090.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

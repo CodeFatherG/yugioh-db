@@ -1,18 +1,38 @@
 {
     "id": 29325276,
     "name": "Odd-Eyes Solblaze Dragon",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Synchro Tuner Monster",
+    "humanReadableCardType": "Synchro Tuner Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Special Summoned: You can Special Summon 1 face-up Pendulum Monster from your Extra Deck, but you cannot Special Summon while you control that face-up monster, except Pendulum Monsters. If this card is in your GY: You can banish 2 other Fusion, Synchro, Xyz, and/or Pendulum Monsters from your GY; Special Summon this card. You can only use 1 \"Odd-Eyes Solblaze Dragon\" effect per turn, and only once that turn.",
+    "race": "Dragon",
     "atk": 2000,
     "def": 2500,
     "level": 8,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Odd-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29325276.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29325276.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29325276.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/odd-eyes-solblaze-dragon-14752",
+    "card_images": [
+        {
+            "id": 29325276,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29325276.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29325276.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29325276.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

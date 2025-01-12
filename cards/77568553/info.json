@@ -1,18 +1,36 @@
 {
     "id": 77568553,
     "name": "Acid Crawler",
+    "typeline": [
+        "Insect",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A giant caterpillar that secretes an acid mist that melts anything.''",
+    "race": "Insect",
     "atk": 900,
     "def": 700,
     "level": 3,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Recolored counterpart",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77568553.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77568553.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77568553.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/acid-crawler-6525",
+    "card_images": [
+        {
+            "id": 77568553,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77568553.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77568553.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77568553.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.98",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "5.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

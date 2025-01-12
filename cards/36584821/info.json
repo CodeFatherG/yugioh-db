@@ -1,18 +1,94 @@
 {
     "id": 36584821,
     "name": "Gren Maju Da Eiza",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card's ATK/DEF are each equal to the number of your banished cards x 400.",
+    "race": "Fiend",
     "atk": -1,
     "def": -1,
     "level": 3,
-    "race": "Fiend",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Maju",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/36584821.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36584821.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36584821.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gren-maju-da-eiza-3093",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN160",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.27"
+        },
+        {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 12",
+            "set_code": "OP12-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 12 (POR)",
+            "set_code": "OP12-PT004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+        },
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENF12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Dark Emperor Structure Deck",
+            "set_code": "SDDE-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.36"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 36584821,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36584821.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36584821.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36584821.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "6.85",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

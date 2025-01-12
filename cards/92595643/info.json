@@ -2,17 +2,35 @@
     "id": 92595643,
     "name": "Fine",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Discard 2 cards.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92595643.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92595643.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92595643.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fine-7710",
+    "card_sets": [
+        {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN080",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92595643,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92595643.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92595643.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92595643.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "3.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

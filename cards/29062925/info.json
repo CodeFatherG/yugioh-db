@@ -2,17 +2,36 @@
     "id": 29062925,
     "name": "Face Card Fusion",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Fusion Summon 1 LIGHT Warrior Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you control \"Queen's Knight\", \"King's Knight\", or \"Jack's Knight\", you can use 1 monster from your Deck as Fusion Material. You can only activate 1 \"Face Card Fusion\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Polymerization",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29062925.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29062925.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29062925.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/face-card-fusion-12433",
+    "card_sets": [
+        {
+            "set_name": "King's Court",
+            "set_code": "KICO-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.28"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29062925,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29062925.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29062925.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29062925.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "5.79",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

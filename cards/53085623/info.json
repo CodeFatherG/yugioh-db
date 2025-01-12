@@ -1,18 +1,52 @@
 {
     "id": 53085623,
     "name": "Mermail Shadow Squad",
+    "typeline": [
+        "Sea Serpent",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "(This card is always treated as an \"Atlantean\" card.)\r\nYou can discard 1 card to the GY; WATER monsters you currently control become Level 7 until the end of this turn. If this card is sent to the GY to activate a WATER monster's effect: Special Summon 1 Level 4 or lower \"Atlantean\" or \"Mermail\" monster from your Deck, except \"Mermail Shadow Squad\", also you cannot Special Summon from the Extra Deck for the rest of this turn, except WATER monsters. You can only use each effect of \"Mermail Shadow Squad\" once per turn.",
+    "race": "Sea Serpent",
     "atk": 0,
     "def": 1900,
     "level": 3,
-    "race": "Sea Serpent",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Atlantean",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53085623.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53085623.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53085623.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mermail-shadow-squad-14622",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN018",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN018",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53085623,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53085623.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53085623.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53085623.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.03",
+            "tcgplayer_price": "2.10",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 9416697,
     "name": "Eanoc, Sentry of the Ghoti",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can target 1 of your banished Level 4 or lower Fish monsters; Special Summon it in Defense Position, but negate its effects. You can banish 1 Fish monster from your hand or face-up field; add 1 \"Ghoti\" Trap from your Deck to your hand. You can only use each effect of \"Eanoc, Sentry of the Ghoti\" once per turn.",
+    "race": "Fish",
     "atk": 2100,
     "def": 0,
     "level": 6,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Ghoti",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9416697.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9416697.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9416697.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/eanoc-sentry-of-the-ghoti-13417",
+    "card_sets": [
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN088",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.82"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9416697,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9416697.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9416697.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9416697.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

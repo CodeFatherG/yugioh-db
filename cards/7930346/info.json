@@ -1,18 +1,51 @@
 {
     "id": 7930346,
     "name": "Origami Goddess",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, during your Main Phase: You can toss a coin until the result is tails, and if you do, draw 1 card for every 2 heads. Each time a coin tossing effect resolves while this monster is on the field: Double this card's ATK for each heads from that effect.",
+    "race": "Fairy",
     "atk": 100,
     "def": 0,
     "level": 1,
-    "race": "Fairy",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7930346.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7930346.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7930346.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/origami-goddess-14092",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN390",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7930346,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7930346.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7930346.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7930346.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

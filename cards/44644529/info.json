@@ -2,17 +2,36 @@
     "id": 44644529,
     "name": "Dual Avatar Ascendance",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Dual Avatar\" monster you control; destroy it, and if you do, Special Summon 1 \"Dual Avatar\" monster from your Deck or Extra Deck, whose original Level is 1 higher or 1 lower than that monster had on the field. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 \"Dual Avatar\" monster in your GY; add it to your hand. You can only use each effect of \"Dual Avatar Ascendance\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dual Avatar",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44644529.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44644529.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44644529.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dual-avatar-ascendance-11643",
+    "card_sets": [
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44644529,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44644529.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44644529.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44644529.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "44.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

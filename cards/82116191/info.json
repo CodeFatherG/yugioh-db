@@ -1,18 +1,44 @@
 {
     "id": 82116191,
     "name": "Gigantic Cephalotus",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card gains 200 ATK each time a Plant-Type monster is sent from the field to the Graveyard.",
+    "race": "Plant",
     "atk": 1850,
     "def": 700,
     "level": 4,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/82116191.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82116191.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82116191.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gigantic-cephalotus-6905",
+    "card_sets": [
+        {
+            "set_name": "Crossroads of Chaos",
+            "set_code": "CSOC-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 82116191,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82116191.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82116191.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82116191.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,51 @@
 {
     "id": 54706054,
     "name": "The Calibrator",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card gains ATK equal to the combined Ranks of all face-up Xyz Monsters your opponent controls x 300.",
+    "race": "Thunder",
     "atk": 1500,
     "def": 1500,
     "level": 4,
-    "race": "Thunder",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54706054.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54706054.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54706054.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-calibrator-4662",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN088",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54706054,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54706054.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54706054.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54706054.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

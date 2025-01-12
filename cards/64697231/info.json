@@ -2,17 +2,60 @@
     "id": 64697231,
     "name": "Trap Dustshoot",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only if your opponent has 4 or more cards in their hand. Look at your opponent's hand, select 1 Monster Card in it, and return that card to its owner's Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64697231.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64697231.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64697231.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trap-dustshoot-5460",
+    "card_sets": [
+        {
+            "set_name": "Champion Pack: Game Five",
+            "set_code": "CP05-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN246",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "8.33"
+        },
+        {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN098",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "9.18"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Forbidden",
+        "ban_ocg": "Forbidden"
+    },
+    "card_images": [
+        {
+            "id": 64697231,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64697231.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64697231.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64697231.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "7.08",
+            "tcgplayer_price": "13.31",
+            "ebay_price": "289.95",
+            "amazon_price": "8.83",
+            "coolstuffinc_price": "9.99"
+        }
+    ]
 }

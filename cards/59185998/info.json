@@ -1,18 +1,45 @@
 {
     "id": 59185998,
     "name": "Altergeist Pookuery",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If an \"Altergeist\" monster you control would be used as Link Material for an \"Altergeist\" monster, this card in your hand can also be used as material. You can only use this effect of \"Altergeist Pookuery\" once per turn. If an \"Altergeist\" Link Monster is Link Summoned to your field, while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use this effect of \"Altergeist Pookuery\" once per Duel.",
+    "race": "Spellcaster",
     "atk": 300,
     "def": 100,
     "level": 1,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Altergeist",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59185998.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59185998.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59185998.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/altergeist-pookuery-10750",
+    "card_sets": [
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN046",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.75"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59185998,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59185998.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59185998.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59185998.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.75",
+            "tcgplayer_price": "0.40",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,21 +1,57 @@
 {
     "id": 82184400,
     "name": "Abyss Keeper",
+    "typeline": [
+        "Fish",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 WATER monsters\r\nCannot be used as Link Material the turn it is Link Summoned. If this card is Link Summoned: You can Special Summon 1 Fish monster from your hand to your zone this card points to. You can target 1 other Fish monster you control and 1 card your opponent controls; banish those cards. You can only use each effect of \"Abyss Keeper\" once per turn.",
+    "race": "Fish",
     "atk": 1500,
     "def": null,
     "level": null,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/82184400.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82184400.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82184400.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-keeper-12891",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN234",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN083",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.86"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 82184400,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82184400.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82184400.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82184400.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.55",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,74 @@
 {
     "id": 28711704,
     "name": "Toon Black Luster Soldier",
+    "typeline": [
+        "Warrior",
+        "Toon",
+        "Effect"
+    ],
     "type": "Toon Monster",
+    "humanReadableCardType": "Toon Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing Toon monsters from your hand or field, whose total Levels equal 8 or more. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack directly. Once per turn, if you control \"Toon World\": You can target 1 card on the field; banish it, also this card cannot attack the turn this effect is activated.",
+    "race": "Warrior",
     "atk": 3000,
     "def": 2500,
     "level": 8,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Toon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28711704.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28711704.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28711704.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/toon-black-luster-soldier-11219",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN065",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN272",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN272",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Toon Chaos",
+            "set_code": "TOCH-EN001",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "115.06"
+        },
+        {
+            "set_name": "Toon Chaos",
+            "set_code": "TOCH-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28711704,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28711704.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28711704.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28711704.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.34",
+            "tcgplayer_price": "1.85",
+            "ebay_price": "7.25",
+            "amazon_price": "19.99",
+            "coolstuffinc_price": "7.99"
+        }
+    ]
 }

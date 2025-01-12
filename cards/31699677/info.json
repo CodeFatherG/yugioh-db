@@ -1,18 +1,52 @@
 {
     "id": 31699677,
     "name": "Magikuriboh",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Main or Battle Phase, if you took damage by battle or an opponent's card effect this turn (Quick Effect): You can send this card from your hand to the GY; Special Summon 1 \"Dark Magician\" or 1 \"Dark Magician Girl\" from your Deck or GY. If a face-up Spellcaster monster(s) you control is destroyed by battle or an opponent's card effect: You can add this card from the GY to your hand. You can only use each effect of \"Magikuriboh\" once per turn.",
+    "race": "Fiend",
     "atk": 300,
     "def": 200,
     "level": 1,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Kuriboh",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31699677.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31699677.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31699677.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/magikuriboh-12561",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN002",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31699677,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31699677.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31699677.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31699677.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.36",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "3.42",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

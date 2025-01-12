@@ -2,17 +2,43 @@
     "id": 20285786,
     "name": "Halfway to Forever",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 2 monsters in your GY; Special Summon both, but negate their effects (if any), and if you do, immediately after this effect resolves, Xyz Summon 1 LIGHT \"Utopia\" or \"Utopic\" Xyz Monster using only those 2 monsters.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Utopia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/20285786.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20285786.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20285786.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/halfway-to-forever-8430",
+    "card_sets": [
+        {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN040",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.25"
+        },
+        {
+            "set_name": "Legendary Duelists: Magical Hero",
+            "set_code": "LED6-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.28"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 20285786,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20285786.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20285786.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20285786.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

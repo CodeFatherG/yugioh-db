@@ -1,20 +1,53 @@
 {
     "id": 93896655,
     "name": "Sunavalon Dryas",
+    "typeline": [
+        "Plant",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 Level 4 or lower Plant monster\r\nIf this card is Link Summoned in the Extra Monster Zone using \"Sunseed Genius Loci\" as material: You can add 1 \"Sunvine\" Spell/Trap from your Deck to your hand. This card cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. Once per turn, if you take battle or effect damage: You can gain that much LP, and if you do, Special Summon 1 \"Sunvine\" monster from your Extra Deck.",
+    "race": "Plant",
     "atk": 0,
     "def": null,
     "level": null,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Sunavalon",
     "linkval": 1,
     "linkmarkers": [
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/93896655.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93896655.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93896655.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sunavalon-dryas-11578",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN018",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.02"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 93896655,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93896655.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93896655.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93896655.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.34",
+            "tcgplayer_price": "1.17",
+            "ebay_price": "2.99",
+            "amazon_price": "3.01",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

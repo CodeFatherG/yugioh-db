@@ -1,18 +1,45 @@
 {
     "id": 12172567,
     "name": "Mind Castlin",
+    "typeline": [
+        "Psychic",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nYou can target 1 face-up monster your opponent controls; switch control of that monster and this card. If this Synchro Summoned card is sent to the GY: You can target 1 face-up monster on each field; switch control of those monsters. You can only use each effect of \"Mind Castlin\" once per turn.",
+    "race": "Psychic",
     "atk": 1500,
     "def": 2600,
     "level": 6,
-    "race": "Psychic",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12172567.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12172567.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12172567.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mind-castlin-14727",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN149",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12172567,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12172567.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12172567.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12172567.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.51",
+            "tcgplayer_price": "1.10",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

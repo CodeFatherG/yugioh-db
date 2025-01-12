@@ -2,17 +2,36 @@
     "id": 58570206,
     "name": "Heavy Polymerization",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using 3 or more monsters from your hand or field as material. You can also banish monsters from your Extra Deck as material, up to the number of monsters your opponent controls, but you lose LP equal to the total ATK of monsters banished this way, when the monster is Fusion Summoned.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Polymerization",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58570206.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58570206.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58570206.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heavy-polymerization-14724",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN150",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58570206,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58570206.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58570206.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58570206.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.41",
+            "tcgplayer_price": "1.42",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

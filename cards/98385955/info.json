@@ -1,18 +1,46 @@
 {
     "id": 98385955,
     "name": "Silvy of the White Forest",
+    "typeline": [
+        "Spellcaster",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add 1 \"White Forest\" Spell/Trap from your Deck to your hand. If this card is in your GY (Quick Effect): You can target 1 \"White Forest\" Synchro Monster you control or in your GY; return it to the Extra Deck, and if you do, Special Summon this card, but negate its effects. You can only use each effect of \"Silvy of the White Forest\" once per turn.",
+    "race": "Spellcaster",
     "atk": 1500,
     "def": 200,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "White Forest",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98385955.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98385955.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98385955.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/silvy-of-the-white-forest-14446",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98385955,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98385955.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98385955.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98385955.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

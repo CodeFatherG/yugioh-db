@@ -1,18 +1,36 @@
 {
     "id": 31539614,
     "name": "Antidote Nurse",
+    "typeline": [
+        "Machine",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 3 monsters\r\n(Quick Effect): You can detach 1 material from this card, then target 1 monster on the field whose current ATK or DEF is different from its original value; its ATK/DEF become their original values, also if you targeted a monster on your field, it cannot be destroyed by battle or card effects this turn. Once per turn, if another monster(s) is Special Summoned to your field and this card has 3 or more materials (except during the Damage Step): You can make that monster(s) gain 900 ATK.",
+    "race": "Machine",
     "atk": 1800,
     "def": 1200,
     "level": 3,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31539614.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31539614.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31539614.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/antidote-nurse-14566",
+    "card_images": [
+        {
+            "id": 31539614,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31539614.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31539614.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31539614.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,53 @@
 {
     "id": 77202120,
     "name": "Assault Synchron",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "During your Main Phase: You can Special Summon this card from your hand, then take 700 damage, also you cannot Special Summon monsters from the Extra Deck, except Synchro Monsters, while this card is face-up in the Monster Zone. If a face-up Dragon Synchro Monster(s) you control is Tributed or banished (except during the Damage Step): You can banish this card from your GY, then target 1 of those monsters; Special Summon it. You can only use each effect of \"Assault Synchron\" once per turn.",
+    "race": "Machine",
     "atk": 700,
     "def": 0,
     "level": 2,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Synchron",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77202120.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77202120.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77202120.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/assault-synchron-13581",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN003",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN003",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 77202120,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77202120.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77202120.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77202120.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.44",
+            "tcgplayer_price": "3.92",
+            "ebay_price": "6.29",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "29.99"
+        }
+    ]
 }

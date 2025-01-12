@@ -1,18 +1,52 @@
 {
     "id": 8576764,
     "name": "Gluttonous Reptolphin Greethys",
+    "typeline": [
+        "Fish",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 1 Fish, Sea Serpent, or Aqua monster in your GY with an equal or lower Level than the number of cards in your opponent's hand; Special Summon it, but it cannot activate its effects this turn. You can only use this effect of \"Gluttonous Reptolphin Greethys\" once per turn. If this card is sent to the GY as Synchro Material: You can make the Synchro Monster that used this card as material gain 200 ATK/DEF for each card currently in your opponent's hand.",
+    "race": "Fish",
     "atk": 1000,
     "def": 1000,
     "level": 3,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8576764.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8576764.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8576764.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gluttonous-reptolphin-greethys-11402",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN183",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.02"
+        },
+        {
+            "set_name": "Phantom Rage",
+            "set_code": "PHRA-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8576764,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8576764.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8576764.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8576764.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "44.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

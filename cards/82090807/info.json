@@ -1,18 +1,51 @@
 {
     "id": 82090807,
     "name": "Fallen of Argyros",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If a Level/Rank/Link 2 monster is on the field, you can Special Summon this card (from your hand) to either field. You can only Special Summon \"Fallen of Argyros\" once per turn this way. Neither player can activate the effects of Link Monsters that point to this card. During your opponent's turn (Quick Effect): You can target 1 Xyz Monster on the field; detach 1 or 2 materials from it. You can only use this effect of \"Fallen of Argyros\" once per turn.",
+    "race": "Thunder",
     "atk": 700,
     "def": 700,
     "level": 2,
-    "race": "Thunder",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/82090807.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82090807.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82090807.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fallen-of-argyros-13705",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN339",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 82090807,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82090807.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82090807.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82090807.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

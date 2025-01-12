@@ -1,18 +1,44 @@
 {
     "id": 59563768,
     "name": "Tenshin",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card gains 400 ATK for each face-up Level 2 monster you control.",
+    "race": "Fairy",
     "atk": 800,
     "def": 100,
     "level": 2,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59563768.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59563768.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59563768.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tenshin-5061",
+    "card_sets": [
+        {
+            "set_name": "Starter Deck: Dawn of the Xyz",
+            "set_code": "YS11-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59563768,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59563768.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59563768.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59563768.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

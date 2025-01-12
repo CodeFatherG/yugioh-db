@@ -1,18 +1,35 @@
 {
     "id": 42081767,
     "name": "Secret Stash Slipshod Squirrel",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Main Phase (Quick Effect): You can target up to 3 Spells/Traps in your GY; banish them, and if you do, shuffle them into the Deck during the End Phase of the next turn. During your Standby Phase: You can target 1 of your banished Spells/Traps; Set it. You can only use each effect of \"Secret Stash Slipshod Squirrel\" once per turn.",
+    "race": "Beast",
     "atk": 200,
     "def": 100,
     "level": 1,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42081767.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42081767.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42081767.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/secret-stash-slipshod-squirrel-14863",
+    "card_images": [
+        {
+            "id": 42081767,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42081767.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42081767.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42081767.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

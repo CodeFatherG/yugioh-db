@@ -2,17 +2,43 @@
     "id": 46500985,
     "name": "Metamorformation",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "All \"Metalfoes\" monsters you control gain 300 ATK and DEF. While a \"Metalfoes\" card is in your Pendulum Zone, \"Metalfoes\" monsters you control, except Effect Monsters, are unaffected by your opponent's card effects.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Metalfoes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46500985.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46500985.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46500985.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/metamorformation-3965",
+    "card_sets": [
+        {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN103",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Dark Illusion",
+            "set_code": "TDIL-EN060",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46500985,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46500985.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46500985.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46500985.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

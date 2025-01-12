@@ -2,17 +2,36 @@
     "id": 9715126,
     "name": "Boot-Up Order - Gear Force",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When either player's monster declares an attack and all monsters you control are face-up Machine monsters (min. 1): Destroy Attack Position monsters your opponent controls, up to the number of Machine monsters you control.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Boot-Up",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9715126.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9715126.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9715126.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/boot-up-order-gear-force-10550",
+    "card_sets": [
+        {
+            "set_name": "Fists of the Gadgets",
+            "set_code": "FIGA-EN004",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "2.47"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9715126,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9715126.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9715126.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9715126.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.42",
+            "tcgplayer_price": "0.36",
+            "ebay_price": "5.01",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

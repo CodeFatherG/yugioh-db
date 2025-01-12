@@ -2,17 +2,63 @@
     "id": 81380218,
     "name": "Chorus of Sanctuary",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "Increase the DEF of all Defense Position monsters by 500 points.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81380218.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81380218.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81380218.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chorus-of-sanctuary-6831",
+    "card_sets": [
+        {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+        },
+        {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-E037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "23.87"
+        },
+        {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.29"
+        },
+        {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.46"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81380218,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81380218.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81380218.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81380218.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.95",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

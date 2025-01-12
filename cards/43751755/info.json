@@ -1,18 +1,45 @@
 {
     "id": 43751755,
     "name": "Chrysalis Pantail",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Dark Panther\" from your hand or Deck.",
+    "race": "Beast",
     "atk": 800,
     "def": 300,
     "level": 2,
-    "race": "Beast",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Chrysalis",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/43751755.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43751755.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43751755.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chrysalis-pantail-3737",
+    "card_sets": [
+        {
+            "set_name": "Tactical Evolution",
+            "set_code": "TAEV-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 43751755,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43751755.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43751755.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43751755.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.50",
+            "ebay_price": "1.85",
+            "amazon_price": "2.03",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

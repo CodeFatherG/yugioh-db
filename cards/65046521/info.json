@@ -2,17 +2,36 @@
     "id": 65046521,
     "name": "Possessed Partnerships",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Special Summon 1 Spellcaster monster with 1500 DEF from your hand or GY in Attack Position or face-down Defense Position, then, if you control monsters with 2 or more different Attributes, you can destroy 1 face-up card on the field. You can banish this card from your GY, then target 1 \"Possessed\" Continuous Spell/Trap in your GY; place it face-up on your field. You can only use 1 \"Possessed Partnerships\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Possessed",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65046521.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65046521.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65046521.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/possessed-partnerships-11232",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Spirit Charmers",
+            "set_code": "SDCH-EN028",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.05"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65046521,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65046521.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65046521.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65046521.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "2.09",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

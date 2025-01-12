@@ -1,18 +1,121 @@
 {
     "id": 3370104,
     "name": "Cyber Phoenix",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "While this card is in Attack Position, negate any Spell/Trap effects that target 1 Machine monster you control (and no other cards). When this card is destroyed by battle and sent to the GY: You can draw 1 card.",
+    "race": "Machine",
     "atk": 1200,
     "def": 1600,
     "level": 4,
-    "race": "Machine",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/3370104.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3370104.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3370104.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-phoenix-300",
+    "card_sets": [
+        {
+            "set_name": "Astral Pack Two",
+            "set_code": "AP02-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN020",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyber Dragon Revolution Structure Deck",
+            "set_code": "SDCR-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN189",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "46.96"
+        },
+        {
+            "set_name": "Duelist Pack: Zane Truesdale",
+            "set_code": "DP04-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN009",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN178",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENB07",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.41"
+        },
+        {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENG04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Cyber Strike",
+            "set_code": "SDCS-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.92"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 3370104,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3370104.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3370104.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3370104.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "2.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

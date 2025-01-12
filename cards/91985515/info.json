@@ -2,17 +2,36 @@
     "id": 91985515,
     "name": "Koa'ki Meiru Initialize!",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Tribute 1 \"Koa'ki Meiru\" monster to add 1 \"Iron Core of Koa'ki Meiru\" from your Deck or Graveyard to your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Koa'ki Meiru",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91985515.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91985515.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91985515.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/koa-ki-meiru-initialize-7668",
+    "card_sets": [
+        {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN058",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91985515,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91985515.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91985515.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91985515.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

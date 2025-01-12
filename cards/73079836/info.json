@@ -1,18 +1,53 @@
 {
     "id": 73079836,
     "name": "Adamancipator Risen - Raptite",
+    "typeline": [
+        "Rock",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nDuring your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can Special Summon 1 excavated Rock monster in Defense Position, also place the rest on the bottom of your Deck in any order. During your opponent's turn, if a WIND monster is in your GY (Quick Effect): You can target 1 card in your opponent's GY; banish it. You can only use each effect of \"Adamancipator Risen - Raptite\" once per turn.",
+    "race": "Rock",
     "atk": 2200,
     "def": 2800,
     "level": 6,
-    "race": "Rock",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Adamancipator",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73079836.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73079836.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73079836.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/adamancipator-risen-raptite-10861",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN231",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Secret Slayers",
+            "set_code": "SESL-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73079836,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73079836.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73079836.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73079836.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "3.17",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

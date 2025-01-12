@@ -2,17 +2,26 @@
     "id": 44728989,
     "name": "Ocean of Regeneration",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "You can target 1 WATER monster with 1000 or less ATK in your GY; Special Summon it, but destroy it during the End Phase. You can only use this effect of \"Ocean of Regeneration\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44728989.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44728989.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44728989.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ocean-of-regeneration-14563",
+    "card_images": [
+        {
+            "id": 44728989,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44728989.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44728989.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44728989.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

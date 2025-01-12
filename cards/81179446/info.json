@@ -1,18 +1,35 @@
 {
     "id": 81179446,
     "name": "Kattapillar",
+    "typeline": [
+        "Insect",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''Attacks enemies by spitting thin, sticky webs.''",
+    "race": "Insect",
     "atk": 250,
     "def": 300,
     "level": 1,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81179446.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81179446.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81179446.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kattapillar-6814",
+    "card_images": [
+        {
+            "id": 81179446,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81179446.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81179446.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81179446.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.15",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "5.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

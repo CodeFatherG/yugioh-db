@@ -1,18 +1,60 @@
 {
     "id": 53971455,
     "name": "Despian Luluwalilith",
+    "typeline": [
+        "Spellcaster",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Level 4 Tuner + 1+ non-Tuner monsters\r\nOnce per turn, if a card(s) leaves the Extra Deck (except during the Damage Step): You can make all monsters you currently control gain 500 ATK (permanently), then you can negate the effects of 1 face-up card on the field, until the end of this turn. During the End Phase, if this card is in the GY because it was sent there this turn: You can Special Summon 1 LIGHT Spellcaster monster from your hand or Deck whose ATK equals its own DEF. You can only use this effect of \"Despian Luluwalilith\" once per turn.",
+    "race": "Spellcaster",
     "atk": 2500,
     "def": 2500,
     "level": 12,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Despia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53971455.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53971455.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53971455.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/despian-luluwalilith-13690",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN085",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN042",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN042",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53971455,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53971455.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53971455.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53971455.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.62",
+            "tcgplayer_price": "1.63",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "19.99"
+        }
+    ]
 }

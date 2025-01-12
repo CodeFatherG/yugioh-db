@@ -2,17 +2,43 @@
     "id": 88083109,
     "name": "Libromancer Displaced",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Libromancer\" monster you control and 1 monster your opponent controls; return your monster to the hand, and if you do, take control of that opponent's monster. If your \"Libromancer\" monster you targeted was not a Ritual Monster, the monster you took control of returns to the hand during the End Phase. You can only activate 1 \"Libromancer Displaced\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Libromancer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88083109.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88083109.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88083109.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/libromancer-displaced-13262",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN115",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN090",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88083109,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88083109.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88083109.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88083109.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "1.16",
+            "amazon_price": "0.42",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

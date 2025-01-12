@@ -2,17 +2,43 @@
     "id": 90711610,
     "name": "Goblin Biker Grand Entrance",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Add 1 \"Goblin\" monster from your Deck to your hand, then you can apply the following effect.\r\n\u25cf Detach 1 Xyz Material from a monster on either field, and if you do, Special Summon 1 Level 4 or lower \"Goblin\" monster from your hand.\r\nYou can banish this card from your GY; detach 1 Xyz Material from a monster on either field, then you can add 1 \"Goblin\" monster from your GY to your hand. You can only use each effect of \"Goblin Biker Grand Entrance\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Goblin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/90711610.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90711610.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90711610.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/goblin-biker-grand-entrance-14179",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN061",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN061",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 90711610,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90711610.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90711610.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90711610.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "7.31",
+            "tcgplayer_price": "11.02",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

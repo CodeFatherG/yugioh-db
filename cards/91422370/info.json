@@ -2,17 +2,36 @@
     "id": 91422370,
     "name": "Zenmailstrom",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Tribute 1 \"Wind-Up\" monster with 1500 or more ATK; Special Summon 1 \"Wind-Up\" monster from your hand, then you can Special Summon 1 \"Wind-Up\" monster from your Deck with the same ATK as the monster Special Summoned by this effect.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Wind-Up",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91422370.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91422370.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91422370.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zenmailstrom-7623",
+    "card_sets": [
+        {
+            "set_name": "Order of Chaos",
+            "set_code": "ORCS-EN072",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91422370,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91422370.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91422370.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91422370.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.09",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

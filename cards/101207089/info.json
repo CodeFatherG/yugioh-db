@@ -2,17 +2,35 @@
     "id": 101207089,
     "name": "The Toil of the Normal",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Apply these effects in sequence, based on the number of Normal Monsters with different names in your GY (skip over any that do not apply).\r\n\u25cf 1+: This turn, Normal Monsters you control gain 800 ATK.\r\n\u25cf 2+: Negate the effects of 1 Effect Monster on the field, until the end of this turn.\r\n\u25cf 3+: This turn, Normal Monsters you control cannot be destroyed by card effects.\r\n\u25cf 4+: Shuffle 1 Effect Monster on the field into the Deck.\r\n\u25cf 5+: Add 1 \"The Toil of the Normal\" from your Deck to your hand.\r\nYou can only activate 1 \"The Toil of the Normal\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/101207089.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101207089.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101207089.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-toil-of-the-normal-14874",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN089",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 101207089,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101207089.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101207089.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101207089.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

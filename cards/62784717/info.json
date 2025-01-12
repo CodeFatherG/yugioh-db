@@ -2,17 +2,35 @@
     "id": 62784717,
     "name": "Tour of Doom",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "During your opponent's Standby Phase, toss a coin. \u25cf Heads: Your opponent cannot Normal Summon or Flip Summon until the End Phase. \u25cf Tails: You cannot Normal Summon or Flip Summon during your next turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62784717.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62784717.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62784717.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tour-of-doom-5302",
+    "card_sets": [
+        {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 62784717,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62784717.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62784717.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62784717.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "3.50",
+            "amazon_price": "1.99",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

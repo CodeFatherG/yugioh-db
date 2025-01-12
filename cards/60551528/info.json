@@ -1,18 +1,52 @@
 {
     "id": 60551528,
     "name": "Infernoid Pirmais",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 \"Infernoid\" monster from your hand or Graveyard while the total Levels and Ranks of all Effect Monsters you control are 8 or lower, and cannot be Special Summoned by other ways. Once per turn: You can target 1 Set card on the field; shuffle it into the Deck. That card cannot be activated in response to this effect's activation. Once per turn, during your opponent's turn: You can Tribute 1 monster, then target 1 card in your opponent's Graveyard; banish it (this is a Quick Effect).",
+    "race": "Fiend",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Fiend",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Infernoid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60551528.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60551528.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60551528.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/infernoid-pirmais-5139",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN067",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossed Souls",
+            "set_code": "CROS-EN030",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60551528,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60551528.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60551528.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60551528.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "5.38",
+            "amazon_price": "2.68",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

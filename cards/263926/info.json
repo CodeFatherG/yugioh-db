@@ -1,18 +1,51 @@
 {
     "id": 263926,
     "name": "Bonze Alone",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal or Special Summoned if you control a monster. You can Special Summon this card (from your hand) in Attack Position. If another monster(s) is Summoned to your field while you control this monster: Destroy this card.",
+    "race": "Fairy",
     "atk": 100,
     "def": 100,
     "level": 1,
-    "race": "Fairy",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/263926.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/263926.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/263926.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bonze-alone-10475",
+    "card_sets": [
+        {
+            "set_name": "Chaos Impact",
+            "set_code": "CHIM-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN137",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 263926,
+            "image_url": "https://images.ygoprodeck.com/images/cards/263926.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/263926.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/263926.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

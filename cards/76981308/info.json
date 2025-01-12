@@ -2,17 +2,43 @@
     "id": 76981308,
     "name": "Melffy Staring Contest",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "You can reveal 1 Beast monster in your hand; add 1 \"Melffy\" monster with a different name from your Deck or GY to your hand and place that revealed monster on the bottom of the Deck. You can only use this effect of \"Melffy Staring Contest\" once per turn. At the start of your opponent's Battle Phase: You can reveal any number of \"Melffy\" monsters in your hand and keep them revealed during this Battle Phase only. Monsters your opponent controls lose ATK equal to the combined ATK and DEF of the monsters revealed by this effect.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Melffy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/76981308.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76981308.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76981308.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/melffy-staring-contest-13192",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN141",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN063",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 76981308,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76981308.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76981308.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76981308.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

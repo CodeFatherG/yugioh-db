@@ -2,17 +2,42 @@
     "id": 5439384,
     "name": "Birth of the Prominence Flame",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 2 FIRE monsters (1 Tuner and 1 non-Tuner) with 200 DEF in your GY; banish both monsters, and if you do, Special Summon 1 FIRE Synchro Monster from your Extra Deck whose Level equals the total Levels of those monsters. You can only activate 1 \"Birth of the Prominence Flame\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5439384.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5439384.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5439384.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/birth-of-the-prominence-flame-11888",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN098",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5439384,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5439384.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5439384.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5439384.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "49.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

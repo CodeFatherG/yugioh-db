@@ -1,18 +1,44 @@
 {
     "id": 68167124,
     "name": "Stinging Swordsman",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card inflicts Battle Damage to your opponent: Return all face-up cards in your opponent's Spell & Trap Card Zones to the hand.",
+    "race": "Warrior",
     "atk": 300,
     "def": 600,
     "level": 1,
-    "race": "Warrior",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68167124.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68167124.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68167124.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/stinging-swordsman-5729",
+    "card_sets": [
+        {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 68167124,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68167124.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68167124.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68167124.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 77573354,
     "name": "Ragnaraika Wisteria of Woe",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Special Summon this card as a Normal Monster (Plant/DARK/Level 4/ATK 1600/DEF 0) (this card is also still a Trap), then if you control a \"Ragnaraika\" Link Monster, you can banish up to 2 cards from your opponent's GY. During the End Phase, if this card is in your GY: You can shuffle 2 Insect, Plant, and/or Reptile monsters from your GY and/or banishment into the Deck, and if you do, Set this card. You can only use this effect of \"Ragnaraika Wisteria of Woe\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ragnaraika",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77573354.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77573354.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77573354.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ragnaraika-wisteria-of-woe-14570",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN077",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 77573354,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77573354.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77573354.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77573354.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

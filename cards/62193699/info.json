@@ -1,18 +1,35 @@
 {
     "id": 62193699,
     "name": "Rock Ogre Grotto #2",
+    "typeline": [
+        "Rock",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A golem formed by boulders, this monster turns its enemies to stone and crushes them to dust.",
+    "race": "Rock",
     "atk": 700,
     "def": 1400,
     "level": 3,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62193699.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62193699.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62193699.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rock-ogre-grotto-2-5262",
+    "card_images": [
+        {
+            "id": 62193699,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62193699.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62193699.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62193699.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "1.20",
+            "amazon_price": "0.01",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

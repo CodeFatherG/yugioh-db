@@ -1,20 +1,57 @@
 {
     "id": 2463794,
     "name": "Fiendsmith's Requiem",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 LIGHT Fiend monster\r\nYou can only Special Summon \"Fiendsmith's Requiem(s)\" once per turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Fiendsmith\" monster from your hand or Deck. You can target 1 LIGHT non-Link Fiend monster you control; equip this card from your field or GY to that monster you control as an Equip Spell that gives it 600 ATK. You can only use this effect of \"Fiendsmith's Requiem\" once per turn.",
+    "race": "Fiend",
     "atk": 600,
     "def": null,
     "level": null,
-    "race": "Fiend",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Fiendsmith",
     "linkval": 1,
     "linkmarkers": [
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/2463794.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2463794.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2463794.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiendsmith-s-requiem-14424",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN046",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN046",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2463794,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2463794.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2463794.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2463794.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.68",
+            "tcgplayer_price": "5.55",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

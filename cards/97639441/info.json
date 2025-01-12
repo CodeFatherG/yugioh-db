@@ -1,18 +1,45 @@
 {
     "id": 97639441,
     "name": "Photon Jumper",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When an opponent's monster declares an attack: You can activate this effect; skip your next Battle Phase, also Special Summon this card from your hand, then end this Battle Phase. If this card is sent to the GY: You can add 1 \"Photon\" or \"Galaxy\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Photon Jumper\" once per turn.",
+    "race": "Warrior",
     "atk": 0,
     "def": 0,
     "level": 4,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Photon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/97639441.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97639441.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97639441.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/photon-jumper-13610",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN043",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 97639441,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97639441.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97639441.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97639441.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.38",
+            "tcgplayer_price": "0.89",
+            "ebay_price": "4.80",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "4.99"
+        }
+    ]
 }

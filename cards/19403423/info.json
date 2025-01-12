@@ -2,17 +2,42 @@
     "id": 19403423,
     "name": "Time-Tearing Morganite",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "For the rest of this Duel, apply the following effects.\r\n\u25cf You cannot activate monster effects in the hand.\r\n\u25cf Draw 2 cards instead of 1 for your normal draw during your Draw Phase.\r\n\u25cf You can conduct 2 Normal Summons/Sets per turn, not just 1.\r\nYou can banish this card from your GY, then discard 1 \"Time-Tearing Morganite\"; your opponent cannot activate monster effects when you Normal Summon this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19403423.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19403423.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19403423.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/time-tearing-morganite-13693",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN088",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN067",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19403423,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19403423.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19403423.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19403423.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.41",
+            "tcgplayer_price": "1.83",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

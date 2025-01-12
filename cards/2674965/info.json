@@ -2,17 +2,36 @@
     "id": 2674965,
     "name": "Argostars - Home Stadium",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "Once per turn: You can pay 1000 LP; add 1 \"Argostars\" card from your GY or banishment to your hand. Each time a Continuous Trap in the Spell & Trap Zone is Special Summoned to your field, inflict 500 damage to your opponent. Once per Chain, if a Continuous Trap activates its effect in your Monster Zone, while you have a banished \"Argostars\" monster: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Argostars",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2674965.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2674965.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2674965.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/argostars-home-stadium-14716",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN058",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2674965,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2674965.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2674965.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2674965.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.40",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

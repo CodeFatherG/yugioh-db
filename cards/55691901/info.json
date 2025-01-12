@@ -1,18 +1,51 @@
 {
     "id": 55691901,
     "name": "Great Bill",
+    "typeline": [
+        "Beast",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "Nothing escapes from this beast's massive mouth.",
+    "race": "Beast",
     "atk": 1250,
     "def": 1300,
     "level": 4,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/55691901.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55691901.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55691901.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/great-bill-4741",
+    "card_sets": [
+        {
+            "set_name": "World Championship 2010 Card Pack",
+            "set_code": "WCPP-EN006",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "World Championship 2011 Card Pack",
+            "set_code": "WP11-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 55691901,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55691901.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55691901.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55691901.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.92",
+            "tcgplayer_price": "24.96",
+            "ebay_price": "144.99",
+            "amazon_price": "79.99",
+            "coolstuffinc_price": "49.99"
+        }
+    ]
 }

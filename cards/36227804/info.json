@@ -1,18 +1,52 @@
 {
     "id": 36227804,
     "name": "Gishki Beast",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned: You can target 1 Level 4 or lower \"Gishki\" monster in your Graveyard; Special Summon that target in face-up Defense Position.",
+    "race": "Beast",
     "atk": 1500,
     "def": 1300,
     "level": 4,
-    "race": "Beast",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Gishki",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/36227804.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36227804.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36227804.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gishki-beast-3061",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 7b",
+            "set_code": "DT07-EN062",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN095",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 36227804,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36227804.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36227804.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36227804.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.38",
+            "tcgplayer_price": "0.28",
+            "ebay_price": "4.99",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

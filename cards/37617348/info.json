@@ -1,18 +1,59 @@
 {
     "id": 37617348,
     "name": "Rescue-ACE Hydrant",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "While you control a \"Rescue-ACE\" monster other than \"Rescue-ACE Hydrant\", your opponent's monsters cannot target this card for attacks, also your opponent cannot target this card with card effects. You can only use each of the following effects of \"Rescue-ACE Hydrant\" once per turn. You can activate a Quick-Play Spell, or Trap Card, that was Set by the effect of your \"Rescue-ACE\" card, the turn it was Set. During your Main Phase: You can add 1 \"Rescue-ACE\" monster from your Deck to your hand, except \"Rescue-ACE Hydrant\".",
+    "race": "Machine",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Machine",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Rescue-ACE",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37617348.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37617348.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37617348.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rescue-ace-hydrant-13392",
+    "card_sets": [
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN004",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN076",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37617348,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37617348.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37617348.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37617348.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "6.97",
+            "tcgplayer_price": "9.60",
+            "ebay_price": "54.76",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

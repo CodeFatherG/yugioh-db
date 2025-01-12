@@ -1,18 +1,52 @@
 {
     "id": 88392300,
     "name": "Wattkinetic Puppeteer",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "(Quick Effect): You can send this card from your hand or field to the GY, then target 1 monster your opponent controls; move that target to another of their Main Monster Zones.",
+    "race": "Psychic",
     "atk": 1800,
     "def": 0,
     "level": 4,
-    "race": "Psychic",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Watt",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88392300.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88392300.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88392300.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wattkinetic-puppeteer-8970",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN192",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Extreme Force",
+            "set_code": "EXFO-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88392300,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88392300.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88392300.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88392300.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,42 @@
     "id": 69319869,
     "name": "Gravity Lash",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 face-up monster on the field; it loses ATK equal to its DEF until the end of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/69319869.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69319869.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69319869.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gravity-lash-8751",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN077",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 69319869,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69319869.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69319869.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69319869.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

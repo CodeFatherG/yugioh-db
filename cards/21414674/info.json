@@ -1,18 +1,51 @@
 {
     "id": 21414674,
     "name": "Prominence Hand",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a \"Magic Hand\", \"Fire Hand\", or \"Ice Hand\", you can Special Summon this card (from your hand).",
+    "race": "Pyro",
     "atk": 600,
     "def": 2000,
     "level": 4,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21414674.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21414674.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21414674.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/prominence-hand-1840",
+    "card_sets": [
+        {
+            "set_name": "Dragons of Legend",
+            "set_code": "DRLG-EN048",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.35"
+        },
+        {
+            "set_name": "Dragons of Legend: The Complete Series",
+            "set_code": "DLCS-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.9"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21414674,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21414674.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21414674.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21414674.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

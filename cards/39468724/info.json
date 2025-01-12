@@ -1,18 +1,46 @@
 {
     "id": 39468724,
     "name": "Nekroz of Areadbhair",
+    "typeline": [
+        "Warrior",
+        "Ritual",
+        "Effect"
+    ],
     "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
     "desc": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned, without using any Level 10 monsters. You can only use each of these effects of \"Nekroz of Areadbhair\" once per turn.\r\n\u25cf You can discard this card; Tribute up to 2 \"Nekroz\" monsters from your hand and/or field, and if you do, send that many \"Nekroz\" cards from your Deck to the GY.\r\n\u25cf When a monster effect is activated (Quick Effect): You can Tribute 1 monster from your hand or field; negate the activation, and if you do, banish that card.",
+    "race": "Warrior",
     "atk": 3300,
     "def": 3200,
     "level": 10,
-    "race": "Warrior",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Nekroz",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39468724.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39468724.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39468724.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nekroz-of-areadbhair-11693",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN008",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.15"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39468724,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39468724.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39468724.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39468724.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.05",
+            "tcgplayer_price": "1.93",
+            "ebay_price": "1.84",
+            "amazon_price": "1.27",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

@@ -2,17 +2,26 @@
     "id": 31322640,
     "name": "Allure Palace",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "Spellcaster monsters you control gain 500 ATK/DEF. You can send 1 card from your hand to the GY; take 1 \"Allure Queen\" monster from your Deck, and either add it to your hand or Special Summon it to your opponent's field. You can only use this effect of \"Allure Palace\" up to thrice per turn. \"Allure Queen\" Effect Monsters you control gain this effect.\r\n\u25cf You can send this card equipped with a card(s) by its own effect to the GY; Special Summon 1 Spellcaster monster with 1500 or less ATK from your hand or Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31322640.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31322640.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31322640.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/allure-palace-14515",
+    "card_images": [
+        {
+            "id": 31322640,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31322640.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31322640.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31322640.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

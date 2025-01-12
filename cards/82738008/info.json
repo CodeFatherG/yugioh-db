@@ -2,17 +2,50 @@
     "id": 82738008,
     "name": "Branded in Red",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Despia\" monster or \"Fallen of Albaz\" in your GY; add it to your hand, then you can apply the following effect.\r\n\u25cf Fusion Summon 1 Level 8 or higher Fusion Monster from your Extra Deck, by banishing Fusion Materials mentioned on it from your hand or field, but it cannot attack directly this turn.\r\nYou can only activate 1 \"Branded in Red\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Branded",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/82738008.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82738008.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82738008.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/branded-in-red-12456",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN219",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN057",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 22",
+            "set_code": "OP22-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 82738008,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82738008.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82738008.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82738008.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.75",
+            "tcgplayer_price": "0.42",
+            "ebay_price": "2.99",
+            "amazon_price": "4.49",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

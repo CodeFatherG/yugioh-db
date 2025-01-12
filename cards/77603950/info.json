@@ -1,18 +1,35 @@
 {
     "id": 77603950,
     "name": "Phantom Dewan",
+    "typeline": [
+        "Spellcaster",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A sorcerer that can paralyze an enemy with a single curse.''",
+    "race": "Spellcaster",
     "atk": 700,
     "def": 600,
     "level": 2,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77603950.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77603950.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77603950.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/phantom-dewan-6531",
+    "card_images": [
+        {
+            "id": 77603950,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77603950.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77603950.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77603950.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "20.00",
+            "amazon_price": "2.01",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

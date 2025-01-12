@@ -1,18 +1,52 @@
 {
     "id": 50281477,
     "name": "Tainted of the Tistina",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute Summon this card face-up by Tributing 1 face-down monster your opponent controls. This card's Level becomes 10 if it was Normal Summoned/Set. If this card is sent to the GY, except from the field: You can target 1 \"Tistina\" monster you control; this turn, it can make a second attack during each Battle Phase, also you can only attack with 1 monster.",
+    "race": "Aqua",
     "atk": 2000,
     "def": 0,
     "level": 5,
-    "race": "Aqua",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Tistina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50281477.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50281477.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50281477.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tainted-of-the-tistina-14168",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN088",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN088",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50281477,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50281477.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50281477.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50281477.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

@@ -2,17 +2,56 @@
     "id": 44221928,
     "name": "Breath of Acclamation",
     "type": "Spell Card",
+    "humanReadableCardType": "Ritual Spell",
+    "frameType": "spell",
     "desc": "This card can be used to Ritual Summon any WIND Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Ritual",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44221928.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44221928.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44221928.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/breath-of-acclamation-11964",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN049",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN086",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 16",
+            "set_code": "OP16-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 16 (POR)",
+            "set_code": "OP16-PT026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44221928,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44221928.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44221928.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44221928.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "1.60",
+            "amazon_price": "74.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

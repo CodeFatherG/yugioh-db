@@ -1,18 +1,36 @@
 {
     "id": 6103114,
     "name": "Beaked Snake",
+    "typeline": [
+        "Reptile",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''This monster wraps itself around an opponent and pecks away with its huge beak.''",
+    "race": "Reptile",
     "atk": 800,
     "def": 900,
     "level": 3,
-    "race": "Reptile",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Recolored counterpart",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6103114.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6103114.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6103114.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/beaked-snake-532",
+    "card_images": [
+        {
+            "id": 6103114,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6103114.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6103114.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6103114.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "10.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

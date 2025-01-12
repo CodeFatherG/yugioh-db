@@ -2,17 +2,43 @@
     "id": 64400161,
     "name": "Fandora, the Flying Furtress",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "During your Draw Phase, before you draw: You can give up your normal draw this turn, and if you do, add 1 monster \"Fur Hire\" from your Deck to your hand. If you control 5 or more monsters \"Fur Hire\" with different names: You can send this card from the Field Zone to the GY; destroy all cards your opponent controls, also, for the rest of this turn, your opponent takes no damage.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fur Hire",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64400161.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64400161.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64400161.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fandora-the-flying-furtress-9275",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN254",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dark Saviors",
+            "set_code": "DASA-EN024",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64400161,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64400161.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64400161.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64400161.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

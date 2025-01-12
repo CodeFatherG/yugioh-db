@@ -2,17 +2,35 @@
     "id": 56606928,
     "name": "Eternal Drought",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Destroy all face-up Fish-Type monsters on the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56606928.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56606928.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56606928.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/eternal-drought-4822",
+    "card_sets": [
+        {
+            "set_name": "Gold Series 4: Pyramids Edition",
+            "set_code": "GLD4-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56606928,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56606928.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56606928.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56606928.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

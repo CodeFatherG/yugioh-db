@@ -2,17 +2,36 @@
     "id": 33062423,
     "name": "Decode Destruction",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Decode Talker\" you control; apply the following effects this turn, depending on the number of monsters it currently points to.\r\n\u25cf 1+: That monster gains 500 ATK for each monster it currently points to.\r\n\u25cf 2+: Monsters destroyed by battle with that monster are banished after damage calculation.\r\n\u25cf 3: After damage calculation, if that monster destroys your opponent's monster by battle: Destroy all cards your opponent controls.\r\nYou can only activate 1 \"Decode Destruction\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Code Talker",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33062423.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33062423.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33062423.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/decode-destruction-9960",
+    "card_sets": [
+        {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.61"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33062423,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33062423.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33062423.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33062423.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

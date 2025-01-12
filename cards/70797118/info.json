@@ -1,18 +1,65 @@
 {
     "id": 70797118,
     "name": "Thunder Nyan Nyan",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If there is a non-LIGHT monster on your side of the field, destroy this face-up card.",
+    "race": "Thunder",
     "atk": 1900,
     "def": 800,
     "level": 4,
-    "race": "Thunder",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70797118.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70797118.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70797118.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/thunder-nyan-nyan-5946",
+    "card_sets": [
+        {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN169",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.46"
+        },
+        {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-059",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "3.47"
+        },
+        {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-EN059",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.00"
+        },
+        {
+            "set_name": "Tournament Pack 6",
+            "set_code": "TP6-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70797118,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70797118.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70797118.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70797118.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.47",
+            "ebay_price": "9.68",
+            "amazon_price": "0.93",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

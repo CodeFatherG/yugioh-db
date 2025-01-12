@@ -1,18 +1,46 @@
 {
     "id": 80250319,
     "name": "Graydle Slime Jr.",
+    "typeline": [
+        "Aqua",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned: You can target 1 \"Graydle\" monster in your Graveyard; for the rest of this turn, you cannot Special Summon other monsters, except WATER monsters, also Special Summon that monster, then you can Special Summon from your hand, 1 Aqua-Type monster with the same Level as the monster Special Summoned by this card's effect. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 \"Graydle\" monster from your Deck.",
+    "race": "Aqua",
     "atk": 0,
     "def": 2000,
     "level": 2,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Graydle",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80250319.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80250319.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80250319.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/graydle-slime-jr-6733",
+    "card_sets": [
+        {
+            "set_name": "Invasion: Vengeance",
+            "set_code": "INOV-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80250319,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80250319.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80250319.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80250319.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "2.42",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

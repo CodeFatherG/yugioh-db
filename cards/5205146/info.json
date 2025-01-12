@@ -1,18 +1,45 @@
 {
     "id": 5205146,
     "name": "Infinitrack Road Roller",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If an EARTH Machine monster is Tributed, or banished face-up: You can Special Summon this card from the GY (if it was there when the monster was Tributed or banished) or hand (even if not), but banish it when it leaves the field. You can only use this effect of \"Infinitrack Road Roller\" once per turn. An Xyz Monster whose original Type is Machine and has this card as material gains this effect.\r\n\u25cf Face-up monsters your opponent controls are changed to Defense Position, also they lose 1000 DEF.",
+    "race": "Machine",
     "atk": 2100,
     "def": 2100,
     "level": 5,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Infinitrack",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5205146.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5205146.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5205146.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/infinitrack-road-roller-13679",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN022",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5205146,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5205146.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5205146.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5205146.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.40",
+            "tcgplayer_price": "0.43",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

@@ -1,21 +1,41 @@
 {
     "id": 25577965,
     "name": "Flametongue the Burning Blade",
+    "typeline": [
+        "Warrior",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 FIRE monsters\r\nFace-up Spells/Traps you control cannot be destroyed by your opponent's card effects. You can target 1 of your banished FIRE monsters; add it to your hand, but you cannot activate cards, or the effects of cards, with its name for the rest of this turn. You can only use this effect of \"Flametongue the Burning Blade\" once per turn.",
+    "race": "Warrior",
     "atk": 1400,
     "def": null,
     "level": null,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/25577965.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25577965.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25577965.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/flametongue-the-burning-blade-13989",
+    "card_images": [
+        {
+            "id": 25577965,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25577965.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25577965.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25577965.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

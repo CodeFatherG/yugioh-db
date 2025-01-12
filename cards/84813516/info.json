@@ -1,18 +1,44 @@
 {
     "id": 84813516,
     "name": "Thunder Ball",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "At the end of the Damage Step, if a monster battled: You can Special Summon this card from your hand. You can send 1 Trap from your hand or that's Set on your field to the GY; destroy all other monsters in this card's column. If this card in the Monster Zone is destroyed by battle or card effect and sent to the GY: You can target 1 card in your GY; roll a six-sided die, and if the result is 6, add that target to your hand. You can only use each effect of \"Thunder Ball\" once per turn.",
+    "race": "Fiend",
     "atk": 450,
     "def": 400,
     "level": 3,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84813516.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84813516.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84813516.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/thunder-ball-13302",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84813516,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84813516.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84813516.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84813516.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "1.50",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

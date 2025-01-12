@@ -1,18 +1,47 @@
 {
     "id": 10732060,
     "name": "Hi-Speedroid Glider 2",
+    "typeline": [
+        "Machine",
+        "Synchro",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Synchro Tuner Monster",
-    "desc": "1 WIND Machine Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can target 1 non-Tuner Level 7 or lower WIND Synchro Monster in your GY; Special Summon it. If your opponent Special Summons a monster(s) and you control a \"Clear Wing\" monster (except during the Damage Step): You can banish this card from your GY; increase the Levels of all face-up monsters your opponent currently controls by 5. You can only use each effect of \"Hi-Speedroid Glider 2\" once per turn.",
+    "humanReadableCardType": "Synchro Tuner Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 WIND Machine Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can target 1 Level 7 or lower WIND non-Tuner Synchro Monster in your GY; Special Summon it. If your opponent Special Summons a monster(s), and you control a \"Clear Wing\" monster (except during the Damage Step): You can banish this card from your GY; increase the Levels of all monsters your opponent controls by 5. You can only use each effect of \"Hi-Speedroid Glider #2\" once per turn.",
+    "race": "Machine",
     "atk": 1600,
     "def": 2200,
     "level": 5,
-    "race": "Machine",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "roid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/10732060.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10732060.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10732060.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hi-speedroid-glider-2-14709",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 10732060,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10732060.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10732060.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10732060.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

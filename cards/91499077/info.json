@@ -1,18 +1,53 @@
 {
     "id": 91499077,
     "name": "Gagaga Samurai",
+    "typeline": [
+        "Warrior",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 4 monsters\r\nOnce per turn: You can detach 1 material from this card, then target 1 \"Gagaga\" monster you control; it can make a second attack during each Battle Phase this turn. When another monster you control is targeted for an attack while this card is in Attack Position: You can change this card to face-up Defense Position, and if you do, change the attack target to this card and perform damage calculation.",
+    "race": "Warrior",
     "atk": 1900,
     "def": 1600,
     "level": 4,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Gagaga",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91499077.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91499077.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91499077.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gagaga-samurai-7628",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Magical Hero",
+            "set_code": "LED6-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "World Superstars",
+            "set_code": "WSUP-EN027",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91499077,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91499077.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91499077.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91499077.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

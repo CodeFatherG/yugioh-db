@@ -1,18 +1,45 @@
 {
     "id": 72403299,
     "name": "Gishki Diviner",
+    "typeline": [
+        "Sea Serpent",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn: You can declare 1 card name; reveal the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, return it to the top of the Deck.",
+    "race": "Sea Serpent",
     "atk": 1200,
     "def": 800,
     "level": 3,
-    "race": "Sea Serpent",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Gishki",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/72403299.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72403299.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72403299.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gishki-diviner-6076",
+    "card_sets": [
+        {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN027",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 72403299,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72403299.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72403299.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72403299.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,59 @@
 {
     "id": 5368615,
     "name": "Steam Gyroid",
+    "typeline": [
+        "Machine",
+        "Fusion"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Monster",
+    "frameType": "fusion",
     "desc": "\"Gyroid\" + \"Steamroid\"",
+    "race": "Machine",
     "atk": 2200,
     "def": 1600,
     "level": 6,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Roid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5368615.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5368615.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5368615.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/steam-gyroid-474",
+    "card_sets": [
+        {
+            "set_name": "Cybernetic Revolution",
+            "set_code": "CRV-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5.32"
+        },
+        {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENB21",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5368615,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5368615.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5368615.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5368615.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "2.77",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,44 @@
 {
     "id": 17243896,
     "name": "Ground Spider",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, if you control this face-up Defense Position monster when your opponent Normal or Special Summons a monster(s), you can change that monster(s) to Defense Position.",
+    "race": "Insect",
     "atk": 0,
     "def": 1500,
     "level": 4,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17243896.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17243896.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17243896.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ground-spider-1493",
+    "card_sets": [
+        {
+            "set_name": "Stardust Overdrive",
+            "set_code": "SOVR-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17243896,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17243896.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17243896.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17243896.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "1.22",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

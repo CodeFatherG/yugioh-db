@@ -1,18 +1,53 @@
 {
     "id": 39915560,
     "name": "Starving Venom Predapower Fusion Dragon",
+    "typeline": [
+        "Dragon",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 DARK Fusion Monster + 1 Fusion Monster\r\n(This card is always treated as a \"Predaplant\" card.)\r\nOnce per turn, when a card or effect is activated (Quick Effect): You can Tribute 1 monster on either field with a Predator Counter, and if you do, negate the activation. If this Fusion Summoned card you control is sent to your GY by an opponent's card: You can target 1 DARK monster in your GY; Special Summon it. You can only use this effect of \"Starving Venom Predapower Fusion Dragon\" once per turn.",
+    "race": "Dragon",
     "atk": 3600,
     "def": 2500,
     "level": 10,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Predaplant",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39915560.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39915560.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39915560.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/starving-venom-predapower-fusion-dragon-12996",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN081",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN036",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39915560,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39915560.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39915560.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39915560.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "2.34",
+            "amazon_price": "28.99",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

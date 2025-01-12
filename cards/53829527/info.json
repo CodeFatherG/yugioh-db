@@ -2,17 +2,36 @@
     "id": 53829527,
     "name": "Crystron Cluster",
     "type": "Trap Card",
-    "desc": "\"Crystron\" cards you control cannot be banished by your opponent's card effects. You can target 1 face-up card on the field, or up to 2 if you control a \"Crystron\" Synchro Monster; shuffle 1 \"Crystron\" card from your GY or banishment into the Deck, except \"Crystron Cluster\", and if you do, destroy the targeted cards. You can only use this effect of \"Crystron Cluster\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
+    "desc": "\"Crystron\" cards you control cannot be banished by your opponent's card effects. You can target 1 face-up card on the field, or you can target 2 if you control a \"Crystron\" Synchro Monster; shuffle 1 \"Crystron\" card from your GY or banishment into the Deck, except \"Crystron Cluster\", and if you do, destroy the targeted card(s). You can only use this effect of \"Crystron Cluster\" once per turn.",
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Crystron",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53829527.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53829527.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53829527.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crystron-cluster-14718",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN080",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53829527,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53829527.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53829527.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53829527.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

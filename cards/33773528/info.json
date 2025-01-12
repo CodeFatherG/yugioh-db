@@ -2,17 +2,36 @@
     "id": 33773528,
     "name": "Amazement Precious Park",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "During your Main Phase, you can activate 1 \"Attraction\" Trap the turn it was Set. During the End Phase: You can send 1 \"Attraction\" Trap you control equipped to a monster to the GY, then target 1 of your \"Attraction\" Traps, with a different name, that is banished or in your GY; Set that card. You can only use each effect of \"Amazement Precious Park\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Amazement",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33773528.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33773528.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33773528.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/amazement-precious-park-11829",
+    "card_sets": [
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN058",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33773528,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33773528.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33773528.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33773528.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "1.05",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

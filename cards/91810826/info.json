@@ -1,18 +1,50 @@
 {
     "id": 91810826,
     "name": "Tenpai Dragon Chundra",
+    "typeline": [
+        "Dragon",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, during the Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only use each of the following effects of \"Tenpai Dragon Chundra\" once per turn. If you control a FIRE Dragon monster: You can Special Summon this card from your hand. At the start of the Damage Step, if a monster battles: You can Special Summon 1 Level 4 or lower FIRE Dragon monster from your Deck, except \"Tenpai Dragon Chundra\".",
+    "race": "Dragon",
     "atk": 1500,
     "def": 1000,
     "level": 4,
-    "race": "Dragon",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Tenpai Dragon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91810826.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91810826.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91810826.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tenpai-dragon-chundra-14277",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited",
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 91810826,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91810826.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91810826.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91810826.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

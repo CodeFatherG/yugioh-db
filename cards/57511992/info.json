@@ -1,18 +1,51 @@
 {
     "id": 57511992,
     "name": "Yorishiro of the Aqua",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 1 WATER monster in your GY; apply 1 of these effects, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters.\r\n\u25cf (Only if the target has a Level) until the End Phase, this card's Level, also its name, become the same as that monster's.\r\n\u25cf (Only if \"Umi\" is on the field), Special Summon that monster in Defense Position.\r\nYou can banish this card from your GY, then target 1 \"Umi\" in your GY; add it to your hand. You can only use each effect of \"Yorishiro of the Aqua\" once per turn.",
+    "race": "Aqua",
     "atk": 700,
     "def": 2000,
     "level": 4,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57511992.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57511992.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57511992.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/yorishiro-of-the-aqua-12930",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN218",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN092",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57511992,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57511992.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57511992.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57511992.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

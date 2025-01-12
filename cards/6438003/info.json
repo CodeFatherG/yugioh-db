@@ -1,18 +1,45 @@
 {
     "id": 6438003,
     "name": "Ancient Warriors - Deceptive Jia Wen",
+    "typeline": [
+        "Beast-Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 1 Continuous Spell/Trap you control; send it to the GY, and if you do, halve the ATK of 2 face-up monsters on the field, until the end of this turn. If a card(s) your opponent controls is destroyed by battle or card effect: You can target 1 \"Ancient Warriors\" card in your GY, except \"Ancient Warriors - Deceptive Jia Wen\"; add it to your hand. You can only use each effect of \"Ancient Warriors - Deceptive Jia Wen\" once per turn.",
+    "race": "Beast-Warrior",
     "atk": 1100,
     "def": 1800,
     "level": 4,
-    "race": "Beast-Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Ancient Warriors",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6438003.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6438003.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6438003.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-warriors-deceptive-jia-wen-10772",
+    "card_sets": [
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6438003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6438003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6438003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6438003.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.60",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

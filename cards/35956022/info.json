@@ -2,17 +2,35 @@
     "id": 35956022,
     "name": "Acidic Downpour",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "All EARTH monsters lose 500 ATK and gain 400 DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35956022.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35956022.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35956022.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/acidic-downpour-3041",
+    "card_sets": [
+        {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN058",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35956022,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35956022.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35956022.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35956022.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "79.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

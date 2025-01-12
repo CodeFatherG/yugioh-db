@@ -1,18 +1,51 @@
 {
     "id": 8152834,
     "name": "Tarai",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your hand: You can target 1 face-up monster in the Main Monster Zone that has activated its effect on the field this turn; destroy it, and if you do, Special Summon this card to the zone that monster was in. You can only use this effect of \"Tarai\" once per turn.",
+    "race": "Fairy",
     "atk": 0,
     "def": 0,
     "level": 4,
-    "race": "Fairy",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8152834.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8152834.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8152834.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tarai-14095",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN389",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8152834,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8152834.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8152834.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8152834.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

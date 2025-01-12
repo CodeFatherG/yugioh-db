@@ -1,18 +1,52 @@
 {
     "id": 45674286,
     "name": "Machina Unclaspare",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is added to your hand, except by drawing it: You can Special Summon it, also you cannot Special Summon for the rest of this turn, except Machine monsters. If this card is Normal or Special Summoned: You can send 1 \"Machina\" monster from your Deck to the GY, except \"Machina Unclaspare\". You can only use each effect of \"Machina Unclaspare\" once per turn.",
+    "race": "Machine",
     "atk": 1800,
     "def": 800,
     "level": 4,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Machina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45674286.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45674286.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45674286.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/machina-unclaspare-11646",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN014",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45674286,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45674286.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45674286.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45674286.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

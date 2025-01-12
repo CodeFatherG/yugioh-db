@@ -2,17 +2,36 @@
     "id": 83880473,
     "name": "War Rock Spirit",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "During the Battle Phase: Target 1 \"War Rock\" monster in your GY, then activate 1 of these effects;\r\n\u25cf Special Summon that target in Attack Position, but for the rest of this turn, its effects are negated, also it cannot attack directly.\r\n\u25cf Special Summon that target in Defense Position, also the first time each \"War Rock\" monster you control would be destroyed by battle this turn, it is not destroyed.\r\nYou can only activate 1 \"War Rock Spirit\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "War Rock",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83880473.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83880473.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83880473.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/war-rock-spirit-12303",
+    "card_sets": [
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN090",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83880473,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83880473.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83880473.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83880473.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "39.99",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

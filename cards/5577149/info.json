@@ -1,18 +1,45 @@
 {
     "id": 5577149,
     "name": "Battleguard Cadet",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "All \"Battleguard\" monsters you control gain 500 ATK. You can only use each of the following effects of \"Battleguard Cadet\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Feast of the Wild LV5\" from your Deck to your hand. You can Tribute this card; Special Summon 1 Level 8 Warrior monster from your hand.",
+    "race": "Warrior",
     "atk": 50,
     "def": 100,
     "level": 1,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Battleguard",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5577149.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5577149.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5577149.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/battleguard-cadet-13051",
+    "card_sets": [
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.86"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5577149,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5577149.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5577149.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5577149.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,42 @@
     "id": 1490690,
     "name": "Canopic Protector",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Once per Chain, when your opponent activates a card or effect: You can Special Summon 1 \"Horus\" monster from your hand or GY, but for the rest of this turn, you cannot Special Summon monsters with the same original name by the effect of \"Canopic Protector\". If this card is sent from the hand or field to the GY: You can Set this card, but banish it when it leaves the field. You can only use this effect of \"Canopic Protector\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/1490690.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1490690.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1490690.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/canopic-protector-13999",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN244",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN076",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 1490690,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1490690.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1490690.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1490690.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

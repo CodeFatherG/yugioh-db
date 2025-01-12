@@ -1,18 +1,52 @@
 {
     "id": 6783559,
     "name": "Self-Destruct Ant",
+    "typeline": [
+        "Insect",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: Each player takes 1000 damage.\r\nIf this card is destroyed by battle or card effect and sent to the GY: Inflict 1000 damage to your opponent. You can only use each effect of \"Self-Destruct Ant\" once per turn.",
+    "race": "Insect",
     "atk": 1500,
     "def": 1000,
     "level": 3,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6783559.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6783559.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6783559.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/self-destruct-ant-8694",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN124",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Circuit Break",
+            "set_code": "CIBR-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6783559,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6783559.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6783559.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6783559.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.90",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

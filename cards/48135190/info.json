@@ -2,17 +2,49 @@
     "id": 48135190,
     "name": "Gravelstorm",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 Spell/Trap Card on each side of the field; return them to the hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48135190.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48135190.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48135190.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gravelstorm-4110",
+    "card_sets": [
+        {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN080",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+        },
+        {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN080",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENF19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48135190,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48135190.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48135190.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48135190.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

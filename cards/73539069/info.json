@@ -1,20 +1,80 @@
 {
     "id": 73539069,
     "name": "Striker Dragon",
+    "typeline": [
+        "Dragon",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 Level 4 or lower Dragon monster\r\nIf this card is Link Summoned: You can add 1 \"Boot Sector Launch\" from your Deck to your hand. You can target 1 face-up monster you control and 1 \"Rokket\" monster in your GY; destroy that monster on the field, and if you do, add that other monster from the GY to your hand. You can only use each effect of \"Striker Dragon\" once per turn.",
+    "race": "Dragon",
     "atk": 1000,
     "def": null,
     "level": null,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
     "linkval": 1,
     "linkmarkers": [
         "Left"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/73539069.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73539069.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73539069.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/striker-dragon-10384",
+    "card_sets": [
+        {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN204",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "6.46"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN046",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN046",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Chaos Impact",
+            "set_code": "CHIM-EN098",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN145",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.82"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 73539069,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73539069.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73539069.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73539069.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.33",
+            "amazon_price": "8.40",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

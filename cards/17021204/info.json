@@ -1,18 +1,44 @@
 {
     "id": 17021204,
     "name": "Mother Spider",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you have only Insect-Type monsters in your Graveyard, you can send 2 face-up Defense Position monsters your opponent controls to the Graveyard and Special Summon this card from your hand.",
+    "race": "Insect",
     "atk": 2300,
     "def": 1200,
     "level": 6,
-    "race": "Insect",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17021204.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17021204.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17021204.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mother-spider-1470",
+    "card_sets": [
+        {
+            "set_name": "Stardust Overdrive",
+            "set_code": "SOVR-EN019",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17021204,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17021204.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17021204.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17021204.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.76",
+            "ebay_price": "2.00",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

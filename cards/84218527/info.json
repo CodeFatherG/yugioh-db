@@ -2,17 +2,36 @@
     "id": 84218527,
     "name": "Fortune Lady Rewind",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target any number of your banished \"Fortune Lady\" monsters with different names; Special Summon them, but shuffle them into the Deck during the End Phase. You can only activate 1 \"Fortune Lady Rewind\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fortune Lady",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84218527.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84218527.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84218527.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fortune-lady-rewind-10233",
+    "card_sets": [
+        {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN070",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84218527,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84218527.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84218527.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84218527.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.40",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,51 @@
 {
     "id": 98520301,
     "name": "Asset Mountis",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If your opponent controls a Level 6 or lower monster: You can Special Summon this card from your hand. If you have more cards in your hand than your opponent: You can change the battle positions of all monsters on the field, all other Insect monsters on the field become the same Attribute and Level as this card, also you cannot Special Summon monsters for the rest of this turn, except Insect monsters. If this card is destroyed: You can add 1 Level 8 or higher Insect monster from your Deck to your hand. You can only use each effect of \"Asset Mountis\" once per turn.",
+    "race": "Insect",
     "atk": 2300,
     "def": 2000,
     "level": 7,
-    "race": "Insect",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98520301.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98520301.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98520301.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/asset-mountis-14161",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN248",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN083",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98520301,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98520301.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98520301.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98520301.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

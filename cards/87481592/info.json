@@ -2,17 +2,43 @@
     "id": 87481592,
     "name": "Dogmatikacism",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "If the equipped monster is a \"Dogmatika\" monster, it gains ATK equal to its Level x 100. If not, it loses 200 ATK for each \"Dogmatika\" monster you control. If this card is sent to the GY because the equipped monster is destroyed: You can send 1 monster from your Extra Deck to the GY. You can only use this effect of \"Dogmatikacism\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dogmatika",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/87481592.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87481592.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87481592.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dogmatikacism-11367",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN203",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.88"
+        },
+        {
+            "set_name": "Phantom Rage",
+            "set_code": "PHRA-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 87481592,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87481592.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87481592.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87481592.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "12.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

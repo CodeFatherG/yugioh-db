@@ -1,18 +1,44 @@
 {
     "id": 44663232,
     "name": "Ghost Fairy Elfobia",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn: You can reveal 1 WIND monster in your hand; until the end of your opponent's next Main Phase 1, monsters with a Level higher than the revealed monster cannot activate their effects.",
+    "race": "Psychic",
     "atk": 900,
     "def": 500,
     "level": 3,
-    "race": "Psychic",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44663232.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44663232.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44663232.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ghost-fairy-elfobia-3801",
+    "card_sets": [
+        {
+            "set_name": "Lord of the Tachyon Galaxy",
+            "set_code": "LTGY-EN085",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44663232,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44663232.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44663232.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44663232.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.88",
+            "tcgplayer_price": "0.89",
+            "ebay_price": "3.75",
+            "amazon_price": "2.90",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

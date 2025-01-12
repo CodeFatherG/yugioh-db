@@ -1,18 +1,59 @@
 {
     "id": 45871897,
     "name": "Lost Guardian",
+    "typeline": [
+        "Rock",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "The original DEF of this card equals the number of your banished Rock-Type monsters \u00d7 700.",
+    "race": "Rock",
     "atk": 100,
     "def": -1,
     "level": 4,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Guardian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45871897.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45871897.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45871897.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lost-guardian-3905",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN191",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Lost Millennium",
+            "set_code": "TLM-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Turbo Pack: Booster Eight",
+            "set_code": "TU08-EN007",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45871897,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45871897.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45871897.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45871897.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,51 @@
 {
     "id": 12061457,
     "name": "Soul Scissors",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If a monster(s) on the field is destroyed by battle or card effect and sent to the GY, while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. If this card is Special Summoned from the GY: You can target 1 monster your opponent controls; destroy it. You can only use each effect of \"Soul Scissors\" once per turn.",
+    "race": "Fiend",
     "atk": 550,
     "def": 350,
     "level": 2,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12061457.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12061457.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12061457.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/soul-scissors-13375",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN176",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12061457,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12061457.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12061457.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12061457.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

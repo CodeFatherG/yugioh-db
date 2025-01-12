@@ -1,18 +1,36 @@
 {
     "id": 17115745,
     "name": "Yormungarde",
+    "typeline": [
+        "Reptile",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''An extremely long snake that dwells in the world of myth.''",
+    "race": "Reptile",
     "atk": 1200,
     "def": 900,
     "level": 3,
-    "race": "Reptile",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Recolored counterpart",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17115745.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17115745.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17115745.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/yormungarde-1477",
+    "card_images": [
+        {
+            "id": 17115745,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17115745.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17115745.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17115745.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "13.82",
+            "amazon_price": "2.53",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

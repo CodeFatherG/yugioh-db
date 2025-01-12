@@ -1,18 +1,36 @@
 {
     "id": 86111442,
     "name": "Sentinel of the Tistina",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your hand or GY and you control a LIGHT \"Tistina\" monster: You can Special Summon this card. You can target 1 \"Tistina\" monster or 1 face-down card you control; destroy it, then add 1 \"Tistina\" card from your Deck to your hand. You can only use each effect of \"Sentinel of the Tistina\" once per turn.",
+    "race": "Aqua",
     "atk": 1200,
     "def": 1400,
     "level": 3,
-    "race": "Aqua",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Tistina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/86111442.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86111442.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86111442.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sentinel-of-the-tistina-14083",
+    "card_images": [
+        {
+            "id": 86111442,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86111442.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86111442.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86111442.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 300302025,
     "name": "Consumed By Darkness",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Yubel",
+    "frameType": "skill",
     "desc": "All \"Crystal Beast\" monsters on the field and in the GY become DARK. If an \"Ultimate Crystal\" monster attacks, negate the effects of the attack target during that Battle Phase. During damage calculation, if a \"Crystal Beast\" monster you control battles and you would take damage: You can send 1 \"Crystal Beast\" monster from your Deck to the GY; you take no battle damage from that battle.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Yubel",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302025.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302025.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302025.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/consumed-by-darkness-13215",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENS20",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302025,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302025.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302025.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302025.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

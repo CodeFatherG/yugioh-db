@@ -2,17 +2,70 @@
     "id": 44887817,
     "name": "Miracle Fertilizer",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Once per turn: You can target 1 Plant monster in your GY; Special Summon that target. You cannot Normal Summon/Set during the turn you Special Summon with this effect (even if this card leaves the field). If a monster Special Summoned by this effect leaves the field, destroy this card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44887817.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44887817.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44887817.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/miracle-fertilizer-3825",
+    "card_sets": [
+        {
+            "set_name": "Astral Pack Three",
+            "set_code": "AP03-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN162",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN162",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossroads of Chaos",
+            "set_code": "CSOC-EN057",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Fusion Enforcers",
+            "set_code": "FUEN-EN053",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.36"
+        },
+        {
+            "set_name": "Secret Slayers",
+            "set_code": "SESL-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.04"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44887817,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44887817.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44887817.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44887817.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

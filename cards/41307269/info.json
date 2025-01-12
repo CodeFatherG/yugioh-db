@@ -1,18 +1,52 @@
 {
     "id": 41307269,
     "name": "Superheavy Samurai Kabuto",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If your opponent Special Summons a monster(s): You can change as many Attack Position \"Superheavy Samurai\" monsters you control as possible to Defense Position, and if you do, the ones changed by this effect gain 500 DEF until the end of this turn.",
+    "race": "Machine",
     "atk": 1000,
     "def": 2000,
     "level": 4,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Superheavy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/41307269.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41307269.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41307269.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/superheavy-samurai-kabuto-3524",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN132",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 41307269,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41307269.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41307269.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41307269.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

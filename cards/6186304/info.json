@@ -2,17 +2,35 @@
     "id": 6186304,
     "name": "D - Force",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: You can add 1 \"Destiny HERO - Plasma\" from your Deck or GY to your hand. While you control \"Destiny HERO - Plasma\", apply the following effects.\r\n\u25cf You cannot draw during the Draw Phase.\r\n\u25cf Your opponent cannot target cards you control with card effects.\r\n\u25cf Each \"Destiny HERO - Plasma\" you control gains 100 ATK for each monster in the GYs, cannot be destroyed by your opponent's card effects, also can make a second attack during each Battle Phase.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6186304.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6186304.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6186304.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-force-12318",
+    "card_sets": [
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN009",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.66"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6186304,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6186304.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6186304.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6186304.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.42",
+            "tcgplayer_price": "0.47",
+            "ebay_price": "1.98",
+            "amazon_price": "1.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

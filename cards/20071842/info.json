@@ -2,17 +2,35 @@
     "id": 20071842,
     "name": "Heavy Interlock",
     "type": "Spell Card",
+    "humanReadableCardType": "Ritual Spell",
+    "frameType": "spell",
     "desc": "This card is used to Ritual Summon \"Borreload Riot Dragon\". You must also Tribute monsters from your hand or field, and/or destroy \"Rokket\" monsters from your hand or face-up field, whose total Levels equal 8 or more. The monster Special Summoned by this effect cannot be destroyed by battle with a monster Special Summoned from the Extra Deck, and is unaffected by the activated effect of any monster Special Summoned from the Extra Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Ritual",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/20071842.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20071842.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20071842.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heavy-interlock-12294",
+    "card_sets": [
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN052",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 20071842,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20071842.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20071842.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20071842.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.57",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

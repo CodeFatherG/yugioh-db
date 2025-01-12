@@ -2,17 +2,42 @@
     "id": 85519211,
     "name": "Minefield Eruption",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Inflict 1000 damage to your opponent for each face-up \"Mine Golem\" on your side of the field. After that, destroy all face-up \"Mine Golem\"(s) on your side of the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85519211.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85519211.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85519211.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/minefield-eruption-7167",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN231",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Lost Millennium",
+            "set_code": "TLM-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 85519211,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85519211.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85519211.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85519211.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,42 @@
     "id": 300302020,
     "name": "Union Combination",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Seto Kaiba",
+    "frameType": "skill",
     "desc": "Once per turn, during your Main Phase, you can place 1 card from your hand on the bottom of your Deck, then Special Summon 1 LIGHT Machine Fusion Monster from your Extra Deck, that cannot be Fusion Summoned, using monsters from your field or GY as material, ignoring its Summoning conditions. For the rest of this turn, your opponent takes no damage.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Seto Kaiba",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302020.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302020.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302020.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/union-combination-11790",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-ENS05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-ENS07",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302020,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302020.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302020.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302020.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "0.99",
+            "amazon_price": "82.34",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

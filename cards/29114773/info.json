@@ -2,17 +2,36 @@
     "id": 29114773,
     "name": "Speedroid Scratch",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Send 1 \"Speedroid\" card from your hand to the GY; add 1 \"Speedroid\" monster from your Deck to your hand. You can only activate 1 \"Speedroid Scratch\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Speedroid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29114773.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29114773.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29114773.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/speedroid-scratch-12344",
+    "card_sets": [
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN035",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.55"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29114773,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29114773.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29114773.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29114773.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.37",
+            "tcgplayer_price": "0.49",
+            "ebay_price": "0.99",
+            "amazon_price": "0.30",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

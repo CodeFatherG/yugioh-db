@@ -1,18 +1,45 @@
 {
     "id": 27868563,
     "name": "Goblin Biker Boom Mach",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per Chain, during the Main Phase, if this card is in your hand or GY (Quick Effect): You can detach 1 Xyz Material from a monster on either field, and if you do, Special Summon this card, also you cannot Special Summon \"Goblin Biker Boom Mach\" until the end of the next turn.",
+    "race": "Warrior",
     "atk": 1300,
     "def": 0,
     "level": 3,
-    "race": "Warrior",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Goblin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27868563.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27868563.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27868563.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/goblin-biker-boom-mach-14173",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27868563,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27868563.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27868563.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27868563.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

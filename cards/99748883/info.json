@@ -1,18 +1,52 @@
 {
     "id": 99748883,
     "name": "Meteor Rush - Monochroid",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Battle Phase, if 5 or more attacks have been declared this turn (Quick Effect): You can Special Summon this card from your hand. You can only use this effect of \"Meteor Rush - Monochroid\" once per turn. If this card battles, it gains 1000 ATK for each attack declared this turn, during the Damage Step only.",
+    "race": "Machine",
     "atk": 0,
     "def": 0,
     "level": 10,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "roid",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99748883.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99748883.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99748883.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/meteor-rush-monochroid-13563",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN317",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 99748883,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99748883.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99748883.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99748883.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

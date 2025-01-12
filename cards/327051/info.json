@@ -2,17 +2,36 @@
     "id": 327051,
     "name": "Magistus Vritra",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 Level 4 or lower \"Magistus\" monster in your GY; Special Summon it. If a \"Magistus\" card(s) in your Spell & Trap Zone would be destroyed by your opponent's card effect, you can banish this card from your GY instead. You can only use each effect of \"Magistus Vritra\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Magistus",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/327051.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/327051.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/327051.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/magistus-vritra-11431",
+    "card_sets": [
+        {
+            "set_name": "Genesis Impact",
+            "set_code": "GEIM-EN012",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.28"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 327051,
+            "image_url": "https://images.ygoprodeck.com/images/cards/327051.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/327051.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/327051.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

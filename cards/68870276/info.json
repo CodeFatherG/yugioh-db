@@ -1,18 +1,35 @@
 {
     "id": 68870276,
     "name": "Fiend Reflection #1",
+    "typeline": [
+        "Winged Beast",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "This monster can draw its enemies into a mirror world that renders them helpless.",
+    "race": "Winged Beast",
     "atk": 1300,
     "def": 1400,
     "level": 4,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68870276.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68870276.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68870276.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiend-reflection-1-5788",
+    "card_images": [
+        {
+            "id": 68870276,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68870276.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68870276.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68870276.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.76",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "2.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

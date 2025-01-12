@@ -2,17 +2,35 @@
     "id": 73026394,
     "name": "Fusion Guard",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "Activate only when an effect that inflicts damage is activated. Negate its activation and effect, and randomly send 1 Fusion Monster from your Extra Deck to the Graveyard.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73026394.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73026394.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73026394.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fusion-guard-6130",
+    "card_sets": [
+        {
+            "set_name": "Duelist Pack: Zane Truesdale",
+            "set_code": "DP04-EN030",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.12"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73026394,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73026394.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73026394.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73026394.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.71",
+            "ebay_price": "3.23",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

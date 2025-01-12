@@ -1,18 +1,70 @@
 {
     "id": 33823832,
     "name": "Performapal Fire Mufflerlion",
+    "typeline": [
+        "Beast",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nWhen a Pendulum Monster you control is destroyed by battle: You can Special Summon this card from your Pendulum Zone.\n\n[ Monster Effect ] \nOnce per turn, if a Pendulum Monster you control destroys an opponent's monster by battle, after damage calculation: You can make that monster you control gain 200 ATK until the end of the Battle Phase, and if you do, it can make a second attack in a row.",
+    "race": "Beast",
+    "pend_desc": "When a Pendulum Monster you control is destroyed by battle: You can Special Summon this card from your Pendulum Zone.",
+    "monster_desc": "Once per turn, if a Pendulum Monster you control destroys an opponent's monster by battle, after damage calculation: You can make that monster you control gain 200 ATK until the end of the Battle Phase, and if you do, it can make a second attack in a row.",
     "atk": 800,
     "def": 800,
     "level": 3,
-    "race": "Beast",
     "attribute": "FIRE",
-    "scale": 5,
     "archetype": "Performapal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33823832.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33823832.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33823832.jpg"
+    "scale": 5,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/performapal-fire-mufflerlion-2870",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN191",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Star Pack ARC-V",
+            "set_code": "SP15-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Star Pack ARC-V",
+            "set_code": "SP15-EN024",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33823832,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33823832.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33823832.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33823832.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

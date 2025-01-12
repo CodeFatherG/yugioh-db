@@ -1,18 +1,44 @@
 {
     "id": 37006702,
     "name": "Krishnerd Witch",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be destroyed by your opponent's card effects while \"Multi-Universe\" is on the field. You can only use each of the following effects of \"Krishnerd Witch\" once per turn. If a card(s) in the Field Zone leaves the field by card effect (except during the Damage Step): You can Special Summon this card from your hand. When a Field Spell that is already face-up on the field activates its effect (Quick Effect): You can shuffle 1 of your monsters that is banished or in your GY into the Deck, or if that monster mentions that Field Spell, you can Special Summon it instead.",
+    "race": "Spellcaster",
     "atk": 1800,
     "def": 700,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37006702.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37006702.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37006702.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/krishnerd-witch-14474",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN084",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37006702,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37006702.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37006702.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37006702.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

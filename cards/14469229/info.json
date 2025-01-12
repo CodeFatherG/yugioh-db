@@ -1,18 +1,63 @@
 {
     "id": 14469229,
     "name": "Crystal Keeper",
+    "typeline": [
+        "Warrior",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nEach turn, the first time an \"Ultimate Crystal\" monster(s) and/or \"Crystal Beast\" card(s) you control would be destroyed by card effect that turn, it is not destroyed.\n\n[ Monster Effect ] \nIf a \"Crystal Beast\" monster you control battles an opponent's monster, during damage calculation (Quick Effect): You can Tribute this card from your hand or face-up field; your battling monster's ATK/DEF become double its original ATK/DEF during that damage calculation only, but it is destroyed at the end of this Damage Step.",
+    "race": "Warrior",
+    "pend_desc": "Each turn, the first time an \"Ultimate Crystal\" monster(s) and/or \"Crystal Beast\" card(s) you control would be destroyed by card effect that turn, it is not destroyed.",
+    "monster_desc": "If a \"Crystal Beast\" monster you control battles an opponent's monster, during damage calculation (Quick Effect): You can Tribute this card from your hand or face-up field; your battling monster's ATK/DEF become double its original ATK/DEF during that damage calculation only, but it is destroyed at the end of this Damage Step.",
     "atk": 1500,
     "def": 1800,
     "level": 4,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": 2,
     "archetype": "Crystal Beast",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14469229.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14469229.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14469229.jpg"
+    "scale": 2,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crystal-keeper-1237",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN093",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Legend of the Crystal Beasts",
+            "set_code": "SDCB-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14469229,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14469229.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14469229.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14469229.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

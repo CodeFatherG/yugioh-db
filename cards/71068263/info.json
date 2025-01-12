@@ -1,18 +1,51 @@
 {
     "id": 71068263,
     "name": "Stuffed Animal",
+    "typeline": [
+        "Warrior",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "It may look like a harmless stuffed animal, but its zipper mouth deals a deadly bite.",
+    "race": "Warrior",
     "atk": 1200,
     "def": 900,
     "level": 3,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71068263.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71068263.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71068263.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/stuffed-animal-5971",
+    "card_sets": [
+        {
+            "set_name": "McDonald's Promotional Cards",
+            "set_code": "MP1-007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.54"
+        },
+        {
+            "set_name": "Tournament Pack: 2nd Season",
+            "set_code": "TP2-019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "7.19"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71068263,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71068263.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71068263.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71068263.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.26",
+            "tcgplayer_price": "1.75",
+            "ebay_price": "2.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

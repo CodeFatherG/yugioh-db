@@ -1,18 +1,53 @@
 {
     "id": 16643334,
     "name": "Starliege Photon Blast Dragon",
+    "typeline": [
+        "Dragon",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 4 monsters\r\nIf this card is Xyz Summoned: You can Special Summon 1 \"Photon\" monster from your hand. While this Xyz Summoned monster is on the field, your opponent cannot target monsters you control with 2000 or more ATK with card effects, also they cannot be destroyed by your opponent's card effects. Once per opponent's turn (Quick Effect): You can detach 1 material from this card, then target 1 of your \"Galaxy-Eyes Photon Dragon\" that is banished or in your GY; Special Summon it.",
+    "race": "Dragon",
     "atk": 1800,
     "def": 2500,
     "level": 4,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Galaxy-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16643334.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16643334.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16643334.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/starliege-photon-blast-dragon-9537",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN054",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN034",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.38"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16643334,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16643334.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16643334.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16643334.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.63",
+            "tcgplayer_price": "3.24",
+            "ebay_price": "0.99",
+            "amazon_price": "47.99",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

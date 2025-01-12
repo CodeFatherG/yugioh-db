@@ -2,17 +2,36 @@
     "id": 18458255,
     "name": "Dream Tower of Princess Nemleria",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "You can banish 2 face-down cards from your Extra Deck, face-down; add 2 Level 10 Beast monsters with different names from your Deck to your hand. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except Pendulum Monsters. You can only use this effect of \"Dream Tower of Princess Nemleria\" once per turn. If a \"Nemleria\" monster(s) you control would be destroyed by battle or an opponent's card effect, while you have \"Dreaming Nemleria\" face-up in your Extra Deck, you can banish 1 face-down card from your Extra Deck face-down, instead.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Nemurelia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/18458255.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18458255.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18458255.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dream-tower-of-princess-nemleria-13686",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 18458255,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18458255.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18458255.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18458255.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,44 @@
 {
     "id": 47474172,
     "name": "Bayonater, the Baneful Barrel",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn: You can target 1 face-up monster your opponent controls; it loses 1000 ATK for each monster your opponent controls.",
+    "race": "Zombie",
     "atk": 500,
     "def": 0,
     "level": 1,
-    "race": "Zombie",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47474172.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47474172.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47474172.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bayonater-the-baneful-barrel-10477",
+    "card_sets": [
+        {
+            "set_name": "Chaos Impact",
+            "set_code": "CHIM-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47474172,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47474172.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47474172.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47474172.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

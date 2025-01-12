@@ -1,18 +1,52 @@
 {
     "id": 88095331,
     "name": "Evoltile Najasho",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card on the field is Tributed: You can Special Summon 1 \"Evolsaur\" monster from your Deck.",
+    "race": "Reptile",
     "atk": 100,
     "def": 2000,
     "level": 2,
-    "race": "Reptile",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Evolsaur",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88095331.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88095331.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88095331.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/evoltile-najasho-7367",
+    "card_sets": [
+        {
+            "set_name": "Order of Chaos",
+            "set_code": "ORCS-EN083",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 22",
+            "set_code": "OP22-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88095331,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88095331.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88095331.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88095331.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "3.95",
+            "amazon_price": "0.48",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

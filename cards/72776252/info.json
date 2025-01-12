@@ -2,17 +2,43 @@
     "id": 72776252,
     "name": "Icejade Manifestation",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "If you control a WATER monster and your opponent has a monster on their field or GY: Take 1 \"Icejade\" monster from your Deck, and either send it to the GY or Special Summon it. If a face-up \"Icejade\" monster you control leaves the field by an opponent's card, except by being destroyed (and except during the Damage Step): You can banish this card from your GY, then target 1 card your opponent controls; banish it. You can only use each effect of \"Icejade Manifestation\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Icejade",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/72776252.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72776252.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72776252.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/icejade-manifestation-13522",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN321",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 72776252,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72776252.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72776252.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72776252.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

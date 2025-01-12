@@ -1,18 +1,53 @@
 {
     "id": 63261835,
     "name": "Cyber Slash Harpie Lady",
+    "typeline": [
+        "Winged Beast",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nFor this card's Synchro Summon, you can treat 1 \"Harpie\" monster you control as a Tuner. This card's name becomes \"Harpie Lady\" while on the field or in the GY. When a Spell/Trap Card or effect is activated (except during the Damage Step) (Quick Effect): You can target 1 monster your opponent controls or 1 \"Harpie\" monster you control; return it to the hand. You can only use this effect of \"Cyber Slash Harpie Lady\" once per turn.",
+    "race": "Winged Beast",
     "atk": 2600,
     "def": 1400,
     "level": 8,
-    "race": "Winged Beast",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Harpie",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/63261835.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63261835.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63261835.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-slash-harpie-lady-11182",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN010",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dragons of Legend: The Complete Series",
+            "set_code": "DLCS-EN148",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "24.12"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 63261835,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63261835.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63261835.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63261835.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.26",
+            "tcgplayer_price": "3.44",
+            "ebay_price": "28.99",
+            "amazon_price": "2.64",
+            "coolstuffinc_price": "19.99"
+        }
+    ]
 }

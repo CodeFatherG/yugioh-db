@@ -1,18 +1,49 @@
 {
     "id": 46485778,
     "name": "Poissonniere de Nouvelles",
+    "typeline": [
+        "Fairy",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nIf you control a Ritual Monster: You can target 1 monster on the field; Special Summon this card, then change that monster's battle position. You can only use this effect of \"Poissonniere de Nouvelles\" once per turn.\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: You can activate 1 of these effects;\r\n\u25cf Add 1 Level 1 Ritual Monster or 1 \"Recipe\" card from your Deck to your hand.\r\n\u25cf Banish any number of \"Recipe\" cards from your GY and Special Summon 1 \"Nouvelles\" Ritual Monster from your hand with a Level equal to the number banished.\r\nYou can only use this effect of \"Poissonniere de Nouvelles\" once per turn. If this card on the field is Tributed and added to the Extra Deck face-up: You can place this card in your Pendulum Zone.",
+    "race": "Fairy",
+    "pend_desc": "If you control a Ritual Monster: You can target 1 monster on the field; Special Summon this card, then change that monster's battle position. You can only use this effect of \"Poissonniere de Nouvelles\" once per turn.",
+    "monster_desc": "If this card is Normal or Special Summoned: You can activate 1 of these effects;\r\n\u25cf Add 1 Level 1 Ritual Monster or 1 \"Recipe\" card from your Deck to your hand.\r\n\u25cf Banish any number of \"Recipe\" cards from your GY and Special Summon 1 \"Nouvelles\" Ritual Monster from your hand with a Level equal to the number banished.\r\nYou can only use this effect of \"Poissonniere de Nouvelles\" once per turn. If this card on the field is Tributed and added to the Extra Deck face-up: You can place this card in your Pendulum Zone.",
     "atk": 700,
     "def": 1700,
     "level": 1,
-    "race": "Fairy",
     "attribute": "DARK",
-    "scale": 8,
     "archetype": "Nouvelles",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46485778.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46485778.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46485778.jpg"
+    "scale": 8,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/poissonniere-de-nouvelles-14006",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN019",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46485778,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46485778.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46485778.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46485778.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

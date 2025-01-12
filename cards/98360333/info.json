@@ -2,17 +2,36 @@
     "id": 98360333,
     "name": "Evil\u2605Twin Challenge",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Ki-sikil\" monster or 1 \"Lil-la\" monster in your GY; Special Summon it, then you can apply the following effect.\r\n\u25cf Immediately after this effect resolves, Link Summon 1 \"Evil\u2605Twin\" Link Monster using monsters you control as material.\r\nYou can only activate 1 \"Evil\u2605Twin Challenge\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Evil\u2605Twin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98360333.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98360333.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98360333.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/evil-twin-challenge-11447",
+    "card_sets": [
+        {
+            "set_name": "Genesis Impact",
+            "set_code": "GEIM-EN021",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98360333,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98360333.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98360333.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98360333.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

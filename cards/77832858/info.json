@@ -1,18 +1,45 @@
 {
     "id": 77832858,
     "name": "Thestalos the Shadowfire Monarch",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute Summon this card by Tributing 1 monster your opponent controls and 1 Tribute Summoned monster you control. If this card is Tribute Summoned: You can banish 1 random card from your opponent's hand, and if you do, inflict 1000 damage to your opponent, then, if this card was Tribute Summoned by Tributing a Level 8 or higher Tribute Summoned monster, you can apply this effect.\r\n\u25cf Banish 1 card on the field, and if it was a FIRE or DARK Monster Card, inflict damage to your opponent equal to its original Level x 200.",
+    "race": "Pyro",
     "atk": 3000,
     "def": 1000,
     "level": 10,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Monarch",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77832858.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77832858.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77832858.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/thestalos-the-shadowfire-monarch-13814",
+    "card_sets": [
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 77832858,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77832858.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77832858.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77832858.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

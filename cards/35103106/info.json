@@ -1,18 +1,60 @@
 {
     "id": 35103106,
     "name": "Evolzar Lars",
+    "typeline": [
+        "Dragon",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 6 monsters\r\nWhile this card has material, your opponent cannot target it with monster effects. When your opponent activates a card or effect (Quick Effect): You can detach 2 materials from this card, or just 1 material if all this card's materials are Reptile and/or Dinosaur, then target 1 face-up card your opponent controls; negate its effects until the end of this turn.",
+    "race": "Dragon",
     "atk": 2500,
     "def": 1500,
     "level": 6,
-    "race": "Dragon",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Evol",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35103106.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35103106.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35103106.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/evolzar-lars-13789",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN099",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN043",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN043",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35103106,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35103106.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35103106.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35103106.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.72",
+            "tcgplayer_price": "1.31",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "9.99"
+        }
+    ]
 }

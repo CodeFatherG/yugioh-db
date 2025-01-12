@@ -1,18 +1,44 @@
 {
     "id": 73490417,
     "name": "Jungle Dweller",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by card effect. While there are 2 cards in the Field Zones, your opponent cannot target this card with card effects. You can only use each of the following effects of \"Jungle Dweller\" once per turn. You can banish 1 LIGHT or DARK monster from your GY; Special Summon this card from your hand. If this card in its owner's possession is destroyed by an opponent's card: You can shuffle up to 2 of your Field Spells from your GY or banishment into the Deck, then you can destroy up to that many cards your opponent controls.",
+    "race": "Fiend",
     "atk": 2500,
     "def": 1800,
     "level": 8,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73490417.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73490417.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73490417.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jungle-dweller-14473",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN085",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73490417,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73490417.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73490417.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73490417.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

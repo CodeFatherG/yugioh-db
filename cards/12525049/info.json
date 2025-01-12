@@ -1,18 +1,56 @@
 {
     "id": 12525049,
     "name": "Symphonic Warrior Guitaar",
+    "typeline": [
+        "Machine",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nYou can discard 1 card; Special Summon 1 \"Symphonic Warrior\" monster from your Deck, except \"Symphonic Warrior Guitaar\". You can only use this effect of \"Symphonic Warrior Guitaar\" once per turn.\n\n[ Monster Effect ] \nWhen this card is Normal Summoned: You can target 1 \"Symphonic Warrior\" monster in your Graveyard; Special Summon it.",
+    "race": "Machine",
+    "pend_desc": "You can discard 1 card; Special Summon 1 \"Symphonic Warrior\" monster from your Deck, except \"Symphonic Warrior Guitaar\". You can only use this effect of \"Symphonic Warrior Guitaar\" once per turn.",
+    "monster_desc": "When this card is Normal Summoned: You can target 1 \"Symphonic Warrior\" monster in your Graveyard; Special Summon it.",
     "atk": 1500,
     "def": 100,
     "level": 3,
-    "race": "Machine",
     "attribute": "WIND",
-    "scale": 7,
     "archetype": "Symphonic Warrior",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12525049.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12525049.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12525049.jpg"
+    "scale": 7,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/symphonic-warrior-guitaar-1084",
+    "card_sets": [
+        {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN232",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Raging Tempest",
+            "set_code": "RATE-EN090",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12525049,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12525049.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12525049.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12525049.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "7.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

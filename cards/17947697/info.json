@@ -1,18 +1,36 @@
 {
     "id": 17947697,
     "name": "Maiden of White",
+    "typeline": [
+        "Spellcaster",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "You can send this card from your hand or field to the GY; place 1 \"True Light\" from your hand, Deck, or GY face-up in your Spell & Trap Zone. If you Special Summon \"Blue-Eyes White Dragon\" while this card is in your GY (except during the Damage Step): You can Special Summon this card. When a card or effect is activated that targets this card on the field, or when this card is targeted for an attack (Quick Effect): You can Special Summon 1 \"Blue-Eyes White Dragon\" or 1 Level 1 LIGHT Tuner from your GY. You can only use each effect of \"Maiden of White\" once per turn.",
+    "race": "Spellcaster",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17947697.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17947697.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17947697.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/maiden-of-white-14646",
+    "card_images": [
+        {
+            "id": 17947697,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17947697.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17947697.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17947697.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

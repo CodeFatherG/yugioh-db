@@ -2,17 +2,35 @@
     "id": 89563150,
     "name": "Shining Silver Force",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "Activate only when your opponent activates a Trap Card that inflicts damage. Negate the activation of that card and destroy it and all face-up Spell and Trap Cards your opponent controls.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/89563150.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89563150.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89563150.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shining-silver-force-7480",
+    "card_sets": [
+        {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN066",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 89563150,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89563150.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89563150.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89563150.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 47457347,
     "name": "Omega Summon",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target any number of your banished \"Invoked\" monsters with different names; Special Summon them in Defense Position.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Invoked",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47457347.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47457347.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47457347.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/omega-summon-4051",
+    "card_sets": [
+        {
+            "set_name": "Fusion Enforcers",
+            "set_code": "FUEN-EN037",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Shadows in Valhalla",
+            "set_code": "SHVA-EN044",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47457347,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47457347.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47457347.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47457347.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

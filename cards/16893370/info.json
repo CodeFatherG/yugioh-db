@@ -1,18 +1,45 @@
 {
     "id": 16893370,
     "name": "Dreaming Reality of Nemleria, Realized",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Gains 100 ATK for each face-down card in your Extra Deck. You can only use each of the following effects of \"Dreaming Reality of Nemleria, Realized\" once per turn. If this card is in your hand: You can target 1 monster you control; place it on the bottom of the Deck, and if you do, Special Summon this card. If this card is Special Summoned: You can activate 1 of these effects;\r\n\u25cf Add 1 \"Dreaming Nemleria\" from your Deck to your face-up Extra Deck.\r\n\u25cf Change 1 other face-up monster on the field to face-down Defense Position.",
+    "race": "Fairy",
     "atk": 1500,
     "def": 3000,
     "level": 10,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Nemleria",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16893370.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16893370.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16893370.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dreaming-reality-of-nemleria-realized-13893",
+    "card_sets": [
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16893370,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16893370.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16893370.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16893370.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

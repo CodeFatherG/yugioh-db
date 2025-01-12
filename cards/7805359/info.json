@@ -1,18 +1,58 @@
 {
     "id": 7805359,
     "name": "Niwatori",
+    "typeline": [
+        "Winged Beast",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "Swallows enemies whole and uses their essence as energy.",
+    "race": "Winged Beast",
     "atk": 900,
     "def": 800,
     "level": 3,
-    "race": "Winged Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7805359.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7805359.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7805359.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/niwatori-665",
+    "card_sets": [
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-112",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.51"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E112",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "8.01"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN112",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.4"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7805359,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7805359.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7805359.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7805359.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "1.00",
+            "amazon_price": "1.01",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

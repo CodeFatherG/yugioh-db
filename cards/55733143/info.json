@@ -2,17 +2,43 @@
     "id": 55733143,
     "name": "Mimighoul Charm",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Once per Chain, during the Main Phase, if a \"Mimighoul\" monster your opponent controls is flipped face-up: You can randomly choose 1 face-down card in your opponent's Extra Deck, and if it is a monster that can be Special Summoned, Special Summon it to your field, but it cannot activate its effects this turn. If it wasn't, or couldn't be Special Summoned, banish that card. You can only use this effect of \"Mimighoul Charm\" twice per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Mimighoul",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/55733143.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55733143.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55733143.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mimighoul-charm-14741",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN096",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN096",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 55733143,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55733143.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55733143.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55733143.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.84",
+            "tcgplayer_price": "0.95",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

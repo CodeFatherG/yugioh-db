@@ -2,17 +2,36 @@
     "id": 91284003,
     "name": "Argostars - Swift Capane",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "While this card is face-up in the Spell & Trap Zone, Warrior monsters you control cannot be destroyed by battle. Once per turn, if a Continuous Trap is in a Monster Zone: You can Special Summon this card as an Effect Monster (Warrior/LIGHT/Level 4/ATK 1800/DEF 1800) with the following effect (this card is also still a Trap), then if you have a banished \"Argostars\" monster, you gain 500 LP.\r\n\u25cf Once per turn (Quick Effect): You can place this card face-up in your Spell & Trap Zone.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Argostars",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91284003.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91284003.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91284003.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/argostars-swift-capane-14714",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN072",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91284003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91284003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91284003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91284003.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.40",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

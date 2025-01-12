@@ -1,18 +1,44 @@
 {
     "id": 62403074,
     "name": "Rhaimundos of the Red Sword",
+    "typeline": [
+        "Warrior",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "Armed with the Sword of Crimson Flames, this warrior can bind a monster with fiery restraints.",
+    "race": "Warrior",
     "atk": 1200,
     "def": 1300,
     "level": 4,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62403074.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62403074.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62403074.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rhaimundos-of-the-red-sword-5276",
+    "card_sets": [
+        {
+            "set_name": "Astral Pack Eight",
+            "set_code": "AP08-EN014",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "3.47"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 62403074,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62403074.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62403074.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62403074.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.38",
+            "tcgplayer_price": "6.96",
+            "ebay_price": "5.99",
+            "amazon_price": "3.88",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

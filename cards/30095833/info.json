@@ -1,18 +1,50 @@
 {
     "id": 30095833,
     "name": "Odd-Eyes Rebellion Xyz Dragon",
+    "typeline": [
+        "Dragon",
+        "Xyz",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "XYZ Pendulum Effect Monster",
+    "humanReadableCardType": "Xyz Pendulum Effect Monster",
+    "frameType": "xyz_pendulum",
     "desc": "[ Pendulum Effect ] \nDuring your Main Phase: You can Special Summon this card, then you can attach 1 DARK monster from your GY to this card as material. You can only use this effect of \"Odd-Eyes Rebellion Xyz Dragon\" once per turn.\n\n[ Monster Effect ] \n2 Level 7 Pendulum Monsters\r\nIf you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card from your Extra Deck. This card cannot be used as material for an Xyz Summon the turn it was Xyz Summoned. You can detach 1 material from this card, then target up to 2 monsters your opponent controls with 3000 or less ATK; destroy them. You can only use this effect of \"Odd-Eyes Rebellion Xyz Dragon\" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+    "race": "Dragon",
+    "pend_desc": "During your Main Phase: You can Special Summon this card, then you can attach 1 DARK monster from your GY to this card as material. You can only use this effect of \"Odd-Eyes Rebellion Xyz Dragon\" once per turn.",
+    "monster_desc": "2 Level 7 Pendulum Monsters\r\nIf you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card from your Extra Deck. This card cannot be used as material for an Xyz Summon the turn it was Xyz Summoned. You can detach 1 material from this card, then target up to 2 monsters your opponent controls with 3000 or less ATK; destroy them. You can only use this effect of \"Odd-Eyes Rebellion Xyz Dragon\" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
     "atk": 3000,
     "def": 2500,
     "level": 7,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": 4,
     "archetype": "Odd-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30095833.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30095833.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30095833.jpg"
+    "scale": 4,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/odd-eyes-rebellion-xyz-dragon-13639",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN005",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30095833,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30095833.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30095833.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30095833.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "1.15",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

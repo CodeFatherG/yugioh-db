@@ -2,17 +2,36 @@
     "id": 44052075,
     "name": "Ancient Gear Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as an \"Ancient Gear Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Machine",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ancient Gear",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44052075.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44052075.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44052075.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-token-3760",
+    "card_sets": [
+        {
+            "set_name": "Machine Reactor Structure Deck",
+            "set_code": "SR03-ENTKN",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.25"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44052075,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44052075.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44052075.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44052075.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.87",
+            "tcgplayer_price": "1.28",
+            "ebay_price": "6.82",
+            "amazon_price": "2.81",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

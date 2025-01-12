@@ -1,18 +1,46 @@
 {
     "id": 91300233,
     "name": "Beetrooper Cruel Saturnas",
+    "typeline": [
+        "Insect",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 \"Beetrooper\" monster + 1 Insect monster\r\nYou cannot Special Summon monsters, except Insect monsters. You can only use each of the following effects of \"Beetrooper Cruel Saturnas\" once per turn. If this card is Special Summoned: You can add 1 \"Beetrooper\" card from your Deck to your hand. If an Insect monster(s) is banished face-up (except during the Damage Step): You can target 1 of your banished \"Beetrooper\" monsters; Special Summon it.",
+    "race": "Insect",
     "atk": 2400,
     "def": 2000,
     "level": 5,
-    "race": "Insect",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Beetrooper",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91300233.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91300233.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91300233.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/beetrooper-cruel-saturnas-13694",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN037",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91300233,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91300233.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91300233.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91300233.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

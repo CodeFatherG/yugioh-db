@@ -2,17 +2,35 @@
     "id": 48716139,
     "name": "Sword of Kusanagi",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "Equip only to a Spirit monster. During battle, when it attacks a Defense Position monster whose DEF is lower than the ATK of the equipped monster, inflict the difference as Battle Damage to your opponent. When the equipped monster you control is returned to the hand and this card is sent to the Graveyard, return this card to your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48716139.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48716139.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48716139.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sword-of-kusanagi-4161",
+    "card_sets": [
+        {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48716139,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48716139.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48716139.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48716139.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

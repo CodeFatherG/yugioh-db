@@ -1,14 +1,20 @@
 {
     "id": 48736598,
     "name": "Codebreaker Virus Berserker",
+    "typeline": [
+        "Warrior",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ monsters, including a \"Codebreaker\" monster\r\nWhen this card is Special Summoned, if it is co-linked: You can Special Summon up to 2 \"Codebreaker\" monsters from your hand and/or GY to any zone(s) a Link Monster(s) points to. During your Main Phase: You can destroy Spells/Traps your opponent controls, up to the number of linked \"Codebreaker\" monsters on the field. You can only use each effect of \"Codebreaker Virus Berserker\" once per turn.",
+    "race": "Warrior",
     "atk": 2800,
     "def": null,
     "level": null,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Codebreaker",
     "linkval": 3,
     "linkmarkers": [
@@ -16,7 +22,31 @@
         "Right",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/48736598.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48736598.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48736598.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/codebreaker-virus-berserker-10782",
+    "card_sets": [
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48736598,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48736598.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48736598.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48736598.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

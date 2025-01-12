@@ -1,21 +1,51 @@
 {
     "id": 65711558,
     "name": "Ancient Warriors Oath - Double Dragon Lords",
+    "typeline": [
+        "Beast-Warrior",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Beast-Warrior monsters, including a WIND \"Ancient Warriors\" monster\r\nAll \"Ancient Warriors\" monsters you control gain 500 ATK/DEF. You can only use each of the following effects of \"Ancient Warriors Oath - Double Dragon Lords\" once per turn. If this card is Link Summoned: You can add 1 \"Ancient Warriors\" card from your Deck to your hand. (Quick Effect): You can send 1 card from your hand or field to the GY, then target 1 face-up card your opponent controls; return it to the hand.",
+    "race": "Beast-Warrior",
     "atk": 1100,
     "def": null,
     "level": null,
-    "race": "Beast-Warrior",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Ancient Warriors",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/65711558.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65711558.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65711558.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-warriors-oath-double-dragon-lords-10928",
+    "card_sets": [
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN048",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65711558,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65711558.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65711558.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65711558.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.99",
+            "tcgplayer_price": "2.09",
+            "ebay_price": "5.99",
+            "amazon_price": "2.90",
+            "coolstuffinc_price": "4.99"
+        }
+    ]
 }

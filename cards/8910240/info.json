@@ -1,18 +1,52 @@
 {
     "id": 8910240,
     "name": "Rose Papillon",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During your Main Phase, you can Tribute Summon 1 Level 7 or higher monster in Attack Position in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) While you control another Insect monster, this card can attack directly.",
+    "race": "Insect",
     "atk": 1400,
     "def": 800,
     "level": 3,
-    "race": "Insect",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Rose",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8910240.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8910240.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8910240.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rose-papillon-13830",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN250",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN093",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8910240,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8910240.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8910240.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8910240.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

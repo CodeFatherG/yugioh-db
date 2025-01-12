@@ -2,17 +2,57 @@
     "id": 4923662,
     "name": "Chaos Burst",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When your opponent's monster declares an attack: Tribute 1 monster, then target the attacking monster; destroy that target, then inflict 1000 damage to your opponent.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Chaos",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4923662.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4923662.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4923662.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chaos-burst-438",
+    "card_sets": [
+        {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN203",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN203",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Starter Deck: Yuya",
+            "set_code": "YS16-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Yu-Gi-Oh! GX Tag Force 2 promotional cards",
+            "set_code": "GX04-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.95"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4923662,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4923662.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4923662.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4923662.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "4.95",
+            "amazon_price": "1.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

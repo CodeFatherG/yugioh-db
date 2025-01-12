@@ -1,18 +1,53 @@
 {
     "id": 52707042,
     "name": "Libromancer Mystigirl",
+    "typeline": [
+        "Fairy",
+        "Ritual",
+        "Effect"
+    ],
     "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
     "desc": "You can Ritual Summon this card with a \"Libromancer\" card. If this card was Ritual Summoned by using a monster(s) on the field, your opponent cannot target Ritual Monsters you control with monster effects. If this card is Special Summoned: You can target 1 face-up monster your opponent controls; until the end of this turn, change its ATK to 0, also negate its effects. You can only use this effect of \"Libromancer Mystigirl\" once per turn.",
+    "race": "Fairy",
     "atk": 1400,
     "def": 2100,
     "level": 4,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Libromancer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52707042.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52707042.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52707042.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/libromancer-mystigirl-13264",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN111",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN086",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52707042,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52707042.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52707042.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52707042.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.95",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

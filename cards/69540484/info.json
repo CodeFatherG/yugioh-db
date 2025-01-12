@@ -2,17 +2,43 @@
     "id": 69540484,
     "name": "Kashtira Birth",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "You can Normal Summon Level 7 monsters without Tributing. During your Main Phase: You can Special Summon 1 of your non-Xyz \"Kashtira\" monsters that is banished or in your GY. If your opponent activates a Spell Card or effect, and you control a \"Kashtira\" monster: You can target 3 cards in your opponent's GY; banish them, face-down. You can only use each effect of \"Kashtira Birth\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Kashtira",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/69540484.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69540484.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69540484.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kashtira-birth-13287",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN200",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN060",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 69540484,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69540484.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69540484.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69540484.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.43",
+            "tcgplayer_price": "1.97",
+            "ebay_price": "1.84",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

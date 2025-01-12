@@ -2,17 +2,36 @@
     "id": 8083925,
     "name": "Live\u2606Twin Home",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Discard 1 card; Special Summon 1 \"Ki-sikil\" monster or 1 \"Lil-la\" monster from your Deck, also for the rest of this turn after this card resolves, you cannot Special Summon monsters from the Extra Deck, except \"Evil\u2605Twin\" monsters. You can only activate 1 \"Live\u2606Twin Home\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Live\u2606Twin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8083925.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8083925.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8083925.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/live-twin-home-11452",
+    "card_sets": [
+        {
+            "set_name": "Genesis Impact",
+            "set_code": "GEIM-EN018",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.1"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8083925,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8083925.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8083925.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8083925.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.34",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

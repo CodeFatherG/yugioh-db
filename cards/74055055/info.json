@@ -2,17 +2,35 @@
     "id": 74055055,
     "name": "Oil",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target up to 2 Level 4 or lower FIRE monsters with different names in your GY; add them to your hand. You can only activate 1 \"Oil\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74055055.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74055055.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74055055.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/oil-14265",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN026",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 74055055,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74055055.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74055055.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74055055.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.54",
+            "tcgplayer_price": "1.99",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

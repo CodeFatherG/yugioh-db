@@ -1,18 +1,44 @@
 {
     "id": 11020863,
     "name": "Royal Straight Slasher",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Royal Straight\". If you have all of \"Queen's Knight\", \"King's Knight\", and \"Jack's Knight\" in your GY: You can send 5 monsters, with different Levels of 1, 2, 3, 4, and 5, from your hand and/or Deck to the GY, and if you do, destroy all cards your opponent controls. When this card is destroyed by battle: You can target up to 3 LIGHT Warrior monsters in your GY; Special Summon them. You can only use each effect of \"Royal Straight Slasher\" once per turn.",
+    "race": "Warrior",
     "atk": 2400,
     "def": 1350,
     "level": 6,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/11020863.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11020863.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11020863.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/royal-straight-slasher-13351",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN001",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 11020863,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11020863.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11020863.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11020863.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "1.37",
+            "amazon_price": "1.03",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

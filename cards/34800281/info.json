@@ -1,18 +1,60 @@
 {
     "id": 34800281,
     "name": "Melffy Pinny",
+    "typeline": [
+        "Beast",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If a face-up Beast monster you control was returned to the hand this turn, except \"Melffy Pinny\" (Quick Effect): You can Special Summon this card from your hand, then immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only this card you control and \"Melffy\" monsters in your hand. During your End Phase, if this card is in your GY: You can target 1 Beast Xyz Monster you control; attach this card to it as material. You can only use each effect of \"Melffy Pinny\" once per turn.",
+    "race": "Beast",
     "atk": 300,
     "def": 100,
     "level": 2,
-    "race": "Beast",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Melffy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34800281.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34800281.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34800281.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/melffy-pinny-13191",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN126",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN154",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.85"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34800281,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34800281.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34800281.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34800281.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "2.49",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

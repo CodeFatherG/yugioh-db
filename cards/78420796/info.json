@@ -2,17 +2,43 @@
     "id": 78420796,
     "name": "Dinomorphia Frenzy",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "During your opponent's Main Phase: Pay half your LP; Fusion Summon 1 \"Dinomorphia\" Fusion Monster from your Extra Deck, using only 1 monster from your Deck and 1 monster from your Extra Deck as Fusion Material. When your opponent activates a card or effect, while your LP are 2000 or less: You can banish this card from your GY; you take no effect damage from your opponent's card effects this turn. You can only activate 1 \"Dinomorphia Frenzy\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dinomorphia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/78420796.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78420796.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78420796.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dinomorphia-frenzy-13005",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN107",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN077",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 78420796,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78420796.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78420796.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78420796.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "2.78",
+            "amazon_price": "4.67",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

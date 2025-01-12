@@ -1,18 +1,66 @@
 {
     "id": 76930964,
     "name": "Twilight Ninja Getsuga, the Shogun",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute Summon this card by Tributing 1 \"Ninja\" monster. If this card is in Attack Position: You can target 2 \"Ninja\" monsters in your GY, except \"Twilight Ninja Getsuga, the Shogun\"; change this card to Defense Position, and if you do, Special Summon those monsters. You can only use this effect of \"Twilight Ninja Getsuga, the Shogun\" once per turn.",
+    "race": "Warrior",
     "atk": 2000,
     "def": 3000,
     "level": 8,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Ninja",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/76930964.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76930964.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76930964.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/twilight-ninja-getsuga-the-shogun-6476",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN188",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Breakers of Shadow",
+            "set_code": "BOSH-EN017",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 8",
+            "set_code": "OP08-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 8 (POR)",
+            "set_code": "OP08-PT017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 76930964,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76930964.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76930964.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76930964.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.38",
+            "ebay_price": "1.95",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

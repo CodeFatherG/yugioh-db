@@ -1,18 +1,65 @@
 {
     "id": 5438492,
     "name": "Warrior Lady of the Wasteland",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 EARTH Warrior-Type monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+    "race": "Warrior",
     "atk": 1100,
     "def": 1200,
     "level": 4,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5438492.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5438492.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5438492.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/warrior-lady-of-the-wasteland-481",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN006",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENE05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Starter Deck: Dawn of the Xyz",
+            "set_code": "YS11-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Warrior's Triumph",
+            "set_code": "SD5-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.92"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5438492,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5438492.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5438492.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5438492.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "1.77",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

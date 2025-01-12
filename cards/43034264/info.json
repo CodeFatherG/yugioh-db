@@ -2,17 +2,43 @@
     "id": 43034264,
     "name": "Laser Qlip",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "During your Main Phase, you can Normal Summon 1 \"Qli\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Normal Summons of \"Qli\" monsters cannot be negated.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Qli",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/43034264.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43034264.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43034264.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/laser-qlip-3671",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN172",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 43034264,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43034264.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43034264.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43034264.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

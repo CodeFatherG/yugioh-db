@@ -1,18 +1,66 @@
 {
     "id": 88078306,
     "name": "Traptrix Genlisea",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Unaffected by the effects of \"Hole\" Normal Traps. You can Tribute this card; Set 2 \"Hole\" Normal Traps with different names, 1 from your Deck and 1 from your GY, but banish them when they leave the field. You can only use this effect of \"Traptrix Genlisea\" once per turn.",
+    "race": "Plant",
     "atk": 1200,
     "def": 1600,
     "level": 4,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Traptrix",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88078306.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88078306.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88078306.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-genlisea-10959",
+    "card_sets": [
+        {
+            "set_name": "Duel Overload",
+            "set_code": "DUOV-EN054",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.29"
+        },
+        {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Lost Art Promotion (series)",
+            "set_code": "LART-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Lost Art Promotion 2023",
+            "set_code": "LART-EN056",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88078306,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88078306.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88078306.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88078306.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "9.99",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

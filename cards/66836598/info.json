@@ -1,18 +1,35 @@
 {
     "id": 66836598,
     "name": "Waterdragon Fairy",
+    "typeline": [
+        "Aqua",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A water fairy that is said to be able to summon a giant sea serpent.''",
+    "race": "Aqua",
     "atk": 1100,
     "def": 700,
     "level": 3,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/66836598.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66836598.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66836598.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/waterdragon-fairy-5615",
+    "card_images": [
+        {
+            "id": 66836598,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66836598.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66836598.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66836598.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "4.00",
+            "amazon_price": "8.99",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

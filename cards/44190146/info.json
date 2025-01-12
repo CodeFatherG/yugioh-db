@@ -1,18 +1,45 @@
 {
     "id": 44190146,
     "name": "Grandpa Demetto",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can detach 1 material from \"Princess Cologne\" you control; Special Summon up to 2 Normal Monsters with 0 ATK or DEF from your GY, each as a Level 8 DARK monster in Defense Position. If an Xyz Monster you control activates its effect by detaching a Normal Monster: You can target that Xyz Monster and 1 monster your opponent controls; destroy your opponent's monster, and if you do, inflict damage to your opponent equal to that Xyz Monster's Rank x 300. You can only use each effect of \"Grandpa Demetto\" once per turn.",
+    "race": "Spellcaster",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Doll",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44190146.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44190146.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44190146.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/grandpa-demetto-11817",
+    "card_sets": [
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN032",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.54"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44190146,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44190146.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44190146.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44190146.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.35",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 36436372,
     "name": "Gimmick Puppet Little Soldiers",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can send 1 \"Gimmick Puppet\" monster with a different Level than this card from your Deck to the GY; this card's Level becomes that monster's. You can only use this effect of \"Gimmick Puppet Little Soldiers\" once per turn. You can banish this card from your GY, then target up to 2 \"Gimmick Puppet\" monsters you control; increase their Levels by 4 until the end of this turn.",
+    "race": "Machine",
     "atk": 0,
     "def": 0,
     "level": 4,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Gimmick Puppet",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/36436372.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36436372.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36436372.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gimmick-puppet-little-soldiers-14431",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 36436372,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36436372.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36436372.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36436372.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

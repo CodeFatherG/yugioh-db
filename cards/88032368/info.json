@@ -1,18 +1,51 @@
 {
     "id": 88032368,
     "name": "Second Booster",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute this card to select 1 face-up Attack Position monster you control. The selected monster gains 1500 ATK until the End Phase.",
+    "race": "Machine",
     "atk": 1000,
     "def": 500,
     "level": 3,
-    "race": "Machine",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88032368.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88032368.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88032368.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/second-booster-7360",
+    "card_sets": [
+        {
+            "set_name": "Duelist Pack: Yusei 3",
+            "set_code": "DP10-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88032368,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88032368.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88032368.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88032368.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

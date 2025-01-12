@@ -1,18 +1,53 @@
 {
     "id": 98506199,
     "name": "Wind Pegasus @Ignister",
+    "typeline": [
+        "Cyberse",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nDuring your Main Phase: You can destroy Spells/Traps your opponent controls, up to the number of \"@Ignister\" monsters you control. If another card(s) you control is destroyed by battle or an opponent's card effect, while this card is on the field or in the GY: You can banish this card, then target 1 card your opponent controls; shuffle it into the Deck. You can only use each effect of \"Wind Pegasus @Ignister\" once per turn.",
+    "race": "Cyberse",
     "atk": 2300,
     "def": 1500,
     "level": 7,
-    "race": "Cyberse",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "@Ignister",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98506199.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98506199.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98506199.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wind-pegasus-ignister-10578",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.01"
+        },
+        {
+            "set_name": "Ignition Assault",
+            "set_code": "IGAS-EN042",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98506199,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98506199.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98506199.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98506199.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.47",
+            "amazon_price": "3.05",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

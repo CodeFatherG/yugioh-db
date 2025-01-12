@@ -2,17 +2,42 @@
     "id": 45895206,
     "name": "Dark-Piercing Light",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Flip all face-down monsters on your opponent's side of the field face-up.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45895206.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45895206.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45895206.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-piercing-light-3907",
+    "card_sets": [
+        {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN087",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.27"
+        },
+        {
+            "set_name": "McDonald's Promotional Cards",
+            "set_code": "MP1-015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "5.92"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45895206,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45895206.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45895206.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45895206.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.39",
+            "ebay_price": "4.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

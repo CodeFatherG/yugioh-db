@@ -2,17 +2,50 @@
     "id": 39733924,
     "name": "Full-Armored Xyz",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If an Xyz Monster(s) is on the field: Immediately after this effect resolves, Xyz Summon 1 Xyz Monster using monsters you control. You can banish this card from your GY, then target 1 Xyz Monster you control; equip 1 other Xyz Monster from your face-up field or GY to that monster as an Equip Spell with the following effects.\r\n\u25cf The equipped monster gains ATK equal to this card's ATK.\r\n\u25cf If the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Xyz",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39733924.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39733924.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39733924.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/full-armored-xyz-14057",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN241",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 25",
+            "set_code": "OP25-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39733924,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39733924.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39733924.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39733924.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

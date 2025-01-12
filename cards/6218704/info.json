@@ -1,18 +1,57 @@
 {
     "id": 6218704,
     "name": "Odd-Eyes Arcray Dragon",
+    "typeline": [
+        "Dragon",
+        "Fusion",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Fusion Monster",
+    "humanReadableCardType": "Fusion Pendulum Effect Monster",
+    "frameType": "fusion_pendulum",
     "desc": "[ Pendulum Effect ] \nIf you have 2 cards in your Pendulum Zone: You can Special Summon this card, then you can shuffle 1 card from your Pendulum Zone into the Deck, then, if it returned to your Extra Deck, you can Special Summon it, ignoring its Summoning conditions. You can only use this effect of \"Supreme Celestial King Odd-Eyes Arc-Ray Dragon\" once per turn.\n\n[ Monster Effect ] \n4 Dragon monsters (1 Fusion, 1 Synchro, 1 Xyz, and 1 Pendulum)\r\n(This card is always treated as \"Supreme King Z-ARC\".)\r\nThis face-down card in the Extra Deck must first be either Fusion Summoned, or Special Summoned by Tributing 1 Level 12 DARK \"Supreme King Z-ARC\". If this card is Special Summoned from the Extra Deck: You can place 1 Pendulum Monster from your Deck in your Pendulum Zone. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+    "race": "Dragon",
+    "pend_desc": "If you have 2 cards in your Pendulum Zone: You can Special Summon this card, then you can shuffle 1 card from your Pendulum Zone into the Deck, then, if it returned to your Extra Deck, you can Special Summon it, ignoring its Summoning conditions. You can only use this effect of \"Supreme Celestial King Odd-Eyes Arc-Ray Dragon\" once per turn.",
+    "monster_desc": "4 Dragon monsters (1 Fusion, 1 Synchro, 1 Xyz, and 1 Pendulum)\r\n(This card is always treated as \"Supreme King Z-ARC\".)\r\nThis face-down card in the Extra Deck must first be either Fusion Summoned, or Special Summoned by Tributing 1 Level 12 DARK \"Supreme King Z-ARC\". If this card is Special Summoned from the Extra Deck: You can place 1 Pendulum Monster from your Deck in your Pendulum Zone. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
     "atk": 4000,
     "def": 4000,
     "level": 12,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": 13,
     "archetype": "Odd-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6218704.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6218704.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6218704.jpg"
+    "scale": 13,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/supreme-celestial-king-odd-eyes-arc-ray-dragon-13976",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN030",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN030",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6218704,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6218704.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6218704.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6218704.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.79",
+            "tcgplayer_price": "1.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

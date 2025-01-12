@@ -1,18 +1,45 @@
 {
     "id": 53134520,
     "name": "Phantasmal Summoning Beast",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Tribute this card; add 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\" or \"Raviel, Lord of Phantasms\" from your Deck or GY to your hand, then you can Special Summon 1 Level 10 Pyro, Thunder, or Fiend monster from your hand whose ATK equals its own DEF, ignoring its Summoning conditions, but it cannot attack directly this turn. You can banish this card from your GY; add 1 \"Dimension Fusion Destruction\" from your Deck to your hand. You can only use each effect of \"Phantasmal Summoning Beast\" once per turn.",
+    "race": "Fiend",
     "atk": 0,
     "def": 0,
     "level": 7,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Phantasm",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53134520.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53134520.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53134520.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/phantasmal-summoning-beast-14156",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53134520,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53134520.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53134520.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53134520.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

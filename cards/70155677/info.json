@@ -1,18 +1,49 @@
 {
     "id": 70155677,
     "name": "Dreaming Nemleria",
+    "typeline": [
+        "Fairy",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nOnce per turn, during your Main Phase: You can place 1 \"Nemleria\" Continuous Spell from your Deck or GY face-up on your field, and if you do, add this card to your Extra Deck face-up. You cannot Special Summon \"Dreaming Nemleria\" the turn you activate this effect.\n\n[ Monster Effect ] \nCannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck) by having no cards in your Extra Deck, except \"Dreaming Nemleria\". You can only Special Summon \"Dreaming Nemleria(s)\" once per turn. If this card is Special Summoned: For every 3 of your face-down banished cards, you can banish up to 1 card from your opponent's field and/or GY, face-down, then shuffle 1 of your face-down banished cards into your Deck for each card you banished by this effect.",
+    "race": "Fairy",
+    "pend_desc": "Once per turn, during your Main Phase: You can place 1 \"Nemleria\" Continuous Spell from your Deck or GY face-up on your field, and if you do, add this card to your Extra Deck face-up. You cannot Special Summon \"Dreaming Nemleria\" the turn you activate this effect.",
+    "monster_desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck) by having no cards in your Extra Deck, except \"Dreaming Nemleria\". You can only Special Summon \"Dreaming Nemleria(s)\" once per turn. If this card is Special Summoned: For every 3 of your face-down banished cards, you can banish up to 1 card from your opponent's field and/or GY, face-down, then shuffle 1 of your face-down banished cards into your Deck for each card you banished by this effect.",
     "atk": 0,
     "def": 1500,
     "level": 1,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": 8,
     "archetype": "Nemleria",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70155677.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70155677.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70155677.jpg"
+    "scale": 8,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dreaming-nemleria-13682",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70155677,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70155677.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70155677.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70155677.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.41",
+            "tcgplayer_price": "0.46",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

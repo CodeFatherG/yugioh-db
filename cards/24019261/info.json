@@ -2,17 +2,35 @@
     "id": 24019261,
     "name": "Emergency Assistance",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Activate during your Main Phase 2, to Special Summon 1 Level 4 monster from your Graveyard that was destroyed by a card effect and sent to the Graveyard this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/24019261.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24019261.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24019261.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/emergency-assistance-2071",
+    "card_sets": [
+        {
+            "set_name": "Ancient Prophecy",
+            "set_code": "ANPR-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 24019261,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24019261.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24019261.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24019261.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.32",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

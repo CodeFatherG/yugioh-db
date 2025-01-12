@@ -1,18 +1,53 @@
 {
     "id": 73121813,
     "name": "Tenyi Spirit - Mula Adhara",
+    "typeline": [
+        "Wyrm",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned and 2 or more Wyrm monsters are in your GY and/or banishment: You can add 1 Field Spell from your Deck to your hand. You can only use this effect of \"Tenyi Spirit - Mula Adhara\" once per turn. While a non-Effect Monster is face-up on the field, this card gains these effects.\r\n\u25cf Cannot be destroyed by an opponent's card effects.\r\n\u25cf Your opponent cannot target this card with card effects.\r\n\u25cf Can make a second attack during each Battle Phase.",
+    "race": "Wyrm",
     "atk": 3000,
     "def": 0,
     "level": 8,
-    "race": "Wyrm",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Tenyi",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73121813.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73121813.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73121813.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tenyi-spirit-mula-adhara-14763",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN042",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73121813,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73121813.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73121813.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73121813.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 82361206,
     "name": "Tokkosho of Ghost Destroying",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "When the equipped monster inflicts Battle Damage to your opponent, you can select up to 2 monsters in your opponent's Graveyard, and remove them from play.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/82361206.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82361206.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82361206.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tokkosho-of-ghost-destroying-6924",
+    "card_sets": [
+        {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN060",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 82361206,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82361206.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82361206.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82361206.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

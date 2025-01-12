@@ -2,17 +2,35 @@
     "id": 97223101,
     "name": "That's 10!",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Each time a card or effect is activated, except \"That's 10!\": You can place 1 Access Counter on this card (max. 10). Monsters you control gain 100 ATK for each Access Counter on this card. If the 10th Access Counter is placed on this card: You can return this card to the hand, and if you do, Set from your Deck, 1 Continuous Trap with an effect that Special Summons itself as a monster. It can be activated this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/97223101.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97223101.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97223101.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/that-s-10-14491",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN067",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 97223101,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97223101.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97223101.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97223101.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

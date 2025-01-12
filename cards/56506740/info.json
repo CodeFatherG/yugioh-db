@@ -2,17 +2,43 @@
     "id": 56506740,
     "name": "Primite Lordly Lode",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: Add 1 \"Primite\" card from your Deck to your hand, except \"Primite Lordly Lode\". You can declare 1 Normal Monster Card name; Special Summon 1 declared Normal Monster from your hand, Deck, or GY in Defense Position, also you cannot activate the effects of Special Summoned monsters on the field this turn. You can only use each effect of \"Primite Lordly Lode\" once per turn. Normal Monsters and \"Primite\" monsters you control gain 300 ATK for each Normal Monster with different names in your GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Primite",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56506740.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56506740.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56506740.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/primite-lordly-lode-14548",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN058",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN058",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56506740,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56506740.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56506740.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56506740.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "38.57",
+            "tcgplayer_price": "42.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

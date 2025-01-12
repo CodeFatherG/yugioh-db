@@ -2,17 +2,50 @@
     "id": 71948047,
     "name": "REINFORCE!",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "(This card is always treated as a \"Rescue-ACE\" card.)\r\nTarget 1 \"Rescue-ACE\" monster you control; for the rest of this turn, that monster you control gains 1500 ATK/DEF, is unaffected by your opponent's monster effects, and the next time it would be destroyed by battle, it is not destroyed. You can banish this card from your GY, then target 1 \"Rescue-ACE\" Spell in your GY; Set that card. You can only use this effect of \"REINFORCE!\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Rescue-ACE",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71948047.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71948047.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71948047.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/reinforce-13662",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN354",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN079",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71948047,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71948047.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71948047.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71948047.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

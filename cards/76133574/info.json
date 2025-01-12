@@ -1,18 +1,46 @@
 {
     "id": 76133574,
     "name": "Zep, Ruby of the Ghoti",
+    "typeline": [
+        "Fish",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "You can banish this card from your hand, then target 1 Fish monster in your GY; banish it. During your opponent's turn, if this card is banished: You can Special Summon it. If this card is Special Summoned, you can (except during the Damage Step): Immediately after this effect resolves, Synchro Summon 1 Fish Synchro Monster using this card you control. You can only use each effect of \"Zep, Ruby of the Ghoti\" once per turn.",
+    "race": "Fish",
     "atk": 0,
     "def": 1000,
     "level": 2,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Ghoti",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/76133574.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76133574.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76133574.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zep-ruby-of-the-ghoti-13580",
+    "card_sets": [
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN085",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 76133574,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76133574.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76133574.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76133574.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.66",
+            "tcgplayer_price": "2.91",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

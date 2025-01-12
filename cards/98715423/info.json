@@ -2,17 +2,43 @@
     "id": 98715423,
     "name": "Gravekeeper's Trap",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "While \"Exchange of the Spirit\" is in your GY, your opponent cannot activate the effects of cards in the GY, or Special Summon monsters from the GY. You can only use each of the following effects of \"Gravekeeper's Trap\" once per turn. During the Main Phase: You can discard 1 card; add 1 \"Gravekeeper's\" or EARTH Fairy monster from your Deck to your hand. During your opponent's Draw Phase, before their normal draw, if this card is already face-up on the field: Declare 1 card name; look at the card(s) drawn for their normal draw, and if it was the declared card, send it to the GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Gravekeeper's",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98715423.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98715423.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98715423.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gravekeeper-s-trap-13186",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN029",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN029",
+            "set_rarity": "Ultra Rare (Pharaoh's Rare)",
+            "set_rarity_code": "",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98715423,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98715423.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98715423.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98715423.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.50",
+            "amazon_price": "3.38",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

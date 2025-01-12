@@ -1,18 +1,44 @@
 {
     "id": 87263576,
     "name": "Outburst Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a monster: You can Special Summon this card from your hand, then destroy all other monsters you control, also you cannot Special Summon monsters, except DARK monsters, while this card is face-up in the Monster Zone. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Link Summon 1 Dragon Link Monster using materials you control, including this card. You can only use each effect of \"Outburst Dragon\" once per turn.",
+    "race": "Dragon",
     "atk": 2100,
     "def": 2800,
     "level": 8,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/87263576.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87263576.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87263576.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/outburst-dragon-12515",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0.96"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 87263576,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87263576.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87263576.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87263576.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.70",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

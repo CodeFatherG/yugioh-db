@@ -1,18 +1,46 @@
 {
     "id": 28715905,
     "name": "Ursarctic Megapolar",
+    "typeline": [
+        "Beast-Warrior",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "During the Main Phase (Quick Effect): You can Tribute 1 other Level 7 or higher monster from your hand; Special Summon this card from your hand, also you cannot Special Summon for the rest of this turn, except monsters with a Level. If this card is Special Summoned while you control another \"Ursarctic\" monster: You can target 1 Spell/Trap your opponent controls; destroy it. You can only use each effect of \"Ursarctic Megapolar\" once per turn.",
+    "race": "Beast-Warrior",
     "atk": 2500,
     "def": 700,
     "level": 8,
-    "race": "Beast-Warrior",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Ursarctic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28715905.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28715905.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28715905.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ursarctic-megapolar-11927",
+    "card_sets": [
+        {
+            "set_name": "Ancient Guardians",
+            "set_code": "ANGU-EN030",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.38"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28715905,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28715905.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28715905.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28715905.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "1.05",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 71411377,
     "name": "Queen's Bodyguard",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "\"Allure Queen\" monsters on your side of the field cannot be selected as an attack target.",
+    "race": "Warrior",
     "atk": 1700,
     "def": 1200,
     "level": 4,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Allure Queen",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71411377.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71411377.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71411377.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/queen-s-bodyguard-5996",
+    "card_sets": [
+        {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71411377,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71411377.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71411377.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71411377.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

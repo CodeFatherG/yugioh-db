@@ -2,17 +2,26 @@
     "id": 13536607,
     "name": "V-LAN Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned by the effect of \"V-LAN Hydra\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Cyberse",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/13536607.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13536607.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13536607.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/v-lan-token-8609",
+    "card_images": [
+        {
+            "id": 13536607,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13536607.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13536607.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13536607.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "8.03",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

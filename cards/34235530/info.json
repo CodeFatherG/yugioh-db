@@ -1,18 +1,53 @@
 {
     "id": 34235530,
     "name": "Legendary Lord Six Samurai - Shi En",
+    "typeline": [
+        "Warrior",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Warrior Tuner + 1+ non-Tuner \"Six Samurai\" monsters\r\nIf this card is Synchro Summoned: You can add 1 \"Six Samurai\" monster or \"Shien\" Effect Monster from your Deck or GY to your hand. You can only use this effect of \"Legendary Lord Six Samurai - Shi En\" once per turn. Once per turn, when your opponent activates a monster effect (Quick Effect): You can negate the activation, and if you do, destroy that card. If this card on the field would be destroyed by battle or card effect, you can destroy 1 monster you control instead.",
+    "race": "Warrior",
     "atk": 2500,
     "def": 1900,
     "level": 6,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Six Samurai",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34235530.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34235530.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34235530.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/legendary-lord-six-samurai-shi-en-14537",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN039",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN039",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34235530,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34235530.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34235530.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34235530.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.95",
+            "tcgplayer_price": "1.70",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

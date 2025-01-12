@@ -1,18 +1,52 @@
 {
     "id": 19516687,
     "name": "Libromancer Agent",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can reveal 1 Ritual Monster in your hand: Special Summon this card from your hand. You can target 1 \"Libromancer\" card in your GY, except \"Libromancer Agent\"; add it to your hand, then if you added a Spell/Trap by this effect, place 1 card from your hand on the bottom of the Deck. You can only use each effect of \"Libromancer Agent\" once per turn.",
+    "race": "Warrior",
     "atk": 2000,
     "def": 2500,
     "level": 6,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Libromancer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19516687.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19516687.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19516687.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/libromancer-agent-13057",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN087",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19516687,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19516687.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19516687.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19516687.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "1.50",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

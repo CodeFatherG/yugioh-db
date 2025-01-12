@@ -2,17 +2,26 @@
     "id": 75732623,
     "name": "Grinder Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as a \"Grinder Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Fiend",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/75732623.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75732623.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75732623.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/grinder-token-6374",
+    "card_images": [
+        {
+            "id": 75732623,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75732623.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75732623.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75732623.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "1.49",
+            "amazon_price": "1.69",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

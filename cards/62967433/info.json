@@ -1,18 +1,45 @@
 {
     "id": 62967433,
     "name": "Baromet the Sacred Sheep Shrub",
+    "typeline": [
+        "Plant",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 4 monsters\r\nYou can detach 1 material from this card, then target 1 Normal Trap in your GY; place it on the bottom of the Deck, then draw 1 card. If a Normal Trap Card is activated (except during the Damage Step): You can detach 1 material from an Xyz Monster you control, and if you do, Special Summon 1 Level 4 monster from your hand. You can only use each effect of \"Baromet the Sacred Sheep Shrub\" once per turn.",
+    "race": "Plant",
     "atk": 1900,
     "def": 2000,
     "level": 4,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62967433.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62967433.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62967433.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/baromet-the-sacred-sheep-shrub-13607",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN097",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 62967433,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62967433.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62967433.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62967433.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

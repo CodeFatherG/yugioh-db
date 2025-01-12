@@ -1,18 +1,52 @@
 {
     "id": 27260347,
     "name": "Snake-Eyes Diabellstar",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When an attack is declared involving this card and an opponent's monster: You can place this card from the field, and that opponent's monster, face-up in their owners' Spell & Trap Zones as Continuous Spells. While this card is a Continuous Spell: You can target 1 FIRE monster in your GY, except \"Snake-Eyes Diabellstar\"; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell, and if you do, Special Summon this card. You can only use each effect of \"Snake-Eyes Diabellstar\" once per turn.",
+    "race": "Spellcaster",
     "atk": 2800,
     "def": 2600,
     "level": 8,
-    "race": "Spellcaster",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Snake-Eye",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27260347.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27260347.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27260347.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/snake-eyes-diabellstar-14332",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN011",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27260347,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27260347.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27260347.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27260347.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.97",
+            "tcgplayer_price": "5.49",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

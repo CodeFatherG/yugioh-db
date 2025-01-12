@@ -2,17 +2,27 @@
     "id": 32044231,
     "name": "Rank-Up-Magic Magical Force",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 Rank 4 Spellcaster Xyz Monster in your GY; Special Summon it (but negate its effects), then Special Summon 1 Rank 5 Spellcaster Xyz Monster from your Extra Deck (this is treated as an Xyz Summon), by using that monster as material, and if you do, attach this card to it as additional material. You can only activate 1 \"Rank-Up-Magic Magical Force\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Rank-Up-Magic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32044231.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32044231.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32044231.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rank-up-magic-magical-force-14553",
+    "card_images": [
+        {
+            "id": 32044231,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32044231.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32044231.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32044231.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

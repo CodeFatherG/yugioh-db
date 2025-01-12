@@ -2,17 +2,50 @@
     "id": 40597694,
     "name": "Scatter Fusion",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "During your Main Phase, if your opponent controls a monster: You can Fusion Summon 1 non-Rock \"Gem-Knight\" monster from your Extra Deck, using monsters from your Deck as material, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Gem-Knight\" monsters. You can only use this effect of \"Scatter Fusion\" once per turn. When this card leaves the field, destroy all monsters Summoned by this card's effect.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fusion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/40597694.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40597694.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40597694.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/scatter-fusion-13157",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN140",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN161",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN062",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 40597694,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40597694.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40597694.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40597694.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "1.79",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

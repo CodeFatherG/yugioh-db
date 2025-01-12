@@ -2,17 +2,43 @@
     "id": 78789356,
     "name": "Ogdoadic Daybreak",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Tribute 1 Reptile monster; for every 2 Levels that Tributed monster had on the field, Special Summon up to 1 \"Ogdoadic Token\" (Reptile/DARK/Level 2/ATK 0/DEF 0). During your Main Phase: You can banish this card from your GY, then target 1 of your banished Reptile monsters; shuffle it into the Deck, then you can send 1 Reptile monster from your Deck to the GY. You can only use each effect of \"Ogdoadic Daybreak\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ogdoadic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/78789356.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78789356.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78789356.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ogdoadic-daybreak-14011",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN395",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 78789356,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78789356.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78789356.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78789356.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

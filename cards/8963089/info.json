@@ -1,18 +1,45 @@
 {
     "id": 8963089,
     "name": "Heosvarog the Mechanical Dawn",
+    "typeline": [
+        "Machine",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 LIGHT Machine monsters\r\nIf this card is Fusion Summoned: You can activate this effect; during the Standby Phase of the next turn, add 1 card from your GY to your hand, with an effect that Fusion Summons a monster(s). When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can banish 1 face-up LIGHT Machine monster you control or 2 LIGHT Machine monsters from your GY; negate the activation. You can only use each effect of \"Heosvarog the Mechanical Dawn\" once per turn.",
+    "race": "Machine",
     "atk": 0,
     "def": 2800,
     "level": 7,
-    "race": "Machine",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8963089.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8963089.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8963089.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heosvarog-the-mechanical-dawn-14587",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN035",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8963089,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8963089.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8963089.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8963089.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

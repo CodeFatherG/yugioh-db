@@ -2,17 +2,27 @@
     "id": 82324106,
     "name": "Soul Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Limit Impulse\". This Token cannot be Tributed, except for a Tribute Summon.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Fiend",
-    "attribute": null,
-    "scale": null,
     "archetype": "Chaos",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/82324106.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82324106.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82324106.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/soul-token-2758",
+    "card_images": [
+        {
+            "id": 82324106,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82324106.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82324106.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82324106.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "18.60",
+            "tcgplayer_price": "5.80",
+            "ebay_price": "0.99",
+            "amazon_price": "3.28",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

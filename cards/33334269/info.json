@@ -1,18 +1,46 @@
 {
     "id": 33334269,
     "name": "D/D Ghost",
+    "typeline": [
+        "Fiend",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent to the Graveyard: You can target 1 \"D/D\" monster or \"Dark Contract\" card in your Graveyard, except \"D/D Ghost\"; send 1 card from your Deck to the Graveyard with that name. If this card is banished: You can target 1 of your banished \"D/D\" monsters or \"Dark Contract\" cards, except \"D/D Ghost\"; return it to the Graveyard.",
+    "race": "Fiend",
     "atk": 600,
     "def": 300,
     "level": 2,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "D/D",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33334269.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33334269.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33334269.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-ghost-8368",
+    "card_sets": [
+        {
+            "set_name": "Maximum Crisis",
+            "set_code": "MACR-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33334269,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33334269.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33334269.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33334269.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.85",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

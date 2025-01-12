@@ -2,17 +2,50 @@
     "id": 43577607,
     "name": "Yang Zing Prana",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "This card gains these effects, based on the number of different Attributes the \"Yang Zing\" monsters in your Graveyard have.\n\u25cf 2 or more: All \"Yang Zing\" monsters you control gain 500 ATK.\n\u25cf 3 or more: If a \"Yang Zing\" monster(s) you control would be destroyed by battle or card effect, you can send this card to the Graveyard instead.\n\u25cf 4 or more: Your opponent cannot Set monsters. Change all face-up monsters your opponent controls to Attack Position.\n\u25cf 5 or more: You can send this card to the Graveyard; destroy all cards on the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Yang Zing",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/43577607.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43577607.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43577607.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/yang-zing-prana-3717",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN106",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN158",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0.94"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 43577607,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43577607.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43577607.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43577607.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

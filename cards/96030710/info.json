@@ -1,18 +1,46 @@
 {
     "id": 96030710,
     "name": "Centur-Ion Atrii",
+    "typeline": [
+        "Dragon",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card you control would be used as Synchro Material, you can treat it as a non-Tuner. You can only use each of the following effects of \"Centur-Ion Atrii\" once per turn. If this card is Normal or Special Summoned, and you have both an \"Emblema\" card and a \"Centur-Ion\" card in your GY: You can draw 1 card, also you cannot Special Summon \"Centur-Ion Atrii\" for the rest of this turn. During the Main Phase, if this card is a Continuous Trap: You can Special Summon this card.",
+    "race": "Dragon",
     "atk": 1800,
     "def": 1400,
     "level": 4,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Centur-Ion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96030710.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96030710.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96030710.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/centur-ion-atrii-14466",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96030710,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96030710.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96030710.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96030710.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

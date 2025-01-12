@@ -2,17 +2,42 @@
     "id": 65433790,
     "name": "Battle Royal Mode - Joining",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Activate this card by targeting 1 Effect Monster on the field. The first two times that monster would be destroyed by battle each turn, it is not destroyed. When it is destroyed by battle, the player that destroyed it gains 2000 LP. If the turn player's opponent takes battle or effect damage: Activate this effect; that opponent can apply the following effect.\r\n\u25cf Special Summon 1 Level 4 or lower monster from your hand or Deck, but lose 2000 LP.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65433790.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65433790.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65433790.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/battle-royal-mode-joining-12976",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN267",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN026",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65433790,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65433790.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65433790.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65433790.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "1.25",
+            "amazon_price": "1.29",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

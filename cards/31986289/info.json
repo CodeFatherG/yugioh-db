@@ -2,17 +2,27 @@
     "id": 31986289,
     "name": "Regenerating Rose Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Regenerating Rose\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Plant",
-    "attribute": null,
-    "scale": null,
     "archetype": "Rose Dragon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31986289.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31986289.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31986289.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/regenerating-rose-token-2715",
+    "card_images": [
+        {
+            "id": 31986289,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31986289.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31986289.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31986289.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.51",
+            "tcgplayer_price": "0.95",
+            "ebay_price": "2.52",
+            "amazon_price": "1.38",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

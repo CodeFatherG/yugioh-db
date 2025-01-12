@@ -1,18 +1,66 @@
 {
     "id": 45033006,
     "name": "Ally of Justice Enemy Catcher",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned, you can take control of 1 face-down Defense Position monster your opponent controls, until the End Phase of this turn.",
+    "race": "Machine",
     "atk": 1800,
     "def": 1800,
     "level": 6,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Ally of Justice",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45033006.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45033006.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45033006.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ally-of-justice-enemy-catcher-3838",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN026",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 2",
+            "set_code": "HA02-EN020",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN082",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN082",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.31"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45033006,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45033006.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45033006.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45033006.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

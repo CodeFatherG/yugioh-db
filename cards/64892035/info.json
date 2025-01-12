@@ -1,18 +1,72 @@
 {
     "id": 64892035,
     "name": "Tardy Orc",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card cannot attack the turn it is Normal Summoned.",
+    "race": "Fiend",
     "atk": 2200,
     "def": 0,
     "level": 4,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64892035.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64892035.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64892035.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tardy-orc-5472",
+    "card_sets": [
+        {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN114",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN114",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN096",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN096",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Galactic Overlord",
+            "set_code": "GAOV-EN085",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64892035,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64892035.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64892035.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64892035.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

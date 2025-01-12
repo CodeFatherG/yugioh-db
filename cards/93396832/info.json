@@ -2,17 +2,35 @@
     "id": 93396832,
     "name": "Smashing Horn",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "When a monster effect or Trap Card is activated that negates the Normal or Special Summon of a monster(s): Negate the activation and destroy it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93396832.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93396832.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93396832.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/smashing-horn-7776",
+    "card_sets": [
+        {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN089",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93396832,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93396832.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93396832.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93396832.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.15",
+            "tcgplayer_price": "0.70",
+            "ebay_price": "1.99",
+            "amazon_price": "2.63",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

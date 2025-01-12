@@ -1,18 +1,81 @@
 {
     "id": 9742784,
     "name": "Jet Synchron",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent to the GY as Synchro Material: You can add 1 \"Junk\" monster from your Deck to your hand. If this card is in your GY: You can send 1 card from your hand to the GY; Special Summon this card, but banish it when it leaves the field. You can only use 1 \"Jet Synchron\" effect per turn, and only once that turn.",
+    "race": "Machine",
     "atk": 500,
     "def": 0,
     "level": 1,
-    "race": "Machine",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Junk",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9742784.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9742784.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9742784.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jet-synchron-821",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Magical Hero",
+            "set_code": "LED6-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN044",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN044",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 9",
+            "set_code": "OP09-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 9 (POR)",
+            "set_code": "OP09-PT018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        },
+        {
+            "set_name": "Synchron Extreme Structure Deck",
+            "set_code": "SDSE-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9742784,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9742784.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9742784.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9742784.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.67",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

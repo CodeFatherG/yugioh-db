@@ -2,17 +2,35 @@
     "id": 83589191,
     "name": "Life Hack",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 face-up monster on the field; any damage your opponent takes this turn is halved, also that monster's ATK becomes equal to your opponent's current LP until the end of this turn. During your Main Phase: You can banish this card from your GY, then target 1 face-up monster on the field; any damage your opponent takes this turn is halved, also that monster's ATK becomes equal to your current LP until the end of this turn. You can only use each effect of \"Life Hack\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83589191.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83589191.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83589191.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/life-hack-14292",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83589191,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83589191.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83589191.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83589191.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

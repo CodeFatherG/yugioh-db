@@ -2,17 +2,49 @@
     "id": 300302021,
     "name": "Power Up!",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Yami Yugi",
+    "frameType": "skill",
     "desc": "Activate this Skill during your Main Phase.\r\nOnce per Duel, you can make 1 face-up monster on the field gain 500 ATK until the end of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Yami Yugi",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302021.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302021.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302021.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/power-up-12413",
+    "card_sets": [
+        {
+            "set_name": "Event Pack Speed Duel",
+            "set_code": "EVSD-ENS01",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.85"
+        },
+        {
+            "set_name": "Speed Duel Demo Deck",
+            "set_code": "DEM5-ENS01",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5.55"
+        },
+        {
+            "set_name": "Speed Duel Demo Deck 2020",
+            "set_code": "DEM6-ENS01",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "25.8"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302021,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302021.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302021.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302021.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.28",
+            "tcgplayer_price": "0.36",
+            "ebay_price": "99.99",
+            "amazon_price": "1.04",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

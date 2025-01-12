@@ -1,18 +1,52 @@
 {
     "id": 94283662,
     "name": "Trance Archfiend",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn: You can discard 1 Fiend-Type monster, and if you do, this card gains 500 ATK until the end of this turn. When this card you control is destroyed and sent to your Graveyard: You can target 1 of your banished DARK monsters; add that target to your hand.",
+    "race": "Fiend",
     "atk": 1500,
     "def": 500,
     "level": 4,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Archfiend",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94283662.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94283662.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94283662.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trance-archfiend-7845",
+    "card_sets": [
+        {
+            "set_name": "Order of Chaos",
+            "set_code": "ORCS-EN035",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Pendulum Domination Structure Deck",
+            "set_code": "SDPD-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 94283662,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94283662.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94283662.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94283662.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "4.00",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

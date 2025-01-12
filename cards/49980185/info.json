@@ -2,17 +2,35 @@
     "id": 49980185,
     "name": "Supernatural Regeneration",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only during the End Phase. Gain 1000 Life Points for each Psychic-Type monster sent to the Graveyard this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49980185.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49980185.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49980185.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/supernatural-regeneration-4257",
+    "card_sets": [
+        {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN077",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49980185,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49980185.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49980185.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49980185.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

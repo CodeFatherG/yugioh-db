@@ -2,17 +2,35 @@
     "id": 53442500,
     "name": "End of the Line",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If your LP are lower than 100: Draw 2 cards, then, if your LP are lower than 10, draw 2 additional cards.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53442500.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53442500.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53442500.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/end-of-the-line-12756",
+    "card_sets": [
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN080",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.84"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53442500,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53442500.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53442500.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53442500.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "1.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 15462014,
     "name": "Hollow Giants",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Activate this card only if both players control a monster that was Special Summoned from the Extra Deck. Negate the effects of face-up monsters Special Summoned from the Extra Deck. If a monster(s) is destroyed by battle involving 2 monsters that were Special Summoned from the Extra Deck: Send this card to the GY, also the player(s) who controlled the destroyed monster(s) takes 1000 damage.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15462014.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15462014.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15462014.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hollow-giants-10958",
+    "card_sets": [
+        {
+            "set_name": "Duel Overload",
+            "set_code": "DUOV-EN055",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 15462014,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15462014.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15462014.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15462014.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

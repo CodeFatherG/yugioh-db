@@ -1,21 +1,57 @@
 {
     "id": 47759571,
     "name": "Pitknight Earlie",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Effect Monsters\r\nWhen a monster this card points to activates its effect (except during the Damage Step) (Quick Effect): You can target 1 Effect Monster your opponent controls; until the end of this turn, change its ATK to 0, also negate its effects. During the End Phase, if this card is in the GY because it was destroyed by battle or card effect and sent there this turn: You can Special Summon this card. You can only use each effect of \"Pitknight Earlie\" once per turn.",
+    "race": "Cyberse",
     "atk": 1500,
     "def": null,
     "level": null,
-    "race": "Cyberse",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Top-Right",
         "Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/47759571.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47759571.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47759571.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pitknight-earlie-13427",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN149",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN083",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.79"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47759571,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47759571.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47759571.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47759571.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 77013169,
     "name": "Superheavy Samurai Swordsman",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal or Special Summoned: You can change its battle position. If a \"Superheavy Samurai\" monster you control battles an opponent's monster, after damage calculation: The opponent's monster's ATK and DEF become 0.",
+    "race": "Machine",
     "atk": 1000,
     "def": 1800,
     "level": 3,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Superheavy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/77013169.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77013169.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77013169.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/superheavy-samurai-swordsman-6481",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 77013169,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77013169.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77013169.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77013169.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.50",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

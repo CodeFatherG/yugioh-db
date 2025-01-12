@@ -1,14 +1,20 @@
 {
     "id": 70514456,
     "name": "Ragnaraika Mantis Monk",
+    "typeline": [
+        "Insect",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ monsters, including an Insect, Plant, or Reptile monster\r\nYou can banish 2 Insect, Plant, and/or Reptile monsters from your GY; add 1 \"Ragnaraika\" Trap from your Deck to your hand. If this card is in your GY: You can target 1 Insect, Plant, or Reptile monster you control; place it on the bottom of the Deck, and if you do, Special Summon this card, also you cannot Special Summon for the rest of this turn, except Insect, Plant, or Reptile monsters. You can only use each effect of \"Ragnaraika Mantis Monk\" once per turn.",
+    "race": "Insect",
     "atk": 2300,
     "def": null,
     "level": null,
-    "race": "Insect",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Ragnaraika",
     "linkval": 3,
     "linkmarkers": [
@@ -16,7 +22,31 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/70514456.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70514456.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70514456.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ragnaraika-mantis-monk-14319",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN048",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70514456,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70514456.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70514456.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70514456.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

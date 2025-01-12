@@ -2,17 +2,36 @@
     "id": 11813722,
     "name": "Barkion's Bark",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Activate only if you control a face-up \"Naturia\" monster. Your opponent cannot activate Trap Cards this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Naturia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/11813722.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11813722.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11813722.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/barkion-s-bark-1021",
+    "card_sets": [
+        {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 11813722,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11813722.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11813722.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11813722.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

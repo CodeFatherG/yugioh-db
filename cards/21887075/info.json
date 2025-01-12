@@ -2,17 +2,42 @@
     "id": 21887075,
     "name": "Endless Engine Argyro System",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Send 1 \"Therion\" card from your Deck to the GY. If this card is in your GY: You can target 1 \"Therion\" card in your GY; if both are still in your GY, add either that card or this card to your hand, and if you do, place the other on the bottom of your Deck. You can only use 1 \"Endless Engine Argyro System\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21887075.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21887075.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21887075.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/endless-engine-argyro-system-13013",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN092",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN054",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21887075,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21887075.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21887075.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21887075.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "1.48",
+            "amazon_price": "1.20",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

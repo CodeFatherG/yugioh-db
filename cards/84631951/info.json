@@ -1,18 +1,44 @@
 {
     "id": 84631951,
     "name": "Dinovatus Docus",
+    "typeline": [
+        "Dinosaur",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can only Special Summon \"Dinovatus Docus(s)\" once per turn. If you control 2 or more Dinosaur monsters: You can Special Summon this card from your hand. You can Tribute 1 Level 4 or lower monster; Special Summon 1 Dinosaur monster from your Deck that is 2 Levels higher or lower than the Tributed monster had on the field, but destroy it during the End Phase. You can only use this effect of \"Dinovatus Docus\" once per turn.",
+    "race": "Dinosaur",
     "atk": 1500,
     "def": 2200,
     "level": 6,
-    "race": "Dinosaur",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84631951.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84631951.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84631951.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dinovatus-docus-14361",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84631951,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84631951.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84631951.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84631951.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

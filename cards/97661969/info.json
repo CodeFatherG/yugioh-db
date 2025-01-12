@@ -1,21 +1,71 @@
 {
     "id": 97661969,
     "name": "Aussa the Earth Charmer, Immovable",
+    "typeline": [
+        "Spellcaster",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters, including an EARTH monster\r\n(This card is always treated as a \"Familiar-Possessed\" card.)\r\nYou can target 1 EARTH monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 EARTH monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Aussa the Earth Charmer, Immovable\" once per turn.",
+    "race": "Spellcaster",
     "atk": 1850,
     "def": null,
     "level": null,
-    "race": "Spellcaster",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/97661969.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97661969.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97661969.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/aussa-the-earth-charmer-immovable-10568",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN019",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Ignition Assault",
+            "set_code": "IGAS-EN048",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Ignition Assault",
+            "set_code": "IGAS-EN048",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN121",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.99"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 97661969,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97661969.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97661969.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97661969.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.28",
+            "amazon_price": "1.13",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

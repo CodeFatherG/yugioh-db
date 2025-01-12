@@ -1,18 +1,44 @@
 {
     "id": 47226949,
     "name": "Leotron",
+    "typeline": [
+        "Cyberse",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A territorial electronic monster that guards its own domain.",
+    "race": "Cyberse",
     "atk": 2000,
     "def": 0,
     "level": 4,
-    "race": "Cyberse",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47226949.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47226949.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47226949.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/leotron-9358",
+    "card_sets": [
+        {
+            "set_name": "Starter Deck: Codebreaker",
+            "set_code": "YS18-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47226949,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47226949.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47226949.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47226949.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "2.95",
+            "amazon_price": "5.76",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

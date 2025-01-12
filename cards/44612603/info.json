@@ -2,17 +2,35 @@
     "id": 44612603,
     "name": "Survival's End",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Destroy as many Normal Monsters on the field as possible, and if you do, Special Summon Level 4 or lower Dinosaur-Type monsters from your Deck, up to the number destroyed, but destroy them during the End Phase. You can banish this card from your Graveyard, then target 1 Dinosaur-Type monster you control and 1 card your opponent controls; destroy them.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44612603.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44612603.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44612603.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/survival-s-end-8509",
+    "card_sets": [
+        {
+            "set_name": "Dinosmasher's Fury Structure Deck",
+            "set_code": "SR04-EN030",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44612603,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44612603.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44612603.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44612603.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.74",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

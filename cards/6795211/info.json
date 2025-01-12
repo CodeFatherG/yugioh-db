@@ -2,17 +2,35 @@
     "id": 6795211,
     "name": "Teleport",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Once per turn, if your opponent controls a monster and you control no monsters, you can pay 800 Life Points to Special Summon 1 Psychic-Type monster from your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6795211.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6795211.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6795211.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/teleport-586",
+    "card_sets": [
+        {
+            "set_name": "Crossroads of Chaos",
+            "set_code": "CSOC-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6795211,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6795211.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6795211.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6795211.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.49",
+            "amazon_price": "4.56",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

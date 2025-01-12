@@ -1,18 +1,52 @@
 {
     "id": 75290703,
     "name": "Therion Irregular",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can target up to 3 \"Therion\" monsters in your GY; Special Summon this card from your hand, and if you do, equip them to this card. You can discard 1 \"Endless Engine Argyro System\"; destroy all cards your opponent controls. While this card is equipped to a monster: You can Special Summon this card, then equip the monster this card was equipped to, to this card. You can only use each effect of \"Therion Irregular\" once per turn.",
+    "race": "Machine",
     "atk": 1600,
     "def": 2800,
     "level": 10,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Therion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/75290703.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75290703.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75290703.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/therion-irregular-13180",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN120",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN009",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 75290703,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75290703.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75290703.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75290703.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

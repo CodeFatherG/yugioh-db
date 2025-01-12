@@ -1,18 +1,51 @@
 {
     "id": 55501446,
     "name": "Lightserpent",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent from the hand to your Graveyard: You can Special Summon it from the Graveyard. This card cannot be used as a Synchro Material Monster.",
+    "race": "Reptile",
     "atk": 1200,
     "def": 800,
     "level": 3,
-    "race": "Reptile",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/55501446.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55501446.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55501446.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lightserpent-4726",
+    "card_sets": [
+        {
+            "set_name": "Ancient Guardians",
+            "set_code": "ANGU-EN044",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.4"
+        },
+        {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN013",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 55501446,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55501446.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55501446.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55501446.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.95",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

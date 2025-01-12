@@ -2,17 +2,42 @@
     "id": 6589707,
     "name": "Terrors in the Hidden City",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Your opponent cannot target face-down Defense Position monsters you control with card effects. Monsters you control that were flipped face-up while this card was face-up on the field gain 1500 ATK/DEF. If this card in its owner's Spell & Trap Zone is destroyed by an opponent's card effect: You can target 1 monster in your GY; Special Summon it in face-down Defense Position.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6589707.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6589707.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6589707.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/terrors-in-the-hidden-city-13400",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN206",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN069",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6589707,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6589707.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6589707.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6589707.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

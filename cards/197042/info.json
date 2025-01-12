@@ -2,17 +2,43 @@
     "id": 197042,
     "name": "Exosister Returnia",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If all monsters you control are \"Exosister\" monsters (min. 1): Pay 800 LP, then target 1 card your opponent controls or in their GY; banish it, then you can apply 1 of the following effects.\r\n\u25cf Immediately after this effect resolves, Xyz Summon 1 \"Exosister\" Xyz Monster using monsters you control.\r\n\u25cf If you Xyz Summoned this turn, banish 1 card your opponent controls.\r\nYou can only activate 1 \"Exosister Returnia\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Exosister",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/197042.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/197042.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/197042.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/exosister-returnia-13145",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN145",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN076",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 197042,
+            "image_url": "https://images.ygoprodeck.com/images/cards/197042.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/197042.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/197042.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

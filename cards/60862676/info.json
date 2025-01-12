@@ -1,18 +1,58 @@
 {
     "id": 60862676,
     "name": "Flame Cerebrus",
+    "typeline": [
+        "Pyro",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "Known to many as the \"Burning Executioner\", this monster is capable of burning enemies to cinders.",
+    "race": "Pyro",
     "atk": 2100,
     "def": 1800,
     "level": 6,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60862676.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60862676.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60862676.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/flame-cerebrus-5163",
+    "card_sets": [
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-111",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.09"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E111",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.48"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN111",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60862676,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60862676.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60862676.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60862676.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

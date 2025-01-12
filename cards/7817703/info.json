@@ -2,17 +2,36 @@
     "id": 7817703,
     "name": "Morphtronic Engine",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "Equip only to a Level 3 \"Morphtronic\" monster. Its ATK becomes double its original ATK. During your second Standby Phase after this card's activation, destroy this card, and take damage equal to the original ATK of the equipped monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
     "archetype": "Morphtronic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7817703.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7817703.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7817703.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/morphtronic-engine-667",
+    "card_sets": [
+        {
+            "set_name": "Crossroads of Chaos",
+            "set_code": "CSOC-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7817703,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7817703.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7817703.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7817703.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 75047173,
     "name": "Favorite Contact",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Special Summon 1 Fusion Monster from your Extra Deck that mentions a \"HERO\" monster as material, ignoring its Summoning conditions, by placing the Fusion Materials mentioned on it on the bottom of the Deck in any order, from among cards in your hand, field, GY, and/or your banished cards. If you placed \"Elemental HERO Neos\" into the Deck, neither player can return the monster Special Summoned by this effect to the Extra Deck. You can only activate 1 \"Favorite Contact\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Contact",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/75047173.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75047173.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75047173.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/favorite-contact-13147",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN063",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN069",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 75047173,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75047173.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75047173.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75047173.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.83",
+            "tcgplayer_price": "1.48",
+            "ebay_price": "2.44",
+            "amazon_price": "1.75",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

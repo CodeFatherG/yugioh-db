@@ -2,17 +2,50 @@
     "id": 27623932,
     "name": "Thunder Discharge",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control an \"Adventurer Token\": You can target 1 monster you control equipped with an Equip Card that mentions \"Adventurer Token\"; destroy as many monsters your opponent controls as possible with ATK less than or equal to that monster, then you can equip 1 Equip Spell that mentions \"Adventurer Token\" from your hand or GY to 1 monster you control. You can only activate 1 \"Thunder Discharge\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Adventurer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27623932.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27623932.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27623932.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/thunder-discharge-12535",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN272",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN101",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Grand Creators",
+            "set_code": "GRCR-EN035",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.84"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27623932,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27623932.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27623932.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27623932.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.02",
+            "ebay_price": "0.99",
+            "amazon_price": "0.94",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

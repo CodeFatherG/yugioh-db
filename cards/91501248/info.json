@@ -1,18 +1,53 @@
 {
     "id": 91501248,
     "name": "Pot of The Forbidden",
+    "typeline": [
+        "Rock",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: You can activate 1 of these effects;\n\u25cf Draw 2 cards.\n\u25cf Return all Spell and Trap Cards on the field to the hand.\n\u25cf Destroy all monsters your opponent controls.\n\u25cf Look at your opponent's hand, also shuffle 1 card from their hand into the Deck.\nYou can only use this effect of \"Pot of The Forbidden\" once per turn.",
+    "race": "Rock",
     "atk": 2000,
     "def": 3000,
     "level": 9,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Greed",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91501248.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91501248.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91501248.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pot-of-the-forbidden-7629",
+    "card_sets": [
+        {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN134",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension of Chaos",
+            "set_code": "DOCS-EN040",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91501248,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91501248.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91501248.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91501248.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.51",
+            "tcgplayer_price": "0.58",
+            "ebay_price": "0.99",
+            "amazon_price": "1.25",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

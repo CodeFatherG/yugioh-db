@@ -1,21 +1,57 @@
 {
     "id": 70709488,
     "name": "Shinobi Insect Hagakuremino",
+    "typeline": [
+        "Insect",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters with different names\r\nWhile this card points to a monster(s), your opponent's monsters cannot target this card for attacks. If a monster(s) this card points to is destroyed by battle or card effect: You can Special Summon 1 Level 4 or lower Insect monster from your hand or GY, but banish it when it leaves the field. You can only use this effect of \"Shinobi Insect Hagakuremino\" once per turn.",
+    "race": "Insect",
     "atk": 1000,
     "def": null,
     "level": null,
-    "race": "Insect",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Top-Left",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/70709488.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70709488.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70709488.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shinobi-insect-hagakuremino-10328",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN183",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN096",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70709488,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70709488.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70709488.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70709488.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "49.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

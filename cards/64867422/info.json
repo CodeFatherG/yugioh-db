@@ -2,17 +2,43 @@
     "id": 64867422,
     "name": "\"Infernoble Arms - Hauteclere\"",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "While this card is equipped to a monster: You can target 1 face-up monster you control; this turn, you cannot declare attacks, except with that monster, also it gains the ability this turn to make a second attack during each Battle Phase, then destroy this card. If this card is sent to the GY because the equipped monster is sent to the GY: You can target 1 face-up monster on the field; destroy it. You can only use 1 \"\"Infernoble Arms - Hauteclere\"\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
     "archetype": "Noble Knight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64867422.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64867422.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64867422.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/infernoble-arms-hauteclere-10990",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN137",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64867422,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64867422.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64867422.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64867422.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

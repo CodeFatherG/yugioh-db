@@ -1,18 +1,45 @@
 {
     "id": 80040886,
     "name": "Navy Dragon Mech",
+    "typeline": [
+        "Machine",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Special Summoned: You can target face-up cards your opponent controls, up to the number of Tuners in your GY; negate their effects until the end of this turn. If this Synchro Summoned card is destroyed by card effect and sent to the GY: You can target 1 Tuner in your GY; add it to your hand.",
+    "race": "Machine",
     "atk": 2700,
     "def": 1800,
     "level": 9,
-    "race": "Machine",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80040886.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80040886.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80040886.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/navy-dragon-mech-13268",
+    "card_sets": [
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN082",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80040886,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80040886.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80040886.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80040886.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "0.99",
+            "amazon_price": "0.69",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

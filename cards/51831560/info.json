@@ -1,18 +1,36 @@
 {
     "id": 51831560,
     "name": "Gem-Knight Nepyrim",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add 1 \"Gem-Knight\" card from your Deck to your hand, except \"Gem-Knight Nepyrim\", also any effect damage your opponent takes during the Main Phase this turn is halved. During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 \"Gem-\" monster. If this card is sent from the hand or Deck to the GY: You can send 1 card from your hand to the GY, and if you do, Special Summon this card. You can only use each effect of \"Gem-Knight Nepyrim\" once per turn.",
+    "race": "Fairy",
     "atk": 1550,
     "def": 1600,
     "level": 4,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Gem-",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/51831560.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51831560.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51831560.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gem-knight-nepyrim-14817",
+    "card_images": [
+        {
+            "id": 51831560,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51831560.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51831560.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51831560.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 57722593,
     "name": "Konohanasakuya",
+    "typeline": [
+        "Fairy",
+        "Spirit",
+        "Effect"
+    ],
     "type": "Spirit Monster",
+    "humanReadableCardType": "Spirit Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling a Spirit monster. You can only Special Summon \"Konohanasakuya\" once per turn this way. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return it to the hand. Once per turn, during the End Phase: You can banish this card from your GY, then target 1 Spirit monster you control; neither player can activate that face-up monster's effects on the field for the rest of this turn.",
+    "race": "Fairy",
     "atk": 1300,
     "def": 1300,
     "level": 3,
-    "race": "Fairy",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57722593.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57722593.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57722593.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/konohanasakuya-12110",
+    "card_sets": [
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57722593,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57722593.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57722593.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57722593.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "14.84",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

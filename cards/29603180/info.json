@@ -1,18 +1,52 @@
 {
     "id": 29603180,
     "name": "Annihilator Archfiend",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 1 card you control and 1 card your opponent controls; destroy them, and if you destroyed a face-up Fiend monster(s) by this effect, this card gains ATK equal to half the Fiend monster(s)'s original ATK, until the end of this turn. You can only use this effect of \"Annihilator Archfiend\" once per turn.",
+    "race": "Fiend",
     "atk": 2000,
     "def": 3000,
     "level": 9,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Archfiend",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29603180.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29603180.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29603180.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/annihilator-archfiend-10880",
+    "card_sets": [
+        {
+            "set_name": "Ignition Assault",
+            "set_code": "IGAS-EN000",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENE11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29603180,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29603180.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29603180.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29603180.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

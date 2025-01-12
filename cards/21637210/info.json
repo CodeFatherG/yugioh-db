@@ -1,14 +1,20 @@
 {
     "id": 21637210,
     "name": "Firewall Dragon Singularity",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "3+ Effect Monsters\r\n(Quick Effect): You can target cards your opponent controls or in their GY up to the number of different card types (Ritual, Fusion, Synchro, Xyz) you control and in your GY; return them to the hand, also this card gains 500 ATK for each returned card. If a monster this card points to is destroyed by battle, or sent to the GY: You can target 1 Cyberse monster in your GY; Special Summon it. You can only use each effect of \"Firewall Dragon Singularity\" once per turn.",
+    "race": "Cyberse",
     "atk": 3500,
     "def": null,
     "level": null,
-    "race": "Cyberse",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Firewall",
     "linkval": 6,
     "linkmarkers": [
@@ -19,7 +25,45 @@
         "Right",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/21637210.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21637210.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21637210.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/firewall-dragon-singularity-13603",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN087",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN047",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN047",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21637210,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21637210.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21637210.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21637210.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.63",
+            "tcgplayer_price": "0.36",
+            "ebay_price": "3.75",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

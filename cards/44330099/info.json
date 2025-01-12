@@ -2,17 +2,26 @@
     "id": 44330099,
     "name": "Emissary of Darkness Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as an \"Emissary of Darkness Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Fairy",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44330099.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44330099.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44330099.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/emissary-of-darkness-token-3780",
+    "card_images": [
+        {
+            "id": 44330099,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44330099.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44330099.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44330099.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.82",
+            "tcgplayer_price": "1.35",
+            "ebay_price": "1.99",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

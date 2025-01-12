@@ -2,17 +2,43 @@
     "id": 36099620,
     "name": "Realm of Light",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "Each time a card(s) is sent from your Deck to the Graveyard, place 1 Shine Counter on this card. All \"Lightsworn\" monsters gain 100 ATK for each Shine Counter on this card. If this card would be destroyed by a card effect, remove 2 Shine Counters from this card instead.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Lightsworn",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/36099620.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36099620.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36099620.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/realm-of-light-3054",
+    "card_sets": [
+        {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Realm of Light Structure Deck",
+            "set_code": "SDLI-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.7"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 36099620,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36099620.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36099620.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36099620.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "30.00",
+            "amazon_price": "35.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 53116300,
     "name": "Steelswarm Caller",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When a \"Steelswarm\" monster is Tribute Summoned face-up by Tributing this card: You can Special Summon 1 Level 4 or lower \"Steelswarm\" monster from your Deck.",
+    "race": "Fiend",
     "atk": 1700,
     "def": 0,
     "level": 4,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Steelswarm",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53116300.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53116300.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53116300.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/steelswarm-caller-4523",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 5b",
+            "set_code": "DT05-EN079",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 5: Steelswarm Invasion",
+            "set_code": "HA05-EN046",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53116300,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53116300.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53116300.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53116300.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

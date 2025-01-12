@@ -2,17 +2,35 @@
     "id": 60238002,
     "name": "Interdimensional Matter Forwarder",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "You can target 1 monster on the field; banish it, then return it to the field. If your opponent activates a card or effect: You can target 1 face-up monster on the field whose effects are negated; banish it, then return it to the field. Before resolving an opponent's effect that targets this card on the field, banish this card, until the End Phase of the next turn. You can only use each effect of \"Interdimensional Matter Forwarder\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60238002.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60238002.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60238002.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/interdimensional-matter-forwarder-14487",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60238002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60238002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60238002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60238002.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

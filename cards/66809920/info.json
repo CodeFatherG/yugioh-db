@@ -1,18 +1,45 @@
 {
     "id": 66809920,
     "name": "Valkyrie Erste",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Special Summoned from your hand by a Spell effect: You can target 1 \"Mischief of the Time Goddess\" in your GY; add it to your hand. If you control a \"Valkyrie\" monster other than \"Valkyrie Erste\" (Quick Effect): You can banish 1 monster from your opponent's GY, then this card's ATK becomes equal to the banished monster's original ATK until the end of this turn. You can only use each effect of \"Valkyrie Erste\" once per turn.",
+    "race": "Fairy",
     "atk": 1600,
     "def": 1800,
     "level": 6,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Valkyrie",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/66809920.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66809920.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66809920.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/valkyrie-erste-9746",
+    "card_sets": [
+        {
+            "set_name": "Shadows in Valhalla",
+            "set_code": "SHVA-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.15"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 66809920,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66809920.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66809920.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66809920.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

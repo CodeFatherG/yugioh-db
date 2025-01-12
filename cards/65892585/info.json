@@ -1,18 +1,53 @@
 {
     "id": 65892585,
     "name": "Gold Pride - Chariot Carrie",
+    "typeline": [
+        "Aqua",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 3 monsters\r\nYou can detach 1 material from this card; add 1 \"Gold Pride\" Spell from your Deck to your hand, then if your LP are lower than your opponent's, you can send 1 \"Gold Pride\" monster from your Deck to the GY. You can only use the previous effect of \"Gold Pride - Chariot Carrie\" once per turn. Once per turn, during the End Phase, if the previous effect was activated this turn: Return this card to the Extra Deck, and if you do, Special Summon 1 \"Gold Pride - Captain Carrie\" from your Deck or GY.",
+    "race": "Aqua",
     "atk": 1900,
     "def": 2700,
     "level": 3,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Gold Pride",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65892585.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65892585.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65892585.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gold-pride-chariot-carrie-13901",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN088",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN088",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65892585,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65892585.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65892585.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65892585.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.48",
+            "tcgplayer_price": "1.60",
+            "ebay_price": "1.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

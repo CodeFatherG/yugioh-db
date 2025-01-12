@@ -2,17 +2,42 @@
     "id": 54631834,
     "name": "Terminal World",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Activate only during Main Phase 1. While this card is on the field, both players skip their Main Phase 2.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54631834.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54631834.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54631834.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/terminal-world-4657",
+    "card_sets": [
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.8"
+        },
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN062",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54631834,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54631834.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54631834.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54631834.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.25",
+            "tcgplayer_price": "0.77",
+            "ebay_price": "2.00",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

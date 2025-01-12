@@ -1,18 +1,59 @@
 {
     "id": 57793869,
     "name": "The Wicked Eraser",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. The ATK and DEF of this card are each equal to the number of cards your opponent controls x 1000. When this card is destroyed and sent to the Graveyard, destroy all cards on the field. During your Main Phase, you can destroy this card.",
+    "race": "Fiend",
     "atk": -1,
     "def": -1,
     "level": 10,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Wicked God",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57793869.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57793869.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57793869.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-wicked-eraser-4921",
+    "card_sets": [
+        {
+            "set_name": "Collectible Tins 2010 Wave 1",
+            "set_code": "CT07-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.55"
+        },
+        {
+            "set_name": "King's Court",
+            "set_code": "KICO-EN062",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.91"
+        },
+        {
+            "set_name": "Shonen Jump Vol. 5, Issue 9 promotional card",
+            "set_code": "JUMP-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "8.77"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57793869,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57793869.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57793869.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57793869.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "4.99",
+            "amazon_price": "9.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

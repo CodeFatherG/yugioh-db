@@ -1,18 +1,52 @@
 {
     "id": 42562690,
     "name": "Performapal Skeeter Skimmer",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this face-up Attack Position card is targeted for an attack: You can change this card to face-up Defense Position, and if you do, negate that attack.",
+    "race": "Insect",
     "atk": 500,
     "def": 1600,
     "level": 4,
-    "race": "Insect",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Performapal",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42562690.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42562690.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42562690.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/performapal-skeeter-skimmer-3627",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN061",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42562690,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42562690.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42562690.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42562690.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

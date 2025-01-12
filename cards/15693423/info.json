@@ -2,17 +2,84 @@
     "id": 15693423,
     "name": "Evenly Matched",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "At the end of the Battle Phase, if your opponent controls more cards than you do: You can make your opponent banish cards from their field face-down so they control the same number of cards as you do. If you control no cards, you can activate this card from your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15693423.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15693423.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15693423.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/evenly-matched-8591",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN154",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN074",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN074",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Circuit Break",
+            "set_code": "CIBR-EN077",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN099",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "32.1"
+        },
+        {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN126",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "26.96"
+        },
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN099",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN038",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 15693423,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15693423.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15693423.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15693423.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.34",
+            "tcgplayer_price": "1.16",
+            "ebay_price": "1.20",
+            "amazon_price": "30.49",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

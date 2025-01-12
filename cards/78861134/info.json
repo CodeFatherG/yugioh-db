@@ -1,18 +1,58 @@
 {
     "id": 78861134,
     "name": "Darkfire Soldier #2",
+    "typeline": [
+        "Pyro",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A warrior who gained immeasurable power from the heart of a volcano.",
+    "race": "Pyro",
     "atk": 1700,
     "def": 1100,
     "level": 4,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/78861134.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78861134.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78861134.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/darkfire-soldier-2-6625",
+    "card_sets": [
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-E045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.77"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 78861134,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78861134.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78861134.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78861134.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "1.37",
+            "amazon_price": "0.01",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

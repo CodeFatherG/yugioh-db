@@ -1,18 +1,57 @@
 {
     "id": 66425726,
     "name": "Odd-Eyes Pendulumgraph Dragon",
+    "typeline": [
+        "Dragon",
+        "Ritual",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Ritual Monster",
+    "humanReadableCardType": "Ritual Pendulum Effect Monster",
+    "frameType": "ritual_pendulum",
     "desc": "[ Pendulum Effect ] \nDuring the End Phase: You can add 1 Ritual Spell from your Deck or GY to your hand, then return this card to the hand. You can only use this effect of \"Odd-Eyes Pendulumgraph Dragon\" once per turn.\n\n[ Monster Effect ] \nYou can Ritual Summon this card with \"Odd-Eyes Advent\". Must be either Ritual Summoned, or Pendulum Summoned from your hand. Each time your opponent Special Summons a monster(s) from the Extra Deck, inflict 300 damage to them. Once per turn, when your opponent activates a Spell Card or effect (Quick Effect): You can place this card in your Pendulum Zone, and if you do, negate that effect, then, if you placed this Ritual Summoned card in the Pendulum Zone, you can Special Summon 1 \"Odd-Eyes\" monster from your Extra Deck.",
+    "race": "Dragon",
+    "pend_desc": "During the End Phase: You can add 1 Ritual Spell from your Deck or GY to your hand, then return this card to the hand. You can only use this effect of \"Odd-Eyes Pendulumgraph Dragon\" once per turn.",
+    "monster_desc": "You can Ritual Summon this card with \"Odd-Eyes Advent\". Must be either Ritual Summoned, or Pendulum Summoned from your hand. Each time your opponent Special Summons a monster(s) from the Extra Deck, inflict 300 damage to them. Once per turn, when your opponent activates a Spell Card or effect (Quick Effect): You can place this card in your Pendulum Zone, and if you do, negate that effect, then, if you placed this Ritual Summoned card in the Pendulum Zone, you can Special Summon 1 \"Odd-Eyes\" monster from your Extra Deck.",
     "atk": 2700,
     "def": 2500,
     "level": 7,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": 4,
     "archetype": "Odd-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/66425726.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66425726.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66425726.jpg"
+    "scale": 4,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/odd-eyes-pendulumgraph-dragon-12934",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN079",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN034",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 66425726,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66425726.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66425726.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66425726.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "6.49",
+            "amazon_price": "3.75",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 14959144,
     "name": "Ultimate Bright Knight Ursatron Alpha",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "(This card is always treated as an \"Ursarctic\" and \"Drytron\" card.)\r\nCannot be Normal Summoned/Set. Must be Special Summoned by card effect. If you control an \"Ursarctic\" or \"Drytron\" monster other than \"Ultimate Bright Knight Ursatron Alpha\": You can Special Summon this card from your hand, then you can add 1 \"Ursarctic\" or \"Drytron\" Spell/Trap from your Deck to your hand. You can only use this effect of \"Ultimate Bright Knight Ursatron Alpha\" once per turn.",
+    "race": "Machine",
     "atk": 2000,
     "def": 700,
     "level": 7,
-    "race": "Machine",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Ursarctic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14959144.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14959144.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14959144.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-bright-knight-ursatron-alpha-13800",
+    "card_sets": [
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14959144,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14959144.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14959144.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14959144.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "1.55",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

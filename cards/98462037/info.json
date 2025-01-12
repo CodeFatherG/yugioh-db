@@ -1,21 +1,51 @@
 {
     "id": 98462037,
     "name": "Sky Striker Ace - Azalea",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 LIGHT and/or DARK monsters\r\nMust be Link Summoned. You can only Special Summon \"Sky Striker Ace - Azalea(s)\" once per turn. If this card is Special Summoned: You can target 1 card on the field; destroy it, then, if you have 3 or less Spells in your GY, send this card to the GY. Once per turn, at the start of the Damage Step, if this card battles an opponent's monster: You can banish 1 Spell from your GY; destroy that opponent's monster.",
+    "race": "Machine",
     "atk": 1500,
     "def": null,
     "level": null,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Sky Striker",
     "linkval": 2,
     "linkmarkers": [
         "Top-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/98462037.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98462037.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98462037.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-ace-azalea-13680",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN052",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98462037,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98462037.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98462037.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98462037.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.00",
+            "tcgplayer_price": "16.35",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "11.99"
+        }
+    ]
 }

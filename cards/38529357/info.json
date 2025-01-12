@@ -1,18 +1,45 @@
 {
     "id": 38529357,
     "name": "The Agent of Life - Neptune",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can discard this card; Special Summon 1 \"The Agent\" monster from your hand or GY, except \"The Agent of Life - Neptune\", or, if \"The Sanctuary in the Sky\" is on the field or in either GY, you can Special Summon 1 \"Hyperion\" monster instead. Neither player can Tribute a monster Summoned with this effect, until the end of your opponent's turn. If this card is banished: You can add 1 \"The Sanctuary in the Sky\" from your Deck to your hand. You can only use each effect of \"The Agent of Life - Neptune\" once per turn.",
+    "race": "Fairy",
     "atk": 0,
     "def": 600,
     "level": 1,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "The Agent",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38529357.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38529357.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38529357.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-agent-of-life-neptune-12417",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN008",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.61"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38529357,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38529357.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38529357.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38529357.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

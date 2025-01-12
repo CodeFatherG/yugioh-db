@@ -1,18 +1,51 @@
 {
     "id": 15947754,
     "name": "Silent Wolf Calupo",
+    "typeline": [
+        "Beast-Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: Equip the top card of your Deck to this card as a face-down Equip Spell that gives it 500 ATK. During the End Phase: Your opponent calls the original type (Monster, Spell, or Trap) of that Equip Card equipped by this card's effect. If they called it right, send this card to the GY. If they called it wrong, discard 1 random card from your opponent's hand, and if you do, return this card to the hand. You can only use this effect of \"Silent Wolf Calupo\" once per turn.",
+    "race": "Beast-Warrior",
     "atk": 1400,
     "def": 1400,
     "level": 4,
-    "race": "Beast-Warrior",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15947754.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15947754.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15947754.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/silent-wolf-calupo-13407",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN184",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 15947754,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15947754.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15947754.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15947754.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

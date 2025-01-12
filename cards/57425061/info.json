@@ -2,17 +2,43 @@
     "id": 57425061,
     "name": "Vision Fusion",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Fusion Summon 1 \"HERO\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. You can also use up to 2 monsters in your Spell & Trap Zone that are being treated as Continuous Traps as Fusion Material, by banishing them. You can only activate 1 \"Vision Fusion\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Vision HERO",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57425061.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57425061.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57425061.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vision-fusion-10293",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN086",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Hero's Revenge",
+            "set_code": "BLHR-EN012",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.64"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57425061,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57425061.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57425061.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57425061.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.45",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

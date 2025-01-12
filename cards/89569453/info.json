@@ -2,17 +2,43 @@
     "id": 89569453,
     "name": "Banishing Trap Hole",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When your opponent Summons a monster(s) with 1500 or less ATK: Banish that monster(s) with 1500 or less ATK, face-down.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Trap Hole",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/89569453.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89569453.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89569453.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/banishing-trap-hole-13808",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN224",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN077",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 89569453,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89569453.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89569453.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89569453.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.50",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

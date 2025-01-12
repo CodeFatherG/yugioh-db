@@ -1,18 +1,51 @@
 {
     "id": 98898163,
     "name": "Grandtusk Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can target up to 2 other cards on the field; destroy them, and if you do, this card gains 600 ATK for each card destroyed. You can only use this effect of \"Grandtusk Dragon\" once per turn.",
+    "race": "Dragon",
     "atk": 1400,
     "def": 2400,
     "level": 8,
-    "race": "Dragon",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98898163.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98898163.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98898163.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/grandtusk-dragon-13210",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN129",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN033",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98898163,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98898163.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98898163.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98898163.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

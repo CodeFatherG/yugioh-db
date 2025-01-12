@@ -1,18 +1,45 @@
 {
     "id": 33112041,
     "name": "Volcanic Rat",
+    "typeline": [
+        "Pyro",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "This mutated mouse dwells in the core of active volcanoes. No amount of heat is too much for it to bear.",
+    "race": "Pyro",
     "atk": 500,
     "def": 500,
     "level": 1,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Volcanic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33112041.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33112041.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33112041.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/volcanic-rat-2814",
+    "card_sets": [
+        {
+            "set_name": "Tactical Evolution",
+            "set_code": "TAEV-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33112041,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33112041.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33112041.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33112041.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "3.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

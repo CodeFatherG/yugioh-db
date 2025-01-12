@@ -2,17 +2,35 @@
     "id": 33872334,
     "name": "Phoenix Gearblade",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "Equip only to a Warrior or FIRE monster. It gains 300 ATK. At the end of the Damage Step, if the equipped monster attacked: You can send this card to the GY; during this Battle Phase, each of your Warrior monsters and FIRE monsters can make a second attack. If this card is sent to the GY, or banished, to activate a monster effect: You can add this card to your hand. You can only use this effect of \"Phoenix Gearblade\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33872334.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33872334.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33872334.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/phoenix-gearblade-13964",
+    "card_sets": [
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN036",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33872334,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33872334.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33872334.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33872334.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

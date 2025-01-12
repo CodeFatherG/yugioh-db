@@ -1,18 +1,51 @@
 {
     "id": 36187051,
     "name": "Rock Band Xenoguitar",
+    "typeline": [
+        "Rock",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent to the GY: You can target 1 Rock monster in your GY, except \"Rock Band Xenoguitar\"; add it to your hand, then place 1 card from your hand on top of the Deck. If this card is banished from the field or GY: You can send 1 Rock monster from your Deck to the GY. You can only use each effect of \"Rock Band Xenoguitar\" once per turn.",
+    "race": "Rock",
     "atk": 1000,
     "def": 2000,
     "level": 4,
-    "race": "Rock",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/36187051.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36187051.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36187051.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rock-band-xenoguitar-11408",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN181",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.87"
+        },
+        {
+            "set_name": "Phantom Rage",
+            "set_code": "PHRA-EN025",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 36187051,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36187051.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36187051.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36187051.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "44.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

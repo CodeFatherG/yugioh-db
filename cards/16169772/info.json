@@ -2,17 +2,43 @@
     "id": 16169772,
     "name": "Instant Contact",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Pay 1000 LP; Special Summon 1 Level 7 or lower \"Elemental HERO\" or \"Neo-Spacian\" monster from your Extra Deck, ignoring its Summoning conditions. While \"Elemental HERO Neos\" is neither on your field nor in your GY, the Summoned monster cannot attack, its effects are negated, also it returns to the Extra Deck during the End Phase. You can only activate 1 \"Instant Contact\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Contact",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/16169772.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16169772.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16169772.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/instant-contact-13089",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN160",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN052",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16169772,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16169772.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16169772.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16169772.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.58",
+            "tcgplayer_price": "0.32",
+            "ebay_price": "7.04",
+            "amazon_price": "8.55",
+            "coolstuffinc_price": "8.99"
+        }
+    ]
 }

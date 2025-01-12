@@ -2,17 +2,35 @@
     "id": 38143903,
     "name": "Head Judging",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "When a monster on the field activates its effect: You can make the activating player toss a coin and call it. If they call it right, send this card to the GY. If they call it wrong, negate that effect's activation, and if you do, change control of that monster to their opponent. You can only use this effect of \"Head Judging\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38143903.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38143903.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38143903.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/head-judging-10662",
+    "card_sets": [
+        {
+            "set_name": "Ignition Assault",
+            "set_code": "IGAS-EN080",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38143903,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38143903.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38143903.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38143903.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

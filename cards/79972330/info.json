@@ -1,18 +1,59 @@
 {
     "id": 79972330,
     "name": "Swallowtail Butterspy",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When another monster you control inflicts battle damage to your opponent: Target 1 face-up monster your opponent controls; it loses ATK equal to the battle damage inflicted.",
+    "race": "Warrior",
     "atk": 1800,
     "def": 1200,
     "level": 4,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Butterspy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/79972330.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79972330.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79972330.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/swallowtail-butterspy-6705",
+    "card_sets": [
+        {
+            "set_name": "Galactic Overlord",
+            "set_code": "GAOV-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "War of the Giants Reinforcements",
+            "set_code": "WGRT-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.12"
+        },
+        {
+            "set_name": "War of the Giants: Round 2",
+            "set_code": "BPW2-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.22"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79972330,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79972330.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79972330.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79972330.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,53 @@
 {
     "id": 24434049,
     "name": "Epurrely Plump",
+    "typeline": [
+        "Fairy",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 2 monsters\r\nOnce per turn: You can target up to 2 Spells/Traps in the GYs; attach them to this card as material. This is a Quick Effect if this card has \"Purrely Delicious Memory\" as material. Up to thrice per turn, when you activate a \"Purrely\" Quick-Play Spell Card (Quick Effect): You can attach that card on the field to this card as material, then you can banish 1 monster on the field until the End Phase.",
+    "race": "Fairy",
     "atk": 200,
     "def": 2100,
     "level": 2,
-    "race": "Fairy",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Purrely",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/24434049.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24434049.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24434049.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/epurrely-plump-13436",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN287",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN016",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 24434049,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24434049.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24434049.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24434049.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 97870394,
     "name": "Amazoness Spiritualist",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your hand or GY: You can target 1 \"Amazoness\" card you control, except \"Amazoness Spiritualist\"; return it to the hand, and if you do, Special Summon this card, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Amazoness\" monsters. If this card is Special Summoned: You can add 1 \"Polymerization\" from your Deck to your hand. You can only use each effect of \"Amazoness Spiritualist\" once per turn.",
+    "race": "Warrior",
     "atk": 800,
     "def": 1800,
     "level": 2,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Amazoness",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/97870394.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97870394.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97870394.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/amazoness-spiritualist-13126",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN222",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN096",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 97870394,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97870394.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97870394.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97870394.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "9.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

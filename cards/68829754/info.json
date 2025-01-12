@@ -2,17 +2,43 @@
     "id": 68829754,
     "name": "Eldlixir of Black Awakening",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Special Summon 1 Zombie monster from your hand or Deck in Defense Position, but if you control no \"Eldlich\" monsters, you can only Special Summon \"Eldlich\" monsters with this effect. For the rest of this turn after this card resolves, you cannot Special Summon monsters, except Zombie monsters. You can banish this card from your GY; Set 1 \"Golden Land\" Spell/Trap directly from your Deck. You can only use 1 \"Eldlixir of Black Awakening\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Eldlich",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68829754.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68829754.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68829754.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/eldlixir-of-black-awakening-10911",
+    "card_sets": [
+        {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN049",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Secret Slayers",
+            "set_code": "SESL-EN029",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 68829754,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68829754.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68829754.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68829754.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.60",
+            "tcgplayer_price": "0.34",
+            "ebay_price": "1.14",
+            "amazon_price": "0.35",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

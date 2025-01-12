@@ -1,18 +1,53 @@
 {
     "id": 87327776,
     "name": "Salamangreat Miragestallio",
+    "typeline": [
+        "Cyberse",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 3 monsters\r\nYou can detach 1 material from this card; Special Summon 1 \"Salamangreat\" monster from your Deck in Defense Position, also you cannot activate monster effects for the rest of this turn, except FIRE monsters. If this Xyz Summoned card is sent to the GY as material for the Link Summon of a \"Salamangreat\" monster: You can target 1 monster on the field; return it to the hand. You can only use each effect of \"Salamangreat Miragestallio\" once per turn.",
+    "race": "Cyberse",
     "atk": 2000,
     "def": 900,
     "level": 3,
-    "race": "Cyberse",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Salamangreat",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/87327776.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87327776.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87327776.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-miragestallio-9932",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 87327776,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87327776.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87327776.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87327776.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "1.49",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

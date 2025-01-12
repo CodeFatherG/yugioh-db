@@ -2,17 +2,35 @@
     "id": 39103226,
     "name": "Weighbridge",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If your opponent controls 2 or more monsters than you do: Your opponent must send monsters they control to the GY so they only control 1 monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39103226.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39103226.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39103226.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/weighbridge-13569",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN078",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39103226,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39103226.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39103226.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39103226.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.94",
+            "tcgplayer_price": "0.75",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "19.99"
+        }
+    ]
 }

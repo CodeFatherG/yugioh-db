@@ -1,18 +1,52 @@
 {
     "id": 14936691,
     "name": "Worm Erokin",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card cannot be Special Summoned. Once per turn, select 1 face-up Reptile-Type \"Worm\" monster on the field and change it to face-down Defense Position.",
+    "race": "Reptile",
     "atk": 2400,
     "def": 1200,
     "level": 6,
-    "race": "Reptile",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Worm",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14936691.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14936691.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14936691.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/worm-erokin-1282",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN030",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal",
+            "set_code": "HA01-EN021",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14936691,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14936691.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14936691.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14936691.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "1.25",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

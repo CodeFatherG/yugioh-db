@@ -2,17 +2,43 @@
     "id": 5026221,
     "name": "Stellarnova Wave",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Once per turn, during your Main Phase or your opponent's Battle Phase: You can Special Summon 1 \"tellarknight\" monster from your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Tellarknight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5026221.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5026221.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5026221.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/stellarnova-wave-447",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN112",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5026221,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5026221.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5026221.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5026221.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

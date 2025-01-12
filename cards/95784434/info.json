@@ -2,17 +2,35 @@
     "id": 95784434,
     "name": "Molting Escape",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "Equip only to a Reptile-Type monster. Once per turn, if the equipped monster would be destroyed by battle, it is not destroyed. The equipped monster gains 300 ATK at the end of the Damage Step each time this effect is applied.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/95784434.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95784434.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95784434.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/molting-escape-7977",
+    "card_sets": [
+        {
+            "set_name": "Stardust Overdrive",
+            "set_code": "SOVR-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 95784434,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95784434.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95784434.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95784434.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "1.48",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,44 @@
 {
     "id": 26913989,
     "name": "Geistgrinder Golem",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can only Special Summon \"Geistgrinder Golem\" once per turn. You can reveal 1 \"Yubel\" monster in your hand; Special Summon this card from your hand to your opponent's field, then you can Special Summon the revealed monster to your field. Once per turn, during damage calculation, if this card battles a \"Yubel\" monster: Your opponent gains 3000 LP. If you Special Summon \"Yubel\" while this card is in your GY (except during the Damage Step): You can Special Summon this card to your opponent's field.",
+    "race": "Fiend",
     "atk": 3000,
     "def": 300,
     "level": 8,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/26913989.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26913989.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26913989.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/geistgrinder-golem-14114",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 26913989,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26913989.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26913989.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26913989.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

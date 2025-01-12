@@ -2,17 +2,43 @@
     "id": 71817640,
     "name": "Dragonic Pendulum",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "All \"Dracoslayer\" monsters on the field gain 300 ATK/DEF. You can only use each of the following effects of \"Dragonic Pendulum\" once per turn. If a Dragon \"Dracoslayer\" monster you control activates its effect (except during the Damage Step): You can target 1 card on the field; destroy it. If this card on the field is destroyed: You can either add to your hand or Special Summon 1 \"Dracoslayer\" or \"Dracoverlord\" monster from your Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Pendulum",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71817640.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71817640.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71817640.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragonic-pendulum-13325",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN205",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN065",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71817640,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71817640.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71817640.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71817640.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.02",
+            "ebay_price": "0.99",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

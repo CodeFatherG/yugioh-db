@@ -2,17 +2,36 @@
     "id": 53193261,
     "name": "Wattkey",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Face-up \"Watt\" monsters you control can attack your opponent directly this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Watt",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53193261.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53193261.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53193261.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wattkey-4532",
+    "card_sets": [
+        {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53193261,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53193261.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53193261.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53193261.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

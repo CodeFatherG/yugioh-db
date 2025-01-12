@@ -1,18 +1,46 @@
 {
     "id": 1688285,
     "name": "Traptrix Pinguicula",
+    "typeline": [
+        "Plant",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 4 monsters\r\nWhile this card has material, it is unaffected by Trap effects and the activated effects of other monsters with the same Type as this card's material. You can only use each of the following effects of \"Traptrix Pinguicula\" once per turn. You can detach 1 material from this card; add 1 \"Traptrix\" monster from your Deck to your hand. If a monster(s) owned by your opponent is sent to the GY, or banished, by a card effect (except during the Damage Step): You can attach 1 of those monsters to this card as material.",
+    "race": "Plant",
     "atk": 2500,
     "def": 300,
     "level": 4,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Traptrix",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/1688285.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1688285.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1688285.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-pinguicula-13617",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 1688285,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1688285.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1688285.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1688285.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.49",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

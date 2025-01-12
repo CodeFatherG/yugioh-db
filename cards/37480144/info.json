@@ -2,17 +2,42 @@
     "id": 37480144,
     "name": "Column Switch",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target 1 monster in your Main Monster Zone; move that target to another of your Main Monster Zones.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37480144.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37480144.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37480144.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/column-switch-8983",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN211",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Extreme Force",
+            "set_code": "EXFO-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 37480144,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37480144.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37480144.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37480144.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

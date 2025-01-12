@@ -1,18 +1,52 @@
 {
     "id": 1527418,
     "name": "Wiz, Sage Fur Hire",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Special Summoned: You can gain 500 LP for each monster \"Fur Hire\" you control with a different name, except \"Wiz, Sage Fur Hire\". When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can discard 1 card \"Fur Hire\"; negate the activation. You can only use each effect of \"Wiz, Sage Fur Hire\" once per turn.",
+    "race": "Spellcaster",
     "atk": 1600,
     "def": 2800,
     "level": 7,
-    "race": "Spellcaster",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Fur Hire",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/1527418.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1527418.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1527418.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wiz-sage-fur-hire-9278",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN252",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dark Saviors",
+            "set_code": "DASA-EN022",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 1527418,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1527418.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1527418.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1527418.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.61",
+            "ebay_price": "0.99",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

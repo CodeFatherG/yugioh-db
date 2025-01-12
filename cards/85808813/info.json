@@ -2,17 +2,43 @@
     "id": 85808813,
     "name": "Time Stream",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Fossil\" Fusion Monster you control; Tribute it, and if you do, Special Summon 1 \"Fossil\" Fusion Monster from your Extra Deck, whose original Level is 2 higher than that monster's. (This is treated as a Fusion Summon with \"Fossil Fusion\".) During your Main Phase, except the turn this card was sent to the GY: You can banish this card and 1 \"Fossil\" Fusion Monster from your GY, then target 1 \"Fossil\" Fusion Monster in your GY; Special Summon it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fossil",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85808813.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85808813.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85808813.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/time-stream-11092",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN012",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "4.38"
+        },
+        {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN135",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 85808813,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85808813.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85808813.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85808813.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "4.99",
+            "amazon_price": "0.95",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

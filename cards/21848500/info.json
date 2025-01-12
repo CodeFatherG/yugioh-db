@@ -1,14 +1,20 @@
 {
     "id": 21848500,
     "name": "Maliss Q Hearts Crypter",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "3 monsters, including a \"Maliss\" monster\r\n(Quick Effect): You can target 1 of your banished \"Maliss\" cards; shuffle it into the Deck, and if you do, banish 1 card on the field (while this card points to a monster, this effect and its activation cannot be negated). If this card is banished: You can pay 900 LP; Special Summon it and double its ATK. You can only use each effect of \"Maliss Hearts Crypter\" once per turn.",
+    "race": "Cyberse",
     "atk": 2500,
     "def": null,
     "level": null,
-    "race": "Cyberse",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Maliss",
     "linkval": 3,
     "linkmarkers": [
@@ -16,7 +22,45 @@
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/21848500.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21848500.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21848500.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/maliss-q-hearts-crypter-14706",
+    "card_sets": [
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN020",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN020",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN020",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21848500,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21848500.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21848500.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21848500.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.99",
+            "tcgplayer_price": "1.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

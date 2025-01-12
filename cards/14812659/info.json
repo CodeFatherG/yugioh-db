@@ -1,18 +1,51 @@
 {
     "id": 14812659,
     "name": "Risebell the Star Psycher",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, during either player's turn: You can target 1 face-up monster on the field; increase its Level by 1.",
+    "race": "Psychic",
     "atk": 1500,
     "def": 1500,
     "level": 4,
-    "race": "Psychic",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14812659.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14812659.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14812659.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/risebell-the-star-psycher-1271",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN159",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Shadow Specters",
+            "set_code": "SHSP-EN044",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14812659,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14812659.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14812659.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14812659.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

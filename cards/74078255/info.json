@@ -1,18 +1,56 @@
 {
     "id": 74078255,
     "name": "Tearlaments Merrli",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can send the top 3 cards of your Deck to the GY. If this card is sent to the GY by card effect (except during the Damage Step): You can Fusion Summon 1 Fusion Monster from your Extra Deck, by placing Fusion Materials mentioned on it from your hand, field, and/or GY, including this card from your GY, on the bottom of the Deck in any order. You can only use each effect of \"Tearlaments Merrli\" once per turn.",
+    "race": "Aqua",
     "atk": 800,
     "def": 2000,
     "level": 2,
-    "race": "Aqua",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Tearlaments",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74078255.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74078255.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74078255.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tearlaments-merrli-13202",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 21",
+            "set_code": "OP21-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited",
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 74078255,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74078255.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74078255.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74078255.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "2.19",
+            "amazon_price": "2.01",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

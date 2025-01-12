@@ -1,18 +1,44 @@
 {
     "id": 61454890,
     "name": "Necrolancer the Time-lord",
+    "typeline": [
+        "Spellcaster",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "The one-eyed Necrolancer launches his onslaught from a dimensional ring that can appear out of thin air.",
+    "race": "Spellcaster",
     "atk": 800,
     "def": 900,
     "level": 3,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/61454890.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61454890.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61454890.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/necrolancer-the-time-lord-5207",
+    "card_sets": [
+        {
+            "set_name": "Tournament Pack 8",
+            "set_code": "TP8-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.17"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61454890,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61454890.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61454890.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61454890.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "2.88",
+            "ebay_price": "5.00",
+            "amazon_price": "3.98",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 9551692,
     "name": "Master of Ham",
+    "typeline": [
+        "Beast",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 Beast monsters\r\nIf this card is Fusion Summoned or flipped face-up: You can Special Summon 1 Flip monster from your hand or Deck in face-down Defense Position. If this card is in your GY: You can banish 2 Flip monsters from your face-up field and/or GY; Special Summon this card in face-down Defense Position, but banish it when it leaves the field. You can only use each effect of \"Master of Ham\" once per turn.",
+    "race": "Beast",
     "atk": 2100,
     "def": 1850,
     "level": 5,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9551692.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9551692.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9551692.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/master-of-ham-14199",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9551692,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9551692.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9551692.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9551692.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

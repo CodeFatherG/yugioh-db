@@ -1,18 +1,51 @@
 {
     "id": 70843274,
     "name": "Psychic Processor",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can banish this card you control; Special Summon up to 2 Machine, Psychic, and/or Cyberse monsters from your hand, and they can attack directly this turn. During the Standby Phase of the next turn after this card was banished: You can add this banished card to your hand. You can only use each effect of \"Psychic Processor\" once per turn.",
+    "race": "Psychic",
     "atk": 0,
     "def": 1500,
     "level": 3,
-    "race": "Psychic",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70843274.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70843274.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70843274.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/psychic-processor-14395",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN081",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN081",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70843274,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70843274.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70843274.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70843274.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.55",
+            "tcgplayer_price": "1.69",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

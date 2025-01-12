@@ -1,18 +1,45 @@
 {
     "id": 45705025,
     "name": "Heraldic Beast Unicorn",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can banish this card from your Graveyard to target 1 Psychic-Type Xyz Monster in your Graveyard; Special Summon it. Its effects are negated. You can only use the effect of \"Heraldic Beast Unicorn\" once per turn.",
+    "race": "Beast",
     "atk": 1100,
     "def": 1600,
     "level": 4,
-    "race": "Beast",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Heraldic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45705025.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45705025.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45705025.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heraldic-beast-unicorn-3894",
+    "card_sets": [
+        {
+            "set_name": "Cosmo Blazer",
+            "set_code": "CBLZ-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45705025,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45705025.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45705025.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45705025.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

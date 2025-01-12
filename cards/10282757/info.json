@@ -2,17 +2,35 @@
     "id": 10282757,
     "name": "Planckton",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Apply these effects until the end of this turn.\n\u25cf Rank 3 or lower Xyz Monsters gain 500 ATK and DEF.\n\u25cf Rank 4 or higher Xyz Monsters cannot attack.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/10282757.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10282757.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10282757.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/planckton-891",
+    "card_sets": [
+        {
+            "set_name": "World Superstars",
+            "set_code": "WSUP-EN039",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 10282757,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10282757.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10282757.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10282757.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

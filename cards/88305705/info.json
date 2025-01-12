@@ -1,18 +1,46 @@
 {
     "id": 88305705,
     "name": "Brave-Eyes Pendulum Dragon",
+    "typeline": [
+        "Dragon",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 \"Pendulum Dragon\" monster + 1 Warrior-Type monster\nWhen this card is Fusion Summoned: You can change the ATK of all face-up monsters your opponent currently controls to 0, also, for the rest of this turn, other monsters you control cannot attack. Negate the activated effects of monsters with 0 ATK. At the end of the Damage Step, when this card attacks an opponent's monster, but the opponent's monster was not destroyed by the battle: You can banish that opponent's monster.",
+    "race": "Dragon",
     "atk": 3000,
     "def": 2000,
     "level": 8,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Pendulum Dragon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88305705.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88305705.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88305705.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/brave-eyes-pendulum-dragon-7388",
+    "card_sets": [
+        {
+            "set_name": "Raging Tempest",
+            "set_code": "RATE-EN039",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88305705,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88305705.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88305705.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88305705.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "23.08",
+            "tcgplayer_price": "22.95",
+            "ebay_price": "11.85",
+            "amazon_price": "7.99",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

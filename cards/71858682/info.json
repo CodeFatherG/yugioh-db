@@ -1,18 +1,53 @@
 {
     "id": 71858682,
     "name": "Centur-Ion Auxila",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nFace-up cards in your Spell & Trap Zone cannot be destroyed by card effects. You can only use each of the following effects of \"Centur-Ion Auxila\" once per turn. If this card is Special Summoned: You can add 1 \"Centur-Ion\" card from your Deck to your hand. During the End Phase: You can place 1 of your non-Synchro \"Centur-Ion\" monsters that is banished or in your GY, in your Spell & Trap Zone as a face-up Continuous Trap.",
+    "race": "Dragon",
     "atk": 3000,
     "def": 3000,
     "level": 12,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Centur-Ion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71858682.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71858682.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71858682.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/centur-ion-auxila-14356",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN042",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN042",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71858682,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71858682.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71858682.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71858682.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.61",
+            "tcgplayer_price": "5.69",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

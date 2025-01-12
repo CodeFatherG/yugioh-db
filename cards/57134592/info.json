@@ -1,14 +1,20 @@
 {
     "id": 57134592,
     "name": "Salamangreat Raging Phoenix",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ FIRE Effect Monsters\r\nIf this card is Link Summoned using \"Salamangreat Raging Phoenix\" as material: You can add 1 \"Salamangreat\" card from your Deck to your hand. If a face-up FIRE monster(s) you control is destroyed by battle or card effect while this card is in your GY: You can target 1 of those monsters; Special Summon this card, and if you do, this card gains ATK equal to that monster's ATK. You can only use each effect of \"Salamangreat Raging Phoenix\" once per turn.",
+    "race": "Cyberse",
     "atk": 2800,
     "def": null,
     "level": null,
-    "race": "Cyberse",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Salamangreat",
     "linkval": 4,
     "linkmarkers": [
@@ -17,7 +23,31 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/57134592.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57134592.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57134592.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-raging-phoenix-13970",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN005",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57134592,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57134592.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57134592.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57134592.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "12.73",
+            "tcgplayer_price": "17.85",
+            "ebay_price": "15.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

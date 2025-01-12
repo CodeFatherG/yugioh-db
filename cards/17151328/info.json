@@ -2,17 +2,35 @@
     "id": 17151328,
     "name": "Firestorms Over Atlantis",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Activate 1 of these effects;\r\n\u25cf Discard 1 WATER monster to the GY, then target 1 face-up monster your opponent controls; destroy it.\r\n\u25cf Destroy 1 FIRE monster in your hand, then you can draw 1 card.\r\nIf only your opponent controls a monster: You can banish this card from your GY, then target 1 Level 7 or 8 WATER or FIRE monster in your GY; Special Summon it. You can only use each effect of \"Firestorms Over Atlantis\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/17151328.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17151328.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17151328.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/firestorms-over-atlantis-14626",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN066",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17151328,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17151328.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17151328.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17151328.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

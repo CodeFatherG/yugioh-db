@@ -2,17 +2,49 @@
     "id": 14318794,
     "name": "Life Absorbing Machine",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "During your Standby Phase, gain Life Points equal to half of the total Life Points you paid during your last turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14318794.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14318794.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14318794.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/life-absorbing-machine-1228",
+    "card_sets": [
+        {
+            "set_name": "Champion Pack: Game Seven",
+            "set_code": "CP07-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.31"
+        },
+        {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.75"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14318794,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14318794.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14318794.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14318794.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.33",
+            "ebay_price": "0.99",
+            "amazon_price": "1.50",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

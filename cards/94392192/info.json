@@ -1,18 +1,52 @@
 {
     "id": 94392192,
     "name": "Kashtira Ogre",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of \"Kashtira Ogre\" once per turn. During your Main Phase: You can add 1 \"Kashtira\" Trap from your Deck to your hand. When this card declares an attack, or if your opponent activates a monster effect (except during the Damage Step): You can excavate up to 5 cards from the top of your opponent's Deck, banish 1 excavated card, face-down, and place the rest on the top of the Deck in the same order.",
+    "race": "Psychic",
     "atk": 2800,
     "def": 1000,
     "level": 7,
-    "race": "Psychic",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Kashtira",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94392192.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94392192.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94392192.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kashtira-ogre-13289",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN165",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 94392192,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94392192.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94392192.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94392192.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "1.48",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

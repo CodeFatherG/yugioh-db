@@ -1,18 +1,45 @@
 {
     "id": 21368442,
     "name": "S-Force Gravitino",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Each of your opponent's monsters in the same column as one of your \"S-Force\" monsters is banished when it leaves the field. If this card is Normal or Special Summoned: You can add 1 \"S-Force\" card from your Deck to your hand, except \"S-Force Gravitino\". You can only use this effect of \"S-Force Gravitino\" once per turn.",
+    "race": "Psychic",
     "atk": 2000,
     "def": 1400,
     "level": 5,
-    "race": "Psychic",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "S-Force",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21368442.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21368442.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21368442.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/s-force-gravitino-11619",
+    "card_sets": [
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN014",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21368442,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21368442.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21368442.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21368442.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "46.52",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

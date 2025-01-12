@@ -2,17 +2,42 @@
     "id": 40678060,
     "name": "Angelica's Angelic Ring",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "Equip only to a monster you control equipped with an Equip Card. You can only control 1 \"Angelica's Angelic Ring\". Each turn, negate the effect of your opponent's first Spell Card or effect that resolves. Once per turn, while this card is equipped to a monster: You can gain 500 LP, then destroy this card, and if you do, your opponent cannot target the monster this card was equipped to with card effects, while it is face-up in the Monster Zone.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/40678060.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40678060.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40678060.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/angelica-s-angelic-ring-14021",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN240",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN065",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 40678060,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40678060.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40678060.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40678060.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

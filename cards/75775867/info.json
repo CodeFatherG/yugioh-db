@@ -1,18 +1,45 @@
 {
     "id": 75775867,
     "name": "Morphtronic Slingen",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "\u25cf While in Attack Position: Once per turn, you can Tribute 1 \"Morphtronic\" monster, except \"Morphtronic Slingen\", to destroy 1 card on the field.\n\u25cf While in Defense Position: If this card would be destroyed, you can destroy another \"Morphtronic\" monster you control instead.",
+    "race": "Machine",
     "atk": 1200,
     "def": 800,
     "level": 4,
-    "race": "Machine",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Morphtronic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/75775867.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75775867.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75775867.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/morphtronic-slingen-6377",
+    "card_sets": [
+        {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 75775867,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75775867.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75775867.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75775867.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "1.20",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

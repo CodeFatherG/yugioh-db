@@ -2,17 +2,43 @@
     "id": 68815401,
     "name": "Wild Fire",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Pay 500 Life Points. Destroy a face-up \"Blaze Accelerator\" card you control and destroy all monsters on the field. Then, Special Summon 1 \"Wild Fire Token\" (Pyro-Type/FIRE/Level 3/ATK 1000/DEF 1000) in Attack Position. Also, you cannot declare an attack this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Blaze Accelerator",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68815401.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68815401.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68815401.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wild-fire-5782",
+    "card_sets": [
+        {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENH16",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 68815401,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68815401.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68815401.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68815401.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

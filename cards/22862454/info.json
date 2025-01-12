@@ -1,21 +1,50 @@
 {
     "id": 22862454,
     "name": "Proxy Dragon",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 monsters\r\nIf a card(s) you control would be destroyed by battle or card effect, you can destroy 1 of your monsters this card points to, instead.",
+    "race": "Cyberse",
     "atk": 1400,
     "def": null,
     "level": null,
-    "race": "Cyberse",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
     "linkval": 2,
     "linkmarkers": [
         "Left",
         "Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/22862454.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22862454.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22862454.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/proxy-dragon-8784",
+    "card_sets": [
+        {
+            "set_name": "2017 Mega-Tins",
+            "set_code": "CT14-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "7.75"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22862454,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22862454.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22862454.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22862454.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.00",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 79402185,
     "name": "Bonding - D2O",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Tribute 2 \"Duoterion\" and 1 \"Oxygeddon\" in your hand and/or field; Special Summon 1 \"Water Dragon\" or \"Water Dragon Cluster\" from your hand, Deck, or GY. (This is treated as a Special Summon with the effect of \"Bonding - H2O\".) If \"Water Dragon\" or \"Water Dragon Cluster\" is sent from the field to your GY while this card is in your GY: Add this card to your hand. You can only use this effect of \"Bonding - D2O\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Bonding",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/79402185.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79402185.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79402185.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bonding-d2o-8891",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists",
+            "set_code": "LEDU-EN038",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.51"
+        },
+        {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENC15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79402185,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79402185.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79402185.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79402185.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

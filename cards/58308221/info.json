@@ -2,17 +2,43 @@
     "id": 58308221,
     "name": "Extra Pendulum",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "During your Main Phase this turn, you can conduct 1 Pendulum Summon of a monster(s) from your Extra Deck in addition to your Pendulum Summon. (You can only gain this effect once per turn.)",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Pendulum",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58308221.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58308221.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58308221.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/extra-pendulum-12932",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN090",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN052",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58308221,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58308221.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58308221.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58308221.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "8.63",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

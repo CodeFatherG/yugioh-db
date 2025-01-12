@@ -1,18 +1,53 @@
 {
     "id": 27572350,
     "name": "Bystial Dis Pater",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner Dragon monsters\r\nYou can target 1 banished LIGHT or DARK monster; Special Summon it to your field. When your opponent activates a monster effect (Quick Effect): You can target 1 banished card; shuffle it into the Deck, then if you shuffled it into your Deck, destroy that monster, or if you shuffled it into your opponent's Deck, negate that activated effect. You can only use each effect of \"Bystial Dis Pater\" once per turn.",
+    "race": "Dragon",
     "atk": 3500,
     "def": 3500,
     "level": 10,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Bystial",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27572350.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27572350.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27572350.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bystial-dis-pater-13688",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN084",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27572350,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27572350.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27572350.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27572350.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "10.14",
+            "tcgplayer_price": "9.58",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "15.99"
+        }
+    ]
 }

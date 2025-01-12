@@ -2,17 +2,36 @@
     "id": 58374502,
     "name": "Starry Knight Blast",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When your opponent activates a card or effect: Return 1 Level 7 LIGHT Dragon monster you control to the hand; negate that effect, and if you do, destroy that card. You can only activate \"Starry Knight Blast\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Starry Knight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58374502.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58374502.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58374502.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/starry-knight-blast-11721",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN035",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.39"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58374502,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58374502.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58374502.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58374502.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

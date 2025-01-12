@@ -1,18 +1,53 @@
 {
     "id": 62714453,
     "name": "Ursarctic Polar Star",
+    "typeline": [
+        "Machine",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "Cannot be Synchro Summoned. Must be Special Summoned (from your Extra Deck) by sending 2 monsters you control with a Level difference of 1 to the GY (1 Tuner and 1 non-Tuner). You can Tribute 1 Level 8 \"Ursarctic\" monster from your hand or field and this card; Special Summon 1 Level 7 \"Ursarctic\" Synchro Monster from your Extra Deck, ignoring its Summoning conditions, and if you do, it gains this effect. \u25cf Your opponent cannot activate the effects of monsters with a Level, that were Special Summoned from the Extra Deck.",
+    "race": "Machine",
     "atk": 700,
     "def": 2000,
     "level": 1,
-    "race": "Machine",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Ursarctic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/62714453.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62714453.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62714453.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ursarctic-polar-star-13801",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN220",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN041",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 62714453,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62714453.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62714453.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62714453.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

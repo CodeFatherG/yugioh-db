@@ -1,18 +1,53 @@
 {
     "id": 13764881,
     "name": "Chain Resonator",
+    "typeline": [
+        "Fiend",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is Normal Summoned while a Synchro Monster is on the field: You can Special Summon 1 \"Resonator\" monster from your Deck, except \"Chain Resonator\".",
+    "race": "Fiend",
     "atk": 100,
     "def": 100,
     "level": 1,
-    "race": "Fiend",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Resonator",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/13764881.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13764881.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13764881.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chain-resonator-1182",
+    "card_sets": [
+        {
+            "set_name": "Duelist Pack: Dimensional Guardians",
+            "set_code": "DPDG-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.38"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 13764881,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13764881.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13764881.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13764881.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.59",
+            "tcgplayer_price": "0.57",
+            "ebay_price": "3.95",
+            "amazon_price": "0.94",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

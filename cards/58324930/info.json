@@ -1,18 +1,65 @@
 {
     "id": 58324930,
     "name": "Anarchist Monk Ranshin",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card you control is sent to your Graveyard by your opponent's card (either by battle, by card effect, or by being destroyed): Target 1 monster in your opponent's Graveyard; banish that target.",
+    "race": "Spellcaster",
     "atk": 1800,
     "def": 100,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58324930.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58324930.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58324930.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/anarchist-monk-ranshin-4961",
+    "card_sets": [
+        {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN092",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN092",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENG04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN036",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58324930,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58324930.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58324930.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58324930.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

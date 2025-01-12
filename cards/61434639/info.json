@@ -2,17 +2,36 @@
     "id": 61434639,
     "name": "Rekindling the Ashened",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Place 1 of your \"Ashened\" cards that is banished or in your GY on the bottom of your Main Deck, except \"Rekindling the Ashened\", then target 1 Effect Monster your opponent controls; negate its effects until the end of this turn. You can only activate 1 \"Rekindling the Ashened\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ashened",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/61434639.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61434639.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61434639.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rekindling-the-ashened-14482",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN094",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61434639,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61434639.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61434639.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61434639.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

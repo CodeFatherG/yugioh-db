@@ -1,18 +1,58 @@
 {
     "id": 549481,
     "name": "Prevent Rat",
+    "typeline": [
+        "Beast",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "This creature is shielded with a tough hide of hair and is excellent at defending itself.",
+    "race": "Beast",
     "atk": 500,
     "def": 2000,
     "level": 4,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/549481.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/549481.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/549481.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/prevent-rat-52",
+    "card_sets": [
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-084",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.59"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E084",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5.9"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN084",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.4"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 549481,
+            "image_url": "https://images.ygoprodeck.com/images/cards/549481.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/549481.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/549481.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

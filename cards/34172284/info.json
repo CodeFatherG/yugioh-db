@@ -1,18 +1,52 @@
 {
     "id": 34172284,
     "name": "Aron, the Ogdoadic King",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your GY: You can Tribute 2 monsters; Special Summon this card. If your opponent adds a card(s) to their hand (except during the Draw Phase or Damage Step): You can send 1 random card from their hand to the GY. If a monster(s) your opponent controls is sent to the GY (except during the Damage Step): You can add 1 LIGHT or DARK Reptile monster from your Deck or GY to your hand, except \"Aron, the Ogdoadic King\". You can only use each effect of \"Aron, the Ogdoadic King\" once per turn.",
+    "race": "Reptile",
     "atk": 2500,
     "def": 2800,
     "level": 8,
-    "race": "Reptile",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Ogdoadic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34172284.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34172284.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34172284.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/aron-the-ogdoadic-king-11999",
+    "card_sets": [
+        {
+            "set_name": "Ancient Guardians",
+            "set_code": "ANGU-EN007",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Ancient Guardians",
+            "set_code": "ANGU-EN007",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34172284,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34172284.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34172284.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34172284.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "6.06",
+            "tcgplayer_price": "7.66",
+            "ebay_price": "39.99",
+            "amazon_price": "2.75",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

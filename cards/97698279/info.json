@@ -1,18 +1,45 @@
 {
     "id": 97698279,
     "name": "Centur-Ion Gargoyle II",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can send 1 face-up \"Centur-Ion\" card you control to the GY; Special Summon this card from your hand, also you cannot Special Summon \"Centur-Ion Gargoyle II\" for the rest of this turn. If this card is sent to the GY as Synchro Material: You can add this card to your hand. During the Main Phase, if this card is a Continuous Trap: You can Special Summon this card, then you can reduce its Level by 4. You can only use each effect of \"Centur-Ion Gargoyle II\" once per turn.",
+    "race": "Dragon",
     "atk": 2000,
     "def": 3000,
     "level": 8,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Centur-Ion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/97698279.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97698279.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97698279.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/centur-ion-gargoyle-ii-14357",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 97698279,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97698279.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97698279.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97698279.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

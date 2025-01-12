@@ -1,14 +1,20 @@
 {
     "id": 30989084,
     "name": "Aromalilith Rosemary",
+    "typeline": [
+        "Plant",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ Plant monsters\r\nIf this card is Special Summoned: You can add 1 \"Aroma\" card from your Deck to your hand. If you gain LP, even during the Damage Step: You can Special Summon up to 3 \"Aroma\" monsters from your hand to your zones this card points to. You can Tribute 1 monster this card points to, then target 1 card on the field; banish it, and if you do, gain 1000 LP. You can only use each effect of \"Aromalilith Rosemary\" once per turn.",
+    "race": "Plant",
     "atk": 2200,
     "def": null,
     "level": null,
-    "race": "Plant",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Aroma",
     "linkval": 3,
     "linkmarkers": [
@@ -16,7 +22,31 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/30989084.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30989084.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30989084.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/aromalilith-rosemary-14205",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN050",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30989084,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30989084.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30989084.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30989084.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

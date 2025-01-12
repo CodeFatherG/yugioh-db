@@ -1,14 +1,20 @@
 {
     "id": 30286474,
     "name": "Gouki The Master Ogre",
+    "typeline": [
+        "Warrior",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ \"Gouki\" monsters\r\nOnce per turn (Quick Effect): You can return to the hand any number of \"Gouki\" monsters you control that this card points to, then target the same number of face-up cards your opponent controls; they have their effects negated until the end of this turn. This card can attack all monsters your opponent controls, once each. If your opponent controls a face-up monster(s), this card can only target their monster with the highest ATK for attacks (your choice, if tied).",
+    "race": "Warrior",
     "atk": 2800,
     "def": null,
     "level": 0,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Gouki",
     "linkval": 4,
     "linkmarkers": [
@@ -17,7 +23,31 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/30286474.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30286474.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30286474.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gouki-the-master-ogre-9120",
+    "card_sets": [
+        {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN041",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30286474,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30286474.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30286474.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30286474.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 93454062,
     "name": "Naturia Mole Cricket",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Naturia\" monster from your Deck, or you can Special Summon 2 \"Naturia\" monsters if your opponent controls a monster with the highest ATK on the field (even if it's tied). If your opponent Special Summons a monster(s) from the Extra Deck or you Special Summon a \"Naturia\" monster(s) from the Extra Deck, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Naturia Mole Cricket\" once per turn.",
+    "race": "Insect",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Naturia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93454062.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93454062.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93454062.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/naturia-mole-cricket-13295",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN170",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93454062,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93454062.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93454062.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93454062.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "6.50",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

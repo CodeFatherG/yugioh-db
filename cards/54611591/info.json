@@ -1,18 +1,44 @@
 {
     "id": 54611591,
     "name": "Hallo, the Spirit of Tricks",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
-    "desc": "If this card is Normal or Special Summoned: You can activate this effect; if you still control this face-up card, your opponent chooses 1 of these effects for you to apply.\r\n\u25cf This card gains 800 ATK for each Fiend monster currently in your GY.\r\n\u25cf Inflict 500 damage to your opponent for each Fiend monster in your GY.\r\nIf this card is destroyed by battle or effect: You can send 1 monster your opponent controls to the GY.\r\nYou can only use each effect of \"Hallo, the Spirit of Tricks\" once per turn.",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can activate this effect; if you still control this face-up card, your opponent chooses 1 of these effects for you to apply.\r\n\u25cf This card gains 800 ATK for each Fiend monster currently in your GY.\r\n\u25cf Inflict 500 damage to your opponent for each Fiend monster in your GY.\r\nIf this card is destroyed by battle or card effect: You can send 1 monster your opponent controls to the GY.\r\nYou can only use each effect of \"Hallo, the Spirit of Tricks\" once per turn.",
+    "race": "Fiend",
     "atk": 0,
     "def": 0,
     "level": 4,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54611591.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54611591.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54611591.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hallo-the-spirit-of-tricks-14792",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54611591,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54611591.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54611591.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54611591.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

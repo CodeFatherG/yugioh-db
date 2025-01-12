@@ -2,17 +2,35 @@
     "id": 24662957,
     "name": "Fiendish Golem",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 monster on the field with 2000 or more ATK; banish it (until the End Phase of the next turn), then if you activated this card while you controlled \"Red Dragon Archfiend\" or a Synchro Monster that mentions it, you can Set 1 \"Fiendish Chain\" directly from your Deck or GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/24662957.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24662957.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24662957.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiendish-golem-13990",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 24662957,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24662957.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24662957.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24662957.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,20 +1,57 @@
 {
     "id": 24842059,
     "name": "Linguriboh",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 Level 4 or lower Cyberse monster\r\nWhen your opponent activates a Trap Card (Quick Effect): You can Tribute this card; negate that card's effect, and if you do, banish it. If this card is in your GY (Quick Effect): You can Tribute 1 \"@Ignister\" monster that was Summoned from the Extra Deck; Special Summon this card. You can only use each effect of \"Linguriboh\" once per turn.",
+    "race": "Cyberse",
     "atk": 300,
     "def": null,
     "level": null,
-    "race": "Cyberse",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Kuriboh",
     "linkval": 1,
     "linkmarkers": [
         "Bottom-Left"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/24842059.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24842059.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24842059.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/linguriboh-10573",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN041",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Ignition Assault",
+            "set_code": "IGAS-EN097",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 24842059,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24842059.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24842059.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24842059.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.75",
+            "tcgplayer_price": "0.39",
+            "ebay_price": "1.94",
+            "amazon_price": "2.99",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

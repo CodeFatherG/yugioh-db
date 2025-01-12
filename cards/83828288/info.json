@@ -2,17 +2,42 @@
     "id": 83828288,
     "name": "Mamemaki",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 face-up monster your opponent controls; discard cards equal to that monster's Level, and if you do, draw the same number of cards you discarded, then return that monster to the hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83828288.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83828288.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83828288.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mamemaki-9249",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN079",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83828288,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83828288.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83828288.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83828288.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

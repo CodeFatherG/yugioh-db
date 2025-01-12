@@ -1,18 +1,45 @@
 {
     "id": 56146300,
     "name": "Battlewasp - Rapier the Onslaught",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control no face-up monsters, or the only face-up monsters you control are Insect monsters: You can discard 1 other Insect monster; place 1 \"Battlewasp Wind\" from your Deck, face-up in your Spell & Trap Zone, then Special Summon this card from your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Insect monsters. You can banish this card from your GY; reduce the Level of 1 Insect monster you control by 1. You can only use each effect of \"Battlewasp - Rapier the Onslaught\" once per turn.",
+    "race": "Insect",
     "atk": 1900,
     "def": 0,
     "level": 5,
-    "race": "Insect",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Battlewasp",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56146300.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56146300.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56146300.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/battlewasp-rapier-the-onslaught-14619",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56146300,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56146300.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56146300.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56146300.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

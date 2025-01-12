@@ -1,18 +1,44 @@
 {
     "id": 22712877,
     "name": "Paralyzing Mushroom",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If a monster(s) that was originally Thunder is sent from your hand or field to the GY, even during the Damage Step: You can Special Summon this card from your hand. If a Thunder monster's effect is activated in the hand, while this card is in the Monster Zone (except during the Damage Step): You can Special Summon 1 \"Paralyzing Token\" (Thunder/DARK/Level 1/ATK 0/DEF 0). You can only use each effect of \"Paralyzing Mushroom\" once per turn.",
+    "race": "Thunder",
     "atk": 1400,
     "def": 0,
     "level": 5,
-    "race": "Thunder",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/22712877.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22712877.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22712877.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/paralyzing-mushroom-14445",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22712877,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22712877.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22712877.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22712877.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

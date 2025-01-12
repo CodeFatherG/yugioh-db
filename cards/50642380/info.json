@@ -1,18 +1,46 @@
 {
     "id": 50642380,
     "name": "Gagaku-P.U.N.K. Wa Gon",
+    "typeline": [
+        "Psychic",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "You can pay 600 LP; add 1 \"P.U.N.K.\" Spell from your Deck to your hand. When your opponent activates a card or effect that targets a \"P.U.N.K.\" monster(s) you control, or when your opponent's monster targets one for an attack (Quick Effect): You can draw 1 card. You can only use each effect of \"Gagaku-P.U.N.K. Wa Gon\" once per turn.",
+    "race": "Psychic",
     "atk": 900,
     "def": 600,
     "level": 3,
-    "race": "Psychic",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "P.U.N.K.",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/50642380.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50642380.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50642380.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gagaku-p-u-n-k-wa-gon-12496",
+    "card_sets": [
+        {
+            "set_name": "The Grand Creators",
+            "set_code": "GRCR-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.41"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50642380,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50642380.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50642380.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50642380.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.36",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.30",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

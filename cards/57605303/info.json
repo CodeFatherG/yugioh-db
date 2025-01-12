@@ -2,17 +2,43 @@
     "id": 57605303,
     "name": "Armed Dragon Thunderbolt",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Armed Dragon\" monster you control; it gains 1000 ATK for each \"Armed Dragon\" monster in your GY with an equal or lower Level than it and with different names from each other, also for the rest of this turn, your opponent takes no battle damage from its attacks. You can banish this card from your GY, then target 1 \"Armed Dragon\" Spell in your GY; add it to your hand. You can only use 1 \"Armed Dragon Thunderbolt\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Armed Dragon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57605303.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57605303.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57605303.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/armed-dragon-thunderbolt-11472",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN067",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57605303,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57605303.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57605303.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57605303.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.73",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,18 +1,53 @@
 {
     "id": 49080532,
     "name": "Infernity Beetle",
+    "typeline": [
+        "Insect",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "While you have no cards in your hand, you can Tribute this card to Special Summon up to 2 \"Infernity Beetle\" from your Deck.",
+    "race": "Insect",
     "atk": 1200,
     "def": 0,
     "level": 2,
-    "race": "Insect",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Infernity",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49080532.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49080532.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49080532.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/infernity-beetle-4189",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 14 (POR)",
+            "set_code": "OP14-PT034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        },
+        {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49080532,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49080532.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49080532.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49080532.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.62",
+            "tcgplayer_price": "2.62",
+            "ebay_price": "3.00",
+            "amazon_price": "4.98",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

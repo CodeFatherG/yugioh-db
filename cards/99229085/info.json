@@ -1,18 +1,45 @@
 {
     "id": 99229085,
     "name": "Gimmick Puppet Cattle Scream",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can detach 1 material from an Xyz Monster you control; Special Summon this card from your hand or GY, but banish it when it leaves the field. You can only use this effect of \"Gimmick Puppet Cattle Scream\" once per turn. A \"Gimmick Puppet\" Xyz Monster that has this card as material gains this effect.\r\n\u25cf Once per turn: You can target 1 monster in your opponent's GY; Special Summon it to your opponent's field in Defense Position.",
+    "race": "Machine",
     "atk": 2000,
     "def": 2000,
     "level": 8,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Gimmick Puppet",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99229085.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99229085.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99229085.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gimmick-puppet-cattle-scream-14429",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 99229085,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99229085.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99229085.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99229085.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

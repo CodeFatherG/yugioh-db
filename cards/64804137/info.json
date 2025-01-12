@@ -1,18 +1,37 @@
 {
     "id": 64804137,
     "name": "Trickstar Band Drumatis",
+    "typeline": [
+        "Fairy",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 \"Trickstar\" monsters\r\n\"Trickstar\" Link Monsters you control that point to this card gain 1000 ATK. You can only use each of the following effects of \"Trickstar Band Drumatis\" once per turn. If this card is Fusion Summoned: You can add 1 \"Trickstar\" card from your Deck to your hand, with a different name from the cards you control and in your GY. If effect damage is inflicted (except during the Damage Step): You can target 1 face-up monster on the field; its ATK becomes 0.",
+    "race": "Fairy",
     "atk": 2000,
     "def": 1000,
     "level": 6,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Trickstar",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64804137.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64804137.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64804137.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trickstar-band-drumatis-14503",
+    "card_images": [
+        {
+            "id": 64804137,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64804137.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64804137.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64804137.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.48",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

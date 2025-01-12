@@ -1,18 +1,45 @@
 {
     "id": 9482987,
     "name": "Endymion, the Magistus of Mastery",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 1 \"Magistus\" monster you control; equip it with 1 \"Magistus\" monster from your Extra Deck. You can target 1 face-up Spell you control; destroy it, and if you do, draw 1 card, then place 1 card from your hand on the bottom of the Deck. You can only use each effect of \"Endymion, the Magistus of Mastery\" once per turn.",
+    "race": "Spellcaster",
     "atk": 1300,
     "def": 1700,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Endymion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9482987.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9482987.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9482987.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/endymion-the-magistus-of-mastery-11422",
+    "card_sets": [
+        {
+            "set_name": "Genesis Impact",
+            "set_code": "GEIM-EN004",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.15"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9482987,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9482987.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9482987.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9482987.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

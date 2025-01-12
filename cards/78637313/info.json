@@ -2,17 +2,35 @@
     "id": 78637313,
     "name": "Call of Darkness",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "All monsters restored with \"Monster Reborn\" are sent to the Graveyard. \"Monster Reborn\" also cannot be played as long as this card remains on the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/78637313.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78637313.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78637313.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/call-of-darkness-6607",
+    "card_sets": [
+        {
+            "set_name": "Champion Pack: Game Six",
+            "set_code": "CP06-EN006",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.83"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 78637313,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78637313.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78637313.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78637313.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.36",
+            "tcgplayer_price": "0.54",
+            "ebay_price": "5.00",
+            "amazon_price": "1.42",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

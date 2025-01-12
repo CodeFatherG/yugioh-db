@@ -2,17 +2,36 @@
     "id": 30996652,
     "name": "Appliancer Reuse",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 \"Appliancer\" monster in your GY; Special Summon it, but place it on the bottom of the Deck when it leaves the field.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Appliancer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30996652.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30996652.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30996652.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/appliancer-reuse-11201",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.31"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30996652,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30996652.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30996652.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30996652.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

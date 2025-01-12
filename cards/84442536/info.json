@@ -2,17 +2,36 @@
     "id": 84442536,
     "name": "Graydle Combat",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "When a Spell/Trap Card, or monster effect, that targets exactly 1 \"Graydle\" monster you control (and no other cards) is activated: Activate 1 of these effects;\n\u25cf The activated effect becomes \"Destroy that monster\".\n\u25cf Negate the activation, and if you do, destroy that card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
     "archetype": "Graydle",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84442536.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84442536.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84442536.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/graydle-combat-7084",
+    "card_sets": [
+        {
+            "set_name": "Invasion: Vengeance",
+            "set_code": "INOV-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84442536,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84442536.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84442536.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84442536.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

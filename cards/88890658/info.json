@@ -1,18 +1,46 @@
 {
     "id": 88890658,
     "name": "Baelgrill de Nouvelles",
+    "typeline": [
+        "Warrior",
+        "Ritual",
+        "Effect"
+    ],
     "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
     "desc": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can negate the effects of all face-up cards your opponent currently controls (until the end of this turn), then, if this card was Special Summoned by the effect of a \"Nouvelles\" monster, you can Tribute as many monsters your opponent controls as possible. (Quick Effect): You can target 1 Attack Position monster your opponent controls; Tribute it, and if you do, Special Summon 1 \"Hungry Burger\" from your hand or Deck. You can only use each effect of \"Baelgrill de Nouvelles\" once per turn.",
+    "race": "Warrior",
     "atk": 2400,
     "def": 1850,
     "level": 6,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Nouvelles",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/88890658.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88890658.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88890658.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/baelgrill-de-nouvelles-13741",
+    "card_sets": [
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN034",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 88890658,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88890658.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88890658.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88890658.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

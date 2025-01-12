@@ -2,17 +2,36 @@
     "id": 83293635,
     "name": "Seventh Force",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "During the Battle Phase, if a monster(s) is destroyed by battle or card effect: Target 1 \"Number\" Xyz Monster in your GY; Special Summon from your Extra Deck 1 \"Number C\" monster with the same Type but 1 Rank higher, and if you do, attach that monster to it as material, then, if you Special Summoned a \"Number C\" monster with a number between \"101\" and \"107\" in its name, you can add 1 \"Seventh\" or \"Barian's\" Spell/Trap, or 1 \"Rank-Up-Magic\" Quick-Play Spell, except \"Seventh Force\", from your Deck to your hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Seventh",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83293635.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83293635.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83293635.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/seventh-force-13973",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN037",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83293635,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83293635.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83293635.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83293635.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "3.79",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

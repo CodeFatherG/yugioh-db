@@ -1,18 +1,45 @@
 {
     "id": 52904476,
     "name": "Matriarch of Nephthys",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can target 1 Level 4 or lower \"Nephthys\" monster in your GY, except \"Matriarch of Nephthys\"; destroy 1 card in your hand, and if you do, Special Summon the targeted monster in Defense Position, but negate its effects. During your next Standby Phase after this card was destroyed by card effect and sent to the GY: You can Special Summon this card from the GY. You can only use each effect of \"Matriarch of Nephthys\" once per turn.",
+    "race": "Spellcaster",
     "atk": 600,
     "def": 600,
     "level": 2,
-    "race": "Spellcaster",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Nephthys",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52904476.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52904476.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52904476.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/matriarch-of-nephthys-9698",
+    "card_sets": [
+        {
+            "set_name": "Hidden Summoners",
+            "set_code": "HISU-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52904476,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52904476.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52904476.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52904476.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

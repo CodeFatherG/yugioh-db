@@ -1,18 +1,51 @@
 {
     "id": 19113101,
     "name": "Interceptomato",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During your opponent's turn: You can banish this card from your Graveyard; this turn, any effect damage you take becomes 0 (this is a Quick Effect).",
+    "race": "Plant",
     "atk": 800,
     "def": 800,
     "level": 2,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19113101.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19113101.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19113101.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/interceptomato-1650",
+    "card_sets": [
+        {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19113101,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19113101.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19113101.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19113101.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 6713443,
     "name": "Ultimate Fire Formation - Seito",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Banish 7 \"Fire Formation\" Spell/Trap Cards from your Graveyard; Special Summon as many \"Fire Fist\" monsters as possible from your Graveyard, then you can Set \"Fire Formation\" Spell/Trap Cards directly from your Deck, except \"Ultimate Fire Formation - Seito\", up to the number of monsters Special Summoned by this effect.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fire Fist",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/6713443.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6713443.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6713443.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-fire-formation-seito-583",
+    "card_sets": [
+        {
+            "set_name": "Cosmo Blazer",
+            "set_code": "CBLZ-EN073",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6713443,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6713443.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6713443.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6713443.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "2.95",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

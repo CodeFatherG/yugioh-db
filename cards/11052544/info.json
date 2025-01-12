@@ -2,17 +2,43 @@
     "id": 11052544,
     "name": "Saber Slash",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Destroy a number of face-up cards on the field equal to the number of face-up Attack Position \"X-Saber\" monsters you control.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "X-Saber",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/11052544.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11052544.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11052544.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/saber-slash-955",
+    "card_sets": [
+        {
+            "set_name": "Ancient Prophecy",
+            "set_code": "ANPR-EN058",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Turbo Pack: Booster Three",
+            "set_code": "TU03-EN011",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 11052544,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11052544.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11052544.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11052544.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.55",
+            "tcgplayer_price": "0.47",
+            "ebay_price": "3.99",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

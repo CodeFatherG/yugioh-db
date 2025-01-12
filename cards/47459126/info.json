@@ -1,18 +1,45 @@
 {
     "id": 47459126,
     "name": "Tuned Magician",
+    "typeline": [
+        "Spellcaster",
+        "Gemini",
+        "Effect"
+    ],
     "type": "Gemini Monster",
+    "humanReadableCardType": "Gemini Effect Monster",
+    "frameType": "effect",
     "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n\u25cf This card is treated as a Tuner monster.",
+    "race": "Spellcaster",
     "atk": 1800,
     "def": 1600,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47459126.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47459126.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47459126.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tuned-magician-4052",
+    "card_sets": [
+        {
+            "set_name": "Stardust Overdrive",
+            "set_code": "SOVR-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47459126,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47459126.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47459126.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47459126.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.41",
+            "ebay_price": "0.99",
+            "amazon_price": "1.76",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

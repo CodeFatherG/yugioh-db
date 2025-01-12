@@ -1,18 +1,67 @@
 {
     "id": 68396121,
     "name": "Number C107: Neo Galaxy-Eyes Tachyon Dragon",
+    "typeline": [
+        "Dragon",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "3 Level 9 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; until the end of this turn, negate the effects of all other face-up cards currently on the field, also your opponent cannot activate cards or effects on the field. If this card has \"Number 107: Galaxy-Eyes Tachyon Dragon\" as an Xyz Material, it gains this effect.\n\u25cf You can Tribute 2 monsters; this card can make up to 3 attacks on monsters during each Battle Phase this turn.",
+    "race": "Dragon",
     "atk": 4500,
     "def": 3000,
     "level": 9,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Galaxy-Eyes",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/68396121.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68396121.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68396121.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/number-c107-neo-galaxy-eyes-tachyon-dragon-5747",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN063",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Primal Origin",
+            "set_code": "PRIO-EN041",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Primal Origin",
+            "set_code": "PRIO-EN041",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 68396121,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68396121.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68396121.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68396121.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.57",
+            "ebay_price": "25.99",
+            "amazon_price": "7.75",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

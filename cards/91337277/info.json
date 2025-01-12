@@ -1,18 +1,35 @@
 {
     "id": 91337277,
     "name": "Big Inflate Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal Summoned: You can banish the top 50 cards of your Deck, face-down; this card's ATK becomes 10,000 until the end of this turn.",
+    "race": "Dragon",
     "atk": 2500,
     "def": 1500,
     "level": 8,
-    "race": "Dragon",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91337277.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91337277.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91337277.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/big-inflate-dragon-14367",
+    "card_images": [
+        {
+            "id": 91337277,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91337277.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91337277.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91337277.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

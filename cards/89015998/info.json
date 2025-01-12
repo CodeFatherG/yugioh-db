@@ -1,18 +1,52 @@
 {
     "id": 89015998,
     "name": "D.D. Seeker",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "(Quick Effect): You can target 1 face-up monster you control; banish it until the End Phase of the next turn. You can only use this effect of \"D.D. Seeker\" once per turn.",
+    "race": "Psychic",
     "atk": 1500,
     "def": 800,
     "level": 3,
-    "race": "Psychic",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "D.D.",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/89015998.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89015998.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89015998.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-seeker-8996",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN189",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Extreme Force",
+            "set_code": "EXFO-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 89015998,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89015998.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89015998.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89015998.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

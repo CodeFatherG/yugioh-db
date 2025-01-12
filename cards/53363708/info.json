@@ -2,17 +2,35 @@
     "id": 53363708,
     "name": "Supermagic Sword of Raptinus",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "At the start of the Battle Phase: You can change the equipped monster's battle position, and if you do, immediately after this effect resolves, Normal Summon 1 monster. You can only use this effect of \"Supermagic Sword of Raptinus\" once per turn. Apply this effect depending on the equipped monster's battle position.\r\n\u25cf Attack Position: Your opponent cannot target the equipped monster with card effects.\r\n\u25cf Defense Position: The equipped monster cannot be destroyed by battle.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/53363708.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53363708.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53363708.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/supermagic-sword-of-raptinus-10598",
+    "card_sets": [
+        {
+            "set_name": "Toon Chaos",
+            "set_code": "TOCH-EN017",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.54"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 53363708,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53363708.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53363708.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53363708.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.12",
+            "tcgplayer_price": "0.86",
+            "ebay_price": "4.55",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

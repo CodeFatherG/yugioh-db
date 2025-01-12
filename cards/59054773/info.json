@@ -2,17 +2,43 @@
     "id": 59054773,
     "name": "Ignister A.I.Land",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "If you control no monsters in your Main Monster Zone: You can Special Summon 1 Level 4 or lower \"@Ignister\" monster from your hand, but for the rest of this turn, you cannot Special Summon monsters with the same original Attribute by the effect of \"Ignister A.I.Land\", also you cannot Special Summon monsters, except Cyberse monsters (even if this card leaves the field). If this card is in your GY: You can banish 1 \"@Ignister\" monster from your GY; Set this card. You can only use this effect of \"Ignister A.I.Land\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "@Ignister",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59054773.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59054773.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59054773.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ignister-a-i-land-10594",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN021",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Ignition Assault",
+            "set_code": "IGAS-EN050",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59054773,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59054773.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59054773.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59054773.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "11.96",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

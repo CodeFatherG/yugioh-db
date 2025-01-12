@@ -1,18 +1,45 @@
 {
     "id": 71545247,
     "name": "Cursed Bride Doll",
+    "typeline": [
+        "Spellcaster",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "When you draw this card: You can reveal it; Special Summon this card. At the start of each Battle Phase: If there are more cards in your Deck than your opponent's, this card gains ATK equal to the difference x 300, until the end of this turn. Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: Place this card on top of the Deck.",
+    "race": "Spellcaster",
     "atk": 0,
     "def": 2100,
     "level": 3,
-    "race": "Spellcaster",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/71545247.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71545247.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71545247.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cursed-bride-doll-14088",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 71545247,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71545247.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71545247.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71545247.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

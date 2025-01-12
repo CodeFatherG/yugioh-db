@@ -2,17 +2,36 @@
     "id": 300302058,
     "name": "Archfiend's Promotion",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Titan",
+    "frameType": "skill",
     "desc": "Once per turn, during your Main Phase, if you control \"Vilepawn Archfiend\" and your opponent controls no card in its same column, you can Tribute it to Special Summon 1 Level 8 or lower \"Archfiend\" monster from your hand or Deck that has \"Queen\", \"Bishop\" , \"Rook\", or \"Knight\" in its name.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Titan",
-    "attribute": null,
-    "scale": null,
     "archetype": "Archfiend",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302058.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302058.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302058.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-s-promotion-13935",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENS13",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302058,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302058.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302058.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302058.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

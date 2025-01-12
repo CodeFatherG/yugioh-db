@@ -1,18 +1,44 @@
 {
     "id": 43363035,
     "name": "Wandering Titan of Tartarus",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent from the Deck to the GY: Send as many cards you control as possible to the GY, and if you do, Special Summon this card, then send cards your opponent controls to the GY up to the number sent to the GY by this effect. Neither player can activate monster effects in response to this effect's activation. If this card is sent to the GY, except from the Deck: You can send 1 card from your hand to the GY; send 1 card on the field to the GY. You can only use 1 \"Wandering Titan of Tartarus\" effect per turn, and only once that turn.",
+    "race": "Zombie",
     "atk": 2600,
     "def": 0,
     "level": 9,
-    "race": "Zombie",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/43363035.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43363035.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43363035.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wandering-titan-of-tartarus-14658",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 43363035,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43363035.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43363035.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43363035.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

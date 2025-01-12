@@ -2,17 +2,43 @@
     "id": 94423983,
     "name": "Simul Archfiends",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "This turn, neither player can Special Summon monsters with the same card types (Ritual, Fusion, Synchro, Xyz, or Link) they already control. If you do not control 2 or more of the same card types (Ritual, Fusion, Synchro, Xyz, or Link), all Ritual, Fusion, Synchro, Xyz, and Link Monsters you currently control gain 500 ATK. You can only activate 1 \"Simul Archfiends\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Archfiend",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94423983.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94423983.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94423983.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/simul-archfiends-13411",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN213",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN078",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 94423983,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94423983.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94423983.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94423983.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.00",
+            "amazon_price": "0.54",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

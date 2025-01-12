@@ -1,18 +1,36 @@
 {
     "id": 78402798,
     "name": "Night Lizard",
+    "typeline": [
+        "Aqua",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A lizard warrior protected by a hide of very tough emerald scales.''",
+    "race": "Aqua",
     "atk": 1150,
     "def": 1300,
     "level": 4,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Recolored counterpart",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/78402798.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78402798.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78402798.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/night-lizard-6588",
+    "card_images": [
+        {
+            "id": 78402798,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78402798.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78402798.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78402798.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "9.99",
+            "amazon_price": "1.90",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

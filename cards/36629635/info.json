@@ -1,18 +1,44 @@
 {
     "id": 36629635,
     "name": "Dandy Whitelion",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent from the hand or field to the GY: You can Special Summon 3 \"White Fluff Tokens\" (Plant/WIND/Level 1/ATK 0/DEF 0) in Defense Position. You cannot Special Summon from the Extra Deck the turn you activate this effect. You can only use this effect of \"Dandy Whitelion\" once per turn.",
+    "race": "Plant",
     "atk": 300,
     "def": 300,
     "level": 3,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/36629635.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36629635.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36629635.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dandy-whitelion-13965",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN097",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 36629635,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36629635.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36629635.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36629635.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "7.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

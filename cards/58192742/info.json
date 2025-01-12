@@ -1,18 +1,72 @@
 {
     "id": 58192742,
     "name": "Petit Moth",
+    "typeline": [
+        "Insect",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "This small but deadly creature is better off avoided.",
+    "race": "Insect",
     "atk": 300,
     "def": 200,
     "level": 1,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58192742.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58192742.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58192742.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/petit-moth-4952",
+    "card_sets": [
+        {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN155",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.36"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.52"
+        },
+        {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.41"
+        },
+        {
+            "set_name": "Speed Duel Starter Decks: Ultimate Predators",
+            "set_code": "SS03-ENB02",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.19"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58192742,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58192742.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58192742.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58192742.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "2.00",
+            "amazon_price": "1.39",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

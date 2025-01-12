@@ -1,18 +1,52 @@
 {
     "id": 9342162,
     "name": "Cagna, Malebranche of the Burning Abyss",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. You can only use 1 of these effects of \"Cagna, Malebranche of the Burning Abyss\" per turn, and only once that turn.\n\u25cf If you control no Spell/Trap Cards: You can Special Summon this card from your hand.\n\u25cf If this card is sent to the Graveyard: You can send 1 \"Burning Abyss\" Spell/Trap Card from your Deck to the Graveyard.",
+    "race": "Fiend",
     "atk": 1500,
     "def": 300,
     "level": 3,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Burning Abyss",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9342162.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9342162.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9342162.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cagna-malebranche-of-the-burning-abyss-792",
+    "card_sets": [
+        {
+            "set_name": "Premium Gold: Infinite Gold",
+            "set_code": "PGL3-EN051",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN084",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9342162,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9342162.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9342162.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9342162.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "2.00",
+            "amazon_price": "0.29",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

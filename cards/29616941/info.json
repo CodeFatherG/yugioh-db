@@ -1,18 +1,35 @@
 {
     "id": 29616941,
     "name": "Beautiful Beast Trainer",
+    "typeline": [
+        "Warrior",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A rare female beast-master with a very dangerous whip.''",
+    "race": "Warrior",
     "atk": 1750,
     "def": 1500,
     "level": 5,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29616941.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29616941.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29616941.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/beautiful-beast-trainer-2510",
+    "card_images": [
+        {
+            "id": 29616941,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29616941.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29616941.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29616941.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "15.00",
+            "amazon_price": "4.64",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

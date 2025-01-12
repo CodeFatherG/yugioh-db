@@ -2,17 +2,50 @@
     "id": 66712905,
     "name": "Runick Dispelling",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Activate 1 of these effects, but skip your next Battle Phase after activation;\r\n\u25cf If your opponent adds a card(s) from their Deck to their hand, except during the Draw Phase, discard 1 random card from their hand, then banish the top 2 cards of their Deck.\r\n\u25cf Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\r\nYou can only activate 1 \"Runick Dispelling\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Runick",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/66712905.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66712905.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66712905.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/runick-dispelling-13076",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN244",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 22",
+            "set_code": "OP22-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN032",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 66712905,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66712905.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66712905.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66712905.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "3.28",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

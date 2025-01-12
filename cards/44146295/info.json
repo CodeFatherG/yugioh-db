@@ -1,18 +1,60 @@
 {
     "id": 44146295,
     "name": "Mirrorjade the Iceblade Dragon",
+    "typeline": [
+        "Wyrm",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "\"Fallen of Albaz\" + 1 Fusion, Synchro, Xyz, or Link Monster\r\nYou can only control 1 \"Mirrorjade the Iceblade Dragon\". Once per turn (Quick Effect): You can send 1 Fusion Monster from your Extra Deck to the GY that mentions \"Fallen of Albaz\" as material; banish 1 monster on the field, also this card cannot use this effect next turn. If this Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can destroy all monsters your opponent controls during the End Phase of this turn.",
+    "race": "Wyrm",
     "atk": 3000,
     "def": 2500,
     "level": 8,
-    "race": "Wyrm",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Albaz Dragon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44146295.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44146295.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44146295.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mirrorjade-the-iceblade-dragon-12914",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN114",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN100",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Albaz Strike",
+            "set_code": "SDAZ-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.99"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44146295,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44146295.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44146295.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44146295.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.41",
+            "ebay_price": "450.00",
+            "amazon_price": "0.57",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

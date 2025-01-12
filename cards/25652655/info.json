@@ -1,18 +1,46 @@
 {
     "id": 25652655,
     "name": "Changer Synchron",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent to the Graveyard for a Synchro Summon, select 1 monster your opponent controls and change its battle position.",
+    "race": "Machine",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Synchron",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25652655.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25652655.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25652655.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/changer-synchron-2205",
+    "card_sets": [
+        {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25652655,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25652655.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25652655.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25652655.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

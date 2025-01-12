@@ -1,18 +1,60 @@
 {
     "id": 14391625,
     "name": "Visas Samsara",
+    "typeline": [
+        "Fairy",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "This card's name becomes \"Visas Starfrost\" while on the field or in the GY. You can target any number of your \"Visas\" monsters that are banished, in your GY, and/or on your field; shuffle those \"Visas\" monsters into the Deck, and if you do, Special Summon this card from your hand, and if you do that, it gains 400 ATK for each monster you shuffled with a different original name. You can only use this effect of \"Visas Samsara\" once per turn. If this card you control would be used as Synchro Material, you can treat it as a non-Tuner.",
+    "race": "Fairy",
     "atk": 1500,
     "def": 2100,
     "level": 4,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Visas",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/14391625.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14391625.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14391625.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/visas-samsara-13998",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN108",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN004",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN004",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 14391625,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14391625.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14391625.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14391625.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.67",
+            "tcgplayer_price": "0.73",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "9.99"
+        }
+    ]
 }

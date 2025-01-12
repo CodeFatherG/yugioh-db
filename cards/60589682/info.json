@@ -1,18 +1,35 @@
 {
     "id": 60589682,
     "name": "Twin Long Rods #1",
+    "typeline": [
+        "Aqua",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "With whip-like arms, this creature can attack enemies from a distance.",
+    "race": "Aqua",
     "atk": 900,
     "def": 700,
     "level": 3,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60589682.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60589682.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60589682.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/twin-long-rods-1-5141",
+    "card_images": [
+        {
+            "id": 60589682,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60589682.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60589682.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60589682.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

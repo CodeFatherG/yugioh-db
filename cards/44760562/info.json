@@ -1,18 +1,53 @@
 {
     "id": 44760562,
     "name": "Mannadium Meek",
+    "typeline": [
+        "Fairy",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If you control \"Visas Starfrost\" or a monster with 1500 ATK/2100 DEF, you can Special Summon this card (from your hand). You can only Special Summon \"Mannadium Meek\" once per turn this way. If this card is destroyed by battle or card effect: You can Special Summon 1 \"Mannadium Meek\" from your Deck, then you can increase its Level by 2.",
+    "race": "Fairy",
     "atk": 0,
     "def": 1800,
     "level": 2,
-    "race": "Fairy",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Mannadium",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44760562.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44760562.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44760562.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mannadium-meek-13653",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN190",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN014",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44760562,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44760562.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44760562.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44760562.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

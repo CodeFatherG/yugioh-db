@@ -1,18 +1,53 @@
 {
     "id": 12986807,
     "name": "Laval the Greater",
+    "typeline": [
+        "Warrior",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1 or more non-Tuner FIRE monsters\nWhen this card is Synchro Summoned: Send 1 card from your hand to the Graveyard. If this card would be destroyed by a card effect, you can banish 1 \"Laval\" monster from your Graveyard instead.",
+    "race": "Warrior",
     "atk": 2400,
     "def": 800,
     "level": 6,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Laval",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/12986807.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12986807.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12986807.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/laval-the-greater-1120",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 5a",
+            "set_code": "DT05-EN038",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 5: Steelswarm Invasion",
+            "set_code": "HA05-EN023",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12986807,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12986807.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12986807.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12986807.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "1.19",
+            "amazon_price": "0.85",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 54407825,
     "name": "Earthshattering Event",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "If a card(s) is sent from the Deck to the Graveyard: Target 1 card in either player's Graveyard; shuffle it into the Deck, also neither player can send cards from the Deck to the Graveyard for the rest of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54407825.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54407825.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54407825.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/earthshattering-event-4630",
+    "card_sets": [
+        {
+            "set_name": "World Superstars",
+            "set_code": "WSUP-EN042",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54407825,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54407825.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54407825.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54407825.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.55",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "1.94",
+            "amazon_price": "1.60",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

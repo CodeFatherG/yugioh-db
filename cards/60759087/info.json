@@ -2,17 +2,36 @@
     "id": 60759087,
     "name": "Evil\u2605Twin Present",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control a \"Ki-sikil\" monster and control a \"Lil-la\" monster: Activate 1 of these effects;\r\n\u25cf Target 1 \"Ki-sikil\" monster or 1 \"Lil-la\" monster you control and 1 face-up monster your opponent controls; switch control of those monsters.\r\n\u25cf Target 1 Set Spell/Trap your opponent controls; shuffle it into the Deck.\r\nYou can only activate 1 \"Evil\u2605Twin Present\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Evil\u2605Twin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60759087.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60759087.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60759087.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/evil-twin-present-11450",
+    "card_sets": [
+        {
+            "set_name": "Genesis Impact",
+            "set_code": "GEIM-EN023",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.9"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60759087,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60759087.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60759087.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60759087.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

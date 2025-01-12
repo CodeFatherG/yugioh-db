@@ -1,18 +1,46 @@
 {
     "id": 35834119,
     "name": "Fish Lamp",
+    "typeline": [
+        "Fish",
+        "Synchro",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Synchro Tuner Monster",
+    "humanReadableCardType": "Synchro Tuner Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is sent to the GY as Synchro Material: You can Special Summon 2 \"Lamp Tokens\" (Fish/FIRE/Level 2/ATK 0/DEF 0), also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fish monsters. If you control a Fish Synchro Monster: You can banish this card from your GY, then target 1 card on the field; destroy it. You can only use each effect of \"Fish Lamp\" once per turn.",
+    "race": "Fish",
     "atk": 1200,
     "def": 400,
     "level": 4,
-    "race": "Fish",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35834119.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35834119.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35834119.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fish-lamp-14190",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35834119,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35834119.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35834119.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35834119.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

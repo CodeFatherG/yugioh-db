@@ -2,17 +2,35 @@
     "id": 47128571,
     "name": "Hidden Fangs of Revenge",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Neither player can activate cards or effects in response to this card's activation. When a monster declares an attack: Destroy 2 Set cards you control, and if you do, negate that attack, then, if any Monster Cards were destroyed by this effect and sent to the GY, choose 1 and destroy as many monsters your opponent controls as possible with ATK less than or equal to that monster's DEF, then it becomes the End Phase. You can only activate 1 \"Hidden Fangs of Revenge\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47128571.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47128571.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47128571.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hidden-fangs-of-revenge-10792",
+    "card_sets": [
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN050",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0.9"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 47128571,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47128571.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47128571.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47128571.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "3.41",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

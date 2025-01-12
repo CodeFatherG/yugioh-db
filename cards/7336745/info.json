@@ -2,17 +2,50 @@
     "id": 7336745,
     "name": "Dinomorphia Intact",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "When a monster effect is activated, while you control a \"Dinomorphia\" card: Pay half your LP; negate the activation, and if you do, destroy that monster, also whenever you take battle damage this turn, the damage taken becomes half your LP at that time. During damage calculation, while your LP are 2000 or less, if you would take battle damage: You can banish this card from your GY; you take no battle damage from that battle. You can only activate 1 \"Dinomorphia Intact\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dinomorphia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7336745.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7336745.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7336745.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dinomorphia-intact-13711",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN200",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 23",
+            "set_code": "OP23-EN013",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7336745,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7336745.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7336745.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7336745.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

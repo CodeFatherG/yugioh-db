@@ -1,18 +1,49 @@
 {
     "id": 27993919,
     "name": "LaSolfachord Angelia",
+    "typeline": [
+        "Fairy",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nYour opponent cannot activate a Spell/Trap Card, or monster effect, when your \"Solfachord\" Pendulum Monster(s) is Pendulum Summoned.\n\n[ Monster Effect ] \nWhile you have an odd Pendulum Scale in your Pendulum Zone, if your \"Solfachord\" Pendulum Monster attacks, your opponent cannot activate Spell/Trap Cards or effects until the end of the Damage Step. During your Main Phase: You can Tribute 1 \"Solfachord\" Pendulum Monster (even if face-down), and if you do, Special Summon 1 \"Solfachord\" Pendulum Monster from your Deck whose Pendulum Scale is 2 higher or 2 lower than that monster, except \"LaSolfachord Angelia\". You can only use this effect of \"LaSolfachord Angelia\" once per turn.",
+    "race": "Fairy",
+    "pend_desc": "Your opponent cannot activate a Spell/Trap Card, or monster effect, when your \"Solfachord\" Pendulum Monster(s) is Pendulum Summoned.",
+    "monster_desc": "While you have an odd Pendulum Scale in your Pendulum Zone, if your \"Solfachord\" Pendulum Monster attacks, your opponent cannot activate Spell/Trap Cards or effects until the end of the Damage Step. During your Main Phase: You can Tribute 1 \"Solfachord\" Pendulum Monster (even if face-down), and if you do, Special Summon 1 \"Solfachord\" Pendulum Monster from your Deck whose Pendulum Scale is 2 higher or 2 lower than that monster, except \"LaSolfachord Angelia\". You can only use this effect of \"LaSolfachord Angelia\" once per turn.",
     "atk": 2300,
     "def": 1400,
     "level": 6,
-    "race": "Fairy",
     "attribute": "FIRE",
-    "scale": 3,
     "archetype": "Solfachord",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27993919.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27993919.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27993919.jpg"
+    "scale": 3,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lasolfachord-angelia-12024",
+    "card_sets": [
+        {
+            "set_name": "Ancient Guardians",
+            "set_code": "ANGU-EN019",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27993919,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27993919.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27993919.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27993919.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.45",
+            "amazon_price": "54.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

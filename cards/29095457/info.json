@@ -2,17 +2,43 @@
     "id": 29095457,
     "name": "Primite Drillbeam",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Reveal 1 \"Primite\" card, or 1 Normal Monster, in your hand, except \"Primite Drillbeam\" (or if you control a Normal Monster or a Level 5 or higher \"Primite\" monster, except a Token, you can activate this effect without revealing a card), then target 1 face-up card on the field; negate its effects, and if you do, banish it. During your Main Phase, if you control a \"Primite\" monster: You can Set this card from your GY. You can only use each effect of \"Primite Drillbeam\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Primite",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29095457.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29095457.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29095457.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/primite-drillbeam-14550",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN060",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN060",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29095457,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29095457.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29095457.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29095457.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.44",
+            "tcgplayer_price": "4.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 52020510,
     "name": "Dinomorphia Alert",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Pay half your LP; Special Summon up to 2 \"Dinomorphia\" monsters from your GY whose total Levels equal 8 or less, but you cannot declare an attack with them this turn, also you cannot Special Summon for the rest of this turn, except \"Dinomorphia\" monsters. When your opponent activates a card or effect, while your LP are 2000 or less: You can banish this card from your GY; you take no effect damage from your opponent's card effects this turn. You can only activate 1 \"Dinomorphia Alert\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Dinomorphia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52020510.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52020510.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52020510.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dinomorphia-alert-12744",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN069",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.78"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52020510,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52020510.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52020510.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52020510.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

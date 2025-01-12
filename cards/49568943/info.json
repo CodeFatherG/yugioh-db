@@ -2,17 +2,36 @@
     "id": 49568943,
     "name": "Vaylantz World - Shinra Bansho",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: Place 1 \"Vaylantz\" Field Spell from your Deck face-up in your opponent's Field Zone, except \"Vaylantz World - Shinra Bansho\". If there are 2 cards in the Field Zones: The turn player can target 1 Monster Card in their own Spell & Trap Zone; they Special Summon that card to their own Main Monster Zone in its same column. The turn player can only use this effect of \"Vaylantz World - Shinra Bansho\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Vaylantz",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49568943.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49568943.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49568943.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vaylantz-world-shinra-bansho-13102",
+    "card_sets": [
+        {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49568943,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49568943.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49568943.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49568943.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "1.24",
+            "amazon_price": "31.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

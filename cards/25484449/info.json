@@ -1,18 +1,52 @@
 {
     "id": 25484449,
     "name": "Wind-Up Shark",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When a \"Wind-Up\" monster is Normal or Special Summoned to your side of the field: You can Special Summon this card from your hand. Once per turn: You can activate 1 of these effects.\n\u25cf Increase this card's Level by 1, until the End Phase.\n\u25cf Reduce this card's Level by 1, until the End Phase.",
+    "race": "Fish",
     "atk": 1500,
     "def": 1300,
     "level": 4,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Wind-Up",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25484449.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25484449.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25484449.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wind-up-shark-2192",
+    "card_sets": [
+        {
+            "set_name": "Cosmo Blazer: Special Edition",
+            "set_code": "CBLZ-ENSE1",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.67"
+        },
+        {
+            "set_name": "Order of Chaos",
+            "set_code": "ORCS-EN082",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25484449,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25484449.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25484449.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25484449.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.42",
+            "tcgplayer_price": "0.34",
+            "ebay_price": "10.00",
+            "amazon_price": "1.63",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

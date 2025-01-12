@@ -1,18 +1,45 @@
 {
     "id": 63947968,
     "name": "Fiend Reflection of the Millennium",
+    "typeline": [
+        "Illusion",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Fiend Reflection of the Millennium\" once per turn. If this card is in your hand: You can place it in your Spell & Trap Zone as a face-up Continuous Spell. If your opponent activates a card or effect, while this card is a Continuous Spell (except during the Damage Step): You can Special Summon this card, then you can gain LP equal to half the ATK of 1 monster on the field.",
+    "race": "Illusion",
     "atk": 1300,
     "def": 1400,
     "level": 4,
-    "race": "Illusion",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Millennium",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/63947968.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63947968.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63947968.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiend-reflection-of-the-millennium-14385",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 63947968,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63947968.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63947968.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63947968.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

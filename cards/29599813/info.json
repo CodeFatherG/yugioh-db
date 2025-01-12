@@ -2,17 +2,92 @@
     "id": 29599813,
     "name": "Purrely Pretty Memory",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Each player gains 1000 LP, then you can apply the following effect.\r\n \u25cf Discard 1 card, and if you do, Special Summon 1 Level 1 \"Purrely\" monster from your Deck.\r\nA \"Purrely\" Xyz Monster that has this card as material gains the following effect.\r\n\u25cf Once per turn: You can send 1 other card you control to the GY, then target 1 card your opponent controls; attach it to this card as material.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Purrely",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29599813.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29599813.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29599813.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/purrely-pretty-memory-13462",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN072",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN072",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN072",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN072",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN072",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN072",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN072",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN022",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN022",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29599813,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29599813.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29599813.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29599813.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "13.99"
+        }
+    ]
 }

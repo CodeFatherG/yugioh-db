@@ -1,18 +1,59 @@
 {
     "id": 15381421,
     "name": "Starliege Seyfert",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can send any number of Dragon monsters from your hand and/or face-up field to the GY; add 1 Dragon monster from your Deck to your hand, whose Level equals the total original Levels of those monsters sent to the GY. You can banish this card from your GY, then target 1 Level 8 LIGHT or DARK Dragon monster in your GY; add it to your hand. You can only use each effect of \"Starliege Seyfert\" once per turn.",
+    "race": "Dragon",
     "atk": 1800,
     "def": 0,
     "level": 4,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Starliege",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15381421.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15381421.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15381421.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/starliege-seyfert-10345",
+    "card_sets": [
+        {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN158",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "6.99"
+        },
+        {
+            "set_name": "Chaos Impact",
+            "set_code": "CHIM-EN014",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Albaz Strike",
+            "set_code": "SDAZ-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 15381421,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15381421.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15381421.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15381421.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "5.95",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

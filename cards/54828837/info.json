@@ -2,17 +2,43 @@
     "id": 54828837,
     "name": "Cerulean Skyfire",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "To Special Summon \"Hamon, Lord of Striking Thunder\" using its own procedure, you can also use face-down Spells you control. Once per turn, while you control an Attack Position \"Hamon, Lord of Striking Thunder\", you can negate any Spell/Trap effect activated by your opponent, then, change 1 \"Hamon, Lord of Striking Thunder\" you control to Defense Position. If a face-up \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" you control leaves the field: You take no damage this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Sacred Beast",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54828837.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54828837.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54828837.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cerulean-skyfire-10915",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN019",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.55"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 54828837,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54828837.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54828837.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54828837.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.35",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

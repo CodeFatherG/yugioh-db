@@ -1,20 +1,57 @@
 {
     "id": 74567889,
     "name": "Dark Infant @Ignister",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 non-Link \"@Ignister\" monster\r\nIf this card is Link Summoned: You can add 1 \"Ignister A.I.Land\" from your Deck to your hand. When a Cyberse monster with 2300 original ATK activates its effect (Quick Effect): You can move this card to your Main Monster Zone this card points to, then, you can change it to any Attribute until the end of this turn. You can only use each effect of \"Dark Infant @Ignister\" once per turn.",
+    "race": "Cyberse",
     "atk": 500,
     "def": null,
     "level": null,
-    "race": "Cyberse",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "@Ignister",
     "linkval": 1,
     "linkmarkers": [
         "Left"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/74567889.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74567889.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74567889.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-infant-ignister-11904",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN086",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN045",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 74567889,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74567889.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74567889.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74567889.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "2.73",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 44250812,
     "name": "Gagaga Clerk",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a \"Gagaga\" monster other than \"Gagaga Clerk\", you can Special Summon this card (from your hand).",
+    "race": "Warrior",
     "atk": 400,
     "def": 800,
     "level": 2,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Gagaga",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44250812.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44250812.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44250812.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gagaga-clerk-3774",
+    "card_sets": [
+        {
+            "set_name": "Cosmo Blazer",
+            "set_code": "CBLZ-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44250812,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44250812.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44250812.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44250812.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.47",
+            "tcgplayer_price": "2.13",
+            "ebay_price": "5.00",
+            "amazon_price": "10.92",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

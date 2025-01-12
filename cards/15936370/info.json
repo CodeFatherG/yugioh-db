@@ -1,18 +1,55 @@
 {
     "id": 15936370,
     "name": "Pandora's Jewelry Box",
+    "typeline": [
+        "Wyrm",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nWhile you have no cards in your Extra Deck: You can target 1 card in your opponent's Pendulum Zone; destroy it, and if you do, place this card in your opponent's Pendulum Zone.\n\n[ Monster Effect ] \nWhile you have no cards in your Extra Deck, draw 2 cards instead of 1 for your normal draw during your Draw Phase.",
+    "race": "Wyrm",
+    "pend_desc": "While you have no cards in your Extra Deck: You can target 1 card in your opponent's Pendulum Zone; destroy it, and if you do, place this card in your opponent's Pendulum Zone.",
+    "monster_desc": "While you have no cards in your Extra Deck, draw 2 cards instead of 1 for your normal draw during your Draw Phase.",
     "atk": 1500,
     "def": 1500,
     "level": 4,
-    "race": "Wyrm",
     "attribute": "DARK",
     "scale": 4,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/15936370.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15936370.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15936370.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pandora-s-jewelry-box-1369",
+    "card_sets": [
+        {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN145",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Invasion: Vengeance",
+            "set_code": "INOV-EN034",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 15936370,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15936370.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15936370.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15936370.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

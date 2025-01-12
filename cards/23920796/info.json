@@ -1,18 +1,46 @@
 {
     "id": 23920796,
     "name": "Mimighoul Cerberus",
+    "typeline": [
+        "Beast",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: If it is the Main Phase: Apply these effects in sequence.\r\n\u25cf Banish the top 3 cards of your Deck, then Special Summon 1 of your banished monsters to your opponent's field in Defense Position.\r\n\u25cf Give control of this card to your opponent.\r\nDuring your Main Phase: You can Special Summon this card from your hand to your opponent's field in face-down Defense Position. You can only use each effect of \"Mimighoul Cerberus\" once per turn. Your opponent cannot target face-up Spells you control with card effects.",
+    "race": "Beast",
     "atk": 400,
     "def": 1800,
     "level": 1,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Mimighoul",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23920796.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23920796.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23920796.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mimighoul-cerberus-14603",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN092",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 23920796,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23920796.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23920796.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23920796.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

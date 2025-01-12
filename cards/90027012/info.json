@@ -1,18 +1,44 @@
 {
     "id": 90027012,
     "name": "Choju of the Trillion Hands",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Summoned: You can add 1 Ritual Monster and 1 Ritual Spell from your Deck to your hand. You can only use this effect of \"Choju of the Trillion Hands\" once per turn.",
+    "race": "Fairy",
     "atk": 1400,
     "def": 1000,
     "level": 6,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/90027012.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90027012.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90027012.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/choju-of-the-trillion-hands-13558",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 90027012,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90027012.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90027012.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90027012.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,45 @@
 {
     "id": 282886,
     "name": "Mermail Abyssnose",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can discard 1 WATER monster to the Graveyard; Special Summon 1 \"Mermail\" monster from your Deck in face-up Defense Position. You can only use the effect of \"Mermail Abyssnose\" once per turn.",
+    "race": "Fish",
     "atk": 1500,
     "def": 1500,
     "level": 4,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Mermail",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/282886.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/282886.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/282886.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mermail-abyssnose-28",
+    "card_sets": [
+        {
+            "set_name": "Cosmo Blazer",
+            "set_code": "CBLZ-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 282886,
+            "image_url": "https://images.ygoprodeck.com/images/cards/282886.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/282886.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/282886.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

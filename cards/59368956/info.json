@@ -1,18 +1,59 @@
 {
     "id": 59368956,
     "name": "Deskbot 002",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Special Summoned: You can add 1 \"Deskbot\" card from your Deck to your hand. All Machine-Type monsters you control gain 500 ATK and DEF, except this card.",
+    "race": "Machine",
     "atk": 500,
     "def": 500,
     "level": 2,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Deskbot",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59368956.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59368956.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59368956.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/deskbot-002-5045",
+    "card_sets": [
+        {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN156",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Alliance: Deluxe Edition",
+            "set_code": "DUEA-ENDE5",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.19"
+        },
+        {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59368956,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59368956.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59368956.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59368956.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.89",
+            "amazon_price": "0.97",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

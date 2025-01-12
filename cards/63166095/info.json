@@ -2,17 +2,85 @@
     "id": 63166095,
     "name": "Sky Striker Mobilize - Engage!",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "If you control no monsters in your Main Monster Zone: Add 1 \"Sky Striker\" card from your Deck to your hand, except \"Sky Striker Mobilize - Engage!\", then, if you have 3 or more Spells in your GY, you can draw 1 card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Sky Striker",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/63166095.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63166095.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63166095.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-mobilize-engage-9320",
+    "card_sets": [
+        {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN260",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Hero's Revenge",
+            "set_code": "BLHR-EN090",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN091",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN091",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dark Saviors",
+            "set_code": "DASA-EN030",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN009",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN269",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN269",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 63166095,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63166095.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63166095.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63166095.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.81",
+            "tcgplayer_price": "0.77",
+            "ebay_price": "0.99",
+            "amazon_price": "5.40",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

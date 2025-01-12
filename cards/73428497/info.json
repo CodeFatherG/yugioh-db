@@ -1,18 +1,59 @@
 {
     "id": 73428497,
     "name": "Geargiarsenal",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card gains 200 ATK for each \"Geargia\" monster you control. You can Tribute this card; Special Summon 1 \"Geargia\" monster from your Deck in Defense Position, except \"Geargiarsenal\".",
+    "race": "Machine",
     "atk": 1500,
     "def": 500,
     "level": 4,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Geargia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73428497.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73428497.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73428497.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/geargiarsenal-6165",
+    "card_sets": [
+        {
+            "set_name": "Astral Pack Five",
+            "set_code": "AP05-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Geargia Rampage Structure Deck",
+            "set_code": "SDGR-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.49"
+        },
+        {
+            "set_name": "Return of the Duelist",
+            "set_code": "REDU-EN029",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73428497,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73428497.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73428497.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73428497.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.88",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

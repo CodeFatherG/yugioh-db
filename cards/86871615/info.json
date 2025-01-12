@@ -2,17 +2,26 @@
     "id": 86871615,
     "name": "Clone Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Cloning\". If the monster is destroyed and sent to the Graveyard, destroy this Token.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Warrior",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/86871615.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86871615.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86871615.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clone-token-7275",
+    "card_images": [
+        {
+            "id": 86871615,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86871615.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86871615.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86871615.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

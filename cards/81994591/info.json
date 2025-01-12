@@ -2,17 +2,36 @@
     "id": 81994591,
     "name": "Diamond Core of Koa'ki Meiru",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Add 1 \"Koa'ki Meiru\" card from your Deck to your hand, except \"Diamond Core of Koa'ki Meiru\". You can banish this card from your Graveyard; for the rest of this turn, \"Koa'ki Meiru\" monsters you control cannot be destroyed.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Koa'ki Meiru",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81994591.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81994591.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81994591.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/diamond-core-of-koa-ki-meiru-6888",
+    "card_sets": [
+        {
+            "set_name": "Primal Origin",
+            "set_code": "PRIO-EN065",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81994591,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81994591.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81994591.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81994591.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.94",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

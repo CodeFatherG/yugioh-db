@@ -2,17 +2,35 @@
     "id": 76076738,
     "name": "Dragon Nails",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "Equip only to a DARK monster. It gains 600 ATK, also it cannot be destroyed by your opponent's card effects. If this card is sent to the GY because the equipped monster was destroyed by battle and sent to the GY: You can Special Summon that monster, and if you do, equip this card to it, but banish this card when it leaves the field. You can only use this effect of \"Dragon Nails\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/76076738.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76076738.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76076738.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-nails-13286",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 76076738,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76076738.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76076738.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76076738.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "1.00",
+            "amazon_price": "4.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

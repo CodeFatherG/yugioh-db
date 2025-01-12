@@ -1,18 +1,46 @@
 {
     "id": 19181420,
     "name": "Mementotlan Twin Dragon",
+    "typeline": [
+        "Thunder",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 \"Memento\" monsters\r\nAny monster destroyed by battle with your \"Memento\" monster is banished. You can only use each of the following effects of \"Mementotlan Twin Dragon\" once per turn. If this card is Fusion Summoned: You can destroy 1 \"Memento\" monster in your hand or face-up field, and if you do, add up to 2 \"Memento\" monsters with different names from your Deck to your hand. If this Fusion Summoned card is destroyed: You can Special Summon 1 Level 6 or lower \"Memento\" monster from your GY.",
+    "race": "Thunder",
     "atk": 2800,
     "def": 2100,
     "level": 7,
-    "race": "Thunder",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Memento",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19181420.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19181420.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19181420.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mementotlan-twin-dragon-14352",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19181420,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19181420.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19181420.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19181420.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

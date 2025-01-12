@@ -1,18 +1,52 @@
 {
     "id": 93353691,
     "name": "Driven Daredevil",
+    "typeline": [
+        "Warrior",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Warrior-Type Tuner + 1 or more non-Tuner Warrior-Type monsters\nThis card cannot be destroyed by battle when attacked by a monster with higher ATK. After damage calculation, if this card was attacked by a monster with higher ATK: Destroy the opponent's monster it battled.",
+    "race": "Warrior",
     "atk": 2400,
     "def": 2100,
     "level": 7,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93353691.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93353691.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93353691.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/driven-daredevil-7771",
+    "card_sets": [
+        {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN248",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Order of Chaos",
+            "set_code": "ORCS-EN097",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93353691,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93353691.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93353691.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93353691.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "0.99",
+            "amazon_price": "1.48",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

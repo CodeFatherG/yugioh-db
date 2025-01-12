@@ -1,21 +1,51 @@
 {
     "id": 90290572,
     "name": "Protector of The Agents - Moon",
+    "typeline": [
+        "Fairy",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Fairy monsters\r\nIf this card is Link Summoned: You can send 1 \"The Sanctuary in the Sky\" or 1 card that mentions it from your Deck to the GY, or if \"The Sanctuary in the Sky\" is on the field or in either GY, you can add 1 \"The Agent of Mystery - Earth\" from your Deck or GY to your hand instead. You can Tribute 1 Fairy monster, then target 1 card your opponent controls; destroy it. You can only use each effect of \"Protector of The Agents - Moon\" once per turn.",
+    "race": "Fairy",
     "atk": 1800,
     "def": null,
     "level": null,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "The Agent",
     "linkval": 2,
     "linkmarkers": [
         "Right",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/90290572.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90290572.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90290572.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/protector-of-the-agents-moon-12489",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.6"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 90290572,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90290572.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90290572.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90290572.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.55",
+            "tcgplayer_price": "0.70",
+            "ebay_price": "0.99",
+            "amazon_price": "3.04",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

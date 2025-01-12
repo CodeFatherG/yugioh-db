@@ -1,18 +1,46 @@
 {
     "id": 82135803,
     "name": "Fiendsmith's Desirae",
+    "typeline": [
+        "Fiend",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "\"Fiendsmith Engraver\" + 2 LIGHT Fiend monsters\r\n(Quick Effect): You can negate the effects of a number of face-up cards on the field, up to the total Link Rating of Link Monsters equipped to this card, until the end of this turn. If this card is sent to the GY: You can shuffle 1 other LIGHT Fiend monster from your GY into the Deck/Extra Deck, then target 1 card on the field; send it to the GY. You can only use each effect of \"Fiendsmith's Desirae\" once per turn.",
+    "race": "Fiend",
     "atk": 2800,
     "def": 2400,
     "level": 9,
-    "race": "Fiend",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Fiendsmith",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/82135803.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82135803.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82135803.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiendsmith-s-desirae-14421",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN036",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 82135803,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82135803.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82135803.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82135803.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

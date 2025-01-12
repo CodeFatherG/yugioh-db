@@ -2,17 +2,49 @@
     "id": 94793422,
     "name": "Rod of the Mind's Eye",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "If a monster equipped with this card inflicts Battle Damage to your opponent, the damage becomes 1000 points.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94793422.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94793422.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94793422.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rod-of-the-mind-s-eye-7888",
+    "card_sets": [
+        {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+        },
+        {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        },
+        {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN201",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 94793422,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94793422.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94793422.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94793422.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

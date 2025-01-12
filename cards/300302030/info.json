@@ -2,17 +2,36 @@
     "id": 300302030,
     "name": "Forbidden Cyber Style Technique",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Zane Truesdal",
+    "frameType": "skill",
     "desc": "Activate this Skill once per Duel, if your LP are 1500 or less and you control no monsters. Reduce your LP to 50, then Special Summon up to 3 Machine \"Cyber\" monsters from your hand, Deck, and/or GY. They each become \"Cyber Dragon\" (Machine/LIGHT/Level 5/ATK 2100/DEF 1600), and cannot be Tributed. For the rest of this turn, you cannot Summon/Set except by Fusion Summoning, nor attack except with Fusion Monsters. Destroy any monsters Summoned by this Skill during your End Phase.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Zane Truesdal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Cyber",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302030.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302030.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302030.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/forbidden-cyber-style-technique-13220",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENS07",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302030,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302030.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302030.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302030.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

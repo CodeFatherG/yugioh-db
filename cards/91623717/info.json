@@ -2,17 +2,38 @@
     "id": 91623717,
     "name": "Chain Strike",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Activate only as Chain Link 2 or higher; inflict 400 damage to your opponent times the Chain Link number of this card. You cannot activate this card if multiple cards/effects with the same name are in that Chain.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91623717.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91623717.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91623717.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chain-strike-7641",
+    "card_sets": [
+        {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN043",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 91623717,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91623717.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91623717.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91623717.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.35",
+            "tcgplayer_price": "0.67",
+            "ebay_price": "1.75",
+            "amazon_price": "0.83",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

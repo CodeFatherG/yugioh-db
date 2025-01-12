@@ -1,21 +1,58 @@
 {
     "id": 66384688,
     "name": "Majespecter Orthrus - Nue",
+    "typeline": [
+        "Spellcaster",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2 Pendulum Monsters, including a \"Majespecter\" monster\r\nIf this card is Link Summoned: You can add up to 2 face-up \"Majespecter\" Pendulum Monsters from your Extra Deck to your hand, then you can add up to 2 \"Majespecter\" Pendulum Monsters with different names from your Deck to your face-up Extra Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except \"Majespecter\" or \"Dracoslayer\" monsters. You can only use this effect of \"Majespecter Orthrus - Nue\" once per turn.",
+    "race": "Spellcaster",
     "atk": 1500,
     "def": null,
     "level": null,
-    "race": "Spellcaster",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Majespecter",
     "linkval": 2,
     "linkmarkers": [
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/66384688.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66384688.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66384688.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/majespecter-orthrus-nue-14145",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN051",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN051",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 66384688,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66384688.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66384688.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66384688.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.50",
+            "tcgplayer_price": "0.64",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

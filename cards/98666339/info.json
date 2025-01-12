@@ -2,17 +2,49 @@
     "id": 98666339,
     "name": "Dimensional Inversion",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only when a monster(s) you own is removed from play by an opponent's effect. Special Summon 1 of those monsters.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98666339.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98666339.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98666339.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dimensional-inversion-8198",
+    "card_sets": [
+        {
+            "set_name": "Champion Pack: Game Seven",
+            "set_code": "CP07-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN052",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN052",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98666339,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98666339.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98666339.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98666339.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "2.99",
+            "amazon_price": "0.40",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

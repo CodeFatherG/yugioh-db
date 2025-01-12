@@ -1,18 +1,40 @@
 {
     "id": 5997110,
     "name": "D/D Count Surveyor",
+    "typeline": [
+        "Fiend",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nOnce per turn, if you Pendulum Summon a \"D/D/D\" monster(s): You can target 3 monsters your opponent controls with the same Type or Attribute as each other; Tribute 2 of those 3 face-up monsters, and if you do, the other gains ATK/DEF equal to the total ATK/DEF the Tributed monsters had on the field.\n\n[ Monster Effect ] \nYou can discard 1 other \"D/D\" monster; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"D/D\" monster with 0 ATK or DEF from your Deck to your hand. You can only use each monster effect of \"D/D Count Surveyor\" once per turn.",
+    "race": "Fiend",
+    "pend_desc": "Once per turn, if you Pendulum Summon a \"D/D/D\" monster(s): You can target 3 monsters your opponent controls with the same Type or Attribute as each other; Tribute 2 of those 3 face-up monsters, and if you do, the other gains ATK/DEF equal to the total ATK/DEF the Tributed monsters had on the field.",
+    "monster_desc": "You can discard 1 other \"D/D\" monster; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"D/D\" monster with 0 ATK or DEF from your Deck to your hand. You can only use each monster effect of \"D/D Count Surveyor\" once per turn.",
     "atk": 2000,
     "def": 2000,
     "level": 8,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": 1,
     "archetype": "D/D",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5997110.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5997110.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5997110.jpg"
+    "scale": 1,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-count-surveyor-14843",
+    "card_images": [
+        {
+            "id": 5997110,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5997110.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5997110.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5997110.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

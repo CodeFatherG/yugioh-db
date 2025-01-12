@@ -2,17 +2,36 @@
     "id": 25218587,
     "name": "Lightsworn Aegis",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target face-up cards your opponent controls, up to the number of \"Lightsworn\" monsters you control; negate their effects until the end of this turn. If this card is sent from the Deck to the GY: You can Set this card. You can only use each effect of \"Lightsworn Aegis\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Lightsworn",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25218587.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25218587.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25218587.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lightsworn-aegis-14301",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN077",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25218587,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25218587.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25218587.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25218587.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

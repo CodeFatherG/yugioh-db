@@ -1,18 +1,44 @@
 {
     "id": 29802344,
     "name": "Snakeyashi",
+    "typeline": [
+        "Plant",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "This monster is formed by several serpents that break off to individually attack nearby enemies.",
+    "race": "Plant",
     "atk": 1000,
     "def": 1200,
     "level": 4,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29802344.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29802344.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29802344.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/snakeyashi-2522",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 5",
+            "set_code": "OP05-EN014",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29802344,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29802344.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29802344.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29802344.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "6.39",
+            "ebay_price": "4.49",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

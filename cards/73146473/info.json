@@ -1,18 +1,45 @@
 {
     "id": 73146473,
     "name": "Cross Porter",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can send 1 monster you control to the Graveyard and Special Summon 1 \"Neo-Spacian\" monster from your hand. When this card is sent to the Graveyard, you can add 1 \"Neo-Spacian\" monster from your Deck to your hand.",
+    "race": "Warrior",
     "atk": 400,
     "def": 400,
     "level": 2,
-    "race": "Warrior",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Neo-Spacian",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73146473.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73146473.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73146473.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cross-porter-6143",
+    "card_sets": [
+        {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73146473,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73146473.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73146473.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73146473.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.54",
+            "amazon_price": "1.27",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

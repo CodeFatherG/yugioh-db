@@ -1,18 +1,51 @@
 {
     "id": 55349196,
     "name": "Double-Headed Dino King Rex",
+    "typeline": [
+        "Dinosaur",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control no monsters, you can Special Summon this card (from your hand). You can only Special Summon \"Double-Headed Dino King Rex\" once per turn this way. If this card is Normal or Special Summoned: You can target 1 monster on the field with less ATK than the total ATK of all Dinosaur monsters you control; destroy it. You can only use this effect of \"Double-Headed Dino King Rex\" once per turn.",
+    "race": "Dinosaur",
     "atk": 1600,
     "def": 1200,
     "level": 6,
-    "race": "Dinosaur",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/55349196.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55349196.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55349196.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/double-headed-dino-king-rex-13769",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN362",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 55349196,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55349196.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55349196.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55349196.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "1.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

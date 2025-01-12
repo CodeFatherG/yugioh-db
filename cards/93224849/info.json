@@ -2,17 +2,36 @@
     "id": 93224849,
     "name": "Phantasmal Martyr Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "This card can be used as a \"Phantasmal Martyr Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Fiend",
-    "attribute": null,
-    "scale": null,
     "archetype": "Phantasm",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93224849.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93224849.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93224849.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/phantasmal-martyr-token-7762",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.47"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93224849,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93224849.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93224849.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93224849.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

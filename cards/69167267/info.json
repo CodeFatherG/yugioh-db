@@ -2,17 +2,57 @@
     "id": 69167267,
     "name": "Basal Rose Shoot",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Special Summon 1 \"Rose Dragon\" monster from your hand or GY in Defense Position. If this Set card is destroyed: You can target 1 of your \"Black Rose Dragon\", or 1 monster that mentions it, that is banished or in your GY; Special Summon it. You can only use each effect of \"Basal Rose Shoot\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Rose",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/69167267.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69167267.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69167267.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/basal-rose-shoot-11908",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN094",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 17",
+            "set_code": "OP17-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 17 (POR)",
+            "set_code": "OP17-PT012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 69167267,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69167267.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69167267.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69167267.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "54.99",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

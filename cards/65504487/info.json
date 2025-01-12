@@ -1,18 +1,45 @@
 {
     "id": 65504487,
     "name": "Toy Soldier",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can Set this card from your hand to your Spell & Trap Zone as a Spell. You can only use each of the following effects of \"Toy Soldier\" once per turn. If this Set card in the Spell & Trap Zone is sent to the GY: You can Special Summon this card. If this card is Normal or Special Summoned: You can add 1 \"Toy Box\" from your Deck to your hand, or, if you control \"Toy Box\", you can add 1 Level 4 LIGHT monster instead.",
+    "race": "Warrior",
     "atk": 1500,
     "def": 1000,
     "level": 4,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Toy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65504487.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65504487.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65504487.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/toy-soldier-14273",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN021",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65504487,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65504487.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65504487.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65504487.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.55",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 20087414,
     "name": "Kuebiko",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Special Summon this card as an Effect Monster (Fairy/EARTH/Level 2/ATK 0/DEF 0) with the following effect (this card is also still a Trap).\r\n\u25cf Once per Chain, when your opponent activates a monster effect on the field that targets a card(s) you control (Quick Effect): You can Set this card in your Spell & Trap Zone, and if you do, negate that opponent's effect, then if that monster has the highest ATK on your opponent's field, return it to the hand.\r\nYou can only activate 1 \"Kuebiko\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Trap Monster",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/20087414.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20087414.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20087414.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kuebiko-14600",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN083",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 20087414,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20087414.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20087414.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20087414.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

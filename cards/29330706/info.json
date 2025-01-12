@@ -1,18 +1,58 @@
 {
     "id": 29330706,
     "name": "Armed Protector Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Face-up Equip Cards you control cannot be destroyed by card effects. This card gains 500 ATK for each Equip Card equipped to this card.",
+    "race": "Dragon",
     "atk": 2000,
     "def": 2800,
     "level": 8,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29330706.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29330706.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29330706.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/armed-protector-dragon-2486",
+    "card_sets": [
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN047",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rise of the True Dragons Structure Deck",
+            "set_code": "SR02-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Shadow Specters",
+            "set_code": "SHSP-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29330706,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29330706.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29330706.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29330706.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

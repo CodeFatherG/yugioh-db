@@ -1,18 +1,51 @@
 {
     "id": 84990171,
     "name": "Bean Soldier",
+    "typeline": [
+        "Plant",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "A plant-warrior that attacks with seeds and sword.",
+    "race": "Plant",
     "atk": 1400,
     "def": 1300,
     "level": 4,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/84990171.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84990171.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84990171.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bean-soldier-7129",
+    "card_sets": [
+        {
+            "set_name": "Tournament Pack: 1st Season",
+            "set_code": "TP1-018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "32.83"
+        },
+        {
+            "set_name": "Tournament Pack: 1st Season",
+            "set_code": "TP1-E018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "11.08"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 84990171,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84990171.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84990171.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84990171.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.97",
+            "tcgplayer_price": "16.45",
+            "ebay_price": "7.59",
+            "amazon_price": "1.48",
+            "coolstuffinc_price": "15.99"
+        }
+    ]
 }

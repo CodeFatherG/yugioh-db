@@ -1,18 +1,51 @@
 {
     "id": 57902462,
     "name": "Divine Knight Ishzark",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "After damage calculation, when this card destroys a monster by battle: Banish that monster.",
+    "race": "Warrior",
     "atk": 2300,
     "def": 1800,
     "level": 6,
-    "race": "Warrior",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/57902462.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57902462.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57902462.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/divine-knight-ishzark-4930",
+    "card_sets": [
+        {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN046",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN091",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 57902462,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57902462.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57902462.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57902462.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.49",
+            "ebay_price": "1.99",
+            "amazon_price": "5.70",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -1,18 +1,36 @@
 {
     "id": 40196604,
     "name": "Dark Shade",
+    "typeline": [
+        "Fiend",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A crystal monster that unleashes a brilliant light to blind enemies.''",
+    "race": "Fiend",
     "atk": 1000,
     "def": 1000,
     "level": 3,
-    "race": "Fiend",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Fan-Made Cards",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/40196604.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40196604.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40196604.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-shade-3414",
+    "card_images": [
+        {
+            "id": 40196604,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40196604.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40196604.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40196604.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.88",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "5.49",
+            "amazon_price": "9.99",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

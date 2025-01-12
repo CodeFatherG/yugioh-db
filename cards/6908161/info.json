@@ -1,14 +1,20 @@
 {
     "id": 6908161,
     "name": "Ragnaraika Chain Coils",
+    "typeline": [
+        "Reptile",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ monsters, including an Insect, Plant, or Reptile monster\r\nIf your opponent activates a monster effect (except during the Damage Step): You can activate this effect; neither player can activate the effects of monsters in the hand this turn. If this card is in your GY: You can target 1 Insect, Plant, or Reptile monster you control; place it on the bottom of the Deck, and if you do, Special Summon this card, also you cannot Special Summon for the rest of this turn, except Insect, Plant, or Reptile monsters. You can only use each effect of \"Ragnaraika Chain Coils\" once per turn.",
+    "race": "Reptile",
     "atk": 2900,
     "def": null,
     "level": null,
-    "race": "Reptile",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Ragnaraika",
     "linkval": 4,
     "linkmarkers": [
@@ -17,7 +23,31 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/6908161.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6908161.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6908161.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ragnaraika-chain-coils-14316",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN049",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 6908161,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6908161.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6908161.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6908161.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

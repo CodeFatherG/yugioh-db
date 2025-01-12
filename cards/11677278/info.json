@@ -1,18 +1,46 @@
 {
     "id": 11677278,
     "name": "Mimighoul Armor",
+    "typeline": [
+        "Warrior",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: If it is the Main Phase: Apply these effects in sequence.\r\n\u25cf This turn, \"Mimighoul\" monsters cannot be destroyed by battle.\r\n\u25cf Give control of this card to your opponent.\r\nDuring your Main Phase: You can Special Summon this card from your hand to your opponent's field in face-down Defense Position, or if your opponent controls a monster, you can Special Summon this card face-up on your field. You can only use each effect of \"Mimighoul Armor\" once per turn.",
+    "race": "Warrior",
     "atk": 600,
     "def": 1500,
     "level": 1,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Mimighoul",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/11677278.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11677278.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11677278.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mimighoul-armor-14740",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN090",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 11677278,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11677278.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11677278.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11677278.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

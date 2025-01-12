@@ -1,18 +1,52 @@
 {
     "id": 23093373,
     "name": "Selettrice Vaalmonica",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "While you control a monster, except \"Selettrice Vaalmonica\", your opponent's monsters cannot target this card for attacks. You can only use each of the following effects of \"Selettrice Vaalmonica\" once per turn. If this card is Normal or Pendulum Summoned: You can add 1 \"Vaalmonica\" card from your Deck to your hand, except \"Selettrice Vaalmonica\". If this card is sent to the GY and you have 2 \"Vaalmonica\" cards in your Pendulum Zones: You can add this card to your hand.",
+    "race": "Spellcaster",
     "atk": 1200,
     "def": 1200,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Vaalmonica",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/23093373.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23093373.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23093373.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/selettrice-vaalmonica-14353",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN022",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN022",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 23093373,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23093373.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23093373.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23093373.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.65",
+            "tcgplayer_price": "1.17",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

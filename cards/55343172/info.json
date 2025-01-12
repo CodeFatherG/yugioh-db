@@ -1,18 +1,35 @@
 {
     "id": 55343172,
     "name": "Legendary Dueling Field",
+    "typeline": [
+        "Machine",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''A field of battle for those who believe in the Decks they've built, those who never turn their backs on any foes, those brave enough to fight to the very end and wage rites deciding winners and losers. It is said that when they unite their hearts with the hearts of their cards through bonds and take a step forward by swearing on their pride and souls, they can carve open a road continuing on to the as-of-yet unfinished future.''",
+    "race": "Machine",
     "atk": 0,
     "def": 3000,
     "level": 5,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/55343172.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55343172.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55343172.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/legendary-dueling-field-14368",
+    "card_images": [
+        {
+            "id": 55343172,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55343172.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55343172.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55343172.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,44 @@
 {
     "id": 79636594,
     "name": "Block Spider",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Your opponent cannot target Insect-Type monsters for attacks, except this one. If this card is Special Summoned: You can Special Summon 1 \"Block Spider\" from your Deck. You can only use this effect of \"Block Spider\" once per turn.",
+    "race": "Insect",
     "atk": 0,
     "def": 100,
     "level": 1,
-    "race": "Insect",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/79636594.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79636594.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79636594.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/block-spider-6678",
+    "card_sets": [
+        {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 79636594,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79636594.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79636594.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79636594.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

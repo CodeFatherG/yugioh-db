@@ -1,18 +1,51 @@
 {
     "id": 59834564,
     "name": "Bonfire Colossus",
+    "typeline": [
+        "Beast-Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a FIRE monster, you can Special Summon this card (from your hand). When this card is Special Summoned: Target 2 FIRE monsters you control; destroy those targets.",
+    "race": "Beast-Warrior",
     "atk": 2600,
     "def": 2200,
     "level": 8,
-    "race": "Beast-Warrior",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59834564.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59834564.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59834564.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bonfire-colossus-5087",
+    "card_sets": [
+        {
+            "set_name": "Cosmo Blazer",
+            "set_code": "CBLZ-EN084",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Fire Kings",
+            "set_code": "SR14-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59834564,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59834564.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59834564.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59834564.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "1.99",
+            "amazon_price": "2.66",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

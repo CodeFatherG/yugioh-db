@@ -1,14 +1,20 @@
 {
     "id": 56818742,
     "name": "Transcendosaurus Exaraptor",
+    "typeline": [
+        "Dinosaur",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ Dinosaur monsters, including a Level 6 or higher monster\r\nIf this card is Special Summoned: You can Special Summon 1 Dinosaur monster from your hand. If a face-up Dinosaur monster this card points to is destroyed by battle or sent to the GY: You can draw 1 card. If this card is destroyed: You can shuffle 1 Normal Monster from your GY into the Deck, then you can Special Summon this card. You can only use each effect of \"Transcendosaurus Exaraptor\" once per turn.",
+    "race": "Dinosaur",
     "atk": 3000,
     "def": null,
     "level": null,
-    "race": "Dinosaur",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Transcendosaurus",
     "linkval": 3,
     "linkmarkers": [
@@ -16,7 +22,38 @@
         "Left",
         "Right"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/56818742.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56818742.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56818742.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/transcendosaurus-exaraptor-14007",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN391",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56818742,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56818742.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56818742.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56818742.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

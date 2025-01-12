@@ -1,18 +1,52 @@
 {
     "id": 81418467,
     "name": "Primite Imperial Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned, except by Tributing 1 Normal Monster (but can be Normal Set). During your opponent's Main Phase (Quick Effect): You can reveal this card in your hand; immediately after this effect resolves, Normal Summon 1 \"Primite\" monster. You can only use this effect of \"Primite Imperial Dragon\" once per turn. If this card is Tribute Summoned: You can apply these effects in sequence.\r\n\u25cf Negate the effects of all face-up monsters your opponent currently controls.\r\n\u25cf Banish all monsters your opponent controls with the same Type or Attribute as a Normal Monster in your GY.",
+    "race": "Dragon",
     "atk": 2600,
     "def": 0,
     "level": 6,
-    "race": "Dragon",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Primite",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81418467.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81418467.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81418467.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/primite-imperial-dragon-14534",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN013",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN013",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81418467,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81418467.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81418467.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81418467.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.10",
+            "tcgplayer_price": "1.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

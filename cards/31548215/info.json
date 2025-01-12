@@ -2,17 +2,50 @@
     "id": 31548215,
     "name": "Gravedigger's Trap Hole",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When your opponent activates a monster effect in their hand or GY, or when your opponent's banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Hole",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31548215.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31548215.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31548215.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gravedigger-s-trap-hole-10816",
+    "card_sets": [
+        {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN086",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN078",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31548215,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31548215.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31548215.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31548215.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "6.95",
+            "amazon_price": "1.38",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

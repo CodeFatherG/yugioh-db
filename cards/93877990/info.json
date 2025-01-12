@@ -1,18 +1,46 @@
 {
     "id": 93877990,
     "name": "Brotherhood of the Fire Fist - Swan",
+    "typeline": [
+        "Beast-Warrior",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 Beast-Warrior monsters\r\nIf this card is Special Summoned: You can inflict 200 damage to your opponent for each \"Fire Formation\" Spell/Trap you control. During the Battle Phase (Quick Effect): You can send 1 face-up \"Fire Formation\" Spell/Trap you control to the GY, then target 1 card your opponent controls; destroy it. You can only use each effect of \"Brotherhood of the Fire Fist - Swan\" once per turn.",
+    "race": "Beast-Warrior",
     "atk": 2600,
     "def": 2200,
     "level": 8,
-    "race": "Beast-Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Fire Fist",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93877990.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93877990.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93877990.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/brotherhood-of-the-fire-fist-swan-10560",
+    "card_sets": [
+        {
+            "set_name": "Fists of the Gadgets",
+            "set_code": "FIGA-EN015",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.17"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93877990,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93877990.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93877990.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93877990.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.43",
+            "tcgplayer_price": "0.32",
+            "ebay_price": "3.00",
+            "amazon_price": "0.61",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

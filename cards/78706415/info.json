@@ -1,18 +1,78 @@
 {
     "id": 78706415,
     "name": "Fiber Jar",
+    "typeline": [
+        "Plant",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "FLIP: Each player shuffles all cards from their hand, field, and Graveyard into the Deck, then draws 5 cards.",
+    "race": "Plant",
     "atk": 500,
     "def": 500,
     "level": 3,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/78706415.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78706415.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78706415.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiber-jar-6613",
+    "card_sets": [
+        {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB-EN95",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN166",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "8.74"
+        },
+        {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-056",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "22.03"
+        },
+        {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-EN056",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "8"
+        },
+        {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Forbidden",
+        "ban_ocg": "Forbidden",
+        "ban_goat": "Forbidden"
+    },
+    "card_images": [
+        {
+            "id": 78706415,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78706415.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78706415.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78706415.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.52",
+            "tcgplayer_price": "4.42",
+            "ebay_price": "3.95",
+            "amazon_price": "11.99",
+            "coolstuffinc_price": "5.99"
+        }
+    ]
 }

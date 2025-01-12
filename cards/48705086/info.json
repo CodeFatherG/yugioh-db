@@ -1,18 +1,36 @@
 {
     "id": 48705086,
     "name": "Dragolithia Kunzite",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is in your hand: You can send 1 Level 7 or higher Normal Monster from your hand or Deck to the GY, and if you do, Special Summon this card. You can banish this card from your GY, then target 1 Normal Monster in your GY; Special Summon it in Defense Position. You can only use 1 \"Dragolithia Kunzite\" effect per turn, and only once that turn.",
+    "race": "Dragon",
     "atk": 0,
     "def": 0,
     "level": 8,
-    "race": "Dragon",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Gem Dragon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48705086.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48705086.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48705086.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragolithia-kunzite-14728",
+    "card_images": [
+        {
+            "id": 48705086,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48705086.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48705086.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48705086.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

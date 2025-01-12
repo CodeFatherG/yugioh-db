@@ -1,18 +1,52 @@
 {
     "id": 46033517,
     "name": "Machina Ruinforce",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your GY) by banishing Machine monsters from your GY whose total Levels equal 12 or more. When your opponent activates a card or effect during the Battle Phase (Quick Effect): You can pay half your LP; negate that activation, and if you do, halve your opponent's LP. If this card is destroyed by battle or card effect: You can Special Summon up to 3 of your banished \"Machina\" monsters, whose total Levels equal 12 or less. You can only use each effect of \"Machina Ruinforce\" once per turn.",
+    "race": "Machine",
     "atk": 4600,
     "def": 4100,
     "level": 10,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Machina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46033517.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46033517.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46033517.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/machina-ruinforce-12482",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN203",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst of Destiny",
+            "set_code": "BODE-EN028",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46033517,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46033517.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46033517.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46033517.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "3.69",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 99599062,
     "name": "Earthbound Fusion",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "You can only activate this card during the Main Phase, unless a card is in a Field Zone. Fusion Summon 1 DARK Fusion Monster from your Extra Deck, using monsters from your hand or field as material. During your Main Phase, if a card is in a Field Zone: You can banish this card from your GY; Special Summon 1 \"Earthbound\" monster from your hand or GY, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion or Synchro Monsters. You can only use this effect of \"Earthbound Fusion\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Earthbound",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99599062.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99599062.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99599062.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/earthbound-fusion-14196",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 99599062,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99599062.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99599062.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99599062.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

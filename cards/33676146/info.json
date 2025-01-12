@@ -2,17 +2,42 @@
     "id": 33676146,
     "name": "Escapegoat",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "When your opponent activates a card or effect that targets a monster(s) you control, except a Token: You can Tribute 1 monster; Special Summon 1 \"Escapegoat Token\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. If a non-Token monster(s) you control would be destroyed by battle or card effect, you can destroy 1 Token in your Monster Zone instead.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33676146.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33676146.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33676146.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/escapegoat-14086",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN400",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN080",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33676146,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33676146.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33676146.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33676146.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

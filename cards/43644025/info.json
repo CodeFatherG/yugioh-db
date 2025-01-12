@@ -2,17 +2,36 @@
     "id": 43644025,
     "name": "Cocoon Rebirth",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "You can Tribute 1 face-up \"Chrysalis\" monster you control to Special Summon 1 \"Neo-Spacian\" monster written in the card text of that card from either player's Graveyard.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Chrysalis",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/43644025.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43644025.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43644025.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cocoon-rebirth-3722",
+    "card_sets": [
+        {
+            "set_name": "Tactical Evolution",
+            "set_code": "TAEV-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 43644025,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43644025.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43644025.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43644025.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.99",
+            "amazon_price": "1.16",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

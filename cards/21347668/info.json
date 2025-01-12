@@ -2,17 +2,54 @@
     "id": 21347668,
     "name": "Purrely Sleepy Memory",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "The next battle or effect damage you take this turn will become 0. You can also immediately apply the following effect.\r\n\u25cf Discard 1 card, and if you do, Special Summon 1 Level 1 \"Purrely\" monster from your Deck.\r\nA \"Purrely\" Xyz Monster that has this card as material gains the following effect.\r\n\u25cf Once per turn, during your opponent's Standby Phase: You can draw 1 card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Purrely",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21347668.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21347668.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21347668.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/purrely-sleepy-memory-13661",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN198",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN061",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 24",
+            "set_code": "OP24-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Semi-Limited",
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 21347668,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21347668.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21347668.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21347668.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

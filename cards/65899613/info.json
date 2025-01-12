@@ -1,18 +1,45 @@
 {
     "id": 65899613,
     "name": "Battlewasp - Pin the Bullseye",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control an Insect monster: You can Special Summon this card from your hand. During your Main Phase: You can inflict 200 damage to your opponent for each \"Battlewasp - Pin the Bullseye\" you control. You can only use each effect of \"Battlewasp - Pin the Bullseye\" once per turn.",
+    "race": "Insect",
     "atk": 200,
     "def": 300,
     "level": 1,
-    "race": "Insect",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Battlewasp",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65899613.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65899613.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65899613.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/battlewasp-pin-the-bullseye-10335",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Hero's Revenge",
+            "set_code": "BLHR-EN031",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.13"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65899613,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65899613.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65899613.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65899613.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.67",
+            "tcgplayer_price": "0.93",
+            "ebay_price": "1.69",
+            "amazon_price": "2.48",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

@@ -2,17 +2,35 @@
     "id": 4545854,
     "name": "Xyz Territory",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When an Xyz Monster battles another monster, that Xyz Monster gains 200 ATK & DEF x its Rank, during damage calculation only. If this face-up card on the field would be destroyed by a card effect, you can detach 1 Xyz Material from a monster you control instead.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4545854.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4545854.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4545854.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/xyz-territory-409",
+    "card_sets": [
+        {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN088",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4545854,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4545854.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4545854.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4545854.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "0.99",
+            "amazon_price": "1.24",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

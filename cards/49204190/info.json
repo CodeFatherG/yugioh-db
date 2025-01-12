@@ -2,17 +2,63 @@
     "id": 49204190,
     "name": "Nitwit Outwit",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Discard 1 monster, then target 1 face-up monster on the field; it loses ATK equal to the discarded monster's original ATK.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49204190.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49204190.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49204190.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nitwit-outwit-4197",
+    "card_sets": [
+        {
+            "set_name": "Galactic Overlord",
+            "set_code": "GAOV-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Star Pack 2013",
+            "set_code": "SP13-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Star Pack 2013",
+            "set_code": "SP13-EN038",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "War of the Giants Reinforcements",
+            "set_code": "WGRT-EN092",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.81"
+        },
+        {
+            "set_name": "War of the Giants: Round 2",
+            "set_code": "BPW2-EN092",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49204190,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49204190.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49204190.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49204190.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.60",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

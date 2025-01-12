@@ -1,18 +1,51 @@
 {
     "id": 39711336,
     "name": "Fushioh Richie",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned from your hand or your Deck by Tributing 1 \"Great Dezard\" that has fulfilled the condition. You can flip this card into face-down Defense Position once per turn during your Main Phase. As long as this monster remains face-up on the field, negate the activation and effects of all Spell and Trap Cards that target this card and destroy them. When this card is flipped face-up, you can Special Summon 1 Zombie-Type monster from your Graveyard.",
+    "race": "Zombie",
     "atk": 2600,
     "def": 2900,
     "level": 7,
-    "race": "Zombie",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39711336.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39711336.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39711336.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fushioh-richie-3365",
+    "card_sets": [
+        {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN229",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.85"
+        },
+        {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-031",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "9.89"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39711336,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39711336.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39711336.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39711336.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.39",
+            "tcgplayer_price": "2.08",
+            "ebay_price": "11.99",
+            "amazon_price": "12.99",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

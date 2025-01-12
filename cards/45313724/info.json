@@ -2,17 +2,36 @@
     "id": 45313724,
     "name": "Void Cauldron",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "This card is sent to the GY if you have any cards in your hand. If an \"Infernity\" monster(s) and/or a Level 8 DARK Dragon Synchro Monster(s) you control would be destroyed by your opponent's card effect, you can banish 1 \"Infernity\" card from your GY instead.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Void",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45313724.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45313724.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45313724.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/void-cauldron-11821",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN023",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45313724,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45313724.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45313724.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45313724.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

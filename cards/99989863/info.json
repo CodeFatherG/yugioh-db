@@ -2,17 +2,36 @@
     "id": 99989863,
     "name": "Fiendsmith in Paradise",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 Level 7 or higher LIGHT Fiend monster you control; send all cards on the field to the GY that are not that monster. If your opponent Special Summons a monster(s), while this card is in your GY: You can banish this card; send 1 \"Fiendsmith\" monster from your Deck or Extra Deck to the GY. You can only use each effect of \"Fiendsmith in Paradise\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fiendsmith",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99989863.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99989863.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99989863.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiendsmith-in-paradise-14422",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN072",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 99989863,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99989863.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99989863.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99989863.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

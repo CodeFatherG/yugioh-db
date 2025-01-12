@@ -1,20 +1,50 @@
 {
     "id": 35871958,
     "name": "Ghostrick Festival",
+    "typeline": [
+        "Spellcaster",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "1 non-Link \"Ghostrick\" monster\r\nYou can also use a face-down \"Ghostrick\" monster you control as material to Link Summon this card. While a \"Ghostrick\" card is in a Field Zone, your \"Ghostrick\" monsters can attack directly. When an opponent's monster declares an attack: You can Tribute this card; Special Summon 1 \"Ghostrick\" monster from your Deck in face-down Defense Position. You can only use this effect of \"Ghostrick Festival\" once per turn.",
+    "race": "Spellcaster",
     "atk": 0,
     "def": null,
     "level": null,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Ghostrick",
     "linkval": 1,
     "linkmarkers": [
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/35871958.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35871958.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35871958.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ghostrick-festival-12675",
+    "card_sets": [
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.85"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35871958,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35871958.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35871958.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35871958.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

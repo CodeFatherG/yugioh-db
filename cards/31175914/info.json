@@ -1,18 +1,45 @@
 {
     "id": 31175914,
     "name": "Attack Gainer",
+    "typeline": [
+        "Warrior",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent to the Graveyard as a Synchro Material Monster, select 1 face-up monster your opponent controls. The selected opponent's monster loses 1000 ATK until the End Phase.",
+    "race": "Warrior",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31175914.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31175914.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31175914.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/attack-gainer-2644",
+    "card_sets": [
+        {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31175914,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31175914.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31175914.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31175914.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.38",
+            "tcgplayer_price": "0.36",
+            "ebay_price": "1.24",
+            "amazon_price": "1.19",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 59156966,
     "name": "Golden Gearbox",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Select 1 face-up \"Karakuri\" monster on the field. It gains 500 ATK and 1500 DEF, until the End Phase.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Karakuri",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59156966.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59156966.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59156966.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/golden-gearbox-5030",
+    "card_sets": [
+        {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59156966,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59156966.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59156966.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59156966.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "2.20",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

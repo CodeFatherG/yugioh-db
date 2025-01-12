@@ -2,17 +2,42 @@
     "id": 30127518,
     "name": "Darkfall",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When your opponent Special Summons 2 or more face-up monsters at the same time: Send those monsters to the Graveyard, then send all monsters in the opponent's hand and Deck to the Graveyard that have the same name as the monsters sent to the Graveyard by this effect.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30127518.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30127518.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30127518.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/darkfall-2555",
+    "card_sets": [
+        {
+            "set_name": "Duelist League 16 participation cards",
+            "set_code": "DL16-EN020",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "6.89"
+        },
+        {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN080",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30127518,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30127518.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30127518.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30127518.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.44",
+            "tcgplayer_price": "0.49",
+            "ebay_price": "4.75",
+            "amazon_price": "3.25",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -2,17 +2,27 @@
     "id": 80326401,
     "name": "Wishes for Eyes of Blue",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Discard 1 card; add 1 Level 1 LIGHT Tuner and 1 Spell/Trap that mentions \"Blue-Eyes White Dragon\" from your Deck to your hand, except \"Wishes for Eyes of Blue\". You can banish this card from your GY, then target 1 \"Blue-Eyes White Dragon\" you control; equip 1 \"Blue-Eyes\" monster from your Extra Deck to it as an Equip Spell that gives it 400 ATK. You can only use each effect of \"Wishes for Eyes of Blue\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "with Eyes of Blue",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80326401.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80326401.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80326401.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wishes-for-eyes-of-blue-14647",
+    "card_images": [
+        {
+            "id": 80326401,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80326401.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80326401.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80326401.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

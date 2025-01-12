@@ -2,17 +2,36 @@
     "id": 35487920,
     "name": "Live\u2606Twin Channel",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When a monster declares an attack: You can Tribute 1 \"Ki-sikil\" monster or 1 \"Lil-la\" monster; negate that attack. During the End Phase: You can target 1 \"Ki-sikil\" monster or 1 \"Lil-la\" monster in your GY; shuffle it into the Deck, or, if you control no monsters, you can add it to your hand instead. You can only use each effect of \"Live\u2606Twin Channel\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Live\u2606Twin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/35487920.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35487920.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35487920.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/live-twin-channel-11451",
+    "card_sets": [
+        {
+            "set_name": "Genesis Impact",
+            "set_code": "GEIM-EN019",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 35487920,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35487920.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35487920.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35487920.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

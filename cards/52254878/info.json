@@ -1,18 +1,45 @@
 {
     "id": 52254878,
     "name": "Dimensional Allotrope Varis",
+    "typeline": [
+        "Psychic",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be destroyed by battle with a monster with the same Type or Attribute as this card. You can declare 1 Monster Type and 1 Attribute; this card becomes that Type and Attribute until the end of your opponent's turn. You can only use this effect of \"Dimensional Allotrope Varis\" once per turn.",
+    "race": "Psychic",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Psychic",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52254878.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52254878.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52254878.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dimensional-allotrope-varis-13560",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN028",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52254878,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52254878.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52254878.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52254878.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

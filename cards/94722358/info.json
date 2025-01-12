@@ -2,17 +2,50 @@
     "id": 94722358,
     "name": "Maliss C MTP-07",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "You can activate this card the turn it was Set, by banishing 1 face-up \"Maliss\" monster you control. Add 1 \"Maliss\" monster from your Deck to your hand, then if you control a \"Maliss\" Link Monster, you can banish 1 card on the field. You can only activate 1 \"Maliss MTP-07\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Maliss",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94722358.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94722358.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94722358.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/maliss-c-mtp-07-14676",
+    "card_sets": [
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN022",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN022",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN022",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 94722358,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94722358.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94722358.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94722358.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.81",
+            "tcgplayer_price": "1.22",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

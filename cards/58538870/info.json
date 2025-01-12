@@ -1,18 +1,51 @@
 {
     "id": 58538870,
     "name": "Oppressed People",
+    "typeline": [
+        "Aqua",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "They are oppressed, but believe they will have their freedom someday.",
+    "race": "Aqua",
     "atk": 400,
     "def": 2000,
     "level": 1,
-    "race": "Aqua",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/58538870.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58538870.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58538870.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/oppressed-people-4978",
+    "card_sets": [
+        {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magician's Force",
+            "set_code": "MFC-002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.57"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 58538870,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58538870.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58538870.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58538870.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "1.55",
+            "ebay_price": "2.50",
+            "amazon_price": "3.22",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

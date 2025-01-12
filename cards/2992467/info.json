@@ -1,18 +1,51 @@
 {
     "id": 2992467,
     "name": "Click & Echo",
+    "typeline": [
+        "Sea Serpent",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be used as material for a Fusion, Synchro, or Xyz Summon. Cannot be Tributed while face-up in the Monster Zone. If this card is sent to the GY as material for a Link Summon: Special Summon this card in Defense Position, to the opponent's field of the player that Link Summoned. You can only use this effect of \"Click & Echo\" twice per turn. While this card, that was Summoned by its effect, is in the Monster Zone, you must keep your hand revealed.",
+    "race": "Sea Serpent",
     "atk": 300,
     "def": 2100,
     "level": 2,
-    "race": "Sea Serpent",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/2992467.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2992467.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2992467.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/click-echo-13892",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN367",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 2992467,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2992467.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2992467.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2992467.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "1.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

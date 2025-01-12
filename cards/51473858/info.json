@@ -1,18 +1,45 @@
 {
     "id": 51473858,
     "name": "Goblin Biker Clatter Sploder",
+    "typeline": [
+        "Beast-Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can target 1 \"Goblin\" monster in your GY, except \"Goblin Biker Clatter Sploder\"; Special Summon it. During your opponent's Main Phase, if this card is in your GY (Quick Effect): You can detach 1 Xyz Material from a monster on either field, and if you do, Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Goblin Biker Clatter Sploder\" once per turn.",
+    "race": "Beast-Warrior",
     "atk": 1500,
     "def": 0,
     "level": 3,
-    "race": "Beast-Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Goblin",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/51473858.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51473858.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51473858.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/goblin-biker-clatter-sploder-14174",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 51473858,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51473858.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51473858.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51473858.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.53",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

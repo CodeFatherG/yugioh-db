@@ -2,17 +2,50 @@
     "id": 63899465,
     "name": "Rescue-ACE HQ",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "While your opponent controls a monster, all \"Rescue-ACE\" monsters you control gain 500 ATK/DEF. During your Main Phase, you can Normal Summon 1 \"Rescue-ACE\" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Once per turn: You can target 4 of your \"Rescue-ACE\" cards that are banished and/or in your GY; shuffle them into the Deck, then draw 1 card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Rescue-ACE",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/63899465.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63899465.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63899465.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rescue-ace-hq-13391",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN282",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN008",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 21",
+            "set_code": "OP21-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 63899465,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63899465.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63899465.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63899465.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

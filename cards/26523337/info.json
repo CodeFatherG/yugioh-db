@@ -1,18 +1,45 @@
 {
     "id": 26523337,
     "name": "Psiics, Moonlight of the Ghoti",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add 1 Fish monster from your Deck to your hand, except \"Psiics, Moonlight of the Ghoti\", then banish 1 Fish monster from your hand or face-up field. If this card is banished: You can banish 1 Fish monster from your hand, GY, or face-up field, except \"Psiics, Moonlight of the Ghoti\"; Special Summon this card. You can only use each effect of \"Psiics, Moonlight of the Ghoti\" once per turn.",
+    "race": "Fish",
     "atk": 2400,
     "def": 0,
     "level": 6,
-    "race": "Fish",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Ghoti",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/26523337.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26523337.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26523337.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/psiics-moonlight-of-the-ghoti-14188",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN016",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 26523337,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26523337.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26523337.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26523337.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

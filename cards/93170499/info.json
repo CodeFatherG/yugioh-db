@@ -1,18 +1,37 @@
 {
     "id": 93170499,
     "name": "Jurrac Megalo",
+    "typeline": [
+        "Dinosaur",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a Dinosaur monster: You can Special Summon this card from your hand. During your Main Phase: You can discard 2 cards, including a \"Jurrac\" card, then draw 2 cards. If this card is destroyed by battle or card effect: You can send 1 \"Jurrac\" monster from your Deck or Extra Deck to the GY, except \"Jurrac Megalo\". You can only use each effect of \"Jurrac Megalo\" once per turn.",
+    "race": "Dinosaur",
     "atk": 500,
     "def": 1300,
     "level": 1,
-    "race": "Dinosaur",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Jurrac",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93170499.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93170499.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93170499.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-megalo-14819",
+    "card_images": [
+        {
+            "id": 93170499,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93170499.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93170499.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93170499.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

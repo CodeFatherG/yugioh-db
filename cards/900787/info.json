@@ -1,18 +1,67 @@
 {
     "id": 900787,
     "name": "Dragunity Knight - Gae Bulg",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters \n If this card attacks or is attacked, during the Damage Step you can remove from play 1 (only) Winged Beast-Type monster from your Graveyard, to have this card gain the ATK of that monster until the End Phase.",
+    "race": "Dragon",
     "atk": 2000,
     "def": 1100,
     "level": 6,
-    "race": "Dragon",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Dragunity",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/900787.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/900787.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/900787.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-knight-gae-bulg-77",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN087",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 3",
+            "set_code": "HA03-EN057",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN162",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 8 (POR)",
+            "set_code": "OP08-PT034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 900787,
+            "image_url": "https://images.ygoprodeck.com/images/cards/900787.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/900787.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/900787.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "2.83",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

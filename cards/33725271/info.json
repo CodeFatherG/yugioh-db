@@ -2,17 +2,36 @@
     "id": 33725271,
     "name": "Volcanic Recharge",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Return up to 3 \"Volcanic\" Monster Cards from your Graveyard to your Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Volcanic",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33725271.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33725271.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33725271.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/volcanic-recharge-2860",
+    "card_sets": [
+        {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33725271,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33725271.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33725271.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33725271.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.39",
+            "ebay_price": "1.24",
+            "amazon_price": "0.66",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

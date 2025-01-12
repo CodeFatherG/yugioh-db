@@ -1,18 +1,36 @@
 {
     "id": 875572,
     "name": "Crowley, the Gifted of Magistus",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this face-up card is used as Fusion Material, its name can be treated as \"Aleister the Invoker\". You can only use each of the following effects of \"Crowley, the Gifted of Magistus\" once per turn. If this card is added to your hand, except by drawing it: You can Special Summon it. If this card is Normal or Special Summoned (except during the Damage Step): You can Fusion Summon 1 \"Magistus\" or \"Invoked\" Fusion Monster from your Extra Deck, using monsters from your hand or field as material.",
+    "race": "Spellcaster",
     "atk": 1800,
     "def": 1000,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Magistus",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/875572.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/875572.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/875572.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crowley-the-gifted-of-magistus-14842",
+    "card_images": [
+        {
+            "id": 875572,
+            "image_url": "https://images.ygoprodeck.com/images/cards/875572.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/875572.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/875572.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

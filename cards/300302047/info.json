@@ -2,17 +2,35 @@
     "id": 300302047,
     "name": "Chillin' Outback",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Chumley Huffi",
+    "frameType": "skill",
     "desc": "Once per turn, you can change 1 face-up \"Koala\" or \"Kangaroo\" monster's battle position. \"Koala\" and \"Kangaroo\" monsters you control can attack while in face-up Defense Position. If they do, apply their DEF for damage calculation.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Chumley Huffi",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302047.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302047.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302047.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chillin-outback-13506",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENS06",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302047,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302047.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302047.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302047.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

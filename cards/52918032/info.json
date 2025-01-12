@@ -1,18 +1,45 @@
 {
     "id": 52918032,
     "name": "Mementotlan Ghattic",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can target 1 \"Memento\" card in your GY, except \"Mementotlan Ghattic\"; add it to your hand. If this card is sent to the GY by a \"Memento\" monster's effect: You can Special Summon this card. You can only use each effect of \"Mementotlan Ghattic\" once per turn.",
+    "race": "Fiend",
     "atk": 550,
     "def": 400,
     "level": 2,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Memento",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52918032.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52918032.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52918032.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mementotlan-ghattic-14158",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52918032,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52918032.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52918032.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52918032.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

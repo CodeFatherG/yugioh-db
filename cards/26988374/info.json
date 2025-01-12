@@ -1,18 +1,53 @@
 {
     "id": 26988374,
     "name": "Magikey Deity - Ashtartu",
+    "typeline": [
+        "Fairy",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 8 monsters\r\nOnce per turn, when your Normal Monster or \"Magikey\" monster destroys an opponent's monster by battle: You can detach 1 material from this card; inflict damage to your opponent equal to the destroyed monster's original ATK. Once per turn, during your opponent's Main Phase (Quick Effect): You can target 1 monster your opponent controls with the same Attribute as a Normal Monster or \"Magikey\" monster you control or is in your GY; detach 1 material from this card, and if you do, banish that monster.",
+    "race": "Fairy",
     "atk": 3000,
     "def": 3000,
     "level": 8,
-    "race": "Fairy",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Magikey",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/26988374.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26988374.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26988374.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/magikey-deity-ashtartu-13132",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN232",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN099",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 26988374,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26988374.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26988374.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26988374.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "12.42",
+            "amazon_price": "3.23",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

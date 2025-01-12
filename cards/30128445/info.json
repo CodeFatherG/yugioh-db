@@ -1,18 +1,46 @@
 {
     "id": 30128445,
     "name": "Transcendosaurus Drillygnathus",
+    "typeline": [
+        "Dinosaur",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 6 monsters\r\nWhile this card has no materials, if it battles a monster, any battle damage it inflicts to your opponent is doubled. You can only use each of the following effects of \"Transcendosaurus Drillygnathus\" once per turn. You can detach 1 material from this card, then target 1 of your banished Dinosaur monsters; Special Summon it. If this card is destroyed: You can shuffle 1 Normal Monster from your GY into the Deck, then you can Special Summon this card.",
+    "race": "Dinosaur",
     "atk": 3000,
     "def": 2300,
     "level": 6,
-    "race": "Dinosaur",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Transcendosaurus",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30128445.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30128445.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30128445.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/transcendosaurus-drillygnathus-13736",
+    "card_sets": [
+        {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN005",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30128445,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30128445.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30128445.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30128445.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

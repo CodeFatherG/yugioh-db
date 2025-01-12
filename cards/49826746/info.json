@@ -1,18 +1,45 @@
 {
     "id": 49826746,
     "name": "Night Wing Sorceress",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can activate \"Assault Mode Activate\" the turn it is Set.",
+    "race": "Spellcaster",
     "atk": 1300,
     "def": 1200,
     "level": 3,
-    "race": "Spellcaster",
     "attribute": "WIND",
-    "scale": null,
     "archetype": "Assault Mode",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49826746.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49826746.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49826746.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/night-wing-sorceress-4245",
+    "card_sets": [
+        {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49826746,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49826746.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49826746.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49826746.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.49",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

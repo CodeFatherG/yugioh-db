@@ -2,17 +2,42 @@
     "id": 33907039,
     "name": "Piri Reis Map",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "At the start of your Main Phase 1: Add 1 monster with 0 ATK from your Deck to your hand, but halve your LP. After adding it to your hand, until the end of the next turn after this card was activated, you cannot activate the added monster's effects, or the effects of cards with its name, until you Normal Summon that monster or a card with its name.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33907039.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33907039.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33907039.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/piri-reis-map-12325",
+    "card_sets": [
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN059",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN023",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "3"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33907039,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33907039.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33907039.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33907039.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.59",
+            "amazon_price": "3.39",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

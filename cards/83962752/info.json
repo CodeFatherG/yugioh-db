@@ -2,17 +2,36 @@
     "id": 83962752,
     "name": "Synchro Panic",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Activate only if a face-up Synchro Monster(s) you control is destroyed by battle or an opponent's card effect, by targeting 1 of them; Special Summon 1 Tuner and 1 or more non-Tuners from your GY, whose total Levels equal the targeted monster's, and if you do, they cannot be destroyed by battle or card effects this turn. Neither player can Synchro Summon. Destroy this card during your 3rd Standby Phase after activation.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Synchro",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/83962752.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83962752.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83962752.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/synchro-panic-14271",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN037",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83962752,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83962752.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83962752.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83962752.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

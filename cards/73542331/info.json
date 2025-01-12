@@ -1,18 +1,53 @@
 {
     "id": 73542331,
     "name": "Kashtira Shangri-Ira",
+    "typeline": [
+        "Psychic",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2+ Level 7 monsters\r\nDuring each Standby Phase: You can Special Summon 1 \"Kashtira\" monster from your Deck. You can only use the previous effect of \"Kashtira Shangri-Ira\" once per turn. Each time a card(s) your opponent owns and possesses is banished face-down (except during the Damage Step): You can choose 1 unused Main Monster Zone or Spell & Trap Zone; it cannot be used while this monster is face-up on the field. If this card on the field would be destroyed by battle or card effect, you can detach 1 material from this card instead.",
+    "race": "Psychic",
     "atk": 0,
     "def": 3000,
     "level": 7,
-    "race": "Psychic",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Kashtira",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73542331.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73542331.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73542331.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kashtira-shangri-ira-13291",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN190",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN045",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 73542331,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73542331.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73542331.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73542331.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.60",
+            "ebay_price": "1.34",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

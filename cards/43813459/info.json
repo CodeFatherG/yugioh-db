@@ -2,17 +2,36 @@
     "id": 43813459,
     "name": "Photon Current",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "When a face-up LIGHT Dragon-Type monster you control is targeted for an attack: The attack target gains ATK equal to the attacking monster's ATK, until the end of the Damage Step.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Photon",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/43813459.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43813459.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43813459.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/photon-current-3742",
+    "card_sets": [
+        {
+            "set_name": "Premium Collection Tin",
+            "set_code": "PRC1-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.64"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 43813459,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43813459.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43813459.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43813459.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.44",
+            "ebay_price": "2.25",
+            "amazon_price": "1.63",
+            "coolstuffinc_price": "0.79"
+        }
+    ]
 }

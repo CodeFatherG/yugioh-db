@@ -2,17 +2,43 @@
     "id": 95545183,
     "name": "Ninjitsu Art Notebook of Mystery",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "If your opponent controls a card: You can Set up to 1 \"Ninja\" monster, and up to 1 \"Ninjitsu Art\" Spell/Trap, except \"Ninjitsu Art Notebook of Mystery\". These cards come from your Deck and/or GY, but only 1 can come from each. If this Set card on the field is sent to the GY: You can target 1 face-up monster on the field; change it to face-down Defense Position. You can only use each effect of \"Ninjitsu Art Notebook of Mystery\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Ninjitsu Art",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/95545183.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95545183.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95545183.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ninjitsu-art-notebook-of-mystery-13370",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN201",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN061",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 95545183,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95545183.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95545183.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95545183.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

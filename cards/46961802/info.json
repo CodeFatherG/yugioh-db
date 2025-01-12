@@ -2,17 +2,49 @@
     "id": 46961802,
     "name": "Cross Attack",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 2 face-up Attack Position monsters you control with the same ATK; this turn, one of them can attack your opponent directly and the other cannot attack.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46961802.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46961802.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46961802.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cross-attack-4001",
+    "card_sets": [
+        {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN048",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Star Pack 2014",
+            "set_code": "SP14-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Star Pack 2014",
+            "set_code": "SP14-EN032",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 46961802,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46961802.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46961802.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46961802.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

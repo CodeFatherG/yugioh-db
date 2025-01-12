@@ -1,18 +1,52 @@
 {
     "id": 27827903,
     "name": "Genex Ally Crusher",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Once per turn, when a monster with the same Attribute as this card is Normal Summoned to your side of the field, you can select 1 card your opponent controls, and destroy it.",
+    "race": "Machine",
     "atk": 1000,
     "def": 2000,
     "level": 4,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Genex",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/27827903.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27827903.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27827903.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/genex-ally-crusher-2369",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN069",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN039",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 27827903,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27827903.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27827903.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27827903.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -1,18 +1,47 @@
 {
     "id": 8841431,
     "name": "Centur-Ion Primera Primus",
+    "typeline": [
+        "Spellcaster",
+        "Synchro",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Synchro Tuner Monster",
+    "humanReadableCardType": "Synchro Tuner Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nCannot be destroyed by battle, unless it was Special Summoned from the Extra Deck. You can only use each of the following effects of \"Centur-Ion Primera Primus\" once per turn. If this card is Synchro Summoned: You can add 1 \"Emblema\" card from your Deck or GY to your hand, then you can destroy 2 cards (1 on each field). If a face-up \"Centur-Ion\" card(s) you control leaves the field by an opponent's card effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card.",
+    "race": "Spellcaster",
     "atk": 2600,
     "def": 2600,
     "level": 8,
-    "race": "Spellcaster",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Centur-Ion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8841431.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8841431.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8841431.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/centur-ion-primera-primus-14630",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN038",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8841431,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8841431.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8841431.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8841431.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

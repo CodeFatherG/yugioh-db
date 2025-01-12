@@ -2,17 +2,43 @@
     "id": 10780049,
     "name": "Purrely Sharely!?",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Purrely\" Xyz Monster you control; Special Summon 1 Level 1 \"Purrely\" monster from your Deck, but negate its effects, then Special Summon from your Extra Deck, 1 \"Purrely\" Xyz Monster with the same Rank but a different Attribute than the targeted monster, by using that Special Summoned monster as material. (This is treated as an Xyz Summon.) Then, you can attach 1 card from your Deck to that Xyz Summoned monster, with the same name as a \"Purrely\" Quick-Play Spell attached to the targeted monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Purrely",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/10780049.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10780049.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10780049.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/purrely-sharely-13863",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN383",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Nexus",
+            "set_code": "DUNE-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 10780049,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10780049.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10780049.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10780049.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "1.50",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

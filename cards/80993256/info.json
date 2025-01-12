@@ -1,18 +1,52 @@
 {
     "id": 80993256,
     "name": "Ashura King",
+    "typeline": [
+        "Warrior",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "3+ Level 3 monsters\r\nWhile this card has material, it can attack a number of times each Battle Phase, up to the number of materials attached to it. At the start of the Damage Step, if this card battles: It gains 200 ATK. When another monster's effect is activated (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card. You can only use this effect of \"Ashura King\" once per turn.",
+    "race": "Warrior",
     "atk": 2100,
     "def": 0,
     "level": 3,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/80993256.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80993256.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80993256.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ashura-king-13241",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN159",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN048",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80993256,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80993256.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80993256.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80993256.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "2.95",
+            "amazon_price": "3.49",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

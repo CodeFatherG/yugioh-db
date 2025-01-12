@@ -2,17 +2,36 @@
     "id": 86553594,
     "name": "Discordance of the Tistina",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate 1 of these effects;\r\n\u25cf If you control a \"Tistina\" monster: Banish 1 card from your opponent's GY, face-down.\r\n\u25cf If you control a \"Tistina\" monster Special Summoned from the Extra Deck: Banish all cards from your opponent's GY, face-down.\r\nYou can banish this card from your GY, then target 1 \"Tistina\" monster in your GY; add it to your hand. You can only use 1 \"Discordance of the Tistina\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Tistina",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/86553594.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86553594.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86553594.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/discordance-of-the-tistina-14162",
+    "card_sets": [
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN092",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 86553594,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86553594.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86553594.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86553594.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

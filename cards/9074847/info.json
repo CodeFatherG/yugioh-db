@@ -2,17 +2,49 @@
     "id": 9074847,
     "name": "Major Riot",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "You can activate this card when 1 or more of your monsters are returned from the field to your hand by your opponent's effect. Return all Monster Cards on the field to your respective hands. Both you and your opponent then Special Summon from your hand the same number of Monster Cards on the field in face-down Defense Position.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9074847.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9074847.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9074847.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/major-riot-769",
+    "card_sets": [
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.36"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-E029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.2"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9074847,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9074847.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9074847.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9074847.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "1.00",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

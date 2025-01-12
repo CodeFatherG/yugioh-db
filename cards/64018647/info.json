@@ -2,17 +2,43 @@
     "id": 64018647,
     "name": "Breath of Resurrection",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If you control an \"Adventurer Token\": Special Summon up to 2 monsters from your hand and/or GY with different names (but banish them when they leave the field), then you can equip 1 Equip Spell that mentions \"Adventurer Token\" from your hand or GY to 1 monster you control. You can only activate 1 \"Breath of Resurrection\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Adventurer",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64018647.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64018647.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64018647.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/breath-of-resurrection-12531",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN273",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Grand Creators",
+            "set_code": "GRCR-EN036",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.12"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 64018647,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64018647.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64018647.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64018647.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

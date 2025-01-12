@@ -2,17 +2,35 @@
     "id": 28741524,
     "name": "Telekinetic Power Well",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Special Summon any number of Level 2 or lower Psychic-Type monsters from your Graveyard. You take damage equal to the total Levels of those monsters x 300.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/28741524.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28741524.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28741524.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/telekinetic-power-well-2447",
+    "card_sets": [
+        {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 28741524,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28741524.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28741524.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28741524.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.55",
+            "tcgplayer_price": "3.24",
+            "ebay_price": "3.00",
+            "amazon_price": "0.52",
+            "coolstuffinc_price": "1.99"
+        }
+    ]
 }

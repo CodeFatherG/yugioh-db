@@ -1,18 +1,46 @@
 {
     "id": 8690387,
     "name": "Earthbound Servant Geo Gremlin",
+    "typeline": [
+        "Fiend",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 DARK Tuner + 1+ non-Tuner monsters\r\nDuring the Main Phase (Quick Effect): You can target 1 face-up monster your opponent controls; your opponent chooses 1 of these effects for you to apply.\r\n\u25cf Destroy that monster. \u25cf Gain LP equal to that monster's ATK.\r\nDuring the Battle Phase (Quick Effect): You can Fusion Summon 1 \"Earthbound\" Fusion Monster from your Extra Deck, by banishing its materials from your hand, field, and/or GY. You can only use each effect of \"Earthbound Servant Geo Gremlin\" once per turn.",
+    "race": "Fiend",
     "atk": 2000,
     "def": 1000,
     "level": 6,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Earthbound",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8690387.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8690387.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8690387.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/earthbound-servant-geo-gremlin-13959",
+    "card_sets": [
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN032",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8690387,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8690387.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8690387.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8690387.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

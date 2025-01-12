@@ -2,17 +2,43 @@
     "id": 44028461,
     "name": "Blackback",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "During your turn: Target 1 \"Blackwing\" monster with 2000 or less ATK in your Graveyard; Special Summon that target. You cannot Normal Summon/Set during the turn you activate this card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Blackwing",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44028461.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44028461.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44028461.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blackback-3756",
+    "card_sets": [
+        {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN143",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.62"
+        },
+        {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN065",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44028461,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44028461.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44028461.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44028461.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.07",
+            "tcgplayer_price": "0.42",
+            "ebay_price": "2.90",
+            "amazon_price": "2.15",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

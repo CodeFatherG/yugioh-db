@@ -1,18 +1,52 @@
 {
     "id": 33008376,
     "name": "Materiactor Gigadra",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can discard 1 card; Special Summon 1 Level 3 Normal Monster from your hand or Deck, or if you discarded a Normal Monster to activate this effect, you can Special Summon 1 \"Materiactor\" monster instead. You can only use this effect of \"Materiactor Gigadra\" once per turn. You cannot Special Summon monsters from the Extra Deck, except Xyz Monsters.",
+    "race": "Dragon",
     "atk": 1000,
     "def": 1000,
     "level": 3,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Materiactor",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33008376.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33008376.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33008376.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/materiactor-gigadra-11955",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN081",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33008376,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33008376.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33008376.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33008376.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

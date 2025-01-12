@@ -1,18 +1,52 @@
 {
     "id": 38775407,
     "name": "Sengenjin Wakes from a Millennium",
+    "typeline": [
+        "Beast-Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be destroyed by monster effects. You can only use each of the following effects of \"Sengenjin Wakes from a Millennium\" once per turn. If this card is in your hand: You can place it in your Spell & Trap Zone as a face-up Continuous Spell. While this card is a Continuous Spell: You can either pay 2000 LP, or reveal 1 \"Millennium Ankh\" in your hand; Special Summon this card, then you can add 1 \"Millennium\" monster from your Deck to your hand.",
+    "race": "Beast-Warrior",
     "atk": 2750,
     "def": 2500,
     "level": 8,
-    "race": "Beast-Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Millennium",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38775407.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38775407.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38775407.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sengenjin-wakes-from-a-millennium-14390",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN001",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38775407,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38775407.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38775407.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38775407.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "3.60",
+            "tcgplayer_price": "3.17",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

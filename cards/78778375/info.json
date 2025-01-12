@@ -1,18 +1,46 @@
 {
     "id": 78778375,
     "name": "Frightfur Cruel Whale",
+    "typeline": [
+        "Fiend",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "1 \"Edge Imp\" monster + 1 \"Fluffal\" monster\r\nIf this card is Fusion Summoned: You can destroy 1 card on both players' fields. Once per turn (Quick Effect): You can target 1 Fusion Monster you control; send 1 \"Frightfur\" card from your Deck or Extra Deck to the GY, except \"Frightfur Cruel Whale\", and if you do, the targeted monster gains ATK equal to half of its original ATK until the end of this turn.",
+    "race": "Fiend",
     "atk": 2600,
     "def": 2400,
     "level": 9,
-    "race": "Fiend",
     "attribute": "WATER",
-    "scale": null,
     "archetype": "Frightfur",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/78778375.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78778375.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78778375.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/frightfur-cruel-whale-11053",
+    "card_sets": [
+        {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.48"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 78778375,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78778375.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78778375.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78778375.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

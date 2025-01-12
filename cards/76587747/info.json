@@ -2,17 +2,43 @@
     "id": 76587747,
     "name": "Time Thief Retrograde",
     "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
     "desc": "When a Spell/Trap Card is activated while you control a \"Time Thief\" Xyz Monster: Negate the activation, and if you do, attach that card to a \"Time Thief\" Xyz Monster you control as material. You can only activate 1 \"Time Thief Retrograde\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Counter",
-    "attribute": null,
-    "scale": null,
     "archetype": "Time Thief",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/76587747.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76587747.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76587747.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/time-thief-retrograde-10576",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN069",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.1"
+        },
+        {
+            "set_name": "Ignition Assault",
+            "set_code": "IGAS-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 76587747,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76587747.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76587747.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76587747.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

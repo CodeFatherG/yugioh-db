@@ -2,17 +2,43 @@
     "id": 52833089,
     "name": "Black Thunder",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only when a \"Blackwing\" monster you control is destroyed by battle and sent to the Graveyard. Inflict 400 damage to your opponent for each card your opponent controls.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Blackwing",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/52833089.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52833089.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52833089.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/black-thunder-4499",
+    "card_sets": [
+        {
+            "set_name": "Duelist Pack: Crow",
+            "set_code": "DP11-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 52833089,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52833089.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52833089.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52833089.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

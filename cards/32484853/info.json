@@ -1,18 +1,35 @@
 {
     "id": 32484853,
     "name": "Singularity Fiend",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When your opponent Special Summons a monster(s): You can discard this card and 1 Spell; destroy that monster(s). You can only use this effect of \"Singularity Fiend\" once per turn.",
+    "race": "Fiend",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Fiend",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32484853.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32484853.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32484853.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/singularity-fiend-14567",
+    "card_images": [
+        {
+            "id": 32484853,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32484853.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32484853.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32484853.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

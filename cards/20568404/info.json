@@ -1,18 +1,36 @@
 {
     "id": 20568404,
     "name": "Jurrac Stigo",
+    "typeline": [
+        "Dinosaur",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During your Main Phase: You can destroy 1 card you control, and if you do, send 1 Dinosaur monster from your Deck to the GY, then you can Special Summon \"Jurrac\" monsters from your hand and/or Deck whose total Levels equal the sent monster's Level, except \"Jurrac Stigo\", ignoring their Summoning conditions, also you cannot Special Summon for the rest of this turn, except Dinosaur monsters. You can only use this effect of \"Jurrac Stigo\" once per turn. When this card is destroyed by battle: You can return 1 face-up card on the field to the hand.",
+    "race": "Dinosaur",
     "atk": 1700,
     "def": 900,
     "level": 4,
-    "race": "Dinosaur",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Jurrac",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/20568404.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20568404.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20568404.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-stigo-14820",
+    "card_images": [
+        {
+            "id": 20568404,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20568404.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20568404.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20568404.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

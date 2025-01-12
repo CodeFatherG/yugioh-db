@@ -2,17 +2,49 @@
     "id": 300302001,
     "name": "Fusion Party!",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Christine",
+    "frameType": "skill",
     "desc": "Activate this Skill during your Main Phase. Once per Duel, you can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Christine",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302001.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302001.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302001.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fusion-party-10767",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-ENS04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-ENS17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.22"
+        },
+        {
+            "set_name": "Speed Duel: Trials of the Kingdom Sneak Peek participation cards",
+            "set_code": "SBTK-ENSP6",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302001,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302001.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302001.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302001.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

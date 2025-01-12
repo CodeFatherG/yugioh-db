@@ -1,18 +1,35 @@
 {
     "id": 64511793,
     "name": "Eyearmor",
+    "typeline": [
+        "Warrior",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "''This warrior transforms into various creatures to confuse enemies in battle.''",
+    "race": "Warrior",
     "atk": 600,
     "def": 500,
     "level": 2,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/64511793.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64511793.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64511793.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/eyearmor-5447",
+    "card_images": [
+        {
+            "id": 64511793,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64511793.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64511793.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64511793.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "2.49",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "4.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

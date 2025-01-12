@@ -1,18 +1,52 @@
 {
     "id": 87126721,
     "name": "Mulcharmy Meowls",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control no cards (Quick Effect): You can discard this card; apply these effects this turn.\r\n\u25cf Each time your opponent Special Summons a monster(s) from any GY(s) or banishment, immediately draw 1 card.\r\n\u25cf Once, during this End Phase, if the number of cards in your hand is more than the number of cards your opponent controls +6, you must randomly shuffle cards from your hand into the Deck so the number in your hand equals the number your opponent controls +6.\r\nYou can only activate 1 other \"Mulcharmy\" monster effect, the turn you activate this effect.",
+    "race": "Beast",
     "atk": 100,
     "def": 600,
     "level": 4,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Mulcharmy",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/87126721.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87126721.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87126721.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mulcharmy-meowls-14797",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN025",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN025",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 87126721,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87126721.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87126721.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87126721.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

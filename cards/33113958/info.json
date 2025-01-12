@@ -1,18 +1,45 @@
 {
     "id": 33113958,
     "name": "LeVirtue Dragon",
+    "typeline": [
+        "Sea Serpent",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "2 Level 3 monsters\r\nIf this card is Special Summoned: You can add 1 \"Virtue Stream\" from your Deck to your hand. You can activate 1 of these effects;\r\n\u25cf Detach 1 material from a monster you control, then add 1 Fish, Sea Serpent, or Aqua monster from your GY to your hand, except \"LeVirtue Dragon\".\r\n\u25cf Target 2 Xyz Monsters on the field; attach 1 material from 1 of those monsters to the other.\r\nYou can only use each effect of \"LeVirtue Dragon\" once per turn.",
+    "race": "Sea Serpent",
     "atk": 2000,
     "def": 0,
     "level": 3,
-    "race": "Sea Serpent",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33113958.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33113958.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33113958.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/levirtue-dragon-14653",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN042",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33113958,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33113958.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33113958.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33113958.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

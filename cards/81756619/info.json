@@ -2,17 +2,36 @@
     "id": 81756619,
     "name": "Succumbing-Song Morganite",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "For the rest of this Duel, apply the following effects.\r\n\u25cf You cannot activate monster effects in the hand.\r\n\u25cf Monsters you control can make up to 2 attacks on monsters during each Battle Phase.\r\n\u25cf If your monster battles an opponent's monster, any battle damage it inflicts to your opponent is doubled.\r\nYou can banish this card from your GY; add 1 \"Morganite\" card from your Deck to your hand, then place 1 card from your hand on the bottom of the Deck.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Morganite",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81756619.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81756619.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81756619.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/succumbing-song-morganite-14529",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN065",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81756619,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81756619.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81756619.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81756619.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

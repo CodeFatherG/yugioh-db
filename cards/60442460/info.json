@@ -2,17 +2,43 @@
     "id": 60442460,
     "name": "Branded Befallen",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "Once per turn, when your opponent activates a card or effect that targets 1 \"Bystial\" monster you control (and no other cards), or when your opponent activates a card or effect in response to the activation of your \"Bystial\" monster effect: You can target 1 LIGHT or DARK monster in either GY; banish it, and if you do, negate that activated effect.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Branded",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60442460.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60442460.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60442460.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/branded-befallen-13555",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN330",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 60442460,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60442460.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60442460.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60442460.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -2,17 +2,43 @@
     "id": 93031067,
     "name": "Plunder Patroll Shipyarrrd",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "\"Plunder Patroll\" monsters you control gain 500 ATK for each \"Plunder Patroll\" card in your Spell & Trap Zone. You can only use each of the following effects of \"Plunder Patroll Shipyarrrd\" once per turn.\r\n\u25cf You can discard 1 card; add 1 \"Plunder Patroll\" card from your Deck to your hand, except \"Plunder Patroll Shipyarrrd\".\r\n\u25cf If this card is in your GY: You can target 1 \"Plunder Patroll\" card in your Spell & Trap Zone; Set this card, and if you do, return that target to the hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Plunder Patroll",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/93031067.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93031067.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93031067.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/plunder-patroll-shipyarrrd-10877",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN164",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.31"
+        },
+        {
+            "set_name": "Ignition Assault",
+            "set_code": "IGAS-EN090",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 93031067,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93031067.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93031067.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93031067.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.37",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.99",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

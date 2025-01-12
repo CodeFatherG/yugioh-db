@@ -2,17 +2,61 @@
     "id": 44362883,
     "name": "Branded Fusion",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Fusion Summon 1 Fusion Monster that mentions \"Fallen of Albaz\" as material from your Extra Deck, using 2 monsters from your hand, Deck, or field as material. You cannot Special Summon from the Extra Deck, except Fusion Monsters, the turn you activate this card. You can only activate 1 \"Branded Fusion\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Branded",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44362883.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44362883.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44362883.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/branded-fusion-12939",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN111",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN111",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 22",
+            "set_code": "OP22-EN002",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Albaz Strike",
+            "set_code": "SDAZ-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.13"
+        }
+    ],
+    "banlist_info": {
+        "ban_tcg": "Limited",
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 44362883,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44362883.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44362883.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44362883.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.37",
+            "tcgplayer_price": "0.43",
+            "ebay_price": "37.00",
+            "amazon_price": "2.05",
+            "coolstuffinc_price": "3.99"
+        }
+    ]
 }

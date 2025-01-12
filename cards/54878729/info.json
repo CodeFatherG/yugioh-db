@@ -1,18 +1,35 @@
 {
     "id": 54878729,
     "name": "Chronicle Sorceress",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can activate 1 of these effects based on the Attributes in your GY;\r\n\u25cf LIGHT: Send 1 \"Blue-Eyes White Dragon\" or 1 card that mentions it from your Deck to the GY, except \"Chronicle Sorceress\".\r\n\u25cf DARK: Send 1 \"Dark Magician\" or 1 card that mentions it from your Deck to the GY, except \"Chronicle Sorceress\".\r\nYou can only use this effect of \"Chronicle Sorceress\" once per turn.",
+    "race": "Spellcaster",
     "atk": 1250,
     "def": 1250,
     "level": 4,
-    "race": "Spellcaster",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/54878729.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54878729.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54878729.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chronicle-sorceress-13129",
+    "card_images": [
+        {
+            "id": 54878729,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54878729.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54878729.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54878729.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "8.00",
+            "amazon_price": "2.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

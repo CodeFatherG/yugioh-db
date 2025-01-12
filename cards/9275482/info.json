@@ -1,18 +1,51 @@
 {
     "id": 9275482,
     "name": "UFOLight",
+    "typeline": [
+        "Illusion",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Your opponent cannot target this card on the field with card effects, except during the Battle Phase. If this card battles a monster, neither can be destroyed by that battle. During the End Phase: You can draw 1 card, then you must banish any number of cards from your hand (min. 1), and if you do, this card gains 500 ATK for each. You can only use this effect of \"UFOLight\" once per turn.",
+    "race": "Illusion",
     "atk": 1500,
     "def": 1500,
     "level": 8,
-    "race": "Illusion",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9275482.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9275482.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9275482.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ufolight-14096",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN388",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9275482,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9275482.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9275482.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9275482.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

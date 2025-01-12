@@ -1,18 +1,53 @@
 {
     "id": 48832775,
     "name": "Dinomorphia Kentregina",
+    "typeline": [
+        "Dinosaur",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 \"Dinomorphia\" monsters with different names\r\nLoses ATK equal to your LP. You can only use each of the following effects of \"Dinomorphia Kentregina\" once per turn. During the Main Phase (Quick Effect): You can pay half your LP and banish 1 \"Dinomorphia\" Normal Trap from your GY; this effect becomes that Trap's effect when that card is activated. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 or lower \"Dinomorphia\" monster from your GY.",
+    "race": "Dinosaur",
     "atk": 4000,
     "def": 0,
     "level": 6,
-    "race": "Dinosaur",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Dinomorphia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48832775.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48832775.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48832775.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dinomorphia-kentregina-12748",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN020",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN038",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48832775,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48832775.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48832775.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48832775.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "1.10",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

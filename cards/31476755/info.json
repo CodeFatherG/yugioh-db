@@ -2,17 +2,42 @@
     "id": 31476755,
     "name": "Dust Barrier",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Face-up Normal Monsters on the field are unaffected by your opponent's Spell Cards. This card is destroyed during your second Standby Phase after activation.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/31476755.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31476755.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31476755.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dust-barrier-2670",
+    "card_sets": [
+        {
+            "set_name": "Ancient Sanctuary",
+            "set_code": "AST-087",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.01"
+        },
+        {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN200",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 31476755,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31476755.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31476755.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31476755.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.36",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

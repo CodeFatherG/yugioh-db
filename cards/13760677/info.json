@@ -1,18 +1,48 @@
 {
     "id": 13760677,
     "name": "P.M. Captor",
+    "typeline": [
+        "Zombie",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nWhen you Pendulum Summon a Zombie-Type monster(s): You can activate this effect; it cannot be destroyed by battle or card effects this turn.\n\n[ Monster Effect ] \nIf this card destroys a monster by battle: You can target 1 Pendulum Monster in your Graveyard; add it to your hand.",
+    "race": "Zombie",
+    "pend_desc": "When you Pendulum Summon a Zombie-Type monster(s): You can activate this effect; it cannot be destroyed by battle or card effects this turn.",
+    "monster_desc": "If this card destroys a monster by battle: You can target 1 Pendulum Monster in your Graveyard; add it to your hand.",
     "atk": 1800,
     "def": 0,
     "level": 4,
-    "race": "Zombie",
     "attribute": "DARK",
     "scale": 5,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/13760677.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13760677.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13760677.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/p-m-captor-1180",
+    "card_sets": [
+        {
+            "set_name": "World Superstars",
+            "set_code": "WSUP-EN044",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 13760677,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13760677.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13760677.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13760677.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "1.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

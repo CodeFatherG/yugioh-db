@@ -2,17 +2,36 @@
     "id": 92501449,
     "name": "Primite Roar",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Pay 2000 LP, then declare 1 Normal Monster Card name; the declared Normal Monsters and \"Primite\" monsters you control cannot be destroyed by battle (until the end of your opponent's turn), then if you control no monsters, you can Special Summon 1 declared Normal Monster from your Deck in Defense Position. If your opponent Normal Summons a monster: You can banish this card from your GY, then target 1 Normal Monster you control or in your GY; banish 1 monster from the field with less ATK than that monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Primite",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92501449.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92501449.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92501449.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/primite-roar-14551",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN059",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92501449,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92501449.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92501449.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92501449.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.36",
+            "tcgplayer_price": "1.54",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

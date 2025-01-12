@@ -1,18 +1,44 @@
 {
     "id": 74652966,
     "name": "Code of Soul",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control a Link Monster: You can Special Summon this card from your hand. During your Main Phase: You can activate this effect; once this turn, if you Link Summon a \"Salamangreat\" Link Monster, you can use 1 \"Salamangreat\" Link Monster you control with its same name as the entire material. During your opponent's Main Phase (Quick Effect): You can banish this card from your GY; immediately after this effect resolves, Link Summon 1 Link-3 or higher Cyberse Link Monster. You can only use each effect of \"Code of Soul\" once per turn.",
+    "race": "Cyberse",
     "atk": 500,
     "def": 500,
     "level": 3,
-    "race": "Cyberse",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74652966.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74652966.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74652966.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/code-of-soul-14306",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN099",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 74652966,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74652966.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74652966.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74652966.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "1.58",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

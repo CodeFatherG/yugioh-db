@@ -2,17 +2,50 @@
     "id": 33787730,
     "name": "Ryzeal Plasma Hole",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target face-up cards your opponent controls, up to the number of \"Ryzeal\" Xyz Monsters you control; destroy them, then you can attach 1 \"Ryzeal\" card from your GY to 1 Rank 4 Xyz Monster you control. You can banish this card from your GY; immediately after this effect resolves, Xyz Summon 1 Xyz Monster using monsters you control, including a \"Ryzeal\" monster. You can only use each effect of \"Ryzeal Plasma Hole\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Hole",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33787730.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33787730.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33787730.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ryzeal-plasma-hole-14641",
+    "card_sets": [
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN010",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 33787730,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33787730.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33787730.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33787730.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

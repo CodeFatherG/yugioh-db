@@ -1,18 +1,51 @@
 {
     "id": 18000338,
     "name": "Re: EX",
+    "typeline": [
+        "Dinosaur",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card battles a monster in the Extra Monster Zone, it gains 800 ATK and DEF during the Damage Step only.",
+    "race": "Dinosaur",
     "atk": 1900,
     "def": 1200,
     "level": 4,
-    "race": "Dinosaur",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/18000338.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18000338.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18000338.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/re-ex-8792",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN058",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN034",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 18000338,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18000338.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18000338.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18000338.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "2.95",
+            "amazon_price": "0.65",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

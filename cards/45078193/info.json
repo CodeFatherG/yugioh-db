@@ -1,18 +1,59 @@
 {
     "id": 45078193,
     "name": "Cyberdark Cannon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent to the GY while equipped to a monster: You can draw 1 card. You can only use each of the following effects of \"Cyberdark Cannon\" once per turn.\r\n\u25cf You can discard this card; add 1 Machine \"Cyberdark\" monster from your Deck to your hand.\r\n\u25cf During damage calculation, if a monster equipped with this card battles: You can send 1 monster from your Deck to the GY.",
+    "race": "Dragon",
     "atk": 1600,
     "def": 800,
     "level": 3,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Cyberdark",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/45078193.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45078193.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45078193.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cyberdark-cannon-8562",
+    "card_sets": [
+        {
+            "set_name": "Legendary Duelists",
+            "set_code": "LEDU-EN022",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.38"
+        },
+        {
+            "set_name": "Legendary Duelists: Season 1",
+            "set_code": "LDS1-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Cyber Strike",
+            "set_code": "SDCS-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 45078193,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45078193.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45078193.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45078193.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

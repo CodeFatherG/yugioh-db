@@ -2,17 +2,42 @@
     "id": 300302051,
     "name": "Power Bond (Skill Card)",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Syrus Truesda",
+    "frameType": "skill",
     "desc": "Activate this Skill during your Main Phase. Discard 1 card, then Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand or field as material. If you do, it gains ATK equal to its original ATK until the end of this turn, but it cannot attack your opponent directly this turn. During the End Phase of this turn, you take damage equal to the amount of ATK gained at the time of the Summon.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Syrus Truesda",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302051.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302051.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302051.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/power-bond-skill-card-13510",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENS08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Speed Duel Tournament Pack 6",
+            "set_code": "STP6-ENS05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302051,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302051.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302051.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302051.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "1.69",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

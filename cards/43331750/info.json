@@ -2,17 +2,43 @@
     "id": 43331750,
     "name": "Fusion Duplication",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Fusion\" or \"Polymerization\" Normal or Quick-Play Spell in either player's GY; banish that Spell, then apply that Spell's effect when that card is activated. You can only activate 1 \"Fusion Duplication\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fusion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/43331750.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43331750.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43331750.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fusion-duplication-13702",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN201",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN077",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 43331750,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43331750.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43331750.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43331750.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

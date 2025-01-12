@@ -2,17 +2,36 @@
     "id": 4582942,
     "name": "Vaalmonica Followed Rhythm",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Apply 1 of these effects. You must control a \"Vaalmonica\" Monster Card to activate and to resolve this effect. If you control a \"Vaalmonica\" Link Monster, you can apply both effects in sequence.\r\n\u25cf Gain 500 LP, then you can destroy 1 Spell/Trap on the field.\r\n\u25cf Take 500 damage, then you can return 1 monster from the field to the hand.\r\nYou can only activate 1 \"Vaalmonica Followed Rhythm\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Vaalmonica",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/4582942.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4582942.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4582942.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vaalmonica-followed-rhythm-14106",
+    "card_sets": [
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN039",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 4582942,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4582942.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4582942.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4582942.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+        }
+    ]
 }

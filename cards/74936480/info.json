@@ -1,18 +1,53 @@
 {
     "id": 74936480,
     "name": "Dinomorphia Stealthbergia",
+    "typeline": [
+        "Dinosaur",
+        "Fusion",
+        "Effect"
+    ],
     "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
     "desc": "2 \"Dinomorphia\" monsters with different names\r\nWhile your LP are 2000 or less, you do not pay LP to activate Trap Cards or \"Dinomorphia\" monster effects. You can only use each of the following effects of \"Dinomorphia Stealthbergia\" once per turn. When your opponent activates a monster effect (Quick Effect): You can inflict damage to your opponent equal to that monster's original ATK. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 or lower \"Dinomorphia\" monster from your GY.",
+    "race": "Dinosaur",
     "atk": 0,
     "def": 2500,
     "level": 6,
-    "race": "Dinosaur",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Dinomorphia",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74936480.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74936480.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74936480.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dinomorphia-stealthbergia-12752",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN021",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle of Chaos",
+            "set_code": "BACH-EN039",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 74936480,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74936480.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74936480.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74936480.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.44",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

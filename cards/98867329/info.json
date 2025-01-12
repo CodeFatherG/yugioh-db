@@ -2,17 +2,63 @@
     "id": 98867329,
     "name": "Cursed Armaments",
     "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
     "desc": "The equipped monster loses 600 ATK for each monster you control. When this card is sent from the field to the Graveyard: You can target 1 face-up monster your opponent controls; equip it with this card.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Equip",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98867329.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98867329.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98867329.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cursed-armaments-8212",
+    "card_sets": [
+        {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN159",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN159",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN169",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN169",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist Revolution",
+            "set_code": "DREV-EN059",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 98867329,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98867329.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98867329.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98867329.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

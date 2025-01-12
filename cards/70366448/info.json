@@ -2,17 +2,35 @@
     "id": 70366448,
     "name": "Drastic Draw",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Banish all monsters you control (min. 2); draw 3 cards. You cannot Normal or Special Summon the turn you activate this card, except Cyberse monsters. You can only activate 1 \"Drastic Draw\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70366448.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70366448.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70366448.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/drastic-draw-13852",
+    "card_sets": [
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN037",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 70366448,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70366448.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70366448.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70366448.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.51",
+            "tcgplayer_price": "0.83",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

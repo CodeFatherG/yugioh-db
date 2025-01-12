@@ -2,17 +2,43 @@
     "id": 86809440,
     "name": "Mimighoul Dungeon",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "\"Mimighoul\" monsters you control that were not Normal or Special Summoned this turn gain ATK equal to their original DEF. Any player who controls a face-down monster cannot Normal Summon monsters, nor declare an attack with monsters that were Special Summoned this turn. During your Main Phase: You can add 1 \"Mimighoul\" monster from your Deck or GY to your hand. You can only use this effect of \"Mimighoul Dungeon\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Mimighoul",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/86809440.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86809440.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86809440.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mimighoul-dungeon-14605",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN094",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN094",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 86809440,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86809440.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86809440.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86809440.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.62",
+            "tcgplayer_price": "3.56",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

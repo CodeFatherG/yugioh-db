@@ -1,18 +1,52 @@
 {
     "id": 72444406,
     "name": "Enigmaster Packbit",
+    "typeline": [
+        "Cyberse",
+        "Synchro",
+        "Effect"
+    ],
     "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned, or sent to the GY: You can target 1 monster in your GY, or 1 face-up monster your opponent controls; discard 1 card, and if you do, place that monster in its owner's Spell & Trap Zone as a face-up Continuous Trap. During either player's turn, if this card is a Continuous Trap: You can Special Summon 1 face-up Monster Card from your Spell & Trap Zone. You can only use each effect of \"Enigmaster Packbit\" once per turn.",
+    "race": "Cyberse",
     "atk": 2900,
     "def": 2500,
     "level": 8,
-    "race": "Cyberse",
     "attribute": "WATER",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/72444406.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72444406.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72444406.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/enigmaster-packbit-14197",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN042",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN042",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 72444406,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72444406.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72444406.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72444406.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "7.86",
+            "tcgplayer_price": "12.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

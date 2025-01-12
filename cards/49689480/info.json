@@ -1,18 +1,46 @@
 {
     "id": 49689480,
     "name": "Madolche Queen Tiarafraise",
+    "typeline": [
+        "Fairy",
+        "Xyz",
+        "Effect"
+    ],
     "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
     "desc": "3 Level 5 \"Madolche\" monsters\r\nOnce per turn, you can also Xyz Summon \"Madolche Queen Tiarafraise\" by using \"Madolche Queen Tiaramisu\" you control. (Transfer its materials to this card.) Once per opponent's turn (Quick Effect): You can detach 1 material from this card, then target up to 2 \"Madolche\" cards in your GY; shuffle them into the Deck, also shuffle up to the same number of cards your opponent controls into the Deck. If this card in your possession is destroyed by an opponent's card and sent to your GY: Return this card to the Extra Deck.",
+    "race": "Fairy",
     "atk": 2600,
     "def": 2500,
     "level": 5,
-    "race": "Fairy",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Madolche",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49689480.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49689480.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49689480.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/madolche-queen-tiarafraise-14461",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN044",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49689480,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49689480.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49689480.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49689480.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

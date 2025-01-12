@@ -1,18 +1,51 @@
 {
     "id": 56713552,
     "name": "Obese Marmot of Nefariousness",
+    "typeline": [
+        "Beast",
+        "Normal"
+    ],
     "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
     "desc": "An ill-mannered field varmint that will sink its teeth into anything.",
+    "race": "Beast",
     "atk": 750,
     "def": 800,
     "level": 3,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56713552.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56713552.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56713552.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/obese-marmot-of-nefariousness-4832",
+    "card_sets": [
+        {
+            "set_name": "World Championship 2010 Card Pack",
+            "set_code": "WCPP-EN003",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "World Championship 2011 Card Pack",
+            "set_code": "WP11-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56713552,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56713552.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56713552.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56713552.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "53.17",
+            "tcgplayer_price": "14.76",
+            "ebay_price": "64.99",
+            "amazon_price": "99.99",
+            "coolstuffinc_price": "29.99"
+        }
+    ]
 }

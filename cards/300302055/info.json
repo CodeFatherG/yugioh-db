@@ -2,17 +2,35 @@
     "id": 300302055,
     "name": "Under Pressure",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Bastion Misaw",
+    "frameType": "skill",
     "desc": "Activate this Skill while you control \"Hyozanryu\". Once per turn, you can reveal the top 4 cards of your Deck, then if any of the following monsters are revealed, apply the appropriate Skills, in sequence. Then place the revealed cards on the bottom of your Deck in any order.\r\n\u25cf \"Carboneddon\": 1 \"Hyozanryu\" you control gains 1000 ATK until the end of this turn.\r\n\u25cf \"Hydrogeddon\": 1 \"Hyozanryu\" you control is unaffected by your opponent's monster effects, until the end of this turn.\r\n\u25cf \"Oxygeddon\": Destroy 1 face-up monster your opponent controls, then inflict 800 damage to your opponent.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Bastion Misaw",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302055.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302055.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302055.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/under-pressure-13514",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENS05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302055,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302055.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302055.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302055.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

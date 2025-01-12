@@ -2,17 +2,26 @@
     "id": 38041941,
     "name": "Seed Token",
     "type": "Token",
+    "humanReadableCardType": "Token",
+    "frameType": "token",
     "desc": "Special Summoned with the effect of \"Seed of Flame\". This Token cannot be used as a Tribute for a Tribute Summon.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Plant",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38041941.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38041941.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38041941.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/seed-token-3226",
+    "card_images": [
+        {
+            "id": 38041941,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38041941.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38041941.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38041941.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "3.42",
+            "amazon_price": "1.19",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

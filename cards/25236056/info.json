@@ -1,18 +1,51 @@
 {
     "id": 25236056,
     "name": "Rare Metal Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card cannot be Normal Summoned or Set.",
+    "race": "Dragon",
     "atk": 2400,
     "def": 1200,
     "level": 4,
-    "race": "Dragon",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/25236056.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25236056.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25236056.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rare-metal-dragon-2168",
+    "card_sets": [
+        {
+            "set_name": "Exclusive Pack",
+            "set_code": "EP1-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Gold Series",
+            "set_code": "GLD1-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 25236056,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25236056.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25236056.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25236056.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "7.79",
+            "amazon_price": "1.53",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

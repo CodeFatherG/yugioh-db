@@ -2,17 +2,36 @@
     "id": 19828680,
     "name": "Contract with the Void",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "If you have 3 or more other cards in your hand: Discard your entire hand, then you can Special Summon 1 \"Infernity\" monster or 1 Level 8 DARK Dragon Synchro Monster from your GY.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Void",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19828680.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19828680.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19828680.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/contract-with-the-void-11754",
+    "card_sets": [
+        {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN022",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0.97"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 19828680,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19828680.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19828680.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19828680.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "1.49"
+        }
+    ]
 }

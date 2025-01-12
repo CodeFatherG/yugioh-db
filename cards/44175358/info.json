@@ -1,18 +1,44 @@
 {
     "id": 44175358,
     "name": "Splitting Planarian",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can banish this card you control; Special Summon 2 Level 3 Insect monsters from your Deck with the same name from each other, but their effects are negated, also banish them during the End Phase. You can only use this effect of \"Splitting Planarian\" once per turn.",
+    "race": "Insect",
     "atk": 1000,
     "def": 800,
     "level": 4,
-    "race": "Insect",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/44175358.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44175358.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44175358.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/splitting-planarian-14731",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN100",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44175358,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44175358.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44175358.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44175358.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

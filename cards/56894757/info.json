@@ -2,17 +2,43 @@
     "id": 56894757,
     "name": "Witchcrafter Draping",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Target Spells/Traps your opponent controls, up to the number of \"Witchcrafter\" monsters you control; return those targeted cards to the hand. During your End Phase, if you control a \"Witchcrafter\" monster, while this card is in your GY: You can add this card to your hand. You can only use 1 \"Witchcrafter Draping\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Witchcrafter",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56894757.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56894757.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56894757.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/witchcrafter-draping-10145",
+    "card_sets": [
+        {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN228",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+        },
+        {
+            "set_name": "The Infinity Chasers",
+            "set_code": "INCH-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56894757,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56894757.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56894757.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56894757.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

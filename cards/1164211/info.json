@@ -1,18 +1,52 @@
 {
     "id": 1164211,
     "name": "Shield of the Millennium Dynasty",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "Cannot be destroyed by Spell/Trap effects. You can only use each of the following effects of \"Shield of the Millennium Dynasty\" once per turn. If this card is in your hand: You can place it in your Spell & Trap Zone as a face-up Continuous Spell. While this card is a Continuous Spell: You can either pay 2000 LP, or reveal 1 \"Millennium Ankh\" in your hand; Special Summon this card, then you can add 1 \"Millennium Ankh\" from your Deck to your hand.",
+    "race": "Warrior",
     "atk": 0,
     "def": 3000,
     "level": 5,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Millennium",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/1164211.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1164211.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1164211.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shield-of-the-millennium-dynasty-14388",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN003",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 1164211,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1164211.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1164211.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1164211.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.16",
+            "tcgplayer_price": "2.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

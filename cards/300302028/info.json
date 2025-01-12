@@ -2,17 +2,36 @@
     "id": 300302028,
     "name": "Cyberdark Style (Skill Card)",
     "type": "Skill Card",
+    "humanReadableCardType": "Skill - Zane Truesdal",
+    "frameType": "skill",
     "desc": "Once per turn, choose 3 \"Cyberdark\" monsters from your Deck. Your opponent randomly adds 1 of them to your hand. Shuffle the other 2 along with 1 card from your hand back into your Deck, then flip this card over. This Skill can be used up to three times, once when your LP are 3000 or less, once when your LP are 2000 or less, and once when your LP are 1000 or less.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Zane Truesdal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Cyberdark",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/300302028.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302028.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302028.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cyberdark-style-skill-card-13218",
+    "card_sets": [
+        {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENS15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 300302028,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302028.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302028.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302028.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "1.00",
+            "amazon_price": "0.35",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

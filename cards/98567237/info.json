@@ -2,17 +2,46 @@
     "id": 98567237,
     "name": "Fiendsmith's Tract",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Add 1 LIGHT Fiend monster from your Deck to your hand, then discard 1 card. You can banish this card from your GY; Fusion Summon 1 \"Fiendsmith\" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of \"Fiendsmith's Tract\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fiendsmith",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98567237.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98567237.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98567237.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiendsmith-s-tract-14427",
+    "card_sets": [
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN061",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "The Infinite Forbidden",
+            "set_code": "INFO-EN061",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "banlist_info": {
+        "ban_ocg": "Limited"
+    },
+    "card_images": [
+        {
+            "id": 98567237,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98567237.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98567237.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98567237.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "18.34",
+            "tcgplayer_price": "26.73",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

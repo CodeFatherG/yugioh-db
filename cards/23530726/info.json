@@ -1,14 +1,20 @@
 {
     "id": 23530726,
     "name": "Surgical Striker - S.P.E.C.T.R.A.",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "2+ monsters, including a Link Monster\r\n(This card is always treated as a \"Sky Striker Ace\" card.)\r\nMust first be Link Summoned. Loses 3000 ATK while you have no Spells in your GY. When your opponent activates a card or effect as Chain Link 2 or higher (Quick Effect): You can banish 2 Spells from your hand and/or GY; negate that effect, then you can destroy 1 card your opponent controls. You can only use this effect of \"Surgical Striker - S.P.E.C.T.R.A.\" once per turn.",
+    "race": "Machine",
     "atk": 3000,
     "def": null,
     "level": null,
-    "race": "Machine",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Sky Striker",
     "linkval": 4,
     "linkmarkers": [
@@ -17,7 +23,22 @@
         "Right",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/23530726.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23530726.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23530726.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/surgical-striker-s-p-e-c-t-r-a-14236",
+    "card_images": [
+        {
+            "id": 23530726,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23530726.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23530726.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23530726.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 81570454,
     "name": "Infernoble Knight - Roland",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "(Quick Effect): You can target 1 face-up monster you control; equip this card from your hand to that target as an Equip Spell that gives that card 500 ATK. During the End Phase, if this card is in the GY because it was sent there this turn: You can add 1 FIRE Warrior monster, except \"Infernoble Knight - Roland\", or 1 Equip Spell from your Deck to your hand. You can only use each effect of \"Infernoble Knight - Roland\" once per turn.",
+    "race": "Warrior",
     "atk": 500,
     "def": 500,
     "level": 1,
-    "race": "Warrior",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Noble Knight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/81570454.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81570454.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81570454.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/infernoble-knight-roland-10596",
+    "card_sets": [
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN050",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Toon Chaos",
+            "set_code": "TOCH-EN014",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "6.07"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 81570454,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81570454.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81570454.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81570454.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

@@ -1,18 +1,44 @@
 {
     "id": 61245403,
     "name": "Cattycorn",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is Special Summoned while you control no card in your Field Zone: You can add 1 Field Spell from your Deck to your hand. If this card is destroyed by battle or card effect and sent to the GY: You can target 1 Field Spell in your GY; add 1 card with its name from your Deck to your hand. You can only use each effect of \"Cattycorn\" once per turn.",
+    "race": "Plant",
     "atk": 1500,
     "def": 500,
     "level": 4,
-    "race": "Plant",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/61245403.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61245403.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61245403.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cattycorn-13608",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 61245403,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61245403.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61245403.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61245403.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

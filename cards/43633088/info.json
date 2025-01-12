@@ -2,17 +2,35 @@
     "id": 43633088,
     "name": "Emergency Apport",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 of your Level 5 or lower Psychic monsters that is banished or in your GY; Special Summon it.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/43633088.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43633088.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43633088.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/emergency-apport-14393",
+    "card_sets": [
+        {
+            "set_name": "Phantom Nightmare",
+            "set_code": "PHNI-EN083",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 43633088,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43633088.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43633088.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43633088.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

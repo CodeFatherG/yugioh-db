@@ -2,17 +2,42 @@
     "id": 7614732,
     "name": "Greater Polymerization",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using 3 or more monsters from your hand or field as Fusion Material, and if you do, it gains these effects.\r\n\u25cf This card cannot be destroyed by card effects.\r\n\u25cf If this card attacks a Defense Position monster, inflict piercing battle damage.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7614732.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7614732.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7614732.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/greater-polymerization-11968",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN050",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN087",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7614732,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7614732.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7614732.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7614732.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.39",
+            "tcgplayer_price": "0.45",
+            "ebay_price": "1.99",
+            "amazon_price": "7.60",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

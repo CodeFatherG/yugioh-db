@@ -2,17 +2,36 @@
     "id": 65236257,
     "name": "Tellarknight Genesis",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Destroy Spell/Trap Cards on the field equal to the number of other \"tellarknight\" cards you control.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Tellarknight",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/65236257.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65236257.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65236257.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tellarknight-genesis-5496",
+    "card_sets": [
+        {
+            "set_name": "Invasion: Vengeance",
+            "set_code": "INOV-EN062",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 65236257,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65236257.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65236257.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65236257.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

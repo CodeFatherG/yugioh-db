@@ -1,18 +1,59 @@
 {
     "id": 42493140,
     "name": "Centur-Ion Trudea",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "During your Main Phase: You can place this card you control and 1 \"Centur-Ion\" monster from your hand or Deck, except \"Centur-Ion Trudea\", in your Spell & Trap Zones as face-up Continuous Traps, also you cannot Special Summon \"Centur-Ion Trudea\" for the rest of this turn. During the Main Phase, if this card is a Continuous Trap: You can Special Summon this card, then you can increase its Level by 4. You can only use each effect of \"Centur-Ion Trudea\" once per turn.",
+    "race": "Pyro",
     "atk": 1000,
     "def": 2000,
     "level": 4,
-    "race": "Pyro",
     "attribute": "DARK",
-    "scale": null,
     "archetype": "Centur-Ion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/42493140.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42493140.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42493140.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/centur-ion-trudea-14124",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN144",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN017",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN017",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 42493140,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42493140.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42493140.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42493140.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "7.48",
+            "tcgplayer_price": "7.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "29.99"
+        }
+    ]
 }

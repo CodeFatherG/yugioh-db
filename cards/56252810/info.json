@@ -2,17 +2,36 @@
     "id": 56252810,
     "name": "Assault Revival",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "Remove from play 1 \"Assault Mode Activate\" from your Graveyard. Destroy all monsters you control and Special Summon 1 \"/Assault Mode\" monster from your Graveyard, ignoring its Summoning conditions. Its effect(s) is negated, and it cannot be Tributed. If it is removed from the field, remove it from play.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Assault Mode",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/56252810.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56252810.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56252810.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/assault-revival-4789",
+    "card_sets": [
+        {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN053",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56252810,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56252810.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56252810.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56252810.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.38",
+            "ebay_price": "2.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

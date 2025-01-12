@@ -1,18 +1,55 @@
 {
     "id": 66736715,
     "name": "Moissa Knight, the Comet General",
+    "typeline": [
+        "Warrior",
+        "Pendulum",
+        "Effect"
+    ],
     "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nIf you Pendulum Summon a monster(s): Place this card on either the top or bottom of the Deck.\n\n[ Monster Effect ] \nWhen you draw this card: You can reveal it; during your Main Phase this turn, you can conduct 1 Pendulum Summon of a monster(s) from your hand in addition to your Pendulum Summon. (You can only gain this effect once per turn.)",
+    "race": "Warrior",
+    "pend_desc": "If you Pendulum Summon a monster(s): Place this card on either the top or bottom of the Deck.",
+    "monster_desc": "When you draw this card: You can reveal it; during your Main Phase this turn, you can conduct 1 Pendulum Summon of a monster(s) from your hand in addition to your Pendulum Summon. (You can only gain this effect once per turn.)",
     "atk": 100,
     "def": 100,
     "level": 1,
-    "race": "Warrior",
     "attribute": "LIGHT",
     "scale": 11,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/66736715.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66736715.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66736715.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/moissa-knight-the-comet-general-13910",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN356",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN081",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 66736715,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66736715.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66736715.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66736715.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

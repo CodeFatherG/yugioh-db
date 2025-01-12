@@ -2,17 +2,43 @@
     "id": 99984170,
     "name": "RESCUE!",
     "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
     "desc": "(This card is always treated as a \"Rescue-ACE\" card.)\r\nTarget 1 \"Rescue-ACE\" monster in your GY, or if you control \"Rescue-ACE Hydrant\", you can target 1 monster in your opponent's GY instead; Special Summon it to your field. You can only activate 1 \"RESCUE!\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Quick-Play",
-    "attribute": null,
-    "scale": null,
     "archetype": "Rescue-ACE",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/99984170.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99984170.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99984170.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rescue-13387",
+    "card_sets": [
+        {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN009",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN078",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 99984170,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99984170.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99984170.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99984170.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "2.95",
+            "amazon_price": "4.62",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

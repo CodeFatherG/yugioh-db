@@ -2,17 +2,36 @@
     "id": 38379052,
     "name": "Argostars - Slayer Eteo",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "While this card is face-up in the Spell & Trap Zone, Warrior monsters you control cannot be destroyed by card effects. Once per turn, when your opponent activates a card or effect: You can Special Summon this card as an Effect Monster (Warrior/LIGHT/Level 4/ATK 800/DEF 800) with the following effect (this card is also still a Trap), then if you have a banished \"Argostars\" monster, you can return 1 card on the field to the hand.\r\n\u25cf Once per turn (Quick Effect): You can place this card face-up in your Spell & Trap Zone.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Argostars",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/38379052.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38379052.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38379052.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/argostars-slayer-eteo-14715",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN073",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 38379052,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38379052.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38379052.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38379052.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.40",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

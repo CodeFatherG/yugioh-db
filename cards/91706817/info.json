@@ -2,17 +2,42 @@
     "id": 91706817,
     "name": "Angel of Blue Tears",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "Target 1 face-up monster on the field; its controller's opponent takes damage equal to the number of cards in their hand x 200, then negate that target's effects until the end of this turn. If effect damage is inflicted (except during the Damage Step): You can banish this card from your GY; Set 1 Normal Trap directly from your hand or Deck. If Set from the hand, it can be activated this turn. You can only use 1 \"Angel of Blue Tears\" effect per turn, and only once that turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/91706817.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91706817.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91706817.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/angel-of-blue-tears-13066",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN269",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN029",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 91706817,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91706817.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91706817.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91706817.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

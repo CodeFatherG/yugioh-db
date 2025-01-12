@@ -1,18 +1,51 @@
 {
     "id": 7925734,
     "name": "Link Apple",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "You can reveal this card in your hand; banish (face-up) 1 random face-down card from your Extra Deck, then, Special Summon this card if the banished card was a Link Monster. Otherwise, discard this card, and if you do, draw 1 card. You can only use this effect of \"Link Apple\" once per turn.",
+    "race": "Cyberse",
     "atk": 0,
     "def": 0,
     "level": 1,
-    "race": "Cyberse",
     "attribute": "FIRE",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/7925734.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7925734.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7925734.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/link-apple-10324",
+    "card_sets": [
+        {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN180",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Dawn of Majesty",
+            "set_code": "DAMA-EN092",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 7925734,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7925734.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7925734.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7925734.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "1.00",
+            "amazon_price": "0.60",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

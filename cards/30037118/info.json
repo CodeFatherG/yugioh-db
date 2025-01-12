@@ -1,18 +1,44 @@
 {
     "id": 30037118,
     "name": "Devouring Sarcoughagus",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is destroyed by battle with an opponent's monster: You can take control of that opponent's monster, and if you do, it becomes a Zombie monster, also its ATK/DEF become 0. When your Zombie monster is destroyed by battle with an opponent's monster, while this card is in your GY: You can banish this card; take control of that opponent's monster, and if you do, it becomes a Zombie monster, also its ATK/DEF become 0. You can only use this effect of \"Devouring Sarcoughagus\" once per turn.",
+    "race": "Zombie",
     "atk": 0,
     "def": 0,
     "level": 4,
-    "race": "Zombie",
     "attribute": "DARK",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/30037118.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30037118.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30037118.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/devouring-sarcoughagus-13042",
+    "card_sets": [
+        {
+            "set_name": "Dimension Force",
+            "set_code": "DIFO-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 30037118,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30037118.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30037118.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30037118.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

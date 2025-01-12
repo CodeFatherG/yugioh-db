@@ -2,17 +2,49 @@
     "id": 96148285,
     "name": "Triggered Summon",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate only when a monster is Special Summoned to your opponent's side of the field. Each player can Special Summon 1 Level 4 or lower monster from their hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96148285.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96148285.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96148285.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/triggered-summon-8004",
+    "card_sets": [
+        {
+            "set_name": "Duelist Pack: Jesse Anderson",
+            "set_code": "DP07-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN046",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN046",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96148285,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96148285.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96148285.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96148285.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "1.44",
+            "amazon_price": "1.04",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

@@ -2,17 +2,36 @@
     "id": 21677871,
     "name": "Gold Pride - Start Your Engines!",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "If your opponent Normal or Special Summons a monster(s): Target 1 of those monsters; reveal 3 \"Gold Pride\" monsters from your Deck, your opponent randomly picks 1 for you to Special Summon, shuffle the rest into your Deck, then destroy the targeted monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Gold Pride",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/21677871.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21677871.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21677871.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gold-pride-start-your-engines-13733",
+    "card_sets": [
+        {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN092",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 21677871,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21677871.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21677871.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21677871.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

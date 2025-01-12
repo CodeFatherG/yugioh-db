@@ -2,17 +2,42 @@
     "id": 9852718,
     "name": "Break Away",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "During your opponent's Battle Phase: Send 1 Spell from your hand to the GY; end the Battle Phase, then face-up monsters currently on the field have their effects negated until the end of this turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/9852718.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9852718.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9852718.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/break-away-8398",
+    "card_sets": [
+        {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maximum Crisis",
+            "set_code": "MACR-EN065",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 9852718,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9852718.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9852718.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9852718.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "1.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

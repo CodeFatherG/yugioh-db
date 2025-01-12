@@ -2,17 +2,27 @@
     "id": 63181559,
     "name": "Trickstar Diffusion",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Activate 1 of these effects;\r\n\u25cf Fusion Summon 1 \"Trickstar\" Fusion Monster from your Extra Deck, by banishing its materials from your GY.\r\n\u25cf Immediately after this effect resolves, Link Summon 1 \"Trickstar\" Link Monster.\r\nYou can banish this card from your GY, then target 1 \"Trickstar\" monster you control; this turn, while that monster is face-up on your field, your opponent's monsters can only target that monster for attacks. You can only use each effect of \"Trickstar Diffusion\" once per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Fusion",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/63181559.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63181559.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63181559.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trickstar-diffusion-14505",
+    "card_images": [
+        {
+            "id": 63181559,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63181559.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63181559.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63181559.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.50",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

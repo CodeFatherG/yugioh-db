@@ -1,18 +1,44 @@
 {
     "id": 5068132,
     "name": "Dream Cicada",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If you control an Attack Position Insect monster, you can Special Summon this card (from your hand). You can only Special Summon \"Dream Cicada\" once per turn this way. If this card is Normal or Special Summoned: You can target 1 monster on the field; change its battle position. You can only use this effect of \"Dream Cicada\" once per turn.",
+    "race": "Insect",
     "atk": 300,
     "def": 1300,
     "level": 3,
-    "race": "Insect",
     "attribute": "WIND",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/5068132.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5068132.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5068132.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dream-cicada-13326",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN028",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 5068132,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5068132.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5068132.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5068132.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "2.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

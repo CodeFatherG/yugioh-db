@@ -1,18 +1,45 @@
 {
     "id": 39118197,
     "name": "Karakuri Bushi mdl 6318 \"Muzanichiha\"",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. If another \"Karakuri\" monster on the field is destroyed, this card gains 400 ATK.",
+    "race": "Machine",
     "atk": 1800,
     "def": 600,
     "level": 4,
-    "race": "Machine",
     "attribute": "EARTH",
-    "scale": null,
     "archetype": "Karakuri",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39118197.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39118197.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39118197.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/karakuri-bushi-mdl-6318-muzanichiha-3314",
+    "card_sets": [
+        {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN023",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39118197,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39118197.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39118197.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39118197.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

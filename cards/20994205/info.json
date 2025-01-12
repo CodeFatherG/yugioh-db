@@ -2,17 +2,36 @@
     "id": 20994205,
     "name": "Numbers Eveil",
     "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
     "desc": "If your opponent controls a monster(s) Special Summoned from the Extra Deck and you do not: Choose 4 \"Number\" Xyz Monsters from your Extra Deck with different Ranks, plus a 5th \"Number\" Xyz Monster whose \"Number\" value in its name equals the combined \"Number\" values of the 4 other monsters, Special Summon that 5th \"Number\" monster (this is treated as an Xyz Summon), and attach the 4 chosen monsters to it as material, but you cannot Special Summon monsters, except \"Number\" Xyz Monsters, while you control that face-up monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Number",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/20994205.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20994205.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20994205.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/numbers-eveil-12952",
+    "card_sets": [
+        {
+            "set_name": "Cyberstorm Access",
+            "set_code": "CYAC-EN000",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 20994205,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20994205.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20994205.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20994205.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.43",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "2.99"
+        }
+    ]
 }

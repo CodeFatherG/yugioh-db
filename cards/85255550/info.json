@@ -1,18 +1,44 @@
 {
     "id": 85255550,
     "name": "Swordsman from a Distant Land",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "If this card attacked an opponent's monster, after damage calculation: Destroy that monster during the 5th End Phase after the attack.",
+    "race": "Warrior",
     "atk": 250,
     "def": 250,
     "level": 1,
-    "race": "Warrior",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/85255550.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85255550.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85255550.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/swordsman-from-a-distant-land-7148",
+    "card_sets": [
+        {
+            "set_name": "Legacy of the Valiant",
+            "set_code": "LVAL-EN091",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 85255550,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85255550.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85255550.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85255550.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.38",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.09",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

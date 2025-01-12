@@ -1,18 +1,45 @@
 {
     "id": 11024707,
     "name": "Flipping Feline",
+    "typeline": [
+        "Beast",
+        "Flip",
+        "Effect"
+    ],
     "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
     "desc": "If this card is sent from the hand or Deck to the GY: You can Special Summon it in face-down Defense Position. After this card was flipped face-up, if a monster(s) is sent from the hand and/or Deck to your GY, while this card is in the Monster Zone: You can target 1 of them; Special Summon it in face-down Defense Position. You can only use each effect of \"Flipping Feline\" once per turn.",
+    "race": "Beast",
     "atk": 200,
     "def": 200,
     "level": 2,
-    "race": "Beast",
     "attribute": "EARTH",
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/11024707.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11024707.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11024707.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/flipping-feline-14652",
+    "card_sets": [
+        {
+            "set_name": "Rage of the Abyss",
+            "set_code": "ROTA-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 11024707,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11024707.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11024707.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11024707.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

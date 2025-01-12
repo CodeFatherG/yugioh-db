@@ -1,18 +1,46 @@
 {
     "id": 96576187,
     "name": "Weiss, Lightsworn Archfiend",
+    "typeline": [
+        "Fiend",
+        "Tuner",
+        "Effect"
+    ],
     "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
     "desc": "You can place 1 other \"Lightsworn\" card from your hand on top of the Deck; Special Summon this card from your hand, then send the top 2 cards of your Deck to the GY. If this card is sent from the Deck to the GY: You can target 1 \"Lightsworn\" monster in your GY, except \"Weiss, Lightsworn Archfiend\"; Special Summon it. You can only use each effect of \"Weiss, Lightsworn Archfiend\" once per turn.",
+    "race": "Fiend",
     "atk": 0,
     "def": 1700,
     "level": 4,
-    "race": "Fiend",
     "attribute": "LIGHT",
-    "scale": null,
     "archetype": "Archfiend",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96576187.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96576187.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96576187.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/weiss-lightsworn-archfiend-14303",
+    "card_sets": [
+        {
+            "set_name": "Legacy of Destruction",
+            "set_code": "LEDE-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 96576187,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96576187.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96576187.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96576187.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

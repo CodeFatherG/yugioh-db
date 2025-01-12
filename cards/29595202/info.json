@@ -2,17 +2,43 @@
     "id": 29595202,
     "name": "Runick Allure",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "Each time a Quick-Play Spell Card activates: Banish the top card of your opponent's Deck. You can only control 1 \"Runick Allure\".",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Runick",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29595202.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29595202.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29595202.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/runick-allure-13069",
+    "card_sets": [
+        {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN240",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN028",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29595202,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29595202.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29595202.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29595202.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "1.25",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

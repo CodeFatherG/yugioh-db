@@ -2,17 +2,43 @@
     "id": 39210885,
     "name": "Vaalmonica, the Agathokakological Voice",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "When this card is activated: You can add 1 \"Vaalmonica\" monster from your Deck to your hand. If a card in your Pendulum Zone has a 3rd Resonance Counter placed on it: You can target 1 monster your opponent controls; take control of it until the End Phase, but it cannot declare an attack. You can only use this effect of \"Vaalmonica, the Agathokakological Voice\" once per turn. You can only activate 1 \"Vaalmonica, the Agathokakological Voice\" per turn.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Vaalmonica",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/39210885.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39210885.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39210885.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vaalmonica-the-agathokakological-voice-14100",
+    "card_sets": [
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN035",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN035",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 39210885,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39210885.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39210885.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39210885.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "5.07",
+            "tcgplayer_price": "3.45",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "9.99"
+        }
+    ]
 }

@@ -1,18 +1,52 @@
 {
     "id": 89893715,
     "name": "Laval Miller",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
     "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
     "desc": "When this card is destroyed by battle and sent to the Graveyard: You can send 2 \"Laval\" monsters from your Deck to the Graveyard.",
+    "race": "Pyro",
     "atk": 300,
     "def": 400,
     "level": 3,
-    "race": "Pyro",
     "attribute": "FIRE",
-    "scale": null,
     "archetype": "Laval",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/89893715.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89893715.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89893715.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/laval-miller-7512",
+    "card_sets": [
+        {
+            "set_name": "Duel Terminal 5a",
+            "set_code": "DT05-EN022",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Hidden Arsenal 5: Steelswarm Invasion",
+            "set_code": "HA05-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 89893715,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89893715.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89893715.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89893715.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.49",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+        }
+    ]
 }

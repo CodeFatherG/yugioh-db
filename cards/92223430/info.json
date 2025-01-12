@@ -2,17 +2,36 @@
     "id": 92223430,
     "name": "Elborz, the Sacred Lands of Simorgh",
     "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
     "desc": "All WIND Winged Beast monsters on the field gain 300 ATK/DEF. You can only use each of the following effects of \"Elborz, the Sacred Lands of Simorgh\" once per turn.\r\n\u25cf You can reveal 1 Level 5 or higher WIND Winged Beast monster in your hand; this turn, you can Normal Summon Winged Beast monsters for 1 less Tribute (even if this card leaves the field).\r\n\u25cf If you control a WIND Winged Beast monster, you can: Immediately after this effect resolves, Normal Summon 1 Winged Beast monster.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Field",
-    "attribute": null,
-    "scale": null,
     "archetype": "Simorgh",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/92223430.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92223430.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92223430.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/elborz-the-sacred-lands-of-simorgh-10255",
+    "card_sets": [
+        {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN060",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 92223430,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92223430.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92223430.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92223430.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "2.40",
+            "amazon_price": "2.44",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

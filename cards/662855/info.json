@@ -1,15 +1,20 @@
 {
     "id": 662855,
     "name": "Amatsu-Okami of the Divine Peaks",
+    "typeline": [
+        "Dragon",
+        "Link",
+        "Effect"
+    ],
     "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
     "desc": "3+ Dragon Effect Monsters\r\nMust be Link Summoned. If this Extra Linked card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+    "race": "Dragon",
     "atk": 3000,
     "def": null,
     "level": null,
-    "race": "Dragon",
     "attribute": "LIGHT",
-    "scale": null,
-    "archetype": null,
     "linkval": 4,
     "linkmarkers": [
         "Top",
@@ -17,7 +22,38 @@
         "Right",
         "Bottom"
     ],
-    "image_url": "https://images.ygoprodeck.com/images/cards/662855.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/662855.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/662855.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/amatsu-okami-of-the-divine-peaks-10173",
+    "card_sets": [
+        {
+            "set_name": "Yu-Gi-Oh! World Championship 2018 prize cards",
+            "set_code": "2018-EN002",
+            "set_rarity": "Extra Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "262.63"
+        },
+        {
+            "set_name": "Yu-Gi-Oh! World Championship 2019 Japanese National Qualifiers prize cards",
+            "set_code": "2019-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "867.04"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 662855,
+            "image_url": "https://images.ygoprodeck.com/images/cards/662855.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/662855.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/662855.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "52.18",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "335.00",
+            "amazon_price": "4.24",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
 }

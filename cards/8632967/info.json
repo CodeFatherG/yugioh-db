@@ -2,17 +2,36 @@
     "id": 8632967,
     "name": "Evo-Karma",
     "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
     "desc": "When a monster(s) is Special Summoned by the effect of an \"Evoltile\" monster you control, your opponent cannot activate cards or effects.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
     "archetype": "Evoltile",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8632967.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8632967.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8632967.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/evo-karma-730",
+    "card_sets": [
+        {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8632967,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8632967.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8632967.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8632967.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }

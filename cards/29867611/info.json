@@ -2,17 +2,43 @@
     "id": 29867611,
     "name": "Amaze Attraction Majestic Merry-Go-Round",
     "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
     "desc": "Target 1 \"Amazement\" monster you control or 1 face-up monster your opponent controls; equip this card to it. You can apply the following effect, based on which player controls the equipped monster;\r\n\u25cf You: The equipped monster gains 500 ATK. If it would be destroyed by battle or card effect, you can send this card to the GY instead.\r\n\u25cf Your opponent: The equipped monster loses 500 ATK for each of your \"Attraction\" Traps equipped to a monster(s).",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Normal",
-    "attribute": null,
-    "scale": null,
     "archetype": "Attraction",
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/29867611.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29867611.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29867611.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/amaze-attraction-majestic-merry-go-round-11824",
+    "card_sets": [
+        {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 21",
+            "set_code": "OP21-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 29867611,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29867611.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29867611.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29867611.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "1.34",
+            "amazon_price": "99.88",
+            "coolstuffinc_price": "0.49"
+        }
+    ]
 }

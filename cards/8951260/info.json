@@ -2,17 +2,56 @@
     "id": 8951260,
     "name": "Respect Play",
     "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
     "desc": "During their respective turns, each player must show their opponent their hand.",
-    "atk": null,
-    "def": null,
-    "level": null,
     "race": "Continuous",
-    "attribute": null,
-    "scale": null,
-    "archetype": null,
-    "linkval": null,
-    "linkmarkers": null,
-    "image_url": "https://images.ygoprodeck.com/images/cards/8951260.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8951260.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8951260.jpg"
+    "ygoprodeck_url": "https://ygoprodeck.com/card/respect-play-758",
+    "card_sets": [
+        {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN085",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-E032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.25"
+        },
+        {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 8951260,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8951260.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8951260.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8951260.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.00",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+        }
+    ]
 }
