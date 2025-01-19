@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is Normal or Special Summoned: You can send 1 Fiend or Zombie Ritual Monster from the hand or Deck to the GY, then you can add 1 Ritual Spell from your Deck to your hand. If this card is banished: You can target 1 of your banished Level 4 or lower Fiend or Zombie monsters; Special Summon it. You can only use each effect of \"Dark Necromancer\" once per turn.",
+    "desc": "If this card is Normal or Special Summoned: You can send 1 Fiend or Zombie Ritual Monster from your hand or Deck to the GY, then you can add 1 Ritual Spell from your Deck to your hand. If this card is banished: You can target 1 of your banished Level 4 or lower Fiend or Zombie monsters; Special Summon it. You can only use each effect of \"Dark Necromancer\" once per turn.",
     "race": "Zombie",
     "atk": 1000,
     "def": 1400,
@@ -34,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "1.73",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

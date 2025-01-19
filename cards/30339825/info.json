@@ -4,9 +4,18 @@
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Target 1 monster in either GY; destroy 1 WATER monster its owner controls, and if you do, Special Summon the targeted monster to that player's field in Defense Position. If this card is in your GY, except the turn it was sent there: You can banish it, then target 1 WATER monster in either GY; destroy 1 monster its owner controls, and if you do, Special Summon the targeted monster to that player's field in Defense Position. You can only use 1 \"He Arkho - \"Hudor\"\" effect per turn, and only once that turn.",
+    "desc": "Target 1 monster in either GY; destroy 1 WATER monster on the target's owner's field, and if you do, Special Summon that target to that field in Defense Position. If this card is in your GY, except the turn it was sent there: You can banish this card, then target 1 WATER monster in either GY; destroy 1 monster on the targeted monster's owner's field, and if you do, Special Summon that targeted monster to that field in Defense Position. You can only use 1 \"Hydor, the Base of All Things\" effect per turn, and only once that turn.",
     "race": "Normal",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/he-arkho-hudor-14806",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hydor-the-base-of-all-things-14806",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 30339825,
@@ -17,8 +26,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.79",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

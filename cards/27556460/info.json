@@ -4,10 +4,19 @@
     "type": "Trap Card",
     "humanReadableCardType": "Counter Trap",
     "frameType": "trap",
-    "desc": "When your opponent would Normal or Special Summon a monster(s) while you control a Normal Monster or a Level 5 or higher \"Primite\" monster, except a Token: Negate the Summon, and if you do, banish that monster(s). During your Standby Phase, if you control a \"Primite\" monster: You can Set this card from your GY, but banish it when it leaves the field. You can only use each effect of \"Primite Resounding Reaction\" once per turn.",
+    "desc": "When your opponent would Normal or Special Summons a monster(s), while you control a Normal Monster or a Level 5 or higher \"Primite\" monster, except a Token: Negate the Summon, and if you do, banish that monster(s). During your Standby Phase, if you control a \"Primite\" monster: You can Set this card from your GY, but banish it when it leaves the field. You can only use each effect of \"Primite Scream\" once per turn.",
     "race": "Counter",
     "archetype": "Primite",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/primite-resounding-reaction-14782",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/primite-scream-14782",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 27556460,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "1.04",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

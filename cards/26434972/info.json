@@ -4,10 +4,19 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "This turn, your LIGHT Fiend monsters cannot be destroyed by battle, also any battle damage you take is halved. You can banish this card from your GY; Fusion Summon 1 \"Fiendsmith\" Fusion Monster from your Extra Deck, using monsters you control and/or monsters in your Spell & Trap Zone that are equipped to a \"Fiendsmith\" monster as material. You can only use this effect of \"Fiendsmith's Kyrie\" once per turn.",
+    "desc": "This turn, your LIGHT Fiend monsters cannot be destroyed by battle, also any battle damage you take becomes halved. You can banish this card from your GY; Fusion Summon 1 \"Fiendsmith\" Fusion Monster from your Extra Deck, using monsters you control, and/or monsters in your Spell & Trap Zones that are equipped to a \"Fiendsmith\" monster as an Equip Spell, as material. You can only use this effect of \"Fiendsmith Kyrie\" once per turn.",
     "race": "Normal",
     "archetype": "Fiendsmith",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/fiendsmith-s-kyrie-14732",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiendsmith-kyrie-14732",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN079",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 26434972,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "3.33",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

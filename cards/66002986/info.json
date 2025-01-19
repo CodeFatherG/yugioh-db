@@ -4,10 +4,19 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Target cards your opponent controls up to the number of different Monster Types among the WIND Synchro Monsters you control; destroy them. If your opponent Special Summons a monster(s) (except during the Damage Step): You can banish this card from your GY, then target 1 WIND Synchro Monster you control; banish it, then return it to the field. You can only use this effect of \"Speedroid Clear Wing Wander\" once per turn.",
+    "desc": "Target cards your opponent controls, up to the number of different Monster Types among the WIND Synchro Monsters you control; destroy them. If your opponent Special Summons a monster(s) (except during the Damage Step): You can banish this card from your GY, then target 1 WIND Synchro Monster you control; banish it, then return it to the field. You can only use each effect of \"Speedroid Clear Wing Wonder\" once per turn.",
     "race": "Normal",
     "archetype": "Clear Wing",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/speedroid-clear-wing-wander-14711",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/speedroid-clear-wing-wonder-14711",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 66002986,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.99",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -9,14 +9,23 @@
     "type": "Tuner Monster",
     "humanReadableCardType": "Tuner Effect Monster",
     "frameType": "effect",
-    "desc": "When your opponent activates a card or effect (Quick Effect): You can Special Summon 1 \"Crystron\" monster from your Deck, except \"Crystron Tristalos\", then, immediately after this effect resolves, Synchro Summon 1 Machine monster using that monster you control. You can banish this card from your GY; destroy 1 Synchro Monster you control, and if you do, Special Summon 2 \"Crystron\" monsters from your Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters. You can only each effect of \"Crystron Tristalos\" once per turn.",
+    "desc": "When your opponent activates a card or effect (Quick Effect): You can Special Summon 1 \"Crystron\" monster from your Deck, except \"Crystron Tristaros\", then immediately after this effect resolves, Synchro Summon 1 Machine Synchro Monster using monsters you control, including that monster. You can banish this card from your GY; destroy 1 Synchro Monster you control, and if you do, Special Summon 2 \"Crystron\" monsters from your Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters. You can only use each effect of \"Crystron Tristaros\" once per turn.",
     "race": "Machine",
     "atk": 800,
     "def": 2000,
     "level": 2,
     "attribute": "WATER",
     "archetype": "Crystron",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/crystron-tristalos-14722",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crystron-tristaros-14722",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN019",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 99471856,
@@ -27,8 +36,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.51",
+            "tcgplayer_price": "1.63",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -4,9 +4,18 @@
     "type": "Spell Card",
     "humanReadableCardType": "Field Spell",
     "frameType": "spell",
-    "desc": "When this card is activated: You can send 1 Level 5 or higher Zombie monster from your Deck to the GY. You can only use each of the following effects of \"Delta of Temptation\" once per turn. If a Zombie monster is on the field: You can Special Summon 1 \"Delta Token\" (Zombie/DARK/Level 5/ATK 0/DEF 0). If a monster(s) is added from the GY to the hand while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only activate 1 \"Delta of Temptation\" per turn.",
+    "desc": "When this card is activated: You can send 1 Level 5 or higher Zombie monster from your Deck to the GY. You can only use each of the following effects of \"Delta of Invitation\" once per turn. If a Zombie monster is on the field: You can Special Summon 1 \"Delta Token\" (Zombie/DARK/Level 5/ATK 0/DEF 0). If a monster(s) is added from the GY to the hand, while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only activate 1 \"Delta of Invitation\" per turn.",
     "race": "Field",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/delta-of-temptation-14799",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/delta-of-invitation-14799",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 3129133,
@@ -17,8 +26,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "1.17",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

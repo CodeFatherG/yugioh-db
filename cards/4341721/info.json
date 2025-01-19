@@ -6,7 +6,16 @@
     "frameType": "spell",
     "desc": "Add 1 \"Hallo, the Spirit of Tricks\" or \"Ween, the Spirit of Treats\" from your Deck or GY to your hand.",
     "race": "Normal",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/trick-or-treat-14795",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hallo-ween-14795",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 4341721,
@@ -17,8 +26,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "1.44",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

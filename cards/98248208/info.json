@@ -8,13 +8,22 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If you have 3 or more Level 10 monsters on your field, GY, and/or banishment: You can Special Summon this card from your hand. If this card is Special Summoned: You can send the top card of your Deck to the GY; this card gains 500 ATK, then, if the sent card was a monster, inflict 1000 damage to your opponent. Otherwise, you can send the top card of your Deck to the GY. You can only use each effect of \"Dark Sea Serpent - Dryagle\" once per turn.",
+    "desc": "If 3 or more Level 10 monsters are in your field, GY, and/or banishment, while this card is in your hand: You can Special Summon this card. If this card is Special Summoned: You can send the top card of your Deck to the GY; this card gains 500 ATK, then if the card sent to the GY was a monster, inflict 1000 damage to your opponent, otherwise, you can send the new top card of your Deck to the GY. You can only use each effect of \"Driangle, Dragon of the Dark Deep\" once per turn.",
     "race": "Sea Serpent",
     "atk": 2100,
     "def": 3100,
     "level": 10,
     "attribute": "WATER",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-sea-serpent-dryagle-14754",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/driangle-dragon-of-the-dark-deep-14754",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 98248208,
@@ -25,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.72",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

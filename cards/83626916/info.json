@@ -1,0 +1,37 @@
+{
+    "id": 83626916,
+    "name": "D.D. Post",
+    "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
+    "desc": "Monsters you control gain 300 ATK for each card type (Monster, Spell, or Trap) among your banished cards. Once per turn, during the Main Phase: You can banish 1 card from your hand or GY, then you can shuffle 1 of your banished cards into the Deck. If this card is banished: You can place it face-up on your field. You can only use this effect of \"D.D. Post\" once per turn.",
+    "race": "Continuous",
+    "archetype": "D.D.",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-post-14870",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN086",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83626916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83626916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83626916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83626916.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.84",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
