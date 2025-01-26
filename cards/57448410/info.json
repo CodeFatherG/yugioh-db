@@ -1,0 +1,40 @@
+{
+    "id": 57448410,
+    "name": "Prima Materiactor",
+    "typeline": [
+        "Dragon",
+        "Pendulum",
+        "Normal"
+    ],
+    "type": "Pendulum Normal Monster",
+    "humanReadableCardType": "Pendulum Normal Monster",
+    "frameType": "normal_pendulum",
+    "desc": "[ Pendulum Effect ] \nXyz Monsters you control gain 100 ATK for each material attached to monsters on the field. You can target 1 \"Materiactor\" Xyz Monster you control; attach this card to it as material, then draw 1 card. You can only use this effect of \"Prima Materiactor\" once per turn.\n\n[ Monster Effect ] \n''An alien lifeform that suddenly crash-landed from the heavens far above. Although many researchers have tried to determine why it came, the combination of its luminous glow and the miasma that surrounds it have long shrouded its existence in complete mystery. As a result, trying to grasp the whole picture has been extremely difficult. However, in recent years, thanks to the efforts of up-and-coming researchers, many new species have been discovered. The day will soon come when the full extent of their existence will be revealed.''",
+    "race": "Dragon",
+    "pend_desc": "Xyz Monsters you control gain 100 ATK for each material attached to monsters on the field. You can target 1 \"Materiactor\" Xyz Monster you control; attach this card to it as material, then draw 1 card. You can only use this effect of \"Prima Materiactor\" once per turn.",
+    "monster_desc": "''An alien lifeform that suddenly crash-landed from the heavens far above. Although many researchers have tried to determine why it came, the combination of its luminous glow and the miasma that surrounds it have long shrouded its existence in complete mystery. As a result, trying to grasp the whole picture has been extremely difficult. However, in recent years, thanks to the efforts of up-and-coming researchers, many new species have been discovered. The day will soon come when the full extent of their existence will be revealed.''",
+    "atk": 0,
+    "def": 0,
+    "level": 3,
+    "attribute": "LIGHT",
+    "archetype": "Materiactor",
+    "scale": 1,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/prima-materiactor-14898",
+    "card_images": [
+        {
+            "id": 57448410,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57448410.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57448410.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57448410.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

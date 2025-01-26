@@ -1,0 +1,46 @@
+{
+    "id": 55397172,
+    "name": "Futsu no Mitama no Mitsurugi",
+    "typeline": [
+        "Reptile",
+        "Ritual",
+        "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with \"Mitsurugi Ritual\". If your opponent Special Summons a monster(s) (except during the Damage Step): You can target 1 Reptile monster in your GY, except \"Futsu no Mitama no Mitsurugi\"; Special Summon it. You can only activate this effect of \"Futsu no Mitama no Mitsurugi\" once per Chain. If this card is Tributed: You can add 1 \"Mitsurugi\" card from your Deck to your hand, except \"Futsu no Mitama no Mitsurugi\", then you can Special Summon this card. You can only use this effect of \"Futsu no Mitama no Mitsurugi\" once per turn.",
+    "race": "Reptile",
+    "atk": 2000,
+    "def": 3400,
+    "level": 8,
+    "attribute": "DARK",
+    "archetype": "Mitsurugi",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/futsu-no-mitama-no-mitsurugi-14828",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN093",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 55397172,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55397172.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55397172.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55397172.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.40",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

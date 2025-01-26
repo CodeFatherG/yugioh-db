@@ -1,0 +1,36 @@
+{
+    "id": 59323650,
+    "name": "Regenesis Dragon Vayikra",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If a monster with 2500 original ATK or DEF is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Regenesis Dragon Vayikra\" once per turn this way. You can only use each of the following effects of \"Regenesis Dragon Vayikra\" once per turn. (Quick Effect): You can Tribute this card, then target 1 Spell/Trap your opponent controls; banish it. During your opponent's End Phase, if this card is in your GY because it was sent there this turn: You can add it to your hand.",
+    "race": "Dragon",
+    "atk": 2500,
+    "def": 2500,
+    "level": 8,
+    "attribute": "WIND",
+    "archetype": "Regenesis",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/regenesis-dragon-vayikra-14901",
+    "card_images": [
+        {
+            "id": 59323650,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59323650.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59323650.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59323650.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

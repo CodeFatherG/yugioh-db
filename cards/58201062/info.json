@@ -1,0 +1,36 @@
+{
+    "id": 58201062,
+    "name": "Spector, Dragon Ruler of Rays",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can discard this card and 1 LIGHT or Dragon monster; add 2 \"Dragon Ruler\" monsters from your Deck to your hand, except \"Spector, Dragon Ruler of Rays\". You can banish this card and 1 LIGHT or Dragon monster from your GY, then target 1 \"Chasmatis, Dragon Ruler of Auroras\" in your GY; Special Summon it. You can only use 1 \"Spector, Dragon Ruler of Rays\" effect per turn, and only once that turn.",
+    "race": "Dragon",
+    "atk": 600,
+    "def": 1000,
+    "level": 2,
+    "attribute": "LIGHT",
+    "archetype": "Dragon Ruler",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spector-dragon-ruler-of-rays-14907",
+    "card_images": [
+        {
+            "id": 58201062,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58201062.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58201062.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58201062.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

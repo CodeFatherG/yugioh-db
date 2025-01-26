@@ -1,0 +1,37 @@
+{
+    "id": 98888032,
+    "name": "Spore the Fairy Cell",
+    "typeline": [
+        "Plant",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Special Summoned: You can increase its Level by up to the number of monsters you control. If this card is in your GY and you control \"Ancient Fairy Dragon\" or a LIGHT Beast, Plant, or Fairy monster: You can Special Summon this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use this effect of \"Spore the Fairy Cell\" once per turn.",
+    "race": "Plant",
+    "atk": 400,
+    "def": 800,
+    "level": 1,
+    "attribute": "LIGHT",
+    "archetype": "Ancient Fairy Dragon",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spore-the-fairy-cell-14908",
+    "card_images": [
+        {
+            "id": 98888032,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98888032.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98888032.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98888032.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

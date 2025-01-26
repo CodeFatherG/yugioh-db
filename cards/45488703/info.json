@@ -1,0 +1,35 @@
+{
+    "id": 45488703,
+    "name": "NT8000 - SIRIUS",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "This linked card cannot be destroyed by battle. You can only use each of the following effects of \"NT8000 - SIRIUS\" once per turn. If a Link Monster's effect was activated this turn (Quick Effect): You can target 1 face-up card you control and 1 face-up card your opponent controls; destroy both. If this card is sent to the GY, except from the field, and you control a DARK Link Monster: You can Special Summon this card, but banish it when it leaves the field.",
+    "race": "Machine",
+    "atk": 2300,
+    "def": 2500,
+    "level": 8,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nt8000-sirius-14897",
+    "card_images": [
+        {
+            "id": 45488703,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45488703.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45488703.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45488703.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

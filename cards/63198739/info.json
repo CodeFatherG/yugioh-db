@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is Normal Summoned: You can Set 1 \"Primite\" Spell/Trap from your Deck. You can only use each of the following effects of \"Primite Dragon Ether Beryl\" once per turn. You can Tribute this card; send 1 Normal Monster from your Deck to the GY. During the Standby Phase, if you have a Normal Monster in your field or GY: You can add this card from the GY to your hand.",
+    "desc": "If this card is Normal Summoned: You can Set 1 \"Primite\" Spell/Trap from your Deck. You can only use each of the following effects of \"Primite Dragon Ether Beryl\" once per turn. You can Tribute this card; send 1 Normal Monster from your Deck to the GY. During your Standby Phase, if you have a Normal Monster in your field or GY: You can add this card from the GY to your hand.",
     "race": "Dragon",
     "atk": 1600,
     "def": 0,
@@ -42,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "32.45",
-            "tcgplayer_price": "42.83",
+            "cardmarket_price": "23.01",
+            "tcgplayer_price": "23.63",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

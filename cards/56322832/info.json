@@ -1,0 +1,40 @@
+{
+    "id": 56322832,
+    "name": "Tensei Ryu-Ge Anva",
+    "typeline": [
+        "Dragon",
+        "Pendulum",
+        "Effect"
+    ],
+    "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
+    "desc": "[ Pendulum Effect ] \nYou cannot Pendulum Summon, except \"Ryu-Ge\" monsters (this effect cannot be negated). When a card or effect activated by your opponent in response to your \"Ryu-Ge\" Spell Card or effect activation resolves, you can negate that effect, then destroy this card. You can only use this effect of \"Tensei Ryu-Ge Anva\" once per turn.\n\n[ Monster Effect ] \nYou can Tribute 1 \"Ryu-Ge\" monster from your hand or field, except \"Tensei Ryu-Ge Anva\"; Special Summon this card from your hand. If this card is Special Summoned: You can target 1 card on the field; destroy it. If this card is destroyed: You can place 1 \"Ryu-Ge\" Continuous Spell/Trap from your Deck, GY, or banishment face-up on your field. You can only use each monster effect of \"Tensei Ryu-Ge Anva\" once per turn.",
+    "race": "Dragon",
+    "pend_desc": "You cannot Pendulum Summon, except \"Ryu-Ge\" monsters (this effect cannot be negated). When a card or effect activated by your opponent in response to your \"Ryu-Ge\" Spell Card or effect activation resolves, you can negate that effect, then destroy this card. You can only use this effect of \"Tensei Ryu-Ge Anva\" once per turn.",
+    "monster_desc": "You can Tribute 1 \"Ryu-Ge\" monster from your hand or field, except \"Tensei Ryu-Ge Anva\"; Special Summon this card from your hand. If this card is Special Summoned: You can target 1 card on the field; destroy it. If this card is destroyed: You can place 1 \"Ryu-Ge\" Continuous Spell/Trap from your Deck, GY, or banishment face-up on your field. You can only use each monster effect of \"Tensei Ryu-Ge Anva\" once per turn.",
+    "atk": 3000,
+    "def": 2100,
+    "level": 10,
+    "attribute": "DARK",
+    "archetype": "Ryu-Ge",
+    "scale": 11,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tensei-ryu-ge-anva-14910",
+    "card_images": [
+        {
+            "id": 56322832,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56322832.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56322832.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56322832.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

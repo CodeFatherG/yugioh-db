@@ -1,0 +1,41 @@
+{
+    "id": 6636319,
+    "name": "Evil\u2605Twin Ki-sikil Deal",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "1 \"Ki-sikil\" monster\r\nYou can only Link Summon \"Evil\u2605Twin Ki-sikil Deal\" once per turn. You can send 1 \"Lil-la\" monster from your Deck or Extra Deck to the GY; apply this effect for the rest of this turn.\r\n\u25cf Each time your opponent activates a card or effect in response to the activation of your \"Ki-sikil\" or \"Lil-la\" monster's effect, draw 1 card immediately after it resolves.\r\nYou can only use this effect of \"Evil\u2605Twin Ki-sikil Deal\" once per turn.",
+    "race": "Fiend",
+    "atk": 100,
+    "def": null,
+    "level": null,
+    "attribute": "LIGHT",
+    "archetype": "Evil\u2605Twin",
+    "linkval": 1,
+    "linkmarkers": [
+        "Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/evil\u0442\u0448\u0435twin-ki-sikil-deal-14929",
+    "card_images": [
+        {
+            "id": 6636319,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6636319.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6636319.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6636319.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

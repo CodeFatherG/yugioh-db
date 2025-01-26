@@ -1,0 +1,37 @@
+{
+    "id": 79415624,
+    "name": "Snake-Eyes Execute Dragon",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nDuring the Main Phase (Quick Effect): You can target 1 face-up monster on the field or in either GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell, also this card cannot use this effect next turn. During the Battle Phase (Quick Effect): You can target 2 cards on the field (1 monster and 1 Continuous Spell); destroy them. You can only use each effect of \"Snake-Eyes Execute Dragon\" once per turn.",
+    "race": "Dragon",
+    "atk": 3000,
+    "def": 2500,
+    "level": 12,
+    "attribute": "FIRE",
+    "archetype": "-Eyes Dragon",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/snake-eyes-execute-dragon-14949",
+    "card_images": [
+        {
+            "id": 79415624,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79415624.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79415624.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79415624.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

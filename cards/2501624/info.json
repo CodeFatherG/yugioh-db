@@ -1,0 +1,36 @@
+{
+    "id": 2501624,
+    "name": "Dark Magician Girl the Magician's Apprentice",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can Special Summon this card (from your hand) by discarding 1 card, and if you do, its name becomes \"Dark Magician Girl\". You can only Special Summon \"Dark Magician Girl the Magician's Apprentice\" once per turn this way. If this card is Normal or Special Summoned: You can add 1 \"Shining Sarcophagus\" from your Deck to your hand. You can only use this effect of \"Dark Magician Girl the Magician's Apprentice\" once per turn. Gains 300 ATK for each monster in the GYs that mentions \"Shining Sarcophagus\".",
+    "race": "Spellcaster",
+    "atk": 2000,
+    "def": 1700,
+    "level": 6,
+    "attribute": "DARK",
+    "archetype": "Dark Magician",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-magician-girl-the-magician-s-apprentice-14883",
+    "card_images": [
+        {
+            "id": 2501624,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2501624.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2501624.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2501624.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

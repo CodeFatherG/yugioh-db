@@ -1,0 +1,38 @@
+{
+    "id": 5800323,
+    "name": "Mystic Mystery of the White Forest",
+    "typeline": [
+        "Illusion",
+        "Synchro",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Synchro Tuner Monster",
+    "humanReadableCardType": "Synchro Tuner Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Special Summoned: You can target 2 \"White Forest\" monsters in your GY; place them face-up in their owners' Spell & Trap Zones as Continuous Spells. During your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only use each effect of \"Mystic Mystery of the White Forest\" once per turn.",
+    "race": "Illusion",
+    "atk": 700,
+    "def": 2000,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "White Forest",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mystic-mystery-of-the-white-forest-14938",
+    "card_images": [
+        {
+            "id": 5800323,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5800323.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5800323.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5800323.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

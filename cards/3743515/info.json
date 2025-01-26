@@ -1,0 +1,37 @@
+{
+    "id": 3743515,
+    "name": "Ferociously Angered Sabersaurus",
+    "typeline": [
+        "Dinosaur",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2 Level 4 monsters\r\nYou can detach 1 material from this card; destroy 1 Dinosaur monster in your hand or face-up field, then you can change the battle position of 1 monster on the field. At the start of the Damage Step, if your other Dinosaur monster battles: You can destroy this card, and if you do, that Dinosaur monster gains 2000 ATK until the end of the Battle Phase. You can only use each effect of \"Ferociously Angered Sabersaurus\" once per turn.",
+    "race": "Dinosaur",
+    "atk": 2000,
+    "def": 600,
+    "level": 4,
+    "attribute": "FIRE",
+    "archetype": "Saber",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ferociously-angered-sabersaurus-14930",
+    "card_images": [
+        {
+            "id": 3743515,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3743515.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3743515.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3743515.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 42021064,
+    "name": "Dogurado the Moving Stone Relic",
+    "typeline": [
+        "Rock",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2+ monsters, including a Rock monster\r\nIf this card is Special Summoned: You can target 1 Rock monster in your GY; this card gains ATK equal to that monster's. During your opponent's Main Phase (Quick Effect): You can target 1 other monster on the field with ATK less than or equal to this card; this card loses ATK equal to that monster's, and if it does, destroy that monster. You can only use each effect of \"Dogurado the Moving Stone Relic\" once per turn.",
+    "race": "Rock",
+    "atk": 1000,
+    "def": null,
+    "level": null,
+    "attribute": "EARTH",
+    "linkval": 3,
+    "linkmarkers": [
+        "Top",
+        "Bottom-Left",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dogurado-the-moving-stone-relic-14923",
+    "card_images": [
+        {
+            "id": 42021064,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42021064.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42021064.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42021064.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

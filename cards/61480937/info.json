@@ -1,0 +1,36 @@
+{
+    "id": 61480937,
+    "name": "Regulus the Fairy Beast",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 Spell/Trap that mentions \"Ancient Fairy Dragon\" from your Deck to your hand. During your Main Phase: You can Special Summon 1 Level 4 or lower LIGHT Beast, Plant, or Fairy monster from your hand in Defense Position. You can banish this card from your GY, then target 1 Field Spell in your GY; place it on the bottom of the Deck, then draw 1 card. You can only use each effect of \"Regulus the Fairy Beast\" once per turn.",
+    "race": "Beast",
+    "atk": 1700,
+    "def": 1000,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "Ancient Fairy Dragon",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/regulus-the-fairy-beast-14905",
+    "card_images": [
+        {
+            "id": 61480937,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61480937.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61480937.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61480937.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 30118811,
+    "name": "Backup @Ignister",
+    "typeline": [
+        "Cyberse",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "If you control a Cyberse monster Special Summoned from the Extra Deck: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 DARK Cyberse monster from your Deck to your hand, except \"Backup @Ignister\", then discard 1 card. You can only use each effect of \"Backup @Ignister\" once per turn.",
+    "race": "Cyberse",
+    "atk": 1200,
+    "def": 800,
+    "level": 3,
+    "attribute": "DARK",
+    "archetype": "@Ignister",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/backup-ignister-14878",
+    "card_images": [
+        {
+            "id": 30118811,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30118811.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30118811.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30118811.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
