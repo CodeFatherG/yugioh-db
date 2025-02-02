@@ -17,6 +17,29 @@
     "attribute": "LIGHT",
     "archetype": "Blue-Eyes",
     "ygoprodeck_url": "https://ygoprodeck.com/card/blue-eyes-ultimate-spirit-dragon-14644",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN043",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN043",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 89604813,

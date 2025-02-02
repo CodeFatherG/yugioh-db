@@ -16,6 +16,29 @@
     "level": 1,
     "attribute": "LIGHT",
     "ygoprodeck_url": "https://ygoprodeck.com/card/maiden-of-white-14646",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN041",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN041",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 17947697,

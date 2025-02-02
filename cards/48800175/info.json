@@ -51,6 +51,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN022",
+            "set_rarity": "2",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Legend of the Crystal Beasts",
             "set_code": "SDCB-EN029",
             "set_rarity": "Common",
@@ -68,8 +75,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.17",
-            "tcgplayer_price": "0.16",
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.14",
             "ebay_price": "0.99",
             "amazon_price": "6.47",
             "coolstuffinc_price": "0.49"

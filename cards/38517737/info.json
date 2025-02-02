@@ -88,6 +88,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
             "set_code": "MVP1-EN046",
             "set_rarity": "Ultra Rare",
@@ -120,7 +127,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.37",
+            "tcgplayer_price": "0.31",
             "ebay_price": "14.99",
             "amazon_price": "7.33",
             "coolstuffinc_price": "9.99"

@@ -4,10 +4,33 @@
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Discard 1 card; add 1 Level 1 LIGHT Tuner and 1 Spell/Trap that mentions \"Blue-Eyes White Dragon\" from your Deck to your hand, except \"Wishes for Eyes of Blue\". You can banish this card from your GY, then target 1 \"Blue-Eyes White Dragon\" you control; equip 1 \"Blue-Eyes\" monster from your Extra Deck to it as an Equip Spell that gives it 400 ATK. You can only use each effect of \"Wishes for Eyes of Blue\" once per turn.",
+    "desc": "Discard 1 card; add 1 Level 1 LIGHT Tuner, and 1 Spell/Trap that mentions \"Blue-Eyes White Dragon\", from your Deck to your hand, except \"Wishes for Eyes of Blue\". You can banish this card from your GY, then target 1 \"Blue-Eyes White Dragon\" you control; equip 1 \"Blue-Eyes\" monster from your Extra Deck to it as an Equip Spell that gives it 400 ATK. You can only use each effect of \"Wishes for Eyes of Blue\" once per turn.",
     "race": "Normal",
     "archetype": "with Eyes of Blue",
     "ygoprodeck_url": "https://ygoprodeck.com/card/wishes-for-eyes-of-blue-14647",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN042",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN042",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 80326401,

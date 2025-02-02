@@ -130,6 +130,13 @@
             "set_price": "14.53"
         },
         {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Ultimate Edition",
             "set_code": "JMP-EN005",
             "set_rarity": "Ultra Rare",
@@ -159,8 +166,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.64",
-            "tcgplayer_price": "0.33",
+            "cardmarket_price": "0.62",
+            "tcgplayer_price": "0.37",
             "ebay_price": "3.99",
             "amazon_price": "1.00",
             "coolstuffinc_price": "1.99"

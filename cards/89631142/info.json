@@ -382,6 +382,27 @@
             "set_price": "0"
         },
         {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Seto Kaiba",
             "set_code": "SDKS-EN009",
             "set_rarity": "Common",
@@ -532,7 +553,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.02",
+            "cardmarket_price": "0.18",
             "tcgplayer_price": "0.29",
             "ebay_price": "5.95",
             "amazon_price": "3.90",
