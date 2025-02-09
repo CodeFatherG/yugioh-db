@@ -1,12 +1,21 @@
 {
     "id": 43219114,
-    "name": "Majesty with Dragons of White",
+    "name": "Majesty of the White Dragons",
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Show up to 3 \"Blue-Eyes White Dragon(s)\" from your hand, face-up field, and/or GY, then destroy that many cards your opponent controls. You can banish this card from your GY; Ritual Summon 1 Ritual Monster from your hand, by Tributing \"Blue-Eyes White Dragon(s)\" from your hand or field whose total Levels exactly equal the Level of that Ritual Monster. You can only use each effect of \"Majesty with Dragons of White\" once per turn.",
+    "desc": "Show up to 3 of the \"Blue-Eyes White Dragon\" in your hand, face-up Monster Zone, and/or GY, then destroy an equal number of cards your opponent controls. You can banish this card from your GY; Ritual Summon 1 Ritual Monster from your hand, by Tributing \"Blue-Eyes White Dragon(s)\" from your hand or field whose total Levels equal its Level. You can only use each effect of \"Majesty of the White Dragons\" once per turn.",
     "race": "Normal",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/majesty-with-dragons-of-white-14671",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/majesty-of-the-white-dragons-14671",
+    "card_sets": [
+        {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN027",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 43219114,
@@ -17,8 +26,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "3.67",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
