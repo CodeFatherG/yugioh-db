@@ -4,10 +4,11 @@
     "typeline": [
         "Machine",
         "Ritual",
+        "Tuner",
         "Effect"
     ],
     "type": "Ritual Effect Monster",
-    "humanReadableCardType": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Tuner Effect Monster",
     "frameType": "ritual",
     "desc": "You can Ritual Summon this card with \"Magikey Maftea\". If this card is Ritual Summoned: You can add 1 \"Magikey\" card from your Deck to your hand. You can only use this effect of \"Magikey Mechmusket - Batosbuster\" once per turn. Once per turn, when an attack is declared involving this card and an opponent's monster that has the same Attribute as a Normal Monster or \"Magikey\" monster in your GY: You can place any number of cards from your hand on the bottom of the Deck, and if you do, negate the effects of that opponent's monster until the end of this turn, then draw the same number of cards placed under the Deck.",
     "race": "Machine",
@@ -43,8 +44,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.04",
-            "tcgplayer_price": "0.10",
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.09",
             "ebay_price": "0.99",
             "amazon_price": "44.99",
             "coolstuffinc_price": "0.25"

@@ -54,6 +54,20 @@
             "set_price": "5.67"
         },
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN229",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN229",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Shaddoll Showdown",
             "set_code": "SDSH-EN046",
             "set_rarity": "Ultra Rare",
@@ -78,7 +92,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.16",
-            "tcgplayer_price": "0.18",
+            "tcgplayer_price": "0.19",
             "ebay_price": "0.99",
             "amazon_price": "0.70",
             "coolstuffinc_price": "0.79"
