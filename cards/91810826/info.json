@@ -24,6 +24,13 @@
             "set_rarity": "Common",
             "set_rarity_code": "(C)",
             "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 27",
+            "set_code": "OP27-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
         }
     ],
     "banlist_info": {
@@ -40,8 +47,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.18",
-            "tcgplayer_price": "0.17",
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.15",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

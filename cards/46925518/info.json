@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/ghostrick-doll-3999",
     "card_sets": [
         {
+            "set_name": "OTS Tournament Pack 27",
+            "set_code": "OP27-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Primal Origin",
             "set_code": "PRIO-EN022",
             "set_rarity": "Common",
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.27",
-            "tcgplayer_price": "0.40",
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.41",
             "ebay_price": "4.00",
             "amazon_price": "1.48",
             "coolstuffinc_price": "1.99"

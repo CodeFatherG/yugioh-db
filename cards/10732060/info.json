@@ -18,6 +18,15 @@
     "attribute": "WIND",
     "archetype": "roid",
     "ygoprodeck_url": "https://ygoprodeck.com/card/hi-speedroid-glider-2-14709",
+    "card_sets": [
+        {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 10732060,
@@ -28,8 +37,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.11",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.14",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

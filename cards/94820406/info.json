@@ -44,6 +44,13 @@
             "set_price": "0.92"
         },
         {
+            "set_name": "OTS Tournament Pack 27",
+            "set_code": "OP27-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Speed Duel GX: Duelists of Shadows",
             "set_code": "SGX3-ENA11",
             "set_rarity": "Common",
@@ -82,7 +89,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.11",
+            "cardmarket_price": "0.14",
             "tcgplayer_price": "0.24",
             "ebay_price": "4.89",
             "amazon_price": "1.79",
