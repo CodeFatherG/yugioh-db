@@ -9,6 +9,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/grinning-grave-virus-9284",
     "card_sets": [
         {
+            "set_name": "OTS Tournament Pack 27",
+            "set_code": "OP27-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Lair of Darkness",
             "set_code": "SR06-EN030",
             "set_rarity": "Super Rare",
@@ -26,7 +33,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.53",
+            "cardmarket_price": "0.49",
             "tcgplayer_price": "0.59",
             "ebay_price": "3.24",
             "amazon_price": "1.75",

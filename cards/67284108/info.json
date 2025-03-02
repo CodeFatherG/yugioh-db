@@ -8,6 +8,15 @@
     "race": "Zombie",
     "archetype": "Zombie counterpart",
     "ygoprodeck_url": "https://ygoprodeck.com/card/black-sheep-token-5657",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 27",
+            "set_code": "OP27-EN027",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 67284108,
@@ -19,7 +28,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "tcgplayer_price": "1.08",
             "ebay_price": "0.00",
             "amazon_price": "1.00",
             "coolstuffinc_price": "0.00"

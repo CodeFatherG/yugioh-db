@@ -9,6 +9,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/powersink-stone-5651",
     "card_sets": [
         {
+            "set_name": "OTS Tournament Pack 27",
+            "set_code": "OP27-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Starstrike Blast",
             "set_code": "STBL-EN078",
             "set_rarity": "Common",
@@ -33,7 +40,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.26",
+            "cardmarket_price": "0.21",
             "tcgplayer_price": "0.50",
             "ebay_price": "5.00",
             "amazon_price": "0.98",

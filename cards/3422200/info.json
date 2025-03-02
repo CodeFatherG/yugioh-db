@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/crystron-sulfefnir-304",
     "card_sets": [
         {
+            "set_name": "OTS Tournament Pack 27",
+            "set_code": "OP27-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Raging Tempest",
             "set_code": "RATE-EN021",
             "set_rarity": "Super Rare",
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "2.78",
-            "tcgplayer_price": "5.76",
+            "cardmarket_price": "0.40",
+            "tcgplayer_price": "0.78",
             "ebay_price": "0.99",
             "amazon_price": "0.50",
             "coolstuffinc_price": "0.79"

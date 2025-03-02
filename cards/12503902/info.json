@@ -44,6 +44,13 @@
             "set_price": "1.23"
         },
         {
+            "set_name": "OTS Tournament Pack 27",
+            "set_code": "OP27-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rise of Destiny",
             "set_code": "RDS-EN052",
             "set_rarity": "Rare",
@@ -83,7 +90,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.09",
-            "tcgplayer_price": "0.18",
+            "tcgplayer_price": "0.20",
             "ebay_price": "1.59",
             "amazon_price": "0.73",
             "coolstuffinc_price": "0.39"
