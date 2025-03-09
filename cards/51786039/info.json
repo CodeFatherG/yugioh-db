@@ -29,6 +29,13 @@
             "set_rarity": "Rare",
             "set_rarity_code": "(R)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN078",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -42,7 +49,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.15",
-            "tcgplayer_price": "0.40",
+            "tcgplayer_price": "0.42",
             "ebay_price": "1.88",
             "amazon_price": "4.89",
             "coolstuffinc_price": "1.99"

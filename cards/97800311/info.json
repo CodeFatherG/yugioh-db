@@ -1,0 +1,46 @@
+{
+    "id": 97800311,
+    "name": "Divine Serpent Apophis",
+    "typeline": [
+        "Reptile",
+        "Fusion",
+        "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "2 monsters that mention \"Temple of the Kings\"\r\nMust be either Fusion Summoned, or Special Summoned by Tributing 2 \"Apophis\" monsters. Once per turn: You can target up to 3 \"Apophis\" Traps with different names in your GY; Set them. Once per turn, if a Trap Card is activated (except during the Damage Step): You can target 1 card your opponent controls; destroy it.",
+    "race": "Reptile",
+    "atk": 2800,
+    "def": 2600,
+    "level": 6,
+    "attribute": "EARTH",
+    "archetype": "Apophis",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/divine-serpent-apophis-14965",
+    "card_sets": [
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 97800311,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97800311.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97800311.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97800311.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.71",
+            "tcgplayer_price": "1.99",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

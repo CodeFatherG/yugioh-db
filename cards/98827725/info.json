@@ -17,6 +17,13 @@
             "set_price": "4.25"
         },
         {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN107",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 14",
             "set_code": "OP14-EN025",
             "set_rarity": "Common",
@@ -55,8 +62,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.12",
-            "tcgplayer_price": "0.22",
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.21",
             "ebay_price": "3.25",
             "amazon_price": "9.49",
             "coolstuffinc_price": "0.25"

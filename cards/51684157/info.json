@@ -17,6 +17,13 @@
             "set_price": "1.25"
         },
         {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN102",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rise of the Duelist",
             "set_code": "ROTD-EN066",
             "set_rarity": "Common",
@@ -34,8 +41,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.32",
-            "tcgplayer_price": "0.18",
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.17",
             "ebay_price": "1.50",
             "amazon_price": "0.25",
             "coolstuffinc_price": "0.49"

@@ -25,6 +25,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN072",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Realm of the Sea Emperor Structure Deck",
             "set_code": "SDRE-EN003",
             "set_rarity": "Common",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.69",
-            "tcgplayer_price": "3.26",
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "3.25",
             "ebay_price": "1.20",
             "amazon_price": "2.16",
             "coolstuffinc_price": "2.99"

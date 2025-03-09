@@ -20,6 +20,15 @@
     "archetype": "Performage",
     "scale": 6,
     "ygoprodeck_url": "https://ygoprodeck.com/card/performage-fire-dancer-14542",
+    "card_sets": [
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN049",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 7934362,
@@ -30,8 +39,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.56",
+            "tcgplayer_price": "1.99",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

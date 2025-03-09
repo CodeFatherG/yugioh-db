@@ -18,6 +18,20 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/mulcharmy-purulia-14437",
     "card_sets": [
         {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN083",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN083",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN027",
             "set_rarity": "Quarter Century Secret Rare",
@@ -42,8 +56,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "32.54",
-            "tcgplayer_price": "43.02",
+            "cardmarket_price": "22.93",
+            "tcgplayer_price": "40.38",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

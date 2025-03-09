@@ -32,6 +32,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN075",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Lost Art Promotion (series)",
             "set_code": "LART-EN047",
             "set_rarity": "Common",
@@ -56,8 +63,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.51",
-            "tcgplayer_price": "1.27",
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "1.24",
             "ebay_price": "3.50",
             "amazon_price": "0.60",
             "coolstuffinc_price": "1.49"

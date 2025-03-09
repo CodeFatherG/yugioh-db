@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/crystron-quariongandrax-1153",
     "card_sets": [
         {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN087",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Raging Tempest",
             "set_code": "RATE-EN046",
             "set_rarity": "Ultra Rare",
@@ -36,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "13.63",
-            "tcgplayer_price": "16.58",
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "2.41",
             "ebay_price": "3.03",
             "amazon_price": "5.94",
             "coolstuffinc_price": "6.99"

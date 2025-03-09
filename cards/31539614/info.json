@@ -16,6 +16,15 @@
     "level": 3,
     "attribute": "LIGHT",
     "ygoprodeck_url": "https://ygoprodeck.com/card/antidote-nurse-14566",
+    "card_sets": [
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN048",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 31539614,
@@ -26,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.99",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

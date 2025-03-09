@@ -7,6 +7,15 @@
     "desc": "You can target 1 WATER monster with 1000 or less ATK in your GY; Special Summon it, but destroy it during the End Phase. You can only use this effect of \"Ocean of Regeneration\" once per turn.",
     "race": "Continuous",
     "ygoprodeck_url": "https://ygoprodeck.com/card/ocean-of-regeneration-14563",
+    "card_sets": [
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN036",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 44728989,
@@ -17,8 +26,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.40",
+            "tcgplayer_price": "1.99",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

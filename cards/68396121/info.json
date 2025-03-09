@@ -33,6 +33,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN092",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Primal Origin",
             "set_code": "PRIO-EN041",
             "set_rarity": "Super Rare",
@@ -57,7 +64,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.15",
+            "cardmarket_price": "0.11",
             "tcgplayer_price": "0.51",
             "ebay_price": "25.99",
             "amazon_price": "7.75",

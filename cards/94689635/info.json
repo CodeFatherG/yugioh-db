@@ -53,6 +53,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN061",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Wave of Light",
             "set_code": "SR05-EN021",
             "set_rarity": "Common",
@@ -70,7 +77,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.28",
+            "cardmarket_price": "0.08",
             "tcgplayer_price": "0.50",
             "ebay_price": "1.49",
             "amazon_price": "0.59",

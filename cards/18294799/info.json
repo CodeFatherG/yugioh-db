@@ -15,6 +15,15 @@
     "level": 8,
     "attribute": "DARK",
     "ygoprodeck_url": "https://ygoprodeck.com/card/schwarzschild-infinity-dragon-14498",
+    "card_sets": [
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN013",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 18294799,
@@ -26,7 +35,7 @@
     "card_prices": [
         {
             "cardmarket_price": "3.95",
-            "tcgplayer_price": "0.00",
+            "tcgplayer_price": "49.98",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

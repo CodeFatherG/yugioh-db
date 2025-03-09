@@ -7,6 +7,15 @@
     "desc": "Equip only to a Level 5 or higher Fiend or Zombie monster. When an attack is declared involving the equipped monster and an opponent's monster: You can make that opponent's monster lose ATK equal to the equipped monster's. You can activate 1 of these effects;\r\n\u25cf Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field.\r\n\u25cf Special Summon 1 \"Doppelganger Token\" (Level 5/ATK ?/DEF 0) with the same Type, Attribute, and ATK as the equipped monster.\r\nYou can only use this effect of \"Spirit Illusion\" once per turn.",
     "race": "Equip",
     "ygoprodeck_url": "https://ygoprodeck.com/card/spirit-illusion-14556",
+    "card_sets": [
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN034",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 71939275,
@@ -17,8 +26,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "1.49",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

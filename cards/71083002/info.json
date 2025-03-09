@@ -8,6 +8,15 @@
     "race": "Quick-Play",
     "archetype": "Signature move",
     "ygoprodeck_url": "https://ygoprodeck.com/card/tachyon-spiral-of-destruction-14501",
+    "card_sets": [
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN015",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 71083002,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.62",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.99",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

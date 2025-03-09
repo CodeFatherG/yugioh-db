@@ -7,6 +7,15 @@
     "desc": "Equip only to a Dragon Synchro Monster you control. A \"Red Dragon Archfiend\" equipped with this card is unaffected by your opponent's activated card effects. Once per turn: You can change the ATK of all monsters your opponent currently controls to the equipped monster's. Once per turn, when an attack is declared involving the equipped monster: You can target 1 monster in your opponent's GY; banish it, and if you do, the equipped monster gains ATK equal to the banished monster's, until the end of this turn.",
     "race": "Equip",
     "ygoprodeck_url": "https://ygoprodeck.com/card/soul-fist-14568",
+    "card_sets": [
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN057",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 69533836,
@@ -17,8 +26,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.64",
+            "tcgplayer_price": "1.99",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

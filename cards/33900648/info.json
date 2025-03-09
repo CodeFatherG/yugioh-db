@@ -16,6 +16,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN098",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Stardust Overdrive",
             "set_code": "SOVR-EN099",
             "set_rarity": "Secret Rare",
@@ -33,7 +40,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.73",
+            "cardmarket_price": "0.22",
             "tcgplayer_price": "1.10",
             "ebay_price": "5.95",
             "amazon_price": "1.14",

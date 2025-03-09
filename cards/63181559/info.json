@@ -8,6 +8,15 @@
     "race": "Normal",
     "archetype": "Fusion",
     "ygoprodeck_url": "https://ygoprodeck.com/card/trickstar-diffusion-14505",
+    "card_sets": [
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN030",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 63181559,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.46",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "1.90",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

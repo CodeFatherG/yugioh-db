@@ -25,6 +25,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN076",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Soul Fusion",
             "set_code": "SOFU-EN020",
             "set_rarity": "Ultra Rare",
@@ -42,7 +49,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "2.17",
+            "cardmarket_price": "0.12",
             "tcgplayer_price": "3.04",
             "ebay_price": "3.95",
             "amazon_price": "1.70",

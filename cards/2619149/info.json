@@ -25,6 +25,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN069",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 12 (POR)",
             "set_code": "OP12-PT033",
             "set_rarity": "Common",
@@ -49,8 +56,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.01",
-            "tcgplayer_price": "3.72",
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.99",
             "ebay_price": "1.79",
             "amazon_price": "0.99",
             "coolstuffinc_price": "2.99"

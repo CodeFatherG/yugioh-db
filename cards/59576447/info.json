@@ -1,0 +1,37 @@
+{
+    "id": 59576447,
+    "name": "Verdict of Anubis",
+    "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
+    "desc": "When your opponent activates a Spell/Trap Card, while you control 3 or more other Spells/Traps: Negate the activation, and if you do, destroy that card, then if you control \"Temple of the Kings\", you can destroy as many monsters your opponent controls as possible, then inflict damage to your opponent equal to half the total original ATK of those destroyed monsters. You can only activate 1 \"Verdict of Anubis\" per turn.",
+    "race": "Counter",
+    "archetype": "Temple of the Kings",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/verdict-of-anubis-14961",
+    "card_sets": [
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN009",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 59576447,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59576447.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59576447.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59576447.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "8.94",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

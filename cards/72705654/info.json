@@ -16,6 +16,15 @@
     "attribute": "LIGHT",
     "archetype": "Tachyon",
     "ygoprodeck_url": "https://ygoprodeck.com/card/tachyon-cloudragon-14500",
+    "card_sets": [
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN012",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 72705654,
@@ -26,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.73",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.99",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

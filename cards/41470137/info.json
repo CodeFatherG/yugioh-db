@@ -46,6 +46,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN066",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Turbo Pack: Booster One",
             "set_code": "TU01-EN016",
             "set_rarity": "Common",
@@ -63,8 +70,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.43",
-            "tcgplayer_price": "0.61",
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.62",
             "ebay_price": "6.26",
             "amazon_price": "9.55",
             "coolstuffinc_price": "0.49"

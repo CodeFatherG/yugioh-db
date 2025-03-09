@@ -7,6 +7,15 @@
     "desc": "Once per battle, when an opponent's monster declares an attack: You can banish 1 Fiend or Zombie monster from your GY; negate the attack. Once per turn, when your opponent activates a card or effect that would destroy a card(s): You can banish 1 Fiend or Zombie monster from your GY; negate the activation. Once per turn, during the End Phase, if you do not control a Fiend or Zombie monster: Send this card to the GY.",
     "race": "Continuous",
     "ygoprodeck_url": "https://ygoprodeck.com/card/spirit-shield-14557",
+    "card_sets": [
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN035",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 8324284,
@@ -17,8 +26,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "1.32",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
