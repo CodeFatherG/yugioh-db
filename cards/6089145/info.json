@@ -4,7 +4,7 @@
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "If \"Clear World\" is on the field: You can add 1 monster from your Deck to your hand that mentions it. You can only use this effect of \"Clear Wall\" once per turn. Monsters that mention \"Clear World\" cannot be destroyed by battle, also you take no battle damage from battles involving them. While you control a Level 7 or higher monster that mentions \"Clear World\", all effects of \"Clear World\" are applied to your opponent regardless of the Attributes they control.",
+    "desc": "If \"Clear World\" is on the field: You can add 1 monster that mentions \"Clear World\" from your Deck to your hand. You can only use this effect of \"Clear Wall\" once per turn. Monsters that mention \"Clear World\" cannot be destroyed by battle, also you take no battle damage from that battle. While you control a Level 7 or higher monster that mentions \"Clear World\", your opponent receives all effects of \"Clear World\", regardless of the monster Attributes they control.",
     "race": "Continuous",
     "archetype": "Clear",
     "ygoprodeck_url": "https://ygoprodeck.com/card/clear-wall-14525",
@@ -27,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.94",
-            "tcgplayer_price": "1.99",
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.16",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

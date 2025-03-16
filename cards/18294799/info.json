@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If you control no monsters, or your opponent controls a monster with 2000 or more ATK: You can Special Summon this card from your hand, and if you do, Special Summon 1 Level 8 LIGHT or DARK Dragon monster from your Deck in Defense Position, except \"Schwarzschild Infinity Dragon\", but negate its effects. You cannot Special Summon from the Extra Deck the turn you activate this effect, except Dragon Xyz Monsters. You can only use this effect of \"Schwarzschild Infinity Dragon\" once per turn.",
+    "desc": "If you control no monsters, or your opponent controls a monster with 2000 or more ATK: You can Special Summon this card from your hand, and if you do, Special Summon 1 Level 8 LIGHT or DARK Dragon monster from your Deck in Defense Position, except \"Schwarzschild Infinity Dragon\", but negate its effects. You can only use this effect of \"Schwarzschild Infinity Dragon\" once per turn, also you cannot Special Summon from the Extra Deck the turn you activate this effect, except Dragon Xyz Monsters.",
     "race": "Dragon",
     "atk": 2000,
     "def": 0,
@@ -34,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "3.95",
-            "tcgplayer_price": "49.98",
+            "cardmarket_price": "3.76",
+            "tcgplayer_price": "6.55",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -4,7 +4,7 @@
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "When this card is activated: You can add 1 \"Allure Queen\" monster or 1 \"Allure Palace\" from your Deck to your hand. Each \"Allure Queen\" monster you control gains ATK equal to the ATK of the monsters equipped to it by its own effect. You can send 1 other Spell/Trap you control to the GY; Special Summon as many \"Allure Queen\" monsters with different names as possible from your GY. You can only use this effect of \"Allure Dance\" once per turn. You can only activate 1 \"Allure Dance\" per turn.",
+    "desc": "When this card is activated: You can add 1 \"Allure Queen\" monster or 1 \"Allure Palace\" from your Deck to your hand. Each \"Allure Queen\" monster you control gains ATK, equal to the ATK of the monsters equipped to it by its effect. You can send 1 other Spell/Trap you control to the GY; Special Summon as many \"Allure Queen\" monsters with different names as possible from your GY. You can only use this effect of \"Allure Dance\" once per turn. You can only activate 1 \"Allure Dance\" per turn.",
     "race": "Continuous",
     "ygoprodeck_url": "https://ygoprodeck.com/card/allure-dance-14514",
     "card_sets": [
@@ -26,8 +26,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.15",
-            "tcgplayer_price": "0.99",
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

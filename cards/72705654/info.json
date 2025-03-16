@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is added to your hand, except by drawing it: You can Special Summon it. You can Tribute this card; Special Summon 1 \"Tachyon\" monster from your Deck or GY, except \"Tachyon Cloudragon\". If you Special Summon a Dragon Xyz Monster(s) (except during the Damage Step): You can target 1 of them; attach this card to it as material from the GY (if it was there when the monster was Summoned) or hand (even if not). You can only use each effect of \"Tachyon Cloudragon\" once per turn.",
+    "desc": "If this card is added to your hand, except by drawing it: You can Special Summon this card. You can Tribute this card; Special Summon 1 \"Tachyon\" monster from your Deck or GY, except \"Tachyon Cloudragon\". If you Special Summon a Dragon Xyz Monster(s) (except during the Damage Step): You can target 1 of them; attach this card to that monster, from the GY (if it was there when the monster was Special Summoned) or hand (even if not), as material. You can only use each effect of \"Tachyon Cloudragon\" once per turn.",
     "race": "Dragon",
     "atk": 300,
     "def": 250,
@@ -35,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.21",
-            "tcgplayer_price": "0.99",
+            "cardmarket_price": "0.38",
+            "tcgplayer_price": "0.16",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

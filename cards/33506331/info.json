@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You are unaffected by the effects of \"Clear World\". During your Main Phase, you can Normal Summon 1 monster that mentions \"Clear World\" in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this face-up card in its owner's control leaves the field by an opponent's card: You can Special Summon 1 monster from your Deck that mentions \"Clear World\".",
+    "desc": "You are unaffected by the effects of \"Clear World\". During your Main Phase, you can Normal Summon 1 monster that mentions \"Clear World\", in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this face-up card in its owner's control leaves the field by an opponent's card: You can Special Summon 1 monster that mentions \"Clear World\" from your Deck.",
     "race": "Machine",
     "atk": 0,
     "def": 0,
@@ -35,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.24",
-            "tcgplayer_price": "2.32",
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.13",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "3 Spellcaster monsters\r\nIf this card is Link Summoned: You can Special Summon 1 \"Allure Queen\" monster from your Deck or GY, and if you do, this card gains 1500 ATK until the end of the next turn. You can activate the effects that equip a monster(s) to themselves of monsters with \"Allure Queen\" in their original names as Quick Effects. Once per turn, when your opponent activates a card or effect (Quick Effect): You can destroy 1 card on the field, also \"Allure Queen\" monsters you control cannot be destroyed by card effects for the rest of this turn.",
+    "desc": "3 Spellcaster monsters\r\nIf this card is Link Summoned: You can Special Summon 1 \"Allure Queen\" monster from your Deck or GY, and if you do, this card gains 1500 ATK until the end of the next turn. You can activate the effects of your monsters with \"Allure Queen\" in their original names, that equip monsters to themselves, as Quick Effects. Once per turn, when your opponent activates a card or effect (Quick Effect): You can destroy 1 card on the field, also \"Allure Queen\" monsters you control cannot be destroyed by card effects this turn.",
     "race": "Spellcaster",
     "atk": 2500,
     "def": null,
@@ -42,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.34",
-            "tcgplayer_price": "1.99",
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.21",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

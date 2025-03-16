@@ -1,0 +1,52 @@
+{
+    "id": 34926568,
+    "name": "Merciless Scorpion of Serket",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 Level 10 or higher monster from your hand or Deck, while you control \"Temple of the Kings\". You can only Special Summon \"Merciless Scorpion of Serket\" once per turn this way. Once per turn, during your Main Phase: You can add 1 \"Temple of the Kings\", or 1 Spell that mentions it, from your Deck to your hand. At the start of the Damage Step, if this card battles an opponent's monster: You can destroy that opponent's monster, and if you do, this card gains ATK equal to half the destroyed monster's original ATK.",
+    "race": "Fairy",
+    "atk": 2500,
+    "def": 2000,
+    "level": 6,
+    "attribute": "EARTH",
+    "archetype": "Serket",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/merciless-scorpion-of-serket-14966",
+    "card_sets": [
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN002",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 34926568,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34926568.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34926568.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34926568.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.49",
+            "tcgplayer_price": "3.51",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 69299029,
+    "name": "Treasures of the Kings",
+    "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
+    "desc": "When this card is activated: You can Set 1 \"Apophis\" Trap from your Deck. This card's name becomes \"Temple of the Kings\" while in the Field Zone. Once per turn, if you have 2 or more Set cards on your field, or a Trap in your GY: You can add 1 monster that mentions \"Temple of the Kings\" from your Deck to your hand. You can only activate 1 \"Treasures of the Kings\" per turn.",
+    "race": "Field",
+    "archetype": "Temple of the Kings",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/treasures-of-the-kings-14967",
+    "card_sets": [
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN006",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN006",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 69299029,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69299029.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69299029.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69299029.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "4.78",
+            "tcgplayer_price": "8.17",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

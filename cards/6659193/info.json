@@ -9,7 +9,7 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "2 Level 5 Spellcaster monsters\r\nCannot be destroyed by battle or card effects while it has material. Your opponent takes any effect damage you would have taken instead. This effect can be applied a number of times per turn up to the number of materials attached to this card. If this card has \"Performage Trapeze Magician\" as material, it gains this effect.\r\n\u25cf You can detach 1 material from this card; this card can make up to 3 attacks during each Battle Phase this turn.",
+    "desc": "2 Level 5 Spellcaster monsters\r\nCannot be destroyed by battle or card effects while it has material. Your opponent takes any effect damage you would have taken, a number of times each turn up to the number of materials attached to this card. If this card has \"Performage Trapeze Magician\" as material, it gains this effect.\r\n\u25cf You can detach 1 material from this card; this card can make up to 3 attacks during each Battle Phase this turn.",
     "race": "Spellcaster",
     "atk": 2700,
     "def": 2200,
@@ -36,8 +36,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.49",
-            "tcgplayer_price": "1.99",
+            "cardmarket_price": "0.31",
+            "tcgplayer_price": "0.13",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

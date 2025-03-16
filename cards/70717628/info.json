@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can discard 2 cards, including this card; add 2 cards from your Deck to your hand that are either \"Clear World\" and/or Spells/Traps that mention it. You can only use this effect of \"Clear Phantom\" once per turn. You are unaffected by the effects of \"Clear World\". If this card is destroyed: You can target 1 monster your opponent controls; destroy it, and if you do, send the top 3 cards of their Deck to the GY.",
+    "desc": "You are unaffected by the effects of \"Clear World\". You can discard 2 cards, including this card; add 2 cards from your Deck to your hand, that are \"Clear World\" or Spells/Traps that mention it. You can only use this effect of \"Clear Phantom\" once per turn. If this card is destroyed: You can target 1 monster your opponent controls; destroy it, and if you do, send the top 3 cards of their Deck to the GY.",
     "race": "Fiend",
     "atk": 1200,
     "def": 800,
@@ -35,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.82",
-            "tcgplayer_price": "1.99",
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.16",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
