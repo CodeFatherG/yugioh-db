@@ -1,0 +1,37 @@
+{
+    "id": 79755671,
+    "name": "Dragon Tail Gramel",
+    "typeline": [
+        "Spellcaster",
+        "Fusion",
+        "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "1 \"Dragon Tail\" monster + 1 monster in the hand\r\nWhen you activate a \"Dragon Tail\" card or effect (Quick Effect): You can target 1 card your opponent controls; destroy it. If 2 or more monsters are sent to the GY at the same time while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Dragon Tail Gramel\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 2800,
+    "def": 2300,
+    "level": 7,
+    "attribute": "WATER",
+    "archetype": "Dragon Tail",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-tail-gramel-14969",
+    "card_images": [
+        {
+            "id": 79755671,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79755671.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79755671.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79755671.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

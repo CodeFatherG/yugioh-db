@@ -1,0 +1,36 @@
+{
+    "id": 70871153,
+    "name": "Dragon Tail Urgula",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dragon Tail\" Spell/Trap from your Deck, then you can destroy 1 Spell/Trap on the field. If this card is in your GY: You can target 1 Spellcaster \"Dragon Tail\" monster in your GY; place this card on the bottom of the Deck, and if you do, add that monster to your hand. You can only use each effect of \"Dragon Tail Urgula\" once per turn.",
+    "race": "Dragon",
+    "atk": 2400,
+    "def": 1000,
+    "level": 6,
+    "attribute": "FIRE",
+    "archetype": "Dragon Tail",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-tail-urgula-14995",
+    "card_images": [
+        {
+            "id": 70871153,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70871153.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70871153.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70871153.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

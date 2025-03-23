@@ -1,0 +1,36 @@
+{
+    "id": 68810435,
+    "name": "Cooky\u2606Yummy",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If you control a Link-1 monster or a Level 2 Synchro Monster, you can Special Summon this card (from your hand). You can only Special Summon \"Cooky\u2606Yummy\" once per turn this way. If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; it loses 1000 ATK, or, if this card was Special Summoned by a Synchro Monster's effect, you can destroy that monster instead. You can only use this effect of \"Cooky\u2606Yummy\" once per turn.",
+    "race": "Beast",
+    "atk": 1000,
+    "def": 0,
+    "level": 1,
+    "attribute": "LIGHT",
+    "archetype": "Yummy",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cooky\u0442\u0448\u0436yummy-14987",
+    "card_images": [
+        {
+            "id": 68810435,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68810435.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68810435.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68810435.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
