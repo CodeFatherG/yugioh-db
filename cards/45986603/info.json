@@ -109,7 +109,6 @@
     ],
     "banlist_info": {
         "ban_tcg": "Limited",
-        "ban_ocg": "Semi-Limited",
         "ban_goat": "Limited"
     },
     "card_images": [
@@ -122,7 +121,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.57",
+            "cardmarket_price": "0.44",
             "tcgplayer_price": "1.02",
             "ebay_price": "1.70",
             "amazon_price": "19.34",

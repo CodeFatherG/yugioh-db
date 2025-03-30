@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dragon Tail\" Spell/Trap from your Deck, then you can destroy 1 monster on the field. If a face-up Fusion Monster(s) you control is destroyed by an opponent's card effect while this card is in your GY: You can place this card on the bottom of the Deck, and if you do, Special Summon 1 non-Fusion \"Dragon Tail\" monster from your GY. You can only use each effect of \"Dragon Tail Pan\" once per turn.",
+    "desc": "If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dragon Tail\" Spell/Trap from your Deck, then you can destroy 1 monster on the field. If a face-up Fusion Monster(s) you control is destroyed by an opponent's card effect while this card is in your GY (except during the Damage Step): You can place this card on the bottom of the Deck, and if you do, Special Summon 1 non-Fusion \"Dragon Tail\" monster from your GY. You can only use each effect of \"Dragon Tail Pan\" once per turn.",
     "race": "Dragon",
     "atk": 2700,
     "def": 1700,
