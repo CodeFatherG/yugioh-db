@@ -38,6 +38,20 @@
             "set_rarity": "Gold Rare",
             "set_rarity_code": "(GUR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN162",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN162",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
         }
     ],
     "banlist_info": {
@@ -54,8 +68,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "5.73",
-            "tcgplayer_price": "6.14",
+            "cardmarket_price": "5.96",
+            "tcgplayer_price": "5.86",
             "ebay_price": "43.99",
             "amazon_price": "6.03",
             "coolstuffinc_price": "4.99"

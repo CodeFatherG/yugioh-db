@@ -44,6 +44,13 @@
             "set_rarity": "Starlight Rare",
             "set_rarity_code": "(StR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN041",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -56,8 +63,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.76",
-            "tcgplayer_price": "1.25",
+            "cardmarket_price": "0.77",
+            "tcgplayer_price": "1.10",
             "ebay_price": "64.95",
             "amazon_price": "39.99",
             "coolstuffinc_price": "9.99"

@@ -54,6 +54,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN266",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN266",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Shining Victories",
             "set_code": "SHVI-EN020",
             "set_rarity": "Ultra Rare",
@@ -78,8 +92,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.10",
-            "tcgplayer_price": "0.15",
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.16",
             "ebay_price": "3.57",
             "amazon_price": "1.68",
             "coolstuffinc_price": "5.99"

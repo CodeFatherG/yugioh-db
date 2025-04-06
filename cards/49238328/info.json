@@ -38,6 +38,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN093",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Savage Strike",
             "set_code": "SAST-EN067",
             "set_rarity": "Secret Rare",
@@ -94,7 +101,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.19",
-            "tcgplayer_price": "0.27",
+            "tcgplayer_price": "0.28",
             "ebay_price": "12.95",
             "amazon_price": "1.94",
             "coolstuffinc_price": "0.25"

@@ -95,6 +95,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN118",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN118",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Shonen Jump Vol. 9, Issue 1 promotional card",
             "set_code": "JUMP-EN045",
             "set_rarity": "Ultra Rare",
@@ -139,7 +153,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.45",
-            "tcgplayer_price": "0.66",
+            "tcgplayer_price": "0.71",
             "ebay_price": "1.33",
             "amazon_price": "3.59",
             "coolstuffinc_price": "1.99"

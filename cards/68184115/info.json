@@ -39,6 +39,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN172",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN172",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Grand Creators",
             "set_code": "GRCR-EN040",
             "set_rarity": "Collector's Rare",
@@ -63,7 +77,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.07",
+            "cardmarket_price": "0.09",
             "tcgplayer_price": "0.18",
             "ebay_price": "17.49",
             "amazon_price": "0.99",

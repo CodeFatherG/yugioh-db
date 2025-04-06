@@ -1,0 +1,36 @@
+{
+    "id": 613013,
+    "name": "Veiss Shark",
+    "typeline": [
+        "Fish",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can Tribute 1 Fish monster; Special Summon 1 Fish \"Shark\" monster from your Deck, also you cannot Special Summon for the rest of this turn, except WATER monsters. You can only use this effect of \"Veiss Shark\" once per turn. A \"Shark Drake\" Xyz Monster that has this card as material gains this effect.\r\n\u25cf Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can detach 2 materials from this card; negate that effect, and if you do, destroy that card.",
+    "race": "Fish",
+    "atk": 1800,
+    "def": 1100,
+    "level": 4,
+    "attribute": "WATER",
+    "archetype": "Shark",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/veiss-shark-15006",
+    "card_images": [
+        {
+            "id": 613013,
+            "image_url": "https://images.ygoprodeck.com/images/cards/613013.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/613013.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/613013.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

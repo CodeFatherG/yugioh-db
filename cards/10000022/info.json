@@ -88,6 +88,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN117",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN117",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Speed Duel: Battle City Box",
             "set_code": "SBCB-EN201",
             "set_rarity": "Secret Rare",
@@ -166,8 +180,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.35",
-            "tcgplayer_price": "0.42",
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.43",
             "ebay_price": "4.99",
             "amazon_price": "1.94",
             "coolstuffinc_price": "0.99"

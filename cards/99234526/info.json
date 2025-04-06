@@ -45,6 +45,20 @@
             "set_price": "1.02"
         },
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN203",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN203",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rise of the True Dragons Structure Deck",
             "set_code": "SR02-EN016",
             "set_rarity": "Common",
@@ -86,7 +100,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.07",
+            "cardmarket_price": "0.05",
             "tcgplayer_price": "0.12",
             "ebay_price": "1.94",
             "amazon_price": "0.79",

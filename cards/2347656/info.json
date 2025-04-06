@@ -25,6 +25,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN295",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN295",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Tactical Masters",
             "set_code": "TAMA-EN014",
             "set_rarity": "Collector's Rare",
@@ -49,8 +63,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.04",
-            "tcgplayer_price": "1.43",
+            "cardmarket_price": "1.14",
+            "tcgplayer_price": "1.20",
             "ebay_price": "2.99",
             "amazon_price": "27.99",
             "coolstuffinc_price": "3.99"

@@ -53,6 +53,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN210",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN210",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Beware of Traptrix",
             "set_code": "SDBT-EN004",
             "set_rarity": "Common",
@@ -70,8 +84,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.16",
-            "tcgplayer_price": "0.26",
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.25",
             "ebay_price": "7.90",
             "amazon_price": "1.68",
             "coolstuffinc_price": "0.25"

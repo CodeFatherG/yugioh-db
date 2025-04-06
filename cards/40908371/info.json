@@ -32,6 +32,20 @@
             "set_price": "1.47"
         },
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN208",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN208",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Saga of Blue-Eyes White Dragon Structure Deck",
             "set_code": "SDBE-EN040",
             "set_rarity": "Ultra Rare",
@@ -56,7 +70,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.05",
+            "cardmarket_price": "0.04",
             "tcgplayer_price": "0.11",
             "ebay_price": "1.94",
             "amazon_price": "4.48",

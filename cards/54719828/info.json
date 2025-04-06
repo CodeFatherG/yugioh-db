@@ -25,6 +25,20 @@
             "set_price": "4.08"
         },
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN166",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN166",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Weekly Shonen Jump Alpha April 2012 membership promotional card",
             "set_code": "JUMP-EN060",
             "set_rarity": "Ultra Rare",
@@ -47,7 +61,7 @@
     "card_prices": [
         {
             "cardmarket_price": "5.21",
-            "tcgplayer_price": "1.80",
+            "tcgplayer_price": "2.86",
             "ebay_price": "17.99",
             "amazon_price": "2.38",
             "coolstuffinc_price": "1.99"

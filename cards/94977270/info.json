@@ -33,6 +33,13 @@
             "set_price": "11.24"
         },
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN052",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Shadows in Valhalla",
             "set_code": "SHVA-EN049",
             "set_rarity": "Secret Rare",
@@ -63,8 +70,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.00",
-            "tcgplayer_price": "1.57",
+            "cardmarket_price": "1.06",
+            "tcgplayer_price": "1.47",
             "ebay_price": "4.95",
             "amazon_price": "4.54",
             "coolstuffinc_price": "1.99"

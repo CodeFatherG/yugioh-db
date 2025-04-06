@@ -9,6 +9,20 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/hi-five-the-sky-7645",
     "card_sets": [
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN239",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN239",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "World Superstars",
             "set_code": "WSUP-EN030",
             "set_rarity": "Prismatic Secret Rare",
@@ -26,7 +40,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.31",
+            "cardmarket_price": "0.37",
             "tcgplayer_price": "0.26",
             "ebay_price": "1.30",
             "amazon_price": "0.99",

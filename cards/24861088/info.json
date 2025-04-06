@@ -18,6 +18,20 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/chronomaly-nebra-disk-2143",
     "card_sets": [
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN213",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN213",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "World Superstars",
             "set_code": "WSUP-EN001",
             "set_rarity": "Prismatic Secret Rare",
@@ -36,7 +50,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.22",
-            "tcgplayer_price": "0.70",
+            "tcgplayer_price": "0.82",
             "ebay_price": "2.20",
             "amazon_price": "2.00",
             "coolstuffinc_price": "1.99"

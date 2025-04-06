@@ -33,6 +33,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN241",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN241",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Secrets of Eternity",
             "set_code": "SECE-EN051",
             "set_rarity": "Ultimate Rare",
@@ -57,8 +71,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.22",
-            "tcgplayer_price": "0.22",
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.20",
             "ebay_price": "4.95",
             "amazon_price": "4.97",
             "coolstuffinc_price": "0.49"

@@ -47,6 +47,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN243",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN243",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Wing Raiders",
             "set_code": "WIRA-EN022",
             "set_rarity": "Secret Rare",
@@ -64,8 +78,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.28",
-            "tcgplayer_price": "0.39",
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.41",
             "ebay_price": "4.95",
             "amazon_price": "4.17",
             "coolstuffinc_price": "2.99"
