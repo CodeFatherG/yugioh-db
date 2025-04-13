@@ -40,7 +40,7 @@
         }
     ],
     "banlist_info": {
-        "ban_tcg": "Limited",
+        "ban_tcg": "Semi-Limited",
         "ban_ocg": "Limited"
     },
     "card_images": [
@@ -53,8 +53,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.37",
-            "tcgplayer_price": "1.35",
+            "cardmarket_price": "0.46",
+            "tcgplayer_price": "1.47",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.99"

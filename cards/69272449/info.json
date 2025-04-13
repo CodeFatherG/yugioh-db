@@ -39,6 +39,9 @@
             "set_price": "0"
         }
     ],
+    "banlist_info": {
+        "ban_tcg": "Semi-Limited"
+    },
     "card_images": [
         {
             "id": 69272449,
@@ -49,8 +52,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "25.26",
-            "tcgplayer_price": "27.61",
+            "cardmarket_price": "22.05",
+            "tcgplayer_price": "20.04",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
