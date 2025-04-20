@@ -4,9 +4,18 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Target 1 face-up monster your opponent controls; banish 1 monster from your Deck or Extra Deck with the same original Type, Attribute, and Level/Rank/Link Rating, and if you do, take control of it, but if you banished a monster with the same original name, negate the effects of the monster you took control of. You can only activate 1 \"Abduction\" per turn.",
+    "desc": "Target 1 face-up monster your opponent controls; banish 1 monster from your Deck or Extra Deck with the same original Type, Attribute, and Level/Rank/Link Rating, and if you do, take control of that targeted monster, and if you banished a monster with the same original name, that monster's effects are negated. You can only activate 1 \"Abduction\" per turn.",
     "race": "Normal",
     "ygoprodeck_url": "https://ygoprodeck.com/card/abduction-14912",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN080",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 21846145,

@@ -1,6 +1,6 @@
 {
     "id": 46533533,
-    "name": "Pity",
+    "name": "Dipity",
     "typeline": [
         "Fiend",
         "Normal"
@@ -15,6 +15,15 @@
     "level": 4,
     "attribute": "LIGHT",
     "ygoprodeck_url": "https://ygoprodeck.com/card/pity-14840",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN097",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 46533533,

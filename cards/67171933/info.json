@@ -1,13 +1,22 @@
 {
     "id": 67171933,
-    "name": "Torah Regenesis",
+    "name": "Regenesis Code",
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Special Summon 1 \"Regenesis\" monster from your Deck, but send it to the GY during your opponent's End Phase, also you cannot Special Summon from the Extra Deck until the end of the next turn after this card resolves. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 of your banished \"Regenesis\" monsters; Special Summon it. You can only use each effect of \"Torah Regenesis\" once per turn.",
+    "desc": "Special Summon 1 \"Regenesis\" monster from your Deck (but send it to the GY during your opponent's End Phase), also until the end of the next turn after this card resolves, you cannot Special Summon from the Extra Deck. During your Main Phase, if this card is in your GY, except the turn it was sent there: You can banish it, then target 1 of your banished \"Regenesis\" monsters; Special Summon it. You can only use each effect of \"Regenesis Code\" once per turn.",
     "race": "Quick-Play",
     "archetype": "Regenesis",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/torah-regenesis-14953",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/regenesis-code-14953",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN060",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 67171933,

@@ -1,13 +1,22 @@
 {
     "id": 22669793,
-    "name": "Eldlixir of the Exalted Golden Land",
+    "name": "Eldlixir of the Glorious Golden Land",
     "type": "Trap Card",
     "humanReadableCardType": "Continuous Trap",
     "frameType": "trap",
-    "desc": "You can pay 800 LP, then activate 1 of these effects;\r\n\u25cf Special Summon this card as a Normal Monster (Zombie/LIGHT/Level 10/ATK 1500/DEF 2800) (this card is also still a Trap), then, if you control \"Eldlich the Golden Lord\", you can return 1 monster on the field to the hand.\r\n\u25cf Set 1 of your banished \"Golden Land\" or \"Eldlixir\" Spells/Traps.\r\nYou can only use this effect of \"Eldlixir of the Exalted Golden Land\" once per turn.",
+    "desc": "You can pay 800 LP, then activate 1 of these effects;\r\n\u25cf Special Summon this card as a Normal Monster (Zombie/LIGHT/Level 10/ATK 1500/DEF 2800) (this card is also still a Trap), then if you control \"Eldlich the Golden Lord\", you can return 1 monster from the field to the hand.\r\n\u25cf Set 1 of your banished \"Golden Land\" or \"Eldlixir\" Spells/Traps.\r\nYou can only use this effect of \"Eldlixir of the Glorious Golden Land\" once per turn.",
     "race": "Continuous",
     "archetype": "Eldlixir",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/eldlixir-of-the-exalted-golden-land-14927",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/eldlixir-of-the-glorious-golden-land-14927",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN077",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 22669793,

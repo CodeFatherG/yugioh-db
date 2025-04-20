@@ -1,6 +1,6 @@
 {
     "id": 98888032,
-    "name": "Spore the Fairy Cell",
+    "name": "Spore the Fairy Seed",
     "typeline": [
         "Plant",
         "Tuner",
@@ -17,6 +17,15 @@
     "attribute": "LIGHT",
     "archetype": "Ancient Fairy Dragon",
     "ygoprodeck_url": "https://ygoprodeck.com/card/spore-the-fairy-cell-14908",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 98888032,

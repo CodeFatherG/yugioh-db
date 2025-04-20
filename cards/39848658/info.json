@@ -1,6 +1,6 @@
 {
     "id": 39848658,
-    "name": "Wight Master",
+    "name": "Wight Reanimator",
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
@@ -8,6 +8,15 @@
     "race": "Continuous",
     "archetype": "Wight",
     "ygoprodeck_url": "https://ygoprodeck.com/card/wight-master-14954",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN065",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 39848658,

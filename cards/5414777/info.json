@@ -1,6 +1,6 @@
 {
     "id": 5414777,
-    "name": "The World of Spirits",
+    "name": "World of Spirits",
     "type": "Spell Card",
     "humanReadableCardType": "Field Spell",
     "frameType": "spell",
@@ -8,6 +8,15 @@
     "race": "Field",
     "archetype": "Ancient Fairy Dragon",
     "ygoprodeck_url": "https://ygoprodeck.com/card/the-world-of-spirits-14952",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN055",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 5414777,

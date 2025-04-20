@@ -4,9 +4,18 @@
     "type": "Trap Card",
     "humanReadableCardType": "Counter Trap",
     "frameType": "trap",
-    "desc": "When a Spell/Trap Card, or monster effect, is activated and you control a monster with 2500 original ATK or DEF: Negate the activation, and if you do, destroy that card. If this card is in your GY: You can pay 2500 LP; Set this card, but banish it when it leaves the field. You can only use each effect of \"Dragon's Mind\" once per turn.",
+    "desc": "When a Spell/Trap Card, or monster effect, is activated while you control a monster with 2500 original ATK or DEF: Negate the activation, and if you do, destroy that card. If this card is in your GY: You can pay 2500 LP; Set this card, but banish it when it leaves the field. You can only use each effect of \"Dragon's Mind\" once per turn.",
     "race": "Counter",
     "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-s-mind-14925",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN079",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 85442146,

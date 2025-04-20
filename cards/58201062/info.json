@@ -1,6 +1,6 @@
 {
     "id": 58201062,
-    "name": "Spector, Dragon Ruler of Rays",
+    "name": "Spectral, Dragon Ruler of Flickers",
     "typeline": [
         "Dragon",
         "Effect"
@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can discard this card and 1 LIGHT or Dragon monster; add 2 \"Dragon Ruler\" monsters from your Deck to your hand, except \"Spector, Dragon Ruler of Rays\". You can banish this card and 1 LIGHT or Dragon monster from your GY, then target 1 \"Chasmatis, Dragon Ruler of Auroras\" in your GY; Special Summon it. You can only use 1 \"Spector, Dragon Ruler of Rays\" effect per turn, and only once that turn.",
+    "desc": "You can discard this card and 1 Dragon or LIGHT monster; add 2 \"Dragon Ruler\" monsters from your Deck to your hand, except \"Spectral, Dragon Ruler of Flickers\". You can banish from your GY, this card and 1 Dragon or LIGHT monster, then target 1 \"Chasma, Dragon Ruler of Auroras\" in your GY; Special Summon it. You can only use 1 \"Spectral, Dragon Ruler of Flickers\" effect per turn, and only once that turn.",
     "race": "Dragon",
     "atk": 600,
     "def": 1000,
     "level": 2,
     "attribute": "LIGHT",
     "archetype": "Dragon Ruler",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/spector-dragon-ruler-of-rays-14907",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spectral-dragon-ruler-of-flickers-14907",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN018",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN018",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 58201062,

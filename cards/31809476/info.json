@@ -1,6 +1,6 @@
 {
     "id": 31809476,
-    "name": "Heraldry Flash",
+    "name": "Flash of Heraldry",
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
@@ -8,6 +8,15 @@
     "race": "Quick-Play",
     "archetype": "Heraldry",
     "ygoprodeck_url": "https://ygoprodeck.com/card/heraldry-flash-14933",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 31809476,

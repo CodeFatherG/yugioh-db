@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Gains 700 ATK/DEF for each other \"Argostars\" monster you control with different names. You can only use each of the following effects of \"Argostars - Fierce Parthe\" once per turn. (Quick Effect): You can reveal this card in your hand; return 1 face-up \"Argostars\" Continuous Trap you control to the hand, and if you do, Special Summon this card. You can banish this card you control; Set 1 Continuous Trap from your hand. It can be activated this turn.",
+    "desc": "Gains 700 ATK/DEF for each \"Argostars\" monster with a different name you control, except this card. You can only use each of the following effects of \"Argostars - Fierce Parthe\" once per turn. (Quick Effect): You can reveal this card in your hand; return 1 \"Argostars\" Continuous Trap you control to the hand, and if you do, Special Summon this card. You can banish this card you control; Set 1 Continuous Trap from your hand. It can be activated this turn.",
     "race": "Warrior",
     "atk": 1400,
     "def": 1400,
@@ -16,6 +16,15 @@
     "attribute": "EARTH",
     "archetype": "Argostars",
     "ygoprodeck_url": "https://ygoprodeck.com/card/argostars-fierce-parthe-14877",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN020",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 21050476,

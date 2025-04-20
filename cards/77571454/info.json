@@ -9,7 +9,7 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "5 Level 4 monsters\r\nCannot be destroyed by battle or card effects. Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster your opponent controls; its name becomes \"Unknown\". When a monster effect activated by your opponent resolves, if that monster's name is \"Unknown\", negate that activated effect.",
+    "desc": "5 Level 4 monsters\r\nCannot be destroyed by battle or card effects. Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster your opponent controls; that monster's name becomes \"Unknown\". Negate any \"Unknown\" effects activated by your opponent.",
     "race": "Psychic",
     "atk": 3100,
     "def": 1900,
@@ -17,6 +17,22 @@
     "attribute": "LIGHT",
     "archetype": "Heraldry",
     "ygoprodeck_url": "https://ygoprodeck.com/card/number-69-heraldry-crest-dark-matter-demolition-14939",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN046",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN046",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 77571454,

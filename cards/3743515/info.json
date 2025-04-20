@@ -1,6 +1,6 @@
 {
     "id": 3743515,
-    "name": "Ferociously Angered Sabersaurus",
+    "name": "Steamed Sabersaurus",
     "typeline": [
         "Dinosaur",
         "Xyz",
@@ -17,6 +17,15 @@
     "attribute": "FIRE",
     "archetype": "Saber",
     "ygoprodeck_url": "https://ygoprodeck.com/card/ferociously-angered-sabersaurus-14930",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 3743515,

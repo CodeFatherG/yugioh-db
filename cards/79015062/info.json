@@ -1,13 +1,22 @@
 {
     "id": 79015062,
-    "name": "TA.I.es",
+    "name": "A.I. Connect",
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Reveal 1 Cyberse monster in your hand; apply this effect based on its Attribute, also you cannot Special Summon for the rest of this turn after this card resolves, except Cyberse monsters.\r\n\u25cf DARK: Special Summon the revealed monster, and if you do, add 1 non-DARK Level 4 or lower Cyberse monster from your Deck to your hand.\r\n\u25cf Non-DARK: Shuffle the revealed monster into the Deck, and if you do, add 1 \"@Ignister\" monster with a different Attribute from your Deck to your hand.\r\nYou can only activate 1 \"TA.I.es\" per turn.",
+    "desc": "Reveal 1 Cyberse monster in your hand; apply this effect based on its Attribute, also you cannot Special Summon for the rest of this turn after this card resolves, except Cyberse monsters.\r\n\u25cf DARK: Special Summon the revealed monster, and if you do, add 1 Level 4 or lower non-DARK Cyberse monster from your Deck to your hand.\r\n\u25cf Other: Shuffle the revealed monster into the Deck, and if you do, add 1 \"@Ignister\" monster with a different Attribute from your Deck to your hand.\r\nYou can only activate 1 \"A.I. Connect\" per turn.",
     "race": "Normal",
     "archetype": "A.I.",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/ta-i-es-14950",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/a-i-connect-14950",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN054",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 79015062,

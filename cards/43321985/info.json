@@ -9,7 +9,7 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can draw 1 card, or, if \"The World of Spirits\" is on the field, add 1 LIGHT Beast, Plant, or Fairy monster or 1 \"Eternal Sunshine\" from your Deck to your hand instead. You can only use this effect of \"Ancient Fairy Life Dragon\" once per turn. Your \"Ancient Fairy Dragon\" and monsters that mention it can attack while in face-up Defense Position. If they do, apply their DEF for damage calculation.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can draw 1 card, or if \"World of Spirits\" is on the field, add 1 LIGHT monster (Beast, Plant, or Fairy) or 1 \"Eternal Sunshine\" from your Deck to your hand instead. You can only use this effect of \"Ancient Fairy Life Dragon\" once per turn. Your \"Ancient Fairy Dragon\" and monsters that mention it can attack while in face-up Defense Position (apply their DEF for damage calculation).",
     "race": "Dragon",
     "atk": 2500,
     "def": 3300,
@@ -17,6 +17,15 @@
     "attribute": "LIGHT",
     "archetype": "Ancient Fairy Dragon",
     "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-fairy-life-dragon-14914",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN039",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 43321985,

@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "This card's name becomes \"Cyber Dragon\" while on the field or in the GY. If this card is in your hand or GY and you have another Machine \"Cyber\" monster on your field or in your GY: You can send 1 \"Cyber Dragon\" monster from your hand or Deck to the GY; Special Summon this card, then you can add 1 \"Cyber\" Spell/Trap from your GY to your hand. You can only use this effect of \"Cyberdark Wurm\" once per Duel.",
+    "desc": "This card's name becomes \"Cyber Dragon\" while on the field or in the GY. If this card is in your hand or GY, and you have another Machine \"Cyber\" monster in your field or GY: You can send 1 \"Cyber Dragon\" monster from your hand or Deck to the GY; Special Summon this card, then you can add 1 \"Cyber\" Spell/Trap from your GY to your hand. You can only use this effect of \"Cyberdark Wurm\" once per Duel.",
     "race": "Machine",
     "atk": 800,
     "def": 2100,
@@ -16,6 +16,22 @@
     "attribute": "DARK",
     "archetype": "Cyber",
     "ygoprodeck_url": "https://ygoprodeck.com/card/cyberdark-wurm-14882",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN027",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN027",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 56100345,

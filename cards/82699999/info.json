@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "When your opponent activates a card or effect in response to the activation of your \"Live\u2606Twin\" card or effect (Quick Effect): You can discard this card; negate that opponent's effect. If this card is in your GY and you control a \"Ki-sikil\" monster: You can Special Summon this card, but while it is face-up in the Monster Zone, you cannot Special Summon from the Extra Deck, except Fiend monsters. You can only use each effect of \"Live\u2606Twin Lil-la Sweet\" once per turn.",
+    "desc": "When your opponent activates a card or effect in response to your \"Live\u2606Twin\" card or effect activation (Quick Effect): You can discard this card; negate that opponent's effect. If you control a \"Ki-sikil\" monster and this card is in your GY: You can Special Summon this card, but while it is face-up in the Monster Zone, you cannot Special Summon from the Extra Deck, except Fiend monsters. You can only use each effect of \"Live\u2606Twin Lil-la Sweet\" once per turn.",
     "race": "Spellcaster",
     "atk": 500,
     "def": 0,
@@ -16,6 +16,22 @@
     "attribute": "DARK",
     "archetype": "Lil-la",
     "ygoprodeck_url": "https://ygoprodeck.com/card/live\u0442\u0448\u0436twin-lil-la-sweet-14893",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN028",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN028",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 82699999,

@@ -1,13 +1,22 @@
 {
     "id": 30964246,
-    "name": "Argostars - Giant Hunting",
+    "name": "Argostars - Giantslaying",
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Add 1 \"Argostars\" monster from your Deck to your hand, then, if you control a Continuous Trap in your Monster Zone, or a Continuous Trap in your Spell & Trap Zone with an effect that Special Summons itself as a monster, immediately after this effect resolves, you can Normal Summon 1 Warrior monster. During your Main Phase: You can banish this card from your GY, then target 2 cards on the field, including an \"Argostars\" Continuous Trap you control; return them to the hand. You can only use 1 \"Argostars - Giant Hunting\" effect per turn, and only once that turn.",
+    "desc": "Add 1 \"Argostars\" monster from your Deck to your hand, then immediately after this effect resolves, if a Continuous Trap is in your Monster Zone, or a Continuous Trap with an effect that Special Summons itself as a monster is in your Spell & Trap Zone, you can Normal Summon 1 Warrior monster. During your Main Phase: You can banish this card from your GY, then target 2 cards on the field, including an \"Argostars\" Continuous Trap you control; return them to the hand. You can only use 1 \"Argostars - Giantslaying\" effect per turn, and only once that turn.",
     "race": "Quick-Play",
     "archetype": "Argostars",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/argostars-giant-hunting-14916",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/argostars-giantslaying-14916",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN062",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 30964246,

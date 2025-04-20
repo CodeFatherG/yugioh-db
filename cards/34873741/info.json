@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If you control \"Ancient Fairy Dragon\" or a LIGHT Beast, Plant, or Fairy monster: You can Special Summon this card from your hand, and if you do, it is treated as a Tuner. If another \"Ancient Fairy Dragon\", or monster(s) that mentions it, that you control would be destroyed by card effect, you can return this card from the field to the hand instead. You can only use each effect of \"Kuribon the Fairy Spirit\" once per turn.",
+    "desc": "If you control \"Ancient Fairy Dragon\" or a LIGHT monster (Beast, Plant, or Fairy): You can Special Summon this card from your hand, and if you do, it is treated as a Tuner. If another card(s) you control, that is \"Ancient Fairy Dragon\" or a monster(s) that mentions it, would be destroyed by card effect, you can return this card you control to the hand instead. You can only use each effect of \"Kuribon the Fairy Spirit\" once per turn.",
     "race": "Fairy",
     "atk": 300,
     "def": 200,
@@ -16,6 +16,15 @@
     "attribute": "LIGHT",
     "archetype": "Ancient Fairy Dragon",
     "ygoprodeck_url": "https://ygoprodeck.com/card/kuribon-the-fairy-spirit-14891",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 34873741,

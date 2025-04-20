@@ -18,20 +18,6 @@
         {
             "set_name": "Quarter Century Stampede",
             "set_code": "RA04-EN095",
-            "set_rarity": "Collector's Rare",
-            "set_rarity_code": "(CR)",
-            "set_price": "0"
-        },
-        {
-            "set_name": "Quarter Century Stampede",
-            "set_code": "RA04-EN095",
-            "set_rarity": "Platinum Secret Rare",
-            "set_rarity_code": "(PS)",
-            "set_price": "0"
-        },
-        {
-            "set_name": "Quarter Century Stampede",
-            "set_code": "RA04-EN095",
             "set_rarity": "Secret Rare",
             "set_rarity_code": "(ScR)",
             "set_price": "0"
@@ -41,13 +27,6 @@
             "set_code": "RA04-EN095",
             "set_rarity": "Super Rare",
             "set_rarity_code": "(SR)",
-            "set_price": "0"
-        },
-        {
-            "set_name": "Quarter Century Stampede",
-            "set_code": "RA04-EN095",
-            "set_rarity": "Ultimate Rare",
-            "set_rarity_code": "(UtR)",
             "set_price": "0"
         },
         {
@@ -68,7 +47,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.14",
+            "cardmarket_price": "0.03",
             "tcgplayer_price": "0.15",
             "ebay_price": "2.19",
             "amazon_price": "5.93",

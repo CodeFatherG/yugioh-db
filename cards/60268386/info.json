@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can send 1 \"Heraldic Beast\" monster from your Deck to the GY, except \"Heraldic Beast Gryphon\"; Special Summon this card from your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except by Xyz Summon using only monsters with \"Heraldic Beast\" and/or \"Number\" in their original names as material. This card can be treated as 2 materials for the Xyz Summon of a \"Number\" Xyz Monster that requires 3 or more materials. You can only use each effect of \"Heraldic Beast Gryphon\" once per turn.",
+    "desc": "You can send 1 \"Heraldic Beast\" monster from your Deck to the GY, except \"Heraldic Beast Gryphon\"; Special Summon this card from your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except by Xyz Summon that uses only monsters with \"Heraldic Beast\" or \"Number\" in their original names as material. Can be treated as 2 materials for the Xyz Summon of a \"Number\" Xyz Monster that requires 3 or more materials. You can only use each effect of \"Heraldic Beast Gryphon\" once per turn.",
     "race": "Winged Beast",
     "atk": 1600,
     "def": 1000,
@@ -16,6 +16,15 @@
     "attribute": "WIND",
     "archetype": "Heraldic",
     "ygoprodeck_url": "https://ygoprodeck.com/card/heraldic-beast-gryphon-14889",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 60268386,

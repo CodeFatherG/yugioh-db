@@ -1,6 +1,6 @@
 {
     "id": 81476402,
-    "name": "Serpent Night Dragon, the Wicked Dragon",
+    "name": "Wicked Serpent Night Dragon",
     "typeline": [
         "Dragon",
         "Effect"
@@ -15,6 +15,15 @@
     "level": 7,
     "attribute": "DARK",
     "ygoprodeck_url": "https://ygoprodeck.com/card/serpent-night-dragon-the-wicked-dragon-14906",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 81476402,

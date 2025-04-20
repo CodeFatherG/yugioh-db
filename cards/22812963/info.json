@@ -1,6 +1,6 @@
 {
     "id": 22812963,
-    "name": "Regenesis God Deuteronomion",
+    "name": "Regenesis Lord",
     "typeline": [
         "Illusion",
         "Effect"
@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 face-up monster you control with 2500 original ATK and DEF. You can only Special Summon \"Regenesis God Deuteronomion\" once per turn this way. If this card is Special Summoned: You can Set 1 \"Regenesis\" Spell/Trap from your Deck. Gains 2500 ATK during the Battle Phase only. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 face-up monster you control with 2500 original ATK and DEF. You can only Special Summon \"Regenesis Lord\" once per turn this way. If this card is Special Summoned: You can Set 1 \"Regenesis\" Spell/Trap from your Deck. Gains 2500 ATK during the Battle Phase only. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
     "race": "Illusion",
     "atk": 2500,
     "def": 2500,
     "level": 10,
     "attribute": "LIGHT",
     "archetype": "Regenesis",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/regenesis-god-deuteronomion-14902",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/regenesis-lord-14902",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN017",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN017",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 22812963,

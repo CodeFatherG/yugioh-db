@@ -1,6 +1,6 @@
 {
     "id": 94655777,
-    "name": "Nebulous, Dragon Ruler of Shadows",
+    "name": "Nebulus, Dragon Ruler of Mishaps",
     "typeline": [
         "Dragon",
         "Effect"
@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can discard this card and 1 DARK or Dragon monster, then target 2 of your banished \"Dragon Ruler\" monsters with different Attributes, except \"Nebulous, Dragon Ruler of Shadows\"; Special Summon them, but they cannot attack this turn. You can banish this card and 1 DARK or Dragon monster from your GY, then target 1 \"Eclepsis, Dragon Ruler of Woes\" in your GY; Special Summon it. You can only use 1 \"Nebulous, Dragon Ruler of Shadows\" effect per turn, and only once that turn.",
+    "desc": "You can discard this card and 1 Dragon or DARK monster, then target 2 of your banished \"Dragon Ruler\" monsters with different Attributes, except \"Nebulus, Dragon Ruler of Mishaps\"; Special Summon them, but they cannot attack this turn. You can banish from your GY, this card and 1 Dragon or DARK monster, then target 1 \"Eclipse, Dragon Ruler of Catastrophes\" in your GY; Special Summon it. You can only use 1 \"Nebulus, Dragon Ruler of Mishaps\" effect per turn, and only once that turn.",
     "race": "Dragon",
     "atk": 1000,
     "def": 600,
     "level": 2,
     "attribute": "DARK",
     "archetype": "Dragon Ruler",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/nebulous-dragon-ruler-of-shadows-14896",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nebulus-dragon-ruler-of-mishaps-14896",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN019",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN019",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 94655777,

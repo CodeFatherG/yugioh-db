@@ -1,12 +1,28 @@
 {
     "id": 58053438,
-    "name": "The Psalms of Kings",
+    "name": "Songs of the Dominators",
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
     "desc": "If you have no monsters in your GY, you can activate this card from your hand. When your opponent activates a monster effect on the field: Negate that effect, then if you have a Trap in your GY, you can add 1 \"Dominus\" card from your Deck to your hand. If you activated this card from your hand, you cannot activate monster effects in the hand, GY, and banishment until the end of the next turn. You can only activate 1 \"The Psalms of Kings\" per turn.",
     "race": "Normal",
     "ygoprodeck_url": "https://ygoprodeck.com/card/the-psalms-of-kings-14951",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN078",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN078",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 58053438,

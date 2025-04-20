@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If you control a Cyberse monster Special Summoned from the Extra Deck: You can target 1 DARK Cyberse monster in your GY; Special Summon both this card from your hand and that monster in Defense Position, also you cannot Special Summon for the rest of this turn, except Cyberse monsters. You can banish this card from your field or GY, then target 1 monster your opponent controls; change its battle position. You can only use each effect of \"Wizard @Ignister\" once per turn.",
+    "desc": "If you control a Cyberse monster that was Special Summoned from the Extra Deck: You can target 1 DARK Cyberse monster in your GY; Special Summon both this card in your hand and that monster, in Defense Position, also you cannot Special Summon for the rest of this turn, except Cyberse monsters. You can banish this card from your field or GY, then target 1 monster your opponent controls; change its battle position. You can only use each effect of \"Wizard @Ignister\" once per turn.",
     "race": "Cyberse",
     "atk": 1800,
     "def": 800,
@@ -16,6 +16,15 @@
     "attribute": "DARK",
     "archetype": "@Ignister",
     "ygoprodeck_url": "https://ygoprodeck.com/card/wizard-ignister-14911",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 3723262,

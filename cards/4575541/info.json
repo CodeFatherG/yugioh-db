@@ -1,12 +1,21 @@
 {
     "id": 4575541,
-    "name": "Dragocalamity",
+    "name": "Here There Be Dragons",
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Special Summon 1 \"Dragon Ruler\" monster from your hand, GY, or banishment, then, immediately after this effect resolves, you can Xyz Summon 1 \"Dragon Ruler\" monster using only \"Dragon Ruler\" monsters you control as material. During your Main Phase: You can banish this card from your GY, then target any number of your banished \"Dragon Ruler\" monsters with different Attributes; return them to the GY. You can only use 1 \"Dragocalamity\" effect per turn, and only once that turn.",
+    "desc": "Special Summon 1 \"Dragon Ruler\" monster from your hand, GY, or banishment, then immediately after this effect resolves, you can Xyz Summon 1 \"Dragon Ruler\" Xyz Monster using only \"Dragon Ruler\" monsters you control. During your Main Phase: You can banish this card from your GY, then target any number of your banished \"Dragon Ruler\" monsters with different Attributes; return them to the GY. You can only use 1 \"Here There Be Dragons\" effect per turn, and only once that turn.",
     "race": "Quick-Play",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/dragocalamity-14924",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/here-there-be-dragons-14924",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN061",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 4575541,

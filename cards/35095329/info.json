@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can target 1 \"HERO\" monster on the field; Special Summon this card from your hand in Defense Position, and if you do, that monster gains 300 ATK. You can only use this effect of \"Evil HERO Vicious Claws\" once per turn. If a monster(s) you control is destroyed by battle or card effect: You can Special Summon this card from your GY, then, if you have a monster in your GY that mentions \"Dark Fusion\", you can destroy 1 card on the field. You can only use this effect of \"Evil HERO Vicious Claws\" once per Duel.",
+    "desc": "You can target 1 \"HERO\" monster on the field; Special Summon this card from your hand in Defense Position, and if you do, that monster gains 300 ATK. You can only use this effect of \"Evil HERO Vicious Claws\" once per turn. If a monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can Special Summon this card, then if you have a monster that mentions \"Dark Fusion\" in your GY, you can destroy 1 card on the field. You can only use this effect of \"Evil HERO Vicious Claws\" once per Duel.",
     "race": "Fiend",
     "atk": 2500,
     "def": 2500,
@@ -16,6 +16,15 @@
     "attribute": "DARK",
     "archetype": "Evil HERO",
     "ygoprodeck_url": "https://ygoprodeck.com/card/evil-hero-vicious-claws-14887",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 35095329,

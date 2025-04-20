@@ -1,13 +1,22 @@
 {
     "id": 91509824,
-    "name": "PA.I.rtners",
+    "name": "SA.I.dekick",
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Target face-up cards your opponent controls equal to the number of Cyberse monsters you control with 2300 original ATK; negate their effects until the end of this turn. You can banish this card from your GY, then target 1 of your banished Cyberse monsters; Special Summon it. You can only use each effect of \"PA.I.rtners\" once per turn.",
+    "desc": "Target face-up cards your opponent controls equal to the number of Cyberse monsters you control with 2300 original ATK; negate their effects until the end of this turn. You can banish this card from your GY, then target 1 of your banished Cyberse monsters; Special Summon it. You can only use each effect of \"SA.I.dekick\" once per turn.",
     "race": "Normal",
     "archetype": "A.I.",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/pa-i-rtners-14941",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sa-i-dekick-14941",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 91509824,

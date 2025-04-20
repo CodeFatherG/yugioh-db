@@ -4,9 +4,18 @@
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Add 1 Level 5 or higher LIGHT or DARK Pyro or Aqua monster from your Deck or GY to your hand, then if you have 3 or more Pyro and/or Aqua monsters in your GY, you can destroy 1 card on the field. If your opponent controls a LIGHT or DARK Pyro or Aqua monster: You can banish this card from your GY, then target 1 monster your opponent controls; take control of it until the End Phase. You can only use each effect of \"Chaotic Elements\" once per turn.",
+    "desc": "Add 1 Level 5 or higher monster (LIGHT or DARK, Pyro or Aqua) from your Deck or GY to your hand, then if you have 3 or more Pyro and/or Aqua monsters in your GY, you can destroy 1 card on the field. If your opponent controls a monster (LIGHT or DARK, Pyro or Aqua): You can banish this card from your GY, then target 1 monster your opponent controls; take control of it until the End Phase. You can only use each effect of \"Chaotic Elements\" once per turn.",
     "race": "Normal",
     "ygoprodeck_url": "https://ygoprodeck.com/card/chaotic-elements-14917",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN067",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 92221402,

@@ -1,12 +1,21 @@
 {
     "id": 38625110,
-    "name": "Do it Early, Do it Together",
+    "name": "Let's Go Together",
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
     "desc": "If you do not have \"Do it Early, Do it Together\" in your face-up field, GY, nor banishment: Banish the top 7 cards of your Deck, face-down; your opponent banishes 7 cards from their Extra Deck and/or the top of their Deck, face-down.",
     "race": "Quick-Play",
     "ygoprodeck_url": "https://ygoprodeck.com/card/do-it-early-do-it-together-14922",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 38625110,

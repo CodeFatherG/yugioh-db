@@ -1,6 +1,6 @@
 {
     "id": 30350202,
-    "name": "Eclepsis, Dragon Ruler of Woes",
+    "name": "Eclipse, Dragon Ruler of Catastrophes",
     "typeline": [
         "Dragon",
         "Xyz",
@@ -9,14 +9,30 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "2 Level 7 Dragon monsters\r\nIf this card is Xyz Summoned: You can target 1 Level 4 or lower \"Dragon Ruler\" monster in your GY or banishment; Special Summon 1 Level/Rank 7 \"Dragon Ruler\" monster mentioned on it from your Deck or banishment, then shuffle that target into the Deck. When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can detach 2 materials from this card; negate the activation, and if you do, banish that card. You can only use each effect of \"Eclepsis, Dragon Ruler of Woes\" once per turn.",
+    "desc": "2 Level 7 Dragon monsters\r\nIf this card is Xyz Summoned: You can target 1 Level 4 or lower \"Dragon Ruler\" monster in your GY or banishment; Special Summon 1 Level/Rank 7 \"Dragon Ruler\" monster that is mentioned on that targeted monster from your Deck or banishment, then shuffle the targeted monster into the Deck. When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can detach 2 materials from this card; negate the activation, and if you do, banish that card. You can only use each effect of \"Eclipse, Dragon Ruler of Catastrophes\" once per turn.",
     "race": "Dragon",
     "atk": 2700,
     "def": 1900,
     "level": 7,
     "attribute": "DARK",
     "archetype": "Dragon Ruler",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/eclepsis-dragon-ruler-of-woes-14926",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/eclipse-dragon-ruler-of-catastrophes-14926",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN048",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN048",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 30350202,

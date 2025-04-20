@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can Special Summon this card (from your hand) by discarding 1 card, and if you do, its name becomes \"Dark Magician Girl\". You can only Special Summon \"Dark Magician Girl the Magician's Apprentice\" once per turn this way. If this card is Normal or Special Summoned: You can add 1 \"Shining Sarcophagus\" from your Deck to your hand. You can only use this effect of \"Dark Magician Girl the Magician's Apprentice\" once per turn. Gains 300 ATK for each monster in the GYs that mentions \"Shining Sarcophagus\".",
+    "desc": "You can Special Summon this card (from your hand) by discarding 1 card, and if you do, this card's name becomes \"Dark Magician Girl\". You can only Special Summon \"Dark Magician Girl the Magician's Apprentice\" once per turn this way. If this card is Normal or Special Summoned: You can add 1 \"Shining Sarcophagus\" from your Deck to your hand. You can only use this effect of \"Dark Magician Girl the Magician's Apprentice\" once per turn. Gains 300 ATK for each monster that mentions \"Shining Sarcophagus\" in the GYs.",
     "race": "Spellcaster",
     "atk": 2000,
     "def": 1700,
@@ -16,6 +16,22 @@
     "attribute": "DARK",
     "archetype": "Dark Magician",
     "ygoprodeck_url": "https://ygoprodeck.com/card/dark-magician-girl-the-magician-s-apprentice-14883",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN004",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN004",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 2501624,

@@ -1,6 +1,6 @@
 {
     "id": 4965193,
-    "name": "Chasmatis, Dragon Ruler of Auroras",
+    "name": "Chasma, Dragon Ruler of Auroras",
     "typeline": [
         "Dragon",
         "Xyz",
@@ -9,14 +9,30 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "2 Level 7 Dragon monsters\r\n(Quick Effect): You can send 1 Level 7 \"Dragon Ruler\" monster from your Deck to the GY and detach 1 material from this card; this effect becomes that sent monster's effect that activates by discarding itself. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can Special Summon 1 Level 7 \"Dragon Ruler\" monster from your GY or banishment. You can only use each effect of \"Chasmatis, Dragon Ruler of Auroras\" once per turn.",
+    "desc": "2 Level 7 Dragon monsters\r\n(Quick Effect): You can send 1 Level 7 \"Dragon Ruler\" monster from your Deck to the GY and detach 1 material from this card; this effect becomes that sent monster's effect that discards itself to activate. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can Special Summon 1 Level 7 \"Dragon Ruler\" monster from your GY or banishment. You can only use each effect of \"Chasma, Dragon Ruler of Auroras\" once per turn.",
     "race": "Dragon",
     "atk": 3000,
     "def": 1600,
     "level": 7,
     "attribute": "LIGHT",
     "archetype": "Dragon Ruler",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/chasmatis-dragon-ruler-of-auroras-14918",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chasma-dragon-ruler-of-auroras-14918",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN047",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN047",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 4965193,

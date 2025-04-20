@@ -4,10 +4,19 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Apply the following effect (for the rest of this turn), then you can attach this card to a Rank 4 Xyz Monster you control as material.\r\n\u25cf \"Ryzeal\" monsters you control will gain 1000 ATK.\r\nIf this card is sent to the GY, except from the field: You can target 1 card in your opponent's GY; banish it. You can only use each effect of \"Ryzeal Mass Driver\" once per turn.",
+    "desc": "Apply the following effect, then you can attach this card to a Rank 4 Xyz Monster you control.\r\n\u25cf for the rest of this turn, all \"Ryzeal\" monsters you control gain 1000 ATK.\r\nIf this card is sent to the GY, except from the field: You can target 1 card in your opponent's GY; banish it. You can only use each effect of \"Ryzeal Mass Driver\" once per turn.",
     "race": "Normal",
     "archetype": "Ryzeal",
     "ygoprodeck_url": "https://ygoprodeck.com/card/ryzeal-mass-driver-14946",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 53276089,

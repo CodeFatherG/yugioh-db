@@ -1,6 +1,6 @@
 {
     "id": 39138610,
-    "name": "Accode Talker @Ignister",
+    "name": "Allied Code Talker @Ignister",
     "typeline": [
         "Cyberse",
         "Link",
@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "3+ Effect Monsters\r\nIf this card is Link Summoned: You can activate this effect; you cannot Special Summon other monsters for the rest of this turn, also Special Summon as many Cyberse monsters with 2300 ATK from your GY as possible to your zones this card points to, and if you do, this card gains 500 ATK for each. When your opponent activates a card or effect (Quick Effect): You can Tribute 1 Link Monster this card points to; negate the activation, and if you do, banish that card. You can only use this effect of \"Accode Talker @Ignister\" once per turn.",
+    "desc": "3+ Effect Monsters\r\nIf this card is Link Summoned: You can Special Summon as many Cyberse monsters with 2300 ATK from your GY as possible to your zones this card points to, and if you do, this card gains 500 ATK for each, also you cannot Special Summon for the rest of this turn. When your opponent activates a card or effect (Quick Effect): You can Tribute 1 of your Link Monsters this card points to; negate the activation, and if you do, banish that card. You can only use this effect of \"Allied Code Talker @Ignister\" once per turn.",
     "race": "Cyberse",
     "atk": 2300,
     "def": null,
@@ -24,7 +24,23 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "ygoprodeck_url": "https://ygoprodeck.com/card/accode-talker-ignister-14913",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/allied-code-talker-ignister-14913",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN051",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN051",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 39138610,

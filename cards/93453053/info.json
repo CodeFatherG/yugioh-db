@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Target 1 face-up monster your opponent controls; banish 1 \"Maliss\" monster from your hand or face-up field, and if you do, negate the targeted monster's effects until the end of this turn. If this card is banished: You can target 1 \"Maliss\" card in your GY; banish it, and if you do, add 1 \"Maliss\" card of the same type (Monster, Spell, or Trap) from your Deck to your hand. You can only use each effect of \"Maliss in the Mirror\" once per turn.",
+    "desc": "Target 1 face-up monster your opponent controls; banish 1 \"Maliss\" monster from your hand or face-up field, and if you do, negate that monster's effects until the end of this turn. If this card is banished: You can target 1 \"Maliss\" card in your GY; banish it, and if you do, add 1 \"Maliss\" card of the same type (Monster, Spell, or Trap) from your Deck to your hand. You can only use each effect of \"Maliss in the Mirror\" once per turn.",
     "race": "Quick-Play",
     "archetype": "Maliss",
     "ygoprodeck_url": "https://ygoprodeck.com/card/maliss-in-the-mirror-14936",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN064",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 93453053,

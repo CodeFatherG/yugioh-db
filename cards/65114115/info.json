@@ -1,12 +1,21 @@
 {
     "id": 65114115,
-    "name": "Seven Star Sky Style Battojutsu - \"Hagun\"",
+    "name": "Seven Stars Slash - Army Annihilator Hagun",
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Target 1 face-up monster you control; equip 1 Level 7 monster with the same Type, but a different name, from your hand or Deck to it as an Equip Spell that gives it 700 ATK, but return that Equip Card to the hand during the End Phase. When an opponent's Level/Rank 8 or higher monster is destroyed by battle while this card is in your GY: You can add this card to your hand. You can only activate 1 \"Seven Star Sky Style Battojutsu - \"Hagun\"\" per turn.",
+    "desc": "Target 1 face-up monster you control; equip it with 1 Level 7 monster with the same Type but a different name from your hand or Deck as an Equip Spell that gives it 700 ATK, but return that Equip Spell to the hand during the End Phase. When your opponent's Level/Rank 8 or higher monster is destroyed by battle, while this card is in your GY: You can add this card to your hand. You can only activate 1 \"Seven Stars Slash - Army Annihilator Hagun\" per turn.",
     "race": "Quick-Play",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/seven-star-sky-style-battojutsu-hagun-14947",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/seven-stars-slash-army-annihilator-hagun-14947",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN069",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 65114115,

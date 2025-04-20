@@ -1,13 +1,22 @@
 {
     "id": 90664684,
-    "name": "Ryu-Ge Ruin",
+    "name": "Ryu-Ge End",
     "type": "Trap Card",
     "humanReadableCardType": "Continuous Trap",
     "frameType": "trap",
-    "desc": "Your opponent cannot target \"Ryu-Ge\" monsters you control with card effects. You can only use each of the following effects of \"Ryu-Ge Ruin\" once per turn. If you have a \"Ryu-Ge\" Pendulum Monster in your field or face-up Extra Deck: You can shuffle 2 \"Ryu-Ge\" monsters from your hand, GY, and/or banishment into the Deck, then target 1 monster on the field; destroy it. If this card is destroyed: You can Set 1 non-Continuous \"Ryu-Ge\" Trap from your Deck, GY, or banishment.",
+    "desc": "Your opponent cannot target \"Ryu-Ge\" monsters you control with card effects. You can only use each of the following effects of \"Ryu-Ge End\" once per turn. If a \"Ryu-Ge\" Pendulum Monster is in your field or face-up Extra Deck: You can shuffle 2 \"Ryu-Ge\" monsters from your hand, GY, and/or banishment into the Main Deck, then target 1 monster on the field; destroy it. If this card is destroyed: You can Set 1 non-Continuous \"Ryu-Ge\" Trap from your Deck, GY, or banishment.",
     "race": "Continuous",
     "archetype": "Ryu-Ge",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/ryu-ge-ruin-14945",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ryu-ge-end-14945",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 90664684,

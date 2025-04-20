@@ -9,13 +9,22 @@
     "type": "Tuner Monster",
     "humanReadableCardType": "Tuner Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is Normal or Special Summoned: You can add 1 \"Brain Control\" from your Deck to your hand. If you pay LP (except during the Damage Step): You can target 1 face-up monster on the field that has a Level and declare a Level from 1 to 8; it becomes that Level. If this card is sent to the GY as Synchro Material: You can Special Summon this card to your opponent's field in Defense Position, but negate its effects. You can only use each effect of \"Brain Controller\" once per turn.",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 \"Brain Control\" from your Deck to your hand. If you pay LP (except during the Damage Step): You can target 1 face-up monster on the field and declare a Level from 1 to 8; that monster becomes that Level. If this card is sent to the GY as Synchro Material: You can Special Summon this card to your opponent's field in Defense Position, but negate its effects. You can only use each effect of \"Brain Controller\" once per turn.",
     "race": "Psychic",
     "atk": 100,
     "def": 200,
     "level": 1,
     "attribute": "DARK",
     "ygoprodeck_url": "https://ygoprodeck.com/card/brain-controller-14880",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 44265115,

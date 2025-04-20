@@ -1,6 +1,6 @@
 {
     "id": 22938501,
-    "name": "Regenesis Sage Shemot",
+    "name": "Regenesis Sage",
     "typeline": [
         "Spellcaster",
         "Effect"
@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If a monster with 2500 original ATK or DEF is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Regenesis Sage Shemot\" once per turn this way. You can only use each of the following effects of \"Regenesis Sage Shemot\" once per turn. When your opponent activates a card or effect (Quick Effect): You can send 1 other \"Regenesis\" card from your hand or face-up field to the GY; negate the activation, and if you do, destroy that card. During your opponent's End Phase, if this card is in the GY because it was sent there this turn: You can add this card to your hand.",
+    "desc": "If a monster with 2500 original ATK or DEF is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Regenesis Sage\" once per turn this way. You can only use each of the following effects of \"Regenesis Sage\" once per turn. When your opponent activates a card or effect (Quick Effect): You can send 1 other \"Regenesis\" card from your hand or face-up field to the GY; negate the activation, and if you do, destroy that card. During your opponent's End Phase, if this card is in the GY because it was sent there this turn: You can add this card to your hand.",
     "race": "Spellcaster",
     "atk": 2500,
     "def": 2500,
     "level": 7,
     "attribute": "WATER",
     "archetype": "Regenesis",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/regenesis-sage-shemot-14903",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/regenesis-sage-14903",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN014",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN014",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 22938501,

@@ -1,13 +1,22 @@
 {
     "id": 78293584,
-    "name": "Philias Diabell",
+    "name": "Filia Diabell",
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Add 1 Level 8 or higher \"Diabell\" monster from your Deck to your hand, or, if only your opponent controls a monster, you can Special Summon it instead. If this card is banished: You can make all \"Diabell\" monsters you currently control gain 500 ATK. You can only use each effect of \"Philias Diabell\" once per turn.",
+    "desc": "Add 1 Level 8 or higher \"Diabell\" monster from your Deck to your hand, or if only your opponent controls a monster, you can Special Summon it instead. If this card is banished: You can make all \"Diabell\" monsters you currently control gain 500 ATK. You can only use each effect of \"Filia Diabell\" once per turn.",
     "race": "Normal",
     "archetype": "Diabell",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/philias-diabell-14943",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/filia-diabell-14943",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 78293584,

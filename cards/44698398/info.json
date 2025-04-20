@@ -9,13 +9,13 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "2 Level 8 monsters\r\nIf this card is Special Summoned from the Extra Deck: You can add 1 \"Galaxy\" or \"Tachyon\" card from your Deck to your hand. You can detach 2 materials from this card; Special Summon 1 Rank 8 Dragon Xyz Monster with 3000 ATK from your Extra Deck, by using this card you control as material, then you can attach 1 \"Galaxy\" monster from your Extra Deck to it as additional material. (This is treated as an Xyz Summon. Transfer this card's materials to the Summoned monster.) You can only use each effect of \"Dragluxion\" once per turn.",
+    "desc": "2 Level 8 monsters\r\nIf this card is Special Summoned from the Extra Deck: You can add 1 \"Galaxy\" or \"Tachyon\" card from your Deck to your hand. You can detach 2 materials from this card; Special Summon from your Extra Deck, 1 Rank 8 Dragon Xyz Monster with 3000 ATK, using this card you control as material (this is treated as an Xyz Summon, transfer its materials to the Summoned monster), then you can attach 1 \"Galaxy\" monster from your Extra Deck to it. You can only use each effect of \"Divine Golden Shadow Dragon Dragluxion\" once per turn.",
     "race": "Dragon",
     "atk": 2500,
     "def": 3000,
     "level": 8,
     "attribute": "LIGHT",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/dragluxion-14495",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/divine-golden-shadow-dragon-dragluxion-14495",
     "card_sets": [
         {
             "set_name": "Maze of the Master",
@@ -42,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.45",
-            "tcgplayer_price": "1.49",
+            "cardmarket_price": "1.70",
+            "tcgplayer_price": "1.86",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
