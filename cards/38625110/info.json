@@ -4,9 +4,9 @@
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "If you do not have \"Do it Early, Do it Together\" in your face-up field, GY, nor banishment: Banish the top 7 cards of your Deck, face-down; your opponent banishes 7 cards from their Extra Deck and/or the top of their Deck, face-down.",
+    "desc": "If you have no \"Let's Go Together\" in your face-up field, GY, nor banishment: Banish 7 cards from the top of your Deck, face-down; make your opponent banish 7 cards from their Extra Deck and/or top of their Deck, face-down, and they must declare how many are banished from each beforehand.",
     "race": "Quick-Play",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/do-it-early-do-it-together-14922",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/let-s-go-together-14922",
     "card_sets": [
         {
             "set_name": "Alliance Insight",
@@ -26,7 +26,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
+            "cardmarket_price": "0.16",
             "tcgplayer_price": "0.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

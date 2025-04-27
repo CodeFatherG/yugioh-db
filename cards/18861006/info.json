@@ -8,13 +8,13 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand), and if you do, it can attack directly this turn. You can only Special Summon \"Firewing Pegasus, the Crimson Heavenly Horse\" once per turn this way. When your opponent activates a monster effect on the field (Quick Effect): You can inflict damage to your opponent equal to the Chain Link number of this effect x 300, and if you do, this card cannot be destroyed by card effects activated before this effect in this Chain. You can only use this effect of \"Firewing Pegasus, the Crimson Heavenly Horse\" once per turn.",
+    "desc": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand), and if you do, it can attack directly this turn. You can only Special Summon \"Crimson Firewing Pegasus\" once per turn this way. When your opponent activates a monster effect on the field (Quick Effect): You can inflict damage to your opponent equal to the Chain Link number of this effect x 300, also this card cannot be destroyed by effects activated before this one in this Chain. You can only use this effect of \"Crimson Firewing Pegasus\" once per turn.",
     "race": "Beast",
     "atk": 2250,
     "def": 1800,
     "level": 6,
     "attribute": "FIRE",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/firewing-pegasus-the-crimson-heavenly-horse-14888",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crimson-firewing-pegasus-14888",
     "card_sets": [
         {
             "set_name": "Alliance Insight",
@@ -34,7 +34,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
+            "cardmarket_price": "0.12",
             "tcgplayer_price": "0.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

@@ -1,0 +1,42 @@
+{
+    "id": 76072561,
+    "name": "Sky Striker Ace = Zero",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 \"Sky Striker Ace\" monsters\r\nYou can only Special Summon \"Sky Striker Ace = Zero(s)\" once per turn. Cannot be used as Link Material. If this card is Special Summoned: You can add 1 \"Sky Striker\" Spell from your Deck or GY to your hand. (Quick Effect): You can Tribute this card; Special Summon both 1 \"Sky Striker Ace - Raye\" and 1 \"Sky Striker Ace - Roze\" from your Deck and/or GY, then you can destroy 1 card on the field. You can only use 1 \"Sky Striker Ace = Zero\" effect per turn, and only once that turn.",
+    "race": "Machine",
+    "atk": 2000,
+    "def": null,
+    "level": null,
+    "attribute": "LIGHT",
+    "archetype": "Sky Striker",
+    "linkval": 2,
+    "linkmarkers": [
+        "Bottom-Left",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-ace-zero-15068",
+    "card_images": [
+        {
+            "id": 76072561,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76072561.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76072561.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76072561.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

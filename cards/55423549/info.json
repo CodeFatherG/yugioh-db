@@ -1,0 +1,35 @@
+{
+    "id": 55423549,
+    "name": "Leo Wizard, the Dark Mage",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Monsters whose original Level is 4 or lower with more than 1350 ATK and/or DEF require 1 Tribute to Normal Summon from the hand. At the start of the Damage Step, if this card battles a LIGHT monster: You can destroy that monster. If this card is destroyed by battle or card effect: You can add 1 monster with 1350 ATK from your Deck to your hand. You can only use this effect of \"Leo Wizard, the Dark Mage\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 1350,
+    "def": 1200,
+    "level": 4,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/leo-wizard-the-dark-mage-15067",
+    "card_images": [
+        {
+            "id": 55423549,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55423549.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55423549.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55423549.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

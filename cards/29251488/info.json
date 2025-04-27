@@ -1,0 +1,40 @@
+{
+    "id": 29251488,
+    "name": "Chef de Nouvelles",
+    "typeline": [
+        "Fiend",
+        "Pendulum",
+        "Effect"
+    ],
+    "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
+    "desc": "[ Pendulum Effect ] \nDuring your Main Phase, if this card was activated this turn: You can add 1 \"Nouvelles\" card from your Deck to your hand, except a Pendulum Monster. If a monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Chef de Nouvelles\" once per turn.\n\n[ Monster Effect ] \nIf this card on the field is Tributed and added to the Extra Deck face-up: You can place this card in your Pendulum Zone. You cannot activate the following effects of \"Chef de Nouvelles\" in the same Chain. Once per turn (Quick Effect): You can target 1 Effect Monster on the field; increase its Level by up to 3. Once per turn, if your opponent Special Summons a monster(s) (except during the Damage Step): You can banish 1 \"Recipe\" Ritual Spell from your hand, Deck, or GY; apply that card's activation effect that Ritual Summons a monster.",
+    "race": "Fiend",
+    "pend_desc": "During your Main Phase, if this card was activated this turn: You can add 1 \"Nouvelles\" card from your Deck to your hand, except a Pendulum Monster. If a monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Chef de Nouvelles\" once per turn.",
+    "monster_desc": "If this card on the field is Tributed and added to the Extra Deck face-up: You can place this card in your Pendulum Zone. You cannot activate the following effects of \"Chef de Nouvelles\" in the same Chain. Once per turn (Quick Effect): You can target 1 Effect Monster on the field; increase its Level by up to 3. Once per turn, if your opponent Special Summons a monster(s) (except during the Damage Step): You can banish 1 \"Recipe\" Ritual Spell from your hand, Deck, or GY; apply that card's activation effect that Ritual Summons a monster.",
+    "atk": 1000,
+    "def": 1850,
+    "level": 3,
+    "attribute": "LIGHT",
+    "archetype": "Nouvelles",
+    "scale": 0,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chef-de-nouvelles-15040",
+    "card_images": [
+        {
+            "id": 29251488,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29251488.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29251488.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29251488.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 1665819,
+    "name": "Replicard LAD",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can banish 1 other Level 7 or higher monster from your hand; Special Summon this card from your hand. You can target 1 face-up monster you control; Special Summon 1 monster from your Deck with a different name that has 2 or more of the same Level, ATK, and/or DEF, but it cannot activate its effects this turn. You can only use each effect of \"Replicard LAD\" once per turn.",
+    "race": "Cyberse",
+    "atk": 2500,
+    "def": 2500,
+    "level": 7,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/replicard-lad-15021",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN087",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 1665819,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1665819.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1665819.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1665819.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

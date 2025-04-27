@@ -9,13 +9,13 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nEach time your opponent activates a card or effect, gain 300 LP immediately after it resolves. During your opponent's turn (Quick Effect): You can pay 1500 LP and Tribute this card, then activate 1 of these effects;\r\n\u25cf Destroy all face-up monsters your opponent controls.\r\n\u25cf Destroy all face-up Spells/Traps your opponent controls.\r\nYou can only use this effect of \"Jura the Curse-Thunder Deity\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nEach time your opponent activates a card or effect, gain 300 LP when it resolves. During your opponent's turn (Quick Effect): You can pay 1500 LP and Tribute this card, then activate 1 of these effects;\r\n\u25cf Destroy all face-up monsters your opponent controls.\r\n\u25cf Destroy all face-up Spells and Traps your opponent controls.\r\nYou can only use this effect of \"Juraishin, the Cursed Thunder God\" once per turn.",
     "race": "Psychic",
     "atk": 3100,
     "def": 3100,
     "level": 11,
     "attribute": "EARTH",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/jura-the-curse-thunder-deity-14934",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/juraishin-the-cursed-thunder-god-14934",
     "card_sets": [
         {
             "set_name": "Alliance Insight",
@@ -42,7 +42,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
+            "cardmarket_price": "2.83",
             "tcgplayer_price": "0.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

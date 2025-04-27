@@ -4,9 +4,9 @@
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "This card's activation and effect cannot be negated. At the start of your Main Phase 1 or 2: Target any number of face-up cards on the field; for every targeted card, banish 1 card from your hand or 6 cards from your Extra Deck, face-down, then return the targeted cards to the hand.",
+    "desc": "This card's activation and effect cannot be negated. At the start of your Main Phase 1 or 2: Target any number of face-up cards on the field; for each targeted card, banish 1 card from your hand, or 6 cards from your Extra Deck, face-down, then return those targeted cards to the hand.",
     "race": "Normal",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/gordian-schneider-14932",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gordian-slicer-14932",
     "card_sets": [
         {
             "set_name": "Alliance Insight",
@@ -33,7 +33,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
+            "cardmarket_price": "16.75",
             "tcgplayer_price": "0.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

@@ -1,13 +1,22 @@
 {
     "id": 90386276,
-    "name": "Sinless Sinful Spoils",
+    "name": "Sinful Spoils Sanctification",
     "type": "Trap Card",
     "humanReadableCardType": "Continuous Trap",
     "frameType": "trap",
-    "desc": "You can activate 1 of these effects;\r\n\u25cf Target 1 \"Diabell\" monster in your GY or banishment; discard 1 card, and if you do, Special Summon that monster.\r\n\u25cf Target 1 face-up Monster Card in your Spell & Trap Zone; Special Summon it.\r\nYou can only use this effect of \"Sinless Sinful Spoils\" once per turn.",
+    "desc": "You can activate 1 of these effects;\r\n\u25cf Target 1 \"Diabell\" monster in your GY or banishment; discard 1 card, and if you do, Special Summon that monster.\r\n\u25cf Target 1 face-up Monster Card in your Spell & Trap Zone; Special Summon it.\r\nYou can only use this effect of \"Sinful Spoils Sanctification\" once per turn.",
     "race": "Continuous",
     "archetype": "Sinful Spoils",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/sinless-sinful-spoils-14948",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sinful-spoils-sanctification-14948",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 90386276,
@@ -18,7 +27,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
+            "cardmarket_price": "0.16",
             "tcgplayer_price": "0.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

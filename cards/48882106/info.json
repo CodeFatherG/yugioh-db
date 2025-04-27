@@ -1,0 +1,45 @@
+{
+    "id": 48882106,
+    "name": "Toxic Boxfish",
+    "typeline": [
+        "Fish",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can target 1 card in either GY; banish it. If this card is banished: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. You can only use each effect of \"Toxic Boxfish\" once per turn.",
+    "race": "Fish",
+    "atk": 1800,
+    "def": 800,
+    "level": 4,
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/toxic-boxfish-15024",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN085",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 48882106,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48882106.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48882106.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48882106.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

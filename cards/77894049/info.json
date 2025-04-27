@@ -1,0 +1,37 @@
+{
+    "id": 77894049,
+    "name": "Vanquish Soul Rocks",
+    "typeline": [
+        "Pyro",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2+ Level 4 \"Vanquish Soul\" monsters\r\nOnce per turn, if a \"Vanquish Soul\" monster battled this turn, you can also Xyz Summon \"Vanquish Soul Rocks\" by using 1 \"Vanquish Soul\" monster or 1 \"Rock of the Vanquisher\" you control (transfer its materials to this card). Gains the following effects, based on the Attributes of its attached materials.\r\n\u25cf DARK: All monsters your opponent controls lose 800 ATK.\r\n\u25cf FIRE: \"Vanquish Soul\" monsters you control gain 1000 ATK.\r\n\u25cf EARTH: You can detach 1 material from this card; destroy 1 card your opponent controls.",
+    "race": "Pyro",
+    "atk": 2000,
+    "def": 2500,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "Vanquish Soul",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-rocks-15039",
+    "card_images": [
+        {
+            "id": 77894049,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77894049.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77894049.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77894049.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

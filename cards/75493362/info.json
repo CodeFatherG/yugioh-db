@@ -1,0 +1,36 @@
+{
+    "id": 75493362,
+    "name": "Vingolf's Blessing",
+    "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
+    "desc": "When this card is activated: You can send 1 LIGHT Fairy monster from your Deck to the GY. Fairy monsters you control gain 100 ATK for each Fairy monster in your field and GY. If this card is sent to the GY: You can target 1 Level 4 or lower Fairy monster in your GY; Special Summon it. You can only use this effect of \"Vingolf's Blessing\" once per turn. You can only activate 1 \"Vingolf's Blessing\" per turn.",
+    "race": "Continuous",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vingolf-s-blessing-15028",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN083",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 75493362,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75493362.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75493362.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75493362.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -9,10 +9,10 @@
     "type": "Pendulum Effect Monster",
     "humanReadableCardType": "Pendulum Effect Monster",
     "frameType": "effect_pendulum",
-    "desc": "[ Pendulum Effect ] \nYou cannot Pendulum Summon, except \"Ryu-Ge\" monsters (this effect cannot be negated). You can negate your opponent's card or effect activated in response to the activation of your \"Ryu-Ge\" Spell Card or effect, then destroy this card. You can only use this effect of \"Tensei Ryu-Ge Anva\" once per turn.\n\n[ Monster Effect ] \nYou can Tribute 1 \"Ryu-Ge\" monster from your hand or field, except \"Tensei Ryu-Ge Anva\"; Special Summon this card from your hand. If this card is Special Summoned: You can target 1 card on the field; destroy it. If this card is destroyed: You can place 1 \"Ryu-Ge\" Continuous Spell/Trap from your Deck, GY, or banishment, face-up on your field. You can only use each monster effect of \"Tensei Ryu-Ge Anva\" once per turn.",
+    "desc": "[ Pendulum Effect ] \nYou cannot Pendulum Summon, except \"Ryu-Ge\" monsters (this effect cannot be negated). You can negate your opponent's card or effect activated in response to the activation of your \"Ryu-Ge\" Spell Card or effect, then destroy this card. You can only use this effect of \"Tensei Ryu-Ge Anva\" once per turn.\n\n[ Monster Effect ] \nYou can Tribute 1 \"Ryu-Ge\" monster from your hand or field, except \"Tensei Ryu-Ge Anva\"; Special Summon this card from your hand. If this card is Special Summoned: You can target 1 card on the field; destroy it. If this card is destroyed: You can place 1 \"Ryu-Ge\" Continuous Spell/Trap from your Deck, GY, or banishment, face-up on your field. You can only use each effect of \"Tensei Ryu-Ge Anva\" once per turn.",
     "race": "Dragon",
     "pend_desc": "You cannot Pendulum Summon, except \"Ryu-Ge\" monsters (this effect cannot be negated). You can negate your opponent's card or effect activated in response to the activation of your \"Ryu-Ge\" Spell Card or effect, then destroy this card. You can only use this effect of \"Tensei Ryu-Ge Anva\" once per turn.",
-    "monster_desc": "You can Tribute 1 \"Ryu-Ge\" monster from your hand or field, except \"Tensei Ryu-Ge Anva\"; Special Summon this card from your hand. If this card is Special Summoned: You can target 1 card on the field; destroy it. If this card is destroyed: You can place 1 \"Ryu-Ge\" Continuous Spell/Trap from your Deck, GY, or banishment, face-up on your field. You can only use each monster effect of \"Tensei Ryu-Ge Anva\" once per turn.",
+    "monster_desc": "You can Tribute 1 \"Ryu-Ge\" monster from your hand or field, except \"Tensei Ryu-Ge Anva\"; Special Summon this card from your hand. If this card is Special Summoned: You can target 1 card on the field; destroy it. If this card is destroyed: You can place 1 \"Ryu-Ge\" Continuous Spell/Trap from your Deck, GY, or banishment, face-up on your field. You can only use each effect of \"Tensei Ryu-Ge Anva\" once per turn.",
     "atk": 3000,
     "def": 2100,
     "level": 10,
@@ -39,7 +39,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
+            "cardmarket_price": "0.10",
             "tcgplayer_price": "0.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

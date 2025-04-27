@@ -1,0 +1,44 @@
+{
+    "id": 12500059,
+    "name": "Dawn Angel Kambi",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If you control no monsters, or all monsters you control are Fairy monsters: You can Special Summon this card from your hand. You can Tribute any number of Fairy monsters, including this card; Special Summon 1 Fairy monster from your Deck whose Level equals the total Levels those monsters had on the field. You cannot Special Summon the turn you activate this effect, except Fairy monsters. You can only use each effect of \"Dawn Angel Kambi\" once per turn.",
+    "race": "Fairy",
+    "atk": 500,
+    "def": 1800,
+    "level": 1,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dawn-angel-kambi-15026",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN081",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12500059,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12500059.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12500059.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12500059.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

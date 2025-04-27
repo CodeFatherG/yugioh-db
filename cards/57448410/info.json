@@ -9,10 +9,10 @@
     "type": "Pendulum Normal Monster",
     "humanReadableCardType": "Pendulum Normal Monster",
     "frameType": "normal_pendulum",
-    "desc": "[ Pendulum Effect ] \nXyz Monsters you control gain 100 ATK for each material attached to monsters on the field. You can target 1 \"Materiactor\" Xyz Monster you control; attach this card to it as material, then draw 1 card. You can only use this effect of \"Prima Materiactor\" once per turn.\n\n[ Monster Effect ] \n''An alien lifeform that suddenly crash-landed from the heavens far above. Although many researchers have tried to determine why it came, the combination of its luminous glow and the miasma that surrounds it have long shrouded its existence in complete mystery. As a result, trying to grasp the whole picture has been extremely difficult. However, in recent years, thanks to the efforts of up-and-coming researchers, many new species have been discovered. The day will soon come when the full extent of their existence will be revealed.''",
+    "desc": "[ Pendulum Effect ] \nXyz Monsters you control gain 100 ATK for each Xyz Material on the field. You can target 1 \"Materiactor\" Xyz Monster you control; attach this card to it as material, then draw 1 card. You can only use this effect of \"Prima Materiactor\" once per turn.\n\n[ Monster Effect ] \n''An alien life form that suddenly flew in from the heavens far away. Many researchers have tried to determine its true identity, but its luminosity and the miasma emitted have long shrouded its existence in mystery, making it extremely difficult to see the full extent of its existence. Recently, however, a number of new species have been discovered by up-and-coming researchers, and it appears that the full extent of the species' existence is finally being revealed.''",
     "race": "Dragon",
-    "pend_desc": "Xyz Monsters you control gain 100 ATK for each material attached to monsters on the field. You can target 1 \"Materiactor\" Xyz Monster you control; attach this card to it as material, then draw 1 card. You can only use this effect of \"Prima Materiactor\" once per turn.",
-    "monster_desc": "''An alien lifeform that suddenly crash-landed from the heavens far above. Although many researchers have tried to determine why it came, the combination of its luminous glow and the miasma that surrounds it have long shrouded its existence in complete mystery. As a result, trying to grasp the whole picture has been extremely difficult. However, in recent years, thanks to the efforts of up-and-coming researchers, many new species have been discovered. The day will soon come when the full extent of their existence will be revealed.''",
+    "pend_desc": "Xyz Monsters you control gain 100 ATK for each Xyz Material on the field. You can target 1 \"Materiactor\" Xyz Monster you control; attach this card to it as material, then draw 1 card. You can only use this effect of \"Prima Materiactor\" once per turn.",
+    "monster_desc": "''An alien life form that suddenly flew in from the heavens far away. Many researchers have tried to determine its true identity, but its luminosity and the miasma emitted have long shrouded its existence in mystery, making it extremely difficult to see the full extent of its existence. Recently, however, a number of new species have been discovered by up-and-coming researchers, and it appears that the full extent of the species' existence is finally being revealed.''",
     "atk": 0,
     "def": 0,
     "level": 3,
@@ -39,7 +39,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
+            "cardmarket_price": "0.10",
             "tcgplayer_price": "0.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

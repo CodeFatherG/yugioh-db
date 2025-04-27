@@ -1,0 +1,42 @@
+{
+    "id": 12067160,
+    "name": "Zilofthonia Gorgon",
+    "typeline": [
+        "Reptile",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2+ Effect Monsters\r\nYou cannot Summon/Set monsters to a zone(s) this card points to. Monsters this card points to cannot attack, also their activated effects are negated. Gains ATK equal to the total original ATK of all monsters this card points to. Cannot be destroyed by battle or monster effects while it points to no monsters.",
+    "race": "Reptile",
+    "atk": 100,
+    "def": null,
+    "level": null,
+    "attribute": "DARK",
+    "linkval": 3,
+    "linkmarkers": [
+        "Top-Left",
+        "Top",
+        "Top-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zilofthonia-gorgon-15014",
+    "card_images": [
+        {
+            "id": 12067160,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12067160.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12067160.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12067160.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

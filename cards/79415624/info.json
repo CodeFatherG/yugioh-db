@@ -1,6 +1,6 @@
 {
     "id": 79415624,
-    "name": "Snake-Eyes Execute Dragon",
+    "name": "Snake-Eyes Vengeance Dragon",
     "typeline": [
         "Dragon",
         "Synchro",
@@ -9,14 +9,30 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nDuring the Main Phase (Quick Effect): You can target 1 face-up monster on the field or in either GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell, also this card cannot use this effect next turn. During the Battle Phase (Quick Effect): You can target 2 cards on the field (1 monster and 1 Continuous Spell); destroy them. You can only use each effect of \"Snake-Eyes Execute Dragon\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nDuring the Main Phase (Quick Effect): You can target 1 face-up monster on the field or in either GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell, also this card cannot use this effect next turn. During the Battle Phase (Quick Effect): You can target 1 monster and 1 Continuous Spell on the field; destroy them. You can only use each effect of \"Snake-Eyes Vengeance Dragon\" once per turn.",
     "race": "Dragon",
     "atk": 3000,
     "def": 2500,
     "level": 12,
     "attribute": "FIRE",
     "archetype": "-Eyes Dragon",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/snake-eyes-execute-dragon-14949",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/snake-eyes-vengeance-dragon-14949",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN040",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN040",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 79415624,
@@ -27,7 +43,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
+            "cardmarket_price": "3.52",
             "tcgplayer_price": "0.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

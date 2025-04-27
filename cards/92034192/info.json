@@ -1,0 +1,36 @@
+{
+    "id": 92034192,
+    "name": "Super Quantum Black Layer",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "When your opponent activates a monster effect (Quick Effect): You can discard 1 other card, and if you do, Special Summon this card from your hand. If this card is Special Summoned: You can Special Summon 1 \"Super Quantal Mech Beast\" Xyz Monster from your Extra Deck, by using this card you control as material (this is treated as an Xyz Summon), and if you do, attach 1 \"Super Quant\" monster from your GY to it. If this card is sent to the GY: You can add 1 \"Super Quant\" Spell from your Deck to your hand. You can only use each effect of \"Super Quantum Black Layer\" once per turn.",
+    "race": "Zombie",
+    "atk": 2400,
+    "def": 2400,
+    "level": 7,
+    "attribute": "DARK",
+    "archetype": "Super Quant",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/super-quantum-black-layer-15074",
+    "card_images": [
+        {
+            "id": 92034192,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92034192.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92034192.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92034192.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

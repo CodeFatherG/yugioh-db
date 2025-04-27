@@ -1,0 +1,36 @@
+{
+    "id": 34541940,
+    "name": "Artmegia Finemelt",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Your opponent cannot target Level 6 or lower \"Artmegia\" monsters you control with card effects. You can only use each of the following effects of \"Artmegia Finemelt\" once per turn. If you control an \"Artmegia\" card: You can Special Summon this card from your hand, then you can draw 1 card. During the Main Phase, if you control 3 or more different Monster Types (Quick Effect): You can negate the effects of all face-up monsters your opponent currently controls, also their current ATK become halved until the end of this turn.",
+    "race": "Warrior",
+    "atk": 2400,
+    "def": 1500,
+    "level": 7,
+    "attribute": "LIGHT",
+    "archetype": "Artmegia",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/artmegia-finemelt-15057",
+    "card_images": [
+        {
+            "id": 34541940,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34541940.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34541940.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34541940.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

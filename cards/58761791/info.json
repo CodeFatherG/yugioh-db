@@ -1,0 +1,27 @@
+{
+    "id": 58761791,
+    "name": "Shipment Error",
+    "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
+    "desc": "When a card or effect is activated that includes an effect that adds a card(s) from the Deck to the hand: The activated effect becomes \"Your opponent takes 1 card from their Deck for you to add to your hand, and you must keep that card revealed. During the End Phase of this turn, shuffle it into the Deck, and if you do, draw 1 card\".",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shipment-error-15009",
+    "card_images": [
+        {
+            "id": 58761791,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58761791.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58761791.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58761791.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
