@@ -1,0 +1,45 @@
+{
+    "id": 40543231,
+    "name": "Mitsurugi no Mikoto, Aramasa",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned, or if this card is Tributed: You can add 1 \"Mitsurugi\" monster from your Deck to your hand, except \"Mitsurugi no Mikoto, Aramasa\". If another Reptile monster(s) you control would be destroyed by battle or card effect, you can Tribute this card instead. You can only use each effect of \"Mitsurugi no Mikoto, Aramasa\" once per turn.",
+    "race": "Reptile",
+    "atk": 1200,
+    "def": 900,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "Mitsurugi",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mitsurugi-no-mikoto-aramasa-15105",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN090",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 40543231,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40543231.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40543231.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40543231.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.30",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

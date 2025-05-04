@@ -1,0 +1,37 @@
+{
+    "id": 12210097,
+    "name": "Mitsurugi Sacred Boundary",
+    "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
+    "desc": "Your opponent cannot target \"Mitsurugi\" Ritual Monsters you control with effects of monsters that were Special Summoned from the Extra Deck. You can target 4 \"Mitsurugi\" cards in your GY, except \"Mitsurugi Sacred Boundary\"; shuffle them into the Deck, then if your opponent controls a monster, make them Tribute 1 monster they control (their choice). You can only use this effect of \"Mitsurugi Sacred Boundary\" once per turn.",
+    "race": "Continuous",
+    "archetype": "Mitsurugi",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mitsurugi-sacred-boundary-15099",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN095",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 12210097,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12210097.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12210097.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12210097.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

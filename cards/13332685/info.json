@@ -1,0 +1,46 @@
+{
+    "id": 13332685,
+    "name": "Ame no Habakiri no Mitsurugi",
+    "typeline": [
+        "Reptile",
+        "Ritual",
+        "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with \"Mitsurugi Ritual\". Monsters your opponent controls lose 800 ATK. You can reveal this card in your hand; Special Summon 1 \"Mitsurugi\" monster from your Deck, then Tribute 1 monster you control. You can only use this effect of \"Ame no Habakiri no Mitsurugi\" once per Duel. If this card is Tributed: You can add 1 \"Mitsurugi\" card from your Deck to your hand, except \"Ame no Habakiri no Mitsurugi\", then you can Special Summon this card. You can only use this effect of \"Ame no Habakiri no Mitsurugi\" once per turn.",
+    "race": "Reptile",
+    "atk": 2400,
+    "def": 1800,
+    "level": 8,
+    "attribute": "DARK",
+    "archetype": "Mitsurugi",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ame-no-habakiri-no-mitsurugi-15101",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN092",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 13332685,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13332685.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13332685.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13332685.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "1.76",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

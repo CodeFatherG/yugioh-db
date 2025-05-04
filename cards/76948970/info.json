@@ -1,0 +1,45 @@
+{
+    "id": 76948970,
+    "name": "Mitsurugi no Miko, Wousu",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can Special Summon this card (from your hand) by Tributing 1 other Reptile monster from your hand and 1 monster your opponent controls, but you cannot Special Summon nor activate monster effects for the rest of this turn, except Reptile monsters. You can only Special Summon \"Mitsurugi no Miko, Wousu\" once per turn this way. If this card is Tributed: You can discard 1 card, and if you do, add this card to your hand. You can only use this effect of \"Mitsurugi no Miko, Wousu\" once per turn.",
+    "race": "Reptile",
+    "atk": 2000,
+    "def": 2000,
+    "level": 8,
+    "attribute": "DARK",
+    "archetype": "Mitsurugi",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mitsurugi-no-miko-wousu-15104",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN091",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 76948970,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76948970.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76948970.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76948970.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

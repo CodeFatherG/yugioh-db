@@ -1,0 +1,37 @@
+{
+    "id": 49721684,
+    "name": "Mitsurugi Mirror",
+    "type": "Spell Card",
+    "humanReadableCardType": "Ritual Spell",
+    "frameType": "spell",
+    "desc": "This card can be used to Ritual Summon any Reptile Ritual Monster from your hand or GY. You must also Tribute Reptile monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. If \"Ame no Murakumo no Mitsurugi\", \"Futsu no Mitama no Mitsurugi\", or \"Ame no Habakiri no Mitsurugi\" you control is Tributed, while this card is in your GY: You can shuffle this card into the Deck. You can only use each effect of \"Mitsurugi Mirror\" once per turn.",
+    "race": "Ritual",
+    "archetype": "Mitsurugi",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mitsurugi-mirror-15103",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN093",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49721684,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49721684.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49721684.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49721684.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

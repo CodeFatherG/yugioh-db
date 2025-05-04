@@ -1,0 +1,37 @@
+{
+    "id": 49604192,
+    "name": "Mitsurugi Tempest",
+    "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
+    "desc": "If you have a \"Mitsurugi\" Ritual Spell in your GY: Tribute 3 monsters whose original names are \"Ame no Murakumo no Mitsurugi\", \"Futsu no Mitama no Mitsurugi\", and \"Ame no Habakiri no Mitsurugi\"; make your opponent banish exactly 8 cards from their hand, Extra Deck, field, and/or GY. You can only activate 1 \"Mitsurugi Tempest\" per turn.",
+    "race": "Normal",
+    "archetype": "Mitsurugi",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mitsurugi-tempest-15100",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN096",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 49604192,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49604192.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49604192.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49604192.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
