@@ -1,0 +1,46 @@
+{
+    "id": 17749468,
+    "name": "Azamina",
+    "typeline": [
+        "Illusion",
+        "Fusion",
+        "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "\"Queen Azamina\" + 1 Fusion or Synchro Monster\r\nMust first be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 \"Saint Azamina\" you control and 1 face-up monster your opponent controls. Cannot be destroyed by card effects. Each time your opponent activates a card or effect, all monsters they control lose 500 ATK when it resolves. Your opponent cannot activate the effects of monsters with 0 ATK.",
+    "race": "Illusion",
+    "atk": 4000,
+    "def": 4000,
+    "level": 12,
+    "attribute": "LIGHT",
+    "archetype": "Azamina",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/azamina-card-15107",
+    "card_sets": [
+        {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN035",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17749468,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17749468.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17749468.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17749468.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

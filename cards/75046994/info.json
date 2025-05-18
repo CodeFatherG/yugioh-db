@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can banish 1 other \"P.U.N.K.\" card from your hand or GY; Special Summon this card from your hand. If this card is Special Summoned: You can pay 600 LP; take 1 \"P.U.N.K.\" monster from your Deck or GY, except a Level 8 monster, and either add it to your hand or Special Summon it. When a monster your opponent controls with 2500 or more ATK activates its effect (Quick Effect): You can change it to face-down Defense Position. You can only use each effect of \"Noh-P.U.N.K. Rising Scale\" once per turn.",
+    "desc": "You can banish 1 other \"P.U.N.K.\" card from your hand or GY; Special Summon this card from your hand. If this card is Special Summoned: You can pay 600 LP; add to your hand, or Special Summon, 1 \"P.U.N.K.\" monster from your Deck or GY, except a Level 8 monster. When a monster your opponent controls with 2500 or more ATK activates its effect (Quick Effect): You can change it to face-down Defense Position. You can only use each effect of \"Noh-P.U.N.K. Rising Scale\" once per turn.",
     "race": "Sea Serpent",
     "atk": 2400,
     "def": 2400,
@@ -26,7 +26,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "2.43",
+            "cardmarket_price": "3.15",
             "tcgplayer_price": "0.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
