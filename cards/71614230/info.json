@@ -4,10 +4,11 @@
     "typeline": [
         "Warrior",
         "Pendulum",
+        "Spirit",
         "Effect"
     ],
-    "type": "Pendulum Effect Monster",
-    "humanReadableCardType": "Pendulum Effect Monster",
+    "type": "Spirit Monster",
+    "humanReadableCardType": "Pendulum Spirit Effect Monster",
     "frameType": "effect_pendulum",
     "desc": "[ Pendulum Effect ] \nIf a monster(s) is Pendulum Summoned: Return this card from the Pendulum Zone to the hand.\n\n[ Monster Effect ] \nWhen this card is Normal Summoned: You can choose 1 card in your Pendulum Zone, and send to the GY all cards your opponent controls in the same column as that card. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
     "race": "Warrior",
@@ -40,7 +41,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.16",
-            "tcgplayer_price": "0.25",
+            "tcgplayer_price": "0.24",
             "ebay_price": "0.99",
             "amazon_price": "39.99",
             "coolstuffinc_price": "0.25"

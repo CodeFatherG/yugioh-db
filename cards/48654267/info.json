@@ -4,11 +4,12 @@
     "typeline": [
         "Dragon",
         "Synchro",
+        "Pendulum",
         "Effect"
     ],
-    "type": "Synchro Monster",
-    "humanReadableCardType": "Synchro Effect Monster",
-    "frameType": "synchro",
+    "type": "Synchro Pendulum Effect Monster",
+    "humanReadableCardType": "Synchro Pendulum Effect Monster",
+    "frameType": "synchro_pendulum",
     "desc": "[ Pendulum Effect ] \nYou can Tribute 1 \"Supreme King Dragon\" or \"Supreme King Gate\" Pendulum Monster; Special Summon this card. You can only use this effect of \"Supreme King Z-ARC - Synchro Universe\" once per turn.\n\n[ Monster Effect ] \n1 Tuner + 1+ non-Tuner DARK Pendulum Monsters\r\nThis card's name becomes \"Supreme King Z-ARC\" while on the field. After damage calculation, if this card destroyed an opponent's monster by battle, OR when this card inflicts battle damage to your opponent: You can Special Summon up to 2 \"Supreme King Dragon\" monsters from your Deck, Extra Deck, and/or GY in Defense Position. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.",
     "race": "Dragon",
     "pend_desc": "You can Tribute 1 \"Supreme King Dragon\" or \"Supreme King Gate\" Pendulum Monster; Special Summon this card. You can only use this effect of \"Supreme King Z-ARC - Synchro Universe\" once per turn.",
@@ -40,7 +41,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.18",
+            "tcgplayer_price": "0.19",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
