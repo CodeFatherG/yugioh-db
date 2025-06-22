@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Field Spell",
     "frameType": "spell",
-    "desc": "During your Main Phase: You can destroy 1 Dinosaur monster you control, and if you do, Special Summon 1 \"Jurrac\" monster from your Deck. If your opponent Special Summons a monster(s) and they activated monster effects 4 or more times this turn (except during the Damage Step): You can Special Summon 1 \"Jurrac Meteor\" from your Extra Deck. (This is treated as a Synchro Summon.) If a \"Jurrac\" monster(s) you control would be destroyed by card effect, you can banish 1 Dinosaur monster from your GY instead. You can only use each effect of \"Jurrac Volcano\" once per turn.",
+    "desc": "During your Main Phase: You can destroy 1 Dinosaur monster you control, and if you do, Special Summon 1 \"Jurrac\" monster from your Deck. If your opponent Special Summons a monster(s) and they have activated 4 or more monster effects this turn (except during the Damage Step): You can Special Summon 1 \"Jurrac Meteor\" from your Extra Deck (this is treated as a Synchro Summon). If a \"Jurrac\" monster(s) you control would be destroyed by card effect, you can banish 1 Dinosaur monster from your GY instead. You can only use each effect of \"Jurrac Volcano\" once per turn.",
     "race": "Field",
     "archetype": "Jurrac",
     "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-volcano-14824",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN019",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 89948817,
@@ -19,7 +28,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "1.74",
+            "tcgplayer_price": "3.88",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

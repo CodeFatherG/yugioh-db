@@ -9,7 +9,7 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "3 Level 5 WATER monsters\r\nYou can also Xyz Summon this card by using \"Number 37: Hope Woven Dragon Spider Shark\" you control as material. (Transfer its materials to this card.) Once per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; banish it (until their next Standby Phase), and if you do, all face-up monsters they currently control (if any) lose 1000 ATK until the end of this turn. Once per turn, during the End Phase, if this card is in your GY because this Xyz Summoned card was destroyed and sent there this turn: You can Special Summon it.",
+    "desc": "3 Level 5 WATER monsters\r\nYou can also Xyz Summon this card by using \"Number 37: Hope Woven Dragon Spider Shark\" you control (transfer its materials to this card). Once per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; banish it (until their next Standby Phase), and if you do, any monsters they currently control lose 1000 ATK until the end of this turn. Once per turn, during the End Phase, if this card is in your GY because this Xyz Summoned card was destroyed and sent there this turn: You can Special Summon it.",
     "race": "Sea Serpent",
     "atk": 2600,
     "def": 2100,
@@ -17,6 +17,15 @@
     "attribute": "WATER",
     "archetype": "Number",
     "ygoprodeck_url": "https://ygoprodeck.com/card/number-s37-spider-shark-14852",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN037",
+            "set_rarity": "New",
+            "set_rarity_code": "",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 79625003,
@@ -28,7 +37,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.20",
+            "tcgplayer_price": "0.10",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

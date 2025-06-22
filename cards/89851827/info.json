@@ -1,6 +1,6 @@
 {
     "id": 89851827,
-    "name": "Sacramentum Dragoon",
+    "name": "Secreterion Dragon",
     "typeline": [
         "Dragon",
         "Fusion",
@@ -9,13 +9,22 @@
     "type": "Fusion Monster",
     "humanReadableCardType": "Fusion Effect Monster",
     "frameType": "fusion",
-    "desc": "1 Dragon monster + 1 Spellcaster monster\r\nLoses 100 ATK for each of your banished cards. While you control this Fusion Summoned card, your opponent cannot activate the effects of Special Summoned Dragon and Spellcaster monsters they control. You can target 1 Dragon and 1 Spellcaster monster in your GY; Special Summon 1 of them, and if you do, place the other on the bottom of the Deck. You can only use this effect of \"Sacramentum Dragoon\" once per turn.",
+    "desc": "1 Dragon monster + 1 Spellcaster monster\r\nThis card loses 100 ATK for each of your banished cards. While you control this Fusion Summoned card, your opponent cannot activate the effects of Special Summoned Dragon or Spellcaster monsters they control. You can target 1 Dragon and 1 Spellcaster monster in your GY; Special Summon 1, and if you do, place the other on the bottom of the Deck. You can only use this effect of \"Secreterion Dragon\" once per turn.",
     "race": "Dragon",
     "atk": 3000,
     "def": 1500,
     "level": 8,
     "attribute": "LIGHT",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/sacramentum-dragoon-15060",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/secreterion-dragon-15060",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN037",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 89851827,

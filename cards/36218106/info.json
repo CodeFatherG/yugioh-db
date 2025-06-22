@@ -8,13 +8,22 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If you control a Psychic monster other than \"Hushed Psychic Minister\", you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon \"Hushed Psychic Minister\" once per turn this way. You can banish this card and 1 other Psychic monster from your GY, then target 1 face-up monster on the field; banish it until the End Phase. You can only use this effect of \"Hushed Psychic Minister\" once per turn.",
+    "desc": "If you control a Psychic monster other than \"Hushed Psychic Minister\", you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon \"Hushed Psychic Minister\" once per turn this way. You can banish this card and 1 Psychic monster from your GY, then target 1 face-up monster on the field; banish it until the End Phase. You can only use this effect of \"Hushed Psychic Minister\" once per turn.",
     "race": "Psychic",
     "atk": 0,
     "def": 2100,
     "level": 3,
     "attribute": "EARTH",
     "ygoprodeck_url": "https://ygoprodeck.com/card/hushed-psychic-minister-15083",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 36218106,

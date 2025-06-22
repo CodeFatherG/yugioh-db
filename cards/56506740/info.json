@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/primite-lordly-lode-14548",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN172",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rage of the Abyss",
             "set_code": "ROTA-EN058",
             "set_rarity": "Quarter Century Secret Rare",
@@ -34,8 +41,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "26.29",
-            "tcgplayer_price": "18.76",
+            "cardmarket_price": "29.34",
+            "tcgplayer_price": "28.59",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

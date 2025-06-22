@@ -18,6 +18,20 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/fabled-lurrie-8121",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN104",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN104",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duel Terminal 2",
             "set_code": "DT02-EN061",
             "set_rarity": "Duel Terminal Normal Parallel Rare",
@@ -105,8 +119,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.20",
-            "tcgplayer_price": "0.13",
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.15",
             "ebay_price": "10.99",
             "amazon_price": "2.39",
             "coolstuffinc_price": "0.49"

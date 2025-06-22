@@ -1,6 +1,6 @@
 {
     "id": 48835607,
-    "name": "Galatea-i, the Orcust Automaton",
+    "name": "Galatea-I, the Orcust Automaton",
     "typeline": [
         "Machine",
         "Link",
@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "1 \"Orcust\" or \"World Legacy\" monster\r\nYou can only Link Summon \"Galatea-i, the Orcust Automaton(s)\" once per turn. Cannot be used as material for an Xyz Summon. You can send 1 card from your hand to the GY; add 1 \"World Legacy\" monster or \"Orcustrated Babel\" from your Deck or GY to your hand. If this card is in your GY: You can banish 1 other \"Orcust\" card from your GY; Special Summon this card. You can only use each effect of \"Galatea-i, the Orcust Automaton\" once per turn.",
+    "desc": "1 \"Orcust\" or \"World Legacy\" monster\r\nYou can only Link Summon \"Galatea-I, the Orcust Automaton\" once per turn. Cannot be used as material for an Xyz Summon. You can send 1 card from your hand to the GY; add 1 \"World Legacy\" monster or 1 \"Orcustrated Babel\" from your Deck or GY to your hand. If this card is in your GY: You can banish 1 other \"Orcust\" card from your GY; Special Summon this card. You can only use each effect of \"Galatea-I, the Orcust Automaton\" once per turn.",
     "race": "Machine",
     "atk": 0,
     "def": null,
@@ -21,6 +21,22 @@
         "Bottom-Left"
     ],
     "ygoprodeck_url": "https://ygoprodeck.com/card/galatea-i-the-orcust-automaton-14836",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN052",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN052",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 48835607,
@@ -31,8 +47,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "4.52",
-            "tcgplayer_price": "18.95",
+            "cardmarket_price": "4.09",
+            "tcgplayer_price": "18.56",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

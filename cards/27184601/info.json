@@ -1,6 +1,6 @@
 {
     "id": 27184601,
-    "name": "Artmegia Diaktoros",
+    "name": "Artmage Diactorus",
     "typeline": [
         "Fairy",
         "Fusion",
@@ -9,14 +9,23 @@
     "type": "Fusion Monster",
     "humanReadableCardType": "Fusion Effect Monster",
     "frameType": "fusion",
-    "desc": "\"Medius the Innocent\" + 1 \"Artmegia\" monster\r\nYou can target 1 monster on the field; change its battle position. When your opponent activates a card or effect on the field and you control 3 or more different Monster Types (Quick Effect): You can negate the activation, and if you do, destroy that card. If this Fusion Summoned card is destroyed: You can Special Summon 1 \"Medius the Innocent\" from your hand, Deck, or banishment. You can only use each effect of \"Artmegia Diaktoros\" once per turn.",
+    "desc": "\"Medius the Pure\" + 1 \"Artmage\" monster\r\nYou can target 1 monster on the field; change its battle position. When your opponent activates a card or effect on the field, if you have 3 or more different Monster Types on your field (Quick Effect): You can negate the activation, and if you do, destroy that card. If this Fusion Summoned card is destroyed: You can Special Summon 1 \"Medius the Pure\" from your hand, Deck, or banishment. You can only use each effect of \"Artmage Diactorus\" once per turn.",
     "race": "Fairy",
     "atk": 2800,
     "def": 2500,
     "level": 8,
     "attribute": "LIGHT",
-    "archetype": "Artmegia",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/artmegia-diaktoros-15052",
+    "archetype": "Artmage",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/artmage-diactorus-15052",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN032",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 27184601,

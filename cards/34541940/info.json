@@ -1,6 +1,6 @@
 {
     "id": 34541940,
-    "name": "Artmegia Finemelt",
+    "name": "Artmage Finmel",
     "typeline": [
         "Warrior",
         "Effect"
@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Your opponent cannot target Level 6 or lower \"Artmegia\" monsters you control with card effects. You can only use each of the following effects of \"Artmegia Finemelt\" once per turn. If you control an \"Artmegia\" card: You can Special Summon this card from your hand, then you can draw 1 card. During the Main Phase, if you control 3 or more different Monster Types (Quick Effect): You can negate the effects of all face-up monsters your opponent currently controls, also their current ATK become halved until the end of this turn.",
+    "desc": "Your opponent cannot target Level 6 or lower \"Artmage\" monsters you control with card effects. You can only use each of the following effects of \"Artmage Finmel\" once per turn. If you control an \"Artmage\" card: You can Special Summon this card from your hand, then you can draw 1 card. During the Main Phase, if you have 3 or more different Monster Types on your field (Quick Effect): You can negate the effects of all face-up monsters your opponent currently controls, also until the end of this turn, their ATK's become halved.",
     "race": "Warrior",
     "atk": 2400,
     "def": 1500,
     "level": 7,
     "attribute": "LIGHT",
-    "archetype": "Artmegia",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/artmegia-finemelt-15057",
+    "archetype": "Artmage",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/artmage-finmel-15057",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN009",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 34541940,

@@ -8,6 +8,15 @@
     "race": "Quick-Play",
     "archetype": "Magistus",
     "ygoprodeck_url": "https://ygoprodeck.com/card/verre-magic-lacrima-of-light-14858",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN046",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 73664385,
@@ -19,7 +28,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.93",
+            "tcgplayer_price": "0.25",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

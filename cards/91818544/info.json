@@ -9,13 +9,22 @@
     "type": "Flip Effect Monster",
     "humanReadableCardType": "Flip Effect Monster",
     "frameType": "effect",
-    "desc": "FLIP: You can target 1 face-up monster on the field; it gains 1000 ATK, but send it to the GY during the End Phase.\r\nYou can target 1 face-down Defense Position monster on the field; Special Summon this card from your hand, and if you do, change that monster to Attack Position. You can only use each of the preceding effects of \"WAKE CUP! Mocha\" once per turn. Once per turn, during your End Phase: You can change this card to face-down Defense Position.",
+    "desc": "Once per turn, during your End Phase: You can change this card to face-down Defense Position. You can only use each of the following effects of \"WAKE CUP! Mocha\" once per turn. You can target 1 face-down Defense Position monster on the field; Special Summon this card from your hand, and if you do, change that monster to Attack Position. If this card is flipped face-up: You can target 1 face-up monster on the field; it gains 1000 ATK, but send it to the GY during the End Phase.",
     "race": "Aqua",
     "atk": 1000,
     "def": 100,
     "level": 3,
     "attribute": "WIND",
     "ygoprodeck_url": "https://ygoprodeck.com/card/wake-cup-mocha-15012",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 91818544,

@@ -32,6 +32,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN101",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Dark Revelation Volume 4",
             "set_code": "DR04-EN199",
             "set_rarity": "Rare",
@@ -77,7 +84,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.10",
+            "cardmarket_price": "0.12",
             "tcgplayer_price": "0.10",
             "ebay_price": "1.49",
             "amazon_price": "0.59",

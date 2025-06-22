@@ -19,6 +19,20 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/dark-paladin-8186",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN008",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN008",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Dark Revelation Volume 1",
             "set_code": "DR1-EN160",
             "set_rarity": "Ultra Rare",

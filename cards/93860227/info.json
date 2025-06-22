@@ -18,6 +18,20 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/necroquip-princess-14609",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN146",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN146",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN085",
             "set_rarity": "Common",
@@ -35,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.11",
-            "tcgplayer_price": "0.13",
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.08",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

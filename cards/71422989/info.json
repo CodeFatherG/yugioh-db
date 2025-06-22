@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/absorb-fusion-6000",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN164",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Clash of Rebellions",
             "set_code": "CORE-EN092",
             "set_rarity": "Ultra Rare",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "7.06",
-            "tcgplayer_price": "0.22",
+            "cardmarket_price": "7.78",
+            "tcgplayer_price": "0.10",
             "ebay_price": "15.00",
             "amazon_price": "13.58",
             "coolstuffinc_price": "9.99"

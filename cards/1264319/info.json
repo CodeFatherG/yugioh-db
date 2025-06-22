@@ -10,6 +10,20 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/gem-knight-fusion-109",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN160",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN160",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duel Terminal 5a",
             "set_code": "DT05-EN043",
             "set_rarity": "Duel Terminal Normal Parallel Rare",
@@ -48,8 +62,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.31",
-            "tcgplayer_price": "0.97",
+            "cardmarket_price": "0.34",
+            "tcgplayer_price": "0.36",
             "ebay_price": "2.95",
             "amazon_price": "3.16",
             "coolstuffinc_price": "2.99"

@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/gem-knight-lady-brilliant-diamond-1670",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN145",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Clash of Rebellions",
             "set_code": "CORE-EN047",
             "set_rarity": "Ultra Rare",
@@ -36,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "15.80",
-            "tcgplayer_price": "0.25",
+            "cardmarket_price": "15.25",
+            "tcgplayer_price": "0.15",
             "ebay_price": "12.99",
             "amazon_price": "19.21",
             "coolstuffinc_price": "9.99"

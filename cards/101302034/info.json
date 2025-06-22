@@ -1,0 +1,37 @@
+{
+    "id": 101302034,
+    "name": "Megalith Nortra Phulra",
+    "typeline": [
+        "Rock",
+        "Ritual",
+        "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with any \"Megalith\" card. Must be Ritual Summoned, using only Ritual Monsters. You can reveal this card in your hand; this turn, your opponent cannot activate cards or effects in response to the activation of your \"Megalith\" Ritual Monsters' effects. When your opponent activates a card or effect (Quick Effect): You can negate the activation, and if you do, destroy that card, then if that effect targeted a card(s) on the field, you can Tribute 1 monster your opponent controls. You can only use each effect of \"Megalith Nortra Phulra\" once per turn.",
+    "race": "Rock",
+    "atk": 3700,
+    "def": 2700,
+    "level": 12,
+    "attribute": "EARTH",
+    "archetype": "Megalith",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/megalith-nortra-phulra-15111",
+    "card_images": [
+        {
+            "id": 101302034,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101302034.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101302034.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101302034.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -9,7 +9,7 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "3 Level 9 LIGHT monsters\r\nYou can also Xyz Summon this card by using \"Number 38: Hope Harbinger Dragon Titanic Galaxy\" you control as material. (Transfer its materials to this card.) Gains 200 ATK for each material attached to it. Once per turn: You can target up to 2 Spells/Traps your opponent controls; attach them to this card as material. The targeted cards and their effects cannot be activated in response to this effect's activation. You can detach 1 material from this card; until the end of this turn, this card's original ATK becomes 1500, also it can attack directly.",
+    "desc": "3 Level 9 LIGHT monsters\r\nYou can also Xyz Summon this card by using \"Number 38: Hope Harbinger Dragon Titanic Galaxy\" you control (transfer its materials to this card). Gains 200 ATK for each material attached to it. Once per turn: You can target up to 2 Spells/Traps your opponent controls; attach them to this card as material. Neither player can activate those cards or their effects in response to this effect's activation. You can detach 1 material from this card; until the end of this turn, this card's original ATK becomes 1500, also it can attack directly.",
     "race": "Dragon",
     "atk": 3000,
     "def": 2500,
@@ -17,6 +17,15 @@
     "attribute": "LIGHT",
     "archetype": "Galaxy",
     "ygoprodeck_url": "https://ygoprodeck.com/card/number-s38-titanic-galaxy-14853",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN038",
+            "set_rarity": "New",
+            "set_rarity_code": "",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 16110708,
@@ -28,7 +37,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.27",
+            "tcgplayer_price": "0.28",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

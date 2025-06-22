@@ -31,6 +31,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN005",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN005",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Dark Legends",
             "set_code": "DLG1-EN000",
             "set_rarity": "Secret Rare",
@@ -119,7 +133,7 @@
     "card_prices": [
         {
             "cardmarket_price": "2.07",
-            "tcgplayer_price": "1.66",
+            "tcgplayer_price": "1.51",
             "ebay_price": "11.99",
             "amazon_price": "7.39",
             "coolstuffinc_price": "0.99"

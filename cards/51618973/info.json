@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "When this card is Normal Summoned: You can Special Summon 1 \"Nekroz\" monster from your Deck, except \"Avance, Swordsman of the Nekroz\". If you Ritual Summon exactly 1 \"Nekroz\" Ritual Monster with a card effect that requires use of monsters, this card you control can be used as the entire Tribute. If this card is Tributed by card effect: You can add any number of your banished \"Nekroz\" cards with different names to your hand. You can only use this effect of \"Avance, Swordsman of the Nekroz\" once per Duel.",
+    "desc": "If you Ritual Summon exactly 1 \"Nekroz\" Ritual Monster with a card effect that requires use of monsters, this card you control can be used as the entire Tribute. When this card is Normal Summoned: You can Special Summon 1 \"Nekroz\" monster from your Deck, except \"Avance, Swordsman of the Nekroz\". If this card is Tributed by card effect: You can add any number of your banished \"Nekroz\" cards with different names to your hand. You can only use this effect of \"Avance, Swordsman of the Nekroz\" once per Duel.",
     "race": "Spellcaster",
     "atk": 1500,
     "def": 800,
@@ -16,6 +16,15 @@
     "attribute": "WATER",
     "archetype": "Nekroz",
     "ygoprodeck_url": "https://ygoprodeck.com/card/avance-swordsman-of-the-nekroz-14809",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN024",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 51618973,
@@ -27,7 +36,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "1.56",
+            "tcgplayer_price": "0.39",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

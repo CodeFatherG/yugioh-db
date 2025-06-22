@@ -1,6 +1,6 @@
 {
     "id": 40673853,
-    "name": "Vallon, the Psychic Skyblaster",
+    "name": "Vallon, the Super Psy Skyblaster",
     "typeline": [
         "Psychic",
         "Xyz",
@@ -9,14 +9,23 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "2 Level 5 monsters\r\nDuring the Main Phase (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster your opponent controls; change it to face-down Defense Position. If this card is sent to the GY: You can target 1 face-down card on the field; destroy it. You can only use each effect of \"Vallon, the Psychic Skyblaster\" once per turn.",
+    "desc": "2 Level 5 monsters\r\nDuring the Main Phase (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster your opponent controls; change it to face-down Defense Position. If this card is sent to the GY: You can target 1 face-down card on the field; destroy it. You can only use each effect of \"Vallon, the Super Psy Skyblaster\" once per turn.",
     "race": "Psychic",
     "atk": 2500,
     "def": 2200,
     "level": 5,
     "attribute": "DARK",
     "archetype": "Skyblaster",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/vallon-the-psychic-skyblaster-15062",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vallon-the-super-psy-skyblaster-15062",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN048",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 40673853,

@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can send 1 \"Dododo\" monster from your Deck to the GY; Special Summon this card from your hand, but its Level becomes 4 and its ATK becomes 1800, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters. If this card is detached from an Xyz Monster to activate that monster's effect: You can add 1 \"Zubaba\" monster from your Deck to your hand. You can only use each effect of \"Dodododo Warrior\" once per turn.",
+    "desc": "You can send 1 \"Dododo\" monster from your Deck to the GY; Special Summon this card from your hand (its Level becomes 4, also its ATK becomes 1800), also you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters. If this card is detached from an Xyz Monster to activate that monster's effect: You can add 1 \"Zubaba\" monster from your Deck to your hand. You can only use each effect of \"Dodododo Warrior\" once per turn.",
     "race": "Warrior",
     "atk": 2300,
     "def": 900,
@@ -16,6 +16,15 @@
     "attribute": "EARTH",
     "archetype": "Dododo",
     "ygoprodeck_url": "https://ygoprodeck.com/card/dodododo-warrior-15091",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 62880279,

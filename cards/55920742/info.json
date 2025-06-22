@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/noh-p-u-n-k-foxy-tune-12504",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN074",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Battles of Legend: Monstrous Revenge",
             "set_code": "BLMR-EN063",
             "set_rarity": "Quarter Century Secret Rare",
@@ -57,7 +64,7 @@
     "card_prices": [
         {
             "cardmarket_price": "1.25",
-            "tcgplayer_price": "0.48",
+            "tcgplayer_price": "0.21",
             "ebay_price": "3.79",
             "amazon_price": "0.73",
             "coolstuffinc_price": "5.99"

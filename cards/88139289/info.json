@@ -9,13 +9,22 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Psychic Tuner + 1+ non-Tuner Psychic monsters\r\nYou can target 1 banished monster; Special Summon it to your field. During the Main Phase (Quick Effect): You can banish 1 monster from your GY, then target 1 other face-up monster on the field; banish it, then gain LP equal to the banished monster's original ATK. You can only use 1 \"Psychic Blaster Mk-II\" effect per turn, and only once that turn.",
+    "desc": "1 Psychic Tuner + 1+ non-Tuner Psychic monsters\r\nYou can target 1 banished monster; Special Summon it to your field. During the Main Phase (Quick Effect): You can banish 1 monster from your GY, then target 1 other face-up monster on the field; banish it, then gain LP equal to that banished monster's original ATK. You can only use 1 \"Psychic Blaster Mk-II\" effect per turn, and only once that turn.",
     "race": "Psychic",
     "atk": 3200,
     "def": 2700,
     "level": 9,
     "attribute": "EARTH",
     "ygoprodeck_url": "https://ygoprodeck.com/card/psychic-blaster-mk-ii-15076",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 88139289,

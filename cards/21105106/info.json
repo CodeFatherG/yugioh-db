@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/nekroz-of-sophia-1813",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN134",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Crossed Souls",
             "set_code": "CROS-EN038",
             "set_rarity": "Secret Rare",
@@ -44,7 +51,7 @@
     "card_prices": [
         {
             "cardmarket_price": "11.22",
-            "tcgplayer_price": "0.16",
+            "tcgplayer_price": "0.13",
             "ebay_price": "17.99",
             "amazon_price": "10.94",
             "coolstuffinc_price": "0.00"

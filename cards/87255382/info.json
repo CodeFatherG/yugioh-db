@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/heraldic-beast-amphisbaena-7298",
     "card_sets": [
         {
+            "set_name": "OTS Tournament Pack 28",
+            "set_code": "OP28-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "World Superstars",
             "set_code": "WSUP-EN003",
             "set_rarity": "Super Rare",
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.37",
-            "tcgplayer_price": "0.41",
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "0.43",
             "ebay_price": "1.51",
             "amazon_price": "0.25",
             "coolstuffinc_price": "0.25"

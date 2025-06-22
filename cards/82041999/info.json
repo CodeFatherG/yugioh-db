@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/joruri-p-u-n-k-madame-spider-12500",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN072",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Grand Creators",
             "set_code": "GRCR-EN003",
             "set_rarity": "Super Rare",
@@ -36,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.24",
-            "tcgplayer_price": "0.21",
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.13",
             "ebay_price": "0.99",
             "amazon_price": "0.30",
             "coolstuffinc_price": "0.39"

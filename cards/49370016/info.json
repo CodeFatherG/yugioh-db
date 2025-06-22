@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/p-u-n-k-jam-extreme-session-13156",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN080",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Power of the Elements",
             "set_code": "POTE-EN065",
             "set_rarity": "Super Rare",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.26",
-            "tcgplayer_price": "0.25",
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.17",
             "ebay_price": "0.99",
             "amazon_price": "0.39",
             "coolstuffinc_price": "0.25"

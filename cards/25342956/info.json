@@ -9,7 +9,7 @@
     "type": "Fusion Monster",
     "humanReadableCardType": "Fusion Effect Monster",
     "frameType": "fusion",
-    "desc": "3 \"Gem-\" monsters\r\nDuring the Main Phase (Quick Effect): You can send this card to the GY; Special Summon up to 3 non-Rock \"Gem-\" monsters with different names from your Extra Deck and/or GY, ignoring their Summoning conditions, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion Monsters. When your \"Gem-Knight\" Fusion Monster is destroyed by battle while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Gem-Knight Master Diamond Dispersion\" once per turn.",
+    "desc": "3 \"Gem-\" monsters\r\nDuring the Main Phase (Quick Effect): You can send this card from the field to the GY; Special Summon up to 3 non-Rock \"Gem-\" monsters with different names from your Extra Deck and/or GY, ignoring their Summoning conditions, also for the rest of this turn, you cannot Special Summon from the Extra Deck, except Fusion Monsters. When your \"Gem-Knight\" Fusion Monster is destroyed by battle, while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Gem-Knight Master Diamond Dispersion\" once per turn.",
     "race": "Rock",
     "atk": 3000,
     "def": 2600,
@@ -17,6 +17,15 @@
     "attribute": "EARTH",
     "archetype": "Gem-",
     "ygoprodeck_url": "https://ygoprodeck.com/card/gem-knight-master-diamond-dispersion-14816",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN020",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 25342956,
@@ -28,7 +37,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "1.40",
+            "tcgplayer_price": "0.23",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

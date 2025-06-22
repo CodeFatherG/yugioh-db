@@ -1,0 +1,40 @@
+{
+    "id": 101302020,
+    "name": "Solfachord Solfeggia",
+    "typeline": [
+        "Fairy",
+        "Pendulum",
+        "Effect"
+    ],
+    "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
+    "desc": "[ Pendulum Effect ] \nWhen a monster effect activated by your opponent on the field resolves, if you control a \"GranSolfachord\" monster, you can negate that effect, then destroy this card. You can only use this effect of \"Solfachord Solfeggia\" once per turn.\n\n[ Monster Effect ] \nIf you control no monsters, or all monsters you control are \"Solfachord\" monsters: You can Special Summon this card from your hand. (When you activate the following effect, you can also Tribute this card.) During your Main Phase: You can Special Summon 1 \"Solfachord\" monster from your hand, except \"Solfachord Solfeggia\", or if you Tributed this card at activation, you can Special Summon that monster from your GY or face-up Extra Deck instead. You can only use each effect of \"Solfachord Solfeggia\" once per turn.",
+    "race": "Fairy",
+    "pend_desc": "When a monster effect activated by your opponent on the field resolves, if you control a \"GranSolfachord\" monster, you can negate that effect, then destroy this card. You can only use this effect of \"Solfachord Solfeggia\" once per turn.",
+    "monster_desc": "If you control no monsters, or all monsters you control are \"Solfachord\" monsters: You can Special Summon this card from your hand. (When you activate the following effect, you can also Tribute this card.) During your Main Phase: You can Special Summon 1 \"Solfachord\" monster from your hand, except \"Solfachord Solfeggia\", or if you Tributed this card at activation, you can Special Summon that monster from your GY or face-up Extra Deck instead. You can only use each effect of \"Solfachord Solfeggia\" once per turn.",
+    "atk": 400,
+    "def": 400,
+    "level": 2,
+    "attribute": "LIGHT",
+    "archetype": "Solfachord",
+    "scale": 9,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/solfachord-solfeggia-15114",
+    "card_images": [
+        {
+            "id": 101302020,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101302020.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101302020.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101302020.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

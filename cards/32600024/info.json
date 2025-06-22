@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/chamber-dragonmaid-10828",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN062",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Eternity Code",
             "set_code": "ETCO-EN026",
             "set_rarity": "Secret Rare",
@@ -36,6 +43,13 @@
             "set_code": "MGED-EN022",
             "set_rarity": "Premium Gold Rare",
             "set_rarity_code": "(PG)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 28",
+            "set_code": "OP28-EN002",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
             "set_price": "0"
         },
         {
@@ -99,7 +113,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.07",
-            "tcgplayer_price": "0.09",
+            "tcgplayer_price": "0.13",
             "ebay_price": "8.98",
             "amazon_price": "26.50",
             "coolstuffinc_price": "9.99"

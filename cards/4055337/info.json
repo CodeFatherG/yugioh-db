@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/orcust-knightmare-9852",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN087",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 11",
             "set_code": "OP11-EN008",
             "set_rarity": "Super Rare",
@@ -49,8 +56,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.24",
-            "tcgplayer_price": "0.27",
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.25",
             "ebay_price": "0.99",
             "amazon_price": "3.05",
             "coolstuffinc_price": "0.49"

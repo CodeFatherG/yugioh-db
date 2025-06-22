@@ -1,6 +1,6 @@
 {
     "id": 23829452,
-    "name": "Imprisoned Deity Beast of Artmegia",
+    "name": "Artmage Power Patron",
     "typeline": [
         "Illusion",
         "Effect"
@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You cannot Special Summon from the Extra Deck, except Fusion Monsters. You can only use each of the following effects of \"Imprisoned Deity Beast of Artmegia\" once per turn. During the Main Phase (Quick Effect): You can Fusion Summon 1 \"Artmegia\" Fusion Monster or \"Nerva the Imprisoned Deity of Creation\" from your Extra Deck, using monsters from your hand or field, including this card you control. If this card is sent from the hand or field to the GY: You can add 1 \"Artmegia\" Spell/Trap from your Deck to your hand with a different name from the cards in your GY.",
+    "desc": "You cannot Special Summon from the Extra Deck, except Fusion Monsters. You can only use each of the following effects of \"Artmage Power Patron\" once per turn. During the Main Phase (Quick Effect): You can Fusion Summon 1 \"Artmage\" Fusion Monster or 1 \"Nerva the Power Patron of Creation\" from your Extra Deck, using this card you control and monsters from your hand or field. If this card is sent from the hand or field to the GY: You can add 1 \"Artmage\" Spell/Trap from your Deck to your hand, with a different name from the cards in your GY.",
     "race": "Illusion",
     "atk": 300,
     "def": 200,
     "level": 1,
     "attribute": "EARTH",
-    "archetype": "Artmegia",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/imprisoned-deity-beast-of-artmegia-15055",
+    "archetype": "Artmage",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/artmage-power-patron-15055",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 23829452,

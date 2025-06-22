@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is sent to the GY by card effect: You can Special Summon 1 \"Lunalight\" monster from your Deck, except \"Lunalight Silver Hound\", and if you do, you cannot Special Summon from the Extra Deck, except \"Lunalight\" monsters, while you control that face-up monster. When a Spell/Trap Card or effect is activated on the field (Quick Effect): You can banish from your GY, this card and 1 \"Lunalight\" Fusion Monster; negate the activation. You can only use each effect of \"Lunalight Silver Hound\" once per turn.",
+    "desc": "If this card is sent to the GY by card effect: You can Special Summon 1 \"Lunalight\" monster from your Deck, except \"Lunalight Silver Hound\", but you cannot Special Summon from the Extra Deck, except \"Lunalight\" monsters, while you control that face-up monster. When a Spell/Trap Card or effect is activated on the field (Quick Effect): You can banish this card and 1 \"Lunalight\" Fusion Monster from your GY; negate the activation. You can only use each effect of \"Lunalight Silver Hound\" once per turn.",
     "race": "Beast-Warrior",
     "atk": 1400,
     "def": 400,
@@ -16,6 +16,15 @@
     "attribute": "DARK",
     "archetype": "Lunalight",
     "ygoprodeck_url": "https://ygoprodeck.com/card/lunalight-silver-hound-15034",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 35763582,

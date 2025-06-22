@@ -1,6 +1,6 @@
 {
     "id": 12067160,
-    "name": "Zilofthonia Gorgon",
+    "name": "Gorgon of Zilofthonia",
     "typeline": [
         "Reptile",
         "Link",
@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "2+ Effect Monsters\r\nYou cannot Summon/Set monsters to a zone(s) this card points to. Monsters this card points to cannot attack, also their activated effects are negated. Gains ATK equal to the total original ATK of all monsters this card points to. Cannot be destroyed by battle or monster effects while it points to no monsters.",
+    "desc": "2+ Effect Monsters\r\nYou cannot Summon/Set monsters to a zone(s) this card points to. Monsters this card points to cannot attack, also their activated effects are negated. Gains ATK equal to the total original ATK of monsters this card points to. Cannot be destroyed by battle or monster effects, while this card points to no monsters.",
     "race": "Reptile",
     "atk": 100,
     "def": null,
@@ -21,7 +21,7 @@
         "Top",
         "Top-Right"
     ],
-    "ygoprodeck_url": "https://ygoprodeck.com/card/zilofthonia-gorgon-15014",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gorgon-of-zilofthonia-15014",
     "card_images": [
         {
             "id": 12067160,

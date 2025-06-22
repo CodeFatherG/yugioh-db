@@ -17,6 +17,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN069",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Quarter Century Stampede",
             "set_code": "RA04-EN102",
             "set_rarity": "Collector's Rare",
@@ -83,8 +90,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.06",
-            "tcgplayer_price": "0.06",
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.09",
             "ebay_price": "1.40",
             "amazon_price": "1.85",
             "coolstuffinc_price": "0.49"

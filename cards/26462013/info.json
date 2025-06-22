@@ -9,7 +9,7 @@
     "type": "Fusion Monster",
     "humanReadableCardType": "Fusion Effect Monster",
     "frameType": "fusion",
-    "desc": "1 \"Primite\" monster + 1+ Normal Monsters\r\nGains 1000 ATK for each Normal Monster used for its Fusion Summon. Negate the activated effects of monsters your opponent controls, whose Level/Rank/Link Rating is less than or equal to the number of Normal Monsters in your field and GY. If this card is sent from the field to the GY: You can Special Summon 1 Normal Monster from your Deck in Defense Position.",
+    "desc": "1 \"Primite\" monster + 1+ Normal Monsters\r\nGains 1000 ATK for each Normal Monster used for its Fusion Summon. Negate the activated effects of monsters your opponent controls, whose Levels/Ranks/Link Ratings are less than or equal to the number of Normal Monsters in your field and GY. If this card is sent from the field to the GY: You can Special Summon 1 Normal Monster from your Deck in Defense Position.",
     "race": "Dragon",
     "atk": 1600,
     "def": 0,
@@ -17,6 +17,15 @@
     "attribute": "EARTH",
     "archetype": "Primite",
     "ygoprodeck_url": "https://ygoprodeck.com/card/primite-dragon-nether-berzelius-15019",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN035",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 26462013,

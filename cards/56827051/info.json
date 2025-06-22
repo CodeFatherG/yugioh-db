@@ -25,6 +25,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN128",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Maximum Crisis",
             "set_code": "MACR-EN031",
             "set_rarity": "Rare",
@@ -43,7 +50,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.25",
-            "tcgplayer_price": "0.17",
+            "tcgplayer_price": "0.15",
             "ebay_price": "2.00",
             "amazon_price": "2.49",
             "coolstuffinc_price": "0.49"

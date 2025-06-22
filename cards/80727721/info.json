@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-aeolo-6771",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN106",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duel Terminal 4",
             "set_code": "DT04-EN027",
             "set_rarity": "Duel Terminal Normal Parallel Rare",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.50",
-            "tcgplayer_price": "0.20",
+            "cardmarket_price": "1.57",
+            "tcgplayer_price": "0.14",
             "ebay_price": "2.60",
             "amazon_price": "3.06",
             "coolstuffinc_price": "1.99"

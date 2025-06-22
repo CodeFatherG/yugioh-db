@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Banish 1 DARK Machine monster from your GY; Special Summon 1 monster from your hand, Deck, or GY that mentions \"Engine Token\". If a face-up DARK Machine monster(s) you control is sent to the GY while this card is in your GY, except by battle (except during the Damage Step): You can banish this card; Special Summon 1 \"Engine Token\" (Machine/EARTH/Level 1/ATK 200/DEF 200) in Attack Position. You can only use 1 \"Two-for-One Repair Job\" effect per turn, and only once that turn.",
+    "desc": "Banish 1 DARK Machine monster from your GY; Special Summon 1 monster from your hand, Deck, or GY that mentions \"Engine Token\". If a face-up DARK Machine monster(s) you control is sent to the GY, except by battle, while this card is in your GY (except during the Damage Step): You can banish this card; Special Summon 1 \"Engine Token\" (Machine/EARTH/Level 1/ATK 200/DEF 200) in Attack Position. You can only use 1 \"Two-for-One Repair Job\" effect per turn, and only once that turn.",
     "race": "Normal",
     "archetype": "Motor",
     "ygoprodeck_url": "https://ygoprodeck.com/card/two-for-one-repair-job-14857",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN029",
+            "set_rarity": "New",
+            "set_rarity_code": "",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 44459942,
@@ -19,7 +28,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.17",
+            "tcgplayer_price": "0.10",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -16,6 +16,22 @@
     "attribute": "WATER",
     "archetype": "P.U.N.K.",
     "ygoprodeck_url": "https://ygoprodeck.com/card/noh-p-u-n-k-rising-scale-14838",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN050",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN050",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 75046994,
@@ -26,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "3.86",
-            "tcgplayer_price": "9.13",
+            "cardmarket_price": "4.35",
+            "tcgplayer_price": "12.39",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

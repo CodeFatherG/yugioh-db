@@ -32,6 +32,13 @@
             "set_price": "1.86"
         },
         {
+            "set_name": "OTS Tournament Pack 28",
+            "set_code": "OP28-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Primal Origin",
             "set_code": "PRIO-EN035",
             "set_rarity": "Secret Rare",
@@ -49,8 +56,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.25",
-            "tcgplayer_price": "0.35",
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "0.37",
             "ebay_price": "1.80",
             "amazon_price": "5.20",
             "coolstuffinc_price": "0.99"

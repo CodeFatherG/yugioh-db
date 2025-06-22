@@ -25,6 +25,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN088",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Eternity Code",
             "set_code": "ETCO-EN024",
             "set_rarity": "Secret Rare",
@@ -92,7 +99,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.13",
-            "tcgplayer_price": "0.11",
+            "tcgplayer_price": "0.13",
             "ebay_price": "1.39",
             "amazon_price": "0.91",
             "coolstuffinc_price": "0.49"

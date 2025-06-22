@@ -9,7 +9,7 @@
     "type": "Fusion Monster",
     "humanReadableCardType": "Fusion Effect Monster",
     "frameType": "fusion",
-    "desc": "2 \"Dragonmaid\" monsters with the same Attribute but different Levels\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above monsters, 1 each from your field and GY. You can only use each of the following effects of \"Lady's Dragonmaid\" once per turn. If this card is Special Summoned: You can Special Summon 1 Level 4 or lower \"Dragonmaid\" monster from your Deck. During the Standby Phase: You can Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, by shuffling its materials from your field and/or banishment into the Deck.",
+    "desc": "2 \"Dragonmaid\" monsters with the same Attribute but different Levels\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above monsters, 1 each from your field and GY. If this card is Special Summoned: You can Special Summon 1 Level 4 or lower \"Dragonmaid\" monster from your Deck. During the Standby Phase: You can Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, by shuffling its materials from your field and/or banishment into the Deck. You can only use each effect of \"Lady's Dragonmaid\" once per turn.",
     "race": "Dragon",
     "atk": 2000,
     "def": 3000,
@@ -17,6 +17,22 @@
     "attribute": "LIGHT",
     "archetype": "Dragonmaid",
     "ygoprodeck_url": "https://ygoprodeck.com/card/lady-s-dragonmaid-14837",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN049",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN049",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 48658295,
@@ -27,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "3.52",
-            "tcgplayer_price": "4.78",
+            "cardmarket_price": "3.56",
+            "tcgplayer_price": "6.12",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

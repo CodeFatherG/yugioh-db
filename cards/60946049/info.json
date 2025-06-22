@@ -1,6 +1,6 @@
 {
     "id": 60946049,
-    "name": "Artmegia Graphlare",
+    "name": "Artmage Graflare",
     "typeline": [
         "Dragon",
         "Effect"
@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "The first time this card would be destroyed by battle each turn, it is not destroyed. You can only use each of the following effects of \"Artmegia Graphlare\" once per turn. If you control an \"Artmegia\" card: You can Special Summon this card from your hand, then you can Set 1 \"Artmegia\" Spell from your Deck. You can target 1 Spell/Trap your opponent controls; destroy it. This is a Quick Effect if you control 3 or more different Monster Types.",
+    "desc": "The first time this card would be destroyed by battle each turn, it is not destroyed. You can only use each of the following effects of \"Artmage Graflare\" once per turn. If you control an \"Artmage\" card: You can Special Summon this card from your hand, then you can Set 1 \"Artmage\" Spell from your Deck. You can target 1 Spell/Trap your opponent controls; destroy it. This is a Quick Effect if you have 3 or more different Monster Types on your field.",
     "race": "Dragon",
     "atk": 2100,
     "def": 1500,
     "level": 5,
     "attribute": "LIGHT",
-    "archetype": "Artmegia",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/artmegia-graphlare-15058",
+    "archetype": "Artmage",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/artmage-graflare-15058",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN010",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 60946049,

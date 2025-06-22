@@ -1,6 +1,6 @@
 {
     "id": 40706444,
-    "name": "Argostars - Courageous Arion",
+    "name": "Argostars - Adventurous Arion",
     "typeline": [
         "Warrior",
         "Xyz",
@@ -9,14 +9,23 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "2 Level 4 monsters\r\nOnce per turn, you can also Xyz Summon \"Argostars - Courageous Arion\" by using 1 \"Argostars\" monster you control (transfer its materials to this card). If this card is Xyz Summoned: You can add 1 \"Argostars\" Spell from your Deck to your hand. During the Standby Phase: You can detach 2 materials from this card; place up to 3 \"Argostars\" Continuous Traps from your GY, face-up in your Spell & Trap Zone. You can only use each effect of \"Argostars - Courageous Arion\" once per turn.",
+    "desc": "2 Level 4 monsters\r\nOnce per turn, you can also Xyz Summon \"Argostars - Adventurous Arion\" by using 1 \"Argostars\" monster you control (transfer its materials to this card). If this card is Xyz Summoned: You can add 1 \"Argostars\" Spell from your Deck to your hand. During the Standby Phase: You can detach 2 materials from this card; place up to 3 \"Argostars\" Continuous Traps from your GY, face-up in your Spell & Trap Zone. You can only use each effect of \"Argostars - Adventurous Arion\" once per turn.",
     "race": "Warrior",
     "atk": 2200,
     "def": 2200,
     "level": 4,
     "attribute": "DARK",
     "archetype": "Argostars",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/argostars-courageous-arion-15042",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/argostars-adventurous-arion-15042",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN045",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 40706444,

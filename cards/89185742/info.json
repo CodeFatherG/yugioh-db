@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/lightning-dragon-ruler-of-drafts-7447",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN124",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Lord of the Tachyon Galaxy",
             "set_code": "LTGY-EN098",
             "set_rarity": "Common",
@@ -56,7 +63,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.15",
-            "tcgplayer_price": "0.39",
+            "tcgplayer_price": "0.33",
             "ebay_price": "0.99",
             "amazon_price": "0.39",
             "coolstuffinc_price": "0.25"

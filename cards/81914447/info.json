@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/noh-p-u-n-k-ogre-dance-12565",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN075",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Battles of Legend: Monstrous Revenge",
             "set_code": "BLMR-EN064",
             "set_rarity": "Secret Rare",
@@ -49,8 +56,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.58",
-            "tcgplayer_price": "0.18",
+            "cardmarket_price": "0.69",
+            "tcgplayer_price": "0.16",
             "ebay_price": "8.95",
             "amazon_price": "29.99",
             "coolstuffinc_price": "0.99"

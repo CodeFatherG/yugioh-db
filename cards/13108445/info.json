@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/gem-knight-aquamarine-1130",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN137",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duel Terminal 5a",
             "set_code": "DT05-EN035",
             "set_rarity": "Duel Terminal Super Parallel Rare",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.27",
-            "tcgplayer_price": "0.15",
+            "cardmarket_price": "1.23",
+            "tcgplayer_price": "0.11",
             "ebay_price": "1.76",
             "amazon_price": "1.99",
             "coolstuffinc_price": "0.99"

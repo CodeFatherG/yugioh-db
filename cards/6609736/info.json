@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/noh-p-u-n-k-deer-note-12985",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN076",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Battles of Legend: Monstrous Revenge",
             "set_code": "BLMR-EN066",
             "set_rarity": "Ultra Rare",
@@ -43,7 +50,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.25",
-            "tcgplayer_price": "0.25",
+            "tcgplayer_price": "0.14",
             "ebay_price": "0.99",
             "amazon_price": "0.73",
             "coolstuffinc_price": "0.49"

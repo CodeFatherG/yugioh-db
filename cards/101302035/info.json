@@ -1,0 +1,41 @@
+{
+    "id": 101302035,
+    "name": "D/D/D/D Great Dimension King Arc Crisis",
+    "typeline": [
+        "Fiend",
+        "Fusion",
+        "Pendulum",
+        "Effect"
+    ],
+    "type": "Pendulum Effect Fusion Monster",
+    "humanReadableCardType": "Fusion Pendulum Effect Monster",
+    "frameType": "fusion_pendulum",
+    "desc": "[ Pendulum Effect ] \nYou can target any number of \"Dark Contract\" cards you control; destroy them, then you can Special Summon up to that many \"Doom King\" Pendulum Monsters from your Deck and/or Extra Deck. You can only use this effect of \"D/D/D/D Great Dimension King Arc Crisis\" once per turn.\n\n[ Monster Effect ] \n4 Fiend monsters (1 Fusion, 1 Synchro, 1 Xyz, and 1 Pendulum)\r\nMust be either Fusion Summoned, or Special Summoned (from your face-down Extra Deck) by banishing the above cards from your field and/or GY. You can only Special Summon \"D/D/D/D Great Dimension King Arc Crisis\" once per turn this way, no matter which method you use. If this card is Special Summoned: You can negate the effects of all face-up monsters your opponent currently controls. Can attack all monsters your opponent controls once each. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+    "race": "Fiend",
+    "pend_desc": "You can target any number of \"Dark Contract\" cards you control; destroy them, then you can Special Summon up to that many \"Doom King\" Pendulum Monsters from your Deck and/or Extra Deck. You can only use this effect of \"D/D/D/D Great Dimension King Arc Crisis\" once per turn.",
+    "monster_desc": "4 Fiend monsters (1 Fusion, 1 Synchro, 1 Xyz, and 1 Pendulum)\r\nMust be either Fusion Summoned, or Special Summoned (from your face-down Extra Deck) by banishing the above cards from your field and/or GY. You can only Special Summon \"D/D/D/D Great Dimension King Arc Crisis\" once per turn this way, no matter which method you use. If this card is Special Summoned: You can negate the effects of all face-up monsters your opponent currently controls. Can attack all monsters your opponent controls once each. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+    "atk": 4000,
+    "def": 4000,
+    "level": 12,
+    "attribute": "DARK",
+    "archetype": "D/D",
+    "scale": 13,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-d-d-great-dimension-king-arc-crisis-15136",
+    "card_images": [
+        {
+            "id": 101302035,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101302035.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101302035.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101302035.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

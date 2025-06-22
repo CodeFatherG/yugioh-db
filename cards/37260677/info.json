@@ -1,6 +1,6 @@
 {
     "id": 37260677,
-    "name": "Zoroa, the Magistus Victorious Verethragna",
+    "name": "Zoroa, the Magistus Verethragna",
     "typeline": [
         "Spellcaster",
         "Fusion",
@@ -9,14 +9,23 @@
     "type": "Fusion Monster",
     "humanReadableCardType": "Fusion Effect Monster",
     "frameType": "fusion",
-    "desc": "1 \"Magistus\" monster + 1 Fusion, Synchro, Xyz, or Link Monster\r\nYou can target 1 Effect Monster your opponent controls or in your GY; equip that Effect Monster to this card. When a monster effect is activated (Quick Effect): You can send 1 face-up \"Magistus\" Monster Card you control to the GY; negate that effect, then you can destroy 1 card your opponent controls. You can only use each effect of \"Zoroa, the Magistus Victorious Verethragna\" once per turn.",
+    "desc": "1 \"Magistus\" monster + 1 Fusion, Synchro, Xyz, or Link Monster\r\nYou can target 1 Effect Monster in your GY or your opponent controls; equip that Effect Monster to this card. When a monster effect is activated (Quick Effect): You can send 1 face-up \"Magistus\" Monster Card you control to the GY; negate that effect, then you can destroy 1 card your opponent controls. You can only use each effect of \"Zoroa, the Magistus Verethragna\" once per turn.",
     "race": "Spellcaster",
     "atk": 2900,
     "def": 2900,
     "level": 8,
     "attribute": "FIRE",
     "archetype": "Magistus",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/zoroa-the-magistus-victorious-verethragna-14860",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zoroa-the-magistus-verethragna-14860",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN045",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 37260677,
@@ -28,7 +37,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "tcgplayer_price": "0.17",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

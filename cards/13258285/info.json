@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/ukiyoe-p-u-n-k-sharakusai-12513",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN070",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Battles of Legend: Monstrous Revenge",
             "set_code": "BLMR-EN061",
             "set_rarity": "Ultra Rare",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.06",
-            "tcgplayer_price": "0.08",
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
             "ebay_price": "0.99",
             "amazon_price": "79.99",
             "coolstuffinc_price": "0.25"

@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/nekroz-of-decisive-armor-7380",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN133",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Secret Forces",
             "set_code": "THSF-EN019",
             "set_rarity": "Secret Rare",
@@ -36,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.83",
-            "tcgplayer_price": "0.16",
+            "cardmarket_price": "0.87",
+            "tcgplayer_price": "0.09",
             "ebay_price": "1.39",
             "amazon_price": "0.60",
             "coolstuffinc_price": "0.79"

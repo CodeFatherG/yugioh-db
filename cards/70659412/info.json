@@ -1,0 +1,36 @@
+{
+    "id": 70659412,
+    "name": "Psychic Omnibuster",
+    "typeline": [
+        "Psychic",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuner Psychic monsters\r\nEach time your opponent activates a card or effect on the field (except during the Damage Step): You can pay 2000 LP and declare 1 card type (Monster, Spell, or Trap) (but you can only declare each card type once per turn to activate this effect of \"Psychic Omnibuster); look at 1 random card in your opponent's hand, and if it is the declared card type, apply these effects in sequence (skip over any that do not apply).\r\n\u25cf This card cannot be destroyed by the effects of the declared card type this turn.\r\n\u25cf Banish the card you looked at, face-up, until the End Phase.",
+    "race": "Psychic",
+    "atk": 2500,
+    "def": 2000,
+    "level": 7,
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/psychic-omnibuster-15147",
+    "card_images": [
+        {
+            "id": 70659412,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70659412.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70659412.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70659412.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

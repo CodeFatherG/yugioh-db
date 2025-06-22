@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/primite-dragon-ether-beryl-14781",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN130",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN015",
             "set_rarity": "Quarter Century Secret Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "13.09",
-            "tcgplayer_price": "8.30",
+            "cardmarket_price": "10.34",
+            "tcgplayer_price": "7.13",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

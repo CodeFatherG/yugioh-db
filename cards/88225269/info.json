@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can send 1 \"Gem-Knight\" Normal Monster or \"Gem-Knight Fusion\" from your Deck to the GY; Special Summon this card from your hand in Defense Position. When your opponent activates a card or effect and you control a \"Gem-Knight\" Fusion Monster (Quick Effect): You can banish 3 \"Gem-Knight\" cards from your GY, including this card; negate that effect, then all \"Gem-Knight\" monsters you currently control gain 1000 ATK. You can only use each effect of \"Gem-Knight Hollowcore\" once per turn.",
+    "desc": "You can send 1 \"Gem-Knight\" Normal Monster or 1 \"Gem-Knight Fusion\" from your Deck to the GY; Special Summon this card from your hand in Defense Position. When your opponent activates a card or effect, while you control a \"Gem-Knight\" Fusion Monster (Quick Effect): You can banish 3 \"Gem-Knight\" cards from your GY, including this card; negate that effect, then all \"Gem-Knight\" monsters you currently control gain 1000 ATK. You can only use each effect of \"Gem-Knight Hollowcore\" once per turn.",
     "race": "Fiend",
     "atk": 1950,
     "def": 2450,
@@ -16,6 +16,15 @@
     "attribute": "DARK",
     "archetype": "Gem-",
     "ygoprodeck_url": "https://ygoprodeck.com/card/gem-knight-hollowcore-14815",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN022",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 88225269,
@@ -27,7 +36,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "1.28",
+            "tcgplayer_price": "0.20",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -1,6 +1,6 @@
 {
     "id": 15123983,
-    "name": "The Star Ham",
+    "name": "THE Star Ham",
     "typeline": [
         "Beast",
         "Synchro",
@@ -9,13 +9,22 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can discard 1 card; Special Summon 1 monster from your GY that was used as material for this card's Synchro Summon, and if you do, it is treated as a Tuner. If this card is in your GY: You can discard 2 cards; Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"The Star Ham\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can discard 1 card; Special Summon 1 monster from your GY that was used as material for this card's Synchro Summon, and if you do, it is treated as a Tuner. If this card is in your GY: You can discard 2 cards; Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"THE Star Ham\" once per turn.",
     "race": "Beast",
     "atk": 1000,
     "def": 1200,
     "level": 3,
     "attribute": "LIGHT",
     "ygoprodeck_url": "https://ygoprodeck.com/card/the-star-ham-15011",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 15123983,

@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/gem-knight-master-diamond-3348",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN143",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duel Terminal 7b",
             "set_code": "DT07-EN083",
             "set_rarity": "Duel Terminal Ultra Parallel Rare",
@@ -75,7 +82,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.16",
-            "tcgplayer_price": "0.14",
+            "tcgplayer_price": "0.09",
             "ebay_price": "2.99",
             "amazon_price": "3.75",
             "coolstuffinc_price": "1.99"

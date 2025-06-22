@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/dragonmaid-changeover-10538",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN067",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Magnificent Mavens",
             "set_code": "MAMA-EN088",
             "set_rarity": "Ultra Rare",
@@ -34,8 +41,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.30",
-            "tcgplayer_price": "0.21",
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.29",
             "ebay_price": "0.99",
             "amazon_price": "3.49",
             "coolstuffinc_price": "1.49"

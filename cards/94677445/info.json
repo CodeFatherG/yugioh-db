@@ -20,6 +20,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/ib-the-world-chalice-justiciar-10037",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN089",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Battles of Legend: Terminal Revenge",
             "set_code": "BLTR-EN089",
             "set_rarity": "Quarter Century Secret Rare",
@@ -51,8 +58,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.10",
-            "tcgplayer_price": "0.16",
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.14",
             "ebay_price": "9.99",
             "amazon_price": "8.16",
             "coolstuffinc_price": "5.99"

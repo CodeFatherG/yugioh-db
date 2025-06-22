@@ -19,6 +19,20 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-meteor-1526",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN150",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN150",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duel Terminal 4",
             "set_code": "DT04-EN041",
             "set_rarity": "Duel Terminal Ultra Parallel Rare",
@@ -57,8 +71,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.65",
-            "tcgplayer_price": "0.40",
+            "cardmarket_price": "0.57",
+            "tcgplayer_price": "0.24",
             "ebay_price": "6.95",
             "amazon_price": "1.78",
             "coolstuffinc_price": "0.49"

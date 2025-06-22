@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/dragonmaid-nudyarl-10533",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN057",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Mystic Fighters",
             "set_code": "MYFI-EN017",
             "set_rarity": "Secret Rare",
@@ -36,7 +43,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.75",
-            "tcgplayer_price": "0.21",
+            "tcgplayer_price": "0.22",
             "ebay_price": "3.95",
             "amazon_price": "2.48",
             "coolstuffinc_price": "1.99"

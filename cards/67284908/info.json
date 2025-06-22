@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/labyrinth-wall-5658",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN099",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Dark Beginning 1",
             "set_code": "DB1-EN035",
             "set_rarity": "Common",
@@ -83,7 +90,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.04",
+            "cardmarket_price": "0.05",
             "tcgplayer_price": "0.07",
             "ebay_price": "0.99",
             "amazon_price": "2.24",

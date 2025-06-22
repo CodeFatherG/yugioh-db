@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/number-69-heraldry-crest-220",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN153",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Lord of the Tachyon Galaxy",
             "set_code": "LTGY-EN092",
             "set_rarity": "Rare",
@@ -36,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.52",
-            "tcgplayer_price": "0.14",
+            "cardmarket_price": "0.45",
+            "tcgplayer_price": "0.10",
             "ebay_price": "3.99",
             "amazon_price": "1.76",
             "coolstuffinc_price": "0.99"

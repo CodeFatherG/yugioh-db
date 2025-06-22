@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/orcust-crescendo-10054",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN098",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Dark Neostorm",
             "set_code": "DANE-EN074",
             "set_rarity": "Super Rare",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.97",
-            "tcgplayer_price": "0.30",
+            "cardmarket_price": "2.12",
+            "tcgplayer_price": "0.24",
             "ebay_price": "1.49",
             "amazon_price": "0.98",
             "coolstuffinc_price": "0.79"

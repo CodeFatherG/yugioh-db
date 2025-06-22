@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/gem-knight-zirconia-735",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN142",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duel Terminal 7a",
             "set_code": "DT07-EN033",
             "set_rarity": "Duel Terminal Super Parallel Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.43",
-            "tcgplayer_price": "0.15",
+            "cardmarket_price": "0.45",
+            "tcgplayer_price": "0.10",
             "ebay_price": "1.75",
             "amazon_price": "1.47",
             "coolstuffinc_price": "0.99"

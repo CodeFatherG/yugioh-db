@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If a Cyberse monster you control would be used as Link Material for an \"@Ignister\" Link Monster, this card in your hand can also be used as material. If this card is sent to the GY as Link Material: You can discard 1 card, then target 1 Spell/Trap on the field, or you can target 2 if this card on the field was used as material; destroy that card(s). You can only use each effect of \"Linkslayer @Ignister\" once per turn.",
+    "desc": "If a Cyberse monster you control would be used as Link Material for an \"@Ignister\" monster, this card in your hand can also be used as material. If this card is sent to the GY as Link Material: You can discard 1 card, then target 1 Spell/Trap on the field, or you can target 2 if this card on the field was used as material; destroy that card(s). You can only use each effect of \"Linkslayer @Ignister\" once per turn.",
     "race": "Cyberse",
     "atk": 2000,
     "def": 600,
@@ -16,6 +16,15 @@
     "attribute": "DARK",
     "archetype": "@Ignister",
     "ygoprodeck_url": "https://ygoprodeck.com/card/linkslayer-ignister-15041",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 61168637,

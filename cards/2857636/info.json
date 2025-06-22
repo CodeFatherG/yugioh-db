@@ -31,6 +31,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN091",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Flames of Destruction",
             "set_code": "FLOD-EN046",
             "set_rarity": "Super Rare",
@@ -119,7 +126,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.14",
+            "tcgplayer_price": "0.13",
             "ebay_price": "0.99",
             "amazon_price": "4.93",
             "coolstuffinc_price": "0.99"

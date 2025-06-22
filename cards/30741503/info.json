@@ -24,6 +24,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/galatea-the-orcust-automaton-9655",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN093",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 10",
             "set_code": "OP10-EN003",
             "set_rarity": "Ultimate Rare",
@@ -104,8 +111,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.19",
-            "tcgplayer_price": "0.12",
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.10",
             "ebay_price": "1.49",
             "amazon_price": "1.13",
             "coolstuffinc_price": "0.99"

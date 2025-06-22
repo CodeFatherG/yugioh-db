@@ -1,6 +1,6 @@
 {
     "id": 52644170,
-    "name": "Thought Cross Archfiend",
+    "name": "Crossmind Archfiend",
     "typeline": [
         "Psychic",
         "Synchro",
@@ -9,14 +9,23 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Psychic Tuner + 1+ non-Tuner monsters\r\nDuring the Main Phase (Quick Effect): You can target 1 of your banished Level 7 or lower Psychic monsters; Special Summon it. During the Battle Phase (Quick Effect): You can Tribute 1 other monster; gain LP equal to its original ATK, and if you do, this card gains that much ATK until the end of this turn. You can only use each effect of \"Thought Cross Archfiend\" once per turn.",
+    "desc": "1 Psychic Tuner + 1+ non-Tuner monsters\r\nDuring the Main Phase (Quick Effect): You can target 1 of your banished Level 7 or lower Psychic monsters; Special Summon it. During the Battle Phase (Quick Effect): You can Tribute 1 other monster; gain LP equal to its original ATK, and if you do, this card gains that much ATK until the end of this turn. You can only use each effect of \"Crossmind Archfiend\" once per turn.",
     "race": "Psychic",
     "atk": 2500,
     "def": 2800,
     "level": 8,
     "attribute": "DARK",
     "archetype": "Archfiend",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/thought-cross-archfiend-15079",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crossmind-archfiend-15079",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 52644170,

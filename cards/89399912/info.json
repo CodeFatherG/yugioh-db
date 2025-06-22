@@ -24,6 +24,13 @@
             "set_price": "7.29"
         },
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN120",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Lord of the Tachyon Galaxy",
             "set_code": "LTGY-EN041",
             "set_rarity": "Rare",
@@ -104,7 +111,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.10",
+            "cardmarket_price": "0.16",
             "tcgplayer_price": "0.13",
             "ebay_price": "1.49",
             "amazon_price": "0.40",

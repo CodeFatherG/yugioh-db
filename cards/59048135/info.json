@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/augmented-heraldry-5024",
     "card_sets": [
         {
+            "set_name": "OTS Tournament Pack 28",
+            "set_code": "OP28-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "World Superstars",
             "set_code": "WSUP-EN005",
             "set_rarity": "Super Rare",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.25",
-            "tcgplayer_price": "0.30",
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.27",
             "ebay_price": "1.23",
             "amazon_price": "0.25",
             "coolstuffinc_price": "0.25"

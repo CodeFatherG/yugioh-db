@@ -10,6 +10,20 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/ojama-trio-2526",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN010",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN010",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Dark Crisis",
             "set_code": "DCR-047",
             "set_rarity": "Short Print",
@@ -62,7 +76,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.26",
+            "cardmarket_price": "0.50",
             "tcgplayer_price": "0.55",
             "ebay_price": "2.25",
             "amazon_price": "0.94",

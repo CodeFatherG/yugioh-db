@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/gem-knight-crystal-6471",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN100",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duel Terminal 6a",
             "set_code": "DT06-EN016",
             "set_rarity": "Duel Terminal Rare Parallel Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.64",
-            "tcgplayer_price": "0.16",
+            "cardmarket_price": "0.60",
+            "tcgplayer_price": "0.11",
             "ebay_price": "3.00",
             "amazon_price": "1.36",
             "coolstuffinc_price": "0.79"

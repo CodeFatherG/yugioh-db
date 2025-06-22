@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/orcust-cymbal-skeleton-9657",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN084",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 12",
             "set_code": "OP12-EN007",
             "set_rarity": "Super Rare",
@@ -50,7 +57,7 @@
     "card_prices": [
         {
             "cardmarket_price": "1.25",
-            "tcgplayer_price": "0.30",
+            "tcgplayer_price": "0.37",
             "ebay_price": "1.03",
             "amazon_price": "1.49",
             "coolstuffinc_price": "0.79"

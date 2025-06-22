@@ -30,6 +30,13 @@
             "set_rarity": "Secret Rare",
             "set_rarity_code": "(ScR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 28",
+            "set_code": "OP28-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.51",
-            "tcgplayer_price": "0.34",
+            "cardmarket_price": "0.37",
+            "tcgplayer_price": "0.31",
             "ebay_price": "0.99",
             "amazon_price": "5.16",
             "coolstuffinc_price": "0.49"

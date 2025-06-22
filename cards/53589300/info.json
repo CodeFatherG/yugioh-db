@@ -1,6 +1,6 @@
 {
     "id": 53589300,
-    "name": "Nerva the Imprisoned Deity of Creation",
+    "name": "Nerva the Power Patron of Creation",
     "typeline": [
         "Illusion",
         "Fusion",
@@ -9,14 +9,23 @@
     "type": "Fusion Monster",
     "humanReadableCardType": "Fusion Effect Monster",
     "frameType": "fusion",
-    "desc": "3 \"Artmegia\" monsters\r\nMust first be either Fusion Summoned, or Special Summoned (from your Extra Deck) in Defense Position by Tributing 3 monsters with different Types. You can only Special Summon \"Nerva the Imprisoned Deity of Creation\" once per turn. Cannot be destroyed by card effects while a card is in the Field Zone. Once per turn, when you activate an \"Artmegia\" monster's effect (Quick Effect): You can make the activated effect become \"Destroy all cards your opponent controls\".",
+    "desc": "3 \"Artmage\" monsters\r\nMust first be either Fusion Summoned, or Special Summoned (from your Extra Deck) in Defense Position by Tributing 3 monsters with different Types. You can only Special Summon \"Nerva the Power Patron of Creation(s)\" once per turn. While a card is in the Field Zone, this card cannot be destroyed by card effects. Once per turn, when you activate an \"Artmage\" monster's effect (Quick Effect): You can make the activated effect become \"Destroy all cards your opponent controls\".",
     "race": "Illusion",
     "atk": 3300,
     "def": 3300,
     "level": 10,
     "attribute": "EARTH",
-    "archetype": "Imprisoned Deity",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/nerva-the-imprisoned-deity-of-creation-15056",
+    "archetype": "Power Patron",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nerva-the-power-patron-of-creation-15056",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN033",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 53589300,

@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "When this card is Normal Summoned: You can activate this effect; you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters, also Special Summon 1 non-Warrior \"Gogogo\" monster from your hand, Deck, or GY, then, if this card is in Attack Position, change it to Defense Position. If this card is detached from an Xyz Monster to activate that monster's effect: You can add 1 \"Dododo\" monster from your Deck to your hand. You can only use each effect of \"Gogogo Goblindbergh\" once per turn.",
+    "desc": "When this card is Normal Summoned: You can Special Summon 1 non-Warrior \"Gogogo\" monster from your hand, Deck, or GY, then if this card is in Attack Position, change it to Defense Position, also for the rest of this turn, you cannot Special Summon from the Extra Deck, except Xyz Monsters. If this card is detached from an Xyz Monster to activate that monster's effect: You can add 1 \"Dododo\" monster from your Deck to your hand. You can only use each effect of \"Gogogo Goblindbergh\" once per turn.",
     "race": "Warrior",
     "atk": 1400,
     "def": 0,
@@ -16,6 +16,15 @@
     "attribute": "EARTH",
     "archetype": "Goblin",
     "ygoprodeck_url": "https://ygoprodeck.com/card/gogogo-goblindbergh-15094",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 35886170,

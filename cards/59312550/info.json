@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-velo-5042",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN105",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duel Terminal 2",
             "set_code": "DT02-EN066",
             "set_rarity": "Duel Terminal Rare Parallel Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.99",
-            "tcgplayer_price": "0.19",
+            "cardmarket_price": "1.73",
+            "tcgplayer_price": "0.13",
             "ebay_price": "1.59",
             "amazon_price": "4.28",
             "coolstuffinc_price": "0.99"

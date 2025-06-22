@@ -25,6 +25,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN082",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Cybernetic Horizon",
             "set_code": "CYHO-EN011",
             "set_rarity": "Rare",
@@ -42,7 +49,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.38",
+            "cardmarket_price": "0.33",
             "tcgplayer_price": "0.21",
             "ebay_price": "1.25",
             "amazon_price": "0.98",

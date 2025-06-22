@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is Normal or Special Summoned: You can add 1 \"Tistina\" monster from your Deck to your hand, except \"Miasma Dragon Tistina\", also for the rest of this turn, LIGHT \"Tistina\" monsters you control gain 1000 ATK. If this card is sent to the GY and a card is in the Field Zone: You can Special Summon this card, also you cannot Special Summon from the hand or GY for the rest of this turn, except \"Tistina\" monsters. You can only use each effect of \"Miasma Dragon Tistina\" once per turn.",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 \"Tistina\" monster from your Deck to your hand, except \"Miasma Dragon Tistina\", also for the rest of this turn, LIGHT \"Tistina\" monsters you control gain 1000 ATK. If this card is sent to the GY, and a card is in the Field Zone: You can Special Summon this card, also you cannot Special Summon from the hand or GY for the rest of this turn, except \"Tistina\" monsters. You can only use each effect of \"Miasma Dragon Tistina\" once per turn.",
     "race": "Aqua",
     "atk": 2000,
     "def": 0,
@@ -16,6 +16,15 @@
     "attribute": "DARK",
     "archetype": "Tistina",
     "ygoprodeck_url": "https://ygoprodeck.com/card/miasma-dragon-tistina-15064",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 30373970,

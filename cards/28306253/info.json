@@ -9,13 +9,22 @@
     "type": "Ritual Effect Monster",
     "humanReadableCardType": "Ritual Effect Monster",
     "frameType": "ritual",
-    "desc": "(This card is always treated as \"Hungry Burger\".)\r\nYou can Ritual Summon this card with a \"Recipe\" card. All monsters your opponent controls must attack this card, if able. You can only use each of the following effects of \"Angry Burger\" once per turn. You can reveal this card in your hand; add 1 \"Nouvelles\" monster from your Deck to your hand, and if you do, shuffle this card into the Deck. (Quick Effect): You can Tribute 1 Attack Position monster on either field, and if you do, Special Summon 1 \"Hungry Burger\" with 2000 ATK from your hand or Deck.",
+    "desc": "(This card is always treated as \"Hungry Burger\".)\r\nYou can Ritual Summon this card with a \"Recipe\" card. Monsters your opponent controls that can attack must attack this card. You can only use each of the following effects of \"Angry Burger\" once per turn. You can reveal this card in your hand; add 1 \"Nouvelles\" monster from your Deck to your hand, and if you do, shuffle this card into the Deck. (Quick Effect): You can Tribute 1 Attack Position monster on either field, and if you do, Special Summon 1 \"Hungry Burger\" with 2000 ATK from your hand or Deck.",
     "race": "Warrior",
     "atk": 2800,
     "def": 1850,
     "level": 6,
     "attribute": "DARK",
     "ygoprodeck_url": "https://ygoprodeck.com/card/angry-burger-15036",
+    "card_sets": [
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 28306253,

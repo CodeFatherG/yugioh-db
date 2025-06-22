@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/stream-dragon-ruler-of-droplets-2341",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN122",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Lord of the Tachyon Galaxy",
             "set_code": "LTGY-EN096",
             "set_rarity": "Common",
@@ -49,7 +56,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.30",
-            "tcgplayer_price": "0.41",
+            "tcgplayer_price": "0.36",
             "ebay_price": "2.25",
             "amazon_price": "0.59",
             "coolstuffinc_price": "0.49"

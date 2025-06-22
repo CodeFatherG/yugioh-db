@@ -1,0 +1,36 @@
+{
+    "id": 46221535,
+    "name": "Drill Armed Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can send this card and 1 other WIND monster from your hand to the GY; for the rest of this turn, all WIND Dragon monsters you control will gain 300 ATK. You can banish any number of Dragon monsters that are Level 7 or higher and/or WIND from your GY; add 1 Dragon monster from your Deck to your hand with a Level equal to the number banished, except \"Drill Armed Dragon\". You can only use each effect of \"Drill Armed Dragon\" once per turn.",
+    "race": "Dragon",
+    "atk": 1100,
+    "def": 400,
+    "level": 3,
+    "attribute": "WIND",
+    "archetype": "Armed Dragon",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/drill-armed-dragon-15139",
+    "card_images": [
+        {
+            "id": 46221535,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46221535.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46221535.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46221535.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

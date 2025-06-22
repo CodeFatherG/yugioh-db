@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/nekroz-of-clausolas-8235",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN131",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duel Power",
             "set_code": "DUPO-EN085",
             "set_rarity": "Ultra Rare",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.42",
-            "tcgplayer_price": "0.17",
+            "cardmarket_price": "0.43",
+            "tcgplayer_price": "0.14",
             "ebay_price": "1.44",
             "amazon_price": "0.73",
             "coolstuffinc_price": "0.49"
