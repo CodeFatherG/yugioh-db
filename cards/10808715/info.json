@@ -1,0 +1,36 @@
+{
+    "id": 10808715,
+    "name": "Masked HERO Dusk Crow",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is in your hand: You can banish 1 \"HERO\" monster from your GY; Special Summon this card. If this card is Normal or Special Summoned: You can add 1 \"Masked HERO\" monster from your Deck or GY to your hand, except \"Masked HERO Dusk Crow\". You can only use each effect of \"Masked HERO Dusk Crow\" once per turn.",
+    "race": "Warrior",
+    "atk": 1200,
+    "def": 1000,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "HERO",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/masked-hero-dusk-crow-15140",
+    "card_images": [
+        {
+            "id": 10808715,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10808715.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10808715.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10808715.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
