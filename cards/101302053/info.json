@@ -1,0 +1,41 @@
+{
+    "id": 101302053,
+    "name": "Laevateinn the Burning Blade",
+    "typeline": [
+        "Warrior",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 FIRE monsters\r\nDuring the Main Phase (Quick Effect): You can Tribute 1 other FIRE monster, then target 1 FIRE monster in your GY with the same original Type but a lower original Level; Special Summon it in Defense Position. If a face-down card(s) in your Spell & Trap Zone would be destroyed by an opponent's card effect, you can banish this card you control instead. You can only use each effect of \"Laevateinn the Burning Blade\" once per turn.",
+    "race": "Warrior",
+    "atk": 1000,
+    "def": null,
+    "level": null,
+    "attribute": "FIRE",
+    "linkval": 2,
+    "linkmarkers": [
+        "Bottom-Left",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/laevateinn-the-burning-blade-15164",
+    "card_images": [
+        {
+            "id": 101302053,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101302053.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101302053.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101302053.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

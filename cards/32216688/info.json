@@ -1,0 +1,43 @@
+{
+    "id": 32216688,
+    "name": "R.B. The Brute Blues",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2+ Machine monsters\r\nGains the following effects while this card points to an \"R.B.\" monster.\r\n\u25cf Gains ATK equal to the total original ATK of \"R.B.\" monsters it points to.\r\n\u25cf Can make a second attack during each Battle Phase.\r\n\u25cf Cannot be destroyed by battle or card effects.\r\nDuring your Main Phase: You can add 1 \"R.B.\" card from your Deck to your hand. You can only use this effect of \"R.B. The Brute Blues\" once per turn.",
+    "race": "Machine",
+    "atk": 1500,
+    "def": null,
+    "level": null,
+    "attribute": "WIND",
+    "archetype": "R.B.",
+    "linkval": 3,
+    "linkmarkers": [
+        "Bottom-Left",
+        "Bottom",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/r-b-the-brute-blues-15157",
+    "card_images": [
+        {
+            "id": 32216688,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32216688.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32216688.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32216688.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.74",
+            "tcgplayer_price": "0.57",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

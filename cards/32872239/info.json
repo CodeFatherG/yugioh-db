@@ -1,0 +1,37 @@
+{
+    "id": 32872239,
+    "name": "Gargardo the Necroforger Fiend",
+    "typeline": [
+        "Fiend",
+        "Pendulum",
+        "Normal"
+    ],
+    "type": "Pendulum Normal Monster",
+    "humanReadableCardType": "Pendulum Normal Monster",
+    "frameType": "normal_pendulum",
+    "desc": "''A bird monster clad in flickering flames, it can shapeshift into all sorts of things. After switching back and forth between human and bird, it has forgotten its original self.''",
+    "race": "Fiend",
+    "atk": 2000,
+    "def": 2000,
+    "level": 6,
+    "attribute": "FIRE",
+    "scale": 9,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gargardo-the-necroforger-fiend-15162",
+    "card_images": [
+        {
+            "id": 32872239,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32872239.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32872239.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32872239.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

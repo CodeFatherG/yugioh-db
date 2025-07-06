@@ -20,6 +20,13 @@
         {
             "set_name": "Duelist's Advance",
             "set_code": "DUAD-EN022",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN022",
             "set_rarity": "Ultra Rare",
             "set_rarity_code": "(UR)",
             "set_price": "0"
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "30.48",
-            "tcgplayer_price": "44.34",
+            "cardmarket_price": "21.59",
+            "tcgplayer_price": "32.43",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -1,0 +1,40 @@
+{
+    "id": 18988396,
+    "name": "Miracle Raven",
+    "typeline": [
+        "Fiend",
+        "Ritual",
+        "Pendulum",
+        "Effect"
+    ],
+    "type": "Pendulum Effect Ritual Monster",
+    "humanReadableCardType": "Ritual Pendulum Effect Monster",
+    "frameType": "ritual_pendulum",
+    "desc": "[ Pendulum Effect ] \nOnce per turn, during your Main Phase: You can Ritual Summon this card, by Tributing monsters from your hand or field whose total Levels equal or exceed 1.\n\n[ Monster Effect ] \nYou can Ritual Summon this card with \"Miracle Raven\". Must be Ritual Summoned. This Ritual Summoned card is unaffected by your opponent's activated effects. If you Ritual Summon exactly 1 Ritual Monster with a card effect that requires use of monsters, this card you control can be used as the entire Tribute. If this card is Tributed for a Ritual Summon: You can add 1 Ritual Monster from your Deck to your hand. You can only use this effect of \"Miracle Raven\" once per turn.",
+    "race": "Fiend",
+    "pend_desc": "Once per turn, during your Main Phase: You can Ritual Summon this card, by Tributing monsters from your hand or field whose total Levels equal or exceed 1.",
+    "monster_desc": "You can Ritual Summon this card with \"Miracle Raven\". Must be Ritual Summoned. This Ritual Summoned card is unaffected by your opponent's activated effects. If you Ritual Summon exactly 1 Ritual Monster with a card effect that requires use of monsters, this card you control can be used as the entire Tribute. If this card is Tributed for a Ritual Summon: You can add 1 Ritual Monster from your Deck to your hand. You can only use this effect of \"Miracle Raven\" once per turn.",
+    "atk": 300,
+    "def": 300,
+    "level": 1,
+    "attribute": "DARK",
+    "scale": 0,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/miracle-raven-15151",
+    "card_images": [
+        {
+            "id": 18988396,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18988396.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18988396.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18988396.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 6821579,
+    "name": "R.B. VALCan Booster",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 Machine monsters\r\nIf this card is Link Summoned: You can add 1 \"R.B.\" Spell from your Deck to your hand. If this card is in the Extra Monster Zone: You can Special Summon 1 \"R.B.\" monster from your hand or GY in Defense Position, then you can move this card you control to another of your Main Monster Zones, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters with 1500 or less ATK. You can only use each effect of \"R.B. VALCan Booster\" once per turn.",
+    "race": "Machine",
+    "atk": 500,
+    "def": null,
+    "level": null,
+    "attribute": "FIRE",
+    "archetype": "R.B.",
+    "linkval": 2,
+    "linkmarkers": [
+        "Top",
+        "Bottom"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/r-b-valcan-booster-15153",
+    "card_images": [
+        {
+            "id": 6821579,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6821579.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6821579.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6821579.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.74",
+            "tcgplayer_price": "0.50",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

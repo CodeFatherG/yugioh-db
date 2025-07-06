@@ -1,0 +1,36 @@
+{
+    "id": 33438265,
+    "name": "R.B. Ga10 Cutter",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If you control no face-up monsters, or the only face-up monsters you control are \"R.B.\" monsters, you can Special Summon this card (from your hand). You can only Special Summon \"R.B. Ga10 Cutter\" once per turn this way. When your opponent's Spell/Trap Card or effect is activated, and this card is linked to an \"R.B.\" Link Monster (Quick Effect): You can pay 700 LP; destroy this card, and if you do, negate that effect, and if you do that, destroy that card. You can only use this effect of \"R.B. Ga10 Cutter\" once per turn.",
+    "race": "Machine",
+    "atk": 700,
+    "def": 700,
+    "level": 4,
+    "attribute": "EARTH",
+    "archetype": "R.B.",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/r-b-ga10-cutter-15155",
+    "card_images": [
+        {
+            "id": 33438265,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33438265.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33438265.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33438265.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

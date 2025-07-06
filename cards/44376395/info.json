@@ -1,0 +1,41 @@
+{
+    "id": 44376395,
+    "name": "ASHLAN U1000",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 monsters with different Types and Attributes\r\nIf a Ritual Monster this card points to attacks a Defense Position monster, inflict piercing battle damage to your opponent. You can only use each of the following effects of \"ASHLAN U1000\" once per turn. You can reveal 1 Ritual Monster in your hand; add 1 Ritual Monster with a different Type and Attribute from your Deck to your hand. If you Ritual Summon (except during the Damage Step): You can target 1 face-up card your opponent controls; return it to the hand.",
+    "race": "Cyberse",
+    "atk": 1400,
+    "def": null,
+    "level": null,
+    "attribute": "LIGHT",
+    "linkval": 2,
+    "linkmarkers": [
+        "Bottom-Left",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ashlan-u1000-15150",
+    "card_images": [
+        {
+            "id": 44376395,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44376395.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44376395.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44376395.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
