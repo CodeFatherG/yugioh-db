@@ -1,0 +1,36 @@
+{
+    "id": 101302008,
+    "name": "Doom-Z Zero - Drastia",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can target 1 \"Doom-Z\" card you control; destroy it, and if you do, Special Summon this card from your hand, then you can equip 1 Equip Spell from your Deck to it. While this card is equipped with an Equip Card (Quick Effect): You can Special Summon 1 WIND Machine Xyz Monster from your Extra Deck with a Rank equal to this card's Level (this is treated as an Xyz Summon), and if you do, attach this card and all cards equipped to it to that monster. You can only use each effect of \"Doom-Z Zero - Drastia\" once per turn.",
+    "race": "Dragon",
+    "atk": 2400,
+    "def": 1500,
+    "level": 8,
+    "attribute": "DARK",
+    "archetype": "Doom-Z",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/doom-z-zero-drastia-15175",
+    "card_images": [
+        {
+            "id": 101302008,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101302008.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101302008.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101302008.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

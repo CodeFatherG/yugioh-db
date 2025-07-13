@@ -1,0 +1,36 @@
+{
+    "id": 101302009,
+    "name": "Doom-Z Five - Amalthe",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned, or destroyed by card effect: You can add 1 \"Doom-Z\" monster from your Deck to your hand, except \"Doom-Z Five - Amalthe\". While this card is equipped with an Equip Card (Quick Effect): You can Special Summon 1 WIND Machine Xyz Monster from your Extra Deck with a Rank equal to this card's Level (this is treated as an Xyz Summon), and if you do, attach this card and all cards equipped to it to that monster. You can only use each effect of \"Doom-Z Five - Amalthe\" once per turn.",
+    "race": "Dragon",
+    "atk": 1600,
+    "def": 1200,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "Doom-Z",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/doom-z-five-amalthe-15178",
+    "card_images": [
+        {
+            "id": 101302009,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101302009.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101302009.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101302009.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
