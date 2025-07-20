@@ -19,6 +19,20 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/azamina-mu-rcielago-14577",
     "card_sets": [
         {
+            "set_name": "Limited Pack World Championship 2025",
+            "set_code": "25LP-EN011",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Limited Pack World Championship 2025",
+            "set_code": "25LP-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rage of the Abyss",
             "set_code": "ROTA-EN031",
             "set_rarity": "Quarter Century Secret Rare",
@@ -43,8 +57,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.99",
-            "tcgplayer_price": "2.49",
+            "cardmarket_price": "1.86",
+            "tcgplayer_price": "2.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

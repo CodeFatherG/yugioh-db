@@ -19,6 +19,20 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/poseidra-abyss-the-atlantean-dragon-lord-14624",
     "card_sets": [
         {
+            "set_name": "Limited Pack World Championship 2025",
+            "set_code": "25LP-EN012",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Limited Pack World Championship 2025",
+            "set_code": "25LP-EN012",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rage of the Abyss",
             "set_code": "ROTA-EN043",
             "set_rarity": "Quarter Century Secret Rare",
@@ -43,8 +57,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.75",
-            "tcgplayer_price": "0.74",
+            "cardmarket_price": "0.54",
+            "tcgplayer_price": "0.70",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

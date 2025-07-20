@@ -18,6 +18,20 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/maiden-of-white-14646",
     "card_sets": [
         {
+            "set_name": "Limited Pack World Championship 2025",
+            "set_code": "25LP-EN018",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Limited Pack World Championship 2025",
+            "set_code": "25LP-EN018",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Blue-Eyes White Destiny",
             "set_code": "SDWD-EN041",
             "set_rarity": "Quarter Century Secret Rare",
@@ -49,7 +63,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.29",
+            "cardmarket_price": "0.25",
             "tcgplayer_price": "0.28",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

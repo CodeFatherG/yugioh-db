@@ -46,6 +46,13 @@
             "set_price": "0.00"
         },
         {
+            "set_name": "The Lost Art Promotion 2025 A",
+            "set_code": "LART-EN076",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "War of the Giants Reinforcements",
             "set_code": "WGRT-EN005",
             "set_rarity": "Common",
@@ -76,7 +83,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.16",
+            "cardmarket_price": "0.23",
             "tcgplayer_price": "0.14",
             "ebay_price": "1.99",
             "amazon_price": "0.25",
