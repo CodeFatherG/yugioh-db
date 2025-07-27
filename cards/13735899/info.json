@@ -25,6 +25,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN013",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Lightning Overdrive",
             "set_code": "LIOV-EN034",
             "set_rarity": "Ultra Rare",
@@ -43,7 +50,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.10",
-            "tcgplayer_price": "0.64",
+            "tcgplayer_price": "0.60",
             "ebay_price": "4.59",
             "amazon_price": "89.69",
             "coolstuffinc_price": "0.99"

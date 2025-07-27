@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/millennium-eyes-restrict-8946",
     "card_sets": [
         {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN047",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Ancient Millennium",
             "set_code": "LED2-EN003",
             "set_rarity": "Ultra Rare",
@@ -58,7 +65,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.03",
-            "tcgplayer_price": "1.18",
+            "tcgplayer_price": "0.30",
             "ebay_price": "2.99",
             "amazon_price": "69.99",
             "coolstuffinc_price": "1.99"

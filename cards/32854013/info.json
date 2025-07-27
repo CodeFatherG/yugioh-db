@@ -30,6 +30,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN055",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Speed Duel GX: Duel Academy Box",
             "set_code": "SGX1-ENC18",
             "set_rarity": "Common",
@@ -47,7 +54,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.03",
+            "cardmarket_price": "0.02",
             "tcgplayer_price": "0.11",
             "ebay_price": "0.99",
             "amazon_price": "1.16",

@@ -1,0 +1,37 @@
+{
+    "id": 33955120,
+    "name": "Hate Rose Witch",
+    "typeline": [
+        "Plant",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nPlant monsters you control cannot be destroyed by card effects. You can only use each of the following effects of \"Hate Rose Witch\" once per turn. If this card is Synchro Summoned: You can send up to 2 Plant monsters to the GY (1 from your Deck and/or 1 from your Extra Deck), also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro monsters. If a card(s) on the field is destroyed by card effect while this card is in your GY: You can Special Summon this card.",
+    "race": "Plant",
+    "atk": 1600,
+    "def": 2400,
+    "level": 6,
+    "attribute": "DARK",
+    "archetype": "Rose",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hate-rose-witch-15192",
+    "card_images": [
+        {
+            "id": 33955120,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33955120.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33955120.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33955120.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

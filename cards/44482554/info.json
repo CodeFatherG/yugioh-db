@@ -1,6 +1,6 @@
 {
     "id": 44482554,
-    "name": "Dragon Tail Pan",
+    "name": "Dracotail Pan",
     "typeline": [
         "Dragon",
         "Effect"
@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dragon Tail\" Spell/Trap from your Deck, then you can destroy 1 monster on the field. If a face-up Fusion Monster(s) you control is destroyed by an opponent's card effect while this card is in your GY (except during the Damage Step): You can place this card on the bottom of the Deck, and if you do, Special Summon 1 non-Fusion \"Dragon Tail\" monster from your GY. You can only use each effect of \"Dragon Tail Pan\" once per turn.",
+    "desc": "If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck, then you can destroy 1 monster on the field. If a face-up Fusion Monster(s) you control is destroyed by an opponent's card effect, while this card is in your GY (except during the Damage Step): You can place this card on the bottom of your Deck, and if you do, Special Summon 1 non-Fusion \"Dracotail\" monster from your GY. You can only use each effect of \"Dracotail Pan\" once per turn.",
     "race": "Dragon",
     "atk": 2700,
     "def": 1700,
     "level": 7,
     "attribute": "WIND",
-    "archetype": "Dragon Tail",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-tail-pan-14994",
+    "archetype": "Dracotail",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dracotail-pan-14994",
+    "card_sets": [
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN003",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 44482554,
@@ -26,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.04",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.41",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

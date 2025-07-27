@@ -1,0 +1,35 @@
+{
+    "id": 72632190,
+    "name": "Tri-Headed Behemoth",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If a face-up card(s) you control is destroyed by card effect, even during the Damage Step: You can Special Summon this card from your hand. You can only use this effect of \"Tri-Headed Behemoth\" once per turn. If this card is Normal or Special Summoned: You activate this effect; during the End Phase of this turn, Special Summon 1 WIND monster from your GY, but its ATK/DEF become 1000. You can only use this effect of \"Tri-Headed Behemoth\" once per Duel.",
+    "race": "Dragon",
+    "atk": 1500,
+    "def": 1200,
+    "level": 4,
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tri-headed-behemoth-15216",
+    "card_images": [
+        {
+            "id": 72632190,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72632190.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72632190.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72632190.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

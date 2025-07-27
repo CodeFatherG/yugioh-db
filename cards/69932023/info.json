@@ -1,13 +1,29 @@
 {
     "id": 69932023,
-    "name": "Dragon Tail Horn",
+    "name": "Dracotail Horn",
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Target 1 Attack Position monster on the field; return it to the hand/Extra Deck, then you can place 1 \"Dragon Tail\" card from your GY or banishment on the bottom of the Deck, except \"Dragon Tail Horn\", then draw 1 card. You can only activate 1 \"Dragon Tail Horn\" per turn.",
+    "desc": "Target 1 Attack Position monster on the field; return it to the hand/Extra Deck, then you can place 1 \"Dracotail\" card from your GY or banishment on the bottom of the Deck, except \"Dracotail Horn\", then draw 1 card. You can only activate 1 \"Dracotail Horn\" per turn.",
     "race": "Normal",
-    "archetype": "Dragon Tail",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-tail-horn-14970",
+    "archetype": "Dracotail",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dracotail-horn-14970",
+    "card_sets": [
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 69932023,
@@ -18,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.20",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.34",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

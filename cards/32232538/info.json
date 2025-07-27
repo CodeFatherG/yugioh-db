@@ -1,0 +1,37 @@
+{
+    "id": 32232538,
+    "name": "D/D/D Wisdom King Solomon",
+    "typeline": [
+        "Fiend",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2 Level 4 \"D/D\" monsters\r\nYou can detach 1 material from this card; add 1 \"D/D\" card from your Deck to your hand. If this card is banished: You can target 1 \"D/D\" Effect Monster you control; that Effect Monster gains this effect until the end of this turn.\r\n\u25cf If this card destroys a monster by battle: Inflict damage to your opponent equal to that monster's original ATK.\r\nYou can only use each effect of \"D/D/D Wisdom King Solomon\" once per turn.",
+    "race": "Fiend",
+    "atk": 1800,
+    "def": 2500,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "D/D",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-d-wisdom-king-solomon-15198",
+    "card_images": [
+        {
+            "id": 32232538,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32232538.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32232538.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32232538.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

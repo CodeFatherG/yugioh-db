@@ -1,6 +1,6 @@
 {
     "id": 1498449,
-    "name": "Dragon Tail Fymena",
+    "name": "Dracotail Faimena",
     "typeline": [
         "Spellcaster",
         "Effect"
@@ -8,14 +8,37 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "During the Main Phase (Quick Effect): You can discard this card; Fusion Summon 1 Dragon or Spellcaster Fusion Monster from your Extra Deck, using monsters from your hand or field. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dragon Tail\" Spell/Trap from your Deck. You can only use each effect of \"Dragon Tail Fymena\" once per turn.",
+    "desc": "During the Main Phase (Quick Effect): You can discard this card; Fusion Summon 1 Dragon or Spellcaster Fusion Monster from your Extra Deck, using monsters from your hand or field. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck. You can only use each effect of \"Dracotail Faimena\" once per turn.",
     "race": "Spellcaster",
     "atk": 1300,
     "def": 2500,
     "level": 5,
     "attribute": "WATER",
-    "archetype": "Dragon Tail",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-tail-fymena-14991",
+    "archetype": "Dracotail",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dracotail-faimena-14991",
+    "card_sets": [
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN002",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN002",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 1498449,
@@ -26,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "5.00",
+            "tcgplayer_price": "18.54",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

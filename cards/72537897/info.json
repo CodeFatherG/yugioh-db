@@ -23,6 +23,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN029",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of the Valiant",
             "set_code": "LVAL-EN088",
             "set_rarity": "Super Rare",
@@ -40,8 +47,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.96",
-            "tcgplayer_price": "2.78",
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.71",
             "ebay_price": "1.58",
             "amazon_price": "2.24",
             "coolstuffinc_price": "1.49"

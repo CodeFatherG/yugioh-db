@@ -1,13 +1,29 @@
 {
     "id": 32548318,
-    "name": "Rahu Dragon Tail",
+    "name": "Rahu Dracotail",
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Fusion Summon 1 \"Dragon Tail\" Fusion Monster from your Extra Deck, using monsters from your hand, Deck, and/or field, also you cannot Special Summon from the Extra Deck for the rest of this turn after this card resolves, except Fusion Monsters. You can only activate 1 \"Rahu Dragon Tail\" per turn.",
+    "desc": "Fusion Summon 1 \"Dracotail\" monster from your Extra Deck, using monsters from your hand, Deck, or field, also for the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except Fusion Monsters. You can only activate 1 \"Rahu Dracotail\" per turn.",
     "race": "Normal",
-    "archetype": "Dragon Tail",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/rahu-dragon-tail-14983",
+    "archetype": "Dracotail",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rahu-dracotail-14983",
+    "card_sets": [
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN009",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 32548318,
@@ -18,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "3.25",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.58",
+            "tcgplayer_price": "1.95",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -1,6 +1,6 @@
 {
     "id": 70871153,
-    "name": "Dragon Tail Urgula",
+    "name": "Dracotail Urgula",
     "typeline": [
         "Dragon",
         "Effect"
@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dragon Tail\" Spell/Trap from your Deck, then you can destroy 1 Spell/Trap on the field. If this card is in your GY: You can target 1 Spellcaster \"Dragon Tail\" monster in your GY; place this card on the bottom of the Deck, and if you do, add that monster to your hand. You can only use each effect of \"Dragon Tail Urgula\" once per turn.",
+    "desc": "If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck, then you can destroy 1 Spell/Trap on the field. If this card is in your GY: You can target 1 Spellcaster \"Dracotail\" monster in your GY; place this card on the bottom of your Deck, and if you do, add that monster to your hand. You can only use each effect of \"Dracotail Urgula\" once per turn.",
     "race": "Dragon",
     "atk": 2400,
     "def": 1000,
     "level": 6,
     "attribute": "FIRE",
-    "archetype": "Dragon Tail",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-tail-urgula-14995",
+    "archetype": "Dracotail",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dracotail-urgula-14995",
+    "card_sets": [
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN004",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 70871153,
@@ -26,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.09",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.44",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

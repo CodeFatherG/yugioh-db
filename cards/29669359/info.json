@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/number-61-volcasaurus-2513",
     "card_sets": [
         {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN043",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Premium Gold: Infinite Gold",
             "set_code": "PGL3-EN073",
             "set_rarity": "Gold Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.95",
-            "tcgplayer_price": "3.89",
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.44",
             "ebay_price": "3.80",
             "amazon_price": "5.89",
             "coolstuffinc_price": "1.99"

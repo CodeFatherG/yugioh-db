@@ -26,6 +26,13 @@
             "set_price": "2.94"
         },
         {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN052",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Maximum Gold",
             "set_code": "MAGO-EN030",
             "set_rarity": "Premium Gold Rare",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.39",
-            "tcgplayer_price": "0.54",
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.69",
             "ebay_price": "0.99",
             "amazon_price": "0.50",
             "coolstuffinc_price": "0.49"

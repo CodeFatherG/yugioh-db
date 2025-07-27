@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Activate 1 of these effects (but you can only use each effect of \"Yummy\u2606Surprise\" once per turn);\r\n\u25cf Target 2 LIGHT Beast monsters you control and 2 cards your opponent controls; return them to the hand.\r\n\u25cf Special Summon 1 \"Yummy\" monster from your hand or GY, but it cannot attack directly this turn.\r\n\u25cf Return 1 Field Spell from your face-up field or GY to the hand, then you can place 1 \"Yummy\" Field Spell from your hand face-up on your field.",
+    "desc": "Activate 1 of these effects (but you can only use each effect of \"Yummy\u2606Surprise\" once per turn);\r\n\u25cf Target 2 LIGHT Beast monsters you control and 2 cards your opponent controls; return them to the hand.\r\n\u25cf Special Summon 1 \"Yummy\" monster from your hand or GY, but it cannot attack directly this turn.\r\n\u25cf Return 1 Field Spell from your face-up field or GY to the hand, then you can place 1 \"Yummy\" Field Spell from your hand, face-up on your field.",
     "race": "Quick-Play",
     "archetype": "Yummy",
     "ygoprodeck_url": "https://ygoprodeck.com/card/yummy\u0442\u0448\u0436surprise-14998",
+    "card_sets": [
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN025",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 29369059,

@@ -1,0 +1,35 @@
+{
+    "id": 19743887,
+    "name": "VARefar the Kick Deity",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "When your opponent activates a monster effect on the field that targets a monster(s) you control, or when your monster is targeted for an attack by an opponent's monster (Quick Effect): You can Special Summon this card from your hand, then you can reveal 1 card in your hand, then apply this effect to that opponent's monster based on the type of card revealed.\r\n\u25cf Monster: Change it to Defense Position.\r\n\u25cf Spell: Its ATK becomes doubled.\r\n\u25cf Trap: Banish it.\r\nYou can only use this effect of \"VARefar the Kick Deity\" once per turn.",
+    "race": "Fiend",
+    "atk": 2100,
+    "def": 800,
+    "level": 11,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/varefar-the-kick-deity-15215",
+    "card_images": [
+        {
+            "id": 19743887,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19743887.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19743887.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19743887.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

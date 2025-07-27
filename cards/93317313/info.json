@@ -1,0 +1,36 @@
+{
+    "id": 93317313,
+    "name": "D/D Defense Soldier",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can activate 1 of these effects;\r\n\u25cf Target 1 \"D/D\" card in your Pendulum Zone; Special Summon it.\r\n\u25cf Banish 1 \"D/D\" monster from your GY; if your \"D/D/D\" monster attacks this turn, your opponent cannot activate cards or effects until the end of the Damage Step.\r\nYou can banish this card from your GY; add 1 \"D/D\" Pendulum Monster from your face-up Extra Deck or GY to your hand. You can only use each effect of \"D/D Defense Soldier\" once per turn.",
+    "race": "Fiend",
+    "atk": 0,
+    "def": 1800,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "D/D",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-defense-soldier-15205",
+    "card_images": [
+        {
+            "id": 93317313,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93317313.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93317313.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93317313.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

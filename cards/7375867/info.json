@@ -1,6 +1,6 @@
 {
     "id": 7375867,
-    "name": "Dragon Tail Mulr",
+    "name": "Dracotail Mululu",
     "typeline": [
         "Dragon",
         "Effect"
@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "During the Main Phase (Quick Effect): You can Fusion Summon 1 \"Dragon Tail\" Fusion Monster from your Extra Deck, using monsters from your hand or field, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion Monsters. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dragon Tail\" Spell/Trap from your Deck, then you can negate the effects of 1 face-up monster your opponent controls. You can only use each effect of \"Dragon Tail Mulr\" once per turn.",
+    "desc": "During the Main Phase (Quick Effect): You can Fusion Summon 1 \"Dracotail\" Fusion Monster from your Extra Deck, using monsters from your hand or field, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion Monsters. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck, then you can negate the effects of 1 face-up monster your opponent controls. You can only use each effect of \"Dracotail Mululu\" once per turn.",
     "race": "Dragon",
     "atk": 1100,
     "def": 1500,
     "level": 3,
     "attribute": "DARK",
-    "archetype": "Dragon Tail",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-tail-mulr-14993",
+    "archetype": "Dracotail",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dracotail-mululu-14993",
+    "card_sets": [
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN005",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN005",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 7375867,
@@ -27,7 +43,7 @@
     "card_prices": [
         {
             "cardmarket_price": "5.95",
-            "tcgplayer_price": "0.00",
+            "tcgplayer_price": "18.55",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

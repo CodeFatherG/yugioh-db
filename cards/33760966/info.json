@@ -1,6 +1,6 @@
 {
     "id": 33760966,
-    "name": "Dragon Tail Altharion",
+    "name": "Dracotail Arthalion",
     "typeline": [
         "Dragon",
         "Fusion",
@@ -9,14 +9,37 @@
     "type": "Fusion Monster",
     "humanReadableCardType": "Fusion Effect Monster",
     "frameType": "fusion",
-    "desc": "1 \"Dragon Tail\" monster + 1+ monsters in the hand\r\nIf this card is Fusion Summoned: You can target monsters on the field and/or in any GY(s), up to the number of monsters used as material from the hand; return them to the hand. If 2 or more monsters are sent to the GY at the same time while this card is in your GY (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Dragon Tail Altharion\" once per turn.",
+    "desc": "1 \"Dracotail\" monster + 1+ monsters in the hand\r\nIf this card is Fusion Summoned: You can target monsters on the field and/or GYs, up to the number of monsters used as material from the hand; return them to the hand. If 2 or more monsters are sent to the GY at the same time, while this card is in your GY (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Dracotail Arthalion\" once per turn.",
     "race": "Dragon",
     "atk": 3000,
     "def": 2500,
     "level": 8,
     "attribute": "EARTH",
-    "archetype": "Dragon Tail",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-tail-altharion-14984",
+    "archetype": "Dracotail",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dracotail-arthalion-14984",
+    "card_sets": [
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN006",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN006",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN006",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 33760966,
@@ -27,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "24.95",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "13.94",
+            "tcgplayer_price": "19.13",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

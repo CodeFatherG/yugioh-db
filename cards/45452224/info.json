@@ -25,6 +25,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN049",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Cyberse Link",
             "set_code": "SDCL-EN022",
             "set_rarity": "Common",
@@ -49,8 +56,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
-            "tcgplayer_price": "0.32",
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.30",
             "ebay_price": "3.56",
             "amazon_price": "7.42",
             "coolstuffinc_price": "1.49"

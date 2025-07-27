@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/n-as-h-knight-12846",
     "card_sets": [
         {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN059",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Duels From the Deep",
             "set_code": "LED9-EN003",
             "set_rarity": "Super Rare",
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "3.30",
-            "tcgplayer_price": "4.74",
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.76",
             "ebay_price": "0.99",
             "amazon_price": "0.75",
             "coolstuffinc_price": "0.39"

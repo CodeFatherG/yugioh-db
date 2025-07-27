@@ -10,7 +10,7 @@
     "type": "Synchro Tuner Monster",
     "humanReadableCardType": "Synchro Tuner Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Tuner + 1 non-Tuner monster\r\nFor this card's Synchro Summon, you can treat 1 Link-1 monster you control as a Level 1 Tuner. You can only use each of the following effects of \"Lollipo\u2606Yummy Way\" once per turn. If this card is Synchro Summoned: You can Special Summon 2 \"Yummy\" monsters from your GY, but negate their effects. When your opponent activates a card or effect (Quick Effect): You can return this card to the Extra Deck; Special Summon up to 2 \"Yummy\" monsters from your GY.",
+    "desc": "1 Tuner + 1 non-Tuner monster\r\nFor this card's Synchro Summon, you can treat 1 Link-1 monster you control as a Level 1 Tuner. You can only use each of the following effects of \"Lollipo\u2605Yummy Way\" once per turn. If this card is Synchro Summoned: You can Special Summon 2 \"Yummy\" monsters from your GY, but negate their effects. When your opponent activates a card or effect (Quick Effect): You can return this card to the Extra Deck; Special Summon up to 2 \"Yummy\" monsters from your GY.",
     "race": "Beast",
     "atk": 1200,
     "def": 1200,
@@ -18,6 +18,15 @@
     "attribute": "LIGHT",
     "archetype": "Yummy",
     "ygoprodeck_url": "https://ygoprodeck.com/card/lollipo\u0442\u0448\u0435yummy-way-14982",
+    "card_sets": [
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN021",
+            "set_rarity": "New",
+            "set_rarity_code": "",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 93192592,

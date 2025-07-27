@@ -1,0 +1,36 @@
+{
+    "id": 55088578,
+    "name": "Onomatokage",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "(This card is always treated as a \"Zubaba\", \"Gagaga\", \"Gogogo\", and \"Dododo\" card.)\r\nIf you control a \"Zubaba\", \"Gagaga\", \"Gogogo\", or \"Dododo\" monster and this card is in your hand or GY: You can Special Summon this card, but banish it when it leaves the field. You can banish this card from your GY; return up to 2 Xyz Monsters from your GY to the Extra Deck. You can only use each effect of \"Onomatokage\" once per turn.",
+    "race": "Reptile",
+    "atk": 1100,
+    "def": 1500,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "Dododo",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/onomatokage-15161",
+    "card_images": [
+        {
+            "id": 55088578,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55088578.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55088578.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55088578.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

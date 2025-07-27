@@ -46,6 +46,13 @@
             "set_price": "8.28"
         },
         {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN012",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Quarter Century Stampede",
             "set_code": "RA04-EN014",
             "set_rarity": "Collector's Rare",
@@ -106,7 +113,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.08",
+            "tcgplayer_price": "0.07",
             "ebay_price": "0.99",
             "amazon_price": "5.41",
             "coolstuffinc_price": "0.39"

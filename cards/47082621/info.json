@@ -1,0 +1,36 @@
+{
+    "id": 47082621,
+    "name": "Regenesis Demiurge",
+    "typeline": [
+        "Illusion",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your GY) by banishing 2 monsters from your GY with 2500 ATK or DEF. You can only Special Summon \"Regenesis Demiurge\" once per turn this way. If this card is Special Summoned: You can target cards in your opponent's field and/or GY up to the number of your banished monsters with 2500 ATK or DEF; return them to the hand. Monsters your opponent controls lose 2500 ATK during the Battle Phase only.",
+    "race": "Illusion",
+    "atk": 2500,
+    "def": 2500,
+    "level": 10,
+    "attribute": "DARK",
+    "archetype": "Regenesis",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/regenesis-demiurge-15183",
+    "card_images": [
+        {
+            "id": 47082621,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47082621.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47082621.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47082621.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

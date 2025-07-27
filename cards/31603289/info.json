@@ -1,6 +1,6 @@
 {
     "id": 31603289,
-    "name": "Cupsie\u2605Yummy Way",
+    "name": "Cupsy\u2605Yummy Way",
     "typeline": [
         "Beast",
         "Synchro",
@@ -10,14 +10,30 @@
     "type": "Synchro Tuner Monster",
     "humanReadableCardType": "Synchro Tuner Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Tuner + 1 non-Tuner monster\r\nFor this card's Synchro Summon, you can treat 1 Link-1 monster you control as a Level 1 Tuner. You can only use each of the following effects of \"Cupsie\u2605Yummy Way\" once per turn. If this card is Synchro Summoned: You can add 2 \"Yummy\" monsters from your Deck to your hand, then discard 1 card. When your opponent activates a card or effect (Quick Effect): You can return this card to the Extra Deck; Special Summon up to 2 \"Yummy\" monsters from your GY.",
+    "desc": "1 Tuner + 1 non-Tuner monster\r\nFor this card's Synchro Summon, you can treat 1 Link-1 monster you control as a Level 1 Tuner. You can only use each of the following effects of \"Cupsy\u2605Yummy Way\" once per turn. If this card is Synchro Summoned: You can add 2 \"Yummy\" monsters from your Deck to your hand, then discard 1 card. When your opponent activates a card or effect (Quick Effect): You can return this card to the Extra Deck; Special Summon up to 2 \"Yummy\" monsters from your GY.",
     "race": "Beast",
     "atk": 0,
     "def": 2200,
     "level": 2,
     "attribute": "LIGHT",
     "archetype": "Yummy",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/cupsie\u0442\u0448\u0435yummy-way-15003",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cupsy\u0442\u0448\u0435yummy-way-15003",
+    "card_sets": [
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN019",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN019",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 31603289,

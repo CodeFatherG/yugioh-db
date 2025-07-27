@@ -1,6 +1,6 @@
 {
     "id": 27420823,
-    "name": "K9 - 17 \"Ripper\"",
+    "name": "K9-17 \"Ripper\"",
     "typeline": [
         "Warrior",
         "Xyz",
@@ -9,7 +9,7 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "2 Level 5 monsters\r\nYou can detach 1 material from this card; add 1 \"K9\" card from your Deck to your hand, then, if your opponent activated a monster effect this turn, you can Set 1 \"K9\" Quick-Play Spell from your Deck or GY. When your opponent activates a monster effect in the hand or GY (Quick Effect): You can detach 1 material from this card; negate that effect. You can only use each effect of \"K9 - #17 \"Ripper\"\" once per turn.",
+    "desc": "2 Level 5 monsters\r\nYou can detach 1 material from this card; add 1 \"K9\" card from your Deck to your hand, then if your opponent has activated a monster effect this turn, you can Set 1 \"K9\" Quick-Play Spell from your Deck or GY. When your opponent activates a monster effect in the hand or GY (Quick Effect): You can detach 1 material from this card; negate that effect. You can only use each effect of \"K9-17 \"Ripper\"\" once per turn.",
     "race": "Warrior",
     "atk": 2300,
     "def": 1800,
@@ -17,6 +17,22 @@
     "attribute": "WIND",
     "archetype": "K9",
     "ygoprodeck_url": "https://ygoprodeck.com/card/k9-17-ripper-14976",
+    "card_sets": [
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN035",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN035",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 27420823,
@@ -27,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.61",
+            "tcgplayer_price": "3.97",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

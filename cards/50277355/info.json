@@ -42,6 +42,20 @@
             "set_rarity": "Rare",
             "set_rarity_code": "(R)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN048",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN048",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -54,8 +68,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.45",
-            "tcgplayer_price": "2.12",
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.61",
             "ebay_price": "3.45",
             "amazon_price": "1.39",
             "coolstuffinc_price": "0.99"
