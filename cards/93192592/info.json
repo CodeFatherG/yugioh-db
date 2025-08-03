@@ -22,8 +22,15 @@
         {
             "set_name": "Justice Hunters",
             "set_code": "JUSH-EN021",
-            "set_rarity": "New",
-            "set_rarity_code": "",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
             "set_price": "0"
         }
     ],

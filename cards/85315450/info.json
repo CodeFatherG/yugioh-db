@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If a Quick-Play Spell Card is activated: You can Special Summon this card from your hand. If a Quick-Play Spell Card is activated: You can target up to 2 cards your opponent controls; shuffle them into the Deck. If \"Mystical Space Typhoon\" is activated while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Magnifistorm Great Pyre Phonix\" once per turn.",
+    "desc": "If a Quick-Play Spell Card is activated (except during the Damage Step): You can Special Summon this card from your hand. If a Quick-Play Spell Card is activated (except during the Damage Step): You can target up to 2 cards your opponent controls; shuffle them into the Deck. If \"Mystical Space Typhoon\" is activated while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Magnifistorm Great Pyre Phonix\" once per turn.",
     "race": "Pyro",
     "atk": 3000,
     "def": 0,

@@ -1,0 +1,37 @@
+{
+    "id": 67515699,
+    "name": "K9-666 \"Jacks\"",
+    "typeline": [
+        "Fiend",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2 Level 5 monsters\r\nIf this card is Xyz Summoned, or if your opponent activates a monster effect in the hand or GY: You can detach 1 material from this card, then target 1 monster on the field; destroy it. You can only use this effect of \"K9-666 \"Jacks\"\" once per turn. A \"K9\" Xyz Monster that has this card as material gains this effect.\r\n\u25cf During any turn in which your opponent has activated a monster effect in the hand or GY, any battle damage this card inflicts to your opponent is doubled.",
+    "race": "Fiend",
+    "atk": 2600,
+    "def": 2500,
+    "level": 5,
+    "attribute": "DARK",
+    "archetype": "K9",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/k9-666-jacks-15220",
+    "card_images": [
+        {
+            "id": 67515699,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67515699.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67515699.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67515699.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
