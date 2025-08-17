@@ -1,0 +1,38 @@
+{
+    "id": 100446038,
+    "name": "Killer Tune Loudness War",
+    "typeline": [
+        "Machine",
+        "Synchro",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Synchro Tuner Monster",
+    "humanReadableCardType": "Synchro Tuner Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ Tuners\r\nOther Tuners you control cannot be destroyed by card effects, also your opponent cannot target them with card effects. When your opponent activates a card or effect (Quick Effect): You can banish 1 \"Killer Tune\" monster from your GY; apply its effect that activates if sent to the GY as Synchro Material. You can only use this effect of \"Killer Tune Loudness War\" once per turn.",
+    "race": "Machine",
+    "atk": 0,
+    "def": 3000,
+    "level": 6,
+    "attribute": "LIGHT",
+    "archetype": "Killer Tune",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/killer-tune-loudness-war-15224",
+    "card_images": [
+        {
+            "id": 100446038,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100446038.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100446038.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100446038.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

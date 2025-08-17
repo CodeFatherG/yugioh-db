@@ -1,0 +1,36 @@
+{
+    "id": 100446004,
+    "name": "Hecahands Gygas",
+    "typeline": [
+        "Illusion",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Hecahands Gygas\" once per turn. If a card(s) is added to your opponent's hand, except during the Draw Phase: You can Special Summon this card from your hand. During your Main Phase: You can excavate the top 3 cards of your opponent's Deck, you can Special Summon 1 excavated monster, also shuffle the rest back into the Deck.",
+    "race": "Illusion",
+    "atk": 1200,
+    "def": 2800,
+    "level": 7,
+    "attribute": "DARK",
+    "archetype": "Hecahands",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hecahands-gygas-15227",
+    "card_images": [
+        {
+            "id": 100446004,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100446004.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100446004.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100446004.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

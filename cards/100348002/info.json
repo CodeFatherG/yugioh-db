@@ -1,0 +1,35 @@
+{
+    "id": 100348002,
+    "name": "Anchorbolt Hedgehog",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If you control \"Junk Warrior\", or a monster that mentions it other than \"Anchorbolt Hedgehog\", and this card is in your GY (Quick Effect): You can Special Summon this card in Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use this effect of \"Anchorbolt Hedgehog\" once per turn.",
+    "race": "Machine",
+    "atk": 800,
+    "def": 800,
+    "level": 2,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/anchorbolt-hedgehog-15251",
+    "card_images": [
+        {
+            "id": 100348002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100348002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100348002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100348002.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

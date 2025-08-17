@@ -1,0 +1,37 @@
+{
+    "id": 8805651,
+    "name": "Megalith Phuloch",
+    "typeline": [
+        "Rock",
+        "Ritual",
+        "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with any \"Megalith\" card. If this card is Ritual Summoned: You can add 1 \"Megalith\" card from your GY to your hand. During the Main Phase (Quick Effect): You can Ritual Summon 1 \"Megalith\" Ritual Monster from your GY, except \"Megalith Phuloch\", by Tributing monsters from your hand or field, including this card on your field, whose total Levels equal or exceed the Level of the Ritual Monster. You can only use this effect of \"Megalith Phuloch\" once per turn, and cannot activate both effects of \"Megalith Phuloch\" in the same Chain.",
+    "race": "Rock",
+    "atk": 2000,
+    "def": 300,
+    "level": 4,
+    "attribute": "EARTH",
+    "archetype": "Megalith",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/megalith-phuloch-15115",
+    "card_images": [
+        {
+            "id": 8805651,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8805651.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8805651.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8805651.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
