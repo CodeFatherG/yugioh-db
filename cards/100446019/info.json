@@ -1,0 +1,41 @@
+{
+    "id": 100446019,
+    "name": "Enneacraft \u03b8' \"oknirIA\"",
+    "typeline": [
+        "Machine",
+        "Pendulum",
+        "Flip",
+        "Effect"
+    ],
+    "type": "Pendulum Flip Effect Monster",
+    "humanReadableCardType": "Pendulum Flip Effect Monster",
+    "frameType": "effect_pendulum",
+    "desc": "[ Pendulum Effect ] \nEach time a monster(s) is flipped face-up, place 1 Sinquisition Counter on this card. You can pay 900 LP; reveal 3 \"Enneacraft\" cards from your Deck, your opponent randomly picks 1 for you to add to your hand, also you shuffle the rest back into the Deck. You can only use this effect of \"Enneacraft \u03b8' \"oknirIA\"\" once per turn.\n\n[ Monster Effect ] \nYou can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position. When your opponent activates a card effect in the GY or banishment (Quick Effect): You can change this Set card to face-up Defense Position; [[Add a card",
+    "race": "Machine",
+    "pend_desc": "Each time a monster(s) is flipped face-up, place 1 Sinquisition Counter on this card. You can pay 900 LP; reveal 3 \"Enneacraft\" cards from your Deck, your opponent randomly picks 1 for you to add to your hand, also you shuffle the rest back into the Deck. You can only use this effect of \"Enneacraft \u03b8' \"oknirIA\"\" once per turn.",
+    "monster_desc": "You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position. When your opponent activates a card effect in the GY or banishment (Quick Effect): You can change this Set card to face-up Defense Position; [[Add a card",
+    "atk": 100,
+    "def": 1000,
+    "level": 1,
+    "attribute": "EARTH",
+    "archetype": "Enneacraft",
+    "scale": 0,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/enneacraft-\u03b8-okniria-15256",
+    "card_images": [
+        {
+            "id": 100446019,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100446019.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100446019.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100446019.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
