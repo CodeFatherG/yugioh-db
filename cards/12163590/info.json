@@ -1,6 +1,6 @@
 {
     "id": 12163590,
-    "name": "Dragonmaid Stern",
+    "name": "Dragonmaid Cehrmba",
     "typeline": [
         "Dragon",
         "Effect"
@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Dragon Fusion Monsters you control cannot be destroyed by your opponent's card effects. You can only use each of the following effects of \"Dragonmaid Stern\" once per turn. You can discard this card; Special Summon 1 \"Dragonmaid\" monster from your GY or banishment, except \"Dragonmaid Stern\". At the end of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 4 or lower \"Dragonmaid\" monster from your hand.",
+    "desc": "Dragon Fusion Monsters you control cannot be destroyed by your opponent's card effects . You can only use each of the following effects of \"Dragonmaid Cehrmba\" once per turn . You can discard this card; Special Summon 1 \" Dragonmaid \" monster from your GY or banishment , except \"Dragonmaid Cehrmba\". At the end of the Battle Phase : You can return this card to the hand , and if you do, Special Summon 1 Level 4 or lower \"Dragonmaid\" monster from your hand.",
     "race": "Dragon",
     "atk": 2800,
     "def": 1800,
@@ -16,6 +16,15 @@
     "attribute": "DARK",
     "archetype": "Dragonmaid",
     "ygoprodeck_url": "https://ygoprodeck.com/card/dragonmaid-stern-14834",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN048",
+            "set_rarity": "New",
+            "set_rarity_code": "",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 12163590,
@@ -26,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "2.25",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.94",
+            "tcgplayer_price": "1.87",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

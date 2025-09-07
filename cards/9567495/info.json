@@ -1,0 +1,36 @@
+{
+    "id": 9567495,
+    "name": "Dragon Gate",
+    "typeline": [
+        "Zombie",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2 Level 6 monsters\r\nOnce per turn, you can also Xyz Summon \"Dragon Gate\" by using 1 Rank 3 or lower Xyz Monster you control (transfer its materials). Cannot be used as material for an Xyz Summon the turn it was Xyz Summoned. Once per turn: You can activate this effect; for the rest of this turn, this card can attack all monsters your opponent controls, once each, also detach any number of materials from this card, and if you do, it gains 1000 ATK for each card type (Monster, Spell, or Trap) detached, and if it does, any monsters your opponent currently controls lose that much ATK.",
+    "race": "Zombie",
+    "atk": 1100,
+    "def": 2800,
+    "level": 6,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-gate-15266",
+    "card_images": [
+        {
+            "id": 9567495,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9567495.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9567495.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9567495.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "5.09",
+            "tcgplayer_price": "1.80",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
