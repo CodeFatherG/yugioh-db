@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "2+ \"D/D\" monsters\r\nYou can target 1 \"D/D\" or \"Dark Contract\" card you control; destroy it, also, during your Main Phase this turn, you can conduct 1 Pendulum Summon of a \"D/D\" monster(s) in addition to your Pendulum Summon. (You can only gain this effect once per turn.) When your opponent activates a monster effect in the hand (Quick Effect): You can banish 1 \"D/D\" monster and 1 \"Dark Contract\" card from your GY; negate the activation. You can only use this effect of \"D/D/D Sky King Zeus Ragnarok\" once per turn.",
+    "desc": "2+ \"D/D\" monsters\r\nYou can target 1 \"D/D\" or \"Dark Contract\" card you control; destroy it, also during your Main Phase this turn, you can conduct 1 Pendulum Summon of a \"D/D\" monster(s) in addition to your Pendulum Summon (you can only gain this effect once per turn). When your opponent activates a monster effect in the hand (Quick Effect): You can banish 1 \"D/D\" monster and 1 \"Dark Contract\" card from your GY; negate the activation. You can only use this effect of \"D/D/D Sky King Zeus Ragnarok\" once per turn.",
     "race": "Fiend",
     "atk": 2200,
     "def": null,
@@ -23,6 +23,15 @@
         "Bottom-Right"
     ],
     "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-d-sky-king-zeus-ragnarok-15203",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN049",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 30998403,

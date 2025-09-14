@@ -9,7 +9,7 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Plant Tuner + 1+ non-Tuner monsters\r\nEach time your opponent activates a monster effect, inflict 600 damage to your opponent when that effect resolves, and if you do, all monsters they control lose 600 ATK. You can only use each of the following effects of \"Bramble Rose Dragon\" once per turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Black Rose Dragon\" from your Extra Deck (this is treated as a Synchro Summon). You can banish this card from your GY; Special Summon 1 Level 4 or lower Plant Tuner from your GY.",
+    "desc": "1 Plant Tuner + 1+ non-Tuner monsters\r\nEach time your opponent activates a monster effect, inflict 600 damage to your opponent, and if you do, all monsters your opponent currently controls lose 600 ATK. You can only use each of the following effects of \"Bramble Rose Dragon\" once per turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Black Rose Dragon\" from your Extra Deck (this is treated as a Synchro Summon). You can banish this card from your GY; Special Summon 1 Level 4 or lower Plant Tuner from your GY.",
     "race": "Plant",
     "atk": 2400,
     "def": 1800,
@@ -17,6 +17,15 @@
     "attribute": "FIRE",
     "archetype": "Rose",
     "ygoprodeck_url": "https://ygoprodeck.com/card/bramble-rose-dragon-15189",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN039",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 6560411,

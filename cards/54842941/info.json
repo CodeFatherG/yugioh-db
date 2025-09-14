@@ -1,0 +1,41 @@
+{
+    "id": 54842941,
+    "name": "Enneacraft - Atori\u03dd.MAR",
+    "typeline": [
+        "Machine",
+        "Pendulum",
+        "Flip",
+        "Effect"
+    ],
+    "type": "Pendulum Flip Effect Monster",
+    "humanReadableCardType": "Pendulum Flip Effect Monster",
+    "frameType": "effect_pendulum",
+    "desc": "[ Pendulum Effect ] \nEach time a monster(s) is flipped face-up, place 1 Sinquisition Counter on this card. At the end of the Battle Phase, if you have an \"Enneacraft\" card in your other Pendulum Zone: You can target 1 monster your opponent controls with less ATK than this card; destroy it.\n\n[ Monster Effect ] \nYou can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position. When your opponent activates a card or effect on the field during your turn (Quick Effect): You can change this Set card to face-up Defense Position; negate the activation, and if you do, destroy that card. If this card is flipped face-up: Change all monsters your opponent controls to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+    "race": "Machine",
+    "pend_desc": "Each time a monster(s) is flipped face-up, place 1 Sinquisition Counter on this card. At the end of the Battle Phase, if you have an \"Enneacraft\" card in your other Pendulum Zone: You can target 1 monster your opponent controls with less ATK than this card; destroy it.",
+    "monster_desc": "You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position. When your opponent activates a card or effect on the field during your turn (Quick Effect): You can change this Set card to face-up Defense Position; negate the activation, and if you do, destroy that card. If this card is flipped face-up: Change all monsters your opponent controls to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+    "atk": 3000,
+    "def": 2500,
+    "level": 9,
+    "attribute": "LIGHT",
+    "archetype": "Enneacraft",
+    "scale": 0,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/enneacraft-atori\u03dd-mar-15257",
+    "card_images": [
+        {
+            "id": 54842941,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54842941.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54842941.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54842941.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

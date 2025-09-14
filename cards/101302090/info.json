@@ -1,0 +1,45 @@
+{
+    "id": 101302090,
+    "name": "R.B. Lambda Cannon",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can target 1 \"R.B.\" monster in your GY, except \"R.B. Lambda Cannon\"; add it to your hand. While this card is linked to an \"R.B.\" Link Monster: You can pay 1200 LP; destroy this card, and if you do, look at your opponent's hand, then you can Special Summon 1 monster from it to their field, but negate its effects. You can only use each effect of \"R.B. Lambda Cannon\" once per turn.",
+    "race": "Machine",
+    "atk": 1200,
+    "def": 1200,
+    "level": 6,
+    "attribute": "DARK",
+    "archetype": "R.B.",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/r-b-lambda-cannon-15272",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN090",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 101302090,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101302090.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101302090.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101302090.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
