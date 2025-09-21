@@ -4,10 +4,19 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Target 1 monster in your GY or banishment; send 1 monster from your Extra Deck, or 1 \"Dogmatika\" monster from your Deck, with an equal or higher ATK to the GY, and if you do, Special Summon the targeted monster. Until the end of your next turn after this card resolves, you cannot Special Summon from the Extra Deck. You can only activate 1 \"Quadogmatika Beast\" per turn.",
+    "desc": "Target 1 monster in your GY or banishment; send to the GY, 1 monster from your Extra Deck or 1 \"Dogmatika\" monster from your Deck, with ATK higher than or equal to that target, and if you do, Special Summon that target. Until the end of your next turn after this card resolves, you cannot Special Summon from the Extra Deck. You can only activate 1 \"Quadogmatika Beast\" per turn.",
     "race": "Normal",
     "archetype": "Dogmatika",
     "ygoprodeck_url": "https://ygoprodeck.com/card/quadogmatika-beast-15208",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 16693934,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.95",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

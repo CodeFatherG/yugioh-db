@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/the-unstoppable-exodia-incarnate-14391",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN008",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN033",
             "set_rarity": "Quarter Century Secret Rare",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.04",
-            "tcgplayer_price": "1.51",
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "1.36",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

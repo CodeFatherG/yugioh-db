@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/veidos-the-eruption-dragon-of-extinction-14378",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN175",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Phantom Nightmare",
             "set_code": "PHNI-EN090",
             "set_rarity": "Quarter Century Secret Rare",
@@ -41,8 +48,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.45",
-            "tcgplayer_price": "0.90",
+            "cardmarket_price": "1.41",
+            "tcgplayer_price": "0.73",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/bystial-magnamhut-13361",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN043",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
             "set_code": "MP23-EN157",
             "set_rarity": "Prismatic Secret Rare",
@@ -46,8 +53,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "3.16",
-            "tcgplayer_price": "4.06",
+            "cardmarket_price": "1.90",
+            "tcgplayer_price": "3.51",
             "ebay_price": "4.99",
             "amazon_price": "0.20",
             "coolstuffinc_price": "7.99"

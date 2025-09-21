@@ -1,6 +1,6 @@
 {
     "id": 66100116,
-    "name": "Violence Witch",
+    "name": "Vengeful Witch",
     "typeline": [
         "Plant",
         "Effect"
@@ -8,13 +8,22 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If you control \"Black Rose Dragon\", a monster that mentions it, or a Plant Synchro Monster: You can Special Summon this card from your hand. If this card is sent to the GY and a Synchro Monster is on the field: You can discard 1 card; Special Summon 1 Plant monster with 1500 or less DEF from your Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use each effect of \"Violence Witch\" once per turn.",
+    "desc": "If you control \"Black Rose Dragon\", a monster that mentions it, or a Plant Synchro Monster: You can Special Summon this card from your hand. If this card is sent to the GY and a Synchro Monster is on the field: You can discard 1 card; Special Summon 1 Plant monster with 1500 or less DEF from your Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use each effect of \"Vengeful Witch\" once per turn.",
     "race": "Plant",
     "atk": 1100,
     "def": 1200,
     "level": 4,
     "attribute": "DARK",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/violence-witch-15190",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vengeful-witch-15190",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 66100116,
@@ -25,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.41",
+            "tcgplayer_price": "3.15",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

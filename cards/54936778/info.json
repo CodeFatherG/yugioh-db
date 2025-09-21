@@ -4,10 +4,19 @@
     "type": "Trap Card",
     "humanReadableCardType": "Continuous Trap",
     "frameType": "trap",
-    "desc": "Once per turn, during your Standby Phase: Take 1000 damage. You can only use each of the following effects of \"Dark Contract with the Different Dimension\" once per turn. You can shuffle 2 \"Dark Contract\" cards from your GY into the Deck, then target 1 card in your opponent's field or GY; banish it. If this card is destroyed: You can gain 500 LP, then if it was destroyed by an opponent's card effect, you gain 500 LP.",
+    "desc": "Once per turn, during your Standby Phase: Take 1000 damage. You can only use each of the following effects of \"Dark Contract with the Different Dimension\" once per turn. You can shuffle 2 \"Dark Contract\" cards from your GY into the Deck, then target 1 card in your opponent's field or GY; banish it. If this card is destroyed: You can gain 500 LP, then if it was destroyed by an opponent's card effect, gain another 500 LP.",
     "race": "Continuous",
     "archetype": "Dark Contract",
     "ygoprodeck_url": "https://ygoprodeck.com/card/dark-contract-with-the-different-dimension-15201",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 54936778,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.93",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

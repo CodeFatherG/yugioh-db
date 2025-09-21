@@ -1,12 +1,28 @@
 {
     "id": 66092596,
-    "name": "Draco Stand-Off",
+    "name": "Draco Awakening",
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "When this card is activated: You can add 1 \"True Draco\" or \"True King\" monster, or 1 \"Dracoslayer\" or \"Dracoverlord\" Pendulum Monster, from your Deck to your hand. If a face-up \"True Draco\" and/or \"True King\" monster(s) you control is destroyed by battle or card effect and sent to the GY: You can target 1 of them; place it face-up in your Spell & Trap Zone as a Continuous Spell. You can only use this effect of \"Draco Stand-Off\" once per turn. You can only activate 1 \"Draco Stand-Off\" per turn.",
+    "desc": "When this card is activated: You can add 1 monster from your Deck to your hand (\"True Draco\", \"True King\", \"Dracoslayer\" Pendulum, or \"Dracoverlord\" Pendulum). If a face-up \"True Draco\" or \"True King\" monster(s) you control is destroyed by battle or card effect and sent to the GY: You can target 1 of them; place it in your Spell & Trap Zone as a face-up Continuous Spell. You can only use this effect of \"Draco Awakening\" once per turn. You can only activate 1 \"Draco Awakening\" per turn.",
     "race": "Continuous",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/draco-stand-off-15188",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/draco-awakening-15188",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN064",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN064",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 66092596,
@@ -17,8 +33,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "3.59",
+            "tcgplayer_price": "5.87",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

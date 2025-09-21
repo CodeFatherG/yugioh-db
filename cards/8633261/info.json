@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/ice-ryzeal-14637",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN119",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Crossover Breakers",
             "set_code": "CRBR-EN003",
             "set_rarity": "Quarter Century Secret Rare",
@@ -45,8 +52,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.29",
-            "tcgplayer_price": "2.10",
+            "cardmarket_price": "1.40",
+            "tcgplayer_price": "1.98",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

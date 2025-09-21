@@ -8,6 +8,15 @@
     "race": "Continuous",
     "archetype": "D/D",
     "ygoprodeck_url": "https://ygoprodeck.com/card/dark-contract-with-the-zero-king-15200",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 32665564,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.95",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

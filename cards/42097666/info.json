@@ -23,6 +23,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/spirit-with-eyes-of-blue-14673",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN049",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Blue-Eyes White Destiny",
             "set_code": "SDWD-EN033",
             "set_rarity": "Ultra Rare",
@@ -40,7 +47,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.34",
+            "cardmarket_price": "0.02",
             "tcgplayer_price": "0.38",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

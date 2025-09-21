@@ -1,0 +1,45 @@
+{
+    "id": 101302087,
+    "name": "Lycoris Lilyreaper",
+    "typeline": [
+        "Plant",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf a monster(s) is sent from the field to your opponent's GY, while this card is in your Monster Zone, even during the Damage Step: You can gain LP equal to 1 of those monsters' ATK in their GY. If your opponent takes effect damage, while this card is in your GY (except during the Damage Step): You can banish this card; send 1 monster from the field to the GY with ATK less than or equal to the difference in your LP and your opponent's. You can only use each effect of \"Lycoris Lilyreaper\" once per turn.",
+    "race": "Plant",
+    "atk": 800,
+    "def": 2400,
+    "level": 5,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lycoris-lilyreaper-15275",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN087",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 101302087,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101302087.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101302087.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101302087.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.97",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

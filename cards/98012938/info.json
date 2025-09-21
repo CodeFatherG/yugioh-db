@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/vulcan-the-divine-8144",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN134",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Collection 5D's Mega Pack",
             "set_code": "LC5D-EN249",
             "set_rarity": "Secret Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.37",
-            "tcgplayer_price": "0.28",
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.22",
             "ebay_price": "19.99",
             "amazon_price": "3.08",
             "coolstuffinc_price": "2.99"

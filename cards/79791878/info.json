@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/shining-sarcophagus-14230",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN005",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN051",
             "set_rarity": "Quarter Century Secret Rare",
@@ -34,8 +41,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.06",
-            "tcgplayer_price": "2.41",
+            "cardmarket_price": "0.74",
+            "tcgplayer_price": "1.96",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

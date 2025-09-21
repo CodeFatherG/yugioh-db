@@ -1,6 +1,6 @@
 {
     "id": 20715411,
-    "name": "D/D/D Zero Demise King Zero Machinex",
+    "name": "D/D/D Zero Doom Queen Machinex",
     "typeline": [
         "Fiend",
         "Pendulum",
@@ -9,17 +9,33 @@
     "type": "Pendulum Effect Monster",
     "humanReadableCardType": "Pendulum Effect Monster",
     "frameType": "effect_pendulum",
-    "desc": "[ Pendulum Effect ] \nDuring your Main Phase, if this card was activated this turn: You can place 1 \"Dark Contract\" Continuous Spell/Trap from your Deck face-up on your field. You can only use this effect of \"D/D/D Zero Demise King Zero Machinex\" once per turn.\n\n[ Monster Effect ] \nIf a face-up \"D/D/D\" and/or \"Dark Contract\" card(s) you control other than \"D/D/D Zero Demise King Zero Machinex\" is destroyed while this card is face-up in your Extra Deck, even during the Damage Step: You can Special Summon this card, then you can destroy 1 card on the field. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone. You can only use each monster effect of \"D/D/D Zero Demise King Zero Machinex\" once per turn.",
+    "desc": "[ Pendulum Effect ] \nDuring your Main Phase, if this card was activated this turn: You can place 1 \"Dark Contract\" Continuous Spell/Trap from your Deck face-up on your field. You can only use this effect of \"D/D/D Zero Doom Queen Machinex\" once per turn.\n\n[ Monster Effect ] \nIf a face-up \"D/D/D\" and/or \"Dark Contract\" card(s) you control, except \"D/D/D Zero Doom Queen Machinex\", is destroyed while this card is face-up in your Extra Deck, even during the Damage Step: You can Special Summon this card, then you can destroy 1 card on the field. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone. You can only use each effect of \"D/D/D Zero Doom Queen Machinex\" once per turn.",
     "race": "Fiend",
-    "pend_desc": "During your Main Phase, if this card was activated this turn: You can place 1 \"Dark Contract\" Continuous Spell/Trap from your Deck face-up on your field. You can only use this effect of \"D/D/D Zero Demise King Zero Machinex\" once per turn.",
-    "monster_desc": "If a face-up \"D/D/D\" and/or \"Dark Contract\" card(s) you control other than \"D/D/D Zero Demise King Zero Machinex\" is destroyed while this card is face-up in your Extra Deck, even during the Damage Step: You can Special Summon this card, then you can destroy 1 card on the field. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone. You can only use each monster effect of \"D/D/D Zero Demise King Zero Machinex\" once per turn.",
+    "pend_desc": "During your Main Phase, if this card was activated this turn: You can place 1 \"Dark Contract\" Continuous Spell/Trap from your Deck face-up on your field. You can only use this effect of \"D/D/D Zero Doom Queen Machinex\" once per turn.",
+    "monster_desc": "If a face-up \"D/D/D\" and/or \"Dark Contract\" card(s) you control, except \"D/D/D Zero Doom Queen Machinex\", is destroyed while this card is face-up in your Extra Deck, even during the Damage Step: You can Special Summon this card, then you can destroy 1 card on the field. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone. You can only use each effect of \"D/D/D Zero Doom Queen Machinex\" once per turn.",
     "atk": 3000,
     "def": 0,
     "level": 8,
     "attribute": "DARK",
     "archetype": "D/D",
     "scale": 0,
-    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-d-zero-demise-king-zero-machinex-15202",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-d-zero-doom-queen-machinex-15202",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN003",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 20715411,
@@ -30,8 +46,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "8.87",
+            "tcgplayer_price": "10.86",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/apophis-the-swamp-deity-13256",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN292",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Maze of the Master",
             "set_code": "MZTM-EN110",
             "set_rarity": "Rare",
@@ -41,8 +48,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
-            "tcgplayer_price": "0.18",
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.19",
             "ebay_price": "0.99",
             "amazon_price": "0.39",
             "coolstuffinc_price": "0.49"

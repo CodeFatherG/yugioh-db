@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/qq-enneagon-14747",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN434",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rage of the Abyss",
             "set_code": "ROTA-EN089",
             "set_rarity": "Common",
@@ -34,8 +41,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.06",
-            "tcgplayer_price": "0.07",
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

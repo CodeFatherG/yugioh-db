@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/primite-roar-14551",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN252",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rage of the Abyss",
             "set_code": "ROTA-EN059",
             "set_rarity": "Super Rare",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.41",
-            "tcgplayer_price": "0.32",
+            "cardmarket_price": "0.51",
+            "tcgplayer_price": "0.22",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

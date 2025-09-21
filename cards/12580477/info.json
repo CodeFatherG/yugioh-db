@@ -16,6 +16,13 @@
             "set_price": "7.48"
         },
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN015",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "25th Anniversary Tin: Dueling Mirrors",
             "set_code": "MP24-EN056",
             "set_rarity": "Prismatic Secret Rare",
@@ -163,7 +170,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.83",
-            "tcgplayer_price": "1.79",
+            "tcgplayer_price": "1.68",
             "ebay_price": "4.95",
             "amazon_price": "3.90",
             "coolstuffinc_price": "2.99"

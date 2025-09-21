@@ -23,6 +23,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/silhouhatte-rabbit-14471",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN090",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 27",
             "set_code": "OP27-EN002",
             "set_rarity": "Ultimate Rare",
@@ -54,8 +61,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "2.16",
-            "tcgplayer_price": "2.47",
+            "cardmarket_price": "1.83",
+            "tcgplayer_price": "2.49",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

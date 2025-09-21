@@ -1,6 +1,6 @@
 {
     "id": 9627299,
-    "name": "Ichiki Sayori Hime",
+    "name": "Ichiki Sayori-Hime",
     "typeline": [
         "Fairy",
         "Spirit",
@@ -9,13 +9,22 @@
     "type": "Spirit Monster",
     "humanReadableCardType": "Spirit Effect Monster",
     "frameType": "effect",
-    "desc": "Cannot be Special Summoned. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand. You can only use each of the following effects of \"Ichiki Sayori Hime\" once per turn. If you control a monster with 800 ATK or DEF and this card is in your hand, you can: Immediately after this effect resolves, Normal Summon this card. If this card is Normal Summoned: You can add 1 Level 4 LIGHT or DARK monster with 800 ATK or DEF from your Deck to your hand, except \"Ichiki Sayori Hime\".",
+    "desc": "Cannot be Special Summoned. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand. You can only use each of the following effects of \"Ichiki Sayori-Hime\" once per turn. If you control a monster with 800 ATK or DEF, and this card is in your hand: Immediately after this effect resolves, you can Normal Summon this card. If this card is Normal Summoned: You can add 1 Level 4 LIGHT or DARK monster with 800 ATK or DEF from your Deck to your hand, except \"Ichiki Sayori-Hime\".",
     "race": "Fairy",
     "atk": 800,
     "def": 800,
     "level": 4,
     "attribute": "LIGHT",
     "ygoprodeck_url": "https://ygoprodeck.com/card/ichiki-sayori-hime-15163",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN030",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 9627299,
@@ -26,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.39",
+            "tcgplayer_price": "1.98",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

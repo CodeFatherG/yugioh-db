@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/wightlord-14304",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN187",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN025",
             "set_rarity": "Common",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.12",
-            "tcgplayer_price": "0.12",
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.16",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

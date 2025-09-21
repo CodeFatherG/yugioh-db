@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/rescue-ace-hydrant-13392",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN046",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Amazing Defenders",
             "set_code": "AMDE-EN004",
             "set_rarity": "Collector's Rare",
@@ -50,7 +57,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.96",
+            "tcgplayer_price": "1.13",
             "ebay_price": "54.76",
             "amazon_price": "0.00",
             "coolstuffinc_price": "5.99"

@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Pay 500 LP; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material, then you can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material.",
+    "desc": "Pay 500 LP; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field, then you can Fusion Summon 1 more Fusion Monster from your Extra Deck, using monsters from your hand or field.",
     "race": "Normal",
     "archetype": "Fusion",
     "ygoprodeck_url": "https://ygoprodeck.com/card/double-fusion-14801",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN100",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 10218411,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.46",
+            "tcgplayer_price": "1.89",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

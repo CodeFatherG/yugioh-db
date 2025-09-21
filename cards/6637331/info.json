@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/bystial-druiswurm-13360",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN044",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
             "set_code": "MP23-EN159",
             "set_rarity": "Prismatic Secret Rare",
@@ -46,8 +53,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "3.17",
-            "tcgplayer_price": "4.76",
+            "cardmarket_price": "1.46",
+            "tcgplayer_price": "4.14",
             "ebay_price": "13.96",
             "amazon_price": "0.25",
             "coolstuffinc_price": "3.99"

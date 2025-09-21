@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/garden-rose-maiden-9877",
     "card_sets": [
         {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN101",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Season 2",
             "set_code": "LDS2-EN113",
             "set_rarity": "Secret Rare",
@@ -44,7 +51,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.94",
-            "tcgplayer_price": "10.26",
+            "tcgplayer_price": "9.97",
             "ebay_price": "6.99",
             "amazon_price": "11.98",
             "coolstuffinc_price": "5.99"

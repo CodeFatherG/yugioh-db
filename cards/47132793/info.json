@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/blaze-supreme-ruler-of-all-dragons-14228",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN146",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Battles of Legend: Monster Mayhem",
             "set_code": "BLMM-EN155",
             "set_rarity": "Ultra Rare",
@@ -49,8 +56,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.05",
-            "tcgplayer_price": "0.30",
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.28",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

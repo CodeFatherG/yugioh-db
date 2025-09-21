@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/primite-lordly-lode-14548",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN114",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Battles of Legend: Monster Mayhem",
             "set_code": "BLMM-EN172",
             "set_rarity": "Secret Rare",
@@ -41,8 +48,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "7.99",
-            "tcgplayer_price": "10.75",
+            "cardmarket_price": "7.92",
+            "tcgplayer_price": "10.35",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

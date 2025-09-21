@@ -25,6 +25,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN282",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Code of the Duelist",
             "set_code": "COTD-EN010",
             "set_rarity": "Rare",
@@ -63,8 +70,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
-            "tcgplayer_price": "0.16",
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.15",
             "ebay_price": "3.25",
             "amazon_price": "1.21",
             "coolstuffinc_price": "0.79"

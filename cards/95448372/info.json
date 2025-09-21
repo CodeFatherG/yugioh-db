@@ -1,13 +1,22 @@
 {
     "id": 95448372,
-    "name": "Gouki Fighting Spirit",
+    "name": "Gouki Gameface",
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "When this card is activated: You can Special Summon 1 Level 4 or lower EARTH monster (Warrior, Dinosaur, or Cyberse) from your hand in Defense Position. You can Tribute 1 Link-3 or higher \"Gouki\" monster; Special Summon 1 \"Dinowrestler\" or \"G Golem\" monster from your Deck or Extra Deck. You can only use this effect of \"Gouki Fighting Spirit\" once per turn. You can only activate 1 \"Gouki Fighting Spirit\" per turn.",
+    "desc": "When this card is activated: You can Special Summon 1 Level 4 or lower EARTH monster (Warrior, Dinosaur, or Cyberse) from your hand in Defense Position. You can Tribute 1 Link-3 or higher \"Gouki\" monster; Special Summon 1 \"Dinowrestler\" or \"G Golem\" monster from your Deck or Extra Deck. You can only use this effect of \"Gouki Gameface\" once per turn. You can only activate 1 \"Gouki Gameface\" per turn.",
     "race": "Continuous",
     "archetype": "Gouki",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/gouki-fighting-spirit-15130",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gouki-gameface-15130",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 95448372,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.97",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

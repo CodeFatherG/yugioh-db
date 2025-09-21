@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/priestess-of-the-ashened-city-14377",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN335",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Phantom Nightmare",
             "set_code": "PHNI-EN093",
             "set_rarity": "Quarter Century Secret Rare",
@@ -43,7 +50,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.12",
-            "tcgplayer_price": "0.18",
+            "tcgplayer_price": "0.20",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

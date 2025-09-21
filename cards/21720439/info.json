@@ -1,13 +1,22 @@
 {
     "id": 21720439,
-    "name": "Artmage Movement -Lineage-",
+    "name": "Artmage Movement -Pedigree-",
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "If your opponent controls more monsters than you do: Special Summon 1 \"Artmage\" monster from your Deck in Defense Position, with a different name from the cards you control. If this card is sent to the GY to activate the effect of \"Artmage Academic Arcane Arts Acropolis\": You can add 1 \"Artmage\" Trap from your GY or banishment to your hand. You cannot Special Summon from the Extra Deck the turn you activate either of this card's effects, except Fusion Monsters. You can only use each effect of \"Artmage Movement -Lineage-\" once per turn.",
+    "desc": "If your opponent controls more monsters than you do: Special Summon 1 \"Artmage\" monster from your Deck in Defense Position, with a different name than the cards you control. If this card is sent to the GY to activate the effect of \"Artmage Academic Arcane Arts Acropolis\": You can add 1 \"Artmage\" Trap from your GY or banishment to your hand. You can only use each effect of \"Artmage Movement -Pedigree-\" once per turn, also you cannot Special Summon from the Extra Deck the turn you activate either of this card's effects, except Fusion Monsters.",
     "race": "Normal",
     "archetype": "Artmage",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/artmage-movement-lineage-15174",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/artmage-movement-pedigree-15174",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN060",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 21720439,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.92",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

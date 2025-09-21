@@ -1,0 +1,36 @@
+{
+    "id": 101302089,
+    "name": "Fleeting Flower of the Magician",
+    "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
+    "desc": "Target 1 face-up Spell/Trap your opponent controls, or 1 Spell/Trap you control; destroy it, then if you targeted a card you control, you can apply 1 of these effects.\r\n\u25cf Place 1 monster from your GY in your Spell & Trap Zone as a face-up Continuous Spell.\r\n\u25cf Add 1 Equip or Continuous Spell from your GY to your hand.\r\nYou can only activate 1 \"Fleeting Flower of the Magician\" per turn.",
+    "race": "Quick-Play",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fleeting-flower-of-the-magician-15276",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN089",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 101302089,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101302089.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101302089.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101302089.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.95",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 {
     "id": 54143349,
-    "name": "Magnifistorming Erdam",
+    "name": "Radiant Typhoon Eldam",
     "typeline": [
         "Beast",
         "Effect"
@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If you have \"Mystical Space Typhoon\" in your GY, or your opponent controls no Spells/Traps, you can Special Summon this card (from your hand). You can only Special Summon \"Magnifistorming Erdam\" once per turn this way. If this card is Normal or Special Summoned: You can add 1 \"Magnifistorm\" monster or 1 \"Mystical Space Typhoon\" from your Deck to your hand, except \"Magnifistorming Erdam\". You can only use this effect of \"Magnifistorming Erdam\" once per turn.",
+    "desc": "If you have \"Mystical Space Typhoon\" in your GY, or your opponent controls no Spells/Traps, you can Special Summon this card (from your hand). You can only Special Summon \"Radiant Typhoon Eldam\" once per turn this way. If this card is Normal or Special Summoned: You can add 1 \"Radiant Typhoon\" monster (except \"Radiant Typhoon Eldam\") or 1 \"Mystical Space Typhoon\" from your Deck to your hand. You can only use this effect of \"Radiant Typhoon Eldam\" once per turn.",
     "race": "Beast",
     "atk": 1300,
     "def": 800,
     "level": 3,
     "attribute": "WIND",
-    "archetype": "Magnifistorm",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/magnifistorming-erdam-15124",
+    "archetype": "Radiant Typhoon",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/radiant-typhoon-eldam-15124",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN013",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 54143349,
@@ -26,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.39",
+            "tcgplayer_price": "4.25",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

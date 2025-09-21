@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/mimighoul-dragon-14604",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN235",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN091",
             "set_rarity": "Super Rare",
@@ -36,7 +43,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.27",
+            "cardmarket_price": "0.25",
             "tcgplayer_price": "0.25",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

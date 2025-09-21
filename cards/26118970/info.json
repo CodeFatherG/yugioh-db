@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/red-rose-dragon-9836",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN037",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Season 2",
             "set_code": "LDS2-EN108",
             "set_rarity": "Ultra Rare",
@@ -44,7 +51,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "1.08",
+            "tcgplayer_price": "0.83",
             "ebay_price": "2.23",
             "amazon_price": "0.25",
             "coolstuffinc_price": "0.99"

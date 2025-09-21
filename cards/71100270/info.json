@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/goblin-s-crazy-beast-14178",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN163",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Phantom Nightmare",
             "set_code": "PHNI-EN048",
             "set_rarity": "Common",
@@ -36,7 +43,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
+            "cardmarket_price": "0.08",
             "tcgplayer_price": "0.16",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

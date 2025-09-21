@@ -1,6 +1,6 @@
 {
     "id": 16922142,
-    "name": "Magnifistorming Crothea",
+    "name": "Radiant Typhoon Krosea",
     "typeline": [
         "Winged Beast",
         "Effect"
@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Cannot be destroyed by battle or card effects while your opponent controls no Spells/Traps. You can only use each of the following effects of \"Magnifistorming Crothea\" once per turn. If a Quick-Play Spell Card is activated (except during the Damage Step): You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Magnifistorm\" card and/or 1 \"Mystical Space Typhoon\" from your Deck and/or GY to your hand, except \"Magnifistorming Crothea\", also you cannot Special Summon for the rest of this turn, except WIND monsters.",
+    "desc": "Cannot be destroyed by battle or card effects while your opponent controls no Spells/Traps. You can only use each of the following effects of \"Radiant Typhoon Krosea\" once per turn. If a Quick-Play Spell Card is activated (except during the Damage Step): You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Radiant Typhoon\" card (except \"Radiant Typhoon Krosea\") and/or 1 \"Mystical Space Typhoon\" from your Deck and/or GY to your hand, also you cannot Special Summon for the rest of this turn, except WIND monsters.",
     "race": "Winged Beast",
     "atk": 2200,
     "def": 1200,
     "level": 6,
     "attribute": "WIND",
-    "archetype": "Magnifistorm",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/magnifistorming-crothea-15117",
+    "archetype": "Radiant Typhoon",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/radiant-typhoon-krosea-15117",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN015",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN015",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 16922142,
@@ -26,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "12.97",
+            "tcgplayer_price": "10.66",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

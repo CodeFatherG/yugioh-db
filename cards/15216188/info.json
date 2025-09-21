@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/time-engine-14560",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN425",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rage of the Abyss",
             "set_code": "ROTA-EN072",
             "set_rarity": "Common",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.03",
-            "tcgplayer_price": "0.12",
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.07",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -1,6 +1,6 @@
 {
     "id": 29099860,
-    "name": "Gouki Mashin Suprex",
+    "name": "Gouki Machine Suprex",
     "typeline": [
         "Warrior",
         "Tuner",
@@ -9,14 +9,23 @@
     "type": "Tuner Monster",
     "humanReadableCardType": "Tuner Effect Monster",
     "frameType": "effect",
-    "desc": "You can reveal this card and 1 \"Gouki\" monster in your hand; Special Summon both, but you cannot Special Summon, except \"Gouki\" monsters, while you control either of those face-up monsters. If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Mashin Suprex\". You can only use each effect of \"Gouki Mashin Suprex\" once per turn.",
+    "desc": "You can reveal this card and 1 \"Gouki\" monster in your hand; Special Summon both monsters, but for each one, as long as it remains face-up in your Monster Zone, you cannot Special Summon, except \"Gouki\" monsters. If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Machine Suprex\". You can only use each effect of \"Gouki Machine Suprex\" once per turn.",
     "race": "Warrior",
     "atk": 1800,
     "def": 0,
     "level": 4,
     "attribute": "EARTH",
     "archetype": "Gouki",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/gouki-mashin-suprex-15131",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gouki-machine-suprex-15131",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 29099860,
@@ -27,8 +36,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.41",
+            "tcgplayer_price": "2.93",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

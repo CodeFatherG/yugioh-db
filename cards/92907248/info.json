@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/wake-up-centur-ion-14358",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN074",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN064",
             "set_rarity": "Quarter Century Secret Rare",
@@ -34,8 +41,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.40",
-            "tcgplayer_price": "0.46",
+            "cardmarket_price": "0.31",
+            "tcgplayer_price": "0.36",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/hero-of-the-ashened-city-14374",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN334",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Phantom Nightmare",
             "set_code": "PHNI-EN092",
             "set_rarity": "Super Rare",
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.07",
-            "tcgplayer_price": "0.18",
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.14",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

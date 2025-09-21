@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/black-garden-6019",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN132",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Astral Pack Four",
             "set_code": "AP04-EN025",
             "set_rarity": "Common",
@@ -62,8 +69,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.26",
-            "tcgplayer_price": "0.24",
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.23",
             "ebay_price": "2.99",
             "amazon_price": "0.25",
             "coolstuffinc_price": "0.49"

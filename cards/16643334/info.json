@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/starliege-photon-blast-dragon-9537",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN034",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Season 2",
             "set_code": "LDS2-EN054",
             "set_rarity": "Ultra Rare",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.34",
-            "tcgplayer_price": "0.37",
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.30",
             "ebay_price": "0.99",
             "amazon_price": "47.99",
             "coolstuffinc_price": "1.99"

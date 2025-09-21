@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/assault-synchron-13581",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN450",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Battles of Legend: Monstrous Revenge",
             "set_code": "BLMR-EN003",
             "set_rarity": "Quarter Century Secret Rare",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.05",
-            "tcgplayer_price": "0.18",
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.19",
             "ebay_price": "6.29",
             "amazon_price": "0.00",
             "coolstuffinc_price": "29.99"

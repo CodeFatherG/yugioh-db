@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/fiendsmith-s-tract-14427",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN093",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN061",
             "set_rarity": "Quarter Century Secret Rare",
@@ -37,8 +44,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "11.24",
-            "tcgplayer_price": "18.08",
+            "cardmarket_price": "15.41",
+            "tcgplayer_price": "18.49",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

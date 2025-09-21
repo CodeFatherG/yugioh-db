@@ -1,6 +1,6 @@
 {
     "id": 53927851,
-    "name": "Magnifistorm Vortex Beauty Valrune",
+    "name": "Radiant Typhoon Varuroon, the Vibrant Vortex",
     "typeline": [
         "Aqua",
         "Effect"
@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If a Quick-Play Spell Card is activated (except during the Damage Step): You can Special Summon this card from your hand. When your opponent activates a monster effect and you have \"Mystical Space Typhoon\" in your GY (Quick Effect): You can negate that effect, then if you have 2 or more \"Mystical Space Typhoon\" in your GY, you can destroy that monster. If \"Mystical Space Typhoon\" is activated while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Magnifistorm Vortex Beauty Valrune\" once per turn.",
+    "desc": "If a Quick-Play Spell Card is activated (except during the Damage Step): You can Special Summon this card from your hand. When your opponent activates a monster effect and you have \"Mystical Space Typhoon\" in your GY (Quick Effect): You can negate that effect, then if you have 2 or more \"Mystical Space Typhoon\" in your GY, you can destroy that monster. If \"Mystical Space Typhoon\" is activated while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Radiant Typhoon Varuroon, the Vibrant Vortex\" once per turn.",
     "race": "Aqua",
     "atk": 0,
     "def": 3000,
     "level": 9,
     "attribute": "WIND",
-    "archetype": "Magnifistorm",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/magnifistorm-vortex-beauty-valrune-15123",
+    "archetype": "Radiant Typhoon",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/radiant-typhoon-varuroon-the-vibrant-vortex-15123",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN016",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 53927851,
@@ -26,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.44",
+            "tcgplayer_price": "3.79",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

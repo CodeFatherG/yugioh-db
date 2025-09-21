@@ -1,6 +1,6 @@
 {
     "id": 84477320,
-    "name": "Dracotail Phrixl",
+    "name": "Dracotail Phryxul",
     "typeline": [
         "Spellcaster",
         "Effect"
@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is Normal or Special Summoned: You can target 1 \"Dracotail\" monster in your GY, except \"Dracotail Phrixl\"; Special Summon it, then return 1 monster you control to the hand. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck. You can only use each effect of \"Dracotail Phrixl\" once per turn.",
+    "desc": "If this card is Normal or Special Summoned: You can target 1 \"Dracotail\" monster in your GY, except \"Dracotail Phryxul\"; Special Summon it, then return 1 monster you control to the hand. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck. You can only use each effect of \"Dracotail Phryxul\" once per turn.",
     "race": "Spellcaster",
     "atk": 800,
     "def": 1500,
     "level": 2,
     "attribute": "LIGHT",
     "archetype": "Dracotail",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/dracotail-phrixl-15197",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dracotail-phryxul-15197",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN023",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN023",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 84477320,
@@ -26,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "27.20",
+            "tcgplayer_price": "30.32",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

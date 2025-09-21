@@ -17,6 +17,13 @@
             "set_price": "4.04"
         },
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN041",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Blue-Eyes White Destiny",
             "set_code": "SDWD-EN028",
             "set_rarity": "Common",
@@ -35,7 +42,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.12",
+            "tcgplayer_price": "0.11",
             "ebay_price": "2.88",
             "amazon_price": "1.49",
             "coolstuffinc_price": "0.99"

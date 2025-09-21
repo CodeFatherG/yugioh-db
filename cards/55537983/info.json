@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/mimighoul-master-14607",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN096",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN090",
             "set_rarity": "Quarter Century Secret Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.37",
-            "tcgplayer_price": "0.45",
+            "cardmarket_price": "0.31",
+            "tcgplayer_price": "0.41",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

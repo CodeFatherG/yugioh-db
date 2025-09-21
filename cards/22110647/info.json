@@ -26,6 +26,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN135",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Lord of the Tachyon Galaxy",
             "set_code": "LTGY-EN053",
             "set_rarity": "Secret Rare",
@@ -106,8 +113,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.17",
-            "tcgplayer_price": "0.18",
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.15",
             "ebay_price": "2.95",
             "amazon_price": "1.64",
             "coolstuffinc_price": "0.99"

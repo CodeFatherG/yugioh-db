@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/spell-canceller-7098",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN131",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Dark Revelation Volume 1",
             "set_code": "DR1-EN075",
             "set_rarity": "Ultra Rare",
@@ -69,8 +76,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.14",
-            "tcgplayer_price": "0.20",
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.21",
             "ebay_price": "1.95",
             "amazon_price": "0.25",
             "coolstuffinc_price": "0.25"

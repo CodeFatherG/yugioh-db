@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/white-sardine-14150",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN305",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Phantom Nightmare",
             "set_code": "PHNI-EN007",
             "set_rarity": "Super Rare",
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.05",
-            "tcgplayer_price": "0.14",
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.13",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

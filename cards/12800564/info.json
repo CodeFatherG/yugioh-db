@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). To Tribute Summon this card face-up, you can Tribute Continuous Spells/Traps you control, as well as monsters. When your opponent activates a monster effect in the hand or field and you control this Tribute Summoned card (Quick Effect): You can negate the activation, and if you do, destroy that card. If this Tribute Summoned card is destroyed by battle, or by an opponent's card effect while in its owner's Monster Zone: You can skip your opponent's next Main Phase. You can only use each effect of \"Master Peace, the True Dracoverlord\" once per turn.",
+    "desc": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). To Tribute Summon this card face-up, you can Tribute Continuous Spells/Traps you control, as well as monsters. You can only use each of the following effects of \"Master Peace, the True Dracoverlord\" once per turn. When your opponent activates a monster effect in their hand or field and you control this Tribute Summoned card (Quick Effect): You can negate the activation, and if you do, destroy that monster. If this Tribute Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can activate this effect; your opponent skips their next Main Phase.",
     "race": "Wyrm",
     "atk": 2950,
     "def": 2950,
@@ -16,6 +16,22 @@
     "attribute": "DARK",
     "archetype": "Dracoverlord",
     "ygoprodeck_url": "https://ygoprodeck.com/card/master-peace-the-true-dracoverlord-15186",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN018",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN018",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 12800564,
@@ -26,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "7.32",
+            "tcgplayer_price": "10.93",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

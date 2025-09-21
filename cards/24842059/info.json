@@ -30,6 +30,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN142",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Ignition Assault",
             "set_code": "IGAS-EN097",
             "set_rarity": "Ultra Rare",
@@ -47,8 +54,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.25",
-            "tcgplayer_price": "0.53",
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.48",
             "ebay_price": "1.94",
             "amazon_price": "2.99",
             "coolstuffinc_price": "0.79"

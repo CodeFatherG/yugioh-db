@@ -1,6 +1,6 @@
 {
     "id": 31010081,
-    "name": "Doom-Z Break Diactorus",
+    "name": "DoomZ Break - Diactorus",
     "typeline": [
         "Machine",
         "Xyz",
@@ -9,14 +9,23 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "2 Level 4 monsters\r\nIf this card is Special Summoned: You can destroy 1 \"DoomZ\" card in your hand or face-up field, then you can destroy 1 monster on the field. If this card is destroyed by battle or card effect while it has a \"DoomZ\" monster or \"Medius the Pure\" as material: You can add to your hand, or send to the GY, 1 Equip Spell from your Deck. You can only use each effect of \"Doom-Z Break Diactorus\" once per turn.",
+    "desc": "2 Level 4 monsters\r\nIf this card is Special Summoned: You can destroy 1 \"DoomZ\" card in your hand or face-up field, then you can destroy 1 monster on the field. If this card is destroyed by card effect while it has a \"DoomZ\" monster or \"Medius the Pure\" as material: You can take 1 Equip Spell from your Deck and either add it to your hand or send it to the GY. You can only use each effect of \"DoomZ Break - Diactorus\" once per turn.",
     "race": "Machine",
     "atk": 2400,
     "def": 0,
     "level": 4,
     "attribute": "WIND",
     "archetype": "DoomZ",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/doom-z-break-diactorus-15171",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/doomz-break-diactorus-15171",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN046",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 31010081,
@@ -27,8 +36,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.40",
+            "tcgplayer_price": "1.94",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

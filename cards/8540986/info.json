@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/veidos-the-dragon-of-endless-darkness-14485",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN373",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN092",
             "set_rarity": "Quarter Century Secret Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.08",
-            "tcgplayer_price": "0.18",
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

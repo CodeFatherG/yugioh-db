@@ -9,6 +9,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/release-brainwashing-14748",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN431",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rage of the Abyss",
             "set_code": "ROTA-EN086",
             "set_rarity": "Common",
@@ -26,8 +33,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.03",
-            "tcgplayer_price": "0.05",
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.04",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/aiza-the-dragoness-of-deranged-devotion-14478",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN370",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN088",
             "set_rarity": "Common",
@@ -34,7 +41,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.05",
+            "cardmarket_price": "0.04",
             "tcgplayer_price": "0.06",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

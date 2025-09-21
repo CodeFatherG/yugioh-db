@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/azamina-mu-rcielago-14577",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN104",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Limited Pack World Championship 2025",
             "set_code": "25LP-EN011",
             "set_rarity": "Secret Rare",
@@ -57,8 +64,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.12",
-            "tcgplayer_price": "0.22",
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.23",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

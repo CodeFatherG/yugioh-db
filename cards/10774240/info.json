@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/skull-guardian-protector-of-the-voiceless-voice-14143",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN055",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Phantom Nightmare",
             "set_code": "PHNI-EN037",
             "set_rarity": "Quarter Century Secret Rare",
@@ -44,7 +51,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.55",
-            "tcgplayer_price": "0.92",
+            "tcgplayer_price": "0.73",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

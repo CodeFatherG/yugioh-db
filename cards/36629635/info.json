@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/dandy-whitelion-13965",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN377",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN097",
             "set_rarity": "Super Rare",
@@ -34,7 +41,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.06",
+            "cardmarket_price": "0.03",
             "tcgplayer_price": "0.11",
             "ebay_price": "7.00",
             "amazon_price": "0.00",

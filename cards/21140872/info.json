@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/red-eyes-slash-dragon-8504",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN031",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists",
             "set_code": "LEDU-EN003",
             "set_rarity": "Ultra Rare",
@@ -44,7 +51,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "1.44",
+            "tcgplayer_price": "1.23",
             "ebay_price": "11.84",
             "amazon_price": "15.98",
             "coolstuffinc_price": "11.99"

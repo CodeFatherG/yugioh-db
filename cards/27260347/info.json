@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/snake-eyes-diabellstar-14332",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN062",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN011",
             "set_rarity": "Quarter Century Secret Rare",
@@ -42,7 +49,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.15",
+            "cardmarket_price": "0.13",
             "tcgplayer_price": "0.55",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

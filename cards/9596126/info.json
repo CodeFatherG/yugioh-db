@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/chaos-sorcerer-810",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN019",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Dark Revelation Volume 2",
             "set_code": "DR2-EN023",
             "set_rarity": "Common",
@@ -98,7 +105,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.20",
+            "cardmarket_price": "0.17",
             "tcgplayer_price": "0.39",
             "ebay_price": "1.00",
             "amazon_price": "1.67",

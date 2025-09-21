@@ -1,0 +1,37 @@
+{
+    "id": 101302082,
+    "name": "Cursed Copycat Noble Arms",
+    "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
+    "desc": "The equipped monster gains 200 ATK/DEF for each Equip Spell in your field and GY. While this card is equipped to a Warrior monster: You can activate this effect; you cannot Special Summon for the rest of this turn, except Warrior monsters, also Special Summon 1 Warrior monster with the same Attribute and Level as the equipped monster but a different name from your Deck, and if you do, equip it with this card, then destroy the monster this card was equipped to. You can only use this effect of \"Cursed Copycat Noble Arms\" once per turn.",
+    "race": "Equip",
+    "archetype": "Noble Arms",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cursed-copycat-noble-arms-15282",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN082",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 101302082,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101302082.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101302082.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101302082.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.95",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

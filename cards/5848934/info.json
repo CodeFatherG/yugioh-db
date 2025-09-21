@@ -9,13 +9,22 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can pay 1000 LP; Set 1 \"Teleport\" Normal or Quick-Play Spell from your Deck, GY, or banishment. If this Synchro Summoned card is sent to the GY: You can target 1 card your opponent controls, or you can target 2 if you control a Psychic Fusion or Synchro Monster; return that card(s) to the hand. You can only use each effect of \"Serene Psychic Sorceress\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can pay 1000 LP; Set 1 \"Teleport\" Normal or Quick-Play Spell from your Deck, GY, or banishment. If this Synchro Summoned card is sent to the GY: You can target 1 card your opponent controls, or target 2 if you control a Psychic monster (Fusion or Synchro); return that card(s) to the hand. You can only use each effect of \"Serene Psychic Sorceress\" once per turn.",
     "race": "Psychic",
     "atk": 2400,
     "def": 2200,
     "level": 6,
     "attribute": "EARTH",
     "ygoprodeck_url": "https://ygoprodeck.com/card/serene-psychic-sorceress-15165",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 5848934,
@@ -26,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.97",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

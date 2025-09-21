@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/mathmech-superfactorial-10422",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN287",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Mystic Fighters",
             "set_code": "MYFI-EN012",
             "set_rarity": "Secret Rare",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.14",
-            "tcgplayer_price": "0.12",
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.14",
             "ebay_price": "10.49",
             "amazon_price": "10.94",
             "coolstuffinc_price": "3.99"

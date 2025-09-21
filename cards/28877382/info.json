@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is Normal or Special Summoned, or destroyed by card effect: You can add 1 \"Doom-Z\" monster from your Deck to your hand, except \"Doom-Z Five - Amalthe\". While this card is equipped with an Equip Card (Quick Effect): You can Special Summon 1 WIND Machine Xyz Monster from your Extra Deck with a Rank equal to this card's Level (this is treated as an Xyz Summon), and if you do, attach this card, also all cards equipped to it, to that monster. You can only use each effect of \"Doom-Z Five - Amalthe\" once per turn.",
+    "desc": "If this card is Normal or Special Summoned, or destroyed by card effect: You can add 1 \"DoomZ\" monster from your Deck to your hand, except \"DoomZ V Five - Amalthe\". While this card is equipped with an Equip Card (Quick Effect): You can Special Summon 1 WIND Machine Xyz Monster from your Extra Deck with the same Rank as this card's Level, and if you do, attach this card and its Equip Cards to that monster as material (this is treated as an Xyz Summon). You can only use each effect of \"DoomZ V Five - Amalthe\" once per turn.",
     "race": "Dragon",
     "atk": 1600,
     "def": 1200,
     "level": 4,
     "attribute": "DARK",
-    "archetype": "Doom-Z",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/doom-z-five-amalthe-15178",
+    "archetype": "DoomZ",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/doomz-v-five-amalthe-15178",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN009",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN009",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 28877382,
@@ -26,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "5.22",
+            "tcgplayer_price": "7.86",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

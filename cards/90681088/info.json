@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/legendary-fire-king-ponix-14136",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN048",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Limited Pack World Championship 2025",
             "set_code": "25LP-EN004",
             "set_rarity": "Secret Rare",
@@ -50,7 +57,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.24",
+            "tcgplayer_price": "0.23",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

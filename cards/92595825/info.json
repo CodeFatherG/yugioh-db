@@ -9,7 +9,7 @@
     "type": "Tuner Monster",
     "humanReadableCardType": "Tuner Effect Monster",
     "frameType": "effect",
-    "desc": "Plant monsters you control gain 1000 ATK while you control a Synchro Monster. You can only use each of the following effects of \"Twilight Rose Black Knight\" once per turn. If this card is Normal or Special Summoned: You can Special Summon 1 \"Black Rose Dragon\" or 1 Level 4 or lower Plant monster from your GY, but negate its effects. You can target 1 other Plant monster you control; increase or decrease its Level by 1.",
+    "desc": "While you control a Synchro Monster, Plant monsters you control gain 1000 ATK. You can only use each of the following effects of \"Twilight Rose Black Knight\" once per turn. If this card is Normal or Special Summoned: You can Special Summon 1 \"Black Rose Dragon\" or 1 Level 4 or lower Plant monster from your GY, but negate its effects. You can target 1 other Plant monster you control; increase or decrease its Level by 1.",
     "race": "Plant",
     "atk": 1000,
     "def": 1000,
@@ -17,6 +17,15 @@
     "attribute": "DARK",
     "archetype": "Rose",
     "ygoprodeck_url": "https://ygoprodeck.com/card/twilight-rose-black-knight-15191",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 92595825,
@@ -27,8 +36,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.96",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

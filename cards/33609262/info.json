@@ -17,6 +17,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN025",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Emperor of Darkness Structure Deck",
             "set_code": "SR01-EN029",
             "set_rarity": "Common",
@@ -41,8 +48,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.40",
-            "tcgplayer_price": "0.53",
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.42",
             "ebay_price": "1.99",
             "amazon_price": "1.14",
             "coolstuffinc_price": "1.49"

@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/surfacing-big-jaws-14558",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN012",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rage of the Abyss",
             "set_code": "ROTA-EN001",
             "set_rarity": "Quarter Century Secret Rare",
@@ -42,7 +49,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.36",
+            "tcgplayer_price": "0.33",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

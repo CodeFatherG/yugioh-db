@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/tenpai-dragon-genroku-14448",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN082",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN019",
             "set_rarity": "Quarter Century Secret Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.01",
-            "tcgplayer_price": "1.81",
+            "cardmarket_price": "1.10",
+            "tcgplayer_price": "1.55",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -7,6 +7,15 @@
     "desc": "Target 1 monster your opponent controls, that is a face-up monster you own or a face-down Defense Position monster; if that monster is no longer on the field, or is a monster you own (if face-down, reveal it briefly to check), apply these effects in sequence.\r\n\u25cf Inflict 200 damage to your opponent.\r\n\u25cf Take control of all monsters your opponent controls, except that monster.",
     "race": "Normal",
     "ygoprodeck_url": "https://ygoprodeck.com/card/bot-herder-15265",
+    "card_sets": [
+        {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN149",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 45951104,
@@ -18,7 +27,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "2.57",
+            "tcgplayer_price": "7.08",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

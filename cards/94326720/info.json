@@ -4,9 +4,18 @@
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Target 1 \"Medius the Pure\" in your GY or banishment; Special Summon it. During your Main Phase: You can banish this card from your GY, then target 1 face-up monster you control and declare a Level from 1 to 10; its Level becomes the declared Level until the end of this turn. You can only use each effect of \"Theorealize Overdrive\" once per turn.",
+    "desc": "Target 1 \"Medius the Pure\" in your GY or banishment; Special Summon it. During your Main Phase: You can banish this card from your GY, then target 1 face-up monster you control, and declare a Level from 1 to 10; that monster becomes that Level until the end of this turn. You can only use each effect of \"Theorealize Overdrive\" once per turn.",
     "race": "Quick-Play",
     "ygoprodeck_url": "https://ygoprodeck.com/card/theorealize-overdrive-15167",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 94326720,
@@ -17,8 +26,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.94",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

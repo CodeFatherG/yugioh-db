@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/yubel-the-loving-defender-forever-14119",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN001",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Phantom Nightmare",
             "set_code": "PHNI-EN038",
             "set_rarity": "Quarter Century Secret Rare",
@@ -44,7 +51,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.99",
+            "tcgplayer_price": "1.13",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/bystial-saronir-13362",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN293",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
             "set_code": "MP23-EN158",
             "set_rarity": "Prismatic Secret Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.54",
-            "tcgplayer_price": "0.61",
+            "cardmarket_price": "0.57",
+            "tcgplayer_price": "0.56",
             "ebay_price": "2.84",
             "amazon_price": "1.65",
             "coolstuffinc_price": "2.99"

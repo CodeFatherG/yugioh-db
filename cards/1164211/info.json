@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/shield-of-the-millennium-dynasty-14388",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN078",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN003",
             "set_rarity": "Quarter Century Secret Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.90",
-            "tcgplayer_price": "1.41",
+            "cardmarket_price": "0.86",
+            "tcgplayer_price": "1.35",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/white-aura-porpoise-14148",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN312",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Phantom Nightmare",
             "set_code": "PHNI-EN041",
             "set_rarity": "Common",
@@ -36,7 +43,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.10",
+            "cardmarket_price": "0.03",
             "tcgplayer_price": "0.09",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

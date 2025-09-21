@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/mementotlan-tatsunootoshigo-14048",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN294",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Valiant Smashers",
             "set_code": "VASM-EN003",
             "set_rarity": "Super Rare",
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.25",
-            "tcgplayer_price": "0.32",
+            "cardmarket_price": "0.38",
+            "tcgplayer_price": "0.29",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.99"

@@ -1,6 +1,6 @@
 {
     "id": 32232538,
-    "name": "D/D/D Wisdom King Solomon",
+    "name": "D/D/D Wise King Solomon",
     "typeline": [
         "Fiend",
         "Xyz",
@@ -9,14 +9,23 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "2 Level 4 \"D/D\" monsters\r\nYou can detach 1 material from this card; add 1 \"D/D\" card from your Deck to your hand. If this card is banished: You can target 1 \"D/D\" Effect Monster you control; that Effect Monster gains this effect until the end of this turn.\r\n\u25cf If this card destroys a monster by battle: Inflict damage to your opponent equal to that monster's original ATK.\r\nYou can only use each effect of \"D/D/D Wisdom King Solomon\" once per turn.",
+    "desc": "2 Level 4 \"D/D\" monsters\r\nYou can detach 1 material from this card; add 1 \"D/D\" card from your Deck to your hand. If this card is banished: You can target 1 \"D/D\" Effect Monster you control; that Effect Monster gains this effect until the end of this turn.\r\n\u25cf If this card destroys a monster by battle: Inflict damage to your opponent equal to that monster's original ATK.\r\nYou can only use each effect of \"D/D/D Wise King Solomon\" once per turn.",
     "race": "Fiend",
     "atk": 1800,
     "def": 2500,
     "level": 4,
     "attribute": "DARK",
     "archetype": "D/D",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-d-wisdom-king-solomon-15198",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/d-d-d-wise-king-solomon-15198",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN043",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 32232538,
@@ -27,8 +36,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.79",
+            "tcgplayer_price": "2.45",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

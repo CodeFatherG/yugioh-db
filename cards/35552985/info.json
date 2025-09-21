@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/fiendsmith-s-sanct-14425",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN229",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN062",
             "set_rarity": "Common",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.12",
-            "tcgplayer_price": "0.24",
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.20",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

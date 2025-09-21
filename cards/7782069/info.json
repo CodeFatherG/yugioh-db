@@ -17,6 +17,15 @@
     "attribute": "EARTH",
     "archetype": "Gouki",
     "ygoprodeck_url": "https://ygoprodeck.com/card/gouki-the-tyrant-ogre-15133",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN036",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 7782069,
@@ -27,8 +36,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.58",
+            "tcgplayer_price": "2.93",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

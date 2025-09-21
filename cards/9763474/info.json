@@ -23,6 +23,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/haggard-lizardose-14472",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN204",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN089",
             "set_rarity": "Common",
@@ -47,8 +54,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.14",
-            "tcgplayer_price": "0.19",
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.20",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

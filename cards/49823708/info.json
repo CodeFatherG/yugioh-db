@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/buster-whelp-of-the-destruction-swordsman-4244",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN280",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Breakers of Shadow",
             "set_code": "BOSH-EN019",
             "set_rarity": "Super Rare",
@@ -36,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.37",
-            "tcgplayer_price": "0.50",
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.44",
             "ebay_price": "2.95",
             "amazon_price": "5.99",
             "coolstuffinc_price": "1.99"

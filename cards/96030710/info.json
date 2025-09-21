@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/centur-ion-atrii-14466",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN216",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN021",
             "set_rarity": "Super Rare",
@@ -36,7 +43,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.17",
+            "cardmarket_price": "0.16",
             "tcgplayer_price": "0.20",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

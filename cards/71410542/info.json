@@ -1,6 +1,6 @@
 {
     "id": 71410542,
-    "name": "WAKE CUP! Macchi",
+    "name": "WAKE CUP! Macchia",
     "typeline": [
         "Aqua",
         "Flip",
@@ -9,13 +9,22 @@
     "type": "Flip Effect Monster",
     "humanReadableCardType": "Flip Effect Monster",
     "frameType": "effect",
-    "desc": "Once per turn, during your End Phase: You can target 1 face-down card on the field; send it to the GY. You can only use each of the following effects of \"WAKE CUP! Macchi\" once per turn. You can reveal this card and 1 other Flip monster in your hand; Special Summon both in face-down Defense Position. If this card is flipped face-up: Target 1 face-down Defense Position monster on the field; change it to face-up Attack Position.",
+    "desc": "FLIP: Target 1 face-down Defense Position monster on the field; change it to face-up Attack Position.\r\nYou can reveal this card and 1 Flip monster in your hand; Special Summon both in face-down Defense Position. You can only use each of the preceding effects of \"WAKE CUP! Macchia\" once per turn. Once per turn, during your End Phase: You can target 1 face-down card on the field; send it to the GY.",
     "race": "Aqua",
     "atk": 1000,
     "def": 100,
     "level": 3,
     "attribute": "WIND",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/wake-cup-macchi-15181",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wake-cup-macchia-15181",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 71410542,
@@ -26,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.95",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

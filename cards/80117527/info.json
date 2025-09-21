@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/number-11-big-eye-6717",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN133",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Astral Pack Six",
             "set_code": "AP06-EN002",
             "set_rarity": "Ultimate Rare",
@@ -126,7 +133,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.22",
+            "cardmarket_price": "0.14",
             "tcgplayer_price": "0.16",
             "ebay_price": "39.99",
             "amazon_price": "11.99",

@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/woes-of-the-white-forest-14452",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN231",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN071",
             "set_rarity": "Common",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.09",
-            "tcgplayer_price": "0.04",
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.08",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

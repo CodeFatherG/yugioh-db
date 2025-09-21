@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/the-king-of-d-9338",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN267",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Collection Kaiba",
             "set_code": "LC06-EN002",
             "set_rarity": "Ultra Rare",
@@ -41,8 +48,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.14",
-            "tcgplayer_price": "0.16",
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.14",
             "ebay_price": "6.95",
             "amazon_price": "1.72",
             "coolstuffinc_price": "1.49"

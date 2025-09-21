@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/centur-ion-phalanx-14122",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN295",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Valiant Smashers",
             "set_code": "VASM-EN023",
             "set_rarity": "Super Rare",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
-            "tcgplayer_price": "0.17",
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.13",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.99"

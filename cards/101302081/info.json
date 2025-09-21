@@ -1,0 +1,45 @@
+{
+    "id": 101302081,
+    "name": "Disguise, the Copycat Hero",
+    "typeline": [
+        "Warrior",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "If you have an Equip Spell in your field or GY: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Cursed Copycat Noble Arms\" from your Deck to your hand. While this card is equipped with an Equip Card: You can target 1 non-Tuner Warrior monster on the field with a Level; this card's Level, also its name, become the same as that monster's until the End Phase. You can only use each effect of \"Disguise, the Copycat Hero\" once per turn.",
+    "race": "Warrior",
+    "atk": 1400,
+    "def": 1200,
+    "level": 4,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/disguise-the-copycat-hero-15283",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN081",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 101302081,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101302081.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101302081.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101302081.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.95",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

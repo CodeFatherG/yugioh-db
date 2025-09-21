@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/mementotlan-fusion-14351",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN073",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN063",
             "set_rarity": "Common",
@@ -34,8 +41,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
-            "tcgplayer_price": "0.17",
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.23",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

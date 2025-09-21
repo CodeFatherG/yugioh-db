@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/domain-of-the-true-monarchs-7058",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN026",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Emperor of Darkness Structure Deck",
             "set_code": "SR01-EN024",
             "set_rarity": "Common",
@@ -48,7 +55,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.17",
+            "cardmarket_price": "0.22",
             "tcgplayer_price": "0.14",
             "ebay_price": "0.99",
             "amazon_price": "0.39",

@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/varudras-the-final-bringer-of-the-end-times-14359",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN070",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN045",
             "set_rarity": "Quarter Century Secret Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.89",
-            "tcgplayer_price": "3.77",
+            "cardmarket_price": "1.75",
+            "tcgplayer_price": "3.63",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

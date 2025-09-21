@@ -9,7 +9,7 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can add 1 \"Gouki\" Spell from your Deck to your hand. If this card is sent to the GY: You can target 1 EARTH monster you control; add 1 \"Gouki\" monster with lower ATK from your GY to your hand, also, while the targeted monster is face-up on your field, your opponent's monsters can only target that monster for attacks. You can only use each effect of \"Gouki Dragon Ogre\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can add 1 \"Gouki\" Spell from your Deck to your hand. If this card is sent to the GY: You can target 1 EARTH monster you control; while you control that face-up monster, your opponent's monsters can only target it for attacks, also add 1 \"Gouki\" monster with less ATK than that monster from your GY to your hand. You can only use each effect of \"Gouki Dragon Ogre\" once per turn.",
     "race": "Warrior",
     "atk": 2200,
     "def": 0,
@@ -17,6 +17,15 @@
     "attribute": "EARTH",
     "archetype": "Gouki",
     "ygoprodeck_url": "https://ygoprodeck.com/card/gouki-dragon-ogre-15129",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 69453825,
@@ -27,8 +36,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.97",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

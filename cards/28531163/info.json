@@ -1,12 +1,21 @@
 {
     "id": 28531163,
-    "name": "Apocaries",
+    "name": "Apocavities",
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "When this card is activated: Place Caries Counters on this card equal to the number of cards your opponent controls. You can target 1 face-up monster your opponent controls and remove up to 4 Caries Counters from your field; apply this effect to that monster based on the number removed.\r\n\u25cf 1: It loses 500 ATK.\r\n\u25cf 2: Change its ATK to 0.\r\n\u25cf 3: Negate its effects.\r\n\u25cf 4: Destroy it.\r\nYou can only activate 1 \"Apocaries\" per turn.",
+    "desc": "When this card is activated: Place C Counters on this card, equal to the number of cards your opponent controls. You can target 1 face-up monster your opponent controls and remove up to 4 C Counters from your field; apply this effect to that monster, based on the number removed.\r\n\u25cf 1: It loses 500 ATK.\r\n\u25cf 2: Its ATK becomes 0.\r\n\u25cf 3: Its effects are negated.\r\n\u25cf 4: Destroy it.\r\nYou can only activate 1 \"Apocavities\" per turn.",
     "race": "Continuous",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/apocaries-15210",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/apocavities-15210",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN072",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 28531163,
@@ -17,7 +26,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
+            "cardmarket_price": "0.06",
             "tcgplayer_price": "0.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

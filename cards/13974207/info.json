@@ -24,6 +24,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN136",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Battles of Legend: Chapter 1",
             "set_code": "BLC1-EN066",
             "set_rarity": "Common",
@@ -69,7 +76,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
+            "cardmarket_price": "0.12",
             "tcgplayer_price": "0.13",
             "ebay_price": "3.99",
             "amazon_price": "2.95",

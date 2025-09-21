@@ -9,6 +9,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/dominus-purge-14469",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN095",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN078",
             "set_rarity": "Quarter Century Secret Rare",
@@ -33,8 +40,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "30.78",
-            "tcgplayer_price": "38.48",
+            "cardmarket_price": "28.96",
+            "tcgplayer_price": "35.51",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

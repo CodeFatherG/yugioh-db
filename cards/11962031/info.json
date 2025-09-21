@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-of-fire-13982",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN144",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Soulburning Volcano",
             "set_code": "LD10-EN001",
             "set_rarity": "Ultra Rare",
@@ -36,7 +43,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.95",
+            "tcgplayer_price": "1.11",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "7.99"

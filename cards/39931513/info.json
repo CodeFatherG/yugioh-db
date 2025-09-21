@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/tenpai-dragon-paidra-14279",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN064",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN016",
             "set_rarity": "Super Rare",
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.89",
-            "tcgplayer_price": "3.54",
+            "cardmarket_price": "1.80",
+            "tcgplayer_price": "2.92",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -25,6 +25,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN448",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "25th Anniversary Rarity Collection",
             "set_code": "RA01-EN013",
             "set_rarity": "Super Rare",
@@ -63,8 +70,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.06",
-            "tcgplayer_price": "0.16",
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.10",
             "ebay_price": "7.99",
             "amazon_price": "4.99",
             "coolstuffinc_price": "3.99"

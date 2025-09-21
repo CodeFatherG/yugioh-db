@@ -59,6 +59,13 @@
             "set_rarity": "Super Rare",
             "set_rarity_code": "(SR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "The Lost Art Promotion 2025 C",
+            "set_code": "LART-EN078",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -71,8 +78,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.23",
-            "tcgplayer_price": "0.77",
+            "cardmarket_price": "1.46",
+            "tcgplayer_price": "0.76",
             "ebay_price": "1.75",
             "amazon_price": "1.99",
             "coolstuffinc_price": "1.99"

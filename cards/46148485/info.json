@@ -1,6 +1,6 @@
 {
     "id": 46148485,
-    "name": "Chakravartin Sphinx",
+    "name": "Sphinx of the Cycle",
     "typeline": [
         "Rock",
         "Effect"
@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Once per turn, if the battle position of another monster(s) on the field is changed (except during the Damage Step): You can target 1 card on the field; return it to the hand. You can only use each of the following effects of \"Chakravartin Sphinx\" once per turn. If the battle position of a monster(s) is changed (except during the Damage Step): You can banish 1 Spell from your GY; Special Summon this card from your GY (if it was there when the position changed) or hand (even if not). During your Main Phase: You can Set 1 \"Book of Taiyou\" and/or 1 \"Book of Moon\" from your Deck and/or GY.",
+    "desc": "Once per turn, if another monster's battle position is changed (except during the Damage Step): You can target 1 card on the field; return it to the hand. You can only use each of the following effects of \"Sphinx of the Cycle\" once per turn. If a monster's battle position is changed (except during the Damage Step): You can banish 1 Spell from your GY; Special Summon this card from your GY (if it was there when the battle position was changed) or hand (even if not). During your Main Phase: You can Set 1 \"Book of Taiyou\" and/or 1 \"Book of Moon\" from your Deck or GY.",
     "race": "Rock",
     "atk": 2500,
     "def": 3000,
     "level": 8,
     "attribute": "EARTH",
     "archetype": "sphinx",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/chakravartin-sphinx-15217",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sphinx-of-the-cycle-15217",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 46148485,
@@ -26,7 +35,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
+            "cardmarket_price": "0.10",
             "tcgplayer_price": "0.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

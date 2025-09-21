@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/tactical-trainer-of-the-six-samurai-14535",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN246",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rage of the Abyss",
             "set_code": "ROTA-EN020",
             "set_rarity": "Common",
@@ -36,7 +43,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.11",
+            "cardmarket_price": "0.08",
             "tcgplayer_price": "0.08",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

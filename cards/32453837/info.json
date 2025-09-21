@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/number-2-ninja-shadow-mosquito-13344",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN291",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Battles of Legend: Crystal Revenge",
             "set_code": "BLCR-EN029",
             "set_rarity": "Secret Rare",
@@ -36,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.06",
-            "tcgplayer_price": "0.14",
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.20",
             "ebay_price": "1.49",
             "amazon_price": "0.99",
             "coolstuffinc_price": "2.99"

@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/code-of-soul-14306",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN206",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN099",
             "set_rarity": "Super Rare",
@@ -35,7 +42,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.16",
+            "tcgplayer_price": "0.11",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

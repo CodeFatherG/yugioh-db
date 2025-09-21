@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/crystal-clear-wing-synchro-dragon-12229",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN276",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Synchro Storm",
             "set_code": "LED8-EN005",
             "set_rarity": "Ghost Rare",
@@ -92,8 +99,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.09",
-            "tcgplayer_price": "0.11",
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.09",
             "ebay_price": "20.00",
             "amazon_price": "3.78",
             "coolstuffinc_price": "1.99"

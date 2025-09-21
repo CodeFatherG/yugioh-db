@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/silvy-of-the-white-forest-14446",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN214",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 28",
             "set_code": "OP28-EN005",
             "set_rarity": "Super Rare",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.07",
-            "tcgplayer_price": "0.09",
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.13",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

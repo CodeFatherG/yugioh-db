@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-duel-14297",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN360",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN072",
             "set_rarity": "Common",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.04",
-            "tcgplayer_price": "0.13",
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.14",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

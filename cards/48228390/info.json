@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/pyrite-knight-14476",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN367",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN081",
             "set_rarity": "Super Rare",
@@ -34,8 +41,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.06",
-            "tcgplayer_price": "0.13",
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.10",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

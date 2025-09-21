@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/harpie-s-feather-duster-1573",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN016",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "25th Anniversary Tin: Dueling Mirrors",
             "set_code": "MP24-EN058",
             "set_rarity": "Prismatic Secret Rare",
@@ -130,7 +137,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.50",
-            "tcgplayer_price": "2.83",
+            "tcgplayer_price": "2.79",
             "ebay_price": "1.90",
             "amazon_price": "16.98",
             "coolstuffinc_price": "1.99"

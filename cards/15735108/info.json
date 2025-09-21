@@ -9,6 +9,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/spell-card-soul-exchange-14402",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN007",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN100",
             "set_rarity": "Super Rare",
@@ -26,8 +33,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.31",
-            "tcgplayer_price": "0.48",
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.46",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

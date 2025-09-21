@@ -9,6 +9,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/metamorphosis-3958",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN299",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Champion Pack: Game One",
             "set_code": "CP01-EN003",
             "set_rarity": "Super Rare",
@@ -58,8 +65,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.88",
-            "tcgplayer_price": "1.72",
+            "cardmarket_price": "1.64",
+            "tcgplayer_price": "1.76",
             "ebay_price": "6.19",
             "amazon_price": "1.00",
             "coolstuffinc_price": "7.99"

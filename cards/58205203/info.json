@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "To Tribute Summon this card face-up, you can Tribute a Continuous Spell/Trap you control, instead of a monster. If this card is in your hand: You can destroy 1 other \"True Draco\" or \"True King\" card in your hand or face-up field, and if you do, Special Summon this card to either field. If this card is Normal or Special Summoned from the hand: Banish the top 4 cards of your Deck. You can only use each effect of \"Mariamne Paradox, the True Dracophoenix Knight\" once per turn.",
+    "desc": "To Tribute Summon this card face-up, you can Tribute Continuous Spells/Traps you control, as well as monsters. You can only use each of the following effects of \"Mariamne Paradox, the True Dracophoenix Knight\" once per turn. If this card is in your hand: You can destroy 1 other \"True Draco\" or \"True King\" card in your hand or face-up field, and if you do, Special Summon this card to either field. If this card is Normal or Special Summoned from the hand: Banish the top 4 cards from your Deck.",
     "race": "Wyrm",
     "atk": 1800,
     "def": 1400,
@@ -16,6 +16,15 @@
     "attribute": "WIND",
     "archetype": "True Draco",
     "ygoprodeck_url": "https://ygoprodeck.com/card/mariamne-paradox-the-true-dracophoenix-knight-15187",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 58205203,
@@ -26,7 +35,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
+            "cardmarket_price": "0.12",
             "tcgplayer_price": "0.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

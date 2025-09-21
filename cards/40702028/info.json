@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/dph-gendamoore-14418",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN388",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN041",
             "set_rarity": "Common",
@@ -36,7 +43,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.06",
+            "cardmarket_price": "0.03",
             "tcgplayer_price": "0.05",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

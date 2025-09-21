@@ -9,6 +9,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/mischief-of-the-gnomes-16",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN279",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Machine Reactor Structure Deck",
             "set_code": "SR03-EN034",
             "set_rarity": "Common",
@@ -40,8 +47,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.24",
-            "tcgplayer_price": "0.48",
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.36",
             "ebay_price": "1.99",
             "amazon_price": "5.99",
             "coolstuffinc_price": "1.99"

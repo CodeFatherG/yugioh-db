@@ -9,6 +9,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/spell-card-monster-reborn-14347",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN006",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN099",
             "set_rarity": "Super Rare",
@@ -26,8 +33,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.30",
-            "tcgplayer_price": "1.05",
+            "cardmarket_price": "0.42",
+            "tcgplayer_price": "1.01",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

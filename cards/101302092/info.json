@@ -16,6 +16,15 @@
     "attribute": "EARTH",
     "archetype": "R.B.",
     "ygoprodeck_url": "https://ygoprodeck.com/card/r-b-ga10-pile-bunker-15274",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN092",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 101302092,
@@ -26,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "2.91",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "2 \"Gouki\" monsters\r\nIf a \"Gouki\" monster(s) is added from the Deck to your hand, except by drawing it (except during the Damage Step): You can Special Summon any number of \"Gouki\" monsters from your hand with different Levels from each other, but you cannot Special Summon, except \"Gouki\" monsters, while you control any of those face-up monsters. During your Main Phase: You can Fusion Summon 1 \"Gouki\" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of \"Gouki Sheik Ogre\" once per turn.",
+    "desc": "2 \"Gouki\" monsters\r\nIf a \"Gouki\" monster(s) is added from the Deck to your hand, except by drawing it (except during the Damage Step): You can Special Summon any number of \"Gouki\" monsters with different Levels from your hand, but for each one, as long as it remains face-up in your Monster Zone, you cannot Special Summon, except \"Gouki\" monsters. During your Main Phase: You can Fusion Summon 1 \"Gouki\" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of \"Gouki Sheik Ogre\" once per turn.",
     "race": "Warrior",
     "atk": 1900,
     "def": null,
@@ -22,6 +22,15 @@
         "Bottom-Right"
     ],
     "ygoprodeck_url": "https://ygoprodeck.com/card/gouki-sheik-ogre-15132",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 7382007,
@@ -32,8 +41,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.97",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/ties-that-bind-14237",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN071",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN053",
             "set_rarity": "Quarter Century Secret Rare",
@@ -34,8 +41,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.32",
-            "tcgplayer_price": "0.38",
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.36",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

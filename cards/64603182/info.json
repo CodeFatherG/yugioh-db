@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-dark-golem-14296",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN003",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN006",
             "set_rarity": "Super Rare",
@@ -36,7 +43,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.44",
+            "tcgplayer_price": "0.38",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

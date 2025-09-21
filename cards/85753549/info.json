@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/mikazukinoyaiba-the-moon-fang-dragon-14401",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN346",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN027",
             "set_rarity": "Common",
@@ -35,7 +42,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.06",
-            "tcgplayer_price": "0.10",
+            "tcgplayer_price": "0.11",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

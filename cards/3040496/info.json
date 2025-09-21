@@ -26,6 +26,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN150",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rise of the Duelist",
             "set_code": "ROTD-EN043",
             "set_rarity": "Secret Rare",
@@ -47,8 +54,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.48",
-            "tcgplayer_price": "0.64",
+            "cardmarket_price": "0.39",
+            "tcgplayer_price": "0.62",
             "ebay_price": "1.98",
             "amazon_price": "23.99",
             "coolstuffinc_price": "0.99"

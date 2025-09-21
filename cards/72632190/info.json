@@ -1,6 +1,6 @@
 {
     "id": 72632190,
-    "name": "Tri-Headed Behemoth",
+    "name": "Triple-Headed Behemoth",
     "typeline": [
         "Dragon",
         "Effect"
@@ -8,13 +8,22 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If a face-up card(s) you control is destroyed by card effect, even during the Damage Step: You can Special Summon this card from your hand. You can only use this effect of \"Tri-Headed Behemoth\" once per turn. If this card is Normal or Special Summoned: You can activate this effect; during the End Phase of this turn, Special Summon 1 WIND monster from your GY, but its ATK/DEF become 1000. You can only use this effect of \"Tri-Headed Behemoth\" once per Duel.",
+    "desc": "If a face-up card(s) you control is destroyed by card effect, even during the Damage Step: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can Special Summon 1 WIND monster from your GY during the End Phase of this turn, but its ATK/DEF become 1000. You can only use this effect of \"Triple-Headed Behemoth\" once per Duel, and its previous effect only once per turn.",
     "race": "Dragon",
     "atk": 1500,
     "def": 1200,
     "level": 4,
     "attribute": "WIND",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/tri-headed-behemoth-15216",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/triple-headed-behemoth-15216",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 72632190,
@@ -25,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.95",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

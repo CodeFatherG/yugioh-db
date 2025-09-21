@@ -1,6 +1,6 @@
 {
     "id": 54265980,
-    "name": "Doom-Z Seven - Elara",
+    "name": "DoomZ VII Seven - Elara",
     "typeline": [
         "Dragon",
         "Effect"
@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is Normal or Special Summoned, or destroyed by card effect: You can Set 1 \"DoomZ\" Spell/Trap from your Deck. While this card is equipped with an Equip Card (Quick Effect): You can Special Summon 1 WIND Machine Xyz Monster from your Extra Deck with the same Rank as this card's Level, and if you do, attach this card and its Equip Cards to that monster as material (this is treated as an Xyz Summon). You can only use each effect of \"Doom-Z Seven - Elara\" once per turn.",
+    "desc": "If this card is Normal or Special Summoned, or destroyed by card effect: You can Set 1 \"DoomZ\" Spell/Trap from your Deck. While this card is equipped with an Equip Card (Quick Effect): You can Special Summon 1 WIND Machine Xyz Monster from your Extra Deck with the same Rank as this card's Level, and if you do, attach this card and its Equip Cards to that monster as material (this is treated as an Xyz Summon). You can only use each effect of \"DoomZ VII Seven - Elara\" once per turn.",
     "race": "Dragon",
     "atk": 1400,
     "def": 1200,
     "level": 4,
     "attribute": "DARK",
     "archetype": "DoomZ",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/doom-z-seven-elara-15176",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/doomz-vii-seven-elara-15176",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 54265980,
@@ -26,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.44",
+            "tcgplayer_price": "1.90",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

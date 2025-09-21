@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/mimighoul-room-14608",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN239",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN096",
             "set_rarity": "Super Rare",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.21",
-            "tcgplayer_price": "0.21",
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.22",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

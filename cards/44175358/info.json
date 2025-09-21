@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/splitting-planarian-14731",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN263",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rage of the Abyss",
             "set_code": "ROTA-EN100",
             "set_rarity": "Super Rare",
@@ -34,7 +41,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.02",
+            "cardmarket_price": "0.05",
             "tcgplayer_price": "0.08",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

@@ -4,10 +4,19 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Target 1 \"Doom-Z\" Xyz Monster you control; equip this card to it as an Equip Card with this effect.\r\n\u25cf Your opponent cannot add cards from the Deck to the hand, except by drawing them.\r\nIf this card is destroyed by card effect: You can target 1 face-up monster on the field; equip 1 \"Doom-Z\" monster from your Deck to it. You can only use each effect of \"Doom-Z Destruction\" once per turn.",
+    "desc": "Target 1 \"DoomZ\" Xyz Monster you control; equip this card to it with the following effect.\r\n\u25cf Cards cannot be added from the Main Deck to your opponent's hand except by drawing them.\r\nIf this card is destroyed by card effect: You can target 1 face-up monster on the field; equip 1 \"DoomZ\" monster from your Deck to it as an Equip Spell. You can only use each effect of \"DoomZ Destruction\" once per turn.",
     "race": "Normal",
-    "archetype": "Doom-Z",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/doom-z-destruction-15170",
+    "archetype": "DoomZ",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/doomz-destruction-15170",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN074",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 80320877,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.94",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

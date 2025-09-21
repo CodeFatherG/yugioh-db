@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "You can discard 1 card; add 1 Level 4 or lower and 1 Level 8 or higher \"Megalith\" monsters from your Deck to your hand. You can only use this effect of \"Megalith Anastasis\" once per turn. Once per turn, if you Ritual Summon a \"Megalith\" monster(s): You can activate 1 of these effects (but you can only use each effect of \"Megalith Anastasis\" once per turn);\r\n\u25cf Draw 2 cards, then discard 1 card.\r\n\u25cf Tribute 1 monster your opponent controls.",
+    "desc": "You can discard 1 card; add 2 \"Megalith\" monsters (1 Level 4 or lower and 1 Level 8 or higher) from your Deck to your hand. You can only use this effect of \"Megalith Anastasis\" once per turn. Once per turn, if you Ritual Summon a \"Megalith\" monster (except during the Damage Step): You can activate 1 of these effects (but you can only use each of these effects of \"Megalith Anastasis\" once per turn);\r\n\u25cf Draw 2 cards, then discard 1 card.\r\n\u25cf Tribute 1 monster your opponent controls.",
     "race": "Continuous",
     "archetype": "Megalith",
     "ygoprodeck_url": "https://ygoprodeck.com/card/megalith-anastasis-15120",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 29876299,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.92",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

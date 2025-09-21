@@ -1,0 +1,46 @@
+{
+    "id": 101302084,
+    "name": "Faisan, Hunting Scout of the Deep Forest",
+    "typeline": [
+        "Warrior",
+        "Fusion",
+        "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "2 EARTH Warrior monsters\r\nUnaffected by your opponent's activated effects, during the Main Phase only. During the Battle Phase (Quick Effect): You can Tribute this Fusion Summoned card; Special Summon 2 EARTH Warrior monsters from your GY, except \"Faisan, Hunting Scout of the Deep Forest\", and if you do, your EARTH Warrior monsters cannot be destroyed by battle for the rest of this turn. You can only use this effect of \"Faisan, Hunting Scout of the Deep Forest\" once per turn.",
+    "race": "Warrior",
+    "atk": 2300,
+    "def": 2300,
+    "level": 5,
+    "attribute": "EARTH",
+    "archetype": "Hunting Scout of the Deep Forest",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/faisan-hunting-scout-of-the-deep-forest-15279",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN084",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 101302084,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101302084.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101302084.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101302084.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.94",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -23,6 +23,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/supreme-king-z-arc-synchro-universe-14309",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN207",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of Destruction",
             "set_code": "LEDE-EN100",
             "set_rarity": "Super Rare",
@@ -41,7 +48,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.10",
+            "tcgplayer_price": "0.11",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

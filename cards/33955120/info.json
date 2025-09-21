@@ -1,6 +1,6 @@
 {
     "id": 33955120,
-    "name": "Hate Rose Witch",
+    "name": "Rage Rose Witch",
     "typeline": [
         "Plant",
         "Synchro",
@@ -9,14 +9,30 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nPlant monsters you control cannot be destroyed by card effects. You can only use each of the following effects of \"Hate Rose Witch\" once per turn. If this card is Synchro Summoned: You can send up to 2 Plant monsters to the GY (1 from your Deck and/or 1 from your Extra Deck), also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. If a card(s) on the field is destroyed by card effect while this card is in your GY (except during the Damage Step): You can Special Summon this card.",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nPlant monsters you control cannot be destroyed by card effects. You can only use each of the following effects of \"Rage Rose Witch\" once per turn. If this card is Synchro Summoned: You can send up to 1 Plant monster each from your Deck and Extra Deck to the GY, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. If a card(s) on the field is destroyed by card effect while this card is in your GY (except during the Damage Step): You can Special Summon this card.",
     "race": "Plant",
     "atk": 1600,
     "def": 2400,
     "level": 6,
     "attribute": "DARK",
     "archetype": "Rose",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/hate-rose-witch-15192",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rage-rose-witch-15192",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN040",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN040",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 33955120,
@@ -27,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "2.27",
+            "tcgplayer_price": "2.93",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

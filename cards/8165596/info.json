@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/number-90-galaxy-eyes-photon-lord-9357",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN033",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Battles of Legend: Chapter 1",
             "set_code": "BLC1-EN018",
             "set_rarity": "Ultra Rare",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.81",
-            "tcgplayer_price": "1.33",
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "1.41",
             "ebay_price": "54.99",
             "amazon_price": "47.99",
             "coolstuffinc_price": "49.99"

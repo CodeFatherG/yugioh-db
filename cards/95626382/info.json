@@ -9,14 +9,30 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "3 Level 8 monsters\r\nThe first time this card would be destroyed by battle or card effect each turn, it is not destroyed. You can only use each of the following effects of \"Doom-Z End - Drastrius\" once per turn. If this card is Xyz Summoned: You can equip 1 other face-up monster on the field to it. When your opponent activates a monster effect on the field or in the GY (Quick Effect): You can detach 1 material from this card; negate that effect, then you can equip 1 face-up monster your opponent controls to this card.",
+    "desc": "3 Level 8 monsters\r\nThe first time this card would be destroyed by battle or card effect each turn, it is not destroyed. You can only use each of the following effects of \"DoomZ XII End - Drastrius\" once per turn. If this card is Xyz Summoned: You can equip 1 other face-up monster on the field to this card as an Equip Spell. When your opponent activates a monster effect on the field or GY (Quick Effect): You can detach 1 material from this card; negate that effect, then you can equip 1 face-up monster your opponent controls to this card as an Equip Spell.",
     "race": "Machine",
     "atk": 2700,
     "def": 1500,
     "level": 8,
     "attribute": "WIND",
-    "archetype": "Doom-Z",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/doom-z-end-drastrius-15169",
+    "archetype": "DoomZ",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/doomz-xii-end-drastrius-15169",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN045",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN045",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 95626382,
@@ -27,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "7.72",
+            "tcgplayer_price": "9.97",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

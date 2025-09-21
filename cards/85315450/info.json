@@ -1,6 +1,6 @@
 {
     "id": 85315450,
-    "name": "Magnifistorm Great Pyre Phonix",
+    "name": "Radiant Typhoon Fonix, the Great Flame",
     "typeline": [
         "Pyro",
         "Effect"
@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If a Quick-Play Spell Card is activated (except during the Damage Step): You can Special Summon this card from your hand. If a Quick-Play Spell Card is activated (except during the Damage Step): You can target up to 2 cards your opponent controls; shuffle them into the Deck. If \"Mystical Space Typhoon\" is activated while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Magnifistorm Great Pyre Phonix\" once per turn.",
+    "desc": "If a Quick-Play Spell Card is activated (except during the Damage Step): You can Special Summon this card from your hand. If a Quick-Play Spell Card is activated (except during the Damage Step): You can target up to 2 cards your opponent controls; shuffle them into the Deck. If \"Mystical Space Typhoon\" is activated while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Radiant Typhoon Fonix, the Great Flame\" once per turn.",
     "race": "Pyro",
     "atk": 3000,
     "def": 0,
     "level": 9,
     "attribute": "WIND",
-    "archetype": "Magnifistorm",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/magnifistorm-great-pyre-phonix-15122",
+    "archetype": "Radiant Typhoon",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/radiant-typhoon-fonix-the-great-flame-15122",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN017",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN017",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 85315450,
@@ -26,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "6.07",
+            "tcgplayer_price": "2.98",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

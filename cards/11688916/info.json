@@ -1,6 +1,6 @@
 {
     "id": 11688916,
-    "name": "Solfachord Primoria",
+    "name": "Solfachord Primoa",
     "typeline": [
         "Fairy",
         "Pendulum",
@@ -9,17 +9,26 @@
     "type": "Pendulum Effect Monster",
     "humanReadableCardType": "Pendulum Effect Monster",
     "frameType": "effect_pendulum",
-    "desc": "[ Pendulum Effect ] \nWhen you Pendulum Summon a monster(s): You can target 1 \"Solfachord\" card in your Pendulum Zone; return it to the hand.\n\n[ Monster Effect ] \nWhile you have \"Solfachord\" cards with even and odd Pendulum Scales in your Pendulum Zone, your activated \"Solfachord\" cards' effects cannot be negated. You can only use each of the following effects of \"Solfachord Primoria\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Solfachord\" card from your Deck to your hand, except \"Solfachord Primoria\". If you Link Summon a \"Solfachord\" monster: You can add 1 \"Solfachord\" card from your GY or face-up Extra Deck to your hand.",
+    "desc": "[ Pendulum Effect ] \nWhen you Pendulum Summon: You can target 1 \"Solfachord\" card in your Pendulum Zone; return it to the hand.\n\n[ Monster Effect ] \nWhile you have \"Solfachord\" cards in both of your Pendulum Zones (1 odd and 1 even Pendulum Scale), the activated effects of your \"Solfachord\" cards cannot be negated. You can only use each of the following effects of \"Solfachord Primoa\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Solfachord\" card from your Deck to your hand, except \"Solfachord Primoa\". If you Link Summon a \"Solfachord\" monster: You can add 1 \"Solfachord\" card from your face-up Extra Deck or GY to your hand.",
     "race": "Fairy",
-    "pend_desc": "When you Pendulum Summon a monster(s): You can target 1 \"Solfachord\" card in your Pendulum Zone; return it to the hand.",
-    "monster_desc": "While you have \"Solfachord\" cards with even and odd Pendulum Scales in your Pendulum Zone, your activated \"Solfachord\" cards' effects cannot be negated. You can only use each of the following effects of \"Solfachord Primoria\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Solfachord\" card from your Deck to your hand, except \"Solfachord Primoria\". If you Link Summon a \"Solfachord\" monster: You can add 1 \"Solfachord\" card from your GY or face-up Extra Deck to your hand.",
+    "pend_desc": "When you Pendulum Summon: You can target 1 \"Solfachord\" card in your Pendulum Zone; return it to the hand.",
+    "monster_desc": "While you have \"Solfachord\" cards in both of your Pendulum Zones (1 odd and 1 even Pendulum Scale), the activated effects of your \"Solfachord\" cards cannot be negated. You can only use each of the following effects of \"Solfachord Primoa\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Solfachord\" card from your Deck to your hand, except \"Solfachord Primoa\". If you Link Summon a \"Solfachord\" monster: You can add 1 \"Solfachord\" card from your face-up Extra Deck or GY to your hand.",
     "atk": 0,
     "def": 400,
     "level": 1,
     "attribute": "EARTH",
     "archetype": "Solfachord",
     "scale": 0,
-    "ygoprodeck_url": "https://ygoprodeck.com/card/solfachord-primoria-15113",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/solfachord-primoa-15113",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 11688916,
@@ -30,8 +39,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.94",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

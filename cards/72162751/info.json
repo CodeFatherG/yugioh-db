@@ -15,6 +15,15 @@
     "level": 9,
     "attribute": "DARK",
     "ygoprodeck_url": "https://ygoprodeck.com/card/queen-of-the-blazing-domain-15267",
+    "card_sets": [
+        {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN147",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 72162751,
@@ -26,7 +35,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "3.88",
+            "tcgplayer_price": "11.33",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

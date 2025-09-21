@@ -20,6 +20,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/centur-ion-primera-primus-14630",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN106",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rage of the Abyss",
             "set_code": "ROTA-EN038",
             "set_rarity": "Super Rare",
@@ -38,7 +45,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.16",
-            "tcgplayer_price": "0.28",
+            "tcgplayer_price": "0.24",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/goblin-biker-dugg-charger-14175",
     "card_sets": [
         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN051",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Phantom Nightmare",
             "set_code": "PHNI-EN008",
             "set_rarity": "Quarter Century Secret Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.69",
-            "tcgplayer_price": "0.50",
+            "cardmarket_price": "0.55",
+            "tcgplayer_price": "0.46",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
