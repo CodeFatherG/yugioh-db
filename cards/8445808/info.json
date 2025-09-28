@@ -1,0 +1,35 @@
+{
+    "id": 8445808,
+    "name": "Maiden in Love",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Monsters your opponent controls that can attack must attack this card. Cannot be destroyed by battle. At the end of the Damage Step, if this card battled an opponent's monster: You can activate 1 of these effects;\r\n\u25cf Place 1 Maiden Counter on 1 face-up monster your opponent controls.\r\n\u25cf Take control of 1 opponent's monster with a Maiden Counter.",
+    "race": "Spellcaster",
+    "atk": 400,
+    "def": 300,
+    "level": 2,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/maiden-in-love-15314",
+    "card_images": [
+        {
+            "id": 8445808,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8445808.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8445808.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8445808.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

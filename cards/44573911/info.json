@@ -1,0 +1,45 @@
+{
+    "id": 44573911,
+    "name": "R.B. Ga10 Pile Bunker",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If you control no face-up monsters, or the only face-up monsters you control are \"R.B.\" monsters, you can Special Summon this card (from your hand). You can only Special Summon \"R.B. Ga10 Pile Bunker\" once per turn this way. When an attack is declared involving an opponent's monster and \"R.B. The Brute Blues\" that points to this card: You can pay 1500 LP; destroy all cards your opponent controls and this card. You can only use this effect of \"R.B. Ga10 Pile Bunker\" once per turn.",
+    "race": "Machine",
+    "atk": 1500,
+    "def": 1500,
+    "level": 8,
+    "attribute": "EARTH",
+    "archetype": "R.B.",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/r-b-ga10-pile-bunker-15274",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN092",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 44573911,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44573911.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44573911.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44573911.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can discard 1 card to the Graveyard to select and destroy 1 face-up monster your opponent controls with DEF less than or equal to this card's ATK.",
+    "desc": "You can discard 1 card to the GY, then target 1 monster your opponent controls with DEF less than or equal to this card's ATK; destroy that target.",
     "race": "Fiend",
     "atk": 1500,
     "def": 800,
@@ -56,8 +56,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
-            "tcgplayer_price": "0.17",
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.16",
             "ebay_price": "0.99",
             "amazon_price": "0.98",
             "coolstuffinc_price": "0.39"

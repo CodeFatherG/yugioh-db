@@ -1,0 +1,37 @@
+{
+    "id": 7622360,
+    "name": "Archfiend Matador",
+    "typeline": [
+        "Warrior",
+        "Ritual",
+        "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with \"Ritual of the Matador\". If this card is Ritual Summoned: You can add 2 \"Archfiend\" cards from your Deck to your hand, except \"Archfiend Matador\", also this card cannot attack for the rest of this turn. You can only use this effect of \"Archfiend Matador\" once per turn. Cannot be destroyed by battle, also you take no battle damage from battles involving this card. After damage calculation, if this card battled a monster: Destroy that monster, and if you do, inflict 1000 damage to your opponent.",
+    "race": "Warrior",
+    "atk": 0,
+    "def": 0,
+    "level": 6,
+    "attribute": "DARK",
+    "archetype": "Archfiend",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-matador-15315",
+    "card_images": [
+        {
+            "id": 7622360,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7622360.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7622360.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7622360.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

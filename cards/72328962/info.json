@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is in your Graveyard: You can send 2 cards, except \"Fabled Soulkius\", from your hand to the Graveyard; Special Summon this card from the Graveyard.",
+    "desc": "If this card is in your GY: You can send 2 cards from your hand to the GY, except \"Fabled Soulkius\"; Special Summon this card.",
     "race": "Fiend",
     "atk": 2200,
     "def": 2100,
@@ -71,7 +71,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.14",
-            "tcgplayer_price": "0.22",
+            "tcgplayer_price": "0.24",
             "ebay_price": "2.17",
             "amazon_price": "2.01",
             "coolstuffinc_price": "0.49"

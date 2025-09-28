@@ -1,6 +1,6 @@
 {
     "id": 94292987,
-    "name": "Fabled Gamygyn",
+    "name": "Fabled Gammajin",
     "typeline": [
         "Fiend",
         "Synchro",
@@ -10,14 +10,23 @@
     "type": "Synchro Tuner Monster",
     "humanReadableCardType": "Synchro Tuner Effect Monster",
     "frameType": "synchro",
-    "desc": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\r\nYour opponent cannot target other \"Fabled\" Synchro Monsters you control with card effects. You can only use each of the following effects of \"Fabled Gamygyn\" once per turn. If this card is Synchro Summoned: You can Special Summon 1 \"Fabled\" monster from your hand or Deck. If this card is sent to the GY: You can draw cards equal to the number of \"Fabled\" Synchro Monsters you control, then discard 1 card.",
+    "desc": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\r\nYour opponent cannot target other \"Fabled\" Synchro Monsters you control with card effects. You can only use each of the following effects of \"Fabled Gammajin\" once per turn. If this card is Synchro Summoned: You can Special Summon 1 \"Fabled\" monster from your hand or Deck. If this card is sent to the GY: You can draw cards equal to the number of \"Fabled\" Synchro Monsters you control, then discard 1 card.",
     "race": "Fiend",
     "atk": 2000,
     "def": 0,
     "level": 4,
     "attribute": "LIGHT",
     "archetype": "Fabled",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/fabled-gamygyn-14811",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fabled-gammajin-14811",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN013",
+            "set_rarity": "New",
+            "set_rarity_code": "",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 94292987,
@@ -28,8 +37,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.07",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

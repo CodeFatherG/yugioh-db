@@ -1,0 +1,35 @@
+{
+    "id": 71228611,
+    "name": "Eucalyptus Mole",
+    "typeline": [
+        "Plant",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can Special Summon 1 Level 4 or lower Beast monster from your Deck in face-down Defense Position, then if this card is in Attack Position, change it to Defense Position. If this card is destroyed: You can Special Summon 1 \"Koala\" monster or 1 \"Tree Otter\" from your Deck, and if you do, apply this effect until the end of the next turn.\r\n\u25cf Non-Effect Beast monsters you control gain ATK equal to their own original DEF.\r\nYou can only use each effect of \"Eucalyptus Mole\" once per turn.",
+    "race": "Plant",
+    "atk": 300,
+    "def": 1300,
+    "level": 3,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/eucalyptus-mole-15312",
+    "card_images": [
+        {
+            "id": 71228611,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71228611.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71228611.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71228611.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

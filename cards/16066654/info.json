@@ -1,0 +1,37 @@
+{
+    "id": 16066654,
+    "name": "R.B. Operation Test",
+    "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
+    "desc": "When this card is activated: You can target 1 Level 3 or higher \"R.B.\" monster in your GY; Special Summon it. You can target any number of \"R.B.\" monsters you control; gain LP equal to their combined original ATK, and if you do, return them to the hand/Extra Deck, then you can Special Summon 1 \"R.B.\" monster from your hand. You can only use this effect of \"R.B. Operation Test\" once per turn. You can only activate 1 \"R.B. Operation Test\" per turn.",
+    "race": "Continuous",
+    "archetype": "R.B.",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/r-b-operation-test-15269",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN094",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 16066654,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16066654.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16066654.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16066654.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

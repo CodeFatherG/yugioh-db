@@ -1,0 +1,36 @@
+{
+    "id": 88039509,
+    "name": "Einroid",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is destroyed by battle or card effect: You can send 2 Level 4 or lower Machine monsters from your Deck to the GY. You can only use this effect of \"Einroid\" once per turn.",
+    "race": "Machine",
+    "atk": 200,
+    "def": 1800,
+    "level": 1,
+    "attribute": "EARTH",
+    "archetype": "roid",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/einroid-15309",
+    "card_images": [
+        {
+            "id": 88039509,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88039509.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88039509.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88039509.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

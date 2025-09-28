@@ -9,7 +9,7 @@
     "type": "Tuner Monster",
     "humanReadableCardType": "Tuner Effect Monster",
     "frameType": "effect",
-    "desc": "You can discard 1 \"Fabled\" monster to the Graveyard, except \"Fabled Kushano\", to add this card from your Graveyard to your hand.",
+    "desc": "If this card is in your GY: You can discard 1 \"Fabled\" monster to the GY, except \"Fabled Kushano\"; add this card to your hand.",
     "race": "Fiend",
     "atk": 1100,
     "def": 800,
@@ -58,7 +58,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.05",
-            "tcgplayer_price": "0.31",
+            "tcgplayer_price": "0.26",
             "ebay_price": "0.99",
             "amazon_price": "0.99",
             "coolstuffinc_price": "0.49"

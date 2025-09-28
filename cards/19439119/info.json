@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "When this card is discarded to the Graveyard, select 1 Level 4 or lower \"Fabled\" monster in your Graveyard, except this card, and Special Summon it.",
+    "desc": "If this card is discarded to the GY: Target 1 other Level 4 or lower \"Fabled\" monster in your GY; Special Summon that target.",
     "race": "Fiend",
     "atk": 1000,
     "def": 800,
@@ -64,7 +64,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.06",
-            "tcgplayer_price": "0.24",
+            "tcgplayer_price": "0.26",
             "ebay_price": "0.99",
             "amazon_price": "4.12",
             "coolstuffinc_price": "0.39"

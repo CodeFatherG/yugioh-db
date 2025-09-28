@@ -9,7 +9,7 @@
     "type": "Tuner Monster",
     "humanReadableCardType": "Tuner Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is discarded to the Graveyard: Special Summon it.",
+    "desc": "If this card is discarded to the GY: Special Summon it.",
     "race": "Beast",
     "atk": 1000,
     "def": 400,
@@ -71,8 +71,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.15",
-            "tcgplayer_price": "0.23",
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.22",
             "ebay_price": "1.49",
             "amazon_price": "1.38",
             "coolstuffinc_price": "0.79"

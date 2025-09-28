@@ -1,0 +1,59 @@
+{
+    "id": 80071619,
+    "name": "R.B. Shepherd's Crook",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2+ monsters, including an \"R.B.\" monster\r\nGains 500 ATK for each monster you control, except this card. You can only use each of the following effects of \"R.B. Shepherd's Crook\" once per turn. During your Main Phase: You can Set 1 \"R.B.\" Trap from your Deck or GY. During your opponent's Main Phase (Quick Effect): You can target 3 Level 3 or higher \"R.B.\" monsters in your GY; place 2 on the bottom of the Deck in any order, and if you do, Special Summon the other in Defense Position.",
+    "race": "Machine",
+    "atk": 1500,
+    "def": null,
+    "level": null,
+    "attribute": "DARK",
+    "archetype": "R.B.",
+    "linkval": 3,
+    "linkmarkers": [
+        "Left",
+        "Bottom",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/r-b-shepherd-s-crook-15268",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN093",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN093",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 80071619,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80071619.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80071619.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80071619.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "1.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

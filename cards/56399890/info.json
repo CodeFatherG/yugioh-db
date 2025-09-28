@@ -9,7 +9,7 @@
     "type": "Tuner Monster",
     "humanReadableCardType": "Tuner Effect Monster",
     "frameType": "effect",
-    "desc": "When this card is discarded to the Graveyard, select 1 face-up card on the field, and destroy it.",
+    "desc": "If this card is discarded to the GY: Target 1 face-up card on the field; destroy that target.",
     "race": "Beast",
     "atk": 800,
     "def": 600,
@@ -57,8 +57,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.17",
-            "tcgplayer_price": "0.37",
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.39",
             "ebay_price": "1.95",
             "amazon_price": "1.51",
             "coolstuffinc_price": "0.49"

@@ -9,7 +9,7 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters\nOnce per turn, you can discard 1 Fiend-Type monster to draw 1 card.",
+    "desc": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\r\nOnce per turn: You can discard 1 Fiend monster; draw 1 card.",
     "race": "Fiend",
     "atk": 2900,
     "def": 1700,
@@ -58,7 +58,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.14",
-            "tcgplayer_price": "0.32",
+            "tcgplayer_price": "0.29",
             "ebay_price": "0.99",
             "amazon_price": "5.01",
             "coolstuffinc_price": "0.49"

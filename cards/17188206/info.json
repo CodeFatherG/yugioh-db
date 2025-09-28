@@ -1,0 +1,45 @@
+{
+    "id": 17188206,
+    "name": "R.B. Lambda Blade",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can send 1 \"R.B.\" card from your Deck to the GY, except \"R.B. Lambda Blade\". During your opponent's Main Phase, if this card is linked to an \"R.B.\" Link Monster (Quick Effect): You can pay 1400 LP, then target 1 monster your opponent controls; destroy this card, and if you do, take control of that monster, but destroy it during the End Phase. You can only use each effect of \"R.B. Lambda Blade\" once per turn.",
+    "race": "Machine",
+    "atk": 1400,
+    "def": 1400,
+    "level": 7,
+    "attribute": "DARK",
+    "archetype": "R.B.",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/r-b-lambda-blade-15273",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN091",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 17188206,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17188206.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17188206.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17188206.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

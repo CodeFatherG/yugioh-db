@@ -1,13 +1,22 @@
 {
     "id": 57775790,
-    "name": "Fabled Realm Resurrection",
+    "name": "Fabled Realm's Revival",
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "When this card is activated: You can Set 1 \"Fabled\" Spell/Trap from your Deck, except \"Fabled Realm Resurrection\". Your opponent cannot activate cards or effects when your \"Fabled\" monster is Synchro Summoned. Once per turn: You can discard 1 \"Fabled\" card, then activate 1 of these effects;\r\n\u25cf Draw 1 card.\r\n\u25cf Special Summon 1 \"Fabled\" monster from your GY or banishment.\r\nYou can only activate 1 \"Fabled Realm Resurrection\" per turn.",
+    "desc": "When this card is activated: You can Set 1 \"Fabled\" Spell/Trap from your Deck, except \"Fabled Realm's Revival\". Your opponent cannot activate cards or effects when you Synchro Summon a \"Fabled\" Synchro Monster. Once per turn: You can discard 1 \"Fabled\" card, then activate 1 of these effects;\r\n\u25cf Draw 1 card.\r\n\u25cf Special Summon 1 \"Fabled\" monster from your GY or banishment.\r\nYou can only activate 1 \"Fabled Realm's Revival\" per turn.",
     "race": "Continuous",
     "archetype": "Fabled",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/fabled-realm-resurrection-14812",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fabled-realm-s-revival-14812",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN015",
+            "set_rarity": "New",
+            "set_rarity_code": "",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 57775790,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.07",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

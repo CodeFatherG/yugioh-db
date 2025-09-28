@@ -1,0 +1,45 @@
+{
+    "id": 50643638,
+    "name": "Chanbar, the Flashy Sportsknight",
+    "typeline": [
+        "Warrior",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nMonsters your opponent controls lose 400 ATK for each Equip Spell you control. You can only use each of the following effects of \"Chanbar, the Flashy Sportsknight\" once per turn. You can target 1 other card on the field; send 1 Equip Spell from your hand or Deck to the GY, and if you do, destroy that target. If this card is in your GY: You can target 2 face-up cards in your Spell & Trap Zone; destroy them, and if you do, Special Summon this card.",
+    "race": "Warrior",
+    "atk": 2700,
+    "def": 2100,
+    "level": 8,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chanbar-the-flashy-sportsknight-15280",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN083",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 50643638,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50643638.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50643638.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50643638.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -9,7 +9,7 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters\nWhen this card on the field is destroyed and sent to the Graveyard, you can select up to 3 \"Fabled\" monsters in your Graveyard. Add them to your hand.",
+    "desc": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\r\nWhen this card on the field is destroyed and sent to the GY: You can target up to 3 \"Fabled\" monsters in your GY; add them to your hand.",
     "race": "Fiend",
     "atk": 3000,
     "def": 2000,
@@ -57,8 +57,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.15",
-            "tcgplayer_price": "0.17",
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.19",
             "ebay_price": "0.99",
             "amazon_price": "3.22",
             "coolstuffinc_price": "0.49"

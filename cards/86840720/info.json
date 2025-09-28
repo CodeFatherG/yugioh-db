@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "When a \"Fabled\" monster is sent from the hand to your Graveyard, you can Tribute this card to select that monster, and Special Summon it from the Graveyard.",
+    "desc": "When a \"Fabled\" monster(s) is sent from the hand to your GY (except during the Damage Step): You can Tribute this card, then target 1 of those monsters; Special Summon it.",
     "race": "Fiend",
     "atk": 1400,
     "def": 1700,
@@ -56,7 +56,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.10",
+            "cardmarket_price": "0.09",
             "tcgplayer_price": "0.08",
             "ebay_price": "0.99",
             "amazon_price": "0.25",
