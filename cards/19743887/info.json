@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "When your opponent activates a monster effect on their field that targets a monster(s) you control, or their monster targets one for an attack (Quick Effect): You can Special Summon this card from your hand, then you can choose 1 of those opponent's monsters and reveal 1 card in your hand, then apply the following effect to that monster based on the revealed card type.\r\n\u25cf Monster: Change it to Defense Position.\r\n\u25cf Spell: Double its ATK.\r\n\u25cf Trap: Banish it.\r\nYou can only use this effect of \"VARefar, the Judge of Ball\" once per turn.",
+    "desc": "When your opponent activates a monster effect on their field that targets a monster(s) you control, or their monster targets one for an attack (Quick Effect): You can Special Summon this card from your hand, then you can choose 1 of those opponent's monsters and reveal 1 card in your hand, then apply the following effect to that monster based on the revealed card type.\r\n\u25cf Monster: Change it to Defense Position. \u25cf Spell: Double its ATK. \u25cf Trap: Banish it.\r\nYou can only use this effect of \"VARefar, the Judge of Ball\" once per turn.",
     "race": "Fiend",
     "atk": 2100,
     "def": 800,
@@ -34,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.08",
-            "tcgplayer_price": "0.13",
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.07",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
