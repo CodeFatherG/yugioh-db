@@ -1,0 +1,36 @@
+{
+    "id": 101303038,
+    "name": "Night Wing Priestess",
+    "typeline": [
+        "Spellcaster",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Special Summoned: You can Set 1 \"Assault Mode Activate\" from your hand, Deck, or GY. It can be activated this turn. You can discard 1 card; add to your hand, or Special Summon, 1 monster that mentions \"Assault Mode Activate\" from your Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use each effect of \"Night Wing Priestess\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 2500,
+    "def": 2500,
+    "level": 8,
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/night-wing-priestess-15332",
+    "card_images": [
+        {
+            "id": 101303038,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101303038.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101303038.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101303038.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

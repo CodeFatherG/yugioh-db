@@ -1,0 +1,37 @@
+{
+    "id": 101303039,
+    "name": "Junora the Power Patron of Tuning",
+    "typeline": [
+        "Fiend",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 2 non-Tuner monsters\r\nFor this card's Synchro Summon, you can treat 1 monster in your center Main Monster Zone as a Tuner. If this card is Synchro Summoned: You can negate the effects of all face-up cards your opponent currently controls. (Quick Effect): You can activate this effect; all monsters your opponent currently controls in the same columns as your \"Elvennotes\" monsters cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon until the end of this turn. You can only use this effect of \"Junora the Power Patron of Tuning\" once per turn.",
+    "race": "Fiend",
+    "atk": 3100,
+    "def": 3800,
+    "level": 10,
+    "attribute": "FIRE",
+    "archetype": "Power Patron",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/junora-the-power-patron-of-tuning-15344",
+    "card_images": [
+        {
+            "id": 101303039,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101303039.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101303039.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101303039.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

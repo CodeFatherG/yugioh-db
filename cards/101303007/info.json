@@ -1,0 +1,36 @@
+{
+    "id": 101303007,
+    "name": "Junk Warrior/Assault Mode",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Assault Mode Activate\". Gains 1000 ATK for each \"/Assault Mode\" monster you control, also if this card battles a monster, any battle damage it inflicts to your opponent is doubled. Unaffected by your opponent's activated monster effects. If this card is destroyed: You can target 1 \"Junk Warrior\" in your GY; return it to the Extra Deck, then you can Special Summon it (this is treated as a Synchro Summon).",
+    "race": "Warrior",
+    "atk": 2800,
+    "def": 1800,
+    "level": 7,
+    "attribute": "DARK",
+    "archetype": "/Assault Mode",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/junk-warrior-assault-mode-15335",
+    "card_images": [
+        {
+            "id": 101303007,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101303007.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101303007.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101303007.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

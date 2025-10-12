@@ -1,0 +1,36 @@
+{
+    "id": 101303008,
+    "name": "Crimson Blader/Assault Mode",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Assault Mode Activate\". You can reveal this card in your hand; add 1 \"Assault Mode Activate\" or 1 card that mentions it from your Deck to your hand, and if you do, shuffle this card into the Deck. You can only use this effect of \"Crimson Blader/Assault Mode\" once per turn. Your opponent cannot activate the effects of Level 5 or higher monsters Special Summoned from the Extra Deck. If this card is destroyed: You can Special Summon 1 \"Crimson Blader\" from your GY.",
+    "race": "Warrior",
+    "atk": 3300,
+    "def": 3100,
+    "level": 10,
+    "attribute": "FIRE",
+    "archetype": "/Assault Mode",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crimson-blader-assault-mode-15334",
+    "card_images": [
+        {
+            "id": 101303008,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101303008.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101303008.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101303008.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

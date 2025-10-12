@@ -1,0 +1,36 @@
+{
+    "id": 101303010,
+    "name": "Elvennotes Lucina",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can Special Summon this card (from your hand) to your center Main Monster Zone. You can only Special Summon \"Elvennotes Lucina\" once per turn this way. You can only use each of the following effects of \"Elvennotes Lucina\" once per turn. During your Main Phase: You can add 1 \"Elvennotes\" monster from your Deck to your hand, except \"Elvennotes Lucina\". During your opponent's turn (Quick Effect): You can switch the locations of this card in your Main Monster Zone and the monster in your center Main Monster Zone, then you can return 1 Level 6 or lower monster your opponent controls to the hand.",
+    "race": "Spellcaster",
+    "atk": 2500,
+    "def": 1800,
+    "level": 6,
+    "attribute": "FIRE",
+    "archetype": "Elvennotes",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/elvennotes-lucina-15345",
+    "card_images": [
+        {
+            "id": 101303010,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101303010.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101303010.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101303010.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
