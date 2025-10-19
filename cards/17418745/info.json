@@ -8,6 +8,15 @@
     "race": "Thunder",
     "archetype": "Photon",
     "ygoprodeck_url": "https://ygoprodeck.com/card/photon-token-1511",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 29",
+            "set_code": "OP29-EN027",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 17418745,
@@ -19,7 +28,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "tcgplayer_price": "1.60",
             "ebay_price": "32.87",
             "amazon_price": "11.97",
             "coolstuffinc_price": "0.00"

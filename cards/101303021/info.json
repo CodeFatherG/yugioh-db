@@ -1,0 +1,36 @@
+{
+    "id": 101303021,
+    "name": "B.E.S. Dellinger Core",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can reveal 1 other \"B.E.S.\" monster in your hand; Special Summon this card from your hand, then place 3 counters on it. During the Main Phase (Quick Effect): You can remove 1 counter from this card, then activate 1 of these effects;\r\n\u25cf Add 1 \"Boss Rush\" or 1 Spell/Trap that mentions it from your Deck to your hand.\r\n\u25cf Special Summon 1 Level 9 or lower \"B.E.S.\" monster from your GY.\r\nYou can only use each effect of \"B.E.S. Dellinger Core\" once per turn.",
+    "race": "Machine",
+    "atk": 1900,
+    "def": 3000,
+    "level": 10,
+    "attribute": "LIGHT",
+    "archetype": "B.E.S.",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/b-e-s-dellinger-core-15353",
+    "card_images": [
+        {
+            "id": 101303021,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101303021.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101303021.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101303021.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

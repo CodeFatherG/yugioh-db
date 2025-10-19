@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/gagaga-head-5641",
     "card_sets": [
         {
+            "set_name": "OTS Tournament Pack 29",
+            "set_code": "OP29-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Yu-Gi-Oh! ZEXAL Volume 9 promotional card",
             "set_code": "YZ09-EN001",
             "set_rarity": "Ultra Rare",
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "9.50",
-            "tcgplayer_price": "11.99",
+            "cardmarket_price": "0.99",
+            "tcgplayer_price": "0.85",
             "ebay_price": "12.99",
             "amazon_price": "19.99",
             "coolstuffinc_price": "15.99"

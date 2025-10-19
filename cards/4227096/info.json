@@ -23,6 +23,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "OTS Tournament Pack 29",
+            "set_code": "OP29-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Premium Gold: Infinite Gold",
             "set_code": "PGL3-EN089",
             "set_rarity": "Gold Rare",
@@ -40,8 +47,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "3.83",
-            "tcgplayer_price": "2.20",
+            "cardmarket_price": "3.31",
+            "tcgplayer_price": "1.25",
             "ebay_price": "1.18",
             "amazon_price": "3.50",
             "coolstuffinc_price": "1.99"

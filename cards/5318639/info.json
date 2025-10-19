@@ -254,6 +254,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "OTS Tournament Pack 29",
+            "set_code": "OP29-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Premium Gold",
             "set_code": "PGLD-EN079",
             "set_rarity": "Gold Rare",
@@ -484,7 +491,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.08",
+            "cardmarket_price": "0.10",
             "tcgplayer_price": "0.20",
             "ebay_price": "1.99",
             "amazon_price": "1.59",

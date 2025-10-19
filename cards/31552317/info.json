@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/crystron-inclusion-14720",
     "card_sets": [
         {
+            "set_name": "OTS Tournament Pack 29",
+            "set_code": "OP29-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN061",
             "set_rarity": "Common",
@@ -30,8 +37,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.15",
-            "tcgplayer_price": "0.08",
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.12",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

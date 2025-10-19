@@ -23,6 +23,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "OTS Tournament Pack 29",
+            "set_code": "OP29-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Cyberse Link",
             "set_code": "SDCL-EN030",
             "set_rarity": "Common",
@@ -40,8 +47,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.87",
-            "tcgplayer_price": "1.76",
+            "cardmarket_price": "0.83",
+            "tcgplayer_price": "1.69",
             "ebay_price": "4.39",
             "amazon_price": "3.49",
             "coolstuffinc_price": "1.99"

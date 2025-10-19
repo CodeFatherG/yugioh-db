@@ -20,6 +20,15 @@
     "attribute": "DARK",
     "scale": 0,
     "ygoprodeck_url": "https://ygoprodeck.com/card/miracle-raven-15151",
+    "card_sets": [
+        {
+            "set_name": "OTS Tournament Pack 29",
+            "set_code": "OP29-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 18988396,
@@ -31,7 +40,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.15",
-            "tcgplayer_price": "0.08",
+            "tcgplayer_price": "0.12",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

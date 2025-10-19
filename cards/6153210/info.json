@@ -15,6 +15,13 @@
             "set_rarity": "Super Rare",
             "set_rarity_code": "(SR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 29",
+            "set_code": "OP29-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
         }
     ],
     "banlist_info": {
@@ -30,8 +37,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.21",
-            "tcgplayer_price": "0.14",
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.25",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

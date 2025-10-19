@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/mitsurugi-no-mikoto-saji-14831",
     "card_sets": [
         {
+            "set_name": "OTS Tournament Pack 29",
+            "set_code": "OP29-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN091",
             "set_rarity": "Common",
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.17",
-            "tcgplayer_price": "0.16",
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.19",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
