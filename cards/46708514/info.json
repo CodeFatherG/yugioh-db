@@ -1,0 +1,35 @@
+{
+    "id": 46708514,
+    "name": "Dark Staring at the Blue Sky",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If a monster(s) is Special Summoned from the Deck and/or Extra Deck by an opponent's activated monster effect, while this card is in your GY: You can Special Summon this card. When a monster effect is activated that includes an effect that Special Summons a monster(s) (Quick Effect): You can banish 1 card from your hand or field; negate that effect, and if you do, destroy that card. During the End Phase, if this card is currently banished, and was banished this turn: You can return 1 of your other banished monsters to the GY. You can only use each effect of \"Dark Staring at the Blue Sky\" once per turn.",
+    "race": "Reptile",
+    "atk": 3000,
+    "def": 2700,
+    "level": 10,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-staring-at-the-blue-sky-15377",
+    "card_images": [
+        {
+            "id": 46708514,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46708514.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46708514.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46708514.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

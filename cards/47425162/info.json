@@ -1,0 +1,36 @@
+{
+    "id": 47425162,
+    "name": "Rescue-ACE Quick Attacker",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can shuffle 1 other \"Rescue-ACE\" card from your hand or face-up field into the Deck; Special Summon this card from your hand. You can Tribute this card; add 1 \"Rescue-ACE\" monster from your Deck to your hand, then you can Special Summon it if only your opponent controls a monster, also you cannot Special Summon from the Extra Deck for the rest of this turn, except FIRE monsters. You can only use each effect of \"Rescue-ACE Quick Attacker\" once per turn.",
+    "race": "Warrior",
+    "atk": 1400,
+    "def": 1400,
+    "level": 3,
+    "attribute": "FIRE",
+    "archetype": "Rescue-ACE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rescue-ace-quick-attacker-15370",
+    "card_images": [
+        {
+            "id": 47425162,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47425162.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47425162.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47425162.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

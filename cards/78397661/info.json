@@ -1,0 +1,37 @@
+{
+    "id": 78397661,
+    "name": "Ecclesia of the Black Dragon",
+    "typeline": [
+        "Spellcaster",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nDuring the Main Phase (Quick Effect): You can banish this card (until the End Phase), and if you do, Special Summon 1 \"Fallen of Albaz\" or 1 Level 4 or lower monster that mentions it from your Deck or GY. If this card is in your GY: You can target 1 Level 8 Fusion Monster in your GY or banishment and 1 card on the field; shuffle both and this card into the Deck. You can only use each effect of \"Ecclesia of the Black Dragon\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 2500,
+    "def": 2500,
+    "level": 8,
+    "attribute": "LIGHT",
+    "archetype": "Ecclesia",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ecclesia-of-the-black-dragon-15372",
+    "card_images": [
+        {
+            "id": 78397661,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78397661.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78397661.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78397661.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

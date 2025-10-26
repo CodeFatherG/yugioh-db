@@ -1,0 +1,36 @@
+{
+    "id": 12975671,
+    "name": "First Penguin",
+    "typeline": [
+        "Winged Beast",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If you control no face-up monsters, you can Special Summon this card (from your hand), and if you do, it is treated as a Tuner. You can discard 1 card and reveal 1 WATER Synchro Monster in your Extra Deck; add 1 WATER monster with the same Type as the revealed monster, but 1 Level lower, from your Deck to your hand, then you can change this card to face-down Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except WATER monsters. You can only use this effect of \"First Penguin\" once per turn.",
+    "race": "Winged Beast",
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "attribute": "WATER",
+    "archetype": "Penguin",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/first-penguin-15378",
+    "card_images": [
+        {
+            "id": 12975671,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12975671.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12975671.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12975671.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

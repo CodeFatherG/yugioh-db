@@ -1,0 +1,37 @@
+{
+    "id": 12375297,
+    "name": "Elvennotes Power Patron",
+    "typeline": [
+        "Fiend",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "You cannot Special Summon from the Extra Deck, except Synchro Monsters. You can only use each of the following effects of \"Elvennotes Power Patron\" once per turn. During the Main Phase (Quick Effect): You can target the monster in your center Main Monster Zone; increase its Level by 3 (until the end of this turn), then immediately after this effect resolves, you can Synchro Summon 1 \"Elvennotes\" monster or \"Junora the Power Patron of Tuning\". If this card is sent to the GY as Synchro Material: You can add 1 \"Elvennotes\" card from your Deck to your hand.",
+    "race": "Fiend",
+    "atk": 300,
+    "def": 200,
+    "level": 1,
+    "attribute": "FIRE",
+    "archetype": "Elvennotes",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/elvennotes-power-patron-15342",
+    "card_images": [
+        {
+            "id": 12375297,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12375297.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12375297.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12375297.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

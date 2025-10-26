@@ -1,0 +1,37 @@
+{
+    "id": 42125140,
+    "name": "Dracotail Shaurus",
+    "typeline": [
+        "Dragon",
+        "Fusion",
+        "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "1 \"Dracotail\" monster + 1 monster in the hand\r\nYou can target 2 \"Dracotail\" cards in your GY, and 1 face-up card on the field of the same type (Monster, Spell, or Trap) as 1 of them; shuffle all 3 into the Deck. If 2 or more monsters are sent to the GY at the same time, while this card is in your GY (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Dracotail Shaurus\" once per turn.",
+    "race": "Dragon",
+    "atk": 2400,
+    "def": 1500,
+    "level": null,
+    "attribute": "LIGHT",
+    "archetype": "Dracotail",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dracotail-shaurus-15327",
+    "card_images": [
+        {
+            "id": 42125140,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42125140.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42125140.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42125140.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 41516133,
+    "name": "Super B.E.S. Metal Slave",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can send up to 5 Level 10 or lower \"B.E.S.\" monsters with different names from your hand and/or Deck to the GY; Special Summon this card from your hand, then place counters on this card equal to the number sent to the GY to activate this effect. You can only use this effect of \"Super B.E.S. Metal Slave\" once per turn. Once per Chain (Quick Effect): You can remove 1 counter from this card, then target 2 face-up cards on the field, including 1 \"B.E.S.\" monster you control; destroy them.",
+    "race": "Machine",
+    "atk": 3100,
+    "def": 3100,
+    "level": 11,
+    "attribute": "DARK",
+    "archetype": "B.E.S.",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/super-b-e-s-metal-slave-15354",
+    "card_images": [
+        {
+            "id": 41516133,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41516133.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41516133.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41516133.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

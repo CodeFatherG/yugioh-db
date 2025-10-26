@@ -1,0 +1,45 @@
+{
+    "id": 66452432,
+    "name": "Borrelshroud Dragon",
+    "typeline": [
+        "Dragon",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "3+ Effect Monsters\r\nYour opponent cannot Tribute this card on the field. Once per turn, during the Main Phase (Quick Effect): You can target 1 \"Rokket\" monster you control; negate the effects of 1 face-up card your opponent controls, then destroy that monster. Your opponent cannot activate cards or effects in response to this effect's activation. Once while face-up on the field, at the start of the Battle Phase: You can Special Summon 1 Link-4 or lower \"Borrel\" Link Monster from your Extra Deck.",
+    "race": "Dragon",
+    "atk": 3500,
+    "def": null,
+    "level": null,
+    "attribute": "DARK",
+    "archetype": "Borrel",
+    "linkval": 5,
+    "linkmarkers": [
+        "Left",
+        "Right",
+        "Bottom-Left",
+        "Bottom",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/borrelshroud-dragon-15302",
+    "card_images": [
+        {
+            "id": 66452432,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66452432.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66452432.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66452432.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
