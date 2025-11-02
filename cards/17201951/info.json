@@ -1,6 +1,6 @@
 {
     "id": 17201951,
-    "name": "Fullspeed Warrior",
+    "name": "Full-Speed Warrior",
     "typeline": [
         "Warrior",
         "Effect"
@@ -8,14 +8,14 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is Normal or Special Summoned: You can add 1 \"Junk Synchron\" or 1 Spell/Trap that mentions \"Junk Warrior\" from your Deck to your hand. You can only use this effect of \"Fullspeed Warrior\" once per turn. Monsters that mention \"Junk Warrior\", and Synchro Monsters with \"Warrior\" in their original names, that you control gain 900 ATK during your Battle Phase only.",
+    "desc": "Monsters you control that mention \"Junk Warrior\", or are a Synchro Monster with \"Warrior\" in their original name, gain 900 ATK during your Battle Phase only. If this card is Normal or Special Summoned: You can add 1 \"Junk Synchron\" or 1 Spell/Trap that mentions \"Junk Warrior\" from your Deck to your hand. You can only use this effect of \"Full-Speed Warrior\" once per turn.",
     "race": "Warrior",
     "atk": 900,
     "def": 400,
     "level": 2,
     "attribute": "WIND",
     "archetype": "Warrior",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/fullspeed-warrior-15249",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/full-speed-warrior-15249",
     "card_images": [
         {
             "id": 17201951,
@@ -26,8 +26,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.31",
+            "tcgplayer_price": "4.95",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

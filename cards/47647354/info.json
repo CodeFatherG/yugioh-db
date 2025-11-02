@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can reveal this card in your hand; Special Summon 1 monster \"Fur Hire\" from your hand, except \"Rex, Gale Fur Hire\", then Special Summon this card. You can only use this effect of \"Rex, Gale Fur Hire\" once per turn. If a card(s) is added from the Deck to your opponent's hand by a non-\"Fur Hire\" card's effect and you control another monster \"Fur Hire\": You can draw 1 card.",
+    "desc": "You can reveal this card in your hand; Special Summon 1 monster \"Fur Hire\" from your hand, except \"Rex, Gale Fur Hire\", then Special Summon this card. You can only use this effect of \"Rex, Gale Fur Hire\" once per turn. If a card(s) is added from the Deck to your opponent's hand by a non-\"Fur Hire\" card's effect and you control another monster \"Fur Hire\" (except during the Damage Step): You can draw 1 card.",
     "race": "Dinosaur",
     "atk": 2000,
     "def": 1200,

@@ -9,7 +9,7 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "\"Junk Synchron\" + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can Special Summon as many Level 2 or lower monsters from your GY as possible, but they cannot activate their effects this turn, also you can only Special Summon once for the rest of this turn. When this card destroys an opponent's monster by battle: You can banish this card; Special Summon 1 \"Junk\" Synchro Monster from your Extra Deck (this is treated as a Synchro Summon). You can only use each effect of \"Junk Warrior Extreme\" once per turn.",
+    "desc": "\"Junk Synchron\" + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can Special Summon as many Level 2 or lower monsters as possible from your GY, but neither player can activate those monsters' effects this turn, also you can only Special Summon one more time this turn. When this card destroys an opponent's monster by battle: You can banish this card; Special Summon 1 \"Junk\" Synchro Monster from your Extra Deck (this is treated as a Synchro Summon). You can only use each effect of \"Junk Warrior Extreme\" once per turn.",
     "race": "Warrior",
     "atk": 2900,
     "def": 2300,
@@ -27,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "3.95",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

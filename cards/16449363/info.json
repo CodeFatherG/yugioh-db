@@ -9,7 +9,7 @@
     "type": "Tuner Monster",
     "humanReadableCardType": "Tuner Effect Monster",
     "frameType": "effect",
-    "desc": "For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner. You can only use each of the following effects of \"Scrap Synchron\" once per turn. If you Synchro Summon a monster that mentions a \"Synchron\" Tuner as material, this card in your hand can also be used as material. If a monster(s) that mentions \"Junk Warrior\", and/or a Synchro Monster(s) with \"Warrior\" in its original name, that you control would be destroyed by battle or card effect, you can banish this card from your field or GY instead.",
+    "desc": "For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner. You can only use each of the following effects of \"Scrap Synchron\" once per turn. If you Synchro Summon a monster that mentions a \"Synchron\" Tuner as material, this card in your hand can also be used as material. If a monster(s) you control (that mentions \"Junk Warrior\" or is a Synchro Monster with \"Warrior\" in its original name) would be destroyed by battle or card effect, you can banish this card from your field or GY instead.",
     "race": "Machine",
     "atk": 700,
     "def": 100,
@@ -27,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "3.95",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
