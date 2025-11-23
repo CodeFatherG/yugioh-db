@@ -1,0 +1,37 @@
+{
+    "id": 32289031,
+    "name": "Tellarknight Constellar Delteros",
+    "typeline": [
+        "Warrior",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "3+ Level 4 monsters\r\nYour opponent cannot target Rank 5 or higher \"tellarknight\" or \"Constellar\" Xyz Monsters you control with card effects. Once per turn: You can detach 1 material from this card; add 1 \"tellarknight\" or \"Constellar\" monster from your Deck to your hand, then immediately after this effect resolves, you can Normal Summon 1 LIGHT monster. If this card is sent to the GY, except from the field: You can Special Summon 1 \"tellarknight\" or \"Constellar\" monster from your hand or banishment.",
+    "race": "Warrior",
+    "atk": 2500,
+    "def": 2500,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "Constellar",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tellarknight-constellar-delteros-15401",
+    "card_images": [
+        {
+            "id": 32289031,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32289031.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32289031.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32289031.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

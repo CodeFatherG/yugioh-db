@@ -1,0 +1,44 @@
+{
+    "id": 70522875,
+    "name": "Dragunity Lord - Georgius",
+    "typeline": [
+        "Dragon",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2+ monsters, including a Tuner\r\nYour opponent cannot activate the effects of monsters in the GY while this card is equipped with a \"Dragunity\" card. You can only use each of the following effects of \"Dragunity Lord - Georgius\" once per turn. If this card is Link Summoned, or your opponent Special Summons a monster(s) (except during the Damage Step): You can Special Summon 1 Level 5 or higher \"Dragunity\" monster from your Extra Deck or GY. When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can send 1 Equip Card you control to the GY; negate that effect.",
+    "race": "Dragon",
+    "atk": 2400,
+    "def": null,
+    "level": null,
+    "attribute": "WIND",
+    "archetype": "Dragunity",
+    "linkval": 4,
+    "linkmarkers": [
+        "Left",
+        "Right",
+        "Bottom-Left",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-lord-georgius-15387",
+    "card_images": [
+        {
+            "id": 70522875,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70522875.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70522875.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70522875.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 32467459,
+    "name": "El Shaddoll Meshahrail",
+    "typeline": [
+        "Machine",
+        "Fusion",
+        "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "1 \"Shaddoll\" monster + 1 DARK monster + 1 EARTH monster\r\nMust be Fusion Summoned. Unaffected by your opponent's activated Spell/Trap effects and by activated effects from opponent's monsters whose original Level/Rank is lower than this card's current Level. Once per turn: You can pay 800 LP; add 1 \"Shaddoll\" card or \"Void\" Spell/Trap from your Deck to your hand. If this card is sent to the GY: You can Special Summon 1 \"Shaddoll\" monster from your GY.",
+    "race": "Machine",
+    "atk": 2800,
+    "def": 1000,
+    "level": 10,
+    "attribute": "EARTH",
+    "archetype": "Shaddoll",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/el-shaddoll-meshahrail-15398",
+    "card_images": [
+        {
+            "id": 32467459,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32467459.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32467459.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32467459.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

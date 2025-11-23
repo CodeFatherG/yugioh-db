@@ -1,0 +1,37 @@
+{
+    "id": 72867001,
+    "name": "Commander Souza, Swordmaster",
+    "typeline": [
+        "Warrior",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ EARTH monsters\r\n(This card is always treated as an \"X-Saber\" card.)\r\nGains 200 ATK for each banished monster. When this card destroys a monster by battle: You can draw 1 card. Once per turn, when your opponent activates a card or effect (Quick Effect): You can Tribute 1 \"X-Saber\" monster; destroy 1 card your opponent controls. If this card would be destroyed by battle or card effect, you can banish 1 \"Saber\" card from your GY instead.",
+    "race": "Warrior",
+    "atk": 2500,
+    "def": 1600,
+    "level": 10,
+    "attribute": "EARTH",
+    "archetype": "Saber",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/commander-souza-swordmaster-15392",
+    "card_images": [
+        {
+            "id": 72867001,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72867001.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72867001.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72867001.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
