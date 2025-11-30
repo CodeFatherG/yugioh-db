@@ -1,6 +1,6 @@
 {
     "id": 28454232,
-    "name": "Enneacraft - Asta\u03b3.PIXIEA",
+    "name": "Enneacraft - Asta.PIXEA",
     "typeline": [
         "Machine",
         "Pendulum",
@@ -10,17 +10,26 @@
     "type": "Pendulum Flip Effect Monster",
     "humanReadableCardType": "Pendulum Flip Effect Monster",
     "frameType": "effect_pendulum",
-    "desc": "[ Pendulum Effect ] \nEach time a monster(s) is flipped face-up, place 1 Sinquisition Counter on this card. At the end of the Battle Phase, if you have an \"Enneacraft\" card in your other Pendulum Zone: You can target 1 monster your opponent controls with less ATK than this card; destroy it.\n\n[ Monster Effect ] \nYou can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can change this Set card to face-up Defense Position; negate that effect, then you can banish 1 random card from your opponent's hand, face-down. After this card was flipped face-up, while it is in the Monster Zone, your opponent cannot target cards in the field or GY with card effects.",
+    "desc": "[ Pendulum Effect ] \nEach time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. At the end of the Battle Phase, if you have an \"Enneacraft\" card in your other Pendulum Zone: You can target 1 monster your opponent controls with less ATK than this card; destroy it.\n\n[ Monster Effect ] \nAfter this card was flipped face-up, while it is in the Monster Zone, your opponent cannot target cards in the field or GYs with card effects. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can change this face-down card to face-up Defense Position; negate that effect, then you can banish (face-down) 1 random card from your opponent's hand. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.",
     "race": "Machine",
-    "pend_desc": "Each time a monster(s) is flipped face-up, place 1 Sinquisition Counter on this card. At the end of the Battle Phase, if you have an \"Enneacraft\" card in your other Pendulum Zone: You can target 1 monster your opponent controls with less ATK than this card; destroy it.",
-    "monster_desc": "You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can change this Set card to face-up Defense Position; negate that effect, then you can banish 1 random card from your opponent's hand, face-down. After this card was flipped face-up, while it is in the Monster Zone, your opponent cannot target cards in the field or GY with card effects.",
+    "pend_desc": "Each time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. At the end of the Battle Phase, if you have an \"Enneacraft\" card in your other Pendulum Zone: You can target 1 monster your opponent controls with less ATK than this card; destroy it.",
+    "monster_desc": "After this card was flipped face-up, while it is in the Monster Zone, your opponent cannot target cards in the field or GYs with card effects. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can change this face-down card to face-up Defense Position; negate that effect, then you can banish (face-down) 1 random card from your opponent's hand. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.",
     "atk": 3000,
     "def": 2500,
     "level": 9,
     "attribute": "LIGHT",
     "archetype": "Enneacraft",
     "scale": 0,
-    "ygoprodeck_url": "https://ygoprodeck.com/card/enneacraft-asta\u03b3-pixiea-15261",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/enneacraft-asta-pixea-15261",
+    "card_sets": [
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN021",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 28454232,
@@ -31,8 +40,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "2.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -1,13 +1,29 @@
 {
     "id": 29792472,
-    "name": "Yad al Hecahands",
+    "name": "Yad'al-Hecahands",
     "type": "Trap Card",
     "humanReadableCardType": "Counter Trap",
     "frameType": "trap",
-    "desc": "When your opponent activates a Spell/Trap Card and you control a \"Hecahands\" monster: Negate the activation, and if you do, destroy that card, then you can Set the destroyed Spell/Trap to your field. You can only activate 1 \"Yad al Hecahands\" per turn.",
+    "desc": "When your opponent activates a Spell/Trap Card, while you control a \"Hecahands\" monster: Negate the activation, and if you do, destroy that card, then you can Set the destroyed Spell/Trap to your field. You can only activate 1 \"Yad'al-Hecahands\" per turn.",
     "race": "Counter",
     "archetype": "Hecahands",
     "ygoprodeck_url": "https://ygoprodeck.com/card/yad-al-hecahands-15246",
+    "card_sets": [
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN011",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 29792472,
@@ -18,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "2.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

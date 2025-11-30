@@ -1,6 +1,6 @@
 {
     "id": 67021206,
-    "name": "Hecahands Jawza",
+    "name": "Hecahands Jauzah",
     "typeline": [
         "Illusion",
         "Fusion",
@@ -9,14 +9,37 @@
     "type": "Fusion Monster",
     "humanReadableCardType": "Fusion Effect Monster",
     "frameType": "fusion",
-    "desc": "1 \"Hecahands\" monster + 1 Illusion monster\r\nMust first be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 Illusion monster and 1 face-up monster you control owned by your opponent. During your Main Phase: You can add 1 \"Hecahands\" card from your Deck or GY to your hand. You can only use this effect of \"Hecahands Jawza\" once per turn. If this card battles a monster, neither can be destroyed by that battle.",
+    "desc": "1 \"Hecahands\" monster + 1 Illusion monster\r\nMust first be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 2 monsters you control (1 face-up monster owned by your opponent and 1 Illusion monster). If this card battles a monster, neither can be destroyed by that battle. During your Main Phase: You can add 1 \"Hecahands\" card from your Deck or GY to your hand. You can only use this effect of \"Hecahands Jauzah\" once per turn.",
     "race": "Illusion",
     "atk": 2400,
     "def": 2500,
     "level": 8,
     "attribute": "LIGHT",
     "archetype": "Hecahands",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/hecahands-jawza-15233",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hecahands-jauzah-15233",
+    "card_sets": [
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN006",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN006",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN006",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 67021206,
@@ -27,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "10.62",
+            "tcgplayer_price": "15.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

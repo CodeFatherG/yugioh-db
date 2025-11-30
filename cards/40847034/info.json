@@ -1,13 +1,22 @@
 {
     "id": 40847034,
-    "name": "Killer Tune Playlist",
+    "name": "Kewl Tune Playlist",
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Target 1 \"Killer Tune\" monster in your field or GY; apply these effects, in sequence, also you cannot Special Summon for the rest of this turn after this card resolves, except Tuners.\r\n\u25cf Apply its effect that activates if sent to the GY as Synchro Material.\r\n\u25cf Return it to the hand.\r\nYou can only activate 2 \"Killer Tune Playlist\" per turn.",
+    "desc": "Target 1 \"Kewl Tune\" monster in your field or GY; apply these effects in sequence, also for the rest of this turn after this card resolves, you cannot Special Summon, except Tuners.\r\n\u25cf Apply that target's effect that activates when it is sent to the GY as Synchro Material.\r\n\u25cf Return that target to the hand.\r\nYou can activate up to 2 \"Kewl Tune Playlist\" per turn.",
     "race": "Normal",
-    "archetype": "Killer Tune",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/killer-tune-playlist-15236",
+    "archetype": "Kewl Tune",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kewl-tune-playlist-15236",
+    "card_sets": [
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN041",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 40847034,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "2.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

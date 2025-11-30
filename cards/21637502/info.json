@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Hecahands Breus\" once per turn. If a card(s) is added to your opponent's hand (except during the Draw Phase or Damage Step): You can Special Summon this card from your hand. During your Main Phase: You can look at 1 random card in your opponent's hand, and if it is a monster, you can Special Summon it to your field.",
+    "desc": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Hecahands Breus\" once per turn. If a card(s) is added to your opponent's hand (except during the Draw Phase or Damage Step): You can Special Summon this card from your hand. During your Main Phase: You can look at 1 random card in your opponent's hand, then if it is a monster, you can Special Summon it to your field.",
     "race": "Illusion",
     "atk": 2800,
     "def": 1300,
@@ -16,6 +16,22 @@
     "attribute": "DARK",
     "archetype": "Hecahands",
     "ygoprodeck_url": "https://ygoprodeck.com/card/hecahands-breus-15225",
+    "card_sets": [
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN005",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 21637502,
@@ -26,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "2.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

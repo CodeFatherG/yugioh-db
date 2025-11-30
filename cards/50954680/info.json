@@ -102,6 +102,13 @@
             "set_price": "0.00"
         },
         {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN059",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Shining Victories",
             "set_code": "SHVI-EN049",
             "set_rarity": "Secret Rare",
@@ -119,7 +126,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.28",
+            "cardmarket_price": "0.10",
             "tcgplayer_price": "0.21",
             "ebay_price": "14.49",
             "amazon_price": "6.47",

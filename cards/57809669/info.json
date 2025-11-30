@@ -1,13 +1,22 @@
 {
     "id": 57809669,
-    "name": "Hecahands Tartarus",
+    "name": "Hecahands Tartaros",
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Activate 1 of these effects (but you can only use each effect of \"Hecahands Tartarus\" once per turn);\r\n\u25cf If you control a \"Hecahands\" monster: Target 1 Spell/Trap your opponent controls; return it to the hand.\r\n\u25cf Fusion Summon 1 \"Hecahands\" Fusion Monster from your Extra Deck, by banishing its materials from your field and/or GY. If you use a face-up monster(s) you control owned by your opponent, you can treat it as a \"Hecahands\" monster.",
+    "desc": "Activate 1 of these effects (but you can only use each effect of \"Hecahands Tartaros\" once per turn);\r\n\u25cf If you control a \"Hecahands\" monster: You can target 1 Spell/Trap your opponent controls; return it to the hand.\r\n\u25cf Fusion Summon 1 \"Hecahands\" Fusion Monster from your Extra Deck, by banishing its materials from your field and/or GY. If you use a face-up monster you control that is owned by your opponent as material, you can treat it as a \"Hecahands\" monster.",
     "race": "Quick-Play",
     "archetype": "Hecahands",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/hecahands-tartarus-15230",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hecahands-tartaros-15230",
+    "card_sets": [
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN009",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 57809669,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "2.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

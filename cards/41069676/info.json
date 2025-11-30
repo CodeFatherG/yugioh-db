@@ -1,6 +1,6 @@
 {
     "id": 41069676,
-    "name": "Killer Tune Loudness War",
+    "name": "Kewl Tune Loudness War",
     "typeline": [
         "Machine",
         "Synchro",
@@ -10,14 +10,23 @@
     "type": "Synchro Tuner Monster",
     "humanReadableCardType": "Synchro Tuner Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Tuner + 1+ Tuners\r\nOther Tuners you control cannot be destroyed by card effects, also your opponent cannot target them with card effects. When your opponent activates a card or effect (Quick Effect): You can banish 1 \"Killer Tune\" monster from your GY; apply its effect that activates if sent to the GY as Synchro Material. You can only use this effect of \"Killer Tune Loudness War\" once per turn.",
+    "desc": "2+ Tuners\r\nOther Tuners you control cannot be destroyed by card effects, also your opponent cannot target them with card effects. When your opponent activates a card or effect (Quick Effect): You can banish 1 \"Kewl Tune\" monster from your GY; apply that banished monster's effect that activates when it is sent to the GY as Synchro Material. You can only use this effect of \"Kewl Tune Loudness War\" once per turn.",
     "race": "Machine",
     "atk": 0,
     "def": 3000,
     "level": 6,
     "attribute": "LIGHT",
-    "archetype": "Killer Tune",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/killer-tune-loudness-war-15224",
+    "archetype": "Kewl Tune",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kewl-tune-loudness-war-15224",
+    "card_sets": [
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN038",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 41069676,
@@ -28,8 +37,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.98",
+            "tcgplayer_price": "2.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

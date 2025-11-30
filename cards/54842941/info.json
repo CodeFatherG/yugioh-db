@@ -1,6 +1,6 @@
 {
     "id": 54842941,
-    "name": "Enneacraft - Atori\u03dd.MAR",
+    "name": "Enneacraft - Atori.MAR",
     "typeline": [
         "Machine",
         "Pendulum",
@@ -10,17 +10,40 @@
     "type": "Pendulum Flip Effect Monster",
     "humanReadableCardType": "Pendulum Flip Effect Monster",
     "frameType": "effect_pendulum",
-    "desc": "[ Pendulum Effect ] \nEach time a monster(s) is flipped face-up, place 1 Sinquisition Counter on this card. At the end of the Battle Phase, if you have an \"Enneacraft\" card in your other Pendulum Zone: You can target 1 monster your opponent controls with less ATK than this card; destroy it.\n\n[ Monster Effect ] \nFLIP: Change all monsters your opponent controls to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.\r\nYou can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position. When your opponent activates a card or effect on the field during your turn (Quick Effect): You can change this Set card to face-up Defense Position; negate the activation, and if you do, destroy that card.",
+    "desc": "[ Pendulum Effect ] \nEach time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. At the end of the Battle Phase, if you have an \"Enneacraft\" card in your other Pendulum Zone: You can target 1 monster your opponent controls with less ATK than this card; destroy it.\n\n[ Monster Effect ] \nFLIP: Change all your opponent's monsters to face-down Defense Position. The monsters that were, cannot change their battle positions.\r\nDuring your turn, when your opponent activates a card or effect on the field (Quick Effect): You can change this face-down card to face-up Defense Position; negate the activation, and if you do, destroy that card. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.",
     "race": "Machine",
-    "pend_desc": "Each time a monster(s) is flipped face-up, place 1 Sinquisition Counter on this card. At the end of the Battle Phase, if you have an \"Enneacraft\" card in your other Pendulum Zone: You can target 1 monster your opponent controls with less ATK than this card; destroy it.",
-    "monster_desc": "FLIP: Change all monsters your opponent controls to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.\r\nYou can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position. When your opponent activates a card or effect on the field during your turn (Quick Effect): You can change this Set card to face-up Defense Position; negate the activation, and if you do, destroy that card.",
+    "pend_desc": "Each time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. At the end of the Battle Phase, if you have an \"Enneacraft\" card in your other Pendulum Zone: You can target 1 monster your opponent controls with less ATK than this card; destroy it.",
+    "monster_desc": "FLIP: Change all your opponent's monsters to face-down Defense Position. The monsters that were, cannot change their battle positions.\r\nDuring your turn, when your opponent activates a card or effect on the field (Quick Effect): You can change this face-down card to face-up Defense Position; negate the activation, and if you do, destroy that card. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.",
     "atk": 3000,
     "def": 2500,
     "level": 9,
     "attribute": "LIGHT",
     "archetype": "Enneacraft",
     "scale": 0,
-    "ygoprodeck_url": "https://ygoprodeck.com/card/enneacraft-atori\u03dd-mar-15257",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/enneacraft-atori-mar-15257",
+    "card_sets": [
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN022",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN022",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN022",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 54842941,
@@ -32,7 +55,7 @@
     "card_prices": [
         {
             "cardmarket_price": "11.00",
-            "tcgplayer_price": "0.00",
+            "tcgplayer_price": "32.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

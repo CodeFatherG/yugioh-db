@@ -1,6 +1,6 @@
 {
     "id": 16387555,
-    "name": "Killer Tune Cue",
+    "name": "Kewl Tune Cue",
     "typeline": [
         "Fairy",
         "Tuner",
@@ -9,14 +9,30 @@
     "type": "Tuner Monster",
     "humanReadableCardType": "Tuner Effect Monster",
     "frameType": "effect",
-    "desc": "If this card on the field would be used as Synchro Material, 1 Tuner in your hand can be used as 1 of the other materials. You can only use each of the following effects of \"Killer Tune Cue\" once per turn. If this card is Normal Summoned: You can Special Summon 1 Tuner from your hand, Deck, or GY, except \"Killer Tune Cue\", also you cannot Special Summon for the rest of this turn, except Tuners. If this card is sent to the GY as Synchro Material: You can excavate the top 2 cards of your opponent's Deck, banish 1 excavated card, also place the other on the top or bottom of the Deck.",
+    "desc": "If this card on the field would be used as Synchro Material, 1 Tuner in your hand can be used as 1 of the other materials. You can only use each of the following effects of \"Kewl Tune Cue\" once per turn. If this card is Normal Summoned: You can Special Summon 1 Tuner from your hand, Deck, or GY, except \"Kewl Tune Cue\", also for the rest of this turn you cannot Special Summon, except Tuners. If this card is sent to the GY as Synchro Material: You can excavate 2 cards from the top of your opponent's Deck, banish 1 of them, and place the other on the top or bottom of the Deck.",
     "race": "Fairy",
     "atk": 900,
     "def": 1900,
     "level": 3,
     "attribute": "LIGHT",
-    "archetype": "Killer Tune",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/killer-tune-cue-15258",
+    "archetype": "Kewl Tune",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kewl-tune-cue-15258",
+    "card_sets": [
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN034",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN034",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 16387555,
@@ -27,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "15.07",
+            "tcgplayer_price": "25.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

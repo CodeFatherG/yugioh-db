@@ -53,6 +53,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN013",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Premium Gold: Infinite Gold",
             "set_code": "PGL3-EN063",
             "set_rarity": "Gold Rare",
@@ -133,8 +140,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.25",
-            "tcgplayer_price": "0.18",
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.17",
             "ebay_price": "39.99",
             "amazon_price": "11.99",
             "coolstuffinc_price": "7.99"

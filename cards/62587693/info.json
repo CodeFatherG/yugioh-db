@@ -3,10 +3,11 @@
     "name": "Deus X-Krawler",
     "typeline": [
         "Insect",
+        "Flip",
         "Effect"
     ],
-    "type": "Effect Monster",
-    "humanReadableCardType": "Effect Monster",
+    "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
     "frameType": "effect",
     "desc": "When your opponent activates a card or effect that targets this face-down monster (Quick Effect): You can change this card to face-up Defense Position; negate the activation, and if you do, destroy that card. After this card was flipped face-up, while it is in the Monster Zone, negate all monster effects activated on your opponent's field. If this card on the field is destroyed by battle or card effect: You can add, from your Deck to your hand, 1 Level 9 monster with a different original Type and Attribute than this card. You can only use this effect of \"Deus X-Krawler\" once per turn.",
     "race": "Insect",
@@ -35,8 +36,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.17",
-            "tcgplayer_price": "0.12",
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.15",
             "ebay_price": "0.99",
             "amazon_price": "0.25",
             "coolstuffinc_price": "0.49"

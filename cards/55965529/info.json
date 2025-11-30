@@ -1,6 +1,6 @@
 {
     "id": 55965529,
-    "name": "Enneacraft \u03b8' \"oknirIA\"",
+    "name": "Enato Enneacraft - \"oknirIA\"",
     "typeline": [
         "Machine",
         "Pendulum",
@@ -10,17 +10,26 @@
     "type": "Pendulum Flip Effect Monster",
     "humanReadableCardType": "Pendulum Flip Effect Monster",
     "frameType": "effect_pendulum",
-    "desc": "[ Pendulum Effect ] \nEach time a monster(s) is flipped face-up, place 1 Sinquisition Counter on this card. You can pay 900 LP; reveal 3 \"Enneacraft\" cards from your Deck, your opponent randomly picks 1 for you to add to your hand, also you shuffle the rest back into the Deck. You can only use this effect of \"Enneacraft \u03b8' \"oknirIA\"\" once per turn.\n\n[ Monster Effect ] \nFLIP: Shuffle up to 3 cards from your opponent's GY and/or banishment into the Deck.\r\nYou can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position. When your opponent activates a card effect in the GY or banishment (Quick Effect): You can change this Set card to face-up Defense Position; add 1 \"Enneacraft\" card from your Deck to your hand.",
+    "desc": "[ Pendulum Effect ] \nEach time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. You can pay 900 LP; reveal 3 \"Enneacraft\" cards from your Deck, your opponent randomly picks 1 for you to add to your hand, shuffle the rest into the Deck. You can only use this effect of \"Enato Enneacraft - \"oknirIA\"\" once per turn.\n\n[ Monster Effect ] \nFLIP: Shuffle up to 3 cards from your opponent's GY and/or banishment into the Deck.\r\nWhen your opponent activates a card effect in the GY or banishment (Quick Effect): You can change this face-down card to face-up Defense Position; add 1 \"Enneacraft\" card from your Deck to your hand. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.",
     "race": "Machine",
-    "pend_desc": "Each time a monster(s) is flipped face-up, place 1 Sinquisition Counter on this card. You can pay 900 LP; reveal 3 \"Enneacraft\" cards from your Deck, your opponent randomly picks 1 for you to add to your hand, also you shuffle the rest back into the Deck. You can only use this effect of \"Enneacraft \u03b8' \"oknirIA\"\" once per turn.",
-    "monster_desc": "FLIP: Shuffle up to 3 cards from your opponent's GY and/or banishment into the Deck.\r\nYou can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position. When your opponent activates a card effect in the GY or banishment (Quick Effect): You can change this Set card to face-up Defense Position; add 1 \"Enneacraft\" card from your Deck to your hand.",
+    "pend_desc": "Each time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. You can pay 900 LP; reveal 3 \"Enneacraft\" cards from your Deck, your opponent randomly picks 1 for you to add to your hand, shuffle the rest into the Deck. You can only use this effect of \"Enato Enneacraft - \"oknirIA\"\" once per turn.",
+    "monster_desc": "FLIP: Shuffle up to 3 cards from your opponent's GY and/or banishment into the Deck.\r\nWhen your opponent activates a card effect in the GY or banishment (Quick Effect): You can change this face-down card to face-up Defense Position; add 1 \"Enneacraft\" card from your Deck to your hand. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.",
     "atk": 100,
     "def": 1000,
     "level": 1,
     "attribute": "EARTH",
     "archetype": "Enneacraft",
     "scale": 0,
-    "ygoprodeck_url": "https://ygoprodeck.com/card/enneacraft-\u03b8-okniria-15256",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/enato-enneacraft-okniria-15256",
+    "card_sets": [
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN019",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 55965529,
@@ -31,8 +40,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "2.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

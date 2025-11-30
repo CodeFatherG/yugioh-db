@@ -23,6 +23,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN030",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Quarter Century Stampede",
             "set_code": "RA04-EN103",
             "set_rarity": "Collector's Rare",
@@ -82,8 +89,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.43",
-            "tcgplayer_price": "0.26",
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.29",
             "ebay_price": "20.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "3.99"

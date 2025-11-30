@@ -1,13 +1,29 @@
 {
     "id": 93294363,
-    "name": "Ipt al Hecahands",
+    "name": "Ib'al-Hecahands",
     "type": "Trap Card",
     "humanReadableCardType": "Counter Trap",
     "frameType": "trap",
-    "desc": "When your opponent activates a monster effect and you control a \"Hecahands\" monster: Negate the activation, and if you do, destroy that monster, then you can Special Summon it to your field. You can only activate 1 \"Ipt al Hecahands\" per turn.",
+    "desc": "When your opponent activates a monster effect, while you control a \"Hecahands\" monster: Negate the activation, and if you do, destroy that monster, then you can Special Summon the destroyed monster to your field. You can only activate 1 \"Ib'al-Hecahands\" per turn.",
     "race": "Counter",
     "archetype": "Hecahands",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/ipt-al-hecahands-15247",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ib-al-hecahands-15247",
+    "card_sets": [
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 93294363,
@@ -18,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "2.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

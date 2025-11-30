@@ -31,6 +31,13 @@
             "set_rarity": "Common",
             "set_rarity_code": "(C)",
             "set_price": "0.00"
+        },
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN057",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.67",
-            "tcgplayer_price": "4.59",
+            "cardmarket_price": "0.45",
+            "tcgplayer_price": "4.50",
             "ebay_price": "2.49",
             "amazon_price": "1.79",
             "coolstuffinc_price": "0.39"

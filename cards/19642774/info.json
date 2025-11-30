@@ -26,6 +26,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN042",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Synchron Extreme Structure Deck",
             "set_code": "SDSE-EN009",
             "set_rarity": "Common",
@@ -57,7 +64,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
+            "cardmarket_price": "0.10",
             "tcgplayer_price": "0.12",
             "ebay_price": "0.99",
             "amazon_price": "0.30",
