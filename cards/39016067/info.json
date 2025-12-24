@@ -1,0 +1,40 @@
+{
+    "id": 39016067,
+    "name": "Wind Unicorn Parallel, the Dracoslayer",
+    "typeline": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
+    "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
+    "desc": "[ Pendulum Effect ] \nIf you have a card in your other Pendulum Zone: You can activate 1 of these effects;\r\n\u25cf Special Summon this card.\r\n\u25cf Destroy this card, and if you do, Special Summon 1 Level 5 or lower Pendulum Monster Card from your Pendulum Zone.\r\nYou can only use this effect of \"Wind Unicorn Parallel, the Dracoslayer\" once per turn.\n\n[ Monster Effect ] \nWhile this Pendulum Summoned card is in your Monster Zone, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. (Quick Effect): You can target 1 Pendulum Monster Card you control and 1 card your opponent controls; return them to the hand. You can only use this effect of \"Wind Unicorn Parallel, the Dracoslayer\" once per turn.",
+    "race": "Spellcaster",
+    "pend_desc": "If you have a card in your other Pendulum Zone: You can activate 1 of these effects;\r\n\u25cf Special Summon this card.\r\n\u25cf Destroy this card, and if you do, Special Summon 1 Level 5 or lower Pendulum Monster Card from your Pendulum Zone.\r\nYou can only use this effect of \"Wind Unicorn Parallel, the Dracoslayer\" once per turn.",
+    "monster_desc": "While this Pendulum Summoned card is in your Monster Zone, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. (Quick Effect): You can target 1 Pendulum Monster Card you control and 1 card your opponent controls; return them to the hand. You can only use this effect of \"Wind Unicorn Parallel, the Dracoslayer\" once per turn.",
+    "atk": 2000,
+    "def": 2000,
+    "level": 6,
+    "attribute": "WIND",
+    "archetype": "Dracoslayer",
+    "scale": 2,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wind-unicorn-parallel-the-dracoslayer-15406",
+    "card_images": [
+        {
+            "id": 39016067,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39016067.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39016067.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39016067.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
