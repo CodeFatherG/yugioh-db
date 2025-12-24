@@ -28,6 +28,13 @@
         {
             "set_name": "Phantom Revenge",
             "set_code": "PHRE-EN034",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN034",
             "set_rarity": "Ultra Rare",
             "set_rarity_code": "(UR)",
             "set_price": "0"
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "15.07",
-            "tcgplayer_price": "25.00",
+            "cardmarket_price": "5.72",
+            "tcgplayer_price": "11.82",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

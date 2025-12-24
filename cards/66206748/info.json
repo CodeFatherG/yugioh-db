@@ -1,0 +1,36 @@
+{
+    "id": 66206748,
+    "name": "Masked HERO Fountain",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can reveal this card in your hand; Special Summon 1 \"HERO\" monster from your hand in Defense Position. If this card is sent to the GY to activate a card effect, or by card effect: You can Set 1 \"Mask Change\" from your Deck or GY. You can only use each effect of \"Masked HERO Fountain\" once per turn.",
+    "race": "Warrior",
+    "atk": 1000,
+    "def": 1400,
+    "level": 4,
+    "attribute": "WATER",
+    "archetype": "Masked HERO",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/masked-hero-fountain-15432",
+    "card_images": [
+        {
+            "id": 66206748,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66206748.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66206748.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66206748.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

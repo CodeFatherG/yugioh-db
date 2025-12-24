@@ -1,0 +1,36 @@
+{
+    "id": 30875635,
+    "name": "Miracle Ejector",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "(This card is always treated as an \"Elemental HERO\" card.)\r\nYou can send 1 \"Neo-Spacian\" monster from your Deck to the GY; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 Spell/Trap that mentions an \"Elemental HERO\" monster's card name from your Deck to your hand. If this card is sent to the GY: You can target 1 card in your opponent's GY; banish it. You can only use each effect of \"Miracle Ejector\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 400,
+    "def": 400,
+    "level": 3,
+    "attribute": "EARTH",
+    "archetype": "HERO",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/miracle-ejector-15413",
+    "card_images": [
+        {
+            "id": 30875635,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30875635.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30875635.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30875635.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

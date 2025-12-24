@@ -1,0 +1,35 @@
+{
+    "id": 32126000,
+    "name": "Learning Elf",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can Set 1 Trap from your Deck with an effect that equips itself to a monster. If this card is sent from the field to the GY: You can draw 1 card. You can only use each effect of \"Learning Elf\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 1400,
+    "def": 1500,
+    "level": 3,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/learning-elf-15433",
+    "card_images": [
+        {
+            "id": 32126000,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32126000.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32126000.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32126000.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
