@@ -1,0 +1,36 @@
+{
+    "id": 96228804,
+    "name": "Regulus, the Prince of Endymion",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "The first time this card would be destroyed by battle each turn, it is not destroyed. You can only use each of the following effects of \"Regulus, the Prince of Endymion\" once per turn. If this card is in your hand: You can reveal 1 other Spellcaster monster in your hand; you lose LP equal to the revealed monster's Level x 300, and if you do, Special Summon this card. If this card is Special Summoned: You can add 1 Spell that mentions \"Regulus, the Prince of Endymion\" from your Deck to your hand.",
+    "race": "Spellcaster",
+    "atk": 1700,
+    "def": 1300,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "Endymion",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/regulus-the-prince-of-endymion-15412",
+    "card_images": [
+        {
+            "id": 96228804,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96228804.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96228804.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96228804.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

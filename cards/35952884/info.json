@@ -39,6 +39,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN143",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN143",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Shonen Jump December 2011 subscription bonus",
             "set_code": "JUMP-EN055",
             "set_rarity": "Ultra Rare",
@@ -56,8 +70,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "2.26",
-            "tcgplayer_price": "1.44",
+            "cardmarket_price": "2.49",
+            "tcgplayer_price": "1.18",
             "ebay_price": "5.00",
             "amazon_price": "5.75",
             "coolstuffinc_price": "2.99"
