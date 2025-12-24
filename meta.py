@@ -6,7 +6,53 @@ class Meta():
     def __init__(self):
         self.path = os.path.join(os.path.dirname(os.path.realpath(__file__)), "meta.json")
 
-    def update(self, start_time: datetime, end_time: datetime, cards_processed: int, total_cards: int, updated_cards: int):
+    def get_last_api_hash(self) -> str | None:
+        """Get API response hash from last run"""
+        if not os.path.exists(self.path):
+            return None
+
+        try:
+            with open(self.path, 'r') as f:
+                data = json.load(f)
+            if data and len(data) > 0:
+                return data[-1].get('api_response_hash')
+        except Exception:
+            pass
+
+        return None
+
+    def get_last_full_verification_date(self) -> str | None:
+        """Get date of last run that performed full hash verification"""
+        if not os.path.exists(self.path):
+            return None
+
+        try:
+            with open(self.path, 'r') as f:
+                data = json.load(f)
+
+            # Search backwards for last run with full verification
+            for entry in reversed(data):
+                if entry.get('full_hash_verifications', 0) > 0:
+                    # Check if it was a full run (not just sample)
+                    if entry.get('cards_processed') == entry.get('cards_found'):
+                        return entry['triggered_time']
+        except Exception:
+            pass
+
+        return None
+
+    def update(
+        self,
+        start_time: datetime,
+        end_time: datetime,
+        cards_processed: int,
+        total_cards: int,
+        updated_cards: list,
+        api_response_hash: str,
+        api_unchanged: bool = False,
+        full_hash_checks: int = 0
+    ):
+        """Update metadata with run information"""
         entry = {
             "triggered_time": start_time.isoformat(),
             "completed_time": end_time.isoformat(),
@@ -14,7 +60,10 @@ class Meta():
             "cards_processed": cards_processed,
             "cards_found": total_cards,
             "cards_updated": len(updated_cards),
-            "updated_cards": updated_cards
+            "updated_cards": updated_cards,
+            "api_response_hash": api_response_hash,
+            "api_unchanged": api_unchanged,
+            "full_hash_verifications": full_hash_checks
         }
 
         if os.path.exists(self.path):
