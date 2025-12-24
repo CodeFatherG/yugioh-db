@@ -45,6 +45,8 @@ class DownloadSession:
                 else:
                     if last_hash:
                         print(f"API response changed: {last_hash[:8]}... -> {current_hash[:8]}...")
+                        # API changed - clear any resume state
+                        Meta().clear_resume_state()
                     else:
                         print(f"First run or no previous hash (hash: {current_hash[:8]}...)")
                     self.__api_unchanged = False
@@ -107,6 +109,28 @@ class DownloadSession:
 
         return updated_cards
 
+    def get_resume_index(self) -> int:
+        """Get starting index for processing (0 or resume point)"""
+        resume_state = Meta().get_resume_state()
+
+        if not resume_state:
+            return 0
+
+        # Invalidate if API changed
+        if resume_state.get('api_hash_at_resume') != self.__api_response_hash:
+            print("API changed since last run, restarting from beginning")
+            Meta().clear_resume_state()
+            return 0
+
+        # Invalidate if completed (reached end)
+        if resume_state.get('last_processed_index', 0) >= self.card_count:
+            print("Previous run completed, restarting from beginning")
+            Meta().clear_resume_state()
+            return 0
+
+        print(f"Resuming from card index {resume_state['last_processed_index']} (found {resume_state.get('updates_found', 0)} updates previously)")
+        return resume_state['last_processed_index']
+
     async def start(self):
         """Main download orchestration"""
         # Fetch API data and check if changed
@@ -118,6 +142,8 @@ class DownloadSession:
 
         if force_full_check:
             print("Performing periodic full hash verification (every 4 weeks)")
+            # Clear resume state for full verification
+            Meta().clear_resume_state()
 
         # Early exit if API unchanged (unless full verification needed)
         if self.__api_unchanged and not force_full_check:
@@ -149,14 +175,18 @@ class DownloadSession:
         # Normal processing
         print(f"Processing {self.cards_to_download} cards in batches of {self.batch_size}...")
         start_time = datetime.now()
+        session_id = start_time.isoformat()
         all_updated_cards = []
         total_processed = 0
         full_hash_checks = 0
 
+        # Get resume index (0 or last processed index)
+        start_index = self.get_resume_index()
+
         semaphore = asyncio.Semaphore(self.concurrent_operations)
 
         async with aiohttp.ClientSession() as session:
-            for i in range(0, self.card_count, self.batch_size):
+            for i in range(start_index, self.card_count, self.batch_size):
                 batch = self.card_info[i:i + self.batch_size]
                 batch_updated = await self.__process_batch(
                     session, batch, semaphore, force_full_check
@@ -169,10 +199,22 @@ class DownloadSession:
 
                 print(f"Processed {total_processed}/{self.card_count} cards. Updated {len(batch_updated)} cards.")
 
+                # Save resume state after each batch
+                Meta().save_resume_state(
+                    index=i + len(batch),
+                    api_hash=self.__api_response_hash,
+                    target=self.cards_to_download,
+                    found=len(all_updated_cards),
+                    session_id=session_id
+                )
+
                 if len(all_updated_cards) >= self.cards_to_download:
                     break
 
         end_time = datetime.now()
+
+        # Clear resume state on completion
+        Meta().clear_resume_state()
 
         Meta().update(
             start_time,
