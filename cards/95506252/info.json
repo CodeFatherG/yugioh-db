@@ -1,0 +1,36 @@
+{
+    "id": 95506252,
+    "name": "Black Jack the Shadow-Armored Knight",
+    "typeline": [
+        "Warrior",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nCannot be destroyed by battle. Each time a card(s) is placed in your opponent's Spell & Trap Zone: Excavate cards from the top of your Deck until you excavate a monster, equip it to this card as an Equip Spell, also place the rest on the bottom of the Deck in any order. Gains ATK/DEF equal to the total Levels of the monsters equipped to this card x 300. If the total Levels of the monsters equipped to this card is greater than 21, destroy this card.",
+    "race": "Warrior",
+    "atk": 0,
+    "def": 0,
+    "level": 10,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/black-jack-the-shadow-armored-knight-15439",
+    "card_images": [
+        {
+            "id": 95506252,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95506252.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95506252.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95506252.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

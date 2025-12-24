@@ -1,0 +1,43 @@
+{
+    "id": 65400671,
+    "name": "Crystron Halqifibrax Prism",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2+ monsters, including a Tuner\r\nIf this card is Link Summoned: You can Special Summon 1 Tuner from your Extra Deck in Defense Position, with a Level less than or equal to the total original Levels of the monsters used as material. During your opponent's Main or Battle Phase (Quick Effect): You can banish this card you control; Special Summon 3 \"Crystron Tokens\" (Machine/WATER/Level 1/ATK 0/DEF 0), but they cannot be Tributed. You can only use each effect of \"Crystron Halqifibrax Prism\" once per turn.",
+    "race": "Machine",
+    "atk": 1500,
+    "def": null,
+    "level": null,
+    "attribute": "WATER",
+    "archetype": "Crystron",
+    "linkval": 3,
+    "linkmarkers": [
+        "Bottom-Left",
+        "Bottom",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crystron-halqifibrax-prism-15409",
+    "card_images": [
+        {
+            "id": 65400671,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65400671.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65400671.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65400671.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
