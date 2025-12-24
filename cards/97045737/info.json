@@ -16,6 +16,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN150",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN150",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN078",
             "set_rarity": "Quarter Century Secret Rare",
@@ -40,8 +54,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "16.53",
-            "tcgplayer_price": "22.19",
+            "cardmarket_price": "16.43",
+            "tcgplayer_price": "21.99",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
