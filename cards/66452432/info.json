@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "3+ Effect Monsters\r\nYour opponent cannot Tribute this card on the field. Once per turn, during the Main Phase (Quick Effect): You can target 1 \"Rokket\" monster you control; negate the effects of 1 face-up card your opponent controls, then destroy that monster. Your opponent cannot activate cards or effects in response to this effect's activation. Once while face-up on the field, at the start of the Battle Phase: You can Special Summon 1 Link-4 or lower \"Borrel\" Link Monster from your Extra Deck.",
+    "desc": "3+ Effect Monsters\r\nYour opponent cannot Tribute this face-up card on the field. Once per turn, during the Main Phase (Quick Effect): You can target 1 \"Rokket\" monster you control; negate the effects of 1 face-up card your opponent controls, then destroy the targeted monster. Your opponent cannot activate cards or effects in response to this effect's activation. Once while face-up on the field, at the start of the Battle Phase: You can Special Summon 1 Link-4 or lower \"Borrel\" Link Monster from your Extra Deck.",
     "race": "Dragon",
     "atk": 3500,
     "def": null,
@@ -25,6 +25,22 @@
         "Bottom-Right"
     ],
     "ygoprodeck_url": "https://ygoprodeck.com/card/borrelshroud-dragon-15302",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN047",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 66452432,
