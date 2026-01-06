@@ -1,0 +1,36 @@
+{
+    "id": 22623509,
+    "name": "Verre, the Maid of Endymion",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "(This card is always treated as a \"Witchcrafter\" card.)\r\nGains 2300 ATK while you have \"Regulus, the Prince of Endymion\" in your field or GY. You can only use each of the following effects of \"Verre, the Maid of Endymion\" once per turn. During your Main Phase, if a Spell Card or effect was activated this turn: You can Special Summon this card from your hand. If this card is Special Summoned: You can add 1 \"Witchcrafter\" Spell/Trap or \"Magical Dimension\" from your Deck to your hand.",
+    "race": "Spellcaster",
+    "atk": 500,
+    "def": 1400,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "Endymion",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/verre-the-maid-of-endymion-15441",
+    "card_images": [
+        {
+            "id": 22623509,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22623509.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22623509.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22623509.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
