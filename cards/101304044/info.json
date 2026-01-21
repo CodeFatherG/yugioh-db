@@ -1,0 +1,37 @@
+{
+    "id": 101304044,
+    "name": "Superdreadnought Rail Cannon Flying Launcher",
+    "typeline": [
+        "Machine",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2 Level 10 monsters\r\nYou can Normal Summon 1 Machine monster during your Main Phase each turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn). You can only use each of the following effects of \"Superdreadnought Rail Cannon Flying Launcher\" once per turn. If this card is Xyz Summoned: You can add 1 EARTH Machine monster or \"Barrage Blast\" from your Deck to your hand. You can detach any number of materials from this card, then target that many Spells/Traps on the field; destroy them.",
+    "race": "Machine",
+    "atk": 3800,
+    "def": 3000,
+    "level": 10,
+    "attribute": "EARTH",
+    "archetype": "Train",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/superdreadnought-rail-cannon-flying-launcher-15515",
+    "card_images": [
+        {
+            "id": 101304044,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101304044.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101304044.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101304044.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

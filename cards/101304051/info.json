@@ -1,0 +1,41 @@
+{
+    "id": 101304051,
+    "name": "Lahamu the Messenger of Sacred Scripture",
+    "typeline": [
+        "Fairy",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 Effect Monsters\r\nOnce while this Link Summoned card is face-up on the field, you can Normal Summon 1 Level 5 or higher monster without Tributing. During the Main Phase, you can (Quick Effect): Immediately after this effect resolves, Normal Summon 1 Level 5 or higher DARK monster. During your End Phase: You can reveal any number of monsters in your hand and place them on the bottom of the Deck in any order, then draw the same number of cards. You can only use each effect of \"Lahamu the Messenger of Sacred Scripture\" once per turn.",
+    "race": "Fairy",
+    "atk": 1400,
+    "def": null,
+    "level": null,
+    "attribute": "DARK",
+    "linkval": 2,
+    "linkmarkers": [
+        "Left",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lahamu-the-messenger-of-sacred-scripture-15483",
+    "card_images": [
+        {
+            "id": 101304051,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101304051.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101304051.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101304051.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

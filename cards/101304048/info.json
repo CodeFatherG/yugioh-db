@@ -1,0 +1,36 @@
+{
+    "id": 101304048,
+    "name": "Cherubidamn Irisfiel",
+    "typeline": [
+        "Fairy",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2 Level 8 monsters\r\nOnce per turn, you can also Xyz Summon \"Cherubidamn Irisfiel\" by using 1 Xyz Monster you control that has not activated its effect in the Monster Zone this turn (transfer its materials.) If this card is Xyz Summoned: You can activate this effect; this turn, Xyz Monsters you control gain ATK equal to their own Rank x 100 during the Battle Phase only. If this card would be destroyed by battle or card effect, you can detach 1 material from a monster you control instead. You can only use this effect of \"Cherubidamn Irisfiel\" once per turn.",
+    "race": "Fairy",
+    "atk": 800,
+    "def": 2500,
+    "level": 8,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cherubidamn-irisfiel-15499",
+    "card_images": [
+        {
+            "id": 101304048,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101304048.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101304048.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101304048.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

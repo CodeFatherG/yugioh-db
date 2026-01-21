@@ -1,0 +1,37 @@
+{
+    "id": 101304009,
+    "name": "Predaplant Longinephila",
+    "typeline": [
+        "Plant",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 \"Predap\" card from your Deck to your hand, except \"Predaplant Longinephila\". You can banish this card from your GY, then activate 1 of these effects;\r\n\u25cf Place 1 Predator Counter on 1 face-up monster on the field, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter.\r\n\u25cf Set 1 \"Polymerization\" from your GY or banishment.\r\nYou can only use each effect of \"Predaplant Longinephila\" once per turn.",
+    "race": "Plant",
+    "atk": 600,
+    "def": 100,
+    "level": 1,
+    "attribute": "DARK",
+    "archetype": "Predap",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/predaplant-longinephila-15487",
+    "card_images": [
+        {
+            "id": 101304009,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101304009.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101304009.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101304009.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

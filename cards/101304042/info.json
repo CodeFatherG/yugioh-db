@@ -1,0 +1,38 @@
+{
+    "id": 101304042,
+    "name": "Kewl Tune Back 2 Back",
+    "typeline": [
+        "Fiend",
+        "Synchro",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Synchro Tuner Monster",
+    "humanReadableCardType": "Synchro Tuner Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ Synchro Monsters\r\nThe Levels of monsters your opponent controls are increased by 2. Your Tuners can make a second attack during each Battle Phase. When your opponent activates a monster effect (Quick Effect): You can target 1 Tuner in your GY or banishment, except a Level 10 monster; either add it to your hand or Special Summon it, then immediately after this effect resolves, you can Synchro Summon 1 Synchro Monster. You can only use this effect of \"Kewl Tune Back 2 Back\" twice per turn.",
+    "race": "Fiend",
+    "atk": 3200,
+    "def": 0,
+    "level": 10,
+    "attribute": "DARK",
+    "archetype": "Kewl Tune",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kewl-tune-back-2-back-15443",
+    "card_images": [
+        {
+            "id": 101304042,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101304042.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101304042.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101304042.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 101304050,
+    "name": "Four Charmers in Profusion",
+    "typeline": [
+        "Spellcaster",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2+ monsters\r\nGains 300 ATK for each different Attribute on the field. Once while face-up on the field, during the Main Phase (Quick Effect): You can target 2 monsters with the same Attribute but different Types, or 2 monsters with the same Type but different Attributes, in your GY; Special Summon both, but this card, also those monsters, cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon until the end of the next turn. You can only use this effect of \"Four Charmers in Profusion\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 1850,
+    "def": null,
+    "level": null,
+    "attribute": "LIGHT",
+    "archetype": "Charmer",
+    "linkval": 4,
+    "linkmarkers": [
+        "Left",
+        "Right",
+        "Bottom-Left",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/four-charmers-in-profusion-15492",
+    "card_images": [
+        {
+            "id": 101304050,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101304050.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101304050.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101304050.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

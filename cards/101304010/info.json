@@ -1,0 +1,40 @@
+{
+    "id": 101304010,
+    "name": "Vidrium the Power Patron of Chaos Extermination",
+    "typeline": [
+        "Fairy",
+        "Pendulum",
+        "Effect"
+    ],
+    "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
+    "desc": "[ Pendulum Effect ] \nYou can activate 1 of these effects;\r\n\u25cf Destroy this card, and if you do, Special Summon 1 \"Power Patron\" monster from your hand or GY.\r\n\u25cf Destroy this card, also this turn, \"Power Patron\" monsters you control whose original Level is 12 gain 5000 ATK.\r\nYou can only use this effect of \"Vidrium the Power Patron of Chaos Extermination\" once per turn.\n\n[ Monster Effect ] \nCannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck or GY) by returning 1 Fusion, 1 Synchro, and 1 Xyz Monster from your face-up field and/or GY to the Extra Deck. If this card is added to your Extra Deck face-up: You can add 1 \"Power Patron\" card from your Deck to your hand. You can only use this effect of \"Vidrium the Power Patron of Chaos Extermination\" once per turn. If this card is Special Summoned: Banish (face-down) all cards from the GYs. Unaffected by monster effects, except \"Power Patron\" monsters.",
+    "race": "Fairy",
+    "pend_desc": "You can activate 1 of these effects;\r\n\u25cf Destroy this card, and if you do, Special Summon 1 \"Power Patron\" monster from your hand or GY.\r\n\u25cf Destroy this card, also this turn, \"Power Patron\" monsters you control whose original Level is 12 gain 5000 ATK.\r\nYou can only use this effect of \"Vidrium the Power Patron of Chaos Extermination\" once per turn.",
+    "monster_desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck or GY) by returning 1 Fusion, 1 Synchro, and 1 Xyz Monster from your face-up field and/or GY to the Extra Deck. If this card is added to your Extra Deck face-up: You can add 1 \"Power Patron\" card from your Deck to your hand. You can only use this effect of \"Vidrium the Power Patron of Chaos Extermination\" once per turn. If this card is Special Summoned: Banish (face-down) all cards from the GYs. Unaffected by monster effects, except \"Power Patron\" monsters.",
+    "atk": 5000,
+    "def": 0,
+    "level": 12,
+    "attribute": "DARK",
+    "archetype": "Power Patron",
+    "scale": 11,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vidrium-the-power-patron-of-chaos-extermination-15476",
+    "card_images": [
+        {
+            "id": 101304010,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101304010.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101304010.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101304010.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

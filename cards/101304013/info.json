@@ -1,0 +1,40 @@
+{
+    "id": 101304013,
+    "name": "Power Patron Shadow Spirit Junordo",
+    "typeline": [
+        "Fiend",
+        "Pendulum",
+        "Effect"
+    ],
+    "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
+    "desc": "[ Pendulum Effect ] \nIf a \"Power Patron\" and/or \"Elvennotes\" monster(s) is Special Summoned to your field while this card is in the Pendulum Zone: You can destroy this card, and if you do, draw 2 cards, then discard 1 card. You can only use this effect of \"Power Patron Shadow Spirit Junordo\" once per turn.\n\n[ Monster Effect ] \n(This card is always treated as an \"Elvennotes\" card.)\r\nYou can banish (face-down) the top 3 cards of your Deck; destroy this card, and if you do, Special Summon 1 \"Junora the Power Patron of Tuning\" from your Extra Deck (this is treated as a Synchro Summon). If this card is added to your Extra Deck face-up: You can add 1 \"Power Patron\" or \"Elvennotes\" card from your face-up Extra Deck or GY to your hand, except \"Power Patron Shadow Spirit Junordo\". You can only use each effect of \"Power Patron Shadow Spirit Junordo\" once per turn.",
+    "race": "Fiend",
+    "pend_desc": "If a \"Power Patron\" and/or \"Elvennotes\" monster(s) is Special Summoned to your field while this card is in the Pendulum Zone: You can destroy this card, and if you do, draw 2 cards, then discard 1 card. You can only use this effect of \"Power Patron Shadow Spirit Junordo\" once per turn.",
+    "monster_desc": "(This card is always treated as an \"Elvennotes\" card.)\r\nYou can banish (face-down) the top 3 cards of your Deck; destroy this card, and if you do, Special Summon 1 \"Junora the Power Patron of Tuning\" from your Extra Deck (this is treated as a Synchro Summon). If this card is added to your Extra Deck face-up: You can add 1 \"Power Patron\" or \"Elvennotes\" card from your face-up Extra Deck or GY to your hand, except \"Power Patron Shadow Spirit Junordo\". You can only use each effect of \"Power Patron Shadow Spirit Junordo\" once per turn.",
+    "atk": 300,
+    "def": 200,
+    "level": 10,
+    "attribute": "DARK",
+    "archetype": "Elvennotes",
+    "scale": 1,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/power-patron-shadow-spirit-junordo-15473",
+    "card_images": [
+        {
+            "id": 101304013,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101304013.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101304013.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101304013.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

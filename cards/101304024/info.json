@@ -1,0 +1,36 @@
+{
+    "id": 101304024,
+    "name": "Fidraulis Harmonia",
+    "typeline": [
+        "Dragon",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "When your opponent activates a monster effect on the field (Quick Effect): You can reveal this card in your hand and up to 5 Synchro Monsters in your Extra Deck; apply these effects in sequence based on the total number revealed, also you cannot activate the effects of monsters Special Summoned from the Extra Deck until the end of your next turn, except Synchro Monsters.\r\n\u25cf 2+: Special Summon this card.\r\n\u25cf 4+: Send 1 of the revealed Synchro Monsters to the GY.\r\n\u25cf 6: Destroy 1 monster your opponent controls.\r\nYou can only use this effect of \"Fidraulis Harmonia\" once per turn.",
+    "race": "Dragon",
+    "atk": 2500,
+    "def": 2000,
+    "level": 7,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fidraulis-harmonia-15481",
+    "card_images": [
+        {
+            "id": 101304024,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101304024.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101304024.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101304024.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
