@@ -1,0 +1,27 @@
+{
+    "id": 89693655,
+    "name": "Subspace Battle",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Apply this effect 3 times.\r\n\u25cf Each player reveals 1 monster in their Deck, except a monster with ? ATK. Add the monster with higher ATK to the hand of the player that revealed it, also destroy the monster with lower ATK, and if you do, inflict 500 damage to the player that revealed it. If they have the same ATK, shuffle them into the Deck. Each player cannot activate the effects of monsters with the same name as the monster they revealed for the rest of this turn.\r\nYou can only activate 1 \"Subspace Battle\" per turn.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/subspace-battle-15523",
+    "card_images": [
+        {
+            "id": 89693655,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89693655.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89693655.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89693655.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

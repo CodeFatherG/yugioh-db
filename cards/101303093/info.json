@@ -1,0 +1,35 @@
+{
+    "id": 101303093,
+    "name": "Returned Dino Daneen",
+    "typeline": [
+        "Dinosaur",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Special Summoned by a monster effect: You can add 1 \"GMX\" monster from your Deck to your hand. During your Main Phase: You can Fusion Summon 1 Dinosaur Fusion Monster from your Extra Deck, using monsters from your hand or field. If this card is sent to the GY: You can make all Dinosaur monsters you currently control gain 400 ATK. You can only use each effect of \"Returned Dino Daneen\" once per turn.",
+    "race": "Dinosaur",
+    "atk": 400,
+    "def": 1200,
+    "level": 1,
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/returned-dino-daneen-15526",
+    "card_images": [
+        {
+            "id": 101303093,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101303093.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101303093.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101303093.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

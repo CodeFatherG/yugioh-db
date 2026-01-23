@@ -37,6 +37,9 @@
             "set_price": "0.00"
         }
     ],
+    "banlist_info": {
+        "ban_tcg": "Limited"
+    },
     "card_images": [
         {
             "id": 24940422,
@@ -47,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.31",
-            "tcgplayer_price": "0.27",
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "0.26",
             "ebay_price": "1.95",
             "amazon_price": "1.48",
             "coolstuffinc_price": "0.49"
