@@ -1,0 +1,36 @@
+{
+    "id": 101303081,
+    "name": "Mechanical Mechanic",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "When an attack is declared involving your other Machine monster: You can increase or decrease the Level of that other monster you control by 1. You can only use each of the following effects of \"Mechanical Mechanic\" once per turn. If a card is in the Field Zone: You can Special Summon this card from your hand. You can target 1 face-up Spell/Trap you control; destroy it, and if you do, add 1 WIND Machine monster with 0 ATK from your Deck to your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters.",
+    "race": "Machine",
+    "atk": 500,
+    "def": 500,
+    "level": 3,
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mechanical-mechanic-15538",
+    "card_images": [
+        {
+            "id": 101303081,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101303081.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101303081.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101303081.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

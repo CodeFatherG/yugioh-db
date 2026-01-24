@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "2+ Effect Monsters\r\nYou cannot Summon/Set monsters to any Extra Monster Zone this card points to. If a monster(s) is Special Summoned to a zone a Link Monster points to, while this card is in the Extra Monster Zone: Apply 1 of these effects, but you cannot apply that same effect of \"Topologic Blaster Dragon\" again this turn.\r\n\u25cf Shuffle all other monsters on the field into the Deck.\r\n\u25cf Shuffle all Spells and Traps on the field into the Deck.\r\n\u25cf Look at your opponent's Extra Deck and banish 1 card from it.",
+    "desc": "2+ Effect Monsters\r\nYou cannot Summon/Set monsters to any Extra Monster Zone this card points to. If another monster is Special Summoned to a zone a Link Monster points to, while this card is in the Extra Monster Zone: Apply 1 of these effects (but you cannot apply that same effect of \"Topologic Blaster Dragon\" again this turn.)\r\n\u25cf Shuffle all other monsters on the field into the Deck.\r\n\u25cf Shuffle all Spells/Traps on the field into the Deck.\r\n\u25cf Look at your opponent's Extra Deck and banish 1 card from it.",
     "race": "Cyberse",
     "atk": 3500,
     "def": null,
@@ -25,6 +25,22 @@
         "Bottom-Right"
     ],
     "ygoprodeck_url": "https://ygoprodeck.com/card/topologic-blaster-dragon-15360",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN046",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN046",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 30064423,

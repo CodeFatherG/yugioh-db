@@ -1,0 +1,36 @@
+{
+    "id": 101303089,
+    "name": "Storm-Bane Dragon Destorbim",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuners\r\nYour opponent cannot target this card with card effects. You can only use each of the following effects of \"Storm-Bane Dragon Destorbim\" once per turn. You can banish any number of DARK monsters from your GY that cannot be Normal Summoned/Set; banish that many cards your opponent controls. This is a Quick Effect if your opponent controls more cards than you do. If this card is sent to the GY: You can Special Summon 1 of your banished Dragon monsters.",
+    "race": "Dragon",
+    "atk": 3000,
+    "def": 2800,
+    "level": 11,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/storm-bane-dragon-destorbim-15533",
+    "card_images": [
+        {
+            "id": 101303089,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101303089.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101303089.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101303089.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

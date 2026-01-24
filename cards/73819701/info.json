@@ -15,6 +15,22 @@
     "level": 4,
     "attribute": "DARK",
     "ygoprodeck_url": "https://ygoprodeck.com/card/fallen-of-the-white-dragon-15373",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN024",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN024",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 73819701,

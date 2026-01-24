@@ -1,0 +1,36 @@
+{
+    "id": 101303082,
+    "name": "Jade Dragon Mech",
+    "typeline": [
+        "Machine",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuners\r\nIf this card is Special Summoned: You can send 1 Machine Tuner from your Deck to the GY, or if you control a monster whose current Level is different from its original Level, you can Special Summon it instead. You can only use this effect of \"Jade Dragon Mech\" once per turn. If this Synchro Summoned card is destroyed by card effect and sent to the GY: You can banish any number of Tuners from your GY, then target that many cards on the field; destroy them.",
+    "race": "Machine",
+    "atk": 2700,
+    "def": 1800,
+    "level": 9,
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jade-dragon-mech-15536",
+    "card_images": [
+        {
+            "id": 101303082,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101303082.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101303082.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101303082.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
