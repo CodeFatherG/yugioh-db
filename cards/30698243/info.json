@@ -1,0 +1,37 @@
+{
+    "id": 30698243,
+    "name": "Red Hypernova Dragon",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "4 Tuners + 1+ non-Tuner Synchro Monsters\r\nMust first be Synchro Summoned with the above materials. Gains 500 ATK for each Tuner in your GY. Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. Once per turn (Quick Effect): You can activate this effect; banish this card, also banish as many cards from your opponent's field and GY as possible, then you can Special Summon 1 \"Red Nova Dragon\" from your Extra Deck (this is treated as a Synchro Summon).",
+    "race": "Dragon",
+    "atk": 4500,
+    "def": 3000,
+    "level": 12,
+    "attribute": "DARK",
+    "archetype": "Cosmic Synchro Monster",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/red-hypernova-dragon-15497",
+    "card_images": [
+        {
+            "id": 30698243,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30698243.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30698243.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30698243.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

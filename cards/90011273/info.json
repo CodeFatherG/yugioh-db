@@ -1,0 +1,42 @@
+{
+    "id": 90011273,
+    "name": "Breechborrel Dragon",
+    "typeline": [
+        "Dragon",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 DARK Dragon monsters, including a \"Rokket\" monster\r\nIf this card is Link Summoned: You can add 1 \"Borrel\" Spell/Trap from your Deck to your hand. (Quick Effect): You can target 1 DARK monster you control; it gains 500 ATK, or if that monster is no longer on the field, you can Special Summon 1 \"Rokket\" monster from your Deck in Defense Position instead. You can only use each effect of \"Breechborrel Dragon\" once per turn.",
+    "race": "Dragon",
+    "atk": 1200,
+    "def": null,
+    "level": null,
+    "attribute": "DARK",
+    "archetype": "Borrel",
+    "linkval": 2,
+    "linkmarkers": [
+        "Bottom-Left",
+        "Bottom"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/breechborrel-dragon-15477",
+    "card_images": [
+        {
+            "id": 90011273,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90011273.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90011273.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90011273.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 43471513,
+    "name": "Convex Knight",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If a Machine monster is on the field and this card is in your hand: You can Special Summon this card in Defense Position, then you can make its Level become equal to the Level/Rank of 1 Machine monster on the field. During your Main Phase: You can send 1 EARTH Machine monster from your Deck to the GY, then this card gains ATK equal to the sent monster's Level x 100 until the end of this turn. You can only use each effect of \"Convex Knight\" once per turn.",
+    "race": "Machine",
+    "atk": 1800,
+    "def": 500,
+    "level": 4,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/convex-knight-15478",
+    "card_images": [
+        {
+            "id": 43471513,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43471513.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43471513.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43471513.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

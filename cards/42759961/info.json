@@ -1,0 +1,37 @@
+{
+    "id": 42759961,
+    "name": "Clown Clan Flair",
+    "typeline": [
+        "Beast-Warrior",
+        "Ritual",
+        "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with a \"Clown Clan\" card. You can reveal this card in your hand; add 1 \"Clown Clan\" card from your Deck to your hand, except a Ritual Monster, then discard 1 card. You can only use this effect of \"Clown Clan Flair\" once per turn. If this card is Tributed: You can activate 1 of these effects (but you can only use each of these effects of \"Clown Clan Flair\" once per turn);\r\n\u25cf Shuffle all Ritual Monsters on the field and in the GYs into the Deck.\r\n\u25cf Change 1 Effect Monster on the field to face-down Defense Position.",
+    "race": "Beast-Warrior",
+    "atk": 500,
+    "def": 1000,
+    "level": 1,
+    "attribute": "LIGHT",
+    "archetype": "Clown Clan",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-clan-flair-15458",
+    "card_images": [
+        {
+            "id": 42759961,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42759961.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42759961.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42759961.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -4,9 +4,18 @@
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Activate 1 of these effects (but you can only use each effect of \"Double Trigger\" once per turn);\r\n\u25cf Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing its materials from your GY, including a \"Rokket\" monster.\r\n\u25cf Ritual Summon 1 Ritual Monster from your hand, by banishing monsters from your GY whose total Levels equal or exceed that monster's Level, including a \"Rokket\" monster.",
+    "desc": "Activate 1 of these effects (but you can only use each effect of \"Double Interlock\" once per turn);\r\n\u25cf Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing its materials from your GY, including a \"Rokket\" monster.\r\n\u25cf Ritual Summon 1 Ritual Monster from your hand, by banishing monsters from your GY whose total Levels equal or exceed its Level, including a \"Rokket\" monster.",
     "race": "Normal",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/double-trigger-15304",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/double-interlock-15304",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 38129297,
@@ -18,7 +27,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "tcgplayer_price": "0.99",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

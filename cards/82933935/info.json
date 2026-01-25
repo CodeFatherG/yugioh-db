@@ -1,0 +1,37 @@
+{
+    "id": 82933935,
+    "name": "Mimighoul Flower",
+    "typeline": [
+        "Plant",
+        "Flip",
+        "Effect"
+    ],
+    "type": "Flip Effect Monster",
+    "humanReadableCardType": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: If it is the Main Phase: Apply these effects in sequence.\r\n\u25cf Your opponent can add 1 Flip monster or \"Mimighoul\" card from their Deck to their hand.\r\n\u25cf Give control of this card to your opponent.\r\nDuring your Main Phase: You can Special Summon this card from your hand to your opponent's field in face-down Defense Position, or if a face-down monster is on the field, you can Special Summon this card face-up on your field. You can only use each effect of \"Mimighoul Flower\" once per turn.",
+    "race": "Plant",
+    "atk": 0,
+    "def": 2100,
+    "level": 1,
+    "attribute": "EARTH",
+    "archetype": "Mimighoul",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mimighoul-flower-15484",
+    "card_images": [
+        {
+            "id": 82933935,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82933935.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82933935.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82933935.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

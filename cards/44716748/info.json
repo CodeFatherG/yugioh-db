@@ -1,0 +1,41 @@
+{
+    "id": 44716748,
+    "name": "Trito Enneacraft - \"exapatisIA\"",
+    "typeline": [
+        "Machine",
+        "Pendulum",
+        "Flip",
+        "Effect"
+    ],
+    "type": "Pendulum Flip Effect Monster",
+    "humanReadableCardType": "Pendulum Flip Effect Monster",
+    "frameType": "effect_pendulum",
+    "desc": "[ Pendulum Effect ] \nEach time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. You can pay 900 LP; reveal 3 \"Enneacraft\" cards from your Deck, your opponent randomly picks 1 for you to add to your hand, shuffle the rest into the Deck. You can only use this effect of \"Trito Enneacraft - \"exapatisIA\"\" once per turn.\n\n[ Monster Effect ] \nFLIP: Destroy 1 Spell/Trap your opponent controls, and if you do, Special Summon 1 monster from your hand in face-down Defense Position.\r\nWhen your opponent activates a card or effect that includes an effect that Sets a card(s) (Quick Effect): You can change this face-down card to face-up Defense Position; add 1 \"Enneacraft\" card from your Deck to your hand. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.",
+    "race": "Machine",
+    "pend_desc": "Each time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. You can pay 900 LP; reveal 3 \"Enneacraft\" cards from your Deck, your opponent randomly picks 1 for you to add to your hand, shuffle the rest into the Deck. You can only use this effect of \"Trito Enneacraft - \"exapatisIA\"\" once per turn.",
+    "monster_desc": "FLIP: Destroy 1 Spell/Trap your opponent controls, and if you do, Special Summon 1 monster from your hand in face-down Defense Position.\r\nWhen your opponent activates a card or effect that includes an effect that Sets a card(s) (Quick Effect): You can change this face-down card to face-up Defense Position; add 1 \"Enneacraft\" card from your Deck to your hand. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.",
+    "atk": 100,
+    "def": 1000,
+    "level": 1,
+    "attribute": "EARTH",
+    "archetype": "Enneacraft",
+    "scale": 0,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trito-enneacraft-exapatisia-15461",
+    "card_images": [
+        {
+            "id": 44716748,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44716748.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44716748.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44716748.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

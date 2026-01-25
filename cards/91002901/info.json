@@ -4,9 +4,18 @@
     "type": "Spell Card",
     "humanReadableCardType": "Field Spell",
     "frameType": "spell",
-    "desc": "When this card is activated: You can add 1 monster that mentions \"Assault Mode Activate\" from your Deck or GY to your hand. \"/Assault Mode\" monsters cannot be destroyed by battle or your opponent's card effects during the turn they are Special Summoned. You can pay 2000 LP; once this turn, you can activate \"Assault Mode Activate\" by Tributing a Synchro Monster in the Extra Deck. You can only use this effect of \"Duel Evolution - Assault Zone\" once per turn. You can only activate 1 \"Duel Evolution - Assault Zone\" per turn.",
+    "desc": "When this card is activated: You can add 1 monster that mentions \"Assault Mode Activate\" from your Deck or GY to your hand. \"/Assault Mode\" monsters cannot be destroyed by battle or your opponent's card effects the turn they are Special Summoned. You can pay 2000 LP; once this turn, the Synchro Monster you would Tribute to activate \"Assault Mode Activate\" can be chosen from your Extra Deck instead (even if this card has left the field). You can only use this effect of \"Duel Evolution - Assault Zone\" once per turn. You can only activate 1 \"Duel Evolution - Assault Zone\" per turn.",
     "race": "Field",
     "ygoprodeck_url": "https://ygoprodeck.com/card/duel-evolution-assault-zone-15331",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 91002901,

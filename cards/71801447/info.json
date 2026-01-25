@@ -1,0 +1,41 @@
+{
+    "id": 71801447,
+    "name": "Enneacraft - Atil.SPIA",
+    "typeline": [
+        "Machine",
+        "Pendulum",
+        "Flip",
+        "Effect"
+    ],
+    "type": "Pendulum Flip Effect Monster",
+    "humanReadableCardType": "Pendulum Flip Effect Monster",
+    "frameType": "effect_pendulum",
+    "desc": "[ Pendulum Effect ] \nEach time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. At the end of the Battle Phase, if you have an \"Enneacraft\" card in your other Pendulum Zone: You can target 1 monster your opponent controls with less ATK than this card; destroy it.\n\n[ Monster Effect ] \nAfter this card was flipped face-up, while it is in the Monster Zone, your opponent cannot activate cards or effects in response to the activation of their own cards and effects. When your opponent activates a card or effect as Chain Link 3 or higher (Quick Effect): You can change this face-down card to face-up Defense Position; negate the activations of your opponent's cards and effects activated before this effect in this Chain, and if you do, destroy the negated cards. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.",
+    "race": "Machine",
+    "pend_desc": "Each time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. At the end of the Battle Phase, if you have an \"Enneacraft\" card in your other Pendulum Zone: You can target 1 monster your opponent controls with less ATK than this card; destroy it.",
+    "monster_desc": "After this card was flipped face-up, while it is in the Monster Zone, your opponent cannot activate cards or effects in response to the activation of their own cards and effects. When your opponent activates a card or effect as Chain Link 3 or higher (Quick Effect): You can change this face-down card to face-up Defense Position; negate the activations of your opponent's cards and effects activated before this effect in this Chain, and if you do, destroy the negated cards. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.",
+    "atk": 3000,
+    "def": 2500,
+    "level": 9,
+    "attribute": "LIGHT",
+    "archetype": "Enneacraft",
+    "scale": 0,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/enneacraft-atil-spia-15460",
+    "card_images": [
+        {
+            "id": 71801447,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71801447.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71801447.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71801447.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

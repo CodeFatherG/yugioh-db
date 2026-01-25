@@ -9,7 +9,7 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Tuner + 2 non-Tuner monsters\r\nFor this card's Synchro Summon, you can treat 1 monster in your center Main Monster Zone as a Tuner. If this card is Synchro Summoned: You can negate the effects of all face-up cards your opponent currently controls. (Quick Effect): You can activate this effect; all monsters your opponent currently controls in the same columns as your \"Elvennotes\" monsters cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon until the end of this turn. You can only use this effect of \"Junora the Power Patron of Tuning\" once per turn.",
+    "desc": "1 Tuner + 2 non-Tuners\r\nFor this card's Synchro Summon, you can treat 1 monster in your center Main Monster Zone as a Tuner. If this card is Synchro Summoned: You can negate the effects of all face-up cards your opponent controls. (Quick Effect): You can activate this effect; monsters your opponent controls in the same column as the \"Elfnote\" monster(s) you control cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon, until the end of this turn. You can only use this effect of \"Junora the Power Patron of Tuning\" once per turn.",
     "race": "Fiend",
     "atk": 3100,
     "def": 3800,
@@ -17,6 +17,15 @@
     "attribute": "FIRE",
     "archetype": "Power Patron",
     "ygoprodeck_url": "https://ygoprodeck.com/card/junora-the-power-patron-of-tuning-15344",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN039",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 5914858,

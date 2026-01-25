@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can Tribute this card from your hand or field; add 1 \"Archfiend\" card from your Deck to your hand, except \"Royal Archfiend\", also for the rest of this turn, you cannot Special Summon from the Extra Deck, except \"Archfiend\" monsters, also you can Normal Summon 1 Fiend monster during your Main Phase this turn in addition to your Normal Summon/Set (you can only gain this effect once per turn). When your Ritual Monster is destroyed by battle while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Royal Archfiend\" once per turn.",
+    "desc": "You can Tribute this card from your hand or face-up field; add 1 \"Archfiend\" card from your Deck to your hand, except \"Royal Archfiend\", also you cannot Special Summon from the Extra Deck for the rest of this turn, except \"Archfiend\" monsters, but you can Normal Summon 1 Fiend monster during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn). When your Ritual Monster is destroyed by battle while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Royal Archfiend\" once per turn.",
     "race": "Fiend",
     "atk": 2400,
     "def": 1000,
@@ -16,6 +16,22 @@
     "attribute": "FIRE",
     "archetype": "Archfiend",
     "ygoprodeck_url": "https://ygoprodeck.com/card/royal-archfiend-15297",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN014",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN014",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 58769832,

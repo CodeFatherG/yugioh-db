@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Assault Mode Activate\". You can reveal this card in your hand; add 1 \"Assault Mode Activate\" or 1 card that mentions it from your Deck to your hand, and if you do, shuffle this card into the Deck. You can only use this effect of \"Crimson Blader/Assault Mode\" once per turn. Your opponent cannot activate the effects of Level 5 or higher monsters Special Summoned from the Extra Deck. If this card is destroyed: You can Special Summon 1 \"Crimson Blader\" from your GY.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Assault Mode Activate\". Your opponent cannot activate the effects of Level 5 or higher monsters Special Summoned from the Extra Deck. You can reveal this card in your hand; add 1 \"Assault Mode Activate\" or 1 card that mentions it from your Deck to your hand, and if you do, shuffle this card into the Deck. You can only use this effect of \"Crimson Blader/Assault Mode\" once per turn. If this card is destroyed: You can Special Summon 1 \"Crimson Blader\" from your GY.",
     "race": "Warrior",
     "atk": 3300,
     "def": 3100,
@@ -16,6 +16,15 @@
     "attribute": "FIRE",
     "archetype": "/Assault Mode",
     "ygoprodeck_url": "https://ygoprodeck.com/card/crimson-blader-assault-mode-15334",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 50604072,

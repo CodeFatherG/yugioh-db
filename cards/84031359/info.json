@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can only Special Summon \"Darklord Gulgalta(s)\" once per turn. If this card is Special Summoned: You can Special Summon 2 \"Darklord Tokens\" (Fairy/DARK/Level 6/ATK 0/DEF 0), also you cannot Special Summon for the rest of this turn, except Fairy monsters. If this card is sent to the GY: You can add 1 \"Darklord\" card or \"Forbidden\" Quick-Play Spell from your Deck to your hand, except \"Darklord Gulgalta\". You can only use this effect of \"Darklord Gulgalta\" once per turn.",
+    "desc": "You can only Special Summon \"Darklord Gulgolet(s)\" once per turn. If this card is Special Summoned: You can Special Summon 2 \"Darklord Tokens\" (Fairy/DARK/Level 6/ATK 0/DEF 0), also you cannot Special Summon for the rest of this turn, except Fairy monsters. If this card is sent to the GY: You can add 1 \"Darklord\" card, except \"Darklord Gulgolet\", or 1 \"Forbidden\" Quick-Play Spell from your Deck to your hand. You can only use this effect of \"Darklord Gulgolet\" once per turn.",
     "race": "Fairy",
     "atk": 2400,
     "def": 800,
     "level": 6,
     "attribute": "DARK",
     "archetype": "Darklord",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/darklord-gulgalta-15286",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/darklord-gulgolet-15286",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 84031359,

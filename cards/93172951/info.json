@@ -1,0 +1,37 @@
+{
+    "id": 93172951,
+    "name": "Clown Clan Meteor",
+    "typeline": [
+        "Beast-Warrior",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuners\r\nYour opponent cannot activate cards or effects when your monster is Tribute Summoned. If this card is Tributed: You can activate 1 of these effects (but you can only use each of these effects of \"Clown Clan Meteor\" once per turn);\r\n\u25cf Return all Synchro Monsters on the field and in the GYs to the Extra Deck.\r\n\u25cf Target 1 \"Clown Clan\" card in your GY, except \"Clown Clan Meteor\"; add it to your hand.",
+    "race": "Beast-Warrior",
+    "atk": 600,
+    "def": 1300,
+    "level": 6,
+    "attribute": "LIGHT",
+    "archetype": "Clown Clan",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-clan-meteor-15459",
+    "card_images": [
+        {
+            "id": 93172951,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93172951.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93172951.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93172951.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
