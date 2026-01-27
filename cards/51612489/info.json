@@ -4,9 +4,18 @@
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Target 1 face-down Defense Position monster on the field; return it to the hand, then the player who added it to their hand can Special Summon 1 monster from their hand in face-down Defense Position. When an opponent's monster declares an attack: You can banish this card from your GY; change 1 face-down Defense Position monster on the field to Attack Position. You can only use each effect of \"Riot\" once per turn.",
+    "desc": "Target 1 face-down Defense Position monster on the field; return it to the hand, then the player whose card was added to their hand can Special Summon 1 monster from their hand in face-down Defense Position. When an opponent's monster declares an attack: You can banish this card from your GY; change 1 face-down Defense Position monster on the field to face-up Attack Position. You can only use each effect of \"Riot's Reason\" once per turn.",
     "race": "Quick-Play",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/riot-15348",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/riot-s-reason-15348",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN069",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 51612489,
@@ -18,7 +27,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "tcgplayer_price": "0.99",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -1,6 +1,6 @@
 {
     "id": 87985506,
-    "name": "Archfiend's Jest",
+    "name": "Archfiend Playtime",
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
@@ -8,6 +8,15 @@
     "race": "Normal",
     "archetype": "Archfiend",
     "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-s-jest-15295",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 87985506,

@@ -1,6 +1,6 @@
 {
     "id": 26162470,
-    "name": "Fandora, the Fearsome Flying Furtress",
+    "name": "Fandora, the Flying Fighting Furtress",
     "type": "Spell Card",
     "humanReadableCardType": "Field Spell",
     "frameType": "spell",
@@ -8,6 +8,15 @@
     "race": "Field",
     "archetype": "Fur Hire",
     "ygoprodeck_url": "https://ygoprodeck.com/card/fandora-the-fearsome-flying-furtress-15293",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN061",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 26162470,

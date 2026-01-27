@@ -1,6 +1,6 @@
 {
     "id": 63679166,
-    "name": "Throne of Archfiends",
+    "name": "Throne of the Archfiends",
     "type": "Spell Card",
     "humanReadableCardType": "Ritual Spell",
     "frameType": "spell",
@@ -8,6 +8,15 @@
     "race": "Ritual",
     "archetype": "Archfiend",
     "ygoprodeck_url": "https://ygoprodeck.com/card/throne-of-archfiends-15298",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 63679166,

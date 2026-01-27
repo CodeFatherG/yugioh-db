@@ -1,6 +1,6 @@
 {
     "id": 38007649,
-    "name": "DoomZ Changer",
+    "name": "DoomZ Change",
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
@@ -8,6 +8,15 @@
     "race": "Normal",
     "archetype": "Change",
     "ygoprodeck_url": "https://ygoprodeck.com/card/doomz-changer-15336",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 38007649,

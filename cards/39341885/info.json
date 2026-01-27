@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "2 \"Radiant Typhoon\" monsters\r\nIf this card is Link Summoned: You can add 1 \"Mystical Space Typhoon\" from your Deck or GY to your hand. You can target 2 face-up monsters on the field, including a \"Radiant Typhoon\" monster you control; place them face-up in their owners' Spell & Trap Zones as Continuous Spells. If a Quick-Play Spell Card is activated (except during the Damage Step): You can place 1 \"Radiant Typhoon\" Continuous Trap from your Deck or GY face-up on your field. You can only use each effect of \"Radiant Typhoon Varuroon, the Sea Spirit\" once per turn.",
+    "desc": "2 \"Radiant Typhoon\" monsters\r\nIf this card is Link Summoned: You can add 1 \"Mystical Space Typhoon\" from your Deck or GY to your hand. You can target 2 face-up monsters on the field, including 1 \"Radiant Typhoon\" monster you control; place them face-up in their owners' Spell & Trap Zones as Continuous Spells. If a Quick-Play Spell Card is activated (except during the Damage Step): You can place 1 \"Radiant Typhoon\" Continuous Trap from your Deck or GY, face-up on your field. You can only use each effect of \"Radiant Typhoon Varuroon, the Marine Eidolon\" once per turn.",
     "race": "Aqua",
     "atk": 0,
     "def": null,
@@ -21,7 +21,23 @@
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "ygoprodeck_url": "https://ygoprodeck.com/card/radiant-typhoon-varuroon-the-sea-spirit-15324",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/radiant-typhoon-varuroon-the-marine-eidolon-15324",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN049",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN049",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 39341885,

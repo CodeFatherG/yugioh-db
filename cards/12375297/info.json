@@ -9,14 +9,23 @@
     "type": "Tuner Monster",
     "humanReadableCardType": "Tuner Effect Monster",
     "frameType": "effect",
-    "desc": "You cannot Special Summon from the Extra Deck, except Synchro Monsters. You can only use each of the following effects of \"Elvennotes Power Patron\" once per turn. During the Main Phase (Quick Effect): You can target the monster in your center Main Monster Zone; increase its Level by 3 (until the end of this turn), then immediately after this effect resolves, you can Synchro Summon 1 \"Elvennotes\" monster or \"Junora the Power Patron of Tuning\". If this card is sent to the GY as Synchro Material: You can add 1 \"Elvennotes\" card from your Deck to your hand.",
+    "desc": "You cannot Special Summon from the Extra Deck, except Synchro Monsters. You can only use each of the following effects of \"Elfnote Power Patron\" once per turn. During the Main Phase (Quick Effect): You can target 1 monster in your center Main Monster Zone; increase its Level by 3 (until the end of this turn), then immediately after this effect resolves, you can Synchro Summon 1 \"Elfnote\" Synchro Monster or \"Junora the Power Patron of Tuning\". If this card is sent to the GY as Synchro Material: You can add 1 \"Elfnote\" card from your Deck to your hand.",
     "race": "Fiend",
     "atk": 300,
     "def": 200,
     "level": 1,
     "attribute": "FIRE",
-    "archetype": "Elvennotes",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/elvennotes-power-patron-15342",
+    "archetype": "Elfnote",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/elfnote-power-patron-15342",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN013",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 12375297,
@@ -28,7 +37,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "tcgplayer_price": "1.56",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

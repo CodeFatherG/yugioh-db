@@ -1,6 +1,6 @@
 {
     "id": 53557529,
-    "name": "Storm Fur Hire",
+    "name": "Whirlwind Fur Hire",
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
@@ -8,6 +8,15 @@
     "race": "Quick-Play",
     "archetype": "Fur Hire",
     "ygoprodeck_url": "https://ygoprodeck.com/card/storm-fur-hire-15291",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 53557529,

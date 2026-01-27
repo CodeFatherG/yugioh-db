@@ -1,6 +1,6 @@
 {
     "id": 13379114,
-    "name": "Archfiend's Vigor",
+    "name": "Archfiend's Fervor",
     "type": "Trap Card",
     "humanReadableCardType": "Continuous Trap",
     "frameType": "trap",
@@ -8,6 +8,15 @@
     "race": "Continuous",
     "archetype": "Archfiend",
     "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-s-vigor-15296",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN074",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 13379114,

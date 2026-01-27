@@ -10,17 +10,33 @@
     "type": "Pendulum Effect Ritual Monster",
     "humanReadableCardType": "Ritual Pendulum Effect Monster",
     "frameType": "ritual_pendulum",
-    "desc": "[ Pendulum Effect ] \nYou can target 1 other face-up Spell/Trap on the field; destroy both it and this card. You can only use this effect of \"Doom Emperor Archfiend\" once per turn.\n\n[ Monster Effect ] \nYou can Ritual Summon this card with \"Throne of Archfiends\". Must be Ritual Summoned. Unaffected by other monsters' effects while in the Extra Monster Zone. You can only use each of the following effects of \"Doom Emperor Archfiend\" once per turn. If this card is Ritual Summoned from the Extra Deck: You can banish all monsters on the field, except those in the Extra Monster Zone. If this card is in the Extra Monster Zone: You can Special Summon 1 Fiend monster from your hand, Deck, GY, or banishment.",
+    "desc": "[ Pendulum Effect ] \nYou can target 1 other face-up Spell/Trap on the field; destroy both it and this card. You can only use this effect of \"Archfiend Emperor\" once per turn.\n\n[ Monster Effect ] \nYou can Ritual Summon this card with \"Throne of the Archfiends\". Must be Ritual Summoned. Unaffected by other monsters' effects while in the Extra Monster Zone. You can only use each of the following effects of \"Archfiend Emperor\" once per turn. If this card is Ritual Summoned from the Extra Deck: You can banish all monsters on the field, except in the Extra Monster Zones. If this card is in the Extra Monster Zone: You can Special Summon 1 Fiend monster from your hand, Deck, GY, or banishment.",
     "race": "Fiend",
-    "pend_desc": "You can target 1 other face-up Spell/Trap on the field; destroy both it and this card. You can only use this effect of \"Doom Emperor Archfiend\" once per turn.",
-    "monster_desc": "You can Ritual Summon this card with \"Throne of Archfiends\". Must be Ritual Summoned. Unaffected by other monsters' effects while in the Extra Monster Zone. You can only use each of the following effects of \"Doom Emperor Archfiend\" once per turn. If this card is Ritual Summoned from the Extra Deck: You can banish all monsters on the field, except those in the Extra Monster Zone. If this card is in the Extra Monster Zone: You can Special Summon 1 Fiend monster from your hand, Deck, GY, or banishment.",
+    "pend_desc": "You can target 1 other face-up Spell/Trap on the field; destroy both it and this card. You can only use this effect of \"Archfiend Emperor\" once per turn.",
+    "monster_desc": "You can Ritual Summon this card with \"Throne of the Archfiends\". Must be Ritual Summoned. Unaffected by other monsters' effects while in the Extra Monster Zone. You can only use each of the following effects of \"Archfiend Emperor\" once per turn. If this card is Ritual Summoned from the Extra Deck: You can banish all monsters on the field, except in the Extra Monster Zones. If this card is in the Extra Monster Zone: You can Special Summon 1 Fiend monster from your hand, Deck, GY, or banishment.",
     "atk": 2500,
     "def": 1200,
     "level": 7,
     "attribute": "FIRE",
     "archetype": "Archfiend",
     "scale": 0,
-    "ygoprodeck_url": "https://ygoprodeck.com/card/doom-emperor-archfiend-15299",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-emperor-15299",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN031",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN031",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 48469380,
@@ -32,7 +48,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "tcgplayer_price": "2.93",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

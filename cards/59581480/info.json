@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can Special Summon this card (from your hand) to your center Main Monster Zone. You can only Special Summon \"Elvennotes Dyina\" once per turn this way. You can only use each of the following effects of \"Elvennotes Dyina\" once per turn. During your Main Phase: You can place 1 \"Elvennotes\" Continuous Spell from your Deck face-up on your field. During your opponent's turn (Quick Effect): You can switch the locations of this card in your Main Monster Zone and the monster in your center Main Monster Zone, then you can banish 1 random card from your opponent's hand face-up until the End Phase.",
+    "desc": "You can Special Summon this card (from your hand) to your center Main Monster Zone. You can only Special Summon \"Elfnote Tinia\" once per turn this way. You can only use each of the following effects of \"Elfnote Tinia\" once per turn. During your Main Phase: You can place 1 \"Elfnote\" Continuous Spell from your Deck face-up on your field. During your opponent's turn (Quick Effect): You can switch the locations of this card in your Main Monster Zone and the monster in your center Main Monster Zone, then you can banish (face-up) 1 random card from your opponent's hand, until the End Phase.",
     "race": "Spellcaster",
     "atk": 2400,
     "def": 1800,
     "level": 6,
     "attribute": "WATER",
-    "archetype": "Elvennotes",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/elvennotes-dyina-15347",
+    "archetype": "Elfnote",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/elfnote-tinia-15347",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN011",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 59581480,

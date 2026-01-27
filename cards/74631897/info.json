@@ -9,7 +9,7 @@
     "type": "Fusion Monster",
     "humanReadableCardType": "Fusion Effect Monster",
     "frameType": "fusion",
-    "desc": "2 \"Artmage\" monsters\r\nMust be either Fusion Summoned, or Special Summoned (from your Extra Deck) by discarding 1 Spell/Trap and Tributing 1 Level 7 or higher \"Artmage\" monster from your hand or field. You can only Special Summon \"Artmage Non Finito\" once per turn this way, no matter which method you use. If this card is Special Summoned: You can Set 1 \"Artmage\" Spell/Trap from your Deck. Once per opponent's turn (Quick Effect): You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control.",
+    "desc": "2 \"Artmage\" monsters\r\nMust be either Fusion Summoned, or Special Summoned (from your Extra Deck) by discarding 1 Spell/Trap and Tributing 1 Level 7 or higher \"Artmage\" monster from your hand or field. You can only Special Summon \"Artmage Non-Finito\" once per turn this way, no matter which method you use. If this card is Special Summoned: You can Set 1 \"Artmage\" Spell/Trap from your Deck. Once per opponent's turn (Quick Effect): You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control.",
     "race": "Illusion",
     "atk": 2400,
     "def": 1500,
@@ -17,6 +17,22 @@
     "attribute": "EARTH",
     "archetype": "Artmage",
     "ygoprodeck_url": "https://ygoprodeck.com/card/artmage-non-finito-15366",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN035",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN035",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 74631897,

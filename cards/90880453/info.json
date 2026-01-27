@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "Your opponent cannot target the monster in your center Main Monster Zone with card effects. This card gains these effects based on the Attribute(s) of the monster in your center Main Monster Zone.\r\n\u25cf FIRE/EARTH: If your Synchro Monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.\r\n\u25cf WATER/WIND: Other face-up Spells/Traps you control cannot be destroyed by your opponent's card effects.\r\n\u25cf LIGHT/DARK: You take no battle damage.",
+    "desc": "Your opponent cannot target the monster in your center Main Monster Zone with card effects. This card gains the appropriate effects, based on the Attribute(s) of the monster in your center Main Monster Zone.\r\n\u25cf FIRE or EARTH: If your Synchro Monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.\r\n\u25cf WATER or WIND: Other face-up Spells/Traps you control cannot be destroyed by your opponent's card effects.\r\n\u25cf LIGHT or DARK: You take no battle damage.",
     "race": "Continuous",
-    "archetype": "Elvennotes",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/elvennotes-reunion-tercet-15340",
+    "archetype": "Elfnote",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/elfnotes-a-plea-for-help-15340",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 90880453,

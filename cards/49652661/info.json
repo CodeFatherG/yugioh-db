@@ -4,9 +4,18 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Send up to 2 Equip Spells with different names from your Deck to the GY. You can banish this card from your GY, then target 1 face-up monster you control; equip it with up to 2 Equip Spells with different names from your hand and/or GY that can equip to it, but any battle damage it inflicts to your opponent is halved while equipped with any of those Equip Spells. You can only use 1 \"Arsenal Organization\" effect per turn, and only once that turn.",
+    "desc": "Send up to 2 Equip Spells with different names from your Deck to the GY. You can banish this card from your GY, then target 1 face-up monster you control; equip it with up to 2 Equip Spells with different names from your hand and/or GY that can equip to it, but any battle damage it inflicts to your opponent is halved while equipped with a card by this effect. You can only use 1 \"Arsenal Audit\" effect per turn, and only once that turn.",
     "race": "Normal",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/arsenal-organization-15352",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/arsenal-audit-15352",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 49652661,

@@ -4,9 +4,18 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "When your opponent activates a card or effect by declaring exactly 1 card name: Negate that effect, then you can add 1 card with that name from your Deck to your hand. If this Set card in its owner's control is destroyed by an opponent's card effect: You can target 1 face-up monster your opponent controls; it loses 500 ATK.",
+    "desc": "When your opponent activates a card or effect by declaring exactly 1 card name: Negate that effect, then you can add 1 declared card from your Deck to your hand. If this Set card you control is destroyed by an opponent's card effect: You can target 1 face-up monster your opponent controls; it loses 500 ATK.",
     "race": "Normal",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/tip-of-the-tongue-reduction-15375",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tip-of-the-tinying-tongue-15375",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN079",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 85640370,
@@ -18,7 +27,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "tcgplayer_price": "0.83",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

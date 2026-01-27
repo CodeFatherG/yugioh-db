@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can Special Summon this card (from your hand) to your center Main Monster Zone. You can only Special Summon \"Elvennotes Lucina\" once per turn this way. You can only use each of the following effects of \"Elvennotes Lucina\" once per turn. During your Main Phase: You can add 1 \"Elvennotes\" monster from your Deck to your hand, except \"Elvennotes Lucina\". During your opponent's turn (Quick Effect): You can switch the locations of this card in your Main Monster Zone and the monster in your center Main Monster Zone, then you can return 1 Level 6 or lower monster your opponent controls to the hand.",
+    "desc": "You can Special Summon this card (from your hand) to your center Main Monster Zone. You can only Special Summon \"Elfnote Lucina\" once per turn this way. You can only use each of the following effects of \"Elfnote Lucina\" once per turn. During your Main Phase: You can add 1 \"Elfnote\" monster from your Deck to your hand, except \"Elfnote Lucina\". During your opponent's turn (Quick Effect): You can switch the locations of this card in your Main Monster Zone and the monster in your center Main Monster Zone, then you can return 1 Level 6 or lower monster your opponent controls to the hand.",
     "race": "Spellcaster",
     "atk": 2500,
     "def": 1800,
     "level": 6,
     "attribute": "FIRE",
-    "archetype": "Elvennotes",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/elvennotes-lucina-15345",
+    "archetype": "Elfnote",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/elfnote-lucina-15345",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN010",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN010",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 13597785,
@@ -27,7 +43,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "tcgplayer_price": "42.84",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -1,6 +1,6 @@
 {
     "id": 90764871,
-    "name": "Archfiend's Strategy Game",
+    "name": "Archfiend Strategy",
     "type": "Spell Card",
     "humanReadableCardType": "Field Spell",
     "frameType": "spell",
@@ -8,6 +8,15 @@
     "race": "Field",
     "archetype": "Archfiend",
     "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-s-strategy-game-15294",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN060",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 90764871,

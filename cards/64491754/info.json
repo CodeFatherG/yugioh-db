@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "The monster in your center Main Monster Zone cannot be destroyed by card effects. You can send 1 monster from your hand or field to the GY; Special Summon 1 \"Elvennotes\" monster with a different original Attribute from your Deck in Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use this effect of \"Elvennotes ~Homecoming Parallelism~\" once per turn.",
+    "desc": "The monster in your center Main Monster Zone cannot be destroyed by card effects. You can send 1 monster from your hand or field to the GY; Special Summon 1 \"Elfnote\" monster with a different original Attribute from your Deck in Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use this effect of \"Elfnotes: Welcome Home\" once per turn.",
     "race": "Continuous",
-    "archetype": "Elvennotes",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/elvennotes-homecoming-parallelism-15337",
+    "archetype": "Elfnote",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/elfnotes-welcome-home-15337",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 64491754,
@@ -19,7 +28,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "tcgplayer_price": "1.48",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

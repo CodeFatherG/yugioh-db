@@ -1,6 +1,6 @@
 {
     "id": 47647354,
-    "name": "Rex, Gale Fur Hire",
+    "name": "Rex, Ride Fur Hire",
     "typeline": [
         "Dinosaur",
         "Effect"
@@ -16,6 +16,15 @@
     "attribute": "WIND",
     "archetype": "Fur Hire",
     "ygoprodeck_url": "https://ygoprodeck.com/card/rex-gale-fur-hire-15289",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN017",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 47647354,
