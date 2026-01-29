@@ -1,6 +1,6 @@
 {
     "id": 44839512,
-    "name": "Conduction Warrior Linear Magnum \u00b1",
+    "name": "Conduction Warrior Linear Magnum Plus Minus",
     "typeline": [
         "Rock",
         "Effect"
@@ -8,13 +8,22 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 2 \"Magnet Warrior\" monsters whose original Level is 4 or lower from your hand, Deck, and/or face-up field to the GY. You can only Special Summon \"Conduction Warrior Linear Magnum \u00b1\" once per turn this way. You can target 1 other EARTH monster on the field; this card gains ATK equal to half that monster's until the end of this turn. If this card is destroyed and sent to the GY: Add it to your hand. You can only use each effect of \"Conduction Warrior Linear Magnum \u00b1\" once per turn.",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 2 \"Magnet Warrior\" monsters with an original Level of 4 or lower from your hand, Deck, and/or face-up field to the GY. You can only Special Summon \"Conduction Warrior Linear Magnum Plus Minus\" once per turn this way. You can target 1 other EARTH monster on the field; this card gains half that monster's ATK until the end of this turn. If this card is destroyed and sent to the GY: Add it to your hand. You can only use each effect of \"Conduction Warrior Linear Magnum Plus Minus\" once per turn.",
     "race": "Rock",
     "atk": 2700,
     "def": 1300,
     "level": 7,
     "attribute": "EARTH",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/conduction-warrior-linear-magnum-15318",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/conduction-warrior-linear-magnum-plus-minus-15318",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN099",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 44839512,
@@ -25,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.79",
+            "tcgplayer_price": "1.28",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

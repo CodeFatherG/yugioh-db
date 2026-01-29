@@ -4,10 +4,10 @@
     "type": "Spell Card",
     "humanReadableCardType": "Field Spell",
     "frameType": "spell",
-    "desc": "Fiend monsters in the Extra Monster Zone gain 1000 ATK. You can activate 1 of these effects;\r\n\u25cf Banish 1 Fiend monster or \"Archfiend\" card from your hand or GY; add 1 \"Archfiend\" card from your Deck to your hand, except a Field Spell.\r\n\u25cf Add 1 \"Archfiend\" Pendulum Monster from your Deck to your Extra Deck face-up.\r\nYou can only use this effect of \"Archfiend's Strategy Game\" once per turn.",
+    "desc": "Fiend monsters in the Extra Monster Zone(s) gain 1000 ATK. You can activate 1 of these effects;\r\n\u25cf Banish 1 Fiend monster or 1 \"Archfiend\" card from your hand or GY; add 1 \"Archfiend\" card from your Deck to your hand, except a Field Spell.\r\n\u25cf Add 1 \"Archfiend\" Pendulum Monster from your Deck to your face-up Extra Deck.\r\nYou can only use this effect of \"Archfiend Strategy\" once per turn.",
     "race": "Field",
     "archetype": "Archfiend",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-s-strategy-game-15294",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-strategy-15294",
     "card_sets": [
         {
             "set_name": "Burst Protocol",
@@ -27,7 +27,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
+            "cardmarket_price": "0.10",
             "tcgplayer_price": "0.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

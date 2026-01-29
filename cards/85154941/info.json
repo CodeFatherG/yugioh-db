@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Gains ATK equal to its Level x 200. You can only use each of the following effects of \"Duke Archfiend\" once per turn. You can target 1 face-up monster you control that has a Level; send 1 \"Archfiend\" monster from your Deck to the GY, except \"Duke Archfiend\", and if you do, increase that monster's by the Level of the sent monster. When your Ritual Monster is destroyed by battle while this card is in your GY: You can Special Summon this card.",
+    "desc": "Gains ATK equal to its Level x 200. You can only use each of the following effects of \"Duke Archfiend\" once per turn. You can target 1 face-up monster you control that has a Level; send 1 \"Archfiend\" monster from your Deck to the GY, except \"Duke Archfiend\", and if you do, increase that monster's Level by the Level of the sent monster. When your Ritual Monster is destroyed by battle while this card is in your GY: You can Special Summon this card.",
     "race": "Fiend",
     "atk": 0,
     "def": 2000,
@@ -35,7 +35,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
+            "cardmarket_price": "0.10",
             "tcgplayer_price": "0.83",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

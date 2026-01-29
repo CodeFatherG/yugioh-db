@@ -9,13 +9,13 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Special Summoned: You can Set 1 \"Assault Mode Activate\" from your hand, Deck, or GY. It can be activated this turn. You can discard 1 card; add to your hand, or Special Summon, 1 monster that mentions \"Assault Mode Activate\" from your Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use each effect of \"Night Wing Priestess\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuners\r\nIf this card is Special Summoned: You can Set 1 \"Assault Mode Activate\" from your hand, Deck, or GY. It can be activated this turn. You can discard 1 card; add to your hand or Special Summon 1 monster from your Deck that mentions \"Assault Mode Activate\", also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use each effect of \"Nightwinged Cleric\" once per turn.",
     "race": "Spellcaster",
     "atk": 2500,
     "def": 2500,
     "level": 8,
     "attribute": "WIND",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/night-wing-priestess-15332",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nightwinged-cleric-15332",
     "card_sets": [
         {
             "set_name": "Burst Protocol",
@@ -35,7 +35,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
+            "cardmarket_price": "0.53",
             "tcgplayer_price": "0.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

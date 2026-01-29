@@ -4,10 +4,10 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Target face-up cards on the field, up to the number of monsters \"Fur Hire\" you control with different names; destroy them, or if you control a Level 8 or higher and a Link-3 or higher monsters \"Fur Hire\", you can banish them instead. If a Level 8 or higher and/or Link-3 or higher monster(s) \"Fur Hire\" is Special Summoned to your field while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use 1 \"Secret Technique Fur Hire\" effect per turn, and only once that turn.",
+    "desc": "Target face-up cards on the field, up to the number of monsters \"Fur Hire\" you control with different names; destroy those targeted cards, or if you control at least 1 each of Level 8 or higher and Link-3 or higher monsters \"Fur Hire\", you can banish those targeted cards instead. If a Level 8 or higher, or Link-3 or higher, monster \"Fur Hire\" is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use 1 \"Furtive Techniques Fur Hire, Fur All Your Ultimate Moves\" effect per turn, and only once that turn.",
     "race": "Normal",
     "archetype": "Fur Hire",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/secret-technique-fur-hire-15288",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/furtive-techniques-fur-hire-fur-all-your-ultimate-moves-15288",
     "card_sets": [
         {
             "set_name": "Burst Protocol",
@@ -27,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.95",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

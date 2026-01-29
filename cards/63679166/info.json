@@ -4,10 +4,10 @@
     "type": "Spell Card",
     "humanReadableCardType": "Ritual Spell",
     "frameType": "spell",
-    "desc": "This card can be used to Ritual Summon any \"Archfiend\" Ritual Monster from your hand, face-up Extra Deck, GY, or banishment. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. During the Standby Phase, if you have \"Archfiend Emperor\" face-up in your Extra Deck: You can add this card from your GY or banishment to your hand. You can only use this effect of \"Throne of Archfiends\" once per turn.",
+    "desc": "Ritual Summon 1 \"Archfiend\" Ritual Monster from your hand, face-up Extra Deck, GY, or banishment, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. During the Standby Phase, if you have \"Archfiend Emperor\" in your face-up Extra Deck: You can add this card from your GY or banishment to your hand. You can only use this effect of \"Throne of the Archfiends\" once per turn.",
     "race": "Ritual",
     "archetype": "Archfiend",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/throne-of-archfiends-15298",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/throne-of-the-archfiends-15298",
     "card_sets": [
         {
             "set_name": "Burst Protocol",
@@ -27,7 +27,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
+            "cardmarket_price": "0.10",
             "tcgplayer_price": "0.00",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
