@@ -4,7 +4,7 @@
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "When this card is activated: Add 2 \"Exosister\" monsters from your Deck to your hand, then discard 1 card. You can target 1 face-up monster you control; immediately after this effect resolves, Normal Summon 1 \"Exosister\" monster mentioned on that monster. If a monster(s) is sent to your opponent's GY, even during the Damage Step: You can banish 1 of them (their choice). You can only use each effect of \"Exosister Betrayal\" once per turn.",
+    "desc": "When this card is activated: Add 2 \"Exosister\" monsters from your Deck to your hand, then discard 1 card. You can target 1 face-up monster you control; immediately after this effect resolves, Normal Summon 1 \"Exosister\" monster mentioned on that monster. If a monster(s) is sent to your opponent's GY, even during the Damage Step: You can activate this effect; your opponent banishes 1 of them. You can only use each effect of \"Exosister Betrayal\" once per turn.",
     "race": "Continuous",
     "archetype": "Exosister",
     "ygoprodeck_url": "https://ygoprodeck.com/card/exosister-betrayal-15368",
@@ -27,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.64",
-            "tcgplayer_price": "1.17",
+            "cardmarket_price": "0.51",
+            "tcgplayer_price": "1.05",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
