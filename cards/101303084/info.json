@@ -16,6 +16,22 @@
     "level": 10,
     "attribute": "DARK",
     "ygoprodeck_url": "https://ygoprodeck.com/card/mercurium-the-living-quicksilver-15541",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN084",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN084",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 101303084,
@@ -26,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "5.63",
+            "tcgplayer_price": "5.54",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
