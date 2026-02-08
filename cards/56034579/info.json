@@ -1,0 +1,45 @@
+{
+    "id": 56034579,
+    "name": "GMX Chairman Kimridge",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can reveal this card in your hand; add 1 \"GMX Applied Experiment #55\" from your Deck or GY to your hand, and if you do, shuffle this card into the Deck. If this card is Special Summoned by a monster effect: You can target 2 cards in your GY, that are \"GMX\" cards and/or Dinosaur monsters; place them on top of your Deck in any order, then you can destroy 1 Attack Position monster your opponent controls. You can only use each effect of \"GMX Chairman Kimridge\" once per turn.",
+    "race": "Psychic",
+    "atk": 1000,
+    "def": 900,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "GMX",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gmx-chairman-kimridge-15529",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN091",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 56034579,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56034579.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56034579.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56034579.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

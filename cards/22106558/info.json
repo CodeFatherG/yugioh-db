@@ -1,0 +1,45 @@
+{
+    "id": 22106558,
+    "name": "Mechanical Mechanic",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "When an attack is declared involving your other Machine monster: You can increase or decrease the Level of that other monster you control by 1. You can only use each of the following effects of \"Mechanical Mechanic\" once per turn. If a card is in the Field Zone: You can Special Summon this card from your hand. You can target 1 face-up Spell/Trap you control; destroy it, and if you do, add 1 WIND Machine monster with 0 ATK from your Deck to your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters.",
+    "race": "Machine",
+    "atk": 500,
+    "def": 500,
+    "level": 3,
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mechanical-mechanic-15538",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN081",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 22106558,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22106558.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22106558.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22106558.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

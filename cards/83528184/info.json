@@ -1,0 +1,45 @@
+{
+    "id": 83528184,
+    "name": "GMX Associate Noma",
+    "typeline": [
+        "Reptile",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Special Summoned by a monster effect: You can target 1 card each from your GY and your opponent's GY; place each card on either the top or bottom of the Deck. If a monster(s) is Normal or Special Summoned to your opponent's field, while this card is in your Monster Zone (except during the Damage Step): You can Fusion Summon 1 \"GMX\" Fusion Monster from your Extra Deck, by shuffling its materials from your field, GY, and/or banishment into the Deck. You can only use each effect of \"GMX Associate Noma\" once per turn.",
+    "race": "Reptile",
+    "atk": 900,
+    "def": 1300,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "GMX",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gmx-associate-noma-15528",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN092",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 83528184,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83528184.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83528184.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83528184.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

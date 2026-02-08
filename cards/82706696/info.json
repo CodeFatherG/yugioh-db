@@ -1,0 +1,46 @@
+{
+    "id": 82706696,
+    "name": "GMX - VELOX",
+    "typeline": [
+        "Dinosaur",
+        "Fusion",
+        "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "1 \"GMX\" monster + 1 Dinosaur monster\r\nEach time your opponent Normal or Special Summons a monster(s), gain 200 LP. During your opponent's turn (Quick Effect): You can target 1 card your opponent controls; excavate the top cards of your Deck until you excavate a \"GMX\" monster or a Dinosaur monster, lose 400 LP for each excavated card, add that \"GMX\" or Dinosaur monster to your hand or Special Summon it, and shuffle the rest into the Deck. Also, after that, destroy the targeted card. You can only use this effect of \"GMX - VELOX\" once per turn.",
+    "race": "Dinosaur",
+    "atk": 2700,
+    "def": 1300,
+    "level": 8,
+    "attribute": "DARK",
+    "archetype": "GMX",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gmx-velox-15525",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN095",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 82706696,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82706696.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82706696.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82706696.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 68378605,
+    "name": "Vodnika the Fountain Spirit",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If a Level 10 monster(s) is sent to the GY, except \"Vodnika the Fountain Spirit\" (except during the Damage Step): You can Special Summon this card from your GY (if it was there when the monster was sent) or hand (even if not) in Defense Position, but banish it when it leaves the field. You can target 1 Level 10 monster in your GY; Special Summon it to your opponent's field (but negate its effects), then draw 1 card. You can only use each effect of \"Vodnika the Fountain Spirit\" once per turn.",
+    "race": "Aqua",
+    "atk": 2000,
+    "def": 2100,
+    "level": 10,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vodnika-the-fountain-spirit-15537",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN085",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 68378605,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68378605.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68378605.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68378605.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
