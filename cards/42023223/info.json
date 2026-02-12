@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/alpha-the-electromagnet-warrior-3584",
     "card_sets": [
         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN080",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Yugi Muto",
             "set_code": "SDMY-EN001",
             "set_rarity": "Super Rare",
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.97",
-            "tcgplayer_price": "3.33",
+            "cardmarket_price": "1.92",
+            "tcgplayer_price": "3.35",
             "ebay_price": "3.49",
             "amazon_price": "7.54",
             "coolstuffinc_price": "3.99"

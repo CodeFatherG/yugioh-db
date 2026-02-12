@@ -15,6 +15,13 @@
             "set_rarity": "Common",
             "set_rarity_code": "(C)",
             "set_price": "0"
+        },
+        {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -28,7 +35,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.17",
-            "tcgplayer_price": "0.14",
+            "tcgplayer_price": "0.13",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

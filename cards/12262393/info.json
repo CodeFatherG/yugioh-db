@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/delta-the-magnet-warrior-1059",
     "card_sets": [
         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN085",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Raging Tempest",
             "set_code": "RATE-EN097",
             "set_rarity": "Super Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.25",
-            "tcgplayer_price": "0.75",
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.81",
             "ebay_price": "1.99",
             "amazon_price": "1.99",
             "coolstuffinc_price": "0.39"

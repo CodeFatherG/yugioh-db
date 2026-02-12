@@ -4,9 +4,18 @@
     "type": "Spell Card",
     "humanReadableCardType": "Ritual Spell",
     "frameType": "spell",
-    "desc": "This card is used to Ritual Summon \"Archfiend Matador\". You must also Tribute monsters from your hand or field whose total Levels equal 6 or more. You can banish this card from your GY; Special Summon 1 non-Ritual \"Archfiend\" monster from your hand. You can only use this effect of \"Ritual of the Matador\" once per turn.",
+    "desc": "This card can be used to Ritual Summon \"Matador Archfiend\". You must also Tribute monsters from your hand or field whose total Levels equal 6 or more. You can banish this card from your GY; Special Summon 1 non-Ritual \"Archfiend\" monster from your hand. You can only use this effect of \"Ritual of the Matador\" once per turn.",
     "race": "Ritual",
     "ygoprodeck_url": "https://ygoprodeck.com/card/ritual-of-the-matador-15317",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN024",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 70105073,

@@ -26,6 +26,13 @@
             "set_price": "10.93"
         },
         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN094",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 27",
             "set_code": "OP27-EN020",
             "set_rarity": "Common",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.26",
-            "tcgplayer_price": "1.26",
+            "cardmarket_price": "1.24",
+            "tcgplayer_price": "1.27",
             "ebay_price": "10.00",
             "amazon_price": "0.95",
             "coolstuffinc_price": "6.99"

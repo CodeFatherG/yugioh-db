@@ -4,9 +4,18 @@
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "You can discard 1 card, then target 1 monster your opponent controls that has a Level; roll a six-sided die and apply this effect based on the result.\r\n\u25cf Higher than the targeted monster's Level: Destroy the targeted monster, then you can add 1 monster with the same original Level from your Deck to your hand, also you cannot activate the effect of \"Shateki\" for the rest of this turn.\r\n\u25cf Equal to or lower than that targeted monster's Level: Reduce the targeted monster's Level by 1.",
+    "desc": "You can discard 1 card, then target 1 monster your opponent controls with a Level; roll a six-sided die and apply this effect based on the result.\r\n\u25cf Higher than its Level: Destroy that monster, then you can add 1 monster with the same original Level from your Deck to your hand, also you cannot activate the effect of \"Shateki\" for the rest of this turn.\r\n\u25cf Equal to or lower than its Level: Reduce that monster's Level by 1 (even if this card leaves the field).",
     "race": "Continuous",
     "ygoprodeck_url": "https://ygoprodeck.com/card/shateki-14865",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN038",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 5574510,

@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/magnet-conversion-6491",
     "card_sets": [
         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN122",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Speed Duel: Battle City Box",
             "set_code": "SBCB-EN041",
             "set_rarity": "Common",
@@ -35,7 +42,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.14",
-            "tcgplayer_price": "0.50",
+            "tcgplayer_price": "0.51",
             "ebay_price": "0.99",
             "amazon_price": "0.99",
             "coolstuffinc_price": "0.25"

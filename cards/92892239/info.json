@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/borreload-furious-dragon-10321",
     "card_sets": [
         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN099",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Rokket Revolt",
             "set_code": "SDRR-EN042",
             "set_rarity": "Ultra Rare",
@@ -37,7 +44,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.41",
-            "tcgplayer_price": "4.81",
+            "tcgplayer_price": "4.89",
             "ebay_price": "3.45",
             "amazon_price": "0.50",
             "coolstuffinc_price": "0.99"

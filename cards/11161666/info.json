@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can target 1 \"Mikanko\" card you control; return it to the hand. If either player equips an Equip Card(s) to this card: You can Special Summon 1 non-Illusion \"Mikanko\" monster from your Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except \"Mikanko\" monsters. If this card is sent to the GY: You can target 1 face-up monster on the field; equip this card to it as an Equip Spell. You can only use each effect of \"Sanaki the Mikanko Devotee\" once per turn.",
+    "desc": "You can target 1 \"Mikanko\" card you control; return it to the hand. If an Equip Card becomes equipped to this card: You can Special Summon 1 non-Illusion \"Mikanko\" monster from your Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except \"Mikanko\" monsters. If this card is sent to the GY: You can target 1 face-up monster on the field; equip this card to it as an Equip Spell. You can only use each effect of \"Sanaki the Mikanko Devotee\" once per turn.",
     "race": "Illusion",
     "atk": 0,
     "def": 0,
@@ -16,6 +16,15 @@
     "attribute": "EARTH",
     "archetype": "Mikanko",
     "ygoprodeck_url": "https://ygoprodeck.com/card/sanaki-the-mikanko-devotee-15126",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN017",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 11161666,

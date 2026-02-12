@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/pumpking-the-king-of-ghosts-2473",
     "card_sets": [
         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN061",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Metal Raiders",
             "set_code": "MRD-079",
             "set_rarity": "Common",
@@ -48,7 +55,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.25",
+            "cardmarket_price": "0.22",
             "tcgplayer_price": "0.25",
             "ebay_price": "0.99",
             "amazon_price": "4.72",

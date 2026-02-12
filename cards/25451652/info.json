@@ -30,6 +30,13 @@
             "set_rarity": "Rare",
             "set_rarity_code": "(R)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN083",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.35",
-            "tcgplayer_price": "0.25",
+            "cardmarket_price": "0.37",
+            "tcgplayer_price": "0.23",
             "ebay_price": "0.99",
             "amazon_price": "3.99",
             "coolstuffinc_price": "0.39"

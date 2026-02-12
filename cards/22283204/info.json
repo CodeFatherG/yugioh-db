@@ -4,9 +4,26 @@
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Target 1 \"Dark Magician\" or \"Dark Magician Girl\" you control or in your GY; Fusion Summon 1 Fusion Monster from your Extra Deck that mentions it as material, by shuffling that monster into the Deck, but banish it during the End Phase of the next turn. (This is treated as a Special Summon with \"The Eye of Timaeus\".) You can only activate 1 \"The Gaze of Timaeus\" per turn.",
+    "desc": "Target 1 \"Dark Magician\" or \"Dark Magician Girl\" in your field or GY; Fusion Summon 1 Fusion Monster from your Extra Deck that mentions that monster as material, by shuffling it into the Deck as material (this is treated as a Fusion Summon with \"The Eye of Timaeus\"), but banish it during the End Phase of the next turn. You can only activate 1 \"The Gaze of Timaeus\" per turn.",
     "race": "Quick-Play",
+    "archetype": "Timaeus",
     "ygoprodeck_url": "https://ygoprodeck.com/card/the-gaze-of-timaeus-15110",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN013",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN013",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 22283204,

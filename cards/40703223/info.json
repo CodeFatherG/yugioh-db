@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/kuriboh-token-3464",
     "card_sets": [
         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN027",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Yu-Gi-Oh! Advent Calendar (2019)",
             "set_code": "AC19-EN003",
             "set_rarity": "Super Rare",
@@ -27,7 +34,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.73",
+            "cardmarket_price": "0.68",
             "tcgplayer_price": "4.72",
             "ebay_price": "2.79",
             "amazon_price": "2.85",

@@ -4,9 +4,18 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Target 1 face-up monster on the field and 1 \"Elemental HERO\" monster in your GY; that monster on the field gains ATK equal to the ATK of that other monster in the GY (until the end of this turn), then if an \"Elemental HERO\" Normal Monster is in your field or GY, you can Fusion Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, by banishing its materials from your GY. You can only activate 1 \"Soul Union\" per turn.",
+    "desc": "Target 1 face-up monster on the field and 1 \"Elemental HERO\" monster in your GY; that target on the field gains ATK equal to the other target's ATK (until the end of this turn), then if you have an \"Elemental HERO\" Normal Monster in your field or GY (except during the Damage Step), you can Fusion Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, by banishing its materials from your GY. You can only activate 1 \"Soul Union\" per turn.",
     "race": "Normal",
     "ygoprodeck_url": "https://ygoprodeck.com/card/soul-union-15311",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN028",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 69389481,

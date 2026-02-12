@@ -16,6 +16,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN110",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Raging Battle",
             "set_code": "RGBT-EN048",
             "set_rarity": "Super Rare",
@@ -55,7 +62,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.13",
-            "tcgplayer_price": "0.11",
+            "tcgplayer_price": "0.12",
             "ebay_price": "0.99",
             "amazon_price": "3.12",
             "coolstuffinc_price": "0.49"

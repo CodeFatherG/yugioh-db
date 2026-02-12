@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/absorouter-dragon-10387",
     "card_sets": [
         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN090",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Rokket Revolt",
             "set_code": "SDRR-EN005",
             "set_rarity": "Super Rare",
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.50",
-            "tcgplayer_price": "3.49",
+            "cardmarket_price": "1.49",
+            "tcgplayer_price": "3.45",
             "ebay_price": "4.50",
             "amazon_price": "2.00",
             "coolstuffinc_price": "1.99"

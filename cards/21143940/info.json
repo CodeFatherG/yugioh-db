@@ -52,6 +52,13 @@
             "set_price": "1.38"
         },
         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN071",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Premium Gold: Infinite Gold",
             "set_code": "PGL3-EN083",
             "set_rarity": "Gold Rare",
@@ -84,7 +91,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.19",
-            "tcgplayer_price": "0.32",
+            "tcgplayer_price": "0.34",
             "ebay_price": "2.95",
             "amazon_price": "2.07",
             "coolstuffinc_price": "0.39"

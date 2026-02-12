@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/magnetic-field-420",
     "card_sets": [
         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN111",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Speed Duel Tournament Pack 4",
             "set_code": "STP4-EN013",
             "set_rarity": "Super Rare",
@@ -41,8 +48,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.26",
-            "tcgplayer_price": "1.74",
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "1.95",
             "ebay_price": "2.49",
             "amazon_price": "1.79",
             "coolstuffinc_price": "0.79"

@@ -9,13 +9,22 @@
     "type": "Normal Tuner Monster",
     "humanReadableCardType": "Tuner Normal Monster",
     "frameType": "normal",
-    "desc": "''A member of the Dune Defense Force who manage to keep repelling the foreign invaders, thanks to their heroic efforts. His sword is supposed to be wielded only for the sake of protecting those he wishes to protect.''",
+    "desc": "''Through brave struggles, Stinger and the Dune Defenders have repelled all approaching external threats. His sword should only be used for the defense of its people.''",
     "race": "Psychic",
     "atk": 800,
     "def": 1000,
     "level": 3,
     "attribute": "WIND",
     "ygoprodeck_url": "https://ygoprodeck.com/card/stinger-the-electric-expeller-15070",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN040",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 57649113,

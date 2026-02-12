@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "Any card sent to your GY is banished instead. You can activate 1 of these effects;\r\n\u25cf Add 1 \"Macro Cosmos\", or 1 card that mentions it, from your Deck to your hand, except \"Chaos Distill\".\r\n\u25cf If \"Macro Cosmos\" is on the field: Banish this face-up card from the Spell & Trap Zone; add 1 LIGHT monster with ? ATK from your Deck to your hand.\r\nYou can only use this effect of \"Chaos Distill\" once per turn.",
+    "desc": "While this card is face-up on the field, any card sent to your GY is banished instead. You can activate 1 of these effects;\r\n\u25cf Add 1 \"Macro Cosmos\", or 1 card that mentions it, from your Deck to your hand, except \"Chaos Distill\".\r\n\u25cf If \"Macro Cosmos\" is on the field: Banish this face-up card from the Spell & Trap Zone; add 1 LIGHT monster with ? ATK from your Deck to your hand.\r\nYou can only use this effect of \"Chaos Distill\" once per turn.",
     "race": "Continuous",
     "archetype": "Chaos",
     "ygoprodeck_url": "https://ygoprodeck.com/card/chaos-distill-15320",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN026",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 6500778,

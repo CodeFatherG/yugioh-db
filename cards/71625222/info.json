@@ -67,6 +67,13 @@
             "set_price": "1.66"
         },
         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN060",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Metal Raiders",
             "set_code": "MRD-065",
             "set_rarity": "Ultra Rare",
@@ -133,7 +140,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.10",
+            "cardmarket_price": "0.09",
             "tcgplayer_price": "0.27",
             "ebay_price": "11.95",
             "amazon_price": "5.76",

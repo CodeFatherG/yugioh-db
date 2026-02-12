@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/vic-viper-t301-10244",
     "card_sets": [
         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rising Rampage",
             "set_code": "RIRA-EN024",
             "set_rarity": "Rare",
@@ -34,7 +41,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.17",
+            "cardmarket_price": "0.19",
             "tcgplayer_price": "0.19",
             "ebay_price": "0.99",
             "amazon_price": "0.20",

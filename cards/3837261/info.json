@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can discard 1 card; Special Summon 1 Level 4 or lower Dragon monster from your hand or Deck, except \"Dragonic Warrior\", but its effects are negated. You can only use this effect of \"Dragonic Warrior\" once per turn.",
+    "desc": "You can discard 1 card; Special Summon 1 Level 4 or lower Dragon monster from your hand or Deck, except \"Dragonic Warrior\", but negate its effects. You can only use this effect of \"Dragonic Warrior\" once per turn.",
     "race": "Dragon",
     "atk": 1500,
     "def": 1000,
@@ -16,6 +16,15 @@
     "attribute": "FIRE",
     "archetype": "Warrior",
     "ygoprodeck_url": "https://ygoprodeck.com/card/dragonic-warrior-15316",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN043",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 3837261,

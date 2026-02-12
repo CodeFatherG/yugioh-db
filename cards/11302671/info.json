@@ -26,6 +26,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN093",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Secret Slayers",
             "set_code": "SESL-EN003",
             "set_rarity": "Secret Rare",
@@ -43,7 +50,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.21",
+            "cardmarket_price": "0.30",
             "tcgplayer_price": "0.22",
             "ebay_price": "0.99",
             "amazon_price": "0.99",

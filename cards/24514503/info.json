@@ -8,13 +8,22 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Cannot be destroyed by card effects. You can only use each of the following effects of \"Soulicer Crystal\" once per turn. If your opponent controls 2 or more monsters than you do: You can Special Summon this card from your hand. You can target 1 Effect Monster your opponent controls; negate its effects.",
+    "desc": "Cannot be destroyed by card effects. You can only use each of the following effects of \"Soulicer Crystal\" once per turn. If your opponent controls at least 2 more monsters than you do: You can Special Summon this card from your hand. You can target 1 Effect Monster your opponent controls; negate its effects.",
     "race": "Aqua",
     "atk": 300,
     "def": 1900,
     "level": 6,
     "attribute": "LIGHT",
     "ygoprodeck_url": "https://ygoprodeck.com/card/soulicer-crystal-14957",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN042",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 24514503,

@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/gamma-the-electromagnet-warrior-1334",
     "card_sets": [
         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN082",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Yugi Muto",
             "set_code": "SDMY-EN003",
             "set_rarity": "Super Rare",
@@ -35,7 +42,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.83",
+            "cardmarket_price": "1.98",
             "tcgplayer_price": "5.63",
             "ebay_price": "3.49",
             "amazon_price": "5.34",

@@ -51,6 +51,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Premium Gold: Infinite Gold",
             "set_code": "PGL3-EN095",
             "set_rarity": "Gold Rare",
@@ -96,7 +103,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.82",
+            "cardmarket_price": "0.80",
             "tcgplayer_price": "0.44",
             "ebay_price": "12.00",
             "amazon_price": "1.60",

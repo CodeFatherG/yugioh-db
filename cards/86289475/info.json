@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is in your hand or GY: You can destroy 1 other Rock monster in your hand or face-up field, and if you do, Special Summon this card, but banish it when it leaves the field. When an EARTH monster on the field activates its effect (Quick Effect): You can Tribute this card, then target 1 face-up monster on the field; change it to face-down Defense Position. You can only use each effect of \"Magnet Warrior Omega Plus\" once per turn.",
+    "desc": "If this card is in your hand or GY: You can destroy 1 other Rock monster in your hand or face-up field, and if you do, Special Summon this card, but banish it when it leaves the field. When an EARTH monster's effect is activated on the field (Quick Effect): You can Tribute this card, then target 1 face-up monster on the field; change it to face-down Defense Position. You can only use each effect of \"Magnet Warrior Omega Plus\" once per turn.",
     "race": "Rock",
     "atk": 800,
     "def": 1900,
@@ -16,6 +16,15 @@
     "attribute": "EARTH",
     "archetype": "Magnet",
     "ygoprodeck_url": "https://ygoprodeck.com/card/magnet-warrior-omega-plus-15369",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN054",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 86289475,

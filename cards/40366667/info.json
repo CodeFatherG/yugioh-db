@@ -16,6 +16,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN126",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rage of the Abyss",
             "set_code": "ROTA-EN079",
             "set_rarity": "Quarter Century Secret Rare",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "27.01",
-            "tcgplayer_price": "36.44",
+            "cardmarket_price": "26.58",
+            "tcgplayer_price": "36.51",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

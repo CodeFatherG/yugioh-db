@@ -60,6 +60,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN058",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Millennium Pack",
             "set_code": "MIL1-EN025",
             "set_rarity": "Rare",
@@ -125,7 +132,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.15",
+            "cardmarket_price": "0.14",
             "tcgplayer_price": "0.13",
             "ebay_price": "4.00",
             "amazon_price": "445.01",

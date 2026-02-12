@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "When a card or effect is activated that targets a Fiend and/or Fusion Monster(s) you control, or when your Fiend or Fusion Monster is targeted for an attack (Quick Effect): You can discard this card, then target 1 of them; until the end of this turn, it cannot be destroyed by battle or card effects, also its effects activated on the field cannot be negated. If this card is sent from the hand to the GY by card effect: You can add 1 \"Polymerization\" from your Deck or GY to your hand. You can only use each effect of \"Darkuriboh\" once per turn.",
+    "desc": "When a Fiend monster(s) and/or Fusion Monster(s) you control are targeted for an attack, or a card or effect is activated that targets them (Quick Effect): You can discard this card, then target 1 of those monsters; until the end of this turn, it cannot be destroyed by battle or card effects, also its effects activated in the Monster Zone cannot be negated. If this card is sent from the hand to the GY by card effect: You can add 1 \"Polymerization\" from your Deck or GY to your hand. You can only use each effect of \"Darkuriboh\" once per turn.",
     "race": "Fiend",
     "atk": 300,
     "def": 200,
@@ -16,6 +16,22 @@
     "attribute": "DARK",
     "archetype": "Kuriboh",
     "ygoprodeck_url": "https://ygoprodeck.com/card/darkuriboh-15005",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN050",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN050",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 1035143,
