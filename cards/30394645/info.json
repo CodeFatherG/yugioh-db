@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If a monster Special Summoned from the Extra Deck is on the field: You can Special Summon this card from your hand. If this card is Special Summoned from the hand: You can make each player send 1 monster from their Extra Deck to the GY. If this card is sent to the GY: You can target 1 \"Dogmatika\" card in your GY, except \"Dogmatika Chaplain\"; add it to your hand. You can only use each effect of \"Dogmatika Chaplain\" once per turn.",
+    "desc": "If a monster Special Summoned from the Extra Deck is on the field and this card is in your hand: You can Special Summon this card. If this card is Special Summoned from the hand: You can have each player send 1 monster from their Extra Deck to the GY. If this card is sent to the GY: You can target 1 \"Dogmatika\" card in your GY, except \"Dogmatika Lawbringer\"; add it to your hand. You can only use each effect of \"Dogmatika Lawbringer\" once per turn.",
     "race": "Spellcaster",
     "atk": 2000,
     "def": 2000,
     "level": 8,
     "attribute": "LIGHT",
     "archetype": "Dogmatika",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/dogmatika-chaplain-15259",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dogmatika-lawbringer-15259",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN052",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 30394645,
