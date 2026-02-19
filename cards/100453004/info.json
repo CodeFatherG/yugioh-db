@@ -1,0 +1,36 @@
+{
+    "id": 100453004,
+    "name": "Great Mammoth of the Netherworld",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Special Summoned and you control \"Call of the Haunted\" or a Zombie monster, except \"Great Mammoth of the Netherworld\": You can target 1 card on the field; destroy it. You can only use this effect of \"Great Mammoth of the Netherworld\" once per turn. A Zombie Xyz Monster that has this card as material gains this effect.\r\n\u25cf Gains 1000 ATK.",
+    "race": "Zombie",
+    "atk": 2200,
+    "def": 1800,
+    "level": 6,
+    "attribute": "DARK",
+    "archetype": "Call of the Haunted",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/great-mammoth-of-the-netherworld-15547",
+    "card_images": [
+        {
+            "id": 100453004,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100453004.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100453004.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100453004.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

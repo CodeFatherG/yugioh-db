@@ -1,0 +1,36 @@
+{
+    "id": 100453002,
+    "name": "Army of the Haunted",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If you control \"Call of the Haunted\" and this card is in your hand or GY: You can Special Summon this card. If this card is sent to the GY: You can target 1 \"Call of the Haunted\" in your GY; Set it. You can only use each effect of \"Army of the Haunted\" once per turn.",
+    "race": "Zombie",
+    "atk": 2400,
+    "def": 0,
+    "level": 6,
+    "attribute": "DARK",
+    "archetype": "Call of the Haunted",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/army-of-the-haunted-15550",
+    "card_images": [
+        {
+            "id": 100453002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100453002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100453002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100453002.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
