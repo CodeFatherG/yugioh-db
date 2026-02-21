@@ -1,0 +1,36 @@
+{
+    "id": 81684048,
+    "name": "Pumpking the King of Grave Ghosts",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can reveal this card in your hand; Set 1 \"Call of the Haunted\" from your Deck or GY, and if you do, discard 1 card. That Set card can be activated this turn. If this card is Special Summoned: You can Special Summon 1 Level 6 Zombie monster from your Deck, except with 1950 ATK, also you cannot Special Summon from the hand or GY for the rest of this turn, except Zombie monsters. You can only use each effect of \"Pumpking the King of Grave Ghosts\" once per turn.",
+    "race": "Zombie",
+    "atk": 1950,
+    "def": 2600,
+    "level": 6,
+    "attribute": "DARK",
+    "archetype": "Call of the Haunted",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pumpking-the-king-of-grave-ghosts-15546",
+    "card_images": [
+        {
+            "id": 81684048,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81684048.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81684048.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81684048.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "13.97",
+            "tcgplayer_price": "42.66",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

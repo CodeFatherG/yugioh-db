@@ -1,6 +1,6 @@
 {
     "id": 69272449,
-    "name": "Maliss White Rabbit",
+    "name": "Maliss <P> White Rabbit",
     "typeline": [
         "Cyberse",
         "Effect"
@@ -46,6 +46,9 @@
             "set_price": "0"
         }
     ],
+    "banlist_info": {
+        "ban_tcg": "Semi-Limited"
+    },
     "card_images": [
         {
             "id": 69272449,
@@ -56,8 +59,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.38",
-            "tcgplayer_price": "2.42",
+            "cardmarket_price": "1.83",
+            "tcgplayer_price": "2.31",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
