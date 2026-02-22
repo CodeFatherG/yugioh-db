@@ -8,6 +8,15 @@
     "race": "Quick-Play",
     "archetype": "Call of the Haunted",
     "ygoprodeck_url": "https://ygoprodeck.com/card/vortex-of-time-15543",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 42138622,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.27",
-            "tcgplayer_price": "3.33",
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.44",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -16,6 +16,15 @@
     "attribute": "DARK",
     "archetype": "Call of the Haunted",
     "ygoprodeck_url": "https://ygoprodeck.com/card/great-mammoth-of-the-netherworld-15547",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN004",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 80461466,
@@ -26,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.11",
-            "tcgplayer_price": "1.37",
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.22",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

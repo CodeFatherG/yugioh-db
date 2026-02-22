@@ -8,6 +8,15 @@
     "race": "Field",
     "archetype": "Call of the Haunted",
     "ygoprodeck_url": "https://ygoprodeck.com/card/call-of-the-forgotten-15544",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN007",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 80749819,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "12.10",
-            "tcgplayer_price": "22.18",
+            "cardmarket_price": "6.36",
+            "tcgplayer_price": "3.55",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

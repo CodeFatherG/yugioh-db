@@ -16,6 +16,15 @@
     "attribute": "DARK",
     "archetype": "Call of the Haunted",
     "ygoprodeck_url": "https://ygoprodeck.com/card/army-of-the-haunted-15550",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 18078153,
@@ -26,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.26",
-            "tcgplayer_price": "4.14",
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.43",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
