@@ -53,6 +53,20 @@
             "set_price": "29.3"
         },
         {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENC09",
+            "set_rarity": "2",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENY17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Collection Kaiba Mega Pack",
             "set_code": "LCKC-EN080",
             "set_rarity": "Ultra Rare",
@@ -177,8 +191,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.93",
-            "tcgplayer_price": "0.80",
+            "cardmarket_price": "0.92",
+            "tcgplayer_price": "0.66",
             "ebay_price": "11.95",
             "amazon_price": "28.99",
             "coolstuffinc_price": "4.99"

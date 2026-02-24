@@ -51,6 +51,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENA24",
+            "set_rarity": "2",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENY31",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Magnificent Mavens",
             "set_code": "MAMA-EN100",
             "set_rarity": "Ultra Rare",
@@ -110,8 +124,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.73",
-            "tcgplayer_price": "0.65",
+            "cardmarket_price": "0.74",
+            "tcgplayer_price": "0.74",
             "ebay_price": "3.29",
             "amazon_price": "14.46",
             "coolstuffinc_price": "7.99"

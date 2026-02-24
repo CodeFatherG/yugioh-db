@@ -4,9 +4,9 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Target up to 3 Level 4 or lower \"Magnet Warrior\" monsters in your Graveyard; add them to your hand. During either player's turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 of your banished Level 4 or lower \"Magnet Warrior\" monsters; Special Summon it.",
+    "desc": "Target up to 3 Level 4 or lower \"Magnet Warrior\" monsters in your GY; add them to your hand. During either player's turn, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 of your banished Level 4 or lower \"Magnet Warrior\" monsters; Special Summon it.",
     "race": "Normal",
-    "archetype": "Magnet Warrior",
+    "archetype": "Magnet",
     "ygoprodeck_url": "https://ygoprodeck.com/card/magnet-conversion-6491",
     "card_sets": [
         {
@@ -42,7 +42,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.07",
-            "tcgplayer_price": "0.15",
+            "tcgplayer_price": "0.17",
             "ebay_price": "0.99",
             "amazon_price": "0.99",
             "coolstuffinc_price": "0.25"

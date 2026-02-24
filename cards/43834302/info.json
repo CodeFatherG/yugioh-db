@@ -8,6 +8,15 @@
     "race": "Normal",
     "archetype": "Synchro",
     "ygoprodeck_url": "https://ygoprodeck.com/card/synchro-fellowship-15250",
+    "card_sets": [
+        {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENY05",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 43834302,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.55",
-            "tcgplayer_price": "0.94",
+            "cardmarket_price": "0.54",
+            "tcgplayer_price": "0.95",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

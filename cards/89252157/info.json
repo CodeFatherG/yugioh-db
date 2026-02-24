@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/rose-lover-7455",
     "card_sets": [
         {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENA04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Season 2",
             "set_code": "LDS2-EN102",
             "set_rarity": "Common",
@@ -57,7 +64,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.05",
-            "tcgplayer_price": "0.13",
+            "tcgplayer_price": "0.12",
             "ebay_price": "0.99",
             "amazon_price": "0.99",
             "coolstuffinc_price": "0.25"

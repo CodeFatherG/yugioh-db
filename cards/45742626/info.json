@@ -9,7 +9,7 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "2 Level 6 monsters\nThis card gains 200 ATK and DEF for every DARK monster in either player's Graveyard. You can detach 1 Xyz Material from this card; each player sends the top 5 cards from their Deck to the Graveyard (or their entire Deck, if less than 5). You can only use this effect of \"Pilgrim Reaper\" once per turn.",
+    "desc": "2 Level 6 monsters\r\nGains 200 ATK/DEF for each DARK monster in the GYs. You can detach 1 material from this card; each player sends the top 5 cards from their Deck to the GY (or their entire Deck, if less than 5). You can only use this effect of \"Pilgrim Reaper\" once per turn.",
     "race": "Zombie",
     "atk": -1,
     "def": -1,
@@ -42,7 +42,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.09",
+            "cardmarket_price": "0.11",
             "tcgplayer_price": "0.21",
             "ebay_price": "0.99",
             "amazon_price": "0.25",

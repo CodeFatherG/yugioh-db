@@ -25,6 +25,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENY18",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Maze of the Master",
             "set_code": "MZTM-EN083",
             "set_rarity": "Collector's Rare",
@@ -64,7 +71,7 @@
     "card_prices": [
         {
             "cardmarket_price": "8.62",
-            "tcgplayer_price": "11.07",
+            "tcgplayer_price": "11.03",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

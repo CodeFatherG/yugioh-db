@@ -1,12 +1,21 @@
 {
     "id": 83838727,
-    "name": "Drawbread",
+    "name": "Sandwich Day",
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "If you have a monster in your GY: Pay 200 LP; draw 1 card and show it, then if it is a monster, apply this effect based on its Attribute.\r\n\u25cf Different from the monsters in your GY: Draw 1 card.\r\n\u25cf Same as a monster in your GY: Discard 1 card.\r\nYou can only activate 1 \"Drawbread\" per turn.",
+    "desc": "If you have a monster in your GY: Pay 200 LP; draw 1 card and reveal it, then, if it is a monster, apply this effect based on its Attribute.\r\n\u25cf An Attribute not in your GY: Draw 1 card.\r\n\u25cf An Attribute in your GY: Discard 1 card.\r\nYou can only activate 1 \"Sandwich Day\" per turn.",
     "race": "Normal",
     "ygoprodeck_url": "https://ygoprodeck.com/card/drawbread-15179",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 83838727,

@@ -16,6 +16,15 @@
     "attribute": "WIND",
     "archetype": "Warrior",
     "ygoprodeck_url": "https://ygoprodeck.com/card/full-speed-warrior-15249",
+    "card_sets": [
+        {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENY01",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 17201951,
@@ -26,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.38",
-            "tcgplayer_price": "0.90",
+            "cardmarket_price": "0.39",
+            "tcgplayer_price": "0.88",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -4,8 +4,9 @@
     "type": "Trap Card",
     "humanReadableCardType": "Continuous Trap",
     "frameType": "trap",
-    "desc": "Face-up Continuous Trap Cards cannot be destroyed, except \"Imperial Custom\". You can only control 1 \"Imperial Custom\".",
+    "desc": "Face-up Continuous Traps cannot be destroyed by battle or card effect, except \"Imperial Custom\". You can only control 1 \"Imperial Custom\".",
     "race": "Continuous",
+    "archetype": "Royal",
     "ygoprodeck_url": "https://ygoprodeck.com/card/imperial-custom-844",
     "card_sets": [
         {

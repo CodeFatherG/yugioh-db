@@ -31,6 +31,13 @@
             "set_rarity": "Common",
             "set_rarity_code": "(C)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENY08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.08",
-            "tcgplayer_price": "0.09",
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.08",
             "ebay_price": "1.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.25"

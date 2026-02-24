@@ -15,6 +15,13 @@
             "set_rarity": "Secret Rare",
             "set_rarity_code": "(ScR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENY30",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -27,7 +34,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.15",
+            "cardmarket_price": "0.14",
             "tcgplayer_price": "0.14",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

@@ -198,6 +198,13 @@
             "set_price": "25.7"
         },
         {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENC17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
             "set_code": "LCYW-EN062",
             "set_rarity": "Secret Rare",
@@ -491,7 +498,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.02",
+            "cardmarket_price": "0.03",
             "tcgplayer_price": "0.18",
             "ebay_price": "1.99",
             "amazon_price": "1.59",

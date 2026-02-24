@@ -17,6 +17,15 @@
     "attribute": "DARK",
     "archetype": "Junk",
     "ygoprodeck_url": "https://ygoprodeck.com/card/junk-warrior-extreme-15248",
+    "card_sets": [
+        {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENY32",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 16327715,
@@ -27,7 +36,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.21",
+            "cardmarket_price": "0.20",
             "tcgplayer_price": "0.25",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

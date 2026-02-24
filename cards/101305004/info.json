@@ -1,0 +1,36 @@
+{
+    "id": 101305004,
+    "name": "Gurifoh",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "(Quick Effect): You can discard this card, then activate 1 of these effects;\r\n\u25cf The next battle or effect damage you take this turn will become 0.\r\n\u25cf Set 1 Quick-Play Spell or Trap that mentions \"Ritual of Light and Darkness\" from your Deck. It can be activated this turn.\r\nYou can only use this effect of \"Gurifoh\" once per turn. For the Ritual Summon of exactly 1 Level 8 Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire Tribute.",
+    "race": "Fiend",
+    "atk": 300,
+    "def": 200,
+    "level": 1,
+    "attribute": "DARK",
+    "archetype": "Ritual of Light and Darkness",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gurifoh-15555",
+    "card_images": [
+        {
+            "id": 101305004,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305004.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305004.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305004.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

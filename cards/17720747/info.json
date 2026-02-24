@@ -33,6 +33,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENA02",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Season 2",
             "set_code": "LDS2-EN097",
             "set_rarity": "Common",
@@ -57,7 +64,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
+            "cardmarket_price": "0.12",
             "tcgplayer_price": "0.11",
             "ebay_price": "3.79",
             "amazon_price": "0.25",

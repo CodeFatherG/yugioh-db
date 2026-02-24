@@ -8,13 +8,13 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is Normal or Special Summoned: You can Special Summon 1 Level 4 or lower \"Magnet Warrior\" monster from your hand, except \"Gamma The Electromagnet Warrior\". You can only use this effect of \"Gamma The Electromagnet Warrior\" once per turn. During your opponent's turn: You can Tribute this card; Special Summon 1 Level 4 \"Magnet Warrior\" monster from your Deck (this is a Quick Effect).",
+    "desc": "If this card is Normal or Special Summoned: You can Special Summon 1 Level 4 or lower \"Magnet Warrior\" monster from your hand, except \"Gamma The Electromagnet Warrior\". You can only use this effect of \"Gamma The Electromagnet Warrior\" once per turn. During your opponent's turn (Quick Effect): You can Tribute this card; Special Summon 1 Level 4 \"Magnet Warrior\" monster from your Deck.",
     "race": "Rock",
     "atk": 800,
     "def": 2000,
     "level": 3,
     "attribute": "EARTH",
-    "archetype": "Magnet Warrior",
+    "archetype": "Magnet",
     "ygoprodeck_url": "https://ygoprodeck.com/card/gamma-the-electromagnet-warrior-1334",
     "card_sets": [
         {
@@ -42,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.06",
-            "tcgplayer_price": "0.16",
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.22",
             "ebay_price": "3.49",
             "amazon_price": "5.34",
             "coolstuffinc_price": "3.99"

@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Cannot be Special Summoned. If this card is Tribute Summoned: You can Special Summon \"Darklord\" monsters from your hand and/or Deck, up to the number of Effect Monsters your opponent controls. While you control another \"Darklord\" monster, your opponent cannot target this card with card effects. Once per turn: You can send cards from the top of your Deck to the Graveyard, equal to the number of \"Darklord\" monsters on the field, and if you do, gain 500 LP for each \"Darklord\" card sent to the Graveyard by this effect.",
+    "desc": "Cannot be Special Summoned. If this card is Tribute Summoned: You can Special Summon \"Darklord\" monsters from your hand and/or Deck, up to the number of Effect Monsters your opponent controls. While you control another \"Darklord\" monster, your opponent cannot target this card with card effects. Once per turn: You can send cards from the top of your Deck to the GY, equal to the number of \"Darklord\" monsters on the field, and if you do, gain 500 LP for each \"Darklord\" card sent to the GY by this effect.",
     "race": "Fairy",
     "atk": 3000,
     "def": 3000,
@@ -50,7 +50,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.08",
-            "tcgplayer_price": "0.16",
+            "tcgplayer_price": "0.18",
             "ebay_price": "0.99",
             "amazon_price": "3.99",
             "coolstuffinc_price": "0.39"

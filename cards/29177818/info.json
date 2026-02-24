@@ -31,6 +31,13 @@
             "set_rarity": "Super Rare",
             "set_rarity_code": "(SR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENA11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -44,7 +51,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.05",
-            "tcgplayer_price": "0.10",
+            "tcgplayer_price": "0.09",
             "ebay_price": "0.99",
             "amazon_price": "1.20",
             "coolstuffinc_price": "0.39"

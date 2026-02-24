@@ -88,6 +88,13 @@
             "set_price": "11.85"
         },
         {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENC11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Maximum Gold: El Dorado",
             "set_code": "MGED-EN023",
             "set_rarity": "Premium Gold Rare",
@@ -119,7 +126,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.20",
-            "tcgplayer_price": "0.24",
+            "tcgplayer_price": "0.22",
             "ebay_price": "1.50",
             "amazon_price": "1.75",
             "coolstuffinc_price": "0.79"

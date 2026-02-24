@@ -4,9 +4,9 @@
     "type": "Spell Card",
     "humanReadableCardType": "Field Spell",
     "frameType": "spell",
-    "desc": "If you control a Level 4 or lower EARTH Rock-Type monster: You can target 1 Level 4 or lower \"Magnet Warrior\" monster in your Graveyard; Special Summon it. You can only use this effect of \"Magnetic Field\" once per turn. Once per turn, at the end of the Damage Step, when an EARTH Rock-Type monster you control battled an opponent's monster, but the opponent's monster was not destroyed by the battle: You can return that opponent's monster to the hand.",
+    "desc": "If you control a Level 4 or lower EARTH Rock monster: You can target 1 Level 4 or lower \"Magnet Warrior\" monster in your GY; Special Summon it. You can only use this effect of \"Magnetic Field\" once per turn. Once per turn, at the end of the Damage Step, when an EARTH Rock monster you control battled an opponent's monster, but the opponent's monster was not destroyed by the battle: You can return that opponent's monster to the hand.",
     "race": "Field",
-    "archetype": "Magnet Warrior",
+    "archetype": "Magnet",
     "ygoprodeck_url": "https://ygoprodeck.com/card/magnetic-field-420",
     "card_sets": [
         {
@@ -49,7 +49,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.07",
-            "tcgplayer_price": "0.18",
+            "tcgplayer_price": "0.21",
             "ebay_price": "2.49",
             "amazon_price": "1.79",
             "coolstuffinc_price": "0.79"

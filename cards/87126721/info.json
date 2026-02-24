@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/mulcharmy-meowls-14797",
     "card_sets": [
         {
+            "set_name": "Legendary 5D&apos;s Decks",
+            "set_code": "L5DD-ENA14",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN025",
             "set_rarity": "Quarter Century Secret Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "5.50",
-            "tcgplayer_price": "4.18",
+            "cardmarket_price": "5.29",
+            "tcgplayer_price": "3.83",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

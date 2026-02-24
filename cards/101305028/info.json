@@ -1,0 +1,37 @@
+{
+    "id": 101305028,
+    "name": "Black Luster Soldier - Soldier of Light and Darkness",
+    "typeline": [
+        "Warrior",
+        "Ritual",
+        "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with \"Ritual of Light and Darkness\". Cannot be destroyed by battle. Unaffected by your opponent's activated effects, unless they target this card. You can only use each of the following effects of \"Black Luster Soldier - Soldier of Light and Darkness\" once per turn. If this card is Special Summoned: You can target 1 card your opponent controls; banish it. When this card destroys an opponent's monster by battle: You can make this card gain 1500 ATK, and if you do, it can make a second attack in a row.",
+    "race": "Warrior",
+    "atk": 3000,
+    "def": 2500,
+    "level": 8,
+    "attribute": "EARTH",
+    "archetype": "Ritual of Light and Darkness",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/black-luster-soldier-soldier-of-light-and-darkness-15559",
+    "card_images": [
+        {
+            "id": 101305028,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305028.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305028.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305028.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
