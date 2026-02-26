@@ -1,6 +1,6 @@
 {
     "id": 20714553,
-    "name": "Endymion, the Crescent of Magistus",
+    "name": "Endymion, the Crescent Magistus",
     "typeline": [
         "Spellcaster",
         "Link",
@@ -22,6 +22,15 @@
         "Bottom-Right"
     ],
     "ygoprodeck_url": "https://ygoprodeck.com/card/endymion-the-crescent-of-magistus-14826",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN099",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 20714553,
@@ -32,8 +41,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.26",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

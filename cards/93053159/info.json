@@ -1,6 +1,6 @@
 {
     "id": 93053159,
-    "name": "Dogmatikalamity Alba System",
+    "name": "Alba System Dogmatikalamity",
     "typeline": [
         "Dragon",
         "Fusion",
@@ -17,6 +17,22 @@
     "attribute": "DARK",
     "archetype": "Albaz Dragon",
     "ygoprodeck_url": "https://ygoprodeck.com/card/dogmatikalamity-alba-system-14645",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN011",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN011",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 93053159,
@@ -27,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "53.76",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "3.60",
+            "tcgplayer_price": "1.96",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

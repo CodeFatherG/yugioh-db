@@ -1,6 +1,6 @@
 {
     "id": 34149150,
-    "name": "Burial Bicorn Carnovorus",
+    "name": "Horned Brute Carnovorus",
     "typeline": [
         "Dinosaur",
         "Synchro",
@@ -17,6 +17,15 @@
     "level": 6,
     "attribute": "FIRE",
     "ygoprodeck_url": "https://ygoprodeck.com/card/burial-bicorn-carnovorus-14808",
+    "card_sets": [
+        {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN098",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 34149150,
@@ -27,8 +36,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.26",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

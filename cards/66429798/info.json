@@ -1,6 +1,6 @@
 {
     "id": 66429798,
-    "name": "Pesanta the Troubadour Deity",
+    "name": "Pesanta the Titan of Troubadours",
     "typeline": [
         "Illusion",
         "Normal"
@@ -8,13 +8,22 @@
     "type": "Normal Monster",
     "humanReadableCardType": "Normal Monster",
     "frameType": "normal",
-    "desc": "''A grotesque being that manifests as a response to pious prayers. It's said that it recites poems containing prophecies for the future, but the contents of said poems are so profound and mysterious that they're beyond understanding.''",
+    "desc": "''An aberrant being that manifests in response to devout prayers. The lyrics it recites are said to foretell the future, but they are mysterious and incomprehensible to most.''",
     "race": "Illusion",
     "atk": 2500,
     "def": 2500,
     "level": 8,
     "attribute": "DARK",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/pesanta-the-troubadour-deity-14868",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pesanta-the-titan-of-troubadours-14868",
+    "card_sets": [
+        {
+            "set_name": "Burst Protocol",
+            "set_code": "BPRO-EN097",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 66429798,
@@ -25,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.11",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
