@@ -1,0 +1,37 @@
+{
+    "id": 13021682,
+    "name": "Starjunk Synchron",
+    "typeline": [
+        "Warrior",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner. You can only use each of the following effects of \"Starjunk Synchron\" once per turn. If this card is in your hand: You can target 1 Level 2 or lower monster in your GY; Special Summon this card, and if you do, Special Summon that monster, but negate its effects, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can banish this card from your GY; \"Junk Warrior\" you control cannot be destroyed by your opponent's card effects this turn.",
+    "race": "Warrior",
+    "atk": 1300,
+    "def": 500,
+    "level": 3,
+    "attribute": "DARK",
+    "archetype": "Junk",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/starjunk-synchron-15578",
+    "card_images": [
+        {
+            "id": 13021682,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13021682.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13021682.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13021682.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

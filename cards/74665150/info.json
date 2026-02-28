@@ -1,0 +1,43 @@
+{
+    "id": 74665150,
+    "name": "Decode Talker Integration",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2+ Effect Monsters\r\nWhile this card is in the Extra Monster Zone, it gains 500 ATK for every other Link Monster in the field and GYs, also your opponent cannot target it with card effects. (Quick Effect): You can Tribute 1 monster this card points to; send 1 Cyberse monster from your Extra Deck to the GY, also this card can make up to 2 attacks on monsters during each Battle Phase this turn. You can only use this effect of \"Decode Talker Integration\" once per turn.",
+    "race": "Cyberse",
+    "atk": 2300,
+    "def": null,
+    "level": null,
+    "attribute": "DARK",
+    "archetype": "Code Talker",
+    "linkval": 3,
+    "linkmarkers": [
+        "Top",
+        "Bottom-Left",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/decode-talker-integration-15584",
+    "card_images": [
+        {
+            "id": 74665150,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74665150.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74665150.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74665150.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 88570003,
+    "name": "Dark Magician, the Pharaoh's Servant",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "This card's name becomes \"Dark Magician\" while on the field or in the GY. You can only use 1 of the following effects of \"Dark Magician, the Pharaoh's Servant\" per turn, and only once that turn. You can reveal 1 Spell in your hand; Special Summon this card from your hand, then you can Set 1 Spell/Trap that mentions \"Dark Magician\" from your Deck. (Quick Effect): You can discard 1 Spell; destroy all Spells/Traps your opponent controls.",
+    "race": "Spellcaster",
+    "atk": 2500,
+    "def": 2100,
+    "level": 7,
+    "attribute": "DARK",
+    "archetype": "Dark Magician",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-magician-the-pharaoh-s-servant-15588",
+    "card_images": [
+        {
+            "id": 88570003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88570003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88570003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88570003.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

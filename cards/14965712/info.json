@@ -1,0 +1,36 @@
+{
+    "id": 14965712,
+    "name": "Multiplying Kuriboh!",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "When your opponent activates a monster effect, or an opponent's monster declares an attack (Quick Effect): You can Special Summon this card from your hand. You can only use this effect of \"Multiplying Kuriboh!\" once per turn. Once per turn, when your opponent activates a monster effect on the field, or during damage calculation, when an opponent's monster attacks (Quick Effect): You can add to your hand, or Special Summon, 1 \"Dark Magician\" or 1 monster with 300 ATK/200 DEF from your Deck or GY, then you can change that opponent's monster's ATK to 0.",
+    "race": "Fiend",
+    "atk": 300,
+    "def": 200,
+    "level": 1,
+    "attribute": "DARK",
+    "archetype": "Kuriboh",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/multiplying-kuriboh-15580",
+    "card_images": [
+        {
+            "id": 14965712,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14965712.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14965712.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14965712.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

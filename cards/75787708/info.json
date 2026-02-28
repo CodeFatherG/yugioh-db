@@ -1,0 +1,40 @@
+{
+    "id": 75787708,
+    "name": "Odd-Eyes Pendulum Dragon of the Four Heavenly Dragons",
+    "typeline": [
+        "Dragon",
+        "Pendulum",
+        "Effect"
+    ],
+    "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
+    "desc": "[ Pendulum Effect ] \nDuring your Main Phase: You can destroy this card, and if you do, add 1 Pendulum Monster with 1500 or less ATK from your Deck to your hand, also for the rest of this turn, unless you Pendulum Summon after this effect resolves, you cannot activate monster effects on the field. You can only use this effect of \"Odd-Eyes Pendulum Dragon of the Four Heavenly Dragons\" once per turn.\n\n[ Monster Effect ] \nThis Pendulum Summoned card gains these effects.\r\n\u25cf Gains ATK equal to the difference between the Pendulum Scales of the 2 cards in your Pendulum Zones x 300.\r\n\u25cf Any battle damage your opponent takes from battles involving this card is doubled.\r\nIf this card in the Monster Zone is destroyed by battle or card effect: You can add this card to your hand, then if it was destroyed by your opponent, you can Special Summon it. You can only use this effect of \"Odd-Eyes Pendulum Dragon of the Four Heavenly Dragons\" once per turn.",
+    "race": "Dragon",
+    "pend_desc": "During your Main Phase: You can destroy this card, and if you do, add 1 Pendulum Monster with 1500 or less ATK from your Deck to your hand, also for the rest of this turn, unless you Pendulum Summon after this effect resolves, you cannot activate monster effects on the field. You can only use this effect of \"Odd-Eyes Pendulum Dragon of the Four Heavenly Dragons\" once per turn.",
+    "monster_desc": "This Pendulum Summoned card gains these effects.\r\n\u25cf Gains ATK equal to the difference between the Pendulum Scales of the 2 cards in your Pendulum Zones x 300.\r\n\u25cf Any battle damage your opponent takes from battles involving this card is doubled.\r\nIf this card in the Monster Zone is destroyed by battle or card effect: You can add this card to your hand, then if it was destroyed by your opponent, you can Special Summon it. You can only use this effect of \"Odd-Eyes Pendulum Dragon of the Four Heavenly Dragons\" once per turn.",
+    "atk": 2500,
+    "def": 2000,
+    "level": 7,
+    "attribute": "DARK",
+    "archetype": "Odd-Eyes",
+    "scale": 4,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/odd-eyes-pendulum-dragon-of-the-four-heavenly-dragons-15583",
+    "card_images": [
+        {
+            "id": 75787708,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75787708.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75787708.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75787708.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

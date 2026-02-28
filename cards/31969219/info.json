@@ -4,9 +4,9 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Target 1 face-up card your opponent controls; apply this effect based on the number of cards with that name in your opponent's GY.\r\n\u25cf 1: Destroy it.\r\n\u25cf 2: Banish it.\r\n\u25cf 3+: Banish it, also all cards with that name from your opponent's field and GY, face-down.",
+    "desc": "Target 1 face-up card your opponent controls; apply this effect based on the number of cards in their GY with that face-up card's name.\r\n\u25cf 1: Destroy it.\r\n\u25cf 2: Banish it.\r\n\u25cf 3+: Banish it, also all cards with that name from your opponent's field and GY (face-down).",
     "race": "Normal",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/shadow-trouble-14864",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/baneshade-14864",
     "card_sets": [
         {
             "set_name": "Maze of Muertos",

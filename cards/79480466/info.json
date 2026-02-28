@@ -9,13 +9,13 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "3 Level 4 monsters\r\nAny Xyz Material detached from a monster is banished instead of being sent to the GY. Once per Chain, if a Monster Card(s) is sent to the GY (except during the Damage Step): You can detach 1 material from this card. If the last material(s) is detached from this card (except during the Damage Step): You can target 3 cards in the GY(s); attach them to this card as material.",
+    "desc": "3 Level 4 monsters\r\nAny Xyz Material detached from a monster is banished instead of going to the GY. Once per Chain, if a Monster Card(s) is sent to the GY (except during the Damage Step): You can detach 1 material from this card. If the last material(s) is detached from this card (except during the Damage Step): You can target 3 cards in the GY(s); attach them to this card.",
     "race": "Beast",
     "atk": 2500,
     "def": 900,
     "level": 4,
     "attribute": "EARTH",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/bazoo-the-soul-eater-beast-14861",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bazoo-the-soul-devourer-14861",
     "card_sets": [
         {
             "set_name": "Maze of Muertos",
@@ -36,7 +36,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.08",
-            "tcgplayer_price": "0.15",
+            "tcgplayer_price": "0.13",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
