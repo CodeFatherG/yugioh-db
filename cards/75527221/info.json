@@ -8,6 +8,15 @@
     "race": "Normal",
     "archetype": "Call of the Haunted",
     "ygoprodeck_url": "https://ygoprodeck.com/card/deadly-zombie-breath-15589",
+    "card_sets": [
+        {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 75527221,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.19",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
