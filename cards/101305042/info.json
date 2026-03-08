@@ -1,0 +1,42 @@
+{
+    "id": 101305042,
+    "name": "Clown Clan Drish",
+    "typeline": [
+        "Beast-Warrior",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 Ritual, Fusion, Synchro, Xyz, and/or Pendulum Monsters\r\nYour Tribute Summoned monsters can make a second attack during each Battle Phase. If this card is Tributed: You can activate 1 of these effects (but you can only use each of these effects of \"Clown Clan Drish\" once per turn);\r\n\u25cf Return all Link Monsters on the field and in the GYs to the Extra Deck.\r\n\u25cf Each player shuffles their entire hand into the Deck, then they draw the same number of cards they shuffled.",
+    "race": "Beast-Warrior",
+    "atk": 1000,
+    "def": null,
+    "level": null,
+    "attribute": "LIGHT",
+    "archetype": "Clown Clan",
+    "linkval": 2,
+    "linkmarkers": [
+        "Left",
+        "Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-clan-drish-15591",
+    "card_images": [
+        {
+            "id": 101305042,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305042.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305042.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305042.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
