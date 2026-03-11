@@ -1,0 +1,36 @@
+{
+    "id": 101305008,
+    "name": "The Orchestrator of the Sacred Beasts",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can reveal this card in your hand; discard 1 card, and if you do, Special Summon 1 \"Sacred Beast\" monster from your hand in Defense Position, except a Level 8 monster. You can discard 1 card; Special Summon 1 \"Sacred Beast\" monster from your hand or GY in Defense Position, except a Level 8 monster or the discarded card. You can banish this card from your GY; Special Summon 1 \"Sacred Beast\" monster from your GY in Defense Postion, except a Level 8 monster. You can only use each effect of \"The Orchestrator of the Sacred Beasts\" once per turn.",
+    "race": "Thunder",
+    "atk": 2300,
+    "def": 3000,
+    "level": 8,
+    "attribute": "LIGHT",
+    "archetype": "Phantasm",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-orchestrator-of-the-sacred-beasts-15594",
+    "card_images": [
+        {
+            "id": 101305008,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305008.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305008.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305008.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

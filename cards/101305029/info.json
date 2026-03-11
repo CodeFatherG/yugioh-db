@@ -1,0 +1,37 @@
+{
+    "id": 101305029,
+    "name": "Phantasmal Sacred Beasts of Chaos",
+    "typeline": [
+        "Fiend",
+        "Fusion",
+        "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "3 Level 10 monsters that cannot be Normal Summoned/Set\r\nMust be either Fusion Summoned, or Special Summoned (from your Extra Deck) by sending the above cards you control to the GY. You can only Special Summon \"Phantasmal Sacred Beasts of Chaos\" once per turn this way, no matter which method you use. The first two times this card would be destroyed by card effect each turn, it is not destroyed. Once per Chain and thrice per turn (Quick Effect): You can target 1 face-up monster your opponent controls; negate its effects (until the end of this turn), then you can gain LP equal to half its ATK.",
+    "race": "Fiend",
+    "atk": 5000,
+    "def": 5000,
+    "level": 10,
+    "attribute": "DARK",
+    "archetype": "Phantasm",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/phantasmal-sacred-beasts-of-chaos-15597",
+    "card_images": [
+        {
+            "id": 101305029,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305029.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305029.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305029.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
