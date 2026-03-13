@@ -1,0 +1,36 @@
+{
+    "id": 101305012,
+    "name": "Crack Blitzclique",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "When your opponent activates a monster effect on the field during their turn (Quick Effect): You can reveal this card in your hand; destroy that monster, and if you do, Special Summon 1 Thunder monster from your hand, also you cannot Special Summon Effect Monsters for the rest of this turn, except from the hand. If another card(s) is destroyed by card effect, while this card is in the Monster Zone: You can send 1 \"Blitzclique\" Spell/Trap from your Deck to the GY. You can only use each effect of \"Crack Blitzclique\" once per turn.",
+    "race": "Thunder",
+    "atk": 1500,
+    "def": 900,
+    "level": 3,
+    "attribute": "EARTH",
+    "archetype": "Blitzclique",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crack-blitzclique-15612",
+    "card_images": [
+        {
+            "id": 101305012,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305012.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305012.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305012.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

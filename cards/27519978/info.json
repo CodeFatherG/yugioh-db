@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "2+ monsters\r\nGains 300 ATK for each different Attribute on the field. Once while face-up on the field, during the Main Phase (Quick Effect): You can target 2 monsters with the same Attribute but different Types, or 2 monsters with the same Type but different Attributes, in your GY; Special Summon both, but this card, also those monsters, cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon until the end of the next turn. You can only use this effect of \"Four Charmers in Profusion\" once per turn.",
+    "desc": "2+ monsters\r\nGains 300 ATK for each different Attribute on the field. Once, while this card is face-up on the field, during the Main Phase (Quick Effect): You can target 2 monsters in your GY with the same Attribute but different Types, or with the same Type but different Attributes; Special Summon both, also until the end of the next turn, this card and the Special Summoned monsters cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon. You can only use this effect of \"Charmer Quartet in Bloom\" once per turn.",
     "race": "Spellcaster",
     "atk": 1850,
     "def": null,
@@ -23,7 +23,7 @@
         "Bottom-Left",
         "Bottom-Right"
     ],
-    "ygoprodeck_url": "https://ygoprodeck.com/card/four-charmers-in-profusion-15492",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/charmer-quartet-in-bloom-15492",
     "card_images": [
         {
             "id": 27519978,
