@@ -1,0 +1,36 @@
+{
+    "id": 100452017,
+    "name": "Rokket Barrage",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can send 1 DARK Dragon monster from your Deck to the GY, except a Level 5 monster; Special Summon this card from your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except DARK monsters. When a Link Monster's effect is activated that targets this card on the field (Quick Effect): You can destroy this card, then Special Summon up to 1 \"Rokket\" monster each from your hand, Deck, GY, and/or banishment, except \"Rokket Barrage\". You can only use each effect of \"Rokket Barrage\" once per turn.",
+    "race": "Dragon",
+    "atk": 1500,
+    "def": 1600,
+    "level": 5,
+    "attribute": "DARK",
+    "archetype": "Rokket",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rokket-barrage-15629",
+    "card_images": [
+        {
+            "id": 100452017,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100452017.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100452017.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100452017.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

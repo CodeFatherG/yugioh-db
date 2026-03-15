@@ -1,0 +1,36 @@
+{
+    "id": 100452002,
+    "name": "Deep-Eyes White Dragon, the Blue Abyss",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "(This card is always treated as a \"Blue-Eyes\" card.)\r\nYou can discard this card; add 1 Level 1 LIGHT Tuner from your Deck to your hand. If a \"Blue-Eyes\" Ritual Monster(s) and/or \"Blue-Eyes White Dragon\" is sent to your GY: You can target 1 of them; Special Summon this card from your GY (if it was there when the monster was sent) or hand (even if not), and if you do, its ATK becomes that monster's, also banish it when it leaves the field. You can only use each effect of \"Deep-Eyes White Dragon, the Blue Abyss\" once per turn.",
+    "race": "Dragon",
+    "atk": 0,
+    "def": 0,
+    "level": 10,
+    "attribute": "LIGHT",
+    "archetype": "Blue-Eyes",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/deep-eyes-white-dragon-the-blue-abyss-15640",
+    "card_images": [
+        {
+            "id": 100452002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100452002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100452002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100452002.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

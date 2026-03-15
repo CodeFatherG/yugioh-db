@@ -1,0 +1,36 @@
+{
+    "id": 100452025,
+    "name": "Infernity Doom Slinger",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "During your Main Phase: You can Special Summon 1 Fiend monster from your hand. If you have no cards in your hand (Quick Effect): You can banish this card from your GY; your opponent chooses 1 of these effects for you to apply.\r\n\u25cf Reveal the top card of your Deck, and if it is a monster, your opponent takes any effect damage you would have taken this turn instead. Otherwise, you take 4000 damage.\r\n\u25cf You take no effect damage this turn.\r\nYou can only use each effect of \"Infernity Doom Slinger\" once per turn.",
+    "race": "Fiend",
+    "atk": 100,
+    "def": 100,
+    "level": 1,
+    "attribute": "DARK",
+    "archetype": "Infernity",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/infernity-doom-slinger-15632",
+    "card_images": [
+        {
+            "id": 100452025,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100452025.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100452025.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100452025.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

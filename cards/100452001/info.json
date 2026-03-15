@@ -1,0 +1,36 @@
+{
+    "id": 100452001,
+    "name": "Blue-Eyes White Dragon, the White Phantom Beast",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "When a card or effect is activated that targets this card on the field (Quick Effect): You can discard 1 card; negate that effect. You can only use each of the following effects of \"Blue-Eyes White Dragon, the White Phantom Beast\" once per turn. When this card is added from the Deck to your hand, or your monster is destroyed by battle: You can reveal this card in your hand; Special Summon it. If this card is Special Summoned from the hand or Deck: You can destroy all monsters your opponent controls, also you cannot attack directly for the rest of this turn, except with \"Blue-Eyes\" monsters.",
+    "race": "Dragon",
+    "atk": 3000,
+    "def": 2500,
+    "level": 8,
+    "attribute": "LIGHT",
+    "archetype": "Blue-Eyes",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blue-eyes-white-dragon-the-white-phantom-beast-15642",
+    "card_images": [
+        {
+            "id": 100452001,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100452001.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100452001.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100452001.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 100452028,
+    "name": "Perfectron Hydradrive Dragon",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "1+ Link Monsters\r\nIf this card is Link Summoned, or at the end of the Damage Step if this card battled: Destroy as many monsters your opponent controls as possible, then inflict 300 damage to your opponent for each Link Monster in your GY. While face-up on the field, this card is also LIGHT, WATER, FIRE, and WIND-Attribute. Unaffected by the activated effects of monsters that share an Attribute with this card. If this card with 1000 or more ATK would be destroyed by battle or card effect, you can make its ATK become reduced by 1000 instead.",
+    "race": "Cyberse",
+    "atk": 5000,
+    "def": null,
+    "level": null,
+    "attribute": "EARTH",
+    "linkval": 5,
+    "linkmarkers": [
+        "Left",
+        "Right",
+        "Bottom-Left",
+        "Bottom",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/perfectron-hydradrive-dragon-15620",
+    "card_images": [
+        {
+            "id": 100452028,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100452028.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100452028.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100452028.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
