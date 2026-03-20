@@ -1,0 +1,35 @@
+{
+    "id": 51083544,
+    "name": "Frost Tiger",
+    "typeline": [
+        "Aqua",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 Level 5 or higher WATER Spellcaster monster or 1 \"Twin Pillars of Ice\" from your Deck to your hand. You can only use this effect of \"Frost Tiger\" once per turn.",
+    "race": "Aqua",
+    "atk": 1900,
+    "def": 1200,
+    "level": 4,
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/frost-tiger-15646",
+    "card_images": [
+        {
+            "id": 51083544,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51083544.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51083544.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51083544.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

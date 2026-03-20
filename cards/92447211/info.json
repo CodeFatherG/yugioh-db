@@ -1,0 +1,35 @@
+{
+    "id": 92447211,
+    "name": "Long-Tailed Black Horse",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can reveal 1 Zombie monster in your hand and send 1 EARTH Zombie monster from your Deck to the GY; send the revealed monster to the GY, and if you do, this card gains 500 ATK until the end of this turn. You can only use this effect of \"Long-Tailed Black Horse\" once per turn.",
+    "race": "Zombie",
+    "atk": 1400,
+    "def": 800,
+    "level": 4,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/long-tailed-black-horse-15648",
+    "card_images": [
+        {
+            "id": 92447211,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92447211.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92447211.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92447211.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
