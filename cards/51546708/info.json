@@ -1,0 +1,37 @@
+{
+    "id": 51546708,
+    "name": "Dark Tuner Nightmare Hand",
+    "typeline": [
+        "Warrior",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "You can reveal this card in your hand; immediately after this effect resolves, Normal Summon 1 \"Dark Tuner\" monster. You can only use this effect of \"Dark Tuner Nightmare Hand\" once per turn. If this card is Normal Summoned: You can Special Summon 1 Level 2 or lower monster from your hand. Once per turn, if you control this Normal Summoned/Set card: You can Tribute both this face-up card and 1 face-up non-Tuner with a lower Level, and if you do, Special Summon 1 Synchro Monster from your Extra Deck with a Level equal to the difference in Levels of those monsters (this is treated as a Synchro Summon).",
+    "race": "Warrior",
+    "atk": 0,
+    "def": 0,
+    "level": 10,
+    "attribute": "DARK",
+    "archetype": "Dark Tuner",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-tuner-nightmare-hand-15624",
+    "card_images": [
+        {
+            "id": 51546708,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51546708.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51546708.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51546708.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

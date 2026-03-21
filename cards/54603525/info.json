@@ -1,0 +1,37 @@
+{
+    "id": 54603525,
+    "name": "Clear Wing Synchro Dragon of the Four Heavenly Dragons",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuners\r\n(This card is always treated as a \"Speedroid\" card.)\r\nIf this card is Special Summoned: You can destroy 1 Effect Monster your opponent controls, and if you do, this card gains ATK equal to that monster's original ATK. When your opponent activates a card or effect (Quick Effect): You can Special Summon 1 Level 4 or lower WIND Tuner from your hand or GY (but negate its effects), then immediately after this effect resolves, you can Synchro Summon 1 WIND Synchro Monster. You can only use each effect of \"Clear Wing Synchro Dragon of the Four Heavenly Dragons\" once per turn.",
+    "race": "Dragon",
+    "atk": 2500,
+    "def": 2000,
+    "level": 7,
+    "attribute": "WIND",
+    "archetype": "Clear Wing",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clear-wing-synchro-dragon-of-the-four-heavenly-dragons-15631",
+    "card_images": [
+        {
+            "id": 54603525,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54603525.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54603525.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54603525.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

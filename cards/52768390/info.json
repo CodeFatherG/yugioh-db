@@ -1,0 +1,36 @@
+{
+    "id": 52768390,
+    "name": "Dark Creator",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can Special Summon this card (from your hand) by Tributing 2 Fiend and/or Fairy monsters. Cannot be destroyed by battle. Once per turn: You can Special Summon as many \"Dark Creator Tokens\" (Fiend/DARK/Level 10/ATK 3000/DEF 1000) as possible, but they cannot attack directly or be destroyed by battle, destroy them when this card is destroyed, also you cannot Special Summon for the rest of this turn. If a monster(s) is destroyed by battle: Inflict 700 damage to your opponent.",
+    "race": "Fiend",
+    "atk": 3000,
+    "def": 1000,
+    "level": 10,
+    "attribute": "DARK",
+    "archetype": "Fan-Made Cards",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-creator-15628",
+    "card_images": [
+        {
+            "id": 52768390,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52768390.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52768390.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52768390.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
