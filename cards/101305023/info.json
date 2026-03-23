@@ -1,0 +1,35 @@
+{
+    "id": 101305023,
+    "name": "Astrolasma Urania",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can Special Summon this card (from your hand) by returning up to 2 monsters you control to the hand. You can only Special Summon \"Astrolasma Urania\" once per turn this way. You can only use each of the following effects of \"Astrolasma Urania\" once per turn. If this card is Special Summoned: You can reveal any number of monsters with different Levels in your hand, then target that many face-up cards your opponent controls; negate their effects. If this card on the field is destroyed by card effect and sent to the GY: You can add this card to your hand.",
+    "race": "Thunder",
+    "atk": 2400,
+    "def": 1000,
+    "level": 7,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/astrolasma-urania-15652",
+    "card_images": [
+        {
+            "id": 101305023,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305023.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305023.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305023.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
