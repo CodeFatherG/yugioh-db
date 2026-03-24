@@ -1,0 +1,38 @@
+{
+    "id": 100455005,
+    "name": "Blue-Eyes Toon Ultimate Dragon",
+    "typeline": [
+        "Dragon",
+        "Fusion",
+        "Toon",
+        "Effect"
+    ],
+    "type": "Toon Monster",
+    "humanReadableCardType": "Fusion Toon Effect Monster",
+    "frameType": "fusion",
+    "desc": "\"Blue-Eyes Toon Dragon\" + 2 Toon monsters\r\nMust be Special Summoned (from your Extra Deck) by shuffling the above cards from your hand, field, and/or GY into the Deck/Extra Deck. Your Toon monsters can attack directly. Once per turn: You can add 1 \"Toon\" card, or 1 card that mentions a \"Toon\" card's name, from your GY to your hand. During damage calculation, if your Toon monster is attacked: You can banish it until the end of the Damage Step.",
+    "race": "Dragon",
+    "atk": 4500,
+    "def": 3800,
+    "level": 12,
+    "attribute": "LIGHT",
+    "archetype": "Blue-Eyes",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blue-eyes-toon-ultimate-dragon-15653",
+    "card_images": [
+        {
+            "id": 100455005,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100455005.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100455005.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100455005.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
