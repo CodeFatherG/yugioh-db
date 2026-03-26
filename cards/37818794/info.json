@@ -87,6 +87,20 @@
             "set_rarity": "Starlight Rare",
             "set_rarity_code": "(StR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN141",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN141",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -100,7 +114,7 @@
     "card_prices": [
         {
             "cardmarket_price": "1.42",
-            "tcgplayer_price": "1.05",
+            "tcgplayer_price": "1.04",
             "ebay_price": "4.95",
             "amazon_price": "15.99",
             "coolstuffinc_price": "15.99"

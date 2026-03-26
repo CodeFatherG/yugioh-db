@@ -67,6 +67,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN089",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN089",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Storm of Ragnarok",
             "set_code": "STOR-EN086",
             "set_rarity": "Secret Rare",
@@ -89,7 +103,7 @@
     "card_prices": [
         {
             "cardmarket_price": "1.74",
-            "tcgplayer_price": "7.09",
+            "tcgplayer_price": "7.11",
             "ebay_price": "7.50",
             "amazon_price": "69.99",
             "coolstuffinc_price": "13.99"
