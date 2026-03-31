@@ -1,0 +1,40 @@
+{
+    "id": 100295121,
+    "name": "Clown Clan Hat",
+    "typeline": [
+        "Beast-Warrior",
+        "Pendulum",
+        "Effect"
+    ],
+    "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
+    "desc": "[ Pendulum Effect ] \nDuring your Main Phase: You can send 1 \"Clown Clan\" card from your Deck to your GY, except a Pendulum Monster, and if you do, Special Summon this card, also you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck until the end of the next turn. You can only use this effect of \"Clown Clan Hat\" once per turn.\n\n[ Monster Effect ] \nMonsters your opponent controls lose 1500 DEF while you control a Tribute Summoned monster. If this card is Tributed: You can activate 1 of these effects (but you can only use each of these effects of \"Clown Clan Hat\" once per turn);\r\n\u25cf Shuffle all Pendulum Monsters on the field and face-up in the Extra Decks into the Deck.\r\n\u25cf Special Summon 1 non-Pendulum \"Clown Clan\" monster from your Deck or Extra Deck, ignoring its Summoning conditions.",
+    "race": "Beast-Warrior",
+    "pend_desc": "During your Main Phase: You can send 1 \"Clown Clan\" card from your Deck to your GY, except a Pendulum Monster, and if you do, Special Summon this card, also you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck until the end of the next turn. You can only use this effect of \"Clown Clan Hat\" once per turn.",
+    "monster_desc": "Monsters your opponent controls lose 1500 DEF while you control a Tribute Summoned monster. If this card is Tributed: You can activate 1 of these effects (but you can only use each of these effects of \"Clown Clan Hat\" once per turn);\r\n\u25cf Shuffle all Pendulum Monsters on the field and face-up in the Extra Decks into the Deck.\r\n\u25cf Special Summon 1 non-Pendulum \"Clown Clan\" monster from your Deck or Extra Deck, ignoring its Summoning conditions.",
+    "atk": 1900,
+    "def": 800,
+    "level": 5,
+    "attribute": "LIGHT",
+    "archetype": "Clown Clan",
+    "scale": 7,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-clan-hat-15660",
+    "card_images": [
+        {
+            "id": 100295121,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100295121.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100295121.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100295121.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
