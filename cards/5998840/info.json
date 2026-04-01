@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/xx-saber-boggart-knight-526",
     "card_sets": [
         {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENX09",
+            "set_rarity": "3",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Star Pack ARC-V",
             "set_code": "SP15-EN006",
             "set_rarity": "Common",
@@ -57,7 +64,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.38",
-            "tcgplayer_price": "0.15",
+            "tcgplayer_price": "0.14",
             "ebay_price": "3.37",
             "amazon_price": "3.57",
             "coolstuffinc_price": "2.99"

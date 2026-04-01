@@ -38,6 +38,13 @@
             "set_rarity": "Secret Rare",
             "set_rarity_code": "(ScR)",
             "set_price": "41.15"
+        },
+        {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENM25",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -51,7 +58,7 @@
     "card_prices": [
         {
             "cardmarket_price": "1.81",
-            "tcgplayer_price": "0.21",
+            "tcgplayer_price": "0.22",
             "ebay_price": "54.99",
             "amazon_price": "47.99",
             "coolstuffinc_price": "49.99"

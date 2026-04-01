@@ -8,6 +8,15 @@
     "race": "Quick-Play",
     "archetype": "Branded",
     "ygoprodeck_url": "https://ygoprodeck.com/card/the-fallen-the-virtuous-15383",
+    "card_sets": [
+        {
+            "set_name": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "set_code": "CH01-EN019",
+            "set_rarity": "New",
+            "set_rarity_code": "",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 30271097,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "8.18",
-            "tcgplayer_price": "8.34",
+            "cardmarket_price": "8.14",
+            "tcgplayer_price": "7.72",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

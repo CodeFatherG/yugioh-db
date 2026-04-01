@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/mitsurugi-no-mikoto-kusanagi-14830",
     "card_sets": [
         {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENM04",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN090",
             "set_rarity": "Common",
@@ -35,7 +42,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.08",
+            "cardmarket_price": "0.09",
             "tcgplayer_price": "0.14",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

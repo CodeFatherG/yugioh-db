@@ -33,6 +33,27 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENX35",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENX35",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENX35",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Quarter Century Stampede",
             "set_code": "RA04-EN140",
             "set_rarity": "Platinum Secret Rare",
@@ -57,8 +78,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.54",
-            "tcgplayer_price": "0.14",
+            "cardmarket_price": "0.57",
+            "tcgplayer_price": "0.12",
             "ebay_price": "29.95",
             "amazon_price": "40.15",
             "coolstuffinc_price": "0.00"

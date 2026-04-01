@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/futsu-no-mitama-no-mitsurugi-14828",
     "card_sets": [
         {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENM09",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN093",
             "set_rarity": "Super Rare",
@@ -36,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.22",
-            "tcgplayer_price": "0.26",
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.24",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

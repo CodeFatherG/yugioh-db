@@ -51,6 +51,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENM32",
+            "set_rarity": "2",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Quarter Century Bonanza",
             "set_code": "RA03-EN049",
             "set_rarity": "Collector's Rare",
@@ -107,7 +114,7 @@
     "card_prices": [
         {
             "cardmarket_price": "6.54",
-            "tcgplayer_price": "0.97",
+            "tcgplayer_price": "0.91",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "89.99"

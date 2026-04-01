@@ -30,6 +30,13 @@
             "set_rarity": "Ultra Rare",
             "set_rarity_code": "(UR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENX40",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.20",
-            "tcgplayer_price": "0.15",
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.13",
             "ebay_price": "0.99",
             "amazon_price": "3.65",
             "coolstuffinc_price": "0.39"

@@ -80,6 +80,13 @@
             "set_price": "4.52"
         },
         {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENM01",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 18",
             "set_code": "OP18-EN013",
             "set_rarity": "Common",
@@ -126,7 +133,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.16",
+            "tcgplayer_price": "0.15",
             "ebay_price": "0.99",
             "amazon_price": "1.69",
             "coolstuffinc_price": "0.39"

@@ -57,6 +57,13 @@
             "set_rarity": "Common",
             "set_rarity_code": "(C)",
             "set_price": "1.72"
+        },
+        {
+            "set_name": "THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)",
+            "set_code": "CH02-EN026",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -69,7 +76,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.06",
+            "cardmarket_price": "0.05",
             "tcgplayer_price": "0.09",
             "ebay_price": "2.99",
             "amazon_price": "0.25",

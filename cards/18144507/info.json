@@ -66,6 +66,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENS06",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Magnificent Mavens",
             "set_code": "MAMA-EN076",
             "set_rarity": "Ultra Rare",
@@ -137,7 +144,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.75",
-            "tcgplayer_price": "0.55",
+            "tcgplayer_price": "0.57",
             "ebay_price": "1.90",
             "amazon_price": "16.98",
             "coolstuffinc_price": "1.99"

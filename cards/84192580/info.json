@@ -32,6 +32,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENX11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Maze of the Master",
             "set_code": "MZTM-EN083",
             "set_rarity": "Collector's Rare",
@@ -70,8 +77,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "8.10",
-            "tcgplayer_price": "3.18",
+            "cardmarket_price": "8.11",
+            "tcgplayer_price": "3.59",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

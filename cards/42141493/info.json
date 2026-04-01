@@ -32,6 +32,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENX12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Quarter Century Stampede",
             "set_code": "RA04-EN050",
             "set_rarity": "Collector's Rare",
@@ -99,7 +106,7 @@
     "card_prices": [
         {
             "cardmarket_price": "8.01",
-            "tcgplayer_price": "5.43",
+            "tcgplayer_price": "5.23",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

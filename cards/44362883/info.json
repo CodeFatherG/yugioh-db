@@ -36,6 +36,13 @@
             "set_rarity": "Super Rare",
             "set_rarity_code": "(SR)",
             "set_price": "3.13"
+        },
+        {
+            "set_name": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "set_code": "CH01-EN020",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
         }
     ],
     "banlist_info": {
@@ -53,7 +60,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.16",
-            "tcgplayer_price": "0.23",
+            "tcgplayer_price": "0.25",
             "ebay_price": "37.00",
             "amazon_price": "2.05",
             "coolstuffinc_price": "3.99"

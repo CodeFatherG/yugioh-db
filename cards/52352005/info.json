@@ -40,6 +40,13 @@
             "set_price": "3.94"
         },
         {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENX34",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Quarter Century Bonanza",
             "set_code": "RA03-EN226",
             "set_rarity": "Platinum Secret Rare",
@@ -65,7 +72,7 @@
     "card_prices": [
         {
             "cardmarket_price": "1.51",
-            "tcgplayer_price": "0.19",
+            "tcgplayer_price": "0.18",
             "ebay_price": "4.95",
             "amazon_price": "3.68",
             "coolstuffinc_price": "3.99"

@@ -45,6 +45,27 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENS10",
+            "set_rarity": "3",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENS10",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENS10",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Magnificent Mavens",
             "set_code": "MAMA-EN009",
             "set_rarity": "Ultra Rare",
@@ -77,7 +98,7 @@
     "card_prices": [
         {
             "cardmarket_price": "2.56",
-            "tcgplayer_price": "0.24",
+            "tcgplayer_price": "0.25",
             "ebay_price": "0.99",
             "amazon_price": "5.40",
             "coolstuffinc_price": "1.99"

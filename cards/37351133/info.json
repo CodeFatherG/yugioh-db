@@ -46,6 +46,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENS03",
+            "set_rarity": "2",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Maximum Gold: El Dorado",
             "set_code": "MGED-EN021",
             "set_rarity": "Premium Gold Rare",
@@ -57,6 +64,20 @@
             "set_code": "RA04-EN031",
             "set_rarity": "Quarter Century Secret Rare",
             "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN133",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN133",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
             "set_price": "0"
         }
     ],
@@ -70,8 +91,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.31",
-            "tcgplayer_price": "0.16",
+            "cardmarket_price": "0.36",
+            "tcgplayer_price": "0.15",
             "ebay_price": "1.84",
             "amazon_price": "2.84",
             "coolstuffinc_price": "0.79"

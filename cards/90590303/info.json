@@ -32,6 +32,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENM24",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Maximum Gold: El Dorado",
             "set_code": "MGED-EN090",
             "set_rarity": "Rare",
@@ -73,7 +80,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.33",
-            "tcgplayer_price": "0.18",
+            "tcgplayer_price": "0.17",
             "ebay_price": "4.25",
             "amazon_price": "0.39",
             "coolstuffinc_price": "0.49"
