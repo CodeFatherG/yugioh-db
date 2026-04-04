@@ -1,0 +1,36 @@
+{
+    "id": 101305026,
+    "name": "Gray Layer",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can Tribute this card and reveal 1 Machine monster in your hand; add 1 Machine monster from your Deck to your hand with a different Attribute than the revealed monster, then if you added a monster with 1200 or less ATK, you can Special Summon 1 Machine monster from your hand. If a monster(s) in your possession is destroyed by card effect, while this card is in your GY: You can banish this card; destroy 1 card on the field. You can only use each effect of \"Gray Layer\" once per turn.",
+    "race": "Machine",
+    "atk": 1200,
+    "def": 1000,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "Konami Arcade Games",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gray-layer-15664",
+    "card_images": [
+        {
+            "id": 101305026,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305026.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305026.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305026.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
