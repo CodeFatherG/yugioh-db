@@ -1,0 +1,36 @@
+{
+    "id": 46985799,
+    "name": "Black Rose Dragon/Assault Mode",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Assault Mode Activate\". If this card is destroyed: You can Special Summon 1 \"Black Rose Dragon\" from your GY. You can only use each of the following effects of \"Black Rose Dragon/Assault Mode\" once per turn. You can reveal this card in your hand; shuffle it into the Deck, and if you do, change the ATK of 1 face-up monster on the field to 0. If this card is Special Summoned, or a monster(s) is Special Summoned to your opponent's field: You can destroy all cards on the field.",
+    "race": "Dragon",
+    "atk": 2900,
+    "def": 2300,
+    "level": 9,
+    "attribute": "FIRE",
+    "archetype": "/Assault Mode",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/black-rose-dragon-assault-mode-15667",
+    "card_images": [
+        {
+            "id": 46985799,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46985799.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46985799.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46985799.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
