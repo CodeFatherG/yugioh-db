@@ -1,0 +1,36 @@
+{
+    "id": 101305015,
+    "name": "Aleister the Reminiscent",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is in your hand: You can target 1 Spellcaster monster or 1 Fusion Monster on the field; Special Summon this card, and if you do, the targeted monster gains 1000 ATK until the end of this turn. If this card is Normal or Special Summoned, or flipped face-up: You can banish 1 \"Invoked\" monster from your Extra Deck; add 1 \"Invocation\", or 1 Spell that mentions it, from your Deck to your hand. You can only use each effect of \"Aleister the Reminiscent\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 1800,
+    "def": 1000,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "Aleister",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/aleister-the-reminiscent-15686",
+    "card_images": [
+        {
+            "id": 101305015,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305015.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305015.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305015.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

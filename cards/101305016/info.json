@@ -1,0 +1,35 @@
+{
+    "id": 101305016,
+    "name": "Aiwass the Spirit of the Law",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can banish this card from your hand or field; add 1 \"Aleister\" monster from your Deck to your hand, then if this effect was activated on the field, immediately after this effect resolves, you can Normal Summon 1 Spellcaster monster. If a face-up Fusion Monster(s) you control is sent to the GY, except by battle, while this card is in your GY: You can Special Summon this card, then you can Fusion Summon 1 \"Invoked\" monster, using monsters from your hand or field. You can only use each effect of \"Aiwass the Spirit of the Law\" once per turn.",
+    "race": "Fiend",
+    "atk": 2000,
+    "def": 2800,
+    "level": 8,
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/aiwass-the-spirit-of-the-law-15684",
+    "card_images": [
+        {
+            "id": 101305016,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305016.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305016.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305016.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 101305033,
+    "name": "Invoked Transcendence Aeon",
+    "typeline": [
+        "Fiend",
+        "Fusion",
+        "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "2+ Fusion Monsters with different Attributes\r\nIf this card is Fusion Summoned: You can banish cards from the field and/or GYs, up to the number of materials used, then if you used 3 or more, you can look at your opponent's Extra Deck, and if you do, banish up to 3 cards from it. (Quick Effect): You can declare 1 Attribute; all other monsters currently on the field become that Attribute until the end of this turn. You can only use 1 \"Invoked Transcendence Aeon\" effect per turn, and only once that turn.",
+    "race": "Fiend",
+    "atk": 3800,
+    "def": 3200,
+    "level": 10,
+    "attribute": "DARK",
+    "archetype": "Invoked",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/invoked-transcendence-aeon-15681",
+    "card_images": [
+        {
+            "id": 101305033,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305033.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305033.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305033.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
