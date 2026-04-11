@@ -15,6 +15,13 @@
             "set_rarity": "Ultra Rare",
             "set_rarity_code": "(UR)",
             "set_price": "9.38"
+        },
+        {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN061",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -28,7 +35,7 @@
     "card_prices": [
         {
             "cardmarket_price": "1.28",
-            "tcgplayer_price": "6.27",
+            "tcgplayer_price": "5.92",
             "ebay_price": "12.99",
             "amazon_price": "14.99",
             "coolstuffinc_price": "9.99"

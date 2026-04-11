@@ -68,6 +68,13 @@
             "set_price": "377.93"
         },
         {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN003",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Retro Pack",
             "set_code": "RP01-EN050",
             "set_rarity": "Rare",
@@ -106,7 +113,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.49",
+            "cardmarket_price": "0.45",
             "tcgplayer_price": "1.01",
             "ebay_price": "14.95",
             "amazon_price": "4.98",
