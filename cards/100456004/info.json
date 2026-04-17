@@ -1,0 +1,36 @@
+{
+    "id": 100456004,
+    "name": "Plasma Warrior Eitom",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "(This card is always treated as a \"Magna Warrior\" card.)\r\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by Tributing 1 Level 7 or higher monster. You can only Special Summon \"Plasma Warrior Eitom\" once per turn this way. Once per turn: You can send 1 \"Magnet Warrior\" or \"Magna Warrior\" monster from your Deck to the GY, except \"Plasma Warrior Eitom\"; for the rest of this turn, this card's original ATK becomes 1500, also it can attack directly.",
+    "race": "Thunder",
+    "atk": 3000,
+    "def": 2500,
+    "level": 8,
+    "attribute": "LIGHT",
+    "archetype": "Magna Warrior",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/plasma-warrior-eitom-15703",
+    "card_images": [
+        {
+            "id": 100456004,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100456004.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100456004.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100456004.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

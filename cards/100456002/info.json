@@ -1,0 +1,36 @@
+{
+    "id": 100456002,
+    "name": "Arcana Force XII - The Hangman",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "When a card or effect is activated (Quick Effect): You can reveal this card in your hand; Special Summon 1 \"Arcana Force\" monster from your hand in Defense Position. You can only use this effect of \"Arcana Force XII - The Hangman\" once per turn. If this card is Summoned: Toss a coin.\r\n\u25cf Heads: Destroy 1 monster you control, and if you do, take damage equal to its original ATK.\r\n\u25cf Tails: Destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to its original ATK.",
+    "race": "Fairy",
+    "atk": 2200,
+    "def": 2200,
+    "level": 6,
+    "attribute": "LIGHT",
+    "archetype": "Arcana Force",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/arcana-force-xii-the-hangman-15701",
+    "card_images": [
+        {
+            "id": 100456002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100456002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100456002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100456002.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

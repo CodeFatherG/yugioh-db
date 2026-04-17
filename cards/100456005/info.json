@@ -1,0 +1,36 @@
+{
+    "id": 100456005,
+    "name": "White Knight Lord",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can banish 3 monsters from your GY; Special Summon this card from your hand, then you can apply 1 of these effects.\r\n\u25cf Special Summon 1 \"White Knight\" or \"White Night\" monster from your hand or Deck.\r\n\u25cf Add 1 \"White Veil\" from your Deck to your hand.\r\nYou can only use this effect of \"White Knight Lord\" once per turn. When an attack is declared involving this card and an opponent's monster: Change that opponent's monster's ATK to 0. If this card in its owner's possession is destroyed by an opponent's card: Inflict 1000 damage to your opponent.",
+    "race": "Warrior",
+    "atk": 2000,
+    "def": 2000,
+    "level": 7,
+    "attribute": "LIGHT",
+    "archetype": "White Knight",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/white-knight-lord-15700",
+    "card_images": [
+        {
+            "id": 100456005,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100456005.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100456005.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100456005.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

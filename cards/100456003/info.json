@@ -1,0 +1,36 @@
+{
+    "id": 100456003,
+    "name": "Candelato, the Beast of Light",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "(This card is always treated as a \"Phantom Beast\" card.)\r\nGains 1000 ATK/DEF for each card in your hand. You can only use each of the following effects of \"Candelato, the Beast of Light\" once per turn. You can discard 2 other cards; Special Summon this card from your hand, then you can add 1 card from your Deck to your hand that has a coin tossing effect. When a card or effect is activated that includes an effect that adds a card(s) from the Deck to the hand (Quick Effect): You can negate that effect.",
+    "race": "Beast",
+    "atk": 0,
+    "def": 0,
+    "level": 12,
+    "attribute": "LIGHT",
+    "archetype": "Phantom Beast",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/candelato-the-beast-of-light-15702",
+    "card_images": [
+        {
+            "id": 100456003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100456003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100456003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100456003.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
