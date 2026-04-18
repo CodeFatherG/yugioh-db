@@ -1,0 +1,43 @@
+{
+    "id": 101305041,
+    "name": "S-Force Mystify",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2+ monsters, including an \"S-Force\" monster\r\nWhile an opponent's monster is in this card's column, your opponent cannot target this card with card effects, also they cannot Special Summon with activated monster effects. (Quick Effect): You can target 1 monster on the field; move it to another of its controller's Main Monster Zones. You can only use this effect of \"S-Force Mystify\" once per turn.",
+    "race": "Cyberse",
+    "atk": 2700,
+    "def": null,
+    "level": null,
+    "attribute": "LIGHT",
+    "archetype": "S-Force",
+    "linkval": 3,
+    "linkmarkers": [
+        "Left",
+        "Right",
+        "Bottom"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/s-force-mystify-15705",
+    "card_images": [
+        {
+            "id": 101305041,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305041.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305041.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305041.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

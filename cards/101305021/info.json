@@ -1,0 +1,37 @@
+{
+    "id": 101305021,
+    "name": "Melffy Rabbys",
+    "typeline": [
+        "Beast",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "If your opponent Normal or Special Summons a monster(s): You can Special Summon this card from your hand, then you can Fusion Summon 1 \"Melffy\" Fusion Monster from your Extra Deck, using monsters from your hand or field. If this card is Normal or Special Summoned: You can add 1 \"Melffy\" monster from your Deck to your hand, then if you added a Normal Monster, you can Special Summon any number of Beast monsters from your hand. You can only use 1 \"Melffy Rabbys\" effect per turn, and only once that turn.",
+    "race": "Beast",
+    "atk": 300,
+    "def": 100,
+    "level": 2,
+    "attribute": "EARTH",
+    "archetype": "Melffy",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/melffy-rabbys-15714",
+    "card_images": [
+        {
+            "id": 101305021,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305021.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305021.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305021.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
