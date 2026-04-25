@@ -1,0 +1,36 @@
+{
+    "id": 101304081,
+    "name": "Gaming Gamer GG",
+    "typeline": [
+        "Machine",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2 Level 4 Machine monsters\r\nIf this card is Special Summoned: You can change all monsters your opponent controls to Attack Position. If your opponent has a monster in their field or GY: You can detach 1 material from this card; send 1 Machine monster from your Deck/Extra Deck to the GY, then you can apply this effect.\r\n\u25cf Choose 1 Machine Xyz Monster in your GY, and this card's name becomes that monster's name until the End Phase.\r\nYou can only use this effect of \"Gaming Gamer GG\" once per turn.",
+    "race": "Machine",
+    "atk": 2600,
+    "def": 2000,
+    "level": 4,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gaming-gamer-gg-15730",
+    "card_images": [
+        {
+            "id": 101304081,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101304081.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101304081.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101304081.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
