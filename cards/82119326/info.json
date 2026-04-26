@@ -1,13 +1,22 @@
 {
     "id": 82119326,
-    "name": "Tales of Fairy Tail",
+    "name": "Tails of the Fairy Tails",
     "type": "Spell Card",
     "humanReadableCardType": "Equip Spell",
     "frameType": "spell",
-    "desc": "The equipped monster gains 1000 ATK. Once per turn: You can Fusion Summon 1 Spellcaster Fusion Monster from your Extra Deck, using monsters from your hand or field. When you do, you can also use any \"Fairy Prince\" your opponent controls. If this card is in your GY: You can equip it to a \"Fairy Tail\" monster on the field, then immediately after this effect resolves, you can Normal Summon 1 Spellcaster monster with 1850 ATK. You can only use this effect of \"Tales of Fairy Tail\" once per turn.",
+    "desc": "The equipped monster gains 1000 ATK. Once per turn, during your Main Phase: You can Fusion Summon 1 Spellcaster Fusion Monster from your Extra Deck, using monsters from your hand, field, and/or \"Prince of Fairies\" your opponent controls as material. If this card is in your GY: You can equip this card to 1 \"Fairy Tail\" monster on the field, then immediately after this effect resolves, you can Normal Summon 1 Spellcaster monster with 1850 ATK. You can only use this effect of \"Tails of the Fairy Tails\" once per turn.",
     "race": "Equip",
     "archetype": "Fairy Tail",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/tales-of-fairy-tail-15505",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tails-of-the-fairy-tails-15505",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 82119326,

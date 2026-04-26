@@ -1,0 +1,42 @@
+{
+    "id": 67216732,
+    "name": "S-Force Nightslayer",
+    "typeline": [
+        "Psychic",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 monsters, including an \"S-Force\" monster\r\nIf this card is Special Summoned: You can add 1 \"S-Force\" Spell/Trap from your Deck to your hand. (Quick Effect): You can banish this card you control and 1 \"S-Force\" card from your hand; Special Summon 1 \"S-Force\" monster from your Deck or Extra Deck, except \"S-Force Nightslayer\". You can only use each effect of \"S-Force Nightslayer\" once per turn.",
+    "race": "Psychic",
+    "atk": 1700,
+    "def": null,
+    "level": null,
+    "attribute": "DARK",
+    "archetype": "S-Force",
+    "linkval": 2,
+    "linkmarkers": [
+        "Left",
+        "Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/s-force-nightslayer-15706",
+    "card_images": [
+        {
+            "id": 67216732,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67216732.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67216732.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67216732.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

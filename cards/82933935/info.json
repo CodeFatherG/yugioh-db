@@ -9,7 +9,7 @@
     "type": "Flip Effect Monster",
     "humanReadableCardType": "Flip Effect Monster",
     "frameType": "effect",
-    "desc": "FLIP: If it is the Main Phase: Apply these effects in sequence.\r\n\u25cf Your opponent can add 1 Flip monster or \"Mimighoul\" card from their Deck to their hand.\r\n\u25cf Give control of this card to your opponent.\r\nDuring your Main Phase: You can Special Summon this card from your hand to your opponent's field in face-down Defense Position, or if a face-down monster is on the field, you can Special Summon this card face-up on your field. You can only use each effect of \"Mimighoul Flower\" once per turn.",
+    "desc": "FLIP: If it is the Main Phase: Apply these effects in sequence.\r\n\u25cf Your opponent can add 1 Flip monster or 1 \"Mimighoul\" card from their Deck to their hand.\r\n\u25cf Give control of this card to your opponent.\r\nDuring your Main Phase: You can Special Summon this card from your hand to your opponent's field in face-down Defense Position, or if a face-down monster is on the field, you can Special Summon this card face-up on your field. You can only use each effect of \"Mimighoul Flower\" once per turn.",
     "race": "Plant",
     "atk": 0,
     "def": 2100,
@@ -17,6 +17,15 @@
     "attribute": "EARTH",
     "archetype": "Mimighoul",
     "ygoprodeck_url": "https://ygoprodeck.com/card/mimighoul-flower-15484",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 82933935,

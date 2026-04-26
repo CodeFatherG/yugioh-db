@@ -1,6 +1,6 @@
 {
     "id": 11212437,
-    "name": "Diabolic Dragon Fortress - Draluvice",
+    "name": "Draluvice the Diabolic Dragon Fortress",
     "typeline": [
         "Dragon",
         "Tuner",
@@ -16,6 +16,15 @@
     "level": 7,
     "attribute": "DARK",
     "ygoprodeck_url": "https://ygoprodeck.com/card/diabolic-dragon-fortress-draluvice-15329",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN097",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 11212437,

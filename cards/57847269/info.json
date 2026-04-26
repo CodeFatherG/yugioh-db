@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "During your Main Phase: You can Special Summon 1 \"Clown Clan\" monster from your Deck or Extra Deck, ignoring its Summoning conditions, also you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck until the end of the next turn. During the End Phase: You can draw cards equal to the number of monster card types (Ritual, Fusion, Synchro, Xyz, Pendulum, Link) Tributed this turn, then you can Set 1 Spell/Trap from your hand. You can only use each effect of \"Clown Clan \"Matinee\"\" once per turn.",
+    "desc": "During your Main Phase: You can Special Summon 1 \"Clown Crew\" monster from your Deck or Extra Deck, ignoring its Summoning conditions, also until the end of the next turn after this effect resolves, you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck. During the End Phase: You can draw cards equal to the number of different card types of monsters Tributed this turn (Ritual, Fusion, Synchro, Xyz, Pendulum, Link), then you can Set 1 Spell/Trap from your hand. You can only use each effect of \"Clown Crew Matinee Operatics\" once per turn.",
     "race": "Continuous",
-    "archetype": "Clown Clan",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-clan-matinee-15452",
+    "archetype": "Clown Crew",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-crew-matinee-operatics-15452",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN060",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 57847269,

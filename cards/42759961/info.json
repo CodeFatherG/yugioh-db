@@ -9,14 +9,23 @@
     "type": "Ritual Effect Monster",
     "humanReadableCardType": "Ritual Effect Monster",
     "frameType": "ritual",
-    "desc": "You can Ritual Summon this card with a \"Clown Clan\" card. You can reveal this card in your hand; add 1 \"Clown Clan\" card from your Deck to your hand, except a Ritual Monster, then discard 1 card. You can only use this effect of \"Clown Clan Flair\" once per turn. If this card is Tributed: You can activate 1 of these effects (but you can only use each of these effects of \"Clown Clan Flair\" once per turn);\r\n\u25cf Shuffle all Ritual Monsters on the field and in the GYs into the Deck.\r\n\u25cf Change 1 Effect Monster on the field to face-down Defense Position.",
+    "desc": "You can Ritual Summon this card with a \"Clown Crew\" card. You can reveal this card in your hand; add 1 \"Clown Crew\" card from your Deck to your hand, except a Ritual Monster, then discard 1 card. You can only use this effect of \"Clown Crew Flair\" once per turn. If this card is Tributed: You can activate 1 of these effects (but you can only use each of these effects of \"Clown Crew Flair\" once per turn);\r\n\u25cf Shuffle all Ritual Monsters from the field and the GYs into the Deck.\r\n\u25cf Change 1 Effect Monster on the field to face-down Defense Position.",
     "race": "Beast-Warrior",
     "atk": 500,
     "def": 1000,
     "level": 1,
     "attribute": "LIGHT",
-    "archetype": "Clown Clan",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-clan-flair-15458",
+    "archetype": "Clown Crew",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-crew-flair-15458",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN029",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 42759961,

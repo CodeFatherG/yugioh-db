@@ -9,14 +9,23 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Tuner + 1+ non-Tuners\r\nYour opponent cannot activate cards or effects when your monster is Tribute Summoned. If this card is Tributed: You can activate 1 of these effects (but you can only use each of these effects of \"Clown Clan Meteor\" once per turn);\r\n\u25cf Return all Synchro Monsters on the field and in the GYs to the Extra Deck.\r\n\u25cf Target 1 \"Clown Clan\" card in your GY, except \"Clown Clan Meteor\"; add it to your hand.",
+    "desc": "1 Tuner + 1+ non-Tuners\r\nYour opponent cannot activate cards or effects when you Tribute Summon a monster. If this card is Tributed: You can activate 1 of these effects (but you can only use each effect of \"Clown Crew Meteor\" once per turn);\r\n\u25cf Return all Synchro Monsters from the field and the GYs to the Extra Deck.\r\n\u25cf You can target 1 \"Clown Crew\" card in your GY, except \"Clown Crew Meteor\"; add it to your hand.",
     "race": "Beast-Warrior",
     "atk": 600,
     "def": 1300,
     "level": 6,
     "attribute": "LIGHT",
-    "archetype": "Clown Clan",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-clan-meteor-15459",
+    "archetype": "Clown Crew",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-crew-meteor-15459",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 93172951,

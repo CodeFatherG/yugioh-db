@@ -4,10 +4,19 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Activate 1 of these effects (but you can only use each of these effects of \"Clown Clan \"Soiree\"\" once per turn); you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck until the end of the next turn after this card resolves.\r\n\u25cf Special Summon up to 2 \"Clown Clan\" monsters from your Deck and/or Extra Deck, ignoring their Summoning conditions.\r\n\u25cf Add 1 \"Clown Clan\" monster from your Deck to your hand.\r\nDuring the Main Phase: You can banish this card from your GY; immediately after this effect resolves, Tribute Summon 1 \"Clown Clan\" monster face-up.",
+    "desc": "Activate 1 of these effects (but you can only use each of these effects of \"Clown Crew Soiree Operations\" once per turn, also until the end of the next turn after this card resolves, you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck);\r\n\u25cf Special Summon up to 2 \"Clown Crew\" monsters from your Deck and/or Extra Deck, ignoring their Summoning conditions.\r\n\u25cf Add 1 \"Clown Crew\" monster from your Deck to your hand.\r\nDuring the Main Phase: You can banish this card from your GY; immediately after this effect resolves, Tribute Summon 1 \"Clown Crew\" monster face-up.",
     "race": "Normal",
-    "archetype": "Clown Clan",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-clan-soiree-15455",
+    "archetype": "Clown Crew",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-crew-soiree-operations-15455",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 70058649,

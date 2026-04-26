@@ -1,0 +1,36 @@
+{
+    "id": 19951423,
+    "name": "S-Force Signus",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 \"S-Force\" monster from your Deck to your hand, except \"S-Force Signus\", then if an opponent's monster is in this card's column, you can draw 1 card. If an opponent's monster activates its effect in the same column as your monster (except during the Damage Step): You can make all \"S-Force\" monsters you currently control gain 1000 ATK. You can only use each effect of \"S-Force Signus\" once per turn.",
+    "race": "Fairy",
+    "atk": 1600,
+    "def": 0,
+    "level": 3,
+    "attribute": "LIGHT",
+    "archetype": "S-Force",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/s-force-signus-15708",
+    "card_images": [
+        {
+            "id": 19951423,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19951423.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19951423.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19951423.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

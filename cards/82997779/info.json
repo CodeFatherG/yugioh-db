@@ -1,13 +1,22 @@
 {
     "id": 82997779,
-    "name": "Archfiend Usurpation",
+    "name": "Archfiend's Usurpation",
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Activate 1 of these effects;\r\n\u25cf Set 1 \"Archfiend\" Trap from your Deck or GY. It can be activated this turn.\r\n\u25cf Ritual Summon 1 \"Archfiend\" Ritual Monster from your hand or face-up Extra Deck, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level.\r\nYou can only activate 1 \"Archfiend Usurpation\" per turn.",
+    "desc": "Activate 1 of these effects;\r\n\u25cf Set 1 \"Archfiend\" Trap from your Deck or GY. It can be activated this turn.\r\n\u25cf Ritual Summon 1 \"Archfiend\" Ritual Monster from your hand or face-up Extra Deck, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level.\r\nYou can only activate 1 \"Archfiend's Usurpation\" per turn.",
     "race": "Quick-Play",
     "archetype": "Archfiend",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-usurpation-15498",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-s-usurpation-15498",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN067",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 82997779,

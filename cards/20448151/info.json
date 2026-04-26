@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Tribute 1 monster from your hand or field; add 1 \"Clown Clan Whiteface\" and 1 \"Clown Clan\" Spell/Trap from your Deck to your hand, except \"Clown Clan \"Rehearsal\"\". You can banish this card from your GY; Ritual Summon 1 \"Clown Clan\" Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. You can only use each effect of \"Clown Clan \"Rehearsal\"\" once per turn.",
+    "desc": "Tribute 1 monster from your hand or field; add 1 \"Clown Crew Biancaviso\" and 1 \"Clown Crew\" Spell/Trap, except \"Clown Crew Rehearsal\", from your Deck to your hand. You can banish this card from your GY; Ritual Summon 1 \"Clown Crew\" Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. You can only use each effect of \"Clown Crew Rehearsal\" once per turn.",
     "race": "Normal",
-    "archetype": "Clown Clan",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-clan-rehearsal-15454",
+    "archetype": "Clown Crew",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-crew-rehearsal-15454",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN059",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 20448151,

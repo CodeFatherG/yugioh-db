@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Special Summon up to 2 \"Clown Clan\" monsters from your Deck and/or Extra Deck, ignoring their Summoning conditions, also you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck until the end of the next turn after this card resolves. During your Main Phase, if this card in your GY, except the turn it was sent there: You can banish it and Tribute 1 monster from your hand or field, then target 1 card on the field; return it to the hand. You can only use each effect of \"Clown Clan \"Malabarism\"\" once per turn.",
+    "desc": "Special Summon up to 2 \"Clown Crew\" monsters from your Deck and/or Extra Deck, ignoring their Summoning conditions, also until the end of the next turn after this card resolves, you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck. During your Main Phase, if this card is in your GY, except the turn it was sent there: You can banish this card and Tribute 1 monster from your hand or field, then target 1 card on the field; return it to the hand. You can only use each effect of \"Clown Crew Malabarisme\" once per turn.",
     "race": "Quick-Play",
-    "archetype": "Clown Clan",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-clan-malabarism-15451",
+    "archetype": "Clown Crew",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-crew-malabarisme-15451",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN061",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 83232904,

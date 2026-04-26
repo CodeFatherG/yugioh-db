@@ -1,13 +1,22 @@
 {
     "id": 19326613,
-    "name": "Fairy Tail Long Long Ago",
+    "name": "Once Upon a Fairy Tail",
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Special Summon up to 1 LIGHT \"Fairy Tail\" monster each from your hand, GY, and banishment, with different names, also you cannot Special Summon for the rest of this turn, except Spellcaster monsters. If this card is sent to the GY, except from the field, or banished: You can Set this card, but it cannot be activated unless you control a \"Fairy Tail\" monster. You can only use each effect of \"Fairy Tail Long Long Ago\" once per turn.",
+    "desc": "Special Summon up to 1 LIGHT \"Fairy Tail\" monster each from your hand, GY, and banishment, with different names, also you cannot Special Summon for the rest of this turn, except Spellcaster monsters. If this card is banished, or sent to the GY except from the field: You can Set this card, but it cannot be activated unless you control a \"Fairy Tail\" monster. You can only use each effect of \"Once Upon a Fairy Tail\" once per turn.",
     "race": "Quick-Play",
     "archetype": "Fairy Tail",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/fairy-tail-long-long-ago-15504",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/once-upon-a-fairy-tail-15504",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 19326613,

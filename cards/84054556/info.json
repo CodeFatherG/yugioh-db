@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Equip Spell",
     "frameType": "spell",
-    "desc": "The first time the equipped monster would be destroyed by battle each turn, it is not destroyed. You can only use each of the following effects of \"DoomZ Command \"A.D.R.A.S.T.E.I.A.\"\" once per turn. During your Main Phase: You can destroy the equipped monster, and if you do, Special Summon 1 other \"DoomZ\" monster from your hand, GY, or banishment in Defense Position. If this card is in your GY: You can target 1 face-up monster you control; equip this card to it, then take damage equal to its Level/Rank x 100.",
+    "desc": "The first time the equipped monster would be destroyed by battle each turn, it is not destroyed. You can only use each of the following effects of \"DoomZ Command \"A.D.R.A.S.T.E.I.A.\"\" once per turn. During your Main Phase: You can destroy the equipped monster, and if you do, Special Summon 1 \"DoomZ\" monster in Defense Position, except the destroyed monster, from your hand, GY, or banishment. If this card is in your GY: You can target 1 face-up monster you control; equip it with this card, then take damage equal to the equipped monster's Level/Rank x 100.",
     "race": "Equip",
     "archetype": "DoomZ",
     "ygoprodeck_url": "https://ygoprodeck.com/card/doomz-command-a-d-r-a-s-t-e-i-a-15465",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN058",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 84054556,

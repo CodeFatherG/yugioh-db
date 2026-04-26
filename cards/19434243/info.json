@@ -15,6 +15,22 @@
     "level": 5,
     "attribute": "DARK",
     "ygoprodeck_url": "https://ygoprodeck.com/card/power-vice-dragon-15521",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN002",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN002",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 19434243,

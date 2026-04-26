@@ -1,6 +1,6 @@
 {
     "id": 81101309,
-    "name": "Noctilucent Train Bleu Traveler",
+    "name": "Night Train Blue Traveler",
     "typeline": [
         "Machine",
         "Effect"
@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can discard this card; add 1 \"Train Connection\" or \"Revolving Switchyard\" from your Deck or GY to your hand. You can only use this effect of \"Noctilucent Train Bleu Traveler\" once per turn. If this card is in your GY: You can target 1 other EARTH Machine monster in your GY; Special Summon both it and this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters. You can only use this effect of \"Noctilucent Train Bleu Traveler\" once per Duel.",
+    "desc": "You can discard this card; add 1 \"Train Connection\" or \"Revolving Switchyard\" from your Deck or GY to your hand. If this card is in your GY: You can target 1 other EARTH Machine monster in your GY; Special Summon both it and this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters. You can only use this effect of \"Night Train Blue Traveler\" once per Duel, and its previous effect only once per turn.",
     "race": "Machine",
     "atk": 2500,
     "def": 2500,
     "level": 10,
     "attribute": "EARTH",
     "archetype": "Train",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/noctilucent-train-bleu-traveler-15513",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/night-train-blue-traveler-15513",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 81101309,

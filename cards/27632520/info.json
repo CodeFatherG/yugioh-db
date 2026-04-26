@@ -1,6 +1,6 @@
 {
     "id": 27632520,
-    "name": "Fairy Tail - Wickat",
+    "name": "Fairy Tail - Wiccat",
     "typeline": [
         "Spellcaster",
         "Xyz",
@@ -9,14 +9,23 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "2 Level 4 Spellcaster monsters\r\n\"Fairy Tail\" monsters you control whose original Attribute is LIGHT are unaffected by your opponent's activated effects. You can only use each of the following effects of \"Fairy Tail - Wickat\" once per turn. You can detach up to 2 materials from this card; send that many \"Fairy Tail\" cards from your Deck to the GY. If this card is in your GY (Quick Effect): You can target 1 \"Fairy Tail\" monster you control whose original Attribute is LIGHT; Special Summon this card, and if you do, send that monster to the GY.",
+    "desc": "2 Level 4 Spellcaster monsters\r\nEach \"Fairy Tail\" monster you control whose original Attribute is LIGHT, is unaffected by your opponent's activated effects. You can only use each of the following effects of \"Fairy Tail - Wiccat\" once per turn. You can detach up to 2 materials from this card; send \"Fairy Tail\" cards from your Deck to the GY, equal to the number detached. If this card is in your GY (Quick Effect): You can target 1 \"Fairy Tail\" monster you control whose original Attribute is LIGHT; Special Summon this card, and if you do, send that monster to the GY.",
     "race": "Spellcaster",
     "atk": 1850,
     "def": 1000,
     "level": 4,
     "attribute": "DARK",
     "archetype": "Fairy Tail",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/fairy-tail-wickat-15502",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fairy-tail-wiccat-15502",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 27632520,

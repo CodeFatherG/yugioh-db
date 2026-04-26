@@ -1,6 +1,6 @@
 {
     "id": 4026187,
-    "name": "Chronicler of Fairy Tail Tales",
+    "name": "Teller of Fairy Tails",
     "typeline": [
         "Spellcaster",
         "Fusion",
@@ -9,14 +9,30 @@
     "type": "Fusion Monster",
     "humanReadableCardType": "Fusion Effect Monster",
     "frameType": "fusion",
-    "desc": "1 LIGHT \"Fairy Tail\" monster + 1 Spellcaster monster\r\nYour \"Fairy Tail\" monsters cannot be destroyed by battle. You can only use each of the following effects of \"Chronicler of Fairy Tail Tales\" once per turn. If this card is Fusion Summoned using \"Fairy Prince\" as material: You can destroy as many cards your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each card destroyed. When your opponent activates a card or effect (Quick Effect): You can banish 1 \"Fairy Tail\" card from your hand or GY; negate the activation, and if you do, destroy that card.",
+    "desc": "1 LIGHT \"Fairy Tail\" monster + 1 Spellcaster monster\r\n\"Fairy Tail\" monsters you control cannot be destroyed by battle. You can only use each of the following effects of \"Teller of Fairy Tails\" once per turn. If this card is Fusion Summoned using \"Prince of Fairies\" as material: You can destroy as many cards your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each card destroyed. When your opponent activates a card or effect (Quick Effect): You can banish 1 \"Fairy Tail\" card from your hand or GY; negate the activation, and if you do, destroy that card.",
     "race": "Spellcaster",
     "atk": 1850,
     "def": 1000,
     "level": 4,
     "attribute": "EARTH",
     "archetype": "Fairy Tail",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/chronicler-of-fairy-tail-tales-15500",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/teller-of-fairy-tails-15500",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN034",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN034",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 4026187,

@@ -1,0 +1,42 @@
+{
+    "id": 31822037,
+    "name": "Power Patron Envoy of Pure Prayers",
+    "typeline": [
+        "Fairy",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 non-Link Monsters\r\nIf this card is Link Summoned and you have a \"Power Patron\" monster in your GY: You can add 1 \"Theorealize\" card from your Deck to your hand. During the Main Phase, if you control another DARK Fairy monster, you can (Quick Effect): Immediately after this effect resolves, Link Summon using materials you control, including this card. You can only use each effect of \"Power Patron Envoy of Pure Prayers\" once per turn.",
+    "race": "Fairy",
+    "atk": 300,
+    "def": null,
+    "level": null,
+    "attribute": "DARK",
+    "archetype": "Power Patron",
+    "linkval": 2,
+    "linkmarkers": [
+        "Top",
+        "Bottom"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/power-patron-envoy-of-pure-prayers-15675",
+    "card_images": [
+        {
+            "id": 31822037,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31822037.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31822037.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31822037.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

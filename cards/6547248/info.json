@@ -4,10 +4,19 @@
     "type": "Trap Card",
     "humanReadableCardType": "Continuous Trap",
     "frameType": "trap",
-    "desc": "During the Standby Phase: You can shuffle 3 \"Clown Clan\" cards from your GY and/or banishment into the Deck, then draw 1 card. If you Tribute Summon a monster: You can target other Spells/Traps on the field, up to the number of monsters Tributed for its Tribute Summon; destroy them. If this card is sent to the GY, except from the field: You can place this card face-up on your field. You can only use each effect of \"Clown Clan \"New Face\"\" once per turn.",
+    "desc": "During the Standby Phase: You can shuffle 3 \"Clown Crew\" cards from your GY and/or banishment into the Deck, then draw 1 card. If you Tribute Summon a monster: You can target other Spells/Traps on the field up to the number of monsters Tributed for its Tribute Summon; destroy them. If this card is sent to the GY, except from the field: You can place it face-up on your field. You can only use each effect of \"Clown Crew New Face\" once per turn.",
     "race": "Continuous",
-    "archetype": "Clown Clan",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-clan-new-face-15453",
+    "archetype": "Clown Crew",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-crew-new-face-15453",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN074",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 6547248,

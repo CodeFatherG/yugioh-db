@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can Tribute Summon this card face-up by Tributing 1 Ritual, Fusion, Synchro, Xyz, Pendulum, or Link Monster. If this card is Tribute Summoned: You can activate 1 of these effects (but you can only use each of these effects of \"Clown Clan Whiteface\" once per turn);\r\n\u25cf Draw cards equal to the number of monsters Tributed for its Tribute Summon.\r\n\u25cf Negate the effects of face-up cards your opponent controls, equal to the number of monsters Tributed for its Tribute Summon.\r\nOnce per turn, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Tribute Summon 1 monster.",
+    "desc": "You can Tribute Summon this card face-up by Tributing 1 Ritual, Fusion, Synchro, Xyz, Pendulum, or Link Monster. If this card is Tribute Summoned: You can activate 1 of these effects (but you can only use each effect of \"Clown Crew Biancaviso\" once per turn);\r\n\u25cf Draw cards equal to the number of monsters Tributed.\r\n\u25cf Negate the effects of face-up cards your opponent controls, equal to the number of monsters Tributed.\r\nOnce per turn, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Tribute Summon 1 monster.",
     "race": "Illusion",
     "atk": 2500,
     "def": 2500,
     "level": 7,
     "attribute": "LIGHT",
-    "archetype": "Clown Clan",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-clan-whiteface-15464",
+    "archetype": "Clown Crew",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/clown-crew-biancaviso-15464",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 82159583,

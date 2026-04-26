@@ -1,6 +1,6 @@
 {
     "id": 70488851,
-    "name": "Vidrium the Power Patron of Chaos Extermination",
+    "name": "Vidolium the Unstable Power Patron of Unity",
     "typeline": [
         "Fairy",
         "Pendulum",
@@ -9,17 +9,26 @@
     "type": "Pendulum Effect Monster",
     "humanReadableCardType": "Pendulum Effect Monster",
     "frameType": "effect_pendulum",
-    "desc": "[ Pendulum Effect ] \nYou can activate 1 of these effects;\r\n\u25cf Destroy this card, and if you do, Special Summon 1 \"Power Patron\" monster from your hand or GY.\r\n\u25cf Destroy this card, also this turn, \"Power Patron\" monsters you control whose original Level is 12 will gain 5000 ATK.\r\nYou can only use this effect of \"Vidrium the Power Patron of Chaos Extermination\" once per turn.\n\n[ Monster Effect ] \nCannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck or GY) by returning 1 Fusion, 1 Synchro, and 1 Xyz Monster from your face-up field and/or GY to the Extra Deck. If this card is added to your Extra Deck face-up: You can add 1 \"Power Patron\" card from your Deck to your hand. You can only use this effect of \"Vidrium the Power Patron of Chaos Extermination\" once per turn. If this card is Special Summoned: Banish (face-down) all cards from the GYs. Unaffected by monster effects, except \"Power Patron\" monsters.",
+    "desc": "[ Pendulum Effect ] \nYou can activate 1 of these effects;\r\n\u25cf Destroy this card, and if you do, Special Summon 1 \"Power Patron\" monster from your hand or GY.\r\n\u25cf Destroy this card, also for the rest of this turn, \"Power Patron\" monsters you control whose original Level is 12 gain 5000 ATK.\r\nYou can only use this effect of \"Vidolium the Unstable Power Patron of Unity\" once per turn.\n\n[ Monster Effect ] \nCannot be Normal Summoned/Set. Must be Special Summoned (from your Extra Deck or GY) by returning 3 monsters (1 Fusion, 1 Synchro, and 1 Xyz) from your face-up field and/or GY to the Extra Deck. Unaffected by monster effects, except \"Power Patron\" monsters. If this card is added to your Extra Deck face-up: You can add 1 \"Power Patron\" card from your Deck to your hand. You can only use this effect of \"Vidolium the Unstable Power Patron of Unity\" once per turn. If this card is Special Summoned: Banish (face-down) all cards in the GYs.",
     "race": "Fairy",
-    "pend_desc": "You can activate 1 of these effects;\r\n\u25cf Destroy this card, and if you do, Special Summon 1 \"Power Patron\" monster from your hand or GY.\r\n\u25cf Destroy this card, also this turn, \"Power Patron\" monsters you control whose original Level is 12 will gain 5000 ATK.\r\nYou can only use this effect of \"Vidrium the Power Patron of Chaos Extermination\" once per turn.",
-    "monster_desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck or GY) by returning 1 Fusion, 1 Synchro, and 1 Xyz Monster from your face-up field and/or GY to the Extra Deck. If this card is added to your Extra Deck face-up: You can add 1 \"Power Patron\" card from your Deck to your hand. You can only use this effect of \"Vidrium the Power Patron of Chaos Extermination\" once per turn. If this card is Special Summoned: Banish (face-down) all cards from the GYs. Unaffected by monster effects, except \"Power Patron\" monsters.",
+    "pend_desc": "You can activate 1 of these effects;\r\n\u25cf Destroy this card, and if you do, Special Summon 1 \"Power Patron\" monster from your hand or GY.\r\n\u25cf Destroy this card, also for the rest of this turn, \"Power Patron\" monsters you control whose original Level is 12 gain 5000 ATK.\r\nYou can only use this effect of \"Vidolium the Unstable Power Patron of Unity\" once per turn.",
+    "monster_desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your Extra Deck or GY) by returning 3 monsters (1 Fusion, 1 Synchro, and 1 Xyz) from your face-up field and/or GY to the Extra Deck. Unaffected by monster effects, except \"Power Patron\" monsters. If this card is added to your Extra Deck face-up: You can add 1 \"Power Patron\" card from your Deck to your hand. You can only use this effect of \"Vidolium the Unstable Power Patron of Unity\" once per turn. If this card is Special Summoned: Banish (face-down) all cards in the GYs.",
     "atk": 5000,
     "def": 0,
     "level": 12,
     "attribute": "DARK",
     "archetype": "Power Patron",
     "scale": 11,
-    "ygoprodeck_url": "https://ygoprodeck.com/card/vidrium-the-power-patron-of-chaos-extermination-15476",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vidolium-the-unstable-power-patron-of-unity-15476",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 70488851,

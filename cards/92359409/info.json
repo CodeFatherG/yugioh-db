@@ -9,7 +9,7 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "3 Level 10 monsters\r\nOnce per turn, you can also Xyz Summon \"Superdreadnought Rail Cannon Gustav Rocket\" by discarding 1 card and using \"Superdreadnought Rail Cannon Gustav Max\" you control (transfer its materials to this card). When your opponent activates a monster effect while this card has material (Quick Effect): You can negate that effect, and if you do, destroy that monster, then inflict 1000 damage to your opponent. You can only use this effect of \"Superdreadnought Rail Cannon Gustav Rocket\" once per turn. Once per turn, during your End Phase: Detach 1 material from this card or destroy it.",
+    "desc": "3 Level 10 monsters\r\nOnce per turn, you can also Xyz Summon \"Superdreadnought Rail Cannon Gustav Rocket\" by discarding 1 card and using 1 \"Superdreadnought Rail Cannon Gustav Max\" you control (transfer its materials). When your opponent activates a monster effect, while this card has material (Quick Effect): You can negate that effect, and if you do, destroy that card, then inflict 1000 damage to your opponent. You can only use this effect of \"Superdreadnought Rail Cannon Gustav Rocket\" once per turn. Once per turn, during your End Phase: Detach 1 material from this card or destroy this card.",
     "race": "Machine",
     "atk": 5000,
     "def": 3000,
@@ -17,6 +17,22 @@
     "attribute": "EARTH",
     "archetype": "Train",
     "ygoprodeck_url": "https://ygoprodeck.com/card/superdreadnought-rail-cannon-gustav-rocket-15516",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN043",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 92359409,

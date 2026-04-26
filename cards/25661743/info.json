@@ -1,13 +1,22 @@
 {
     "id": 25661743,
-    "name": "Unleashed Power Patron Portal - Terminus",
+    "name": "Prohibited Power Patrol Portal - Terminus",
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Send 1 \"Power Patron\" monster from your Deck or Extra Deck to the GY, then you can add 1 DARK Fairy monster from your Deck to your hand, also you cannot declare attacks for the rest of this turn, except with \"Power Patron\" monsters. At the start of the Damage Step, if your \"Power Patron\" monster battles an opponent's monster: You can banish this card from your GY; banish (face-down) that opponent's monster. You can only use each effect of \"Unleashed Power Patron Portal - Terminus\" once per turn.",
+    "desc": "Send 1 \"Power Patron\" monster from your Deck/Extra Deck to the GY, then you can add 1 DARK Fairy monster from your Deck to your hand, also you cannot declare attacks for the rest of this turn, except with \"Power Patron\" monsters. At the start of the Damage Step, if your \"Power Patron\" monster battles an opponent's monster: You can banish this card from your GY; banish (face-down) that opponent's monster. You can only use each effect of \"Prohibited Power Patrol Portal - Terminus\" once per turn.",
     "race": "Normal",
     "archetype": "Power Patron",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/unleashed-power-patron-portal-terminus-15475",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/prohibited-power-patrol-portal-terminus-15475",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 25661743,

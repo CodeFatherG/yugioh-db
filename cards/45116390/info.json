@@ -1,6 +1,6 @@
 {
     "id": 45116390,
-    "name": "Heavy Knight Babel Decker",
+    "name": "Heavy Armored Knight Babeldecker",
     "typeline": [
         "Machine",
         "Effect"
@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can Normal Summon this card without Tributing. You can only use each of the following effects of \"Heavy Knight Babel Decker\" once per turn. If this card is Normal or Special Summoned: You can Special Summon 1 EARTH Machine monster from your hand. During your Main Phase, if your opponent activated a card or effect this turn: You can Special Summon 1 Rank 10 EARTH Machine Xyz Monster from your Extra Deck using this card you control as material (this is treated as an Xyz Summon).",
+    "desc": "You can Normal Summon this card without Tributing. You can only use each of the following effects of \"Heavy Armored Knight Babeldecker\" once per turn. If this card is Normal or Special Summoned: You can Special Summon 1 EARTH Machine monster from your hand. During your Main Phase, if your opponent activated a card or effect this turn: You can Special Summon 1 Rank 10 EARTH Machine Xyz Monster from your Extra Deck using this card you control as material (this is treated as an Xyz Summon).",
     "race": "Machine",
     "atk": 500,
     "def": 3000,
     "level": 10,
     "attribute": "EARTH",
     "archetype": "Train",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/heavy-knight-babel-decker-15512",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/heavy-armored-knight-babeldecker-15512",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 45116390,

@@ -16,6 +16,22 @@
     "level": 7,
     "attribute": "DARK",
     "ygoprodeck_url": "https://ygoprodeck.com/card/crimson-blade-dragon-15508",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN037",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN037",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 3294539,

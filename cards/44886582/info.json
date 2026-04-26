@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Neither player can activate cards or effects in response to this card's activation. Pay 2000 LP, then target 1 Effect Monster on the field; Special Summon 1 monster from your Extra Deck with the same Type and Attribute, but a different Level (its effects are negated), then apply 1 of these effects.\r\n\u25cf Fusion Summon 1 Fusion Monster from your Extra Deck, using both the Summoned monster and the targeted monster.\r\n\u25cf Send the Summoned monster to the GY.\r\nYou can only activate 1 \"Apex Polymerization\" per turn.",
+    "desc": "Pay 2000 LP, then target 1 Effect Monster on the field; Special Summon 1 monster from your Extra Deck, with the same Type and Attribute but a different Level (but negate its effects), then apply 1 of these effects. Neither player can activate cards or effects in response to this card's activation.\r\n\u25cf Fusion Summon 1 Fusion Monster from your Extra Deck, using the Special Summoned monster and the targeted monster.\r\n\u25cf Send the Special Summoned monster to the GY.\r\nYou can only activate 1 \"Super Duper Polymerization\" per turn.",
     "race": "Normal",
     "archetype": "Polymerization",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/apex-polymerization-15489",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/super-duper-polymerization-15489",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN069",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 44886582,
