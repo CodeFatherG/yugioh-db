@@ -1,0 +1,37 @@
+{
+    "id": 100455026,
+    "name": "Witchcrafter Pupils",
+    "typeline": [
+        "Spellcaster",
+        "Fusion",
+        "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "1 \"Witchcrafter\" monster + 1 Spellcaster monster\r\nDuring the Main or Battle Phase (Quick Effect): You can activate 1 of these effects;\r\n\u25cf Add 1 \"Witchcrafter\" Spell from your Deck to your hand.\r\n\u25cf Reveal 1 \"Witchcrafter\" Normal or Quick-Play Spell in your hand; apply that Spell's activation effect.\r\nDuring your End Phase: You can return 1 of your banished \"Witchcrafter\" cards to the GY. You can only use each effect of \"Witchcrafter Pupils\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 1800,
+    "def": 2100,
+    "level": 8,
+    "attribute": "FIRE",
+    "archetype": "Witchcrafter",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/witchcrafter-pupils-15734",
+    "card_images": [
+        {
+            "id": 100455026,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100455026.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100455026.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100455026.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
