@@ -1,0 +1,44 @@
+{
+    "id": 100455050,
+    "name": "Unchained Enma Lord Yama",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2+ monsters, including an \"Unchained Soul\" monster\r\nDuring your End Phase: You can target up to 2 Fiend monsters in your GY that were destroyed and sent there this turn; Special Summon them, but you cannot Special Summon, except Fiend monsters, while you control either of those face-up monsters. If this card on the field would be destroyed by battle or card effect, you can destroy 1 face-up card on either field instead. You can only use each effect of \"Unchained Enma Lord Yama\" once per turn.",
+    "race": "Fiend",
+    "atk": 3000,
+    "def": null,
+    "level": null,
+    "attribute": "DARK",
+    "archetype": "Unchained",
+    "linkval": 4,
+    "linkmarkers": [
+        "Top",
+        "Bottom-Left",
+        "Bottom",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/unchained-enma-lord-yama-15737",
+    "card_images": [
+        {
+            "id": 100455050,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100455050.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100455050.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100455050.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
