@@ -1,0 +1,36 @@
+{
+    "id": 101402003,
+    "name": "Jinzo - Energy Shocker",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "This card's name becomes \"Jinzo\" while in the field or GY. If this card is Normal or Special Summoned: You can destroy as many Traps your opponent controls as possible (if a card is Set, reveal it), then this card gains 300 ATK for each card destroyed this way. You can only use this effect of \"Jinzo - Energy Shocker\" once per turn. Your opponent cannot activate Trap Cards or effects while you have another monster in your field or GY that mentions \"Dark Time Wizard\".",
+    "race": "Machine",
+    "atk": 2400,
+    "def": 1500,
+    "level": 7,
+    "attribute": "DARK",
+    "archetype": "Dark Time Wizard",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jinzo-energy-shocker-15748",
+    "card_images": [
+        {
+            "id": 101402003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402003.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

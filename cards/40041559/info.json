@@ -15,6 +15,15 @@
     "level": 4,
     "attribute": "EARTH",
     "ygoprodeck_url": "https://ygoprodeck.com/card/genia-of-the-ring-15727",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN085",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 40041559,
@@ -25,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.40",
-            "tcgplayer_price": "1.96",
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.29",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

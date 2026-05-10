@@ -16,6 +16,15 @@
     "level": 4,
     "attribute": "EARTH",
     "ygoprodeck_url": "https://ygoprodeck.com/card/gaming-gamer-gg-15730",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN081",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 15778492,
@@ -27,7 +36,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.11",
-            "tcgplayer_price": "0.61",
+            "tcgplayer_price": "0.16",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

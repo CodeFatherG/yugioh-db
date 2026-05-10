@@ -1,0 +1,36 @@
+{
+    "id": 101402001,
+    "name": "Swift Panther Warrior",
+    "typeline": [
+        "Beast-Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "During the Main Phase (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;\r\n\u25cf Special Summon 1 monster that mentions \"Dark Time Wizard\" from your hand or Deck, except \"Swift Panther Warrior\".\r\n\u25cf Send 1 Spell/Trap that mentions \"Dark Time Wizard\" from your Deck to the GY.\r\nYou can only use this effect of \"Swift Panther Warrior\" once per turn. Cannot declare an attack unless a monster(s) was Tributed this turn.",
+    "race": "Beast-Warrior",
+    "atk": 2000,
+    "def": 1600,
+    "level": 4,
+    "attribute": "EARTH",
+    "archetype": "Warrior",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/swift-panther-warrior-15750",
+    "card_images": [
+        {
+            "id": 101402001,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402001.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402001.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402001.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

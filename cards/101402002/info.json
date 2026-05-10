@@ -1,0 +1,36 @@
+{
+    "id": 101402002,
+    "name": "Alligator's Sword Dragon Knight",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Can attack directly. You can only use each of the following effects of \"Alligator's Sword Dragon Knight\" once per turn. If this card is in your hand: You can reveal 1 other card in your hand that mentions \"Dark Time Wizard\"; Special Summon this card. If this card is Normal or Special Summoned: You can add up to 2 Spells/Traps with different names from each other that mention \"Dark Time Wizard\" from your Deck to your hand, then discard 1 card.",
+    "race": "Dragon",
+    "atk": 1700,
+    "def": 1500,
+    "level": 5,
+    "attribute": "WIND",
+    "archetype": "Dark Time Wizard",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/alligator-s-sword-dragon-knight-15751",
+    "card_images": [
+        {
+            "id": 101402002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402002.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

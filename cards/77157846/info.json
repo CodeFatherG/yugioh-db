@@ -1,0 +1,39 @@
+{
+    "id": 77157846,
+    "name": "Shade the Obscure",
+    "typeline": [
+        "Fairy",
+        "Pendulum",
+        "Effect"
+    ],
+    "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
+    "desc": "[ Pendulum Effect ] \nYou cannot Pendulum Summon, except Pendulum Monsters (this effect cannot be negated). If a monster(s) with 1000 ATK or less is Special Summoned (except during the Damage Step): You can return this card to the hand. You can only use this effect of \"Shade the Obscure\" once per turn.\n\n[ Monster Effect ] \nIf you have a card in your Pendulum Zone and this card is in your hand: You can Special Summon this card. You can pay 1000 LP; destroy 1 Pendulum Monster Card in your hand or face-up field, then you can add 1 Pendulum Monster from your Deck to your face-up Extra Deck. You can only use each effect of \"Shade the Obscure\" once per turn.",
+    "race": "Fairy",
+    "pend_desc": "You cannot Pendulum Summon, except Pendulum Monsters (this effect cannot be negated). If a monster(s) with 1000 ATK or less is Special Summoned (except during the Damage Step): You can return this card to the hand. You can only use this effect of \"Shade the Obscure\" once per turn.",
+    "monster_desc": "If you have a card in your Pendulum Zone and this card is in your hand: You can Special Summon this card. You can pay 1000 LP; destroy 1 Pendulum Monster Card in your hand or face-up field, then you can add 1 Pendulum Monster from your Deck to your face-up Extra Deck. You can only use each effect of \"Shade the Obscure\" once per turn.",
+    "atk": 1000,
+    "def": 1000,
+    "level": 4,
+    "attribute": "DARK",
+    "scale": 11,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shade-the-obscure-15725",
+    "card_images": [
+        {
+            "id": 77157846,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77157846.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77157846.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77157846.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "11.53",
+            "tcgplayer_price": "10.49",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

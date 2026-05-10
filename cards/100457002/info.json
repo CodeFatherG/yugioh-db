@@ -1,0 +1,36 @@
+{
+    "id": 100457002,
+    "name": "Archfiend's Origin",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is in your hand: You can Tribute 1 other \"Archfiend\" monster from your hand or field; Special Summon this card. If this card is Normal or Special Summoned: You can Special Summon 1 Level 6 Fiend monster with 2500 ATK from your hand, Deck, or GY. When your opponent activates a monster effect and you control \"Summoned Skull\" (Quick Effect): You can negate the activation, and if you do, destroy that card. You can only use each effect of \"Archfiend's Origin\" once per turn.",
+    "race": "Fiend",
+    "atk": 2500,
+    "def": 1200,
+    "level": 7,
+    "attribute": "DARK",
+    "archetype": "Archfiend",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-s-origin-15749",
+    "card_images": [
+        {
+            "id": 100457002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100457002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100457002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100457002.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

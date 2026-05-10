@@ -1,0 +1,37 @@
+{
+    "id": 1595137,
+    "name": "Evolved Daneen",
+    "typeline": [
+        "Dinosaur",
+        "Fusion",
+        "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "\"Returned Dino Daneen\" + 1 Dinosaur monster\r\nIf this card is Special Summoned: You can add 1 \"GMX\" card from your Deck to your hand. You can only use this effect of \"Evolved Daneen\" once per turn. If you excavate a card(s) by a \"GMX\" card effect: You can activate the following effect, based on where this card is at activation (but you can only use each effect of \"Evolved Daneen\" once per turn);\r\n\u25cf Field: Gain 1500 LP.\r\n\u25cf GY: Special Summon this card.",
+    "race": "Dinosaur",
+    "atk": 2400,
+    "def": 1200,
+    "level": 6,
+    "attribute": "WATER",
+    "archetype": "GMX",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/evolved-daneen-15720",
+    "card_images": [
+        {
+            "id": 1595137,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1595137.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1595137.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1595137.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.38",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

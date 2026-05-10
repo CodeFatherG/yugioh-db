@@ -15,6 +15,15 @@
     "level": 4,
     "attribute": "EARTH",
     "ygoprodeck_url": "https://ygoprodeck.com/card/checkker-15729",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN086",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 77435268,
@@ -26,7 +35,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.10",
-            "tcgplayer_price": "0.53",
+            "tcgplayer_price": "0.15",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

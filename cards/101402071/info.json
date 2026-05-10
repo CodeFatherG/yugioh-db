@@ -1,0 +1,28 @@
+{
+    "id": 101402071,
+    "name": "Reversal Box",
+    "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
+    "desc": "Once per turn, during the Standby Phase: Roll a six-sided die and place counters on this card equal to the result (max. 6). When a monster effect is activated on your opponent's field, or once per battle, during damage calculation, if an opponent's monster attacks: You can remove 1 counter from this card, then target 1 of those monsters; toss a coin and call it. If you call it right, you can Special Summon 1 monster that mentions \"Dark Time Wizard\" from your Deck, and if you do, until the end of this turn, change the targeted monster's ATK to 0, also its effects are negated.",
+    "race": "Continuous",
+    "archetype": "Dark Time Wizard",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/reversal-box-15747",
+    "card_images": [
+        {
+            "id": 101402071,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402071.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402071.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402071.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
