@@ -16,6 +16,15 @@
     "attribute": "WIND",
     "archetype": "GMX",
     "ygoprodeck_url": "https://ygoprodeck.com/card/gmx-suppression-squad-15722",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN091",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 39706423,
@@ -26,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.16",
-            "tcgplayer_price": "0.20",
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.24",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -1,0 +1,36 @@
+{
+    "id": 101402023,
+    "name": "Destiny HERO - Dreadnought Servant",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If you control a \"Destiny HERO\" monster or a face-up Field Spell: You can Special Summon this card from your hand, then you can destroy 1 card you control, and if you do, add 1 \"Polymerization\" from your Deck to your hand. If you Special Summon a Level 8 \"Destiny HERO\" monster(s): You can banish this card from your GY, then target 1 card your opponent controls; place it on top of the Deck. You can only use each effect of \"Destiny HERO - Dreadnought Servant\" once per turn.",
+    "race": "Warrior",
+    "atk": 400,
+    "def": 700,
+    "level": 3,
+    "attribute": "DARK",
+    "archetype": "Destiny HERO",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-dreadnought-servant-15758",
+    "card_images": [
+        {
+            "id": 101402023,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402023.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402023.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402023.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

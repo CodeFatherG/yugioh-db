@@ -15,6 +15,15 @@
     "level": 6,
     "attribute": "LIGHT",
     "ygoprodeck_url": "https://ygoprodeck.com/card/vip-whale-15724",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN084",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 14556954,
@@ -25,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.10",
-            "tcgplayer_price": "0.16",
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.19",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

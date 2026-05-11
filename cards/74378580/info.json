@@ -8,6 +8,15 @@
     "race": "Field",
     "archetype": "GMX",
     "ygoprodeck_url": "https://ygoprodeck.com/card/gmx-lab-5-15719",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN095",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 74378580,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.38",
-            "tcgplayer_price": "0.24",
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "0.29",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

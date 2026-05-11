@@ -19,6 +19,22 @@
     "attribute": "DARK",
     "scale": 11,
     "ygoprodeck_url": "https://ygoprodeck.com/card/shade-the-obscure-15725",
+    "card_sets": [
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN083",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Blazing Dominion",
+            "set_code": "BLZD-EN083",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 77157846,
@@ -29,8 +45,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "11.53",
-            "tcgplayer_price": "10.49",
+            "cardmarket_price": "9.64",
+            "tcgplayer_price": "10.69",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
