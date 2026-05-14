@@ -1,0 +1,36 @@
+{
+    "id": 100296302,
+    "name": "Witchcrafter Seed",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned and you control a \"Witchcrafter\" monster other than \"Witchcrafter Seed\", or \"Regulus, the Prince of Endymion\": You can target 1 face-up card on the field; return it to the hand. You can banish this card from your GY; reveal any number of cards in your hand, including a Spell, and shuffle them into the Deck, then draw that many cards. You can only use each effect of \"Witchcrafter Seed\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 1300,
+    "def": 1500,
+    "level": 4,
+    "attribute": "WIND",
+    "archetype": "Witchcrafter",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/witchcrafter-seed-15759",
+    "card_images": [
+        {
+            "id": 100296302,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100296302.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100296302.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100296302.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
