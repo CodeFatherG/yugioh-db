@@ -20,6 +20,29 @@
     "archetype": "Odd-Eyes",
     "scale": 4,
     "ygoprodeck_url": "https://ygoprodeck.com/card/odd-eyes-pendulum-dragon-of-the-four-heavenly-dragons-15583",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN013",
+            "set_rarity": "Grand Master Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN013",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN013",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 75787708,

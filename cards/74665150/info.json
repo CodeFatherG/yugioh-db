@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "2+ Effect Monsters\r\nWhile this card is in the Extra Monster Zone, it gains 500 ATK for every other Link Monster in the field and GYs, also your opponent cannot target it with card effects. (Quick Effect): You can Tribute 1 monster this card points to; send 1 Cyberse monster from your Extra Deck to the GY, also this card can make up to 2 attacks on monsters during each Battle Phase this turn. You can only use this effect of \"Decode Talker Integration\" once per turn.",
+    "desc": "2+ Effect Monsters\r\nWhile this card is in the Extra Monster Zone, it gains 500 ATK for every other Link Monster in the field and the GYs, also your opponent cannot target it with card effects. (Quick Effect): You can Tribute 1 monster this card points to; send 1 Cyberse monster from your Extra Deck to the GY, also this card can make up to 2 attacks on monsters during each Battle Phase this turn. You can only use this effect of \"Decode Talker Integration\" once per turn.",
     "race": "Cyberse",
     "atk": 2300,
     "def": null,
@@ -23,6 +23,29 @@
         "Bottom-Right"
     ],
     "ygoprodeck_url": "https://ygoprodeck.com/card/decode-talker-integration-15584",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN016",
+            "set_rarity": "Grand Master Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN016",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 74665150,

@@ -1,6 +1,6 @@
 {
     "id": 48171151,
-    "name": "Astrograph Sorcerer, the Star Magician",
+    "name": "Astrograph Sorcerer, the Starfrost Magician",
     "typeline": [
         "Spellcaster",
         "Pendulum",
@@ -20,6 +20,29 @@
     "archetype": "Magician",
     "scale": 1,
     "ygoprodeck_url": "https://ygoprodeck.com/card/astrograph-sorcerer-the-star-magician-15563",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN015",
+            "set_rarity": "Grand Master Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN015",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN015",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 48171151,

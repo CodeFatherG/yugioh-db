@@ -1,6 +1,6 @@
 {
     "id": 14965712,
-    "name": "Multiplying Kuriboh!",
+    "name": "Kuriboh - Multiply!",
     "typeline": [
         "Fiend",
         "Effect"
@@ -16,6 +16,29 @@
     "attribute": "DARK",
     "archetype": "Kuriboh",
     "ygoprodeck_url": "https://ygoprodeck.com/card/multiplying-kuriboh-15580",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN002",
+            "set_rarity": "Grand Master Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN002",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 14965712,
