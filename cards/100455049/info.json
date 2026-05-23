@@ -1,0 +1,36 @@
+{
+    "id": 100455049,
+    "name": "Unchained Malevolent Magistrate Kamura",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can target up to 3 cards you control; destroy them, and if you do, Special Summon this card from your hand, then you can apply any of the following effects, in sequence, based on the original types of the destroyed cards.\r\n\u25cf Monster: Draw 1 card.\r\n\u25cf Spell: Change the battle position of 1 monster on the field.\r\n\u25cf Trap: Destroy 1 other card on the field.\r\nIf this card on the field is destroyed by card effect: You can destroy all monsters on the field. You can only use each effect of \"Unchained Malevolent Magistrate Kamura\" once per turn.",
+    "race": "Fiend",
+    "atk": 2000,
+    "def": 2500,
+    "level": 8,
+    "attribute": "DARK",
+    "archetype": "Unchained",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/unchained-malevolent-magistrate-kamura-15764",
+    "card_images": [
+        {
+            "id": 100455049,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100455049.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100455049.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100455049.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
