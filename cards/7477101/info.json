@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/seventh-tachyon-14499",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN126",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Maze of the Master",
             "set_code": "MZTM-EN016",
             "set_rarity": "Collector's Rare",
@@ -38,7 +45,7 @@
     "card_prices": [
         {
             "cardmarket_price": "14.68",
-            "tcgplayer_price": "27.15",
+            "tcgplayer_price": "25.32",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

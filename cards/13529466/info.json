@@ -26,6 +26,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN084",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Fusion Enforcers",
             "set_code": "FUEN-EN027",
             "set_rarity": "Secret Rare",
@@ -43,7 +50,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.68",
+            "cardmarket_price": "0.78",
             "tcgplayer_price": "0.68",
             "ebay_price": "1.74",
             "amazon_price": "29.99",

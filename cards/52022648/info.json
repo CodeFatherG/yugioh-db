@@ -24,6 +24,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN070",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 6",
             "set_code": "OP06-EN005",
             "set_rarity": "Super Rare",
@@ -55,8 +62,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.14",
-            "tcgplayer_price": "0.27",
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.26",
             "ebay_price": "0.99",
             "amazon_price": "0.25",
             "coolstuffinc_price": "0.49"

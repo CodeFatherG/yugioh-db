@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/s-force-bridgehead-11618",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN118",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Blazing Vortex",
             "set_code": "BLVO-EN057",
             "set_rarity": "Secret Rare",
@@ -27,7 +34,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "2.34",
+            "cardmarket_price": "2.68",
             "tcgplayer_price": "3.18",
             "ebay_price": "1.48",
             "amazon_price": "39.99",

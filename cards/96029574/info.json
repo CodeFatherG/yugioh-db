@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/black-brutdrago-7997",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN089",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Stardust Overdrive",
             "set_code": "SOVR-EN043",
             "set_rarity": "Super Rare",
@@ -36,7 +43,7 @@
     "card_prices": [
         {
             "cardmarket_price": "24.66",
-            "tcgplayer_price": "24.15",
+            "tcgplayer_price": "23.98",
             "ebay_price": "3.50",
             "amazon_price": "3.19",
             "coolstuffinc_price": "1.99"

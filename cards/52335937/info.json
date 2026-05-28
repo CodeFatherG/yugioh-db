@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/exosister-betrayal-15368",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN130",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Burst Protocol",
             "set_code": "BPRO-EN066",
             "set_rarity": "Super Rare",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.33",
-            "tcgplayer_price": "1.34",
+            "cardmarket_price": "0.34",
+            "tcgplayer_price": "1.09",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

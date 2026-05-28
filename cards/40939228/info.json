@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/shooting-majestic-star-dragon-12012",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN092",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Dawn of Majesty",
             "set_code": "DAMA-EN039",
             "set_rarity": "Secret Rare",
@@ -44,7 +51,7 @@
     "card_prices": [
         {
             "cardmarket_price": "21.13",
-            "tcgplayer_price": "20.29",
+            "tcgplayer_price": "19.49",
             "ebay_price": "10.99",
             "amazon_price": "0.42",
             "coolstuffinc_price": "5.99"

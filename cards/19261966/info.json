@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/el-shaddoll-anoyatyllis-1662",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN083",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Crossed Souls",
             "set_code": "CROS-EN044",
             "set_rarity": "Secret Rare",
@@ -43,7 +50,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
+            "cardmarket_price": "0.12",
             "tcgplayer_price": "0.32",
             "ebay_price": "12.49",
             "amazon_price": "0.78",

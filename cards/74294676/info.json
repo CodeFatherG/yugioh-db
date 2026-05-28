@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/evolzar-laggia-6244",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN008",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Collectible Tins 2012 Wave 1",
             "set_code": "CT09-EN011",
             "set_rarity": "Super Rare",
@@ -78,8 +85,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.71",
-            "tcgplayer_price": "0.66",
+            "cardmarket_price": "0.66",
+            "tcgplayer_price": "0.67",
             "ebay_price": "1.18",
             "amazon_price": "4.23",
             "coolstuffinc_price": "0.99"

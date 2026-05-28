@@ -82,6 +82,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN144",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN144",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Blazing Vortex",
             "set_code": "BLVO-EN050",
             "set_rarity": "Secret Rare",
@@ -99,8 +113,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.58",
-            "tcgplayer_price": "0.31",
+            "cardmarket_price": "0.56",
+            "tcgplayer_price": "0.32",
             "ebay_price": "3.50",
             "amazon_price": "1.37",
             "coolstuffinc_price": "5.99"

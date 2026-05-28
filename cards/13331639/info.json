@@ -30,6 +30,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN141",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN141",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Magical Hero",
             "set_code": "LED6-EN054",
             "set_rarity": "Common",
@@ -69,7 +83,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.07",
-            "tcgplayer_price": "0.45",
+            "tcgplayer_price": "0.46",
             "ebay_price": "3.95",
             "amazon_price": "0.25",
             "coolstuffinc_price": "0.25"

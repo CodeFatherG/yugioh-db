@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/sophia-goddess-of-rebirth-391",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN056",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duel Terminal 7b",
             "set_code": "DT07-EN079",
             "set_rarity": "Duel Terminal Ultra Parallel Rare",
@@ -42,7 +49,7 @@
     "card_prices": [
         {
             "cardmarket_price": "6.90",
-            "tcgplayer_price": "4.80",
+            "tcgplayer_price": "4.77",
             "ebay_price": "7.99",
             "amazon_price": "7.50",
             "coolstuffinc_price": "1.99"

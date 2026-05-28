@@ -32,6 +32,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN002",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Dark Beginning 1",
             "set_code": "DB1-EN139",
             "set_rarity": "Ultra Rare",
@@ -195,7 +202,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "2.27",
+            "tcgplayer_price": "2.31",
             "ebay_price": "39.99",
             "amazon_price": "1.29",
             "coolstuffinc_price": "0.99"

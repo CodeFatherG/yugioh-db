@@ -17,6 +17,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN106",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Dragunity Legion Structure Deck",
             "set_code": "SDDL-EN021",
             "set_rarity": "Common",
@@ -69,7 +76,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.52",
+            "cardmarket_price": "0.59",
             "tcgplayer_price": "0.71",
             "ebay_price": "2.95",
             "amazon_price": "2.99",

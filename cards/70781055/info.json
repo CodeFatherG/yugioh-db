@@ -25,6 +25,13 @@
             "set_price": "44.99"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN001",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Booster Pack Collectors Tins 2002",
             "set_code": "BPT-002",
             "set_rarity": "Secret Rare",
@@ -214,7 +221,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.15",
+            "cardmarket_price": "0.16",
             "tcgplayer_price": "0.49",
             "ebay_price": "7.95",
             "amazon_price": "4.68",

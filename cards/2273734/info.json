@@ -32,6 +32,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN060",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duelist Alliance",
             "set_code": "DUEA-EN019",
             "set_rarity": "Rare",
@@ -50,7 +57,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.36",
-            "tcgplayer_price": "0.36",
+            "tcgplayer_price": "0.35",
             "ebay_price": "5.95",
             "amazon_price": "0.29",
             "coolstuffinc_price": "0.25"

@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/constellar-tellarknights-13667",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN122",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Cyberstorm Access",
             "set_code": "CYAC-EN064",
             "set_rarity": "Super Rare",
@@ -27,7 +34,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.23",
+            "cardmarket_price": "0.20",
             "tcgplayer_price": "0.35",
             "ebay_price": "0.99",
             "amazon_price": "0.00",

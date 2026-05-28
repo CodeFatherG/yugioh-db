@@ -17,6 +17,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN146",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN146",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Maze of Muertos",
             "set_code": "MZMU-EN126",
             "set_rarity": "Ultra Rare",
@@ -72,7 +86,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "27.55",
+            "cardmarket_price": "27.21",
             "tcgplayer_price": "4.98",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

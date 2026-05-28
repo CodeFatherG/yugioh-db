@@ -8,6 +8,15 @@
     "race": "Counter",
     "archetype": "Xyz",
     "ygoprodeck_url": "https://ygoprodeck.com/card/unbreakable-xyz-barrier-15097",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN135",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 96004535,
@@ -18,7 +27,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.14",
+            "cardmarket_price": "0.12",
             "tcgplayer_price": "0.14",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

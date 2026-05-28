@@ -25,6 +25,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN138",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN138",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Ghosts From the Past: The 2nd Haunting",
             "set_code": "GFP2-EN126",
             "set_rarity": "Ultra Rare",
@@ -49,7 +63,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.39",
+            "cardmarket_price": "0.37",
             "tcgplayer_price": "0.19",
             "ebay_price": "0.99",
             "amazon_price": "0.69",

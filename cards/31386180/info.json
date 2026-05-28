@@ -32,6 +32,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN094",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Generation Force",
             "set_code": "GENF-EN044",
             "set_rarity": "Secret Rare",
@@ -50,7 +57,7 @@
     "card_prices": [
         {
             "cardmarket_price": "4.59",
-            "tcgplayer_price": "12.30",
+            "tcgplayer_price": "14.29",
             "ebay_price": "1.95",
             "amazon_price": "4.78",
             "coolstuffinc_price": "2.99"

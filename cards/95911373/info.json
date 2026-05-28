@@ -26,6 +26,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN093",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Burst of Destiny",
             "set_code": "BODE-EN045",
             "set_rarity": "Secret Rare",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.17",
-            "tcgplayer_price": "0.24",
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.23",
             "ebay_price": "1.89",
             "amazon_price": "0.80",
             "coolstuffinc_price": "0.39"

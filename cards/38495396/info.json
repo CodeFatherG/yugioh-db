@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/constellar-ptolemy-m7-3262",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN009",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duel Terminal 7b",
             "set_code": "DT07-EN089",
             "set_rarity": "Duel Terminal Ultra Parallel Rare",
@@ -71,7 +78,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.10",
+            "cardmarket_price": "0.08",
             "tcgplayer_price": "0.18",
             "ebay_price": "0.99",
             "amazon_price": "1.03",

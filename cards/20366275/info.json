@@ -33,6 +33,13 @@
             "set_price": "1.64"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN006",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duel Power",
             "set_code": "DUPO-EN090",
             "set_rarity": "Ultra Rare",
@@ -91,8 +98,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.28",
-            "tcgplayer_price": "0.23",
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.21",
             "ebay_price": "0.99",
             "amazon_price": "0.70",
             "coolstuffinc_price": "0.79"

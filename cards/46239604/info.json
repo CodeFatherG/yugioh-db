@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/dupe-frog-3942",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN055",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Crimson Crisis",
             "set_code": "CRMS-EN028",
             "set_rarity": "Common",
@@ -50,7 +57,7 @@
     "card_prices": [
         {
             "cardmarket_price": "1.73",
-            "tcgplayer_price": "1.67",
+            "tcgplayer_price": "1.68",
             "ebay_price": "1.99",
             "amazon_price": "2.97",
             "coolstuffinc_price": "2.99"

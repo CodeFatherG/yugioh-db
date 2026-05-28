@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-remus-11329",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN076",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Ghosts From the Past",
             "set_code": "GFTP-EN038",
             "set_rarity": "Ultra Rare",
@@ -36,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "2.29",
-            "tcgplayer_price": "3.32",
+            "cardmarket_price": "1.95",
+            "tcgplayer_price": "3.56",
             "ebay_price": "4.99",
             "amazon_price": "3.54",
             "coolstuffinc_price": "2.99"

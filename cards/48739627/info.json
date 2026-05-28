@@ -7,6 +7,15 @@
     "desc": "Send 1 \"Medius the Pure\" from your Deck to the GY; look at the top card of your opponent's Deck, and place it on the top or bottom of the Deck. You can banish this card from your GY, then target 1 face-up monster you control and declare 1 Monster Type and 1 Attribute; that monster becomes that Type and Attribute, until the end of your opponent's turn. You can only use each effect of \"Theorealize\" once per turn.",
     "race": "Normal",
     "ygoprodeck_url": "https://ygoprodeck.com/card/theorealize-15051",
+    "card_sets": [
+        {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN127",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 48739627,
@@ -18,7 +27,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.18",
-            "tcgplayer_price": "0.23",
+            "tcgplayer_price": "0.24",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

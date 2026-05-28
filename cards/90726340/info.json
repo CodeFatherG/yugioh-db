@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/queen-dragun-djinn-7576",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN097",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Galactic Overlord",
             "set_code": "GAOV-EN049",
             "set_rarity": "Super Rare",
@@ -36,7 +43,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "4.78",
+            "cardmarket_price": "4.75",
             "tcgplayer_price": "13.16",
             "ebay_price": "7.59",
             "amazon_price": "5.00",

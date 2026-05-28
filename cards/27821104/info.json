@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/asceticism-of-the-six-samurai-2367",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN107",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Spirit Warriors",
             "set_code": "SPWA-EN048",
             "set_rarity": "Super Rare",
@@ -34,7 +41,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "2.44",
+            "cardmarket_price": "2.50",
             "tcgplayer_price": "3.80",
             "ebay_price": "1.94",
             "amazon_price": "1.25",

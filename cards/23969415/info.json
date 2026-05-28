@@ -16,6 +16,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN124",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duelist Nexus",
             "set_code": "DUNE-EN063",
             "set_rarity": "Common",
@@ -33,7 +40,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.14",
+            "cardmarket_price": "0.13",
             "tcgplayer_price": "0.17",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

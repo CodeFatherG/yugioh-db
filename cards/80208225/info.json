@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/dracotail-sting-15196",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN136",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Doom of Dimensions",
             "set_code": "DOOD-EN077",
             "set_rarity": "Common",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.14",
-            "tcgplayer_price": "0.22",
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.20",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

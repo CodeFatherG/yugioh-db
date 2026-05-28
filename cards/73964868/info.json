@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/constellar-pleiades-6217",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN095",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duel Terminal 7a",
             "set_code": "DT07-EN038",
             "set_rarity": "Duel Terminal Ultra Parallel Rare",
@@ -85,8 +92,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.52",
-            "tcgplayer_price": "0.35",
+            "cardmarket_price": "0.54",
+            "tcgplayer_price": "0.33",
             "ebay_price": "7.99",
             "amazon_price": "3.48",
             "coolstuffinc_price": "1.49"

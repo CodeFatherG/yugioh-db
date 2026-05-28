@@ -16,6 +16,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN108",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legacy of the Valiant",
             "set_code": "LVAL-EN070",
             "set_rarity": "Secret Rare",
@@ -54,8 +61,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.86",
-            "tcgplayer_price": "4.24",
+            "cardmarket_price": "1.73",
+            "tcgplayer_price": "4.14",
             "ebay_price": "4.49",
             "amazon_price": "1.79",
             "coolstuffinc_price": "0.49"

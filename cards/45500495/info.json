@@ -25,6 +25,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN088",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Crossroads of Chaos",
             "set_code": "CSOC-EN042",
             "set_rarity": "Super Rare",
@@ -43,7 +50,7 @@
     "card_prices": [
         {
             "cardmarket_price": "4.32",
-            "tcgplayer_price": "11.37",
+            "tcgplayer_price": "11.24",
             "ebay_price": "0.99",
             "amazon_price": "5.70",
             "coolstuffinc_price": "2.99"

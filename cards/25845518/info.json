@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-glow-11253",
     "card_sets": [
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN117",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Ghosts From the Past",
             "set_code": "GFTP-EN041",
             "set_rarity": "Ultra Rare",
@@ -28,7 +35,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.48",
-            "tcgplayer_price": "1.68",
+            "tcgplayer_price": "1.72",
             "ebay_price": "1.75",
             "amazon_price": "54.99",
             "coolstuffinc_price": "1.49"
