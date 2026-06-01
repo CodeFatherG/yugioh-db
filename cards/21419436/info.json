@@ -1,0 +1,43 @@
+{
+    "id": 21419436,
+    "name": "Unchained Soul Rage Abominator",
+    "typeline": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2+ monsters, including a Fiend monster\r\nIf your opponent Special Summons a monster(s) face-up (except during the Damage Step): You can target 1 of them; destroy 1 Fiend monster you control, and if you do, negate the targeted monster's effects until the end of this turn. When a monster effect is activated on the field and you control a Link-4 or higher \"Unchained\" Link Monster (Quick Effect): You can banish this card from your GY; destroy the monster that activated that effect. You can only use each effect of \"Unchained Soul Rage Abominator\" once per turn.",
+    "race": "Fiend",
+    "atk": 2100,
+    "def": null,
+    "level": null,
+    "attribute": "DARK",
+    "archetype": "Unchained",
+    "linkval": 3,
+    "linkmarkers": [
+        "Left",
+        "Right",
+        "Bottom"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/unchained-soul-rage-abominator-15738",
+    "card_images": [
+        {
+            "id": 21419436,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21419436.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21419436.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21419436.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

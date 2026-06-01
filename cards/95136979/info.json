@@ -1,0 +1,36 @@
+{
+    "id": 95136979,
+    "name": "Unchained Ogre Shara",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "During the Main Phase (Quick Effect): You can discard this card; Special Summon 1 Fiend monster from your hand, then destroy 1 card you control. If a card(s) on the field is destroyed by card effect, except by the effect of \"Unchained Ogre Shara\", or by battle, while this card is in your GY: You can Special Summon this card (but place it on the bottom of the Deck when it leaves the field) or add it to your hand. You can only use each effect of \"Unchained Ogre Shara\" once per turn.",
+    "race": "Fiend",
+    "atk": 1500,
+    "def": 2000,
+    "level": 4,
+    "attribute": "FIRE",
+    "archetype": "Unchained",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/unchained-ogre-shara-15740",
+    "card_images": [
+        {
+            "id": 95136979,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95136979.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95136979.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95136979.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
