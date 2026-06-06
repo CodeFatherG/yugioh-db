@@ -26,6 +26,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN009",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Duel Terminal 7b",
             "set_code": "DT07-EN089",
             "set_rarity": "Duel Terminal Ultra Parallel Rare",
@@ -79,7 +86,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.15",
-            "tcgplayer_price": "0.20",
+            "tcgplayer_price": "0.21",
             "ebay_price": "0.99",
             "amazon_price": "1.03",
             "coolstuffinc_price": "0.25"

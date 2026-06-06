@@ -19,6 +19,13 @@
         {
             "set_name": "Battles of Legend: Glorious Gallery",
             "set_code": "BLGG-EN116",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN116",
             "set_rarity": "Ultra Rare",
             "set_rarity_code": "(UR)",
             "set_price": "0"
@@ -48,8 +55,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
-            "tcgplayer_price": "0.14",
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.13",
             "ebay_price": "5.44",
             "amazon_price": "0.69",
             "coolstuffinc_price": "0.79"

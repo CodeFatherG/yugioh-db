@@ -32,6 +32,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN090",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Judgment of the Light",
             "set_code": "JOTL-EN045",
             "set_rarity": "Secret Rare",
@@ -56,8 +63,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.64",
-            "tcgplayer_price": "12.66",
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.73",
             "ebay_price": "4.49",
             "amazon_price": "2.54",
             "coolstuffinc_price": "1.49"

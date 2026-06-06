@@ -26,6 +26,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Battles of Legend: Glorious Gallery",
+            "set_code": "BLGG-EN007",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 26",
             "set_code": "OP26-EN022",
             "set_rarity": "Common",
@@ -85,7 +92,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.26",
+            "cardmarket_price": "0.32",
             "tcgplayer_price": "0.29",
             "ebay_price": "4.99",
             "amazon_price": "7.48",
