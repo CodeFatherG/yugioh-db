@@ -1,0 +1,37 @@
+{
+    "id": 101402024,
+    "name": "Adamancipator Conductor",
+    "typeline": [
+        "Rock",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is in your hand: You can place 1 other \"Adamancipator\" card from your hand on top of the Deck; Special Summon this card. During your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can Special Summon 1 excavated Level 4 or lower Rock monster, also place the rest on the bottom of the Deck in any order. You can only use each effect of \"Adamancipator Conductor\" once per turn.",
+    "race": "Rock",
+    "atk": 1400,
+    "def": 1100,
+    "level": 6,
+    "attribute": "EARTH",
+    "archetype": "Adamancipator",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/adamancipator-conductor-15769",
+    "card_images": [
+        {
+            "id": 101402024,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402024.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402024.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402024.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
