@@ -1,0 +1,43 @@
+{
+    "id": 101402047,
+    "name": "Levia-Dragoon - Daedalus",
+    "typeline": [
+        "Sea Serpent",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "3 WATER monsters\r\nThis card's name becomes \"Umi\" while in the Monster Zone. You can only use each of the following effects of \"Levia-Dragoon - Daedalus\" once per turn. If this card is Link Summoned: You can Special Summon 1 monster that mentions \"Atlantis, the Dragon City\" from your Deck. During the Main Phase (Quick Effect): You can send 1 face-up \"Umi\" you control to the GY; discard your opponent's entire hand, and if you do, they draw the same number of cards. Neither player can activate cards or effects in response to this effect's activation.",
+    "race": "Sea Serpent",
+    "atk": 2600,
+    "def": null,
+    "level": null,
+    "attribute": "WATER",
+    "archetype": "Daedalus",
+    "linkval": 3,
+    "linkmarkers": [
+        "Bottom-Left",
+        "Bottom",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/levia-dragoon-daedalus-15776",
+    "card_images": [
+        {
+            "id": 101402047,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402047.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402047.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402047.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

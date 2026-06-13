@@ -1,0 +1,36 @@
+{
+    "id": 101402014,
+    "name": "General of Atlantis",
+    "typeline": [
+        "Sea Serpent",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "This card's name becomes \"Umi\" while in the Monster Zone. You can only use each of the following effects of \"General of Atlantis\" once per turn. You can discard this card; add 1 Spell/Trap that mentions \"Atlantis, the Dragon City\" from your Deck to your hand. If this card is in your GY and you control \"Umi\": You can Special Summon this card.",
+    "race": "Sea Serpent",
+    "atk": 2100,
+    "def": 1400,
+    "level": 5,
+    "attribute": "WATER",
+    "archetype": "Atlantis, the Dragon City",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/general-of-atlantis-15780",
+    "card_images": [
+        {
+            "id": 101402014,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402014.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402014.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402014.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

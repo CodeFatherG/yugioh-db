@@ -1,0 +1,36 @@
+{
+    "id": 101402016,
+    "name": "Fiendish Vortex of Atlantis",
+    "typeline": [
+        "Sea Serpent",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "This card's name becomes \"Umi\" while in the Monster Zone. You can only use each of the following effects of \"Fiendish Vortex of Atlantis\" once per turn. If this card is Normal or Special Summoned: You can send 1 card that mentions \"Atlantis, the Dragon City\" from your Deck to the GY, except \"Fiendish Vortex of Atlantis\". If this card is sent to the GY and you control \"Umi\": You can Special Summon 1 WATER monster from your hand.",
+    "race": "Sea Serpent",
+    "atk": 1400,
+    "def": 1800,
+    "level": 4,
+    "attribute": "WATER",
+    "archetype": "Atlantis, the Dragon City",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiendish-vortex-of-atlantis-15775",
+    "card_images": [
+        {
+            "id": 101402016,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402016.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402016.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402016.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
