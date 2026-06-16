@@ -1,0 +1,37 @@
+{
+    "id": 101402039,
+    "name": "Asutraja Susanoo",
+    "typeline": [
+        "Fiend",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuners\r\nIf this card is Synchro Summoned: You can banish any number of Traps from your GY; banish that many cards on the field. During the End Phase: You can target up to 2 \"Asutra\" monsters and/or \"Asutra\" Traps in your GY and/or banishment; for each of them, add it to your hand or Set it, then if you targeted 2 cards, return this card to the Extra Deck. You can only use each effect of \"Asutraja Susanoo\" once per turn.",
+    "race": "Fiend",
+    "atk": 3300,
+    "def": 0,
+    "level": 9,
+    "attribute": "FIRE",
+    "archetype": "Asutra",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/asutraja-susanoo-15787",
+    "card_images": [
+        {
+            "id": 101402039,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402039.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402039.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402039.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

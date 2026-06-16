@@ -1,0 +1,36 @@
+{
+    "id": 101402011,
+    "name": "Yoa the Plague Deity Asutra",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can Special Summon this card (from your hand) by revealing 1 face-down card you control and returning it to the hand/Extra Deck. You can only Special Summon \"Yoa the Plague Deity Asutra\" once per turn this way. You can only use each of the following effects of \"Yoa the Plague Deity Asutra\" once per turn. During your Main Phase: You can Set 1 \"Asutra\" Spell/Trap from your Deck. During your opponent's turn (Quick Effect): You can target 1 face-up monster on the field; increase or decrease its Level by 1.",
+    "race": "Spellcaster",
+    "atk": 2400,
+    "def": 1500,
+    "level": 7,
+    "attribute": "WIND",
+    "archetype": "Asutra",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/yoa-the-plague-deity-asutra-15790",
+    "card_images": [
+        {
+            "id": 101402011,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402011.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402011.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402011.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

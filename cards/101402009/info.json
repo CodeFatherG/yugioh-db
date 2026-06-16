@@ -1,0 +1,36 @@
+{
+    "id": 101402009,
+    "name": "Akasuna the Golden Deity Asutra",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can Special Summon this card (from your hand) by revealing 1 face-down card you control and returning it to the hand/Extra Deck. You can only Special Summon \"Akasuna the Golden Deity Asutra\" once per turn this way. You can only use each of the following effects of \"Akasuna the Golden Deity Asutra\" once per turn. During the Main Phase (Quick Effect): You can send 1 Trap from your hand or face-down field to the GY; change all face-up monsters your opponent controls to face-down Defense Position. During your End Phase: You can Set 1 \"Asutra\" Trap from your Deck.",
+    "race": "Fiend",
+    "atk": 3000,
+    "def": 300,
+    "level": 8,
+    "attribute": "FIRE",
+    "archetype": "Asutra",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/akasuna-the-golden-deity-asutra-15793",
+    "card_images": [
+        {
+            "id": 101402009,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402009.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402009.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402009.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
