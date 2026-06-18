@@ -19,8 +19,43 @@
         {
             "set_name": "25th Anniversary Rarity Collection",
             "set_code": "RA01-EN064",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN064",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN064",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN064",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN064",
             "set_rarity": "Super Rare",
             "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN064",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
             "set_price": "0"
         },
         {
@@ -97,8 +132,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.61",
-            "tcgplayer_price": "1.10",
+            "cardmarket_price": "0.60",
+            "tcgplayer_price": "1.09",
             "ebay_price": "4.99",
             "amazon_price": "59.55",
             "coolstuffinc_price": "23.99"
