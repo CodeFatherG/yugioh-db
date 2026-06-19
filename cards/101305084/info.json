@@ -1,0 +1,35 @@
+{
+    "id": 101305084,
+    "name": "Thundercrash Snarecrow",
+    "typeline": [
+        "Thunder",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Each time a non-Thunder monster(s) is Special Summoned face-up, while this card is in the Monster Zone: That monster(s) cannot attack this turn, also destroy it during the End Phase. If this card is in your GY: You can target 1 face-up card you control; destroy it, and if you do, add this card to your hand. You can only use this effect of \"Thundercrash Snarecrow' once per turn.",
+    "race": "Thunder",
+    "atk": 1600,
+    "def": 2800,
+    "level": 8,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/thundercrash-snarecrow-15797",
+    "card_images": [
+        {
+            "id": 101305084,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305084.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305084.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305084.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

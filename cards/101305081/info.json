@@ -1,0 +1,36 @@
+{
+    "id": 101305081,
+    "name": "Witness of the Ancient",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "If you have a Synchro Monster in your field or GY: You can Special Summon this card from your hand. If this card is Special Summoned: You can place up to 3 Synchro Monsters with different names from your Extra Deck and/or GY in your Spell & Trap Zone as face-up Continuous Spells, and Special Summon 1 \"Arc Token\" (Machine/LIGHT/ATK 0/DEF 0) with a Level equal to the number placed, also for the rest of this turn, you cannot Special Summon from the Extra Deck, except Synchro Monsters. You can only use each effect of \"Witness of the Ancient\" once per turn.",
+    "race": "Machine",
+    "atk": 0,
+    "def": 3000,
+    "level": 8,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/witness-of-the-ancient-15806",
+    "card_images": [
+        {
+            "id": 101305081,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305081.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305081.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305081.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

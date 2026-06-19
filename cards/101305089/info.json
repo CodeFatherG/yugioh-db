@@ -1,0 +1,36 @@
+{
+    "id": 101305089,
+    "name": "Mortilux Heruvur",
+    "typeline": [
+        "Winged Beast",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2+ Level 8 monsters\r\nIf a monster(s) is sent to your opponent's GY (except during the Damage Step): You can target 1 of them; attach it to this card. You can only use this effect of \"Mortilux Heruvur\" once per turn. This card gains effects based on the number of materials attached to it.\r\n\u25cf 2+: Cannot be destroyed by battle or card effects.\r\n\u25cf 3+: Your opponent cannot target cards in the GYs with card effects.\r\n\u25cf 4+: You can detach 3 materials from this card; send 1 monster on the field to the GY.",
+    "race": "Winged Beast",
+    "atk": 3000,
+    "def": 2100,
+    "level": 8,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mortilux-heruvur-15810",
+    "card_images": [
+        {
+            "id": 101305089,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305089.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305089.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305089.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

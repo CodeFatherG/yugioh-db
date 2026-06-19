@@ -1,0 +1,35 @@
+{
+    "id": 101305083,
+    "name": "Yomagna the Fire Phantom",
+    "typeline": [
+        "Pyro",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by shuffling 3 cards of the same type (Monster, Spell, or Trap) from your GY into the Deck/Extra Deck. If this card is Special Summoned: You can declare 1 Monster Type; this card becomes that Type until the end of this turn. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck using monsters on either field, including this card. You can only use each effect of \"Yomagna the Fire Phantom\" once per turn.",
+    "race": "Pyro",
+    "atk": 3300,
+    "def": 0,
+    "level": 10,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/yomagna-the-fire-phantom-15796",
+    "card_images": [
+        {
+            "id": 101305083,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305083.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305083.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305083.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

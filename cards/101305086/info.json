@@ -1,0 +1,36 @@
+{
+    "id": 101305086,
+    "name": "Shamanite Shamanknight",
+    "typeline": [
+        "Warrior",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2+ Level 3 monsters\r\nIf this card is Xyz Summoned, or if a Trap you own is banished: You can target 1 of your banished Traps; attach it to this card. You can detach any number of materials from this card, then target 1 DARK monster in your GY or banishment with a Level equal to the number detached; Special Summon it. You can only use each effect of \"Shamanite Shamanknight\" once per turn.",
+    "race": "Warrior",
+    "atk": 1700,
+    "def": 2400,
+    "level": 3,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shamanite-shamanknight-15805",
+    "card_images": [
+        {
+            "id": 101305086,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305086.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305086.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305086.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

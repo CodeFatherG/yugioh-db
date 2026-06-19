@@ -1,0 +1,38 @@
+{
+    "id": 101305093,
+    "name": "Angelechy Enlisted",
+    "typeline": [
+        "Fairy",
+        "Synchro",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Synchro Tuner Monster",
+    "humanReadableCardType": "Synchro Tuner Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuner\r\nYou can target 1 opponent's monster in this card's adjacent column; banish it, then change control of this card by moving it to one of your opponent's Main Monster Zones in this card's adjacent columns. If the control of this face-up card changes: Return this card to the Extra Deck, then the owner of this card Special Summons 1 \"Angelechy\" monster from their Extra Deck. You can only use each effect of \"Angelechy Enlisted\" once per turn.",
+    "race": "Fairy",
+    "atk": 1500,
+    "def": 1500,
+    "level": 2,
+    "attribute": "LIGHT",
+    "archetype": "Angelechy",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/angelechy-enlisted-15804",
+    "card_images": [
+        {
+            "id": 101305093,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101305093.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305093.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305093.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
