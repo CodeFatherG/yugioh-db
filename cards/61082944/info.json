@@ -4,7 +4,7 @@
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "(This card is always treated as a \"Possessed\" card.)\r\nBanish any number of Spellcaster monsters and/or Spells from your GY; all monsters you currently control gain 200 ATK for each card banished this way, and if they do, you gain 400 LP for each card banished this way. During your Main Phase: You can banish this card from your GY; Special Summon any number of Spellcaster monsters with different Attributes from your hand. You can only use 1 \"Spiritual Power Recovery Potion\" effect per turn, and only once that turn.",
+    "desc": "(This card is always treated as a \"Possessed\" card.)\r\nBanish any number of Spellcaster monsters and/or Spells from your GY; monsters you control gain 200 ATK x the number banished, and if they do, you gain 400 LP x the number banished. During your Main Phase: You can banish this card from your GY; Special Summon any number of Spellcaster monsters with different Attributes from your hand. You can only use 1 \"Spiritual Power Recovery Potion\" effect per turn, and only once that turn.",
     "race": "Quick-Play",
     "archetype": "Possessed",
     "ygoprodeck_url": "https://ygoprodeck.com/card/spiritual-power-recovery-potion-15650",

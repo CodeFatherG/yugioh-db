@@ -1,6 +1,6 @@
 {
     "id": 82344137,
-    "name": "Phara, the Goddess of the Beginning",
+    "name": "Phara the Primordial Goddess",
     "typeline": [
         "Spellcaster",
         "Effect"
@@ -8,13 +8,13 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can reveal this card and 1 Spell/Trap in your hand; neither player can activate cards or effects in response to the card or effect activation of a card with the same name as the revealed Spell/Trap until the end of the next turn. If this card is sent from the hand or field to the GY by Spell/Trap effect: You can Special Summon this card. If this card is Special Summoned from the GY: You can take control of the 1 monster your opponent controls with the highest ATK (your choice, if tied). You can only use each effect of \"Phara, the Goddess of the Beginning\" once per turn.",
+    "desc": "You can reveal this card and 1 Spell/Trap in your hand; until the end of the next turn, neither player can activate cards or effects in response to the activation of cards, or effects of cards, with the revealed Spell/Trap's name. If this card is sent from the hand or field to the GY by a Spell/Trap effect: You can Special Summon this card. If this card is Special Summoned from the GY: You can take control of 1 monster your opponent controls with the highest ATK (your choice, if tied). You can only use each effect of \"Phara the Primordial Goddess\" once per turn.",
     "race": "Spellcaster",
     "atk": 2800,
     "def": 2800,
     "level": 8,
     "attribute": "DARK",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/phara-the-goddess-of-the-beginning-15710",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/phara-the-primordial-goddess-15710",
     "card_images": [
         {
             "id": 82344137,
