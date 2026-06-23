@@ -24,6 +24,9 @@
             "set_price": "0"
         }
     ],
+    "banlist_info": {
+        "ban_ocg": "Semi-Limited"
+    },
     "card_images": [
         {
             "id": 78058681,
@@ -34,7 +37,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "12.77",
+            "cardmarket_price": "12.21",
             "tcgplayer_price": "11.19",
             "ebay_price": "0.00",
             "amazon_price": "0.00",

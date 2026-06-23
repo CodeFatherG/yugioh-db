@@ -1,0 +1,41 @@
+{
+    "id": 101402050,
+    "name": "Helping Robo for Underwater Combat",
+    "typeline": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 Machine monsters\r\nIf this card is Link Summoned: You can target 1 monster your opponent controls; destroy it, also this card, then you can Special Summon 1 non-WATER Machine monster with 1600 or less ATK from your GY. If this card is banished: You can add 1 Machine monster whose ATK equals its own DEF from your Deck to your hand. You can only use each effect of \"Helping Robo for Underwater Combat\" once per turn, also you cannot Special Summon the turn you activate either of this card's effects, except Machine monsters.",
+    "race": "Machine",
+    "atk": 800,
+    "def": null,
+    "level": null,
+    "attribute": "WATER",
+    "linkval": 2,
+    "linkmarkers": [
+        "Right",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/helping-robo-for-underwater-combat-15811",
+    "card_images": [
+        {
+            "id": 101402050,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402050.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402050.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402050.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
