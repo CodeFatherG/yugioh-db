@@ -1,0 +1,41 @@
+{
+    "id": 101402051,
+    "name": "Destratification Dino Stratiae",
+    "typeline": [
+        "Dinosaur",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 monsters, including a Dinosaur monster\r\nIf this card is Link Summoned: You can make this card gain ATK equal to half the total original ATK of the Dinosaur monsters used as its material. During your Main Phase: You can Fusion Summon 1 Dinosaur Fusion Monster from your Extra Deck, by banishing its materials from your field and/or GY, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Dinosaur monsters. You can only use this effect of \"Destratification Dino Stratiae\" once per turn.",
+    "race": "Dinosaur",
+    "atk": 0,
+    "def": null,
+    "level": null,
+    "attribute": "FIRE",
+    "linkval": 2,
+    "linkmarkers": [
+        "Bottom",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/destratification-dino-stratiae-15812",
+    "card_images": [
+        {
+            "id": 101402051,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402051.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402051.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402051.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
