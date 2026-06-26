@@ -4,7 +4,7 @@
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Take 1 \"Regenesis\" monster from your Deck, and either add it to your hand or send it to the GY, or, if you control a \"Regenesis\" monster, you can add 1 monster with 2500 ATK and DEF from your Deck to your hand instead. If this card is in your GY, except the turn it was sent there: You can banish it, then target 1 \"Regenesis\" monster in your GY; Special Summon it. You can only use each effect of \"Regenesis\" once per turn.",
+    "desc": "Take 1 \"Regenesis\" monster from your Deck, and either add it to your hand or send it to the GY, or if you control a \"Regenesis\" monster, you can add 1 monster with 2500 ATK and DEF from your Deck to your hand instead. If this card is in your GY, except the turn it was sent there: You can banish it, then target 1 \"Regenesis\" monster in your GY; Special Summon it. You can only use each effect of \"Regenesis\" once per turn.",
     "race": "Normal",
     "archetype": "Regenesis",
     "ygoprodeck_url": "https://ygoprodeck.com/card/regenesis-14956",
@@ -34,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "4.68",
-            "tcgplayer_price": "3.42",
+            "cardmarket_price": "4.37",
+            "tcgplayer_price": "3.47",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

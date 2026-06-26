@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "1 \"Sky Striker Ace\" monster\r\nYou can only Special Summon \"Protoype Sky Striker Ace - Amatsu\" once per turn. When a monster your opponent controls with 2000 or more ATK activates its effect (Quick Effect): You can make the activated effect become \"Destroy 1 \"Sky Striker Ace\" Link Monster your opponent controls\". When an attack is declared involving this card and an opponent's monster: You can target 1 \"Sky Striker Ace\" monster you control and 1 card your opponent controls; destroy them. You can only use each effect of \"Prototype Sky Striker Ace - Amatsu\" once per turn.",
+    "desc": "1 \"Sky Striker Ace\" monster\r\nYou can only Special Summon \"Prototype Sky Striker Ace - Amatsu(s)\" once per turn. When a monster your opponent controls with 2000 or more ATK activates its effect (Quick Effect): You can make the activated effect become \"Destroy 1 \"Sky Striker Ace\" Link Monster your opponent controls\". When an attack is declared involving this card and an opponent's monster: You can target 1 \"Sky Striker Ace\" monster you control and 1 card your opponent controls; destroy them. You can only use each effect of \"Prototype Sky Striker Ace - Amatsu\" once per turn.",
     "race": "Machine",
     "atk": 1500,
     "def": null,
@@ -21,6 +21,15 @@
         "Bottom"
     ],
     "ygoprodeck_url": "https://ygoprodeck.com/card/prototype-sky-striker-ace-amatsu-15071",
+    "card_sets": [
+        {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENS35",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 25072579,
@@ -31,8 +40,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.34",
-            "tcgplayer_price": "0.36",
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.35",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

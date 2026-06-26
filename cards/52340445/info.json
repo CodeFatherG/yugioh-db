@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-ace-token-9551",
     "card_sets": [
         {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENS36",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Magnificent Mavens",
             "set_code": "MAMA-EN013",
             "set_rarity": "Ultra Rare",
@@ -41,7 +48,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.10",
+            "cardmarket_price": "0.09",
             "tcgplayer_price": "0.13",
             "ebay_price": "0.99",
             "amazon_price": "10.94",
