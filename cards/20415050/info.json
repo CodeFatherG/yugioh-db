@@ -4,10 +4,10 @@
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "(When you activate this card, you can also send 1 other card you control to the GY.) Add 1 \"Hecahands\" monster from your Deck to your hand, then if you sent a card to the GY at activation, you can Set 1 \"Hecahands\" Spell/Trap from your Deck, except \"Hecahands\". You can banish this card from your GY; your opponent draws 1 card, then they discard 1 card. You can only use each effect of \"Hecahands\" once per turn.",
+    "desc": "When you activate this card, you can also send 1 other card you control to the GY; add 1 \"Hecahands\" monster from your Deck to your hand, then if you sent another card to the GY at activation, you can Set 1 \"Hecahands\" Spell/Trap from your Deck, except \"The Hidden Hecahands\". You can banish this card from your GY; your opponent draws 1 card, then they discard 1 card. You can only use each effect of \"The Hidden Hecahands\" once per turn.",
     "race": "Normal",
     "archetype": "Hecahands",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/hecahands-15351",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-hidden-hecahands-15351",
     "card_sets": [
         {
             "set_name": "Phantom Revenge",
@@ -27,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "2.95",
+            "tcgplayer_price": "3.58",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
