@@ -17,6 +17,15 @@
     "attribute": "LIGHT",
     "archetype": "Angelechy",
     "ygoprodeck_url": "https://ygoprodeck.com/card/angelechy-destrier-15807",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN092",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 55393975,
@@ -28,7 +37,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.34",
+            "tcgplayer_price": "0.42",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

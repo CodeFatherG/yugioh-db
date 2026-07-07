@@ -16,6 +16,15 @@
     "level": 3,
     "attribute": "DARK",
     "ygoprodeck_url": "https://ygoprodeck.com/card/shamanite-shamanknight-15805",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN086",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 16237004,
@@ -27,7 +36,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.16",
+            "tcgplayer_price": "0.17",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

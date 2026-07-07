@@ -16,6 +16,15 @@
     "attribute": "LIGHT",
     "archetype": "Konami Arcade Games",
     "ygoprodeck_url": "https://ygoprodeck.com/card/gray-layer-15664",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 18616294,
@@ -27,7 +36,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.19",
+            "tcgplayer_price": "0.13",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

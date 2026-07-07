@@ -8,6 +8,15 @@
     "race": "Continuous",
     "archetype": "Light and Darkness Ritual",
     "ygoprodeck_url": "https://ygoprodeck.com/card/mind-shuffle-15552",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN065",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 24749710,
@@ -19,7 +28,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.38",
+            "tcgplayer_price": "0.48",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

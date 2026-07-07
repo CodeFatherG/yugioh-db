@@ -17,6 +17,22 @@
     "attribute": "DARK",
     "archetype": "Invoked",
     "ygoprodeck_url": "https://ygoprodeck.com/card/hyperinvoked-aeon-15681",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN033",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN033",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 33166263,
@@ -28,7 +44,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "3.87",
+            "tcgplayer_price": "4.11",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

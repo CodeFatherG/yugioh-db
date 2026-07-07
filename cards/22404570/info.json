@@ -8,6 +8,15 @@
     "race": "Normal",
     "archetype": "Power Patron",
     "ygoprodeck_url": "https://ygoprodeck.com/card/power-patron-shade-of-the-final-hour-15672",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 22404570,
@@ -19,7 +28,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.15",
+            "tcgplayer_price": "0.17",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

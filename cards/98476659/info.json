@@ -8,6 +8,22 @@
     "race": "Normal",
     "archetype": "Greed",
     "ygoprodeck_url": "https://ygoprodeck.com/card/pot-of-sloth-15711",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN061",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN061",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 98476659,
@@ -19,7 +35,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "56.48",
+            "tcgplayer_price": "56.17",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

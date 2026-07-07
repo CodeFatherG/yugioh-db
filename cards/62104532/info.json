@@ -8,6 +8,15 @@
     "race": "Normal",
     "archetype": "Phantom Knights",
     "ygoprodeck_url": "https://ygoprodeck.com/card/the-phantom-knights-rank-up-magic-requiem-15613",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 62104532,
@@ -19,7 +28,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.19",
+            "tcgplayer_price": "0.21",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

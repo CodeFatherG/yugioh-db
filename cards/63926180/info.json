@@ -7,6 +7,15 @@
     "desc": "Activate 1 of these effects, but you cannot declare attacks for the rest of this turn, except with Fusion Monsters;\r\n\u25cf Special Summon 1 \"Aiwass, Divine Spirit of the Law\" from your Deck or GY.\r\n\u25cf Take 1 \"Aleister\" monster from your Deck, and either send it to the GY or banish it.\r\n\u25cf Look at 3 random face-down cards in your opponent's Extra Deck, and if you do, banish 1 of them.\r\nYou can only activate 1 \"Sacred Spirit Sword Aiwass\" per turn.",
     "race": "Normal",
     "ygoprodeck_url": "https://ygoprodeck.com/card/sacred-spirit-sword-aiwass-15682",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 63926180,
@@ -18,7 +27,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.17",
+            "tcgplayer_price": "0.15",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

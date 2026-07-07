@@ -24,6 +24,22 @@
         "Bottom-Right"
     ],
     "ygoprodeck_url": "https://ygoprodeck.com/card/zenna-s-deceiving-doll-maidens-15651",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN043",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 7594154,
@@ -35,7 +51,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "2.63",
+            "tcgplayer_price": "2.87",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

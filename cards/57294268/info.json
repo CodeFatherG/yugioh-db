@@ -16,6 +16,22 @@
     "attribute": "DARK",
     "archetype": "Aleister",
     "ygoprodeck_url": "https://ygoprodeck.com/card/aleister-the-reminiscent-15686",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN015",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN015",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 57294268,
@@ -27,7 +43,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "22.05",
+            "tcgplayer_price": "20.67",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

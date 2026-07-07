@@ -16,6 +16,15 @@
     "attribute": "EARTH",
     "archetype": "Mystical Beast of the Forest",
     "ygoprodeck_url": "https://ygoprodeck.com/card/cerynemesia-mystical-beast-of-the-forest-15808",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN087",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 43632709,
@@ -27,7 +36,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.20",
+            "tcgplayer_price": "0.13",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

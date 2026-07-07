@@ -7,6 +7,15 @@
     "desc": "When your opponent activates a monster effect on the field, except monsters that were Summoned this turn: Negate that activation, then you can banish (face-down) all face-up monsters your opponent controls, except monsters Summoned this turn. If this Set card in its owner's control is destroyed by an opponent's card effect: You can Set 1 Trap from your Deck.",
     "race": "Counter",
     "ygoprodeck_url": "https://ygoprodeck.com/card/annihilate-retroglight-15688",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN079",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 83319154,
@@ -18,7 +27,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "1.14",
+            "tcgplayer_price": "1.13",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

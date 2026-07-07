@@ -8,6 +8,15 @@
     "race": "Normal",
     "archetype": "Angelechy",
     "ygoprodeck_url": "https://ygoprodeck.com/card/angelechy-opening-to-e4-15800",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN096",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 80565021,
@@ -19,7 +28,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "13.71",
+            "tcgplayer_price": "13.12",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -16,6 +16,15 @@
     "attribute": "DARK",
     "archetype": "Phantasm",
     "ygoprodeck_url": "https://ygoprodeck.com/card/martyr-of-the-sacred-beasts-15599",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 59138498,
@@ -27,7 +36,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.37",
+            "tcgplayer_price": "0.36",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

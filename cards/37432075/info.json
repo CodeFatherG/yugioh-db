@@ -7,6 +7,22 @@
     "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control. If Summoning an \"Invoked\" Fusion Monster this way, you can also return monsters from any banishment to the GY as material. During your Main Phase, if this card is in your GY: You can target 1 \"Aleister\" monster or \"Invocation\" in your GY; shuffle this card into the Deck, and if you do, add that target to your hand. You can only use each effect of \"Invocation - \"Sword\"\" once per turn.",
     "race": "Quick-Play",
     "ygoprodeck_url": "https://ygoprodeck.com/card/invocation-sword-15678",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN053",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN053",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 37432075,
@@ -18,7 +34,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "1.82",
+            "tcgplayer_price": "1.71",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

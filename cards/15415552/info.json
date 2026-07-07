@@ -16,6 +16,15 @@
     "level": 8,
     "attribute": "LIGHT",
     "ygoprodeck_url": "https://ygoprodeck.com/card/mortilux-heruvur-15810",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN089",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 15415552,
@@ -27,7 +36,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.48",
+            "tcgplayer_price": "0.52",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

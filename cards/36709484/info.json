@@ -8,6 +8,15 @@
     "race": "Normal",
     "archetype": "Theorealize",
     "ygoprodeck_url": "https://ygoprodeck.com/card/theorealize-past-lull-15671",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN056",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 36709484,
@@ -19,7 +28,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "1.05",
+            "tcgplayer_price": "0.98",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

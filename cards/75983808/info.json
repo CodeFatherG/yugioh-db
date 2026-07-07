@@ -8,6 +8,15 @@
     "race": "Quick-Play",
     "archetype": "Light and Darkness Ritual",
     "ygoprodeck_url": "https://ygoprodeck.com/card/chaos-mystic-box-15553",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 75983808,
@@ -19,7 +28,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.25",
+            "tcgplayer_price": "0.19",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -7,6 +7,22 @@
     "desc": "Monsters you control that were Normal or Special Summoned from the hand gain 500 ATK/DEF. You can only use each of the following effects of \"Hideout in the Sky, Coulomb\" once per turn. During your Main Phase: You can Special Summon 1 \"Mech Beast Token\" (Machine/EARTH/Level 6/ATK 2000/DEF 2000) to your opponent's field, and if you do, add 1 \"Blitzclique\" monster from your Deck to your hand. If a card(s) is destroyed by your \"Blitzclique\" card's effect, while this card is in your GY (except during the Damage Step): You can add this card to your hand.",
     "race": "Field",
     "ygoprodeck_url": "https://ygoprodeck.com/card/hideout-in-the-sky-coulomb-15607",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN050",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN050",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 37654623,
@@ -18,7 +34,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "1.68",
+            "tcgplayer_price": "2.07",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -8,6 +8,15 @@
     "race": "Normal",
     "archetype": "Clown Crew",
     "ygoprodeck_url": "https://ygoprodeck.com/card/clown-crew-finale-15590",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 84031736,
@@ -19,7 +28,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.22",
+            "tcgplayer_price": "0.21",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

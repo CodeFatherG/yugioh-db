@@ -16,6 +16,15 @@
     "attribute": "EARTH",
     "archetype": "Blitzclique",
     "ygoprodeck_url": "https://ygoprodeck.com/card/grain-blitzclique-15610",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN013",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 84401954,
@@ -27,7 +36,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.27",
+            "tcgplayer_price": "0.30",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

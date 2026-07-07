@@ -7,6 +7,15 @@
     "desc": "Once per turn: You can place Season Counters on this card equal to the number of your opponent's unused Main Monster Zones. Once per turn, when your monster declares an attack: You can inflict damage to your opponent equal to the total number of Season Counters on this card and \"Spring\" in your GY x 400. Once per turn, during your opponent's End Phase: You can take 1 Field Spell from your hand or Deck that you can place a Season Counter on, and place it face-up on your field (but neither player can activate its effects this turn), and if you do, place all Season Counters on this card on that card.",
     "race": "Field",
     "ygoprodeck_url": "https://ygoprodeck.com/card/summer-15662",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 97254001,
@@ -18,7 +27,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.16",
+            "tcgplayer_price": "0.12",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

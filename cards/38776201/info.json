@@ -8,6 +8,15 @@
     "race": "Normal",
     "archetype": "Phantasm",
     "ygoprodeck_url": "https://ygoprodeck.com/card/sacred-beasts-released-15598",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN047",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 38776201,
@@ -19,7 +28,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.37",
+            "tcgplayer_price": "0.38",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

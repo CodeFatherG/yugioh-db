@@ -17,6 +17,15 @@
     "attribute": "DARK",
     "archetype": "Phantom Knights",
     "ygoprodeck_url": "https://ygoprodeck.com/card/the-phantom-knights-of-malevolent-scythe-15615",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN037",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 78449284,
@@ -28,7 +37,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.25",
+            "tcgplayer_price": "0.36",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
