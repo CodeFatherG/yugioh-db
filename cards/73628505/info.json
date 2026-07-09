@@ -254,6 +254,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Ultimate Tournament Pack 1",
+            "set_code": "UP01-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Valiant Smashers",
             "set_code": "VASM-EN013",
             "set_rarity": "Rare",
@@ -282,7 +289,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.03",
+            "cardmarket_price": "0.02",
             "tcgplayer_price": "0.16",
             "ebay_price": "6.95",
             "amazon_price": "0.96",

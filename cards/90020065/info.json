@@ -53,6 +53,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Spell Ruler (25th Anniversary Edition)",
+            "set_code": "SRL-EN074",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Starter Deck: Pegasus",
             "set_code": "SDP-012",
             "set_rarity": "Common",
@@ -71,7 +78,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.12",
+            "tcgplayer_price": "0.14",
             "ebay_price": "0.99",
             "amazon_price": "1.37",
             "coolstuffinc_price": "0.49"

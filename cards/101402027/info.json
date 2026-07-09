@@ -1,0 +1,35 @@
+{
+    "id": 101402027,
+    "name": "The World's Greatest Gallant Thief",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If you control no monsters, you can Tribute Summon this card face-up by Tributing monsters from your hand and/or your opponent's field. You can only use each of the following effects of \"The World's Greatest Gallant Thief\" once per turn. When your opponent activates a card effect in the hand, GY, or banishment, while you control this Normal Summoned/Set card (Quick Effect): You can negate that effect, and if you do, destroy that card. During the Battle Phase (Quick Effect): You can reveal your entire hand; change all monsters your opponent controls to Defense Position.",
+    "race": "Warrior",
+    "atk": 2500,
+    "def": 2000,
+    "level": 10,
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-world-s-greatest-gallant-thief-15820",
+    "card_images": [
+        {
+            "id": 101402027,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402027.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402027.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402027.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

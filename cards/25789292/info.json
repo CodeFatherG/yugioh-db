@@ -150,6 +150,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Ultimate Tournament Pack 1",
+            "set_code": "UP01-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Wing Raiders",
             "set_code": "WIRA-EN053",
             "set_rarity": "Common",
@@ -167,8 +174,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.18",
-            "tcgplayer_price": "0.21",
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.24",
             "ebay_price": "2.19",
             "amazon_price": "2.27",
             "coolstuffinc_price": "0.49"

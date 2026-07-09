@@ -106,6 +106,13 @@
             "set_rarity": "Secret Rare",
             "set_rarity_code": "(ScR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Yu-Gi-Oh! Championship Series 2025 prize cards",
+            "set_code": "25YC-ENP08",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -118,7 +125,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.10",
+            "cardmarket_price": "0.08",
             "tcgplayer_price": "0.14",
             "ebay_price": "19.99",
             "amazon_price": "5.89",

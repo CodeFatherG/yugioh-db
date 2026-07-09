@@ -57,6 +57,13 @@
             "set_rarity": "Short Print",
             "set_rarity_code": "(SP)",
             "set_price": "0.99"
+        },
+        {
+            "set_name": "Spell Ruler (25th Anniversary Edition)",
+            "set_code": "SRL-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -69,8 +76,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.02",
-            "tcgplayer_price": "0.26",
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.23",
             "ebay_price": "1.99",
             "amazon_price": "3.38",
             "coolstuffinc_price": "1.99"

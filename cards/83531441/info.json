@@ -59,6 +59,13 @@
             "set_rarity": "Gold Rare",
             "set_rarity_code": "(GUR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Yu-Gi-Oh! Championship Series 2025 prize cards",
+            "set_code": "25YC-ENP05",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -71,7 +78,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.28",
+            "cardmarket_price": "0.24",
             "tcgplayer_price": "0.36",
             "ebay_price": "4.95",
             "amazon_price": "1.46",

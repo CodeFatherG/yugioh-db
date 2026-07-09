@@ -1,0 +1,35 @@
+{
+    "id": 101402034,
+    "name": "Cartoon Shade",
+    "typeline": [
+        "Illusion",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while a face-up monster that cannot be Normal Summoned/Set is on the field. You can only Special Summon \"Cartoon Shade\" once per turn this way. If this card is Special Summoned: You can add 1 monster with 2000 ATK or DEF that cannot be Normal Summoned/Set from your Deck to your hand. If this card on the field is Tributed: You can target 1 card on the field, or you can target 2 if you control a monster with 2000 ATK or DEF; return that card(s) to the hand.",
+    "race": "Illusion",
+    "atk": 0,
+    "def": 2000,
+    "level": 1,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cartoon-shade-15819",
+    "card_images": [
+        {
+            "id": 101402034,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402034.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402034.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402034.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

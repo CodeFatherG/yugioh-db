@@ -1,0 +1,36 @@
+{
+    "id": 101402031,
+    "name": "Misstic Call",
+    "typeline": [
+        "Spellcaster",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is in your hand or GY: You can discard 1 other Spellcaster monster or 1 Spell/Trap; Special Summon this card, but banish it when it leaves the field. If this card is Normal or Special Summoned: You can banish 1 Level 4 Spellcaster monster from your Deck, and if you do, during the End Phase of this turn, add it to your hand or Special Summon it. You can only use each effect of \"Misstic Call\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 1600,
+    "def": 800,
+    "level": 5,
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/misstic-call-15822",
+    "card_images": [
+        {
+            "id": 101402031,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402031.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402031.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402031.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

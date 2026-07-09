@@ -91,6 +91,13 @@
             "set_rarity": "Ultra Rare",
             "set_rarity_code": "(UR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Ultimate Tournament Pack 1",
+            "set_code": "UP01-EN017",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -103,8 +110,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.08",
-            "tcgplayer_price": "0.21",
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.19",
             "ebay_price": "1.42",
             "amazon_price": "52.93",
             "coolstuffinc_price": "2.99"

@@ -36,6 +36,13 @@
             "set_rarity": "Short Print",
             "set_rarity_code": "(SP)",
             "set_price": "0.00"
+        },
+        {
+            "set_name": "Metal Raiders (25th Anniversary Edition)",
+            "set_code": "MRD-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -49,7 +56,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.05",
-            "tcgplayer_price": "0.16",
+            "tcgplayer_price": "0.13",
             "ebay_price": "1.00",
             "amazon_price": "1.67",
             "coolstuffinc_price": "0.25"

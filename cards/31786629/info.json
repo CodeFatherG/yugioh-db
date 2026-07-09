@@ -81,11 +81,25 @@
             "set_price": "0.00"
         },
         {
+            "set_name": "Metal Raiders (25th Anniversary Edition)",
+            "set_code": "MRD-EN097",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Retro Pack",
             "set_code": "RP01-EN040",
             "set_rarity": "Common",
             "set_rarity_code": "(C)",
             "set_price": "7.74"
+        },
+        {
+            "set_name": "Ultimate Tournament Pack 1",
+            "set_code": "UP01-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
         }
     ],
     "card_images": [
