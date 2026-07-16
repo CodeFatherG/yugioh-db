@@ -1,0 +1,37 @@
+{
+    "id": 100458005,
+    "name": "Sennetmes Nekhbet",
+    "typeline": [
+        "Zombie",
+        "Ritual",
+        "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with any \"Sennet\" card. This card equipped with an Equip Card cannot be destroyed by battle. You can only use each of the following effects of \"Sennetmes Nekhbet\" once per turn. You can discard this card; add 1 \"Sennet\" card from your GY to your hand, except \"Sennetmes Nekhbet\". (Quick Effect): You can Special Summon 1 face-up Normal Monster Card from your Spell & Trap Zone, and if you do, equip this card you control to it as an Equip Spell that gives it 2500 ATK.",
+    "race": "Zombie",
+    "atk": 2800,
+    "def": 1500,
+    "level": 6,
+    "attribute": "DARK",
+    "archetype": "Sennet",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sennetmes-nekhbet-15858",
+    "card_images": [
+        {
+            "id": 100458005,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100458005.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100458005.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100458005.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
