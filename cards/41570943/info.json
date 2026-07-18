@@ -1,0 +1,44 @@
+{
+    "id": 41570943,
+    "name": "Azure Ocean Dragon Lord - Neo-Daedalus Rage",
+    "typeline": [
+        "Sea Serpent",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "4 monsters\r\nIf this card is Link Summoned: You can Special Summon up to 3 monsters that mention \"Atlantis, City of the Sea Dragon\" from your GY to your zones this card points to, also you cannot Special Summon for the rest of this turn. This card's name becomes \"Umi\" while in the Monster Zone. Once per turn (Quick Effect): You can send 1 face-up \"Umi\" you control to the GY; send all cards on the field to the GY, except \"Umi\".",
+    "race": "Sea Serpent",
+    "atk": 2900,
+    "def": null,
+    "level": null,
+    "attribute": "WATER",
+    "archetype": "Daedalus",
+    "linkval": 4,
+    "linkmarkers": [
+        "Top",
+        "Bottom-Left",
+        "Bottom",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/azure-ocean-dragon-lord-neo-daedalus-rage-15862",
+    "card_images": [
+        {
+            "id": 41570943,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41570943.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41570943.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41570943.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
