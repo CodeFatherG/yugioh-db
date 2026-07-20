@@ -1,0 +1,37 @@
+{
+    "id": 16908882,
+    "name": "Number 104: Masquerade Vain",
+    "typeline": [
+        "Spellcaster",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "3 Level 4 monsters\r\nOnce per turn: You can detach 1 material from this card; add 1 \"Barian's\" Spell/Trap from your Deck to your hand. A monster that was Xyz Summoned using this card on the field as material gains this effect.\r\n\u25cf If it is Xyz Summoned: Activate this effect; your opponent can banish 4 monsters with different Attributes and 1 Spell from their Deck. If they do not, you banish the top 10 cards of their Deck.\r\nYou can only use this effect of \"Number 104: Masquerade Vain\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 2700,
+    "def": 1200,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "Masquerade",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/number-104-masquerade-vain-15847",
+    "card_images": [
+        {
+            "id": 16908882,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16908882.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16908882.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16908882.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

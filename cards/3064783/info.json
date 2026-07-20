@@ -1,0 +1,36 @@
+{
+    "id": 3064783,
+    "name": "Shining Umbral Horror",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If you Normal or Special Summon an \"Umbral Horror\" monster(s) and/or a \"Masquerade\" Xyz Monster(s) (except during the Damage Step): You can Special Summon this card from your hand, and if you do, draw 1 card, then if you drew an \"Umbral Horror\" monster, you can Special Summon it. Can be treated as 2 materials for the Xyz Summon of a \"Number\" Xyz Monster that requires 3 or more materials. You can only use each effect of \"Shining Umbral Horror\" once per turn.",
+    "race": "Fiend",
+    "atk": 0,
+    "def": 2000,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "Umbral Horror",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shining-umbral-horror-15849",
+    "card_images": [
+        {
+            "id": 3064783,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3064783.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3064783.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3064783.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

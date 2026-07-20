@@ -1,0 +1,43 @@
+{
+    "id": 4063756,
+    "name": "Medicurius the Power Patron of Illusions",
+    "typeline": [
+        "Fairy",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2+ monsters, including a Fusion, Synchro, Xyz, or Link Monster\r\nGains these effects based on the number of monsters it points to.\r\n\u25cf 1+: Once per turn: You can negate the effects of all face-up monsters your opponent currently controls, also until the end of this turn, their ATK's become halved.\r\n\u25cf 2+: Unaffected by your opponent's activated effects.\r\n\u25cf 3: Once per opponent's turn (Quick Effect): You can banish this card, also banish all cards your opponent controls.",
+    "race": "Fairy",
+    "atk": 3000,
+    "def": null,
+    "level": null,
+    "attribute": "WATER",
+    "archetype": "Power Patron",
+    "linkval": 3,
+    "linkmarkers": [
+        "Bottom-Left",
+        "Bottom",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/medicurius-the-power-patron-of-illusions-15835",
+    "card_images": [
+        {
+            "id": 4063756,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4063756.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4063756.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4063756.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

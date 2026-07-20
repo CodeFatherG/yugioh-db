@@ -1,0 +1,37 @@
+{
+    "id": 42396591,
+    "name": "Number C104: Umbral Horror Masquerade Victory",
+    "typeline": [
+        "Spellcaster",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "4 Level 5 monsters\r\nOnce per turn (Quick Effect): You can detach 1 material from this card, then target 1 card your opponent controls; destroy it. If this card battles an opponent's monster, during damage calculation: This card's ATK/DEF become that opponent's monster's ATK or DEF (whichever is higher) +100 during damage calculation only. If this card destroys a monster by battle: Send 1 random card from your opponent's hand to the GY, and if you do, halve your opponent's LP.",
+    "race": "Spellcaster",
+    "atk": 3000,
+    "def": 1500,
+    "level": 5,
+    "attribute": "DARK",
+    "archetype": "Masquerade",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/number-c104-umbral-horror-masquerade-victory-15842",
+    "card_images": [
+        {
+            "id": 42396591,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42396591.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42396591.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42396591.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

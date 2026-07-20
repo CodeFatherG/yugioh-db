@@ -1,0 +1,36 @@
+{
+    "id": 76660178,
+    "name": "Fisherman of Legend",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If your opponent activates a monster effect on the field (except during the Damage Step), or when their monster declares an attack, and \"Umi\" or a card that mentions \"Dark Time Wizard\" other than \"Fisherman of Legend\" is on the field: You can Special Summon this card from your hand. If this card is Special Summoned: You can target 1 monster your opponent controls; destroy it, also return this card from the field to the hand during the End Phase of this turn. You can only use each effect of \"Fisherman of Legend\" once per turn.",
+    "race": "Warrior",
+    "atk": 1850,
+    "def": 1600,
+    "level": 4,
+    "attribute": "WATER",
+    "archetype": "Dark Time Wizard",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fisherman-of-legend-15744",
+    "card_images": [
+        {
+            "id": 76660178,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76660178.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76660178.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76660178.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
