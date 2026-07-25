@@ -1,0 +1,37 @@
+{
+    "id": 85482105,
+    "name": "Speedroid Darumaknocker",
+    "typeline": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is in your hand: You can send 1 \"Speedroid\" card from your Deck to the GY, except \"Speedroid Darumaknocker\"; Special Summon this card, also you cannot Special Summon for the rest of this turn, except WIND monsters. If this card is sent from the field to the GY: You can add 1 \"Speedroid\" Spell/Trap from your Deck to your hand, then if you control a \"Clear Wing\" monster, you can destroy 1 monster on the field. You can only use each effect of \"Speedroid Darumaknocker\" once per turm",
+    "race": "Machine",
+    "atk": 200,
+    "def": 1600,
+    "level": 4,
+    "attribute": "WIND",
+    "archetype": "roid",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/speedroid-darumaknocker-15868",
+    "card_images": [
+        {
+            "id": 85482105,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85482105.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85482105.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85482105.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
