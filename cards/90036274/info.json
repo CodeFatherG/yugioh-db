@@ -30,6 +30,13 @@
             "set_price": "1.56"
         },
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENS29",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Yu-Gi-Oh! ARC-V Volume 2 promotional card",
             "set_code": "YA02-EN001",
             "set_rarity": "Ultra Rare",
@@ -48,7 +55,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.13",
-            "tcgplayer_price": "0.28",
+            "tcgplayer_price": "0.26",
             "ebay_price": "1.40",
             "amazon_price": "0.99",
             "coolstuffinc_price": "0.39"

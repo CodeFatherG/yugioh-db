@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/outer-entity-nyarla-747",
     "card_sets": [
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENL37",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Shadows in Valhalla",
             "set_code": "SHVA-EN017",
             "set_rarity": "Secret Rare",
@@ -36,7 +43,7 @@
     "card_prices": [
         {
             "cardmarket_price": "1.08",
-            "tcgplayer_price": "1.56",
+            "tcgplayer_price": "1.52",
             "ebay_price": "1.48",
             "amazon_price": "0.99",
             "coolstuffinc_price": "0.99"

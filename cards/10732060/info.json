@@ -20,6 +20,20 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/hi-speedroid-glider-2-14709",
     "card_sets": [
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENS35",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENS35",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN040",
             "set_rarity": "Common",
@@ -37,8 +51,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
-            "tcgplayer_price": "0.14",
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.13",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

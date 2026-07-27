@@ -17,6 +17,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENL29",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Phantom Nightmare",
             "set_code": "PHNI-EN078",
             "set_rarity": "Quarter Century Secret Rare",
@@ -49,7 +56,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.64",
-            "tcgplayer_price": "0.32",
+            "tcgplayer_price": "0.29",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/speedroid-dupligate-12260",
     "card_sets": [
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENS22",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Synchro Storm",
             "set_code": "LED8-EN008",
             "set_rarity": "Rare",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.05",
-            "tcgplayer_price": "0.18",
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.17",
             "ebay_price": "0.99",
             "amazon_price": "0.79",
             "coolstuffinc_price": "0.49"

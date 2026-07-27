@@ -22,6 +22,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/lunalight-wolf-4075",
     "card_sets": [
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENL03",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Shining Victories",
             "set_code": "SHVI-EN012",
             "set_rarity": "Common",
@@ -39,7 +46,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.37",
+            "cardmarket_price": "0.44",
             "tcgplayer_price": "1.00",
             "ebay_price": "3.00",
             "amazon_price": "1.38",

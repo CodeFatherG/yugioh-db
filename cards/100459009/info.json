@@ -1,0 +1,37 @@
+{
+    "id": 100459009,
+    "name": "Dark Paladin - Wave-Motion",
+    "typeline": [
+        "Spellcaster",
+        "Fusion",
+        "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "\"Dark Magician\" + 1 Level 7 or higher monster\r\nMust be Fusion Summoned. Gains 500 ATK for every other monster on the field. Can attack all your opponent's monsters, once each. Once per turn, when your opponent activates a Spell Card or effect (Quick Effect): You can negate that effect, then you can destroy 1 card on the field. After this card destroys a card by battle or card effect and sends it to the GY, neither player can activate its effects while it is in the GY.",
+    "race": "Spellcaster",
+    "atk": 2900,
+    "def": 2400,
+    "level": 8,
+    "attribute": "DARK",
+    "archetype": "Prophecy",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-paladin-wave-motion-15869",
+    "card_images": [
+        {
+            "id": 100459009,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100459009.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100459009.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100459009.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/lunalight-yellow-marten-9905",
     "card_sets": [
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENL08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Season 2",
             "set_code": "LDS2-EN128",
             "set_rarity": "Common",
@@ -49,7 +56,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.27",
+            "cardmarket_price": "0.19",
             "tcgplayer_price": "0.22",
             "ebay_price": "0.99",
             "amazon_price": "0.60",

@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/lunalight-serenade-dance-9907",
     "card_sets": [
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENL28",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Season 2",
             "set_code": "LDS2-EN131",
             "set_rarity": "Common",
@@ -35,7 +42,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.19",
-            "tcgplayer_price": "0.69",
+            "tcgplayer_price": "0.67",
             "ebay_price": "0.99",
             "amazon_price": "3.14",
             "coolstuffinc_price": "0.49"

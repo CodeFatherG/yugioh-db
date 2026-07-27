@@ -32,6 +32,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENO18",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Modern Decks 2026",
             "set_code": "L26D-ENX11",
             "set_rarity": "Common",
@@ -77,8 +84,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "3.26",
-            "tcgplayer_price": "3.65",
+            "cardmarket_price": "3.23",
+            "tcgplayer_price": "3.23",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

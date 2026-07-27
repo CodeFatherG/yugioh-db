@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/lunalight-sabre-dancer-9903",
     "card_sets": [
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENL33",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Season 2",
             "set_code": "LDS2-EN129",
             "set_rarity": "Common",
@@ -51,7 +58,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.13",
-            "tcgplayer_price": "0.16",
+            "tcgplayer_price": "0.15",
             "ebay_price": "0.99",
             "amazon_price": "4.60",
             "coolstuffinc_price": "0.49"

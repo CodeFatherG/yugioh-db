@@ -47,6 +47,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENL36",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Premium Gold",
             "set_code": "PGLD-EN045",
             "set_rarity": "Gold Rare",
@@ -64,8 +71,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.32",
-            "tcgplayer_price": "0.42",
+            "cardmarket_price": "0.31",
+            "tcgplayer_price": "0.40",
             "ebay_price": "1.95",
             "amazon_price": "0.71",
             "coolstuffinc_price": "0.25"

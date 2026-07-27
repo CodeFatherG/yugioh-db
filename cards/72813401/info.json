@@ -36,6 +36,20 @@
             "set_rarity": "Secret Rare",
             "set_rarity_code": "(ScR)",
             "set_price": "3.48"
+        },
+        {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENS36",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENS36",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -48,8 +62,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.27",
-            "tcgplayer_price": "0.51",
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.49",
             "ebay_price": "2.70",
             "amazon_price": "4.74",
             "coolstuffinc_price": "1.99"

@@ -16,6 +16,22 @@
     "attribute": "LIGHT",
     "archetype": "Phantasm",
     "ygoprodeck_url": "https://ygoprodeck.com/card/hamon-lord-of-striking-thunder-sacred-beast-of-sinful-catastrophe-15602",
+    "card_sets": [
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN006",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Chaos Origins",
+            "set_code": "CORI-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 50251045,

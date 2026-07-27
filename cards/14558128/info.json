@@ -102,6 +102,27 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENL06",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENO08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENS08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Collection Kaiba Mega Pack",
             "set_code": "LCKC-EN080",
             "set_rarity": "Ultra Rare",
@@ -254,7 +275,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.51",
+            "cardmarket_price": "0.50",
             "tcgplayer_price": "0.44",
             "ebay_price": "11.95",
             "amazon_price": "28.99",

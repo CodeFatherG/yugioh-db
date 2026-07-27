@@ -22,6 +22,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/lunalight-tiger-6982",
     "card_sets": [
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENL04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Quarter Century Stampede",
             "set_code": "RA04-EN020",
             "set_rarity": "Collector's Rare",
@@ -89,7 +96,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.06",
-            "tcgplayer_price": "0.12",
+            "tcgplayer_price": "0.11",
             "ebay_price": "1.90",
             "amazon_price": "1.14",
             "coolstuffinc_price": "0.99"

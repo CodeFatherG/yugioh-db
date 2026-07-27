@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/crystal-clear-wing-over-synchro-dragon-14708",
     "card_sets": [
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENS34",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN039",
             "set_rarity": "Quarter Century Secret Rare",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.02",
-            "tcgplayer_price": "2.58",
+            "cardmarket_price": "1.03",
+            "tcgplayer_price": "2.22",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

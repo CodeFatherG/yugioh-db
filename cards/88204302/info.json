@@ -17,6 +17,13 @@
             "set_price": "3.16"
         },
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENS16",
+            "set_rarity": "2",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Synchro Storm",
             "set_code": "LED8-EN019",
             "set_rarity": "Common",
@@ -48,7 +55,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.04",
+            "cardmarket_price": "0.05",
             "tcgplayer_price": "0.12",
             "ebay_price": "0.99",
             "amazon_price": "1.80",

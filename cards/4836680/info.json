@@ -27,6 +27,13 @@
             "set_rarity": "Ultra Rare",
             "set_rarity_code": "(UR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENO17",
+            "set_rarity": "3",
+            "set_rarity_code": "",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -39,7 +46,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.26",
+            "cardmarket_price": "0.30",
             "tcgplayer_price": "0.22",
             "ebay_price": "0.99",
             "amazon_price": "3.39",

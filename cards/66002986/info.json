@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/speedroid-clear-wing-wonder-14711",
     "card_sets": [
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENS23",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN068",
             "set_rarity": "Common",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.08",
-            "tcgplayer_price": "0.13",
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.15",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

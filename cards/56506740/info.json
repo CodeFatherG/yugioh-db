@@ -24,6 +24,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENO21",
+            "set_rarity": "3",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rage of the Abyss",
             "set_code": "ROTA-EN058",
             "set_rarity": "Quarter Century Secret Rare",
@@ -97,8 +104,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.92",
-            "tcgplayer_price": "0.99",
+            "cardmarket_price": "0.88",
+            "tcgplayer_price": "0.97",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

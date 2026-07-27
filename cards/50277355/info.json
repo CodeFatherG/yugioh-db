@@ -58,6 +58,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENL40",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rarity Collection 5",
             "set_code": "RA05-EN106",
             "set_rarity": "Starlight Rare",
@@ -82,8 +89,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.16",
-            "tcgplayer_price": "0.15",
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.16",
             "ebay_price": "3.45",
             "amazon_price": "1.39",
             "coolstuffinc_price": "0.99"

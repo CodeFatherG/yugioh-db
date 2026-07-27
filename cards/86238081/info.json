@@ -30,6 +30,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENO29",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Raging Tempest",
             "set_code": "RATE-EN048",
             "set_rarity": "Ultra Rare",
@@ -47,8 +54,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.41",
-            "tcgplayer_price": "1.06",
+            "cardmarket_price": "1.25",
+            "tcgplayer_price": "1.05",
             "ebay_price": "3.99",
             "amazon_price": "14.99",
             "coolstuffinc_price": "1.99"

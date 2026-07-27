@@ -30,6 +30,13 @@
             "set_price": "3.71"
         },
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENL18",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Maximum Gold",
             "set_code": "MAGO-EN054",
             "set_rarity": "Rare",
@@ -71,8 +78,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.44",
-            "tcgplayer_price": "0.30",
+            "cardmarket_price": "1.54",
+            "tcgplayer_price": "0.34",
             "ebay_price": "0.99",
             "amazon_price": "4.44",
             "coolstuffinc_price": "0.79"
