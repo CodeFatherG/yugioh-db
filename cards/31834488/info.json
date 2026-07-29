@@ -29,6 +29,13 @@
             "set_rarity": "Starlight Rare",
             "set_rarity_code": "(StR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "THANK YOU PACK",
+            "set_code": "TYP1-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -41,8 +48,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.17",
-            "tcgplayer_price": "0.22",
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.21",
             "ebay_price": "1.50",
             "amazon_price": "0.25",
             "coolstuffinc_price": "0.49"
