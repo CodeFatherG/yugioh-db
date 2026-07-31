@@ -1,6 +1,6 @@
 {
     "id": 92936364,
-    "name": "Red Dragon Archfiend's Chain",
+    "name": "Red Dragon Archfiend's Chains",
     "type": "Trap Card",
     "humanReadableCardType": "Continuous Trap",
     "frameType": "trap",
@@ -8,6 +8,29 @@
     "race": "Continuous",
     "archetype": "Archfiend",
     "ygoprodeck_url": "https://ygoprodeck.com/card/red-dragon-archfiend-s-chain-15630",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN009",
+            "set_rarity": "Grand Master Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN009",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN009",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 92936364,

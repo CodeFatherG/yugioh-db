@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "When a card or effect is activated that targets this card on the field (Quick Effect): You can discard 1 card; negate that effect. You can only use each of the following effects of \"Blue-Eyes White Dragon, the White Phantom Beast\" once per turn. When this card is added from the Deck to your hand, or your monster is destroyed by battle: You can reveal this card in your hand; Special Summon it. If this card is Special Summoned from the hand or Deck: You can destroy all monsters your opponent controls, also you cannot attack directly for the rest of this turn, except with \"Blue-Eyes\" monsters.",
+    "desc": "When this card is added from the Deck to your hand, or a monster you control is destroyed by battle: You can reveal this card in your hand; Special Summon it. If this card is Special Summoned from the hand or Deck: You can destroy all monsters your opponent controls, also you can only attack directly with \"Blue-Eyes\" monsters for the rest of this turn. You can only use each of the preceding effects of \"Blue-Eyes White Dragon, the White Phantom Beast\" once per turn. When a card or effect is activated that targets this card on the field (Quick Effect): You can discard 1 card; negate that effect.",
     "race": "Dragon",
     "atk": 3000,
     "def": 2500,
@@ -16,6 +16,29 @@
     "attribute": "LIGHT",
     "archetype": "Blue-Eyes",
     "ygoprodeck_url": "https://ygoprodeck.com/card/blue-eyes-white-dragon-the-white-phantom-beast-15642",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN001",
+            "set_rarity": "Grand Master Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN001",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 30397786,

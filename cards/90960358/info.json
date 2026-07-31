@@ -61,6 +61,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN121",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN121",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Pharaoh Tour 2006 promotional cards",
             "set_code": "PT02-EN002",
             "set_rarity": "Common",
@@ -85,7 +99,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.45",
+            "cardmarket_price": "0.47",
             "tcgplayer_price": "1.41",
             "ebay_price": "6.49",
             "amazon_price": "2.13",

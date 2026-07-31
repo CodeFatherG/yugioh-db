@@ -40,6 +40,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN124",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN124",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 22",
             "set_code": "OP22-EN006",
             "set_rarity": "Super Rare",
@@ -57,7 +71,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.53",
+            "cardmarket_price": "0.48",
             "tcgplayer_price": "0.49",
             "ebay_price": "5.45",
             "amazon_price": "3.99",

@@ -108,6 +108,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Winner's Pack 2026-2027",
+            "set_code": "WI26-EN020",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Yu-Gi-Oh! World Championship Tournament 2004 promotional cards",
             "set_code": "WC4-E003",
             "set_rarity": "Prismatic Secret Rare",
@@ -144,7 +151,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.36",
-            "tcgplayer_price": "0.67",
+            "tcgplayer_price": "0.74",
             "ebay_price": "1.90",
             "amazon_price": "16.98",
             "coolstuffinc_price": "1.99"

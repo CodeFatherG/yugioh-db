@@ -268,6 +268,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Winner's Pack 2026-2027",
+            "set_code": "WI26-EN021",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Zombie World Structure Deck",
             "set_code": "SDZW-EN025",
             "set_rarity": "Common",
@@ -289,7 +296,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.07",
+            "cardmarket_price": "0.05",
             "tcgplayer_price": "0.15",
             "ebay_price": "6.95",
             "amazon_price": "0.96",

@@ -72,6 +72,13 @@
             "set_rarity": "Secret Rare",
             "set_rarity_code": "(ScR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Winner's Pack 2026-2027",
+            "set_code": "WI26-EN009",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -84,8 +91,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "3.22",
-            "tcgplayer_price": "3.85",
+            "cardmarket_price": "3.23",
+            "tcgplayer_price": "3.31",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

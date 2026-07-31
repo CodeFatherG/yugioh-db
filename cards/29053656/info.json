@@ -1,6 +1,6 @@
 {
     "id": 29053656,
-    "name": "Crimson Dragon Quetzacoatl",
+    "name": "Crimson Dragon Quetzalcoatl",
     "typeline": [
         "Dragon",
         "Synchro",
@@ -16,6 +16,29 @@
     "level": 12,
     "attribute": "DARK",
     "ygoprodeck_url": "https://ygoprodeck.com/card/crimson-dragon-quetzacoatl-15637",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN007",
+            "set_rarity": "Grand Master Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN007",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN007",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 29053656,

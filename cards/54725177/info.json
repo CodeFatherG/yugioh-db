@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can Special Summon this card (from your hand) by Tributing 2 face-up monsters on either field with 2000 or more ATK, including a monster you control. You can only Special Summon \"Galaxy-Eyes Photon Change Dragon\" once per turn this way. During the Main Phase (Quick Effect): You can banish this card you control; Special Summon 1 \"Galaxy-Eyes Photon Dragon\" from your Deck or GY, then you can banish 1 monster your opponent controls that was Special Summoned from the Extra Deck until the End Phase. You can only use this effect of \"Galaxy-Eyes Photon Change Dragon\" once per turn.",
+    "desc": "You can Special Summon this card (from your hand) by Tributing 2 face-up monsters with 2000 or more ATK from anywhere on the field, including a monster you control. You can only Special Summon \"Galaxy-Eyes Photon Change Dragon\" once per turn this way. During the Main Phase (Quick Effect): You can banish this card you control; Special Summon 1 \"Galaxy-Eyes Photon Dragon\" from your Deck or GY, then you can banish 1 monster your opponent controls that was Special Summoned from the Extra Deck, until the End Phase. You can only use this effect of \"Galaxy-Eyes Photon Change Dragon\" once per turn.",
     "race": "Dragon",
     "atk": 3000,
     "def": 2500,
@@ -16,6 +16,29 @@
     "attribute": "LIGHT",
     "archetype": "Change",
     "ygoprodeck_url": "https://ygoprodeck.com/card/galaxy-eyes-photon-change-dragon-15618",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN011",
+            "set_rarity": "Grand Master Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN011",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 54725177,

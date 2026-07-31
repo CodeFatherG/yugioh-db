@@ -126,6 +126,13 @@
             "set_rarity": "Starlight Rare",
             "set_rarity_code": "(StR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Winner's Pack 2026-2027",
+            "set_code": "WI26-EN029",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
         }
     ],
     "banlist_info": {
@@ -142,7 +149,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.45",
-            "tcgplayer_price": "0.44",
+            "tcgplayer_price": "0.45",
             "ebay_price": "9.99",
             "amazon_price": "59.88",
             "coolstuffinc_price": "13.99"
