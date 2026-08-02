@@ -2,14 +2,14 @@
     "id": 19951423,
     "name": "S-Force Signify",
     "typeline": [
-        "Fairy",
+        "Warrior",
         "Effect"
     ],
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
     "desc": "If this card is Normal or Special Summoned: You can add 1 \"S-Force\" monster from your Deck to your hand, except \"S-Force Signify\", then if your opponent controls a monster in this card's column, you can draw 1 card. If your opponent activates a monster effect in the same column as a monster you control (except during the Damage Step): You can make all \"S-Force\" monsters you control gain 1000 ATK. You can only use each effect of \"S-Force Signify\" once per turn.",
-    "race": "Fairy",
+    "race": "Warrior",
     "atk": 1600,
     "def": 0,
     "level": 3,
@@ -35,8 +35,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.05",
-            "tcgplayer_price": "0.17",
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.16",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

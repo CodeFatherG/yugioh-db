@@ -42,6 +42,13 @@
             "set_rarity": "Common",
             "set_rarity_code": "(C)",
             "set_price": "0"
+        },
+        {
+            "set_name": "THANK YOU PACK",
+            "set_code": "TYP1-EN030",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -55,7 +62,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.08",
-            "tcgplayer_price": "0.18",
+            "tcgplayer_price": "0.19",
             "ebay_price": "2.95",
             "amazon_price": "6.84",
             "coolstuffinc_price": "1.99"
