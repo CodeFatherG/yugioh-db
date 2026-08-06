@@ -17,6 +17,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENO19",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENO19",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Dragon Decks",
             "set_code": "LEDD-ENC13",
             "set_rarity": "Common",
@@ -49,7 +63,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.10",
-            "tcgplayer_price": "0.20",
+            "tcgplayer_price": "0.16",
             "ebay_price": "1.95",
             "amazon_price": "1.48",
             "coolstuffinc_price": "0.99"

@@ -26,6 +26,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENS27",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENS27",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Maximum Gold",
             "set_code": "MAGO-EN029",
             "set_rarity": "Premium Gold Rare",
@@ -50,7 +64,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.20",
+            "cardmarket_price": "0.25",
             "tcgplayer_price": "0.99",
             "ebay_price": "12.95",
             "amazon_price": "4.69",

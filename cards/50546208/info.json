@@ -25,6 +25,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENL08",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Legendary Arc-V Decks",
+            "set_code": "LAVD-ENL08",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Duelists: Season 2",
             "set_code": "LDS2-EN128",
             "set_rarity": "Common",
@@ -56,8 +70,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.09",
-            "tcgplayer_price": "0.20",
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.21",
             "ebay_price": "0.99",
             "amazon_price": "0.60",
             "coolstuffinc_price": "0.79"
