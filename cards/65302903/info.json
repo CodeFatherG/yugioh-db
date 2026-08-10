@@ -1,0 +1,37 @@
+{
+    "id": 65302903,
+    "name": "Dominusteer Rosepamela",
+    "typeline": [
+        "Spellcaster",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "Face-down cards in your Spell & Trap Zone cannot be destroyed by card effects. You can only use each of the following effects of \"Dominusteer Rosepamela\" once per turn. During your opponent's turn (Quick Effect): You can reveal this card in your hand; add 1 \"Dominus Purge\" card from your Deck to your hand, then discard 1 card. If this card is Normal or Special Summoned: You can Set 1 \"Dominators\" or \"Dominus Purge\" Trap from your Deck or GY. It can be activated this turn.",
+    "race": "Spellcaster",
+    "atk": 0,
+    "def": 2000,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "Dominus",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dominusteer-rosepamela-15872",
+    "card_images": [
+        {
+            "id": 65302903,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65302903.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65302903.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65302903.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
