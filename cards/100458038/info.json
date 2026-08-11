@@ -1,0 +1,36 @@
+{
+    "id": 100458038,
+    "name": "Emptiness Devouring Xenovader\u25b3 Jahannam",
+    "typeline": [
+        "Psychic",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: Banish (face-down) the top 8 cards of your Deck. Gains these effects based on the total number of face-down banished cards.\r\n\u25cf 10+: Cannot be destroyed by battle.\r\n\u25cf 20+: Once per turn (Quick Effect): You can target 1 card on the field; destroy it.\r\n\u25cf 30+: Once per turn, during your opponent's End Phase: You can add 1 of your face-down banished cards to your hand.\r\n\u25cf 40+: Skip both players' Draw Phases.",
+    "race": "Psychic",
+    "atk": 3000,
+    "def": 2400,
+    "level": 8,
+    "attribute": "DARK",
+    "archetype": "Xenovader\u25b3",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/emptiness-devouring-xenovader\u7b06\uff73-jahannam-15882",
+    "card_images": [
+        {
+            "id": 100458038,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100458038.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100458038.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100458038.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
