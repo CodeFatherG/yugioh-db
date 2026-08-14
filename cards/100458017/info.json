@@ -1,0 +1,36 @@
+{
+    "id": 100458017,
+    "name": "Raise Moon Elegance Carol",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "When you draw this card: You can reveal it; Special Summon it. You can Normal Summon this card without Tributing, but its original ATK becomes 700. If this card is Normal or Special Summoned from the hand: You can draw 1 card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except LIGHT Xyz Monsters. You cannot add cards from the Deck to the hand the turn you activate this effect, except by drawing them.",
+    "race": "Zombie",
+    "atk": 1400,
+    "def": 1400,
+    "level": 7,
+    "attribute": "DARK",
+    "archetype": "Raise Moon",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/raise-moon-elegance-carol-15893",
+    "card_images": [
+        {
+            "id": 100458017,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100458017.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100458017.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100458017.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

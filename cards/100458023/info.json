@@ -1,0 +1,37 @@
+{
+    "id": 100458023,
+    "name": "Raise Moon Hope Squeeze - Jackpot",
+    "typeline": [
+        "Machine",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2+ Level 7 monsters\r\nYour opponent's monsters cannot target monsters for attacks, except this one. If this card is Xyz Summoned, or a monster(s) is Special Summoned from the hand: You can detach any number of materials from this card; place that many cards your opponent controls on the bottom of the Deck in any order. You can only use this effect of \"Raise Moon Hope Squeeze - Jackpot\" once per turn. Each time your opponent makes a card(s) leave their Deck, except by drawing them: You can attach the top card of their Deck to this card.",
+    "race": "Machine",
+    "atk": 1400,
+    "def": 2800,
+    "level": 7,
+    "attribute": "LIGHT",
+    "archetype": "Raise Moon",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/raise-moon-hope-squeeze-jackpot-15887",
+    "card_images": [
+        {
+            "id": 100458023,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100458023.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100458023.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100458023.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
