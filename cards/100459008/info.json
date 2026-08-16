@@ -1,0 +1,35 @@
+{
+    "id": 100459008,
+    "name": "Gilford the Lightning, the Warrior of Thunderbolts",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can Special Summon this card (from your hand) by Tributing 3 monsters, and if you Tributed a monster(s) that is owned by your opponent, your opponent cannot activate cards or effects when this card is Special Summoned this way. If Summoned this way: Your opponent must send all monsters they control to the GY. If this card is sent to the GY: You can activate this effect; during the End Phase of this turn, add 1 Warrior monster from your Deck to your hand. You can only use this effect of \"Gilford the Lightning, the Warrior of Thunderbolts\" once per turn.",
+    "race": "Warrior",
+    "atk": 2800,
+    "def": 1400,
+    "level": 8,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gilford-the-lightning-the-warrior-of-thunderbolts-15900",
+    "card_images": [
+        {
+            "id": 100459008,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100459008.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100459008.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100459008.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

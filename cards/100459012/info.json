@@ -1,0 +1,35 @@
+{
+    "id": 100459012,
+    "name": "Zombyra",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "When this card declares an attack: You lose 500 LP, and if you do, this card gains 500 ATK. When a monster is destroyed by battle: You can equip this card from your GY to the monster that destroyed that monster, then you can destroy the 1 monster your opponent controls with the highest ATK (your choice, if tied). The equipped monster's name becomes \"Zombyra\", also its effects are negated. When the equipped monster declares an attack: Its controller loses 500 LP, and if they do, the equipped monster gains 500 ATK.",
+    "race": "Warrior",
+    "atk": 2100,
+    "def": 500,
+    "level": 4,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zombyra-15894",
+    "card_images": [
+        {
+            "id": 100459012,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100459012.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100459012.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100459012.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

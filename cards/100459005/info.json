@@ -1,0 +1,36 @@
+{
+    "id": 100459005,
+    "name": "Barrel Dragon the Machine Dragon",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If you control no monsters, you can Normal Summon this card without Tributing. You can only use each of the following effects of \"Barrel Dragon the Machine Dragon\" once per turn. During your Main Phase: You can add 1 DARK Machine monster from your Deck to your hand, except \"Barrel Dragon the Machine Dragon\". During the Battle Phase, if this card is in your GY because it was sent there from the field this turn (Quick Effect): You can Special Summon it, and if you do, toss a coin 3 times, then you can destroy monsters on the field up to the number of heads.",
+    "race": "Machine",
+    "atk": 2600,
+    "def": 2200,
+    "level": 7,
+    "attribute": "DARK",
+    "archetype": "Gun Dragon",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/barrel-dragon-the-machine-dragon-15901",
+    "card_images": [
+        {
+            "id": 100459005,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100459005.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100459005.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100459005.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
