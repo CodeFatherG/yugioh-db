@@ -1,0 +1,37 @@
+{
+    "id": 100458022,
+    "name": "Cielo, the Night Sky of Raise Moon - No More Bets!",
+    "typeline": [
+        "Spellcaster",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2 Level 7 \"Raise Moon\" monsters\r\nCannot be used as material for a Fusion, Xyz, or Link Summon. If this card in your possession is sent to your GY by an opponent's card: You can draw 1 card. Gains these effects while in the Extra Monster Zone.\r\n\u25cf Unaffected by other cards' effects.\r\n\u25cf When a card or effect activated by your opponent resolves that includes an effect that adds a card(s) from the Deck to the hand, you can make that effect become \"Draw 1 card\".\r\n\u25cf Once per turn (Quick Effect): You can detach 1 material from this card; draw 1 card.",
+    "race": "Spellcaster",
+    "atk": 2100,
+    "def": 2100,
+    "level": 7,
+    "attribute": "LIGHT",
+    "archetype": "Raise Moon",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cielo-the-night-sky-of-raise-moon-no-more-bets-15912",
+    "card_images": [
+        {
+            "id": 100458022,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100458022.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100458022.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100458022.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
