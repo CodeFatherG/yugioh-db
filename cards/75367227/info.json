@@ -33,6 +33,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN083",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Shadow Specters",
             "set_code": "SHSP-EN052",
             "set_rarity": "Ultimate Rare",
@@ -64,7 +71,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "4.76",
+            "cardmarket_price": "4.65",
             "tcgplayer_price": "4.50",
             "ebay_price": "4.95",
             "amazon_price": "31.94",

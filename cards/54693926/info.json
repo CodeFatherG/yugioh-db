@@ -72,6 +72,27 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN040",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN040",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN040",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Albaz Strike",
             "set_code": "SDAZ-EN030",
             "set_rarity": "Common",
@@ -124,7 +145,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.16",
+            "cardmarket_price": "0.23",
             "tcgplayer_price": "0.34",
             "ebay_price": "2.34",
             "amazon_price": "3.46",

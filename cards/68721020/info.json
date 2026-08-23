@@ -4,10 +4,33 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Target 1 face-up monster on the field; equip this card to it as an Equip Card with these effects.\r\n\u25cf The equipped monster is unaffected by Spell effects.\r\n\u25cf Once per turn: You can destroy this card, and if you do, add 1 \"Malefic\" card from your Deck to your hand.\r\nIf a card is in the Field Zone: You can banish this card and 1 other \"Malefic\" card from your GY; destroy all monsters on the field. You can only use each effect of \"Malefic Force\" once per turn.",
+    "desc": "Target 1 face-up monster on the field; equip this card to it with the following effects.\r\n\u25cf The equipped monster is unaffected by Spell effects.\r\n\u25cf Once per turn: You can destroy this card, and if you do, add 1 \"Malefic\" card from your Deck to your hand.\r\nIf a card is in the Field Zone: You can banish this card and 1 other \"Malefic\" card from your GY; destroy all monsters on the field. You can only use each effect of \"Malefic Force\" once per turn.",
     "race": "Normal",
     "archetype": "Malefic",
     "ygoprodeck_url": "https://ygoprodeck.com/card/malefic-force-15571",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN024",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN024",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN024",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 68721020,

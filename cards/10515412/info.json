@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/lightstorm-dragon-14807",
     "card_sets": [
         {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN082",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN043",
             "set_rarity": "Common",
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.12",
-            "tcgplayer_price": "0.37",
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.35",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

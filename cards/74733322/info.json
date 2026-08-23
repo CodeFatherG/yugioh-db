@@ -8,6 +8,15 @@
     "race": "Field",
     "archetype": "Artmage",
     "ygoprodeck_url": "https://ygoprodeck.com/card/artmage-academic-arcane-arts-acropolis-15054",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN101",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 74733322,
@@ -18,8 +27,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "6.85",
-            "tcgplayer_price": "3.72",
+            "cardmarket_price": "6.40",
+            "tcgplayer_price": "3.43",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

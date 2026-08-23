@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/tenyi-spirit-suruya-14764",
     "card_sets": [
         {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN056",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN021",
             "set_rarity": "Quarter Century Secret Rare",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "7.47",
-            "tcgplayer_price": "7.84",
+            "cardmarket_price": "7.36",
+            "tcgplayer_price": "7.80",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

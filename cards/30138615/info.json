@@ -9,7 +9,7 @@
     "type": "Fusion Monster",
     "humanReadableCardType": "Fusion Effect Monster",
     "frameType": "fusion",
-    "desc": "2 monsters with different Types (Fiend, Illusion, or Spellcaster)\r\nIf this card is Special Summoned, or at the end of the Battle Phase, if this card battled: You can equip 1 monster your opponent controls to this card as an Equip Spell. You can only use this effect of \"Nightmare-Eyes Restrict\" once per turn. Gains ATK equal to the combined ATK of those equipped monsters. If this card battles a monster, neither can be destroyed by that battle. Your opponent's monsters cannot attack monsters, except this one.",
+    "desc": "2 monsters with different Types (Fiend, Illusion, or Spellcaster)\r\nGains ATK equal to the combined ATK of the monsters equipped to this card by its effect. If this card battles a monster, neither can be destroyed by that battle. Your opponent's monsters cannot attack any monsters, except this one. If this card is Special Summoned, or at the end of the Battle Phase, if this card battled: You can equip 1 monster your opponent controls to this card as an Equip Spell. You can only use this effect of \"Nightmare-Eyes Restrict\" once per turn.",
     "race": "Illusion",
     "atk": 0,
     "def": 0,
@@ -17,6 +17,22 @@
     "attribute": "DARK",
     "archetype": "Eyes Restrict",
     "ygoprodeck_url": "https://ygoprodeck.com/card/nightmare-eyes-restrict-15410",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN122",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN122",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 30138615,

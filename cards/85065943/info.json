@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/saint-azamina-14777",
     "card_sets": [
         {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN077",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN036",
             "set_rarity": "Quarter Century Secret Rare",
@@ -43,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "9.49",
-            "tcgplayer_price": "10.66",
+            "cardmarket_price": "9.20",
+            "tcgplayer_price": "10.82",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

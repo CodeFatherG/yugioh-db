@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/sinful-spoils-of-the-white-forest-14773",
     "card_sets": [
         {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN099",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN055",
             "set_rarity": "Common",
@@ -28,7 +35,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.12",
-            "tcgplayer_price": "0.23",
+            "tcgplayer_price": "0.25",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

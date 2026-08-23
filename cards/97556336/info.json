@@ -31,6 +31,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN063",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Ultimate Tournament Pack 1",
             "set_code": "UP01-EN004",
             "set_rarity": "Ultimate Rare",
@@ -55,8 +62,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "10.57",
-            "tcgplayer_price": "13.87",
+            "cardmarket_price": "10.20",
+            "tcgplayer_price": "13.73",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

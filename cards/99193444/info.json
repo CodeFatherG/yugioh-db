@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/poseidra-the-storming-atlantean-14767",
     "card_sets": [
         {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN055",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN016",
             "set_rarity": "Quarter Century Secret Rare",
@@ -43,7 +50,7 @@
     "card_prices": [
         {
             "cardmarket_price": "7.08",
-            "tcgplayer_price": "5.84",
+            "tcgplayer_price": "5.74",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -25,6 +25,27 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/a-bao-a-qu-the-lightless-shadow-14802",
     "card_sets": [
         {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN038",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN038",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN038",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN049",
             "set_rarity": "Quarter Century Secret Rare",
@@ -49,8 +70,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "17.68",
-            "tcgplayer_price": "20.64",
+            "cardmarket_price": "17.94",
+            "tcgplayer_price": "20.76",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

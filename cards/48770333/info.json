@@ -25,6 +25,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN046",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Shining Victories",
             "set_code": "SHVI-EN087",
             "set_rarity": "Rare",
@@ -49,8 +56,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.24",
-            "tcgplayer_price": "0.24",
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.23",
             "ebay_price": "1.64",
             "amazon_price": "3.59",
             "coolstuffinc_price": "0.39"

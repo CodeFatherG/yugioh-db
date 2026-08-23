@@ -46,6 +46,27 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN035",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN035",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN035",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 18",
             "set_code": "OP18-EN002",
             "set_rarity": "Ultimate Rare",
@@ -106,7 +127,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.95",
-            "tcgplayer_price": "1.74",
+            "tcgplayer_price": "1.67",
             "ebay_price": "15.99",
             "amazon_price": "15.41",
             "coolstuffinc_price": "13.99"

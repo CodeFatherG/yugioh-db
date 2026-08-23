@@ -20,6 +20,22 @@
     "archetype": "Dracoslayer",
     "scale": 2,
     "ygoprodeck_url": "https://ygoprodeck.com/card/wind-unicorn-parallel-the-dracoslayer-15406",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN125",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN125",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 39016067,

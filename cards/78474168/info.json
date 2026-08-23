@@ -51,6 +51,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN115",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 30",
             "set_code": "OP30-EN023",
             "set_rarity": "Common",
@@ -103,7 +110,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.42",
+            "cardmarket_price": "0.30",
             "tcgplayer_price": "0.24",
             "ebay_price": "12.00",
             "amazon_price": "1.60",

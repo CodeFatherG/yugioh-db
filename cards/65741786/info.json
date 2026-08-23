@@ -107,6 +107,27 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN029",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN029",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN029",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Maximum Gold: El Dorado",
             "set_code": "MGED-EN035",
             "set_rarity": "Premium Gold Rare",
@@ -144,8 +165,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.15",
-            "tcgplayer_price": "0.18",
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.20",
             "ebay_price": "4.00",
             "amazon_price": "7.92",
             "coolstuffinc_price": "5.99"

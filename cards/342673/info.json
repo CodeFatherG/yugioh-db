@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/dark-magician-the-magician-of-black-magic-14380",
     "card_sets": [
         {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN051",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Infinite Forbidden",
             "set_code": "INFO-EN006",
             "set_rarity": "Quarter Century Secret Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "4.60",
-            "tcgplayer_price": "7.26",
+            "cardmarket_price": "4.56",
+            "tcgplayer_price": "7.25",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

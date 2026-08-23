@@ -7,6 +7,29 @@
     "desc": "(This card is not treated as a \"Rainbow Bridge\" card.)\r\nBanish 3 Level 10 or higher monsters from your Extra Deck, including a LIGHT Synchro Monster; add 1 Field Spell from your Deck to your hand. You can only activate 1 \"Rainbow Bridge Bifrost\" per turn.",
     "race": "Normal",
     "ygoprodeck_url": "https://ygoprodeck.com/card/rainbow-bridge-bifrost-15569",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN023",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN023",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN023",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 32236916,

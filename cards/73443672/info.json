@@ -4,9 +4,32 @@
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "Activate this card if both players have 5 or more monsters in their GYs; destroy as many monsters on the field as possible, then each player banishes (face-down) all monsters from their Deck, then you can Special Summon 1 Normal Monster from your GY. Once per turn, during the Standby Phase: Activate this effect; each player can Special Summon 1 monster from their GY, ignoring its Summoning conditions, but banish it when it leaves the field. You can only activate 1 \"Underworld Circle\" per Duel.",
+    "desc": "Activate this card if both players have 5 or more monsters in their GYs; destroy as many monsters on the field as possible, then each player banishes (face-down) as many monsters from their Deck as possible, then you can Special Summon 1 Normal Monster from your GY. Once per turn, during the Standby Phase: Activate this effect; each player can Special Summon 1 monster from their GY, ignoring its Summoning conditions, but banish it when it leaves the field. You can only activate 1 \"Underworld Circle\" per Duel.",
     "race": "Continuous",
     "ygoprodeck_url": "https://ygoprodeck.com/card/underworld-circle-15582",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN021",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN021",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN021",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 73443672,

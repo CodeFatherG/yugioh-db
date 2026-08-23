@@ -1,6 +1,6 @@
 {
     "id": 3739500,
-    "name": "End of the World Ruler",
+    "name": "Ruler of the End of the World",
     "typeline": [
         "Fiend",
         "Ritual",
@@ -17,6 +17,22 @@
     "attribute": "DARK",
     "archetype": "End of the World",
     "ygoprodeck_url": "https://ygoprodeck.com/card/end-of-the-world-ruler-15411",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN121",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN121",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 3739500,

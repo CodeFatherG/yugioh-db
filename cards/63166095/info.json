@@ -73,6 +73,27 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN039",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN039",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN039",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Quarter Century Bonanza",
             "set_code": "RA03-EN269",
             "set_rarity": "Platinum Secret Rare",
@@ -97,8 +118,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
-            "tcgplayer_price": "0.11",
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.12",
             "ebay_price": "0.99",
             "amazon_price": "5.40",
             "coolstuffinc_price": "1.99"
