@@ -1,0 +1,35 @@
+{
+    "id": 77699839,
+    "name": "Crocodile",
+    "typeline": [
+        "Reptile",
+        "Normal"
+    ],
+    "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
+    "desc": "''Thirteen stripes on its belly. Thirteen holes on its feet. Wherever people express themselves without hesitation, the crocodile is said to appear with a quiet grin.''",
+    "race": "Reptile",
+    "atk": 1300,
+    "def": 1300,
+    "level": 3,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crocodile-15914",
+    "card_images": [
+        {
+            "id": 77699839,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77699839.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77699839.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77699839.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
