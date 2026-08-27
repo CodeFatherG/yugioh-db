@@ -29,6 +29,13 @@
             "set_rarity": "Common",
             "set_rarity_code": "(C)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Monsters",
+            "set_code": "MAMO-EN087",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -41,7 +48,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.08",
+            "cardmarket_price": "0.10",
             "tcgplayer_price": "0.31",
             "ebay_price": "3.95",
             "amazon_price": "1.70",
