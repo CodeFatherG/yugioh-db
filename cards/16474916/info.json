@@ -25,6 +25,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Limited Pack World Championship 2026",
+            "set_code": "26LP-EN016",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Limited Pack World Championship 2026",
+            "set_code": "26LP-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Grand Creators",
             "set_code": "GRCR-EN013",
             "set_rarity": "Super Rare",
@@ -42,7 +56,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.58",
+            "cardmarket_price": "0.59",
             "tcgplayer_price": "0.47",
             "ebay_price": "0.99",
             "amazon_price": "16.98",

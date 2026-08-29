@@ -30,6 +30,20 @@
             "set_rarity": "Ultra Rare",
             "set_rarity_code": "(UR)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Limited Pack World Championship 2026",
+            "set_code": "26LP-EN014",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Limited Pack World Championship 2026",
+            "set_code": "26LP-EN014",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -42,8 +56,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.90",
-            "tcgplayer_price": "0.80",
+            "cardmarket_price": "0.86",
+            "tcgplayer_price": "0.72",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

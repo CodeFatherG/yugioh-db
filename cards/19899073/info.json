@@ -40,6 +40,20 @@
             "set_price": "0"
         },
         {
+            "set_name": "Limited Pack World Championship 2026",
+            "set_code": "26LP-EN021",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Limited Pack World Championship 2026",
+            "set_code": "26LP-EN021",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN092",
             "set_rarity": "Quarter Century Secret Rare",
@@ -64,8 +78,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.14",
-            "tcgplayer_price": "0.15",
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.13",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
