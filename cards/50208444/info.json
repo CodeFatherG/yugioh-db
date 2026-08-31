@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Neither player can activate cards or effects in response to the activation of this card's effects. If you have 3 or more different Attributes in your GY and this card is in your hand: You can target 1 monster in your GY; Special Summon both it and this card. If you have 3 or more different Attributes in your GY: You can Special Summon 1 monster from your Deck with a different Attribute from the monsters in your field and GY. You can only use each effect of \"Elemental Saga Doriado\" once per turn.",
+    "desc": "If this card is in your hand, and you have 3 or more different Attributes among the monsters in your GY: You can target 1 monster in your GY; Special Summon both it and this card. If you have 3 or more different Attributes among the monsters in your GY: You can Special Summon 1 monster from your Deck with a different Attribute from the monsters in your field or GY. You can only use each effect of \"Elemental Saga Doriado\" once per turn, also neither player can activate cards or effects in response to either of these effect activations.",
     "race": "Spellcaster",
     "atk": 2400,
     "def": 2800,
@@ -16,6 +16,15 @@
     "attribute": "LIGHT",
     "archetype": "Doriado",
     "ygoprodeck_url": "https://ygoprodeck.com/card/elemental-saga-doriado-15839",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN028",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 50208444,
