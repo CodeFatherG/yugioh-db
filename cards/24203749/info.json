@@ -1,6 +1,6 @@
 {
     "id": 24203749,
-    "name": "The World's Greatest Gallant Thief",
+    "name": "The Great Gallant Bandit",
     "typeline": [
         "Warrior",
         "Effect"
@@ -8,13 +8,29 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If you control no monsters, you can Tribute Summon this card face-up by Tributing monsters from your hand and/or your opponent's field. You can only use each of the following effects of \"The World's Greatest Gallant Thief\" once per turn. When your opponent activates a card effect in the hand, GY, or banishment, while you control this Normal Summoned/Set card (Quick Effect): You can negate that effect, and if you do, destroy that card. During the Battle Phase (Quick Effect): You can reveal your entire hand; change all monsters your opponent controls to Defense Position.",
+    "desc": "You can Tribute Summon this card face-up by Tributing monsters in your hand and/or your opponent's field, while you control no monsters. You can only use each of the following effects of \"The Great Gallant Bandit\" once per turn. When your opponent activates a card effect in the hand, GY, or banishment, and you control this Normal Summoned/Set card (Quick Effect): You can negate that effect, and if you do, destroy that card. During the Battle Phase (Quick Effect): You can reveal your entire hand; change all monsters your opponent controls to Defense Position.",
     "race": "Warrior",
     "atk": 2500,
     "def": 2000,
     "level": 10,
     "attribute": "WIND",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/the-world-s-greatest-gallant-thief-15820",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-great-gallant-bandit-15820",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN027",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN027",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 24203749,

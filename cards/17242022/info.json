@@ -17,6 +17,22 @@
     "attribute": "DARK",
     "archetype": "Red-Eyes",
     "ygoprodeck_url": "https://ygoprodeck.com/card/red-eyes-black-dragon-exceed-15765",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN036",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN036",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 17242022,

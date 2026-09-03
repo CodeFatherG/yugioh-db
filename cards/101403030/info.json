@@ -1,0 +1,37 @@
+{
+    "id": 101403030,
+    "name": "The Sun God of Darkness - The Winged Dragon of Ra",
+    "typeline": [
+        "Divine-Beast",
+        "Fusion",
+        "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "\"The Winged Dragon of Ra\" + 3 \"Sun God\" monsters\r\nUnaffected by other cards' effects. Once per turn, during the Main Phase (Quick Effect): You can discard any number of \"Sun God\" cards, then choose that many of your opponent's occupied Main Monster Zones; your opponent must send the monsters in those zones to the GY. When an attack is declared involving this card: You can pay LP so that you only have 1 left; this card gains ATK/DEF equal to the amount of LP paid and the total ATK of all \"Sun God\" monsters currently in your GY.",
+    "race": "Divine-Beast",
+    "atk": -1,
+    "def": -1,
+    "level": 10,
+    "attribute": "DIVINE",
+    "archetype": "Ra",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-sun-god-of-darkness-the-winged-dragon-of-ra-15916",
+    "card_images": [
+        {
+            "id": 101403030,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403030.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403030.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403030.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
