@@ -1,0 +1,36 @@
+{
+    "id": 100200297,
+    "name": "Armor Wizard Pazoo",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "(This card is always treated as a \"Prophecy\" card.)\r\nIf this card is in your hand or GY: You can target 1 face-up monster you control; equip this card to it as an Equip Spell with the following effects. You can only use this effect of \"Armor Wizard Pazoo\" once per turn.\r\n\u25cf The equipped monster gains 2100 ATK/DEF while your LP are 4000 or less.\r\n\u25cf When a card or effect activated by your opponent resolves, if you control a card with an effect that requires a die roll, you can negate the activated effect, then banish this card.",
+    "race": "Spellcaster",
+    "atk": 0,
+    "def": 700,
+    "level": 3,
+    "attribute": "LIGHT",
+    "archetype": "Prophecy",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/armor-wizard-pazoo-15918",
+    "card_images": [
+        {
+            "id": 100200297,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100200297.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100200297.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100200297.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
