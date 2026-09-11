@@ -1,0 +1,35 @@
+{
+    "id": 100459020,
+    "name": "Knight of Twin Swords",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Can make up to 2 attacks on monsters during each Battle Phase. You can only use each of the following effects of Knight of Twin Swords\" once per turn. If this card is in your hand and you control a card with an effect that requires a die roll: You can Special Summon this card. During your Main Phase: You can roll a six-sided die 3 times, and if you do, this card gains ATK equal to the total x 350 (until the end of this turn), then if 2 or more of the results were the same, you can Special Summon 1 monster from your hand.",
+    "race": "Warrior",
+    "atk": 350,
+    "def": 200,
+    "level": 3,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/knight-of-twin-swords-15921",
+    "card_images": [
+        {
+            "id": 100459020,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100459020.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100459020.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100459020.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

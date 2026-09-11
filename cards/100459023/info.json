@@ -1,0 +1,36 @@
+{
+    "id": 100459023,
+    "name": "Gearfried the Steel Knight",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If a monster(s) you control was destroyed by battle or card effect this turn (Quick Effect): You can Special Summon this card from your hand, and if you do, equip 1 monster from your GY to it as an Equip Spell that gives it 800 ATK. During your Main Phase: You can destroy as many cards equipped to this card as possible, then if you destroyed a Monster Card by this effect, you can add 1 monster from your Deck to your hand with the same Attribute and Type as 1 of them, but a different Level. You can only use each effect of \"Gearfried the Steel Knight\" once per turn.",
+    "race": "Warrior",
+    "atk": 1800,
+    "def": 1600,
+    "level": 4,
+    "attribute": "EARTH",
+    "archetype": "Gearfried",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gearfried-the-steel-knight-15922",
+    "card_images": [
+        {
+            "id": 100459023,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100459023.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100459023.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100459023.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

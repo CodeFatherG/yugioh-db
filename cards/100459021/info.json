@@ -1,0 +1,27 @@
+{
+    "id": 100459021,
+    "name": "Flashforce Sword",
+    "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
+    "desc": "Banish (face-up) 1 random card from your opponent's hand (until the Standby Phase of the next turn), then if this card was Set before activation and it banished a monster, you can apply this effect based on its Level.\r\n\u25cf 4 or lower: Your opponent banishes all monsters with its same name from their hand, Deck, and GY.\r\n\u25cf 5 or higher: Add 1 Level 5 or higher monster with the same Type, Attribute, and/or Level from your Deck to your hand.\r\nYou can only activate 1 \"Flashforce Sword\" per turn.",
+    "race": "Quick-Play",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/flashforce-sword-15923",
+    "card_images": [
+        {
+            "id": 100459021,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100459021.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100459021.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100459021.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
