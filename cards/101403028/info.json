@@ -1,0 +1,37 @@
+{
+    "id": 101403028,
+    "name": "Reindsurm Giriakarma",
+    "typeline": [
+        "Insect",
+        "Ritual",
+        "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with \"Reindsurm Conquest\". When your opponent activates a monster effect in the field or GY and you control this Ritual Summoned card (Quick Effect): You can negate the activation, then you can shuffle 1 monster each from both your opponent's field and GY into the Deck, also if either of them was a Dragon monster, double this card's ATK. If this card and a LIGHT \"Reindsurm\" monster are in your GY: You can add this card to your hand. You can only use each effect of \"Reindsurm Giriakarma\" once per turn.",
+    "race": "Insect",
+    "atk": 3300,
+    "def": 1300,
+    "level": 8,
+    "attribute": "DARK",
+    "archetype": "Reindsurm",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/reindsurm-giriakarma-15939",
+    "card_images": [
+        {
+            "id": 101403028,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403028.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403028.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403028.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

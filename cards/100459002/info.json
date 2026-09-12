@@ -1,0 +1,36 @@
+{
+    "id": 100459002,
+    "name": "Perfect Eclosion - Perfectly Ultimate Great Moth",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 6 or more Insect monsters in your GY. You can only Special Summon \"Perfect Eclosion - Perfectly Ultimate Great Moth\" once per turn this way. If this card is Special Summoned: You can return as many cards your opponent controls as possible to the hand, then if you have a Normal Monster in your GY, you can make this card gain 300 ATK for each Insect monster in your GY. Each time your opponent Normal or Special Summons a monster(s): All monsters your opponent currently controls lose ATK equal to their own Level x 100.",
+    "race": "Insect",
+    "atk": 3500,
+    "def": 3000,
+    "level": 8,
+    "attribute": "EARTH",
+    "archetype": "Moth",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/perfect-eclosion-perfectly-ultimate-great-moth-15930",
+    "card_images": [
+        {
+            "id": 100459002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100459002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100459002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100459002.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

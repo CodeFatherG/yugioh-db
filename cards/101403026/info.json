@@ -1,0 +1,37 @@
+{
+    "id": 101403026,
+    "name": "Reindsurm Carcasas",
+    "typeline": [
+        "Insect",
+        "Ritual",
+        "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with \"Reindsurm Conquest\". If this card is Ritual Summoned: You can send 2 \"Reindsurm\" cards from your Deck to the GY. If this card is sent to the GY, except by battle: You can Ritual Summon 1 Insect Ritual Monster from your hand, by Tributing monsters from your hand or field, and/or shuffling Insect and/or Dragon monsters from your GY into the Deck, whose total Levels equal or exceed its Level. You can only use each effect of \"Reindsurm Carcasas\" once per turn.",
+    "race": "Insect",
+    "atk": 2000,
+    "def": 1300,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "Reindsurm",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/reindsurm-carcasas-15938",
+    "card_images": [
+        {
+            "id": 101403026,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403026.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403026.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403026.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

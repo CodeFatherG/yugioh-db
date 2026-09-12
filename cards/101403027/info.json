@@ -1,0 +1,37 @@
+{
+    "id": 101403027,
+    "name": "Reindsurm Gigalovendra",
+    "typeline": [
+        "Insect",
+        "Ritual",
+        "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with \"Reindsurm Conquest\". (Quick Effect): You can send 2 cards from your hand to the GY, including this card; add 1 non-FIRE \"Reindsurm\" monster from your Deck to your hand. If this card is Ritual Summoned, or your opponent Special Summons a monster(s): You can shuffle up to 2 monsters on the field into the Deck. If this card and a WATER \"Reindsurm\" monster are in your GY: You can add this card to your hand. You can only use each effect of \"Reindsurm Gigalovendra\" once per turn.",
+    "race": "Insect",
+    "atk": 3000,
+    "def": 1100,
+    "level": 8,
+    "attribute": "FIRE",
+    "archetype": "Reindsurm",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/reindsurm-gigalovendra-15935",
+    "card_images": [
+        {
+            "id": 101403027,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403027.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403027.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403027.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
