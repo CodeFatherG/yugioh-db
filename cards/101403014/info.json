@@ -1,0 +1,37 @@
+{
+    "id": 101403014,
+    "name": "Salamangreat Bastella",
+    "typeline": [
+        "Cyberse",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "If you control no monsters, or all monsters you control are \"Salamangreat\" monsters: You can Special Summon this card from your hand, then you can increase or decrease the Level of 1 monster on the field by 1. If you Link Summon a Link-3 or higher FIRE Link Monster while this card is in your GY: You can banish this card; Set 1 \"Salamangreat\" Trap from your Deck. You can only use each effect of \"Salamangreat Bastella\" once per turn.",
+    "race": "Cyberse",
+    "atk": 1600,
+    "def": 1000,
+    "level": 3,
+    "attribute": "FIRE",
+    "archetype": "Salamangreat",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-bastella-15943",
+    "card_images": [
+        {
+            "id": 101403014,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403014.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403014.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403014.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
