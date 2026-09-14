@@ -1,0 +1,37 @@
+{
+    "id": 101403011,
+    "name": "Ann the White Crow Knight",
+    "typeline": [
+        "Illusion",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "You can reveal this card in your hand; Special Summon 1 \"White Crow\" monster from your hand, except \"Ann the White Crow Knight\". During the Main Phase (Quick Effect): You can target 1 \"White Crow\" monster you control; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell, and if you do, Special Summon 1 \"White Crow\" monster from your hand or GY, except \"Ann the White Crow Knight\". You can only use each effect of \"Ann the White Crow Knight\" once per turn.",
+    "race": "Illusion",
+    "atk": 1400,
+    "def": 900,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "White Crow",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ann-the-white-crow-knight-15951",
+    "card_images": [
+        {
+            "id": 101403011,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403011.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403011.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403011.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

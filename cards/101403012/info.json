@@ -1,0 +1,37 @@
+{
+    "id": 101403012,
+    "name": "Sinful Spoils of the White Crow Forest",
+    "typeline": [
+        "Spellcaster",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "You can Special Summon this card (from your hand) by placing 1 Level 1 FIRE Monster Card from your face-up field or GY on the bottom of the Deck. You can only Special Summon \"Sinful Spoils of the White Crow Forest\" once per turn this way. When your opponent activates a card or effect (Quick Effect): You can return this card to the hand, then target 1 monster in the face-up field or either GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell. You can only use this effect of \"Sinful Spoils of the White Crow Forest\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 2500,
+    "def": 2000,
+    "level": 7,
+    "attribute": "FIRE",
+    "archetype": "Sinful Spoils",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sinful-spoils-of-the-white-crow-forest-15949",
+    "card_images": [
+        {
+            "id": 101403012,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403012.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403012.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403012.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
