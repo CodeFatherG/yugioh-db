@@ -205,6 +205,20 @@
             "set_price": "2.39"
         },
         {
+            "set_name": "THANK YOU PACK",
+            "set_code": "TYP1-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "THANK YOU PACK",
+            "set_code": "TYP1-EN026",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "The Dark Emperor Structure Deck",
             "set_code": "SDDE-EN031",
             "set_rarity": "Common",
@@ -246,7 +260,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.12",
+            "cardmarket_price": "0.14",
             "tcgplayer_price": "0.20",
             "ebay_price": "1.33",
             "amazon_price": "0.33",

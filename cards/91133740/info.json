@@ -45,6 +45,20 @@
             "set_price": "1.27"
         },
         {
+            "set_name": "THANK YOU PACK",
+            "set_code": "TYP1-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "THANK YOU PACK",
+            "set_code": "TYP1-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Turbo Pack: Booster Five",
             "set_code": "TU05-EN003",
             "set_rarity": "Super Rare",
@@ -69,7 +83,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "2.53",
+            "cardmarket_price": "2.21",
             "tcgplayer_price": "2.48",
             "ebay_price": "7.00",
             "amazon_price": "1.00",

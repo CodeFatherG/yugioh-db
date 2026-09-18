@@ -1,0 +1,35 @@
+{
+    "id": 100459007,
+    "name": "Dark Necrofear, the Ruler of Demise",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by card effect. If you have 3 or more Fiend and/or Zombie monsters in your GY: You can Special Summon this card from your hand. If this card on the field is destroyed: You can add this card to your hand, and if you do, take control of 1 monster your opponent controls (until the End Phase), then you can inflict damage to your opponent equal to half its ATK. You can only use each effect of \"Dark Necrofear, the Ruler of Demise\" once per turn.",
+    "race": "Fiend",
+    "atk": 2200,
+    "def": 2800,
+    "level": 8,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-necrofear-the-ruler-of-demise-15960",
+    "card_images": [
+        {
+            "id": 100459007,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100459007.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100459007.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100459007.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
