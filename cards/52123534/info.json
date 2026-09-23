@@ -1,0 +1,36 @@
+{
+    "id": 52123534,
+    "name": "Kumenyo, the Nine-Hued Deer",
+    "typeline": [
+        "Spellcaster",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2+ Level 4 LIGHT and/or DARK monsters\r\nDuring the Main Phase (Quick Effect): You can detach 1 material from this card; attach 1 card from your hand, GY, or banishment to this card, except the detached material. You can only use this effect of \"Kumenyo, the Nine-Hued Deer\" once per turn. Gains the following effects, based on the number of different Monster Types attached to it.\r\n\u25cf 2+: Cannot be destroyed by card effects.\r\n\u25cf 3+: Draw 2 cards instead of 1 for your normal draw during your Draw Phase.",
+    "race": "Spellcaster",
+    "atk": 2500,
+    "def": 1800,
+    "level": 4,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kumenyo-the-nine-hued-deer-15974",
+    "card_images": [
+        {
+            "id": 52123534,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52123534.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52123534.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52123534.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

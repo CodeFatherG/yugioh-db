@@ -1,0 +1,35 @@
+{
+    "id": 87395095,
+    "name": "Half Slice of Nickeline",
+    "typeline": [
+        "Rock",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Special Summoned from the Deck: You can add 1 Level 4 or lower Rock monster from your Deck to your hand, except \"Half Slice of Nickeline\". If this card is sent to the GY as Synchro Material, you can (except during the Damage Step): Immediately after this effect resolves, Normal Summon 1 Rock monster. You can only use each effect of \"Half Slice of Nickeline\" once per turn.",
+    "race": "Rock",
+    "atk": 0,
+    "def": 0,
+    "level": 4,
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/half-slice-of-nickeline-15973",
+    "card_images": [
+        {
+            "id": 87395095,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87395095.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87395095.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87395095.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
