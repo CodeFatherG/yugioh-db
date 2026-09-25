@@ -1,6 +1,6 @@
 {
     "id": 82692552,
-    "name": "Coralianektes the Shimmering Shining Dragon",
+    "name": "Coralianectes, the Luminous Cradle Dragon",
     "typeline": [
         "Sea Serpent",
         "Effect"
@@ -8,13 +8,22 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is added to your hand, except by drawing it: You can reveal this card and 1 other WATER monster in your hand; Special Summon both, also you cannot Special Summon for the rest of this turn, except WATER monsters. You can only use this effect of \"Coralianektes the Shimmering Shining Dragon\" once per turn. While you control \"Umi\", your opponent cannot target WATER Link Monsters you control with card effects.",
+    "desc": "While you control \"Umi\", your opponent cannot target WATER Link Monsters you control with card effects. If this card is added to your hand, except by drawing it: You can reveal this card and 1 WATER monster in your hand; Special Summon both, also you cannot Special Summon for the rest of this turn, except WATER monsters. You can only use this effect of \"Coralianectes, the Luminous Cradle Dragon\" once per turn.",
     "race": "Sea Serpent",
     "atk": 1300,
     "def": 2700,
     "level": 7,
     "attribute": "WATER",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/coralianektes-the-shimmering-shining-dragon-15826",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/coralianectes-the-luminous-cradle-dragon-15826",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 82692552,

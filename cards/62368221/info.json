@@ -1,6 +1,6 @@
 {
     "id": 62368221,
-    "name": "Ars Magna of Purification and Corruption",
+    "name": "Ars Magna the Corruption and the Purification",
     "typeline": [
         "Dragon",
         "Effect"
@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can banish this card from your hand; add 1 \"Ars Magna\" Spell/Trap from your Deck to your hand, also until the end of the next turn, the first 3 times each of your \"Power Patron\" Link Monsters would be destroyed by battle each turn, it is not destroyed. If an Xyz and/or Link Monster(s) is Special Summoned while this card is banished (except during the Damage Step): You can Special Summon this card. You can target Spells/Traps on the field up to the number of \"Power Patron\" Link Monsters you control; banish them. You can only use each effect of \"Ars Magna of Purification and Corruption\" once per turn.",
+    "desc": "You can banish this card from your hand; add 1 \"Ars Magna\" Spell/Trap from your Deck to your hand, also until the end of the next turn, the first three times each \"Power Patron\" Link Monster you control would be destroyed by battle, it is not destroyed. If an Xyz or Link Monster(s) is Special Summoned, while this card is banished (except during the Damage Step): You can Special Summon this card. You can target Spells/Traps on the field, up to the number of \"Power Patron\" Link Monsters you control; banish them. You can only use each effect of \"Ars Magna the Corruption and the Purification\" once per turn.",
     "race": "Dragon",
     "atk": 1000,
     "def": 2100,
     "level": 8,
     "attribute": "WIND",
     "archetype": "Ars Magna",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/ars-magna-of-purification-and-corruption-15837",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ars-magna-the-corruption-and-the-purification-15837",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 62368221,

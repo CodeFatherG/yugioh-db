@@ -1,6 +1,6 @@
 {
     "id": 3841104,
-    "name": "Destratification Dino Stratiae",
+    "name": "Stratiae the Stratasmasher Dino",
     "typeline": [
         "Dinosaur",
         "Link",
@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "2 monsters, including a Dinosaur monster\r\nIf this card is Link Summoned: You can make this card gain ATK equal to half the total original ATK of the Dinosaur monsters used as its material. During your Main Phase: You can Fusion Summon 1 Dinosaur Fusion Monster from your Extra Deck, by banishing its materials from your field and/or GY, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Dinosaur monsters. You can only use this effect of \"Destratification Dino Stratiae\" once per turn.",
+    "desc": "2 monsters, including a Dinosaur monster\r\nIf this card is Link Summoned: You can make this card gain ATK equal to half the combined original ATK of the Dinosaur monsters used as Link Material. During your Main Phase: You can Fusion Summon 1 Dinosaur Fusion Monster from your Extra Deck, by banishing its materials from your field or GY, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Dinosaur monsters. You can only use this effect of \"Stratiae the Stratasmasher Dino\" once per turn.",
     "race": "Dinosaur",
     "atk": 0,
     "def": null,
@@ -20,7 +20,16 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "ygoprodeck_url": "https://ygoprodeck.com/card/destratification-dino-stratiae-15812",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/stratiae-the-stratasmasher-dino-15812",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 3841104,

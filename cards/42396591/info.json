@@ -9,7 +9,7 @@
     "type": "XYZ Monster",
     "humanReadableCardType": "Xyz Effect Monster",
     "frameType": "xyz",
-    "desc": "4 Level 5 monsters\r\nOnce per turn (Quick Effect): You can detach 1 material from this card, then target 1 card your opponent controls; destroy it. If this card battles an opponent's monster, during damage calculation: This card's ATK/DEF become that opponent's monster's ATK or DEF (whichever is higher) +100 during damage calculation only. If this card destroys a monster by battle: Send 1 random card from your opponent's hand to the GY, and if you do, halve your opponent's LP.",
+    "desc": "4 Level 5 monsters\r\nOnce per turn (Quick Effect): You can detach 1 material from this card, then target 1 card your opponent controls; destroy it. If this card battles an opponent's monster, during damage calculation: This card's ATK/DEF become equal to that opponent's monster's ATK or DEF (whichever is higher) +100, during that damage calculation only. If this card destroys a monster by battle: Send 1 random card from your opponent's hand to the GY, and if you do, halve your opponent's LP.",
     "race": "Spellcaster",
     "atk": 3000,
     "def": 1500,
@@ -17,6 +17,15 @@
     "attribute": "DARK",
     "archetype": "Masquerade",
     "ygoprodeck_url": "https://ygoprodeck.com/card/number-c104-umbral-horror-masquerade-victory-15842",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN043",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 42396591,

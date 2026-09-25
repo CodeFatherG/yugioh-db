@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "4 monsters\r\nIf this card is Link Summoned: You can Special Summon up to 3 monsters that mention \"Atlantis, City of the Sea Dragon\" from your GY to your zones this card points to, also you cannot Special Summon for the rest of this turn. This card's name becomes \"Umi\" while in the Monster Zone. Once per turn (Quick Effect): You can send 1 face-up \"Umi\" you control to the GY; send all cards on the field to the GY, except \"Umi\".",
+    "desc": "4 monsters\r\nThis card's name becomes \"Umi\" while on the field. If this card is Link Summoned: You can Special Summon up to 3 monsters that mention \"Atlantis, City of the Sea Dragon\" from your GY to your zone this card points to, also you cannot Special Summon for the rest of this turn. Once per turn (Quick Effect): You can send 1 face-up \"Umi\" you control to the GY; send all cards on the field to the GY, except \"Umi\".",
     "race": "Sea Serpent",
     "atk": 2900,
     "def": null,
@@ -24,6 +24,15 @@
         "Bottom-Right"
     ],
     "ygoprodeck_url": "https://ygoprodeck.com/card/azure-ocean-dragon-lord-neo-daedalus-rage-15862",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN046",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 41570943,

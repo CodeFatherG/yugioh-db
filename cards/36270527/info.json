@@ -1,6 +1,6 @@
 {
     "id": 36270527,
-    "name": "Ars Magna of Infinity and Finity",
+    "name": "Ars Magna the Finite and the Infinite",
     "typeline": [
         "Warrior",
         "Effect"
@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can banish this card from your hand; add 1 non-Warrior \"Ars Magna\" monster from your Deck to your hand, also the original ATK of \"Power Patron\" Link Monsters you control become tripled for the rest of this turn. If a Fusion and/or Link Monster(s) is Special Summoned while this card is banished (except during the Damage Step): You can Special Summon this card. If you control a \"Power Patron\" Link Monster: You can target 1 monster on the field; banish it. You can only use each effect of \"Ars Magna of Infinity and Finity\" once per turn.",
+    "desc": "You can banish this card from your hand; add 1 non-Warrior \"Ars Magna\" monster from your Deck to your hand, also for the rest of this turn, the original ATK of all \"Power Patron\" Link Monsters you control become tripled. If a Fusion or Link Monster(s) is Special Summoned, while this card is banished (except during the Damage Step): You can Special Summon this card. If you control a \"Power Patron\" Link Monster: You can target 1 monster on the field; banish it. You can only use each effect of \"Ars Magna the Finite and the Infinite\" once per turn.",
     "race": "Warrior",
     "atk": 1000,
     "def": 2400,
     "level": 8,
     "attribute": "EARTH",
     "archetype": "Ars Magna",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/ars-magna-of-infinity-and-finity-15836",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ars-magna-the-finite-and-the-infinite-15836",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN018",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN018",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 36270527,

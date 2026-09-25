@@ -4,9 +4,18 @@
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Add 1 card from your Deck or GY to your hand that mentions \"Spell Counter\" in its , except \"Spell Power Attainment\", then if you control a Level 7 or higher \"Endymion\" Monster Card, you can remove any number of Spell Counters from your field, and if you do, negate the effects of that many face-up cards your opponent controls, and if you do that, destroy them. You can only activate 1 \"Spell Power Attainment\" per turn.",
+    "desc": "Add 1 card that mentions \"Spell Counter\" in its effect  from your Deck or GY to your hand, except \"Spell Power Attainment\", then if you control a Level 7 or higher \"Endymion\" Monster Card, you can apply this effect.\r\n\u25cf Remove any number of Spell Counters from your field, and if you do, negate the effects of that many face-up cards your opponent controls, and if you do that, destroy those cards.\r\nYou can only activate 1 \"Spell Power Attainment\" per turn.",
     "race": "Quick-Play",
     "ygoprodeck_url": "https://ygoprodeck.com/card/spell-power-attainment-15821",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN069",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 39123673,

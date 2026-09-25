@@ -4,10 +4,19 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Send 1 card that mentions \"Dark Time Wizard\" from your Deck to the GY, except \"Foolish Graverobber\", then you can Special Summon 1 monster from either GY to your field. You can banish this card from your GY; Set to your field, 1 Spell/Trap that mentions \"Dark Time Wizard\" from your GY, except \"Foolish Graverobber\", or 1 Spell/Trap from your opponent's GY. You can only use each effect of \"Foolish Graverobber\" once per turn.",
+    "desc": "Send 1 card that mentions \"Dark Time Wizard\" from your Deck to the GY, except \"Foolish Graverobber\", then you can Special Summon 1 monster from either GY to your field. You can banish this card from your GY; Set 1 of the following cards to your field.\r\n\u25cf Spell/Trap that mentions \"Dark Time Wizard\" in your GY, except \"Foolish Graverobber\"\r\n\u25cf Spell/Trap in your opponent's GY\r\nYou can only use each effect of \"Foolish Graverobber\" once per turn.",
     "race": "Normal",
     "archetype": "Dark Time Wizard",
     "ygoprodeck_url": "https://ygoprodeck.com/card/foolish-graverobber-15745",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 65118318,

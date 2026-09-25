@@ -1,12 +1,21 @@
 {
     "id": 99505609,
-    "name": "Bingo Card",
+    "name": "Bingo!",
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Choose 1 monster in a column with all zones occupied and destroy as many cards in that column as possible, then each player draws 1 card. You can banish this card from your GY, then activate 1 of these effects;\r\n\u25cf Destroy 5 monsters in your Main Monster Zone or 5 cards in your Spell & Trap Zone, then draw 2 cards.\r\n\u25cf Destroy 5 monsters in your opponent's Main Monster Zone or 5 cards in their Spell & Trap Zone, then they draw 2 cards.",
+    "desc": "Choose 1 monster in a column with cards in all its zones, and destroy as many of those cards as possible, except this card, then each player draws 1 card. You can banish this card from your GY, then activate 1 of these effects;\r\n\u25cf Destroy 5 monsters in your Main Monster Zone, or 5 cards in your Spell & Trap Zone, then draw 2 cards.\r\n\u25cf Destroy 5 monsters in your opponent's Main Monster Zone, or 5 cards in their Spell & Trap Zone, then your opponent draws 2 cards.",
     "race": "Normal",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/bingo-card-15829",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bingo-15829",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN080",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 99505609,

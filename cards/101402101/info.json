@@ -15,6 +15,22 @@
     "level": 9,
     "attribute": "WATER",
     "ygoprodeck_url": "https://ygoprodeck.com/card/audhumla-progenitor-of-the-frozen-expanse-15885",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN081",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN081",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 101402101,

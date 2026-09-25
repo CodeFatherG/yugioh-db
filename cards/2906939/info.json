@@ -1,13 +1,22 @@
 {
     "id": 2906939,
-    "name": "Ashtrashen - Gateway to the Worlds Beyond",
+    "name": "Ashtrashen - Gate to the Worlds Beyond",
     "type": "Spell Card",
     "humanReadableCardType": "Field Spell",
     "frameType": "spell",
-    "desc": "You can target any number of face-down cards you control; add \"Ashtra\" cards from your Deck to your hand with different names from each other, except Field Spells, equal to the number of those targeted cards that are still face-down, then send those face-down cards to the GY. If a card(s) becomes Set on the field, while you control an \"Ashtra\" monster and a face-down card (except during the Damage Step): You can target 1 card on the field; return it to the hand. You can only use each effect of \"Ashtrashen - Gateway to the Worlds Beyond\" once per turn.",
+    "desc": "You can target any number of face-down cards you control; add \"Ashtra\" cards from your Deck to your hand, except Field Spells, each with a different name, equal to the number of those face-down cards, then send those face-down cards to the GY. If you control an \"Ashtra\" monster and a face-down card, and either player Sets a card: You can target 1 card on the field; return it to the hand. You can only use each effect of \"Ashtrashen - Gate to the Worlds Beyond\" once per turn.",
     "race": "Field",
     "archetype": "Ashtra",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/ashtrashen-gateway-to-the-worlds-beyond-15788",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ashtrashen-gate-to-the-worlds-beyond-15788",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 2906939,

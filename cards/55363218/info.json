@@ -8,13 +8,22 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while a face-up monster that cannot be Normal Summoned/Set is on the field. You can only Special Summon \"Cartoon Shade\" once per turn this way. If this card is Special Summoned: You can add 1 monster with 2000 ATK or DEF that cannot be Normal Summoned/Set from your Deck to your hand. If this card on the field is Tributed: You can target 1 card on the field, or you can target 2 if you control a monster with 2000 ATK or DEF; return that card(s) to the hand.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while a monster that cannot be Normal Summoned/Set is face-up on the field. You can only Special Summon \"Cartoon Shade\" once per turn this way. If this card is Special Summoned: You can add 1 monster with 2000 ATK or DEF that cannot be Normal Summoned/Set from your Deck to your hand. If this card on the field is Tributed: You can target 1 card on the field, or target 2 if you control a monster with 2000 ATK or DEF; return them to the hand.",
     "race": "Illusion",
     "atk": 0,
     "def": 2000,
     "level": 1,
     "attribute": "DARK",
     "ygoprodeck_url": "https://ygoprodeck.com/card/cartoon-shade-15819",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 55363218,

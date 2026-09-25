@@ -9,7 +9,7 @@
     "type": "Synchro Monster",
     "humanReadableCardType": "Synchro Effect Monster",
     "frameType": "synchro",
-    "desc": "1 Tuner + 1+ non-Tuners\r\nIf this card is Special Summoned: You can send 1 \"Ashtra\" card from your Deck to the GY, and if you do, send 1 card on the field to the GY. You can only use this effect of \"Ashtraya Mikumari-no-Mikoto\" once per turn. If your opponent activates a monster effect (except during the Damage Step): You can target 1 \"Ashtra\" Trap in your GY or banishment, or if there are 3 or more face-down cards on the field, you can target 1 Trap in your GY instead; Set it.",
+    "desc": "1 Tuner + 1+ non-Tuners\r\nIf this card is Special Summoned: You can send 1 \"Ashtra\" card from your Deck to the GY, and if you do, send 1 card on the field to the GY. You can only use this effect of \"Ashtraya Mikumari-no-Mikoto\" once per turn. If your opponent activates a monster effect (except during the Damage Step): You can target 1 \"Ashtra\" Trap in your GY or banishment, or if 3 or more cards are face-down on the field, you can target any 1 Trap in your GY instead; Set it.",
     "race": "Wyrm",
     "atk": 3000,
     "def": 2500,
@@ -17,6 +17,15 @@
     "attribute": "WATER",
     "archetype": "Ashtra",
     "ygoprodeck_url": "https://ygoprodeck.com/card/ashtraya-mikumari-no-mikoto-15789",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 43419178,

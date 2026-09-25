@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Special Summon 1 \"Umbral Horror\" monster or \"Masquerade\" Xyz Monster from your hand or GY, then you can make the Levels of all \"Umbral Horror\" monsters you control become the Level of 1 \"Umbral Horror\" monster in your field or GY. You can banish this card from your GY, then target 1 Xyz Monster you control; attach 1 \"Number\" Xyz Monster from your Extra Deck or GY to it. You can only use each effect of \"Barian's Hope\" once per turn.",
+    "desc": "Special Summon 1 \"Umbral Horror\" monster or 1 \"Masquerade\" Xyz Monster from your hand or GY, then you can make the Levels of all \"Umbral Horror\" monsters you control the same as 1 \"Umbral Horror\" monster in your field or GY. You can banish this card from your GY, then target 1 Xyz Monster you control; attach 1 \"Number\" Xyz Monster from your Extra Deck or GY to it. You can only use each effect of \"Barian's Hope\" once per turn.",
     "race": "Normal",
     "archetype": "Barian's",
     "ygoprodeck_url": "https://ygoprodeck.com/card/barian-s-hope-15844",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 75518330,

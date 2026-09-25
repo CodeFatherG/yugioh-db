@@ -4,10 +4,19 @@
     "type": "Trap Card",
     "humanReadableCardType": "Counter Trap",
     "frameType": "trap",
-    "desc": "When your opponent would Normal or Special Summon a monster(s) while you control \"Atlantis, City of the Sea Dragon\": Negate the Summon, and if you do, destroy that monster(s), then if you control a WATER Link Monster, you can destroy all non-WATER monsters on the field. You can banish this card from your GY and send 1 face-up \"Umi\" you control to the GY, then target 1 monster your opponent controls; send it to the GY. You can only use 1 \"Daedalus Maelstrom\" effect per turn, and only once that turn.",
+    "desc": "When your opponent would Normal or Special Summon a monster(s), while you control \"Atlantis, City of the Sea Dragon\": Negate the Summon, and if you do, destroy that monster(s), then if you control a WATER Link Monster, you can destroy all monsters on the field, except WATER monsters. You can banish this card from your GY and send 1 face-up \"Umi\" you control to the GY, then target 1 monster your opponent controls; send it to the GY. You can only use 1 \"Daedalus Maelstrom\" effect per turn, and only once that turn.",
     "race": "Counter",
     "archetype": "Daedalus",
     "ygoprodeck_url": "https://ygoprodeck.com/card/daedalus-maelstrom-15773",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 64233143,

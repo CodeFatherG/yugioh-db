@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by banishing 3 Warrior and/or DARK monsters from your GY. You can only Special Summon \"Destiny HERO - Destro-Dogma\" once per turn this way. If Summoned this way: You can activate this effect; inflict 2000 damage to your opponent during the next Standby Phase. Once per turn, when your opponent activates a card or effect (Quick Effect): You can Fusion Summon 1 DARK or Warrior Fusion Monster from your Extra Deck, by shuffling its materials from your hand, field, and/or GY into the Deck.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by banishing 3 Warrior and/or DARK monsters from your GY. You can only Special Summon \"Destiny HERO - Destro-Dogma\" once per turn this way. If Summoned this way: You can activate this effect; during the next Standby Phase, inflict 2000 damage to your opponent. Once per turn, when your opponent activates a card or effect (Quick Effect): You can Fusion Summon 1 Warrior or DARK Fusion Monster from your Extra Deck, by shuffling its materials from your hand, field, and/or GY into the Deck.",
     "race": "Warrior",
     "atk": 3400,
     "def": 2400,
@@ -16,6 +16,22 @@
     "attribute": "DARK",
     "archetype": "Destiny HERO",
     "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-destro-dogma-15755",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN021",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 25158975,

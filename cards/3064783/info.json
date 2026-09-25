@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If you Normal or Special Summon an \"Umbral Horror\" monster(s) and/or a \"Masquerade\" Xyz Monster(s) (except during the Damage Step): You can Special Summon this card from your hand, and if you do, draw 1 card, then if you drew an \"Umbral Horror\" monster, you can Special Summon it. Can be treated as 2 materials for the Xyz Summon of a \"Number\" Xyz Monster that requires 3 or more materials. You can only use each effect of \"Shining Umbral Horror\" once per turn.",
+    "desc": "If you Normal or Special Summon an \"Umbral Horror\" monster(s) or a \"Masquerade\" Xyz Monster(s) (except during the Damage Step): You can Special Summon this card from your hand, and if you do, draw 1 card, then you can Special Summon it if it is an \"Umbral Horror\" monster. Can be treated as 2 materials for the Xyz Summon of a \"Number\" Xyz Monster that requires 3 or more materials. You can only use each effect of \"Shining Umbral Horror\" once per turn.",
     "race": "Fiend",
     "atk": 0,
     "def": 2000,
@@ -16,6 +16,15 @@
     "attribute": "LIGHT",
     "archetype": "Umbral Horror",
     "ygoprodeck_url": "https://ygoprodeck.com/card/shining-umbral-horror-15849",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 3064783,

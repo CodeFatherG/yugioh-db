@@ -1,6 +1,6 @@
 {
     "id": 29081251,
-    "name": "Hublot the Dark Directory of Death",
+    "name": "Hubrow, Founder of the Ominous Observers",
     "typeline": [
         "Zombie",
         "Effect"
@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can Normal Summon this card without Tributing. You can only use each of the following effects of \"Hublot the Dark Directory of Death\" once per turn. If this card is Normal or Special Summoned: You can send 1 Level 6 or higher Zombie monster from your Deck to the GY, except \"Hublot the Dark Directory of Death\", then you can add 1 Level 6 or higher Zombie monster from your GY to your hand. If a monster(s) is Special Summoned from the GY while this card is in the Monster Zone, you can (except during the Damage Step): Immediately after this effect resolves, Xyz Summon 1 Zombie Xyz Monster.",
+    "desc": "You can Normal Summon this card without Tributing. You can only use each of the following effects of \"Hubrow, Founder of the Ominous Observers\" once per turn. If this card is Normal or Special Summoned: You can send 1 Level 6 or higher Zombie monster from your Deck to the GY, except \"Hubrow, Founder of the Ominous Observers\", then you can add 1 Level 6 or higher Zombie monster from your GY to your hand. If a monster(s) is Special Summoned from the GY, while this card is in the Monster Zone, you can (except during the Damage Step): Immediately after this effect resolves, Xyz Summon 1 Zombie Xyz Monster.",
     "race": "Zombie",
     "atk": 1300,
     "def": 1800,
     "level": 6,
     "attribute": "DARK",
     "archetype": "Death",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/hublot-the-dark-directory-of-death-15864",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hubrow-founder-of-the-ominous-observers-15864",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN030",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 29081251,

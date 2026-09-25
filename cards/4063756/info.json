@@ -1,6 +1,6 @@
 {
     "id": 4063756,
-    "name": "Medicurius the Power Patron of Illusions",
+    "name": "Mediclius the Extraordinary Power Patron",
     "typeline": [
         "Fairy",
         "Link",
@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "2+ monsters, including a Fusion, Synchro, Xyz, or Link Monster\r\nGains these effects based on the number of monsters it points to.\r\n\u25cf 1+: Once per turn: You can negate the effects of all face-up monsters your opponent currently controls, also until the end of this turn, their ATK's become halved.\r\n\u25cf 2+: Unaffected by your opponent's activated effects.\r\n\u25cf 3: Once per opponent's turn (Quick Effect): You can banish this card, also banish all cards your opponent controls.",
+    "desc": "2+ monsters, including a Fusion, Synchro, Xyz, or Link Monster\r\nGains these effects based on the number of monsters it points to.\r\n\u25cf 1+: Once per turn, during your Main Phase: You can negate the effects of all face-up monsters your opponent currently controls, also until the end of this turn, their ATK become halved.\r\n\u25cf 2+: Unaffected by your opponent's activated effects.\r\n\u25cf 3: Once per opponent's turn (Quick Effect): You can banish this card, also all cards your opponent controls.",
     "race": "Fairy",
     "atk": 3000,
     "def": null,
@@ -22,7 +22,16 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "ygoprodeck_url": "https://ygoprodeck.com/card/medicurius-the-power-patron-of-illusions-15835",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mediclius-the-extraordinary-power-patron-15835",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN048",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 4063756,

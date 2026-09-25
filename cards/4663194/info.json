@@ -4,9 +4,18 @@
     "type": "Spell Card",
     "humanReadableCardType": "Field Spell",
     "frameType": "spell",
-    "desc": "Each time you Special Summon a Level 8 or higher \"Destiny HERO\" monster(s): All Warrior monsters you currently control gain 300 ATK. You can only use each of the following effects of \"Dark City at Midnight\" once per turn. During your Main Phase, if this card was activated this turn: You can add 1 \"Destiny HERO\" monster, or 1 card that mentions a \"Destiny HERO\" monster's card name, from your Deck to your hand. If this card is destroyed: You can Special Summon 1 \"Destiny HERO\" monster from your Deck (this is treated as a Special Summon with \"Clock Tower Prison\").",
+    "desc": "Each time you Special Summon a Level 8 or higher \"Destiny HERO\" monster(s): Warrior monsters you control gain 300 ATK. You can only use each of the following effects of \"Dark City at Midnight\" once per turn. During your Main Phase, if this card was activated this turn: You can add 1 \"Destiny HERO\" monster or 1 card that mentions a \"Destiny HERO\" monster by name from your Deck to your hand. If this card is destroyed: You can Special Summon 1 \"Destiny HERO\" monster from your Deck (this is treated as a Special Summon with \"Clock Tower Prison\").",
     "race": "Field",
     "ygoprodeck_url": "https://ygoprodeck.com/card/dark-city-at-midnight-15754",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN062",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 4663194,

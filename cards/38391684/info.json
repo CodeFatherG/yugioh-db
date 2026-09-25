@@ -4,10 +4,19 @@
     "type": "Spell Card",
     "humanReadableCardType": "Field Spell",
     "frameType": "spell",
-    "desc": "While a monster that mentions \"Atlantis, City of the Sea Dragon\" is on the field, reduce the Levels of all monsters in both players' hands and fields by 1. If you Link Summon a \"Daedalus\" monster, you can reduce the material requirement listed on it by 1 and Link Summon it with 1 less material. If this card is in your GY and you control \"Umi\": You can place this card face-up on your field. You can only use this effect of \"Atlantis, City of the Sea Dragon\" once per turn.",
+    "desc": "While a monster that mentions \"Atlantis, City of the Sea Dragon\" is on the field, the Levels of all monsters in both players' hands and on the field are reduced by 1. When you Link Summon a \"Daedalus\" Link Monster, you can reduce the total number of materials by 1 (from Link Rating and from mentioned materials). If this card is in your GY and you control \"Umi\": You can place this card face-up on your field. You can only use this effect of \"Atlantis, City of the Sea Dragon\" once per turn.",
     "race": "Field",
     "archetype": "Atlantis, City of the Sea Dragon",
     "ygoprodeck_url": "https://ygoprodeck.com/card/atlantis-city-of-the-sea-dragon-15774",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN058",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 38391684,

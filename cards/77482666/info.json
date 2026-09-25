@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "During the Main Phase (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;\r\n\u25cf Special Summon 1 monster that mentions \"Dark Time Wizard\" from your hand or Deck, except \"Swiftwind Panther Warrior\".\r\n\u25cf Send 1 Spell/Trap that mentions \"Dark Time Wizard\" from your Deck to the GY.\r\nYou can only use this effect of \"Swiftwind Panther Warrior\" once per turn. Cannot declare an attack unless a monster(s) was Tributed this turn.",
+    "desc": "Cannot declare an attack unless a monster was Tributed this turn. During the Main Phase, if this card is on the field (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;\r\n\u25cf Special Summon 1 monster that mentions \"Dark Time Wizard\" from your hand or Deck, except \"Swiftwind Panther Warrior\".\r\n\u25cf Send 1 Spell/Trap that mentions \"Dark Time Wizard\" from your Deck to the GY.\r\nYou can only use this effect of \"Swiftwind Panther Warrior\" once per turn.",
     "race": "Beast-Warrior",
     "atk": 2000,
     "def": 1600,
@@ -16,6 +16,22 @@
     "attribute": "EARTH",
     "archetype": "Warrior",
     "ygoprodeck_url": "https://ygoprodeck.com/card/swiftwind-panther-warrior-15750",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN001",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 77482666,

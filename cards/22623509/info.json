@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "(This card is always treated as a \"Witchcrafter\" card.)\r\nGains 2300 ATK while you have \"Regulus, the Prince of Endymion\" in your field or GY. You can only use each of the following effects of \"Verre, the Maid of Endymion\" once per turn. During your Main Phase, if a Spell Card or effect was activated this turn: You can Special Summon this card from your hand. If this card is Special Summoned: You can add 1 \"Witchcrafter\" Spell/Trap or \"Magical Dimension\" from your Deck to your hand.",
+    "desc": "(This card is always treated as a \"Witchcrafter\" card.)\r\nGains 2300 ATK while you have \"Regulus, the Prince of Endymion\" in your field or GY. You can only use each of the following effects of \"Verre, the Maid of Endymion\" once per turn. During your Main Phase, if a Spell Card or effect was activated this turn: You can Special Summon this card from your hand. If this card is Special Summoned: You can add 1 \"Witchcrafter\" Spell/Trap or 1 \"Magical Dimension\" from your Deck to your hand.",
     "race": "Spellcaster",
     "atk": 500,
     "def": 1400,
@@ -16,6 +16,22 @@
     "attribute": "LIGHT",
     "archetype": "Endymion",
     "ygoprodeck_url": "https://ygoprodeck.com/card/verre-the-maid-of-endymion-15441",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN098",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN098",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 22623509,

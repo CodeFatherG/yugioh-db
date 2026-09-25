@@ -1,6 +1,6 @@
 {
     "id": 55585856,
-    "name": "Misstic Call",
+    "name": "Ms. Tick Call",
     "typeline": [
         "Spellcaster",
         "Tuner",
@@ -9,13 +9,22 @@
     "type": "Tuner Monster",
     "humanReadableCardType": "Tuner Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is in your hand or GY: You can discard 1 other Spellcaster monster or 1 Spell/Trap; Special Summon this card, but banish it when it leaves the field. If this card is Normal or Special Summoned: You can banish 1 Level 4 Spellcaster monster from your Deck, and if you do, during the End Phase of this turn, add it to your hand or Special Summon it. You can only use each effect of \"Misstic Call\" once per turn.",
+    "desc": "If this card is in your hand or GY: You can discard 1 other Spellcaster monster or 1 Spell/Trap; Special Summon this card, but banish it when it leaves the field. If this card is Normal or Special Summoned: You can banish 1 Level 4 Spellcaster monster from your Deck, and if you do, during the End Phase of this turn, add to your hand or Special Summon that banished monster. You can only use each effect of \"Ms. Tick Call\" once per turn.",
     "race": "Spellcaster",
     "atk": 1600,
     "def": 800,
     "level": 5,
     "attribute": "WATER",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/misstic-call-15822",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ms-tick-call-15822",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 55585856,

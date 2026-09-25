@@ -1,6 +1,6 @@
 {
     "id": 97818130,
-    "name": "Black Skull Dragon the Archfiend Dragon of Unity",
+    "name": "Black Skull Dragon, the Archfiend of Unity",
     "typeline": [
         "Dragon",
         "Effect"
@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. (Quick Effect): You can discard 1 Quick-Play or Ritual Spell; Special Summon this card from your hand in Defense Position. You can only use this effect of \"Black Skull Dragon the Archfiend Dragon of Unity\" once per turn. If this card is Special Summoned: You can Set 1 Spell/Trap that mentions \"Light and Darkness Ritual\" from your Deck or GY. At the start of the Battle Phase: You can make your opponent lose 800 LP, and if you do, this card gains 800 ATK.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. If this card is in your hand (Quick Effect): You can discard 1 Quick-Play or Ritual Spell; Special Summon this card in Defense Position. You can only use this effect of \"Black Skull Dragon, the Archfiend of Unity\" once per turn. If this card is Special Summoned: You can Set 1 Spell/Trap that mentions \"Light and Darkness Ritual\" from your Deck or GY. At the start of the Battle Phase: You can make your opponent lose 800 LP, and if you do, this card gains 800 ATK.",
     "race": "Dragon",
     "atk": 3200,
     "def": 2500,
     "level": 9,
     "attribute": "DARK",
     "archetype": "Archfiend",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/black-skull-dragon-the-archfiend-dragon-of-unity-15840",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/black-skull-dragon-the-archfiend-of-unity-15840",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN026",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN026",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 97818130,
