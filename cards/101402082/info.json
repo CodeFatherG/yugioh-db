@@ -1,0 +1,35 @@
+{
+    "id": 101402082,
+    "name": "Tigress in Silent Repose",
+    "typeline": [
+        "Beast-Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can target 1 Spell/Trap your opponent controls; destroy that card when this card leaves the field. If this card is sent from the hand or field to the GY: You can send 1 Spell/Trap you control to the GY; Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Tigress in Silent Repose\" once per turn.",
+    "race": "Beast-Warrior",
+    "atk": 1700,
+    "def": 200,
+    "level": 3,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tigress-in-silent-repose-15988",
+    "card_images": [
+        {
+            "id": 101402082,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402082.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402082.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402082.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": 101402091,
+    "name": "Angelechy Seneschal",
+    "typeline": [
+        "Fairy",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuners\r\nIf this card is Special Summoned: Activate this effect; each player can Special Summon 1 Fairy Synchro Monster from their Extra Deck (but negate its effects), also this card, and monsters Special Summoned by this effect, cannot be used as material for an Xyz or Link Summon, and return them to the Extra Deck when they leave the field. If an \"Angelechy\" monster targets this card for an attack: Negate that attack, and if you do, give control of this card to your opponent. You can only use each effect of \"Angelechy Seneschal\" once per turn.",
+    "race": "Fairy",
+    "atk": 3000,
+    "def": 0,
+    "level": 10,
+    "attribute": "DARK",
+    "archetype": "Angelechy",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/angelechy-seneschal-15984",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN091",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
+    "card_images": [
+        {
+            "id": 101402091,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402091.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402091.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402091.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

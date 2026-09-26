@@ -1,0 +1,41 @@
+{
+    "id": 101402086,
+    "name": "Archidux, the Squid Sorcerer",
+    "typeline": [
+        "Aqua",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 WATER monsters\r\nYou can send 1 card you control to the GY; all WATER monsters you control gain 500 ATK/DEF this turn. If a WATER Link Monster(s) you control is destroyed by an opponent's card effect, while this card is in your GY (except during the Damage Step): You can banish this card, then target 1 of those destroyed monsters; Special Summon 1 WATER monster from your hand or GY, with a Level less than or equal to that monster's Link Rating. You can only use each effect of \"Archidux, the Squid Sorcerer\" once per turn.",
+    "race": "Aqua",
+    "atk": 1500,
+    "def": null,
+    "level": null,
+    "attribute": "WATER",
+    "linkval": 2,
+    "linkmarkers": [
+        "Right",
+        "Bottom"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/archidux-the-squid-sorcerer-15986",
+    "card_images": [
+        {
+            "id": 101402086,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101402086.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101402086.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101402086.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
