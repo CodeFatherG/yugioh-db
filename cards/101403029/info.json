@@ -1,0 +1,36 @@
+{
+    "id": 101403029,
+    "name": "Javelin Beetle of the Alliance",
+    "typeline": [
+        "Insect",
+        "Ritual",
+        "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with \"Javelin Beetle of the Alliance\". During the Main Phase (Quick Effect): You can reveal this card in your hand; Ritual Summon 1 Insect Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. You can only use this effect of \"Javelin Beetle of the Alliance\" once per Duel. If this card is Ritual Summoned: You can target 1 other card in this card's column; destroy it, and if you do, this card gains 600 ATK.",
+    "race": "Insect",
+    "atk": 2450,
+    "def": 2550,
+    "level": 8,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/javelin-beetle-of-the-alliance-15994",
+    "card_images": [
+        {
+            "id": 101403029,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403029.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403029.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403029.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
