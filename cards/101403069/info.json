@@ -1,0 +1,27 @@
+{
+    "id": 101403069,
+    "name": "Card Crawl",
+    "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
+    "desc": "You can banish (face-down) the top 5, 10, or 15 cards of your Deck, then target 1 face-up monster on the field; apply the appropriate effect to it.\r\n\u25cf 5: Its ATK/DEF become 0.\r\n\u25cf 10: Negate its effects.\r\n\u25cf 15: Banish it (face-down).\r\nYou can only use this effect of \"Card Crawl\" once per turn.",
+    "race": "Continuous",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/card-crawl-15998",
+    "card_images": [
+        {
+            "id": 101403069,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403069.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403069.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403069.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

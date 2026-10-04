@@ -1,0 +1,36 @@
+{
+    "id": 101403044,
+    "name": "Karin the Celestial Sage of the Highest Heights",
+    "typeline": [
+        "Spellcaster",
+        "Xyz",
+        "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2 Level 7 monsters\r\nWhen your opponent activates a card or effect that includes an effect that Special Summons a monster(s) from the Deck (Quick Effect): You can detach 1 material from this card; your opponent draws 1 card, then negate that activated effect, and if you do, destroy that card. During your Main Phase 2: You can target 1 Level 7 monster in your GY; take damage equal to its ATK, and if you do, return both it and this card on the field to the hand/Extra Deck. You can only use each effect of \"Karin the Celestial Sage of the Highest Heights\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 2500,
+    "def": 600,
+    "level": 7,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/karin-the-celestial-sage-of-the-highest-heights-15999",
+    "card_images": [
+        {
+            "id": 101403044,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403044.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403044.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403044.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
