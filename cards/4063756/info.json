@@ -27,6 +27,13 @@
         {
             "set_name": "Beyond the Brave",
             "set_code": "BETB-EN048",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN048",
             "set_rarity": "Ultra Rare",
             "set_rarity_code": "(UR)",
             "set_price": "0"
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "6.42",
-            "tcgplayer_price": "12.67",
+            "cardmarket_price": "3.27",
+            "tcgplayer_price": "8.19",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"
