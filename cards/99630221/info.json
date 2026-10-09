@@ -15,6 +15,15 @@
     "level": 3,
     "attribute": "EARTH",
     "ygoprodeck_url": "https://ygoprodeck.com/card/tigress-in-silent-repose-15988",
+    "card_sets": [
+        {
+            "set_name": "Beyond the Brave",
+            "set_code": "BETB-EN082",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 99630221,
@@ -25,7 +34,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.21",
+            "cardmarket_price": "0.15",
             "tcgplayer_price": "0.25",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
