@@ -1,0 +1,42 @@
+{
+    "id": 101403047,
+    "name": "Ars Magna Elfnote",
+    "typeline": [
+        "Spellcaster",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 monsters, including an \"Ars Magna\" or \"Elfnote\" monster\r\nYour linked monsters gain 300 ATK for each different Monster Type on the field. You can only use each of the following effects of \"Ars Magna Elfnote\" once per turn. During your Main Phase: You can send to the GY, or banish, 1 card you control, then you can return 1 monster on the field to the hand. You can banish this card from your GY; Special Summon 1 \"Elfnote\" monster from your hand.",
+    "race": "Spellcaster",
+    "atk": 1500,
+    "def": null,
+    "level": null,
+    "attribute": "LIGHT",
+    "archetype": "Ars Magna",
+    "linkval": 2,
+    "linkmarkers": [
+        "Right",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ars-magna-elfnote-16005",
+    "card_images": [
+        {
+            "id": 101403047,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403047.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403047.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403047.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

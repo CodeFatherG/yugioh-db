@@ -1,0 +1,41 @@
+{
+    "id": 101403035,
+    "name": "Omega Vidolium the Power Patron of Heaven's End",
+    "typeline": [
+        "Dragon",
+        "Fusion",
+        "Pendulum",
+        "Effect"
+    ],
+    "type": "Pendulum Effect Fusion Monster",
+    "humanReadableCardType": "Fusion Pendulum Effect Monster",
+    "frameType": "fusion_pendulum",
+    "desc": "[ Pendulum Effect ] \nIf a monster(s) is Special Summoned from the Extra Deck: You can return this card to the Extra Deck, then you can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from either field, including a \"Power Patron\" monster you control.\n\n[ Monster Effect ] \n3 monsters Special Summoned from the Extra Deck with 3000 or more ATK\r\nMust first be Fusion Summoned. Unaffected by card effects, except \"Power Patron\" cards'. When your opponent activates a monster effect while they control 2 or more monsters with the same Type as that monster (Quick Effect): You can banish (face-down) the top 3 cards of your Deck; negate the activation, and if you do, banish that monster face-down. Once per turn, during your Standby Phase: Place this card in your Pendulum Zone.",
+    "race": "Dragon",
+    "pend_desc": "If a monster(s) is Special Summoned from the Extra Deck: You can return this card to the Extra Deck, then you can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from either field, including a \"Power Patron\" monster you control.",
+    "monster_desc": "3 monsters Special Summoned from the Extra Deck with 3000 or more ATK\r\nMust first be Fusion Summoned. Unaffected by card effects, except \"Power Patron\" cards'. When your opponent activates a monster effect while they control 2 or more monsters with the same Type as that monster (Quick Effect): You can banish (face-down) the top 3 cards of your Deck; negate the activation, and if you do, banish that monster face-down. Once per turn, during your Standby Phase: Place this card in your Pendulum Zone.",
+    "atk": 4000,
+    "def": 4000,
+    "level": 12,
+    "attribute": "DARK",
+    "archetype": "Power Patron",
+    "scale": 11,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/omega-vidolium-the-power-patron-of-heaven-s-end-16006",
+    "card_images": [
+        {
+            "id": 101403035,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403035.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403035.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403035.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

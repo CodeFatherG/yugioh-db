@@ -1,0 +1,42 @@
+{
+    "id": 101403046,
+    "name": "Ars Magna DoomZ",
+    "typeline": [
+        "Dragon",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 monsters, including an \"Ars Magna\" or \"DoomZ\" monster\r\nAny monster destroyed by battle with your linked monster is banished. You can only use each of the following effects of \"Ars Magna DoomZ\" once per turn. During your Main Phase: You can destroy, or banish, 1 card you control, then you can shuffle up to 2 cards from any GY(s) into the Deck. You can banish this card from your GY; Special Summon 1 \"DoomZ\" monster from your hand.",
+    "race": "Dragon",
+    "atk": 1500,
+    "def": null,
+    "level": null,
+    "attribute": "LIGHT",
+    "archetype": "Ars Magna",
+    "linkval": 2,
+    "linkmarkers": [
+        "Left",
+        "Bottom-Left"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ars-magna-doomz-16004",
+    "card_images": [
+        {
+            "id": 101403046,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403046.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403046.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403046.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
