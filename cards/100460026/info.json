@@ -1,0 +1,36 @@
+{
+    "id": 100460026,
+    "name": "Marincess Azuri",
+    "typeline": [
+        "Cyberse",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can Special Summon 1 WATER Cyberse monster with 1000 or less ATK from your Deck, also you cannot Special Summon for the rest of this turn, except WATER monsters. If you Link Summon a \"Marincess\" Link Monster(s), while this card is in your GY: You can banish this card; equip 1 \"Marincess\" monster from your GY to 1 of those Link Monsters as an Equip Spell that gives it 600 ATK. You can only use each effect of \"Marincess Azuri\" once per turn.",
+    "race": "Cyberse",
+    "atk": 1600,
+    "def": 1000,
+    "level": 3,
+    "attribute": "WATER",
+    "archetype": "Marincess",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/marincess-azuri-16013",
+    "card_images": [
+        {
+            "id": 100460026,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100460026.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100460026.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100460026.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
