@@ -1,0 +1,43 @@
+{
+    "id": 100462001,
+    "name": "Trinitas Magistus",
+    "typeline": [
+        "Spellcaster",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2+ Spellcaster monsters\r\nIf this card is Special Summoned from the Extra Deck: You can equip 1 \"Magistus\" or Spellcaster monster from your Extra Deck to this card as an Equip Spell. You can discard 1 card; return all Fusion, Synchro, Xyz, and Link Monsters from your opponent's field and GY to the Extra Deck. During your opponent's Main Phase (Quick Effect): You can add 1 \"Magistus\" card from your GY or banishment to your hand. You can only use 1 \"Trinitas Magistus\" effect per turn, and only once that turn.",
+    "race": "Spellcaster",
+    "atk": 2500,
+    "def": null,
+    "level": null,
+    "attribute": "LIGHT",
+    "archetype": "Magistus",
+    "linkval": 3,
+    "linkmarkers": [
+        "Top",
+        "Bottom-Left",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trinitas-magistus-16015",
+    "card_images": [
+        {
+            "id": 100462001,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100462001.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100462001.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100462001.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

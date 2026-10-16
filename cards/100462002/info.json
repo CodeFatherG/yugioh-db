@@ -1,0 +1,37 @@
+{
+    "id": 100462002,
+    "name": "Invoked Magistus Heruvim",
+    "typeline": [
+        "Spellcaster",
+        "Fusion",
+        "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "1 \"Magistus\" monster + 1 Spellcaster monster\r\nIf this card is Special Summoned from the Extra Deck: You can target 1 card your opponent controls; destroy it. When your opponent activates a monster effect, or their monster declares an attack, except during the turn this card was Special Summoned (Quick Effect): You can banish this card; Special Summon 1 \"Magistus\" or \"Invoked\" monster from your Extra Deck, except \"Invoked Magistus Heruvim\". You can only use each effect of \"Invoked Magistus Heruvim\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 2500,
+    "def": 2100,
+    "level": 9,
+    "attribute": "LIGHT",
+    "archetype": "Invoked",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/invoked-magistus-heruvim-16016",
+    "card_images": [
+        {
+            "id": 100462002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100462002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100462002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100462002.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

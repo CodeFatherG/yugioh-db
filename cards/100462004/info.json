@@ -1,0 +1,36 @@
+{
+    "id": 100462004,
+    "name": "Magistus Witchcrafter Aruru",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is in your hand and a \"Magistus\" monster is on the field: You can Special Summon this card. You can target 1 face-up monster your opponent controls; negate its effects until the end of this turn. If this card is sent to the GY: You can banish it, then target 1 \"Magistus\" or \"Witchcrafter\" monster in your GY; Special Summon it. You can only use each effect of \"Magistus Witchcrafter Aruru\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 2800,
+    "def": 1000,
+    "level": 8,
+    "attribute": "LIGHT",
+    "archetype": "Magistus",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/magistus-witchcrafter-aruru-16017",
+    "card_images": [
+        {
+            "id": 100462004,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100462004.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100462004.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100462004.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
