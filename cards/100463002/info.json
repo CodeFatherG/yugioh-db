@@ -1,0 +1,36 @@
+{
+    "id": 100463002,
+    "name": "Gandora-X the Blackmetal Rampaging Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is added from the Deck to your hand, except by drawing it: You can Special Summon it. If this card is Special Summoned: You can pay half your LP; destroy as many other monsters on the field as possible, and if you do, inflict damage to your opponent equal to the highest ATK on the field among the destroyed face-up monsters they own, and if you do that, this card gains that much ATK. If this card is destroyed: You can add 1 \"Final Geas\" from your Deck to your hand. You can only use each effect of \"Gandora-X the Blackmetal Rampaging Dragon\" once per turn.",
+    "race": "Dragon",
+    "atk": 0,
+    "def": 0,
+    "level": 8,
+    "attribute": "DARK",
+    "archetype": "Gandora",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gandora-x-the-blackmetal-rampaging-dragon-16020",
+    "card_images": [
+        {
+            "id": 100463002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100463002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100463002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100463002.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
