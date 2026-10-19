@@ -61,6 +61,9 @@
             "set_price": "0"
         }
     ],
+    "banlist_info": {
+        "ban_tcg": "Forbidden"
+    },
     "card_images": [
         {
             "id": 52352005,
@@ -71,7 +74,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.17",
+            "cardmarket_price": "0.19",
             "tcgplayer_price": "0.24",
             "ebay_price": "4.95",
             "amazon_price": "3.68",
