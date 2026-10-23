@@ -1,0 +1,42 @@
+{
+    "id": 101403050,
+    "name": "Necromancer of Dragon Magic",
+    "typeline": [
+        "Dragon",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 Effect Monsters\r\nDuring your Main Phase: You can reveal 1 Fusion Monster in your Extra Deck, choose 1 non-Fusion Monster in your GY whose name is mentioned on the revealed monster, and this card's name becomes that monster's (until the End Phase), then you can Fusion Summon the revealed Fusion Monster, by banishing its materials from your hand, field, and/or GY, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion Monsters. You can only use this effect of \"Necromancer of Dragon Magic\" once per turn.",
+    "race": "Dragon",
+    "atk": 900,
+    "def": null,
+    "level": null,
+    "attribute": "WIND",
+    "archetype": "Prophecy",
+    "linkval": 2,
+    "linkmarkers": [
+        "Bottom-Left",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/necromancer-of-dragon-magic-16038",
+    "card_images": [
+        {
+            "id": 101403050,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403050.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403050.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403050.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 101403007,
+    "name": "Amazoness Spellcaster - Forbidden Spell Dance",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 \"Amazoness\" monster from your Deck to your hand, except a Level 3 monster. During your Main Phase: You can Fusion Summon 1 EARTH or WIND Fusion Monster from your Extra Deck, using monsters from your hand or field. During damage calculation, if your \"Amazoness\" monster battles an opponent's monster: You can banish this card from your GY; switch the battling monsters' ATK until the end of this turn. You can only use each effect of \"Amazoness Spellcaster - Forbidden Spell Dance\" once per turn.",
+    "race": "Warrior",
+    "atk": 400,
+    "def": 800,
+    "level": 3,
+    "attribute": "EARTH",
+    "archetype": "Amazoness",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/amazoness-spellcaster-forbidden-spell-dance-16027",
+    "card_images": [
+        {
+            "id": 101403007,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403007.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403007.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403007.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

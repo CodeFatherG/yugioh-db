@@ -1,0 +1,36 @@
+{
+    "id": 101403006,
+    "name": "Amazoness Fighter - Instant Kill Dance",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is added to your hand, except by drawing it: You can Special Summon it. If this card is Normal or Special Summoned: You can Set 1 Spell/Trap from your Deck that mentions \"Harpie Lady\". During damage calculation, if your \"Amazoness\" monster battles an opponent's monster: You can activate this effect; for that battle, neither monster can be destroyed by battle, also you take no battle damage. You can only use each effect of \"Amazoness Fighter - Instant Kill Dance\" once per turn.",
+    "race": "Warrior",
+    "atk": 1500,
+    "def": 1300,
+    "level": 4,
+    "attribute": "EARTH",
+    "archetype": "Amazoness",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/amazoness-fighter-instant-kill-dance-16029",
+    "card_images": [
+        {
+            "id": 101403006,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403006.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403006.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403006.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

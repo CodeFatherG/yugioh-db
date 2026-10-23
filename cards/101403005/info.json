@@ -1,0 +1,36 @@
+{
+    "id": 101403005,
+    "name": "Amazoness Chain Master - Brink of Death Chain Dance",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is sent to the GY and you have another \"Amazoness\" monster in your GY: You can pay 1000 LP; your opponent can choose 1 Level 10 monster in their Deck or Extra Deck, and if they do, you can Special Summon it to your field, ignoring its Summoning conditions, but neither player can activate its effects this turn. If they do not, you discard 1 random card from their hand. You can only use this effect of \"Amazoness Chain Master - Brink of Death Chain Dance\" once per turn.",
+    "race": "Warrior",
+    "atk": 1500,
+    "def": 1300,
+    "level": 4,
+    "attribute": "EARTH",
+    "archetype": "Amazoness",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/amazoness-chain-master-brink-of-death-chain-dance-16030",
+    "card_images": [
+        {
+            "id": 101403005,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403005.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403005.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403005.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

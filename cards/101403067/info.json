@@ -1,0 +1,27 @@
+{
+    "id": 101403067,
+    "name": "Power of the Duelist",
+    "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
+    "desc": "Declare 2, 3, or 4 Attributes; apply this effect based on the number declared, also during the End Phase of this turn, you must send all cards you control to the GY, unless you have activated effects of monsters of all declared Attributes in your field and/or GY this turn.\r\n\u25cf 2: Target 1 monster on the field; banish it.\r\n\u25cf 3: Draw 2 cards, then discard 1 card.\r\n\u25cf 4: Negate the effects of 2 face-up cards on the field.\r\nYou can only activate 1 \"Power of the Duelist\" per turn.",
+    "race": "Quick-Play",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/power-of-the-duelist-16033",
+    "card_images": [
+        {
+            "id": 101403067,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403067.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403067.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403067.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
