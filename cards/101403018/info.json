@@ -1,0 +1,37 @@
+{
+    "id": 101403018,
+    "name": "Ashtrata Tamayori",
+    "typeline": [
+        "Fairy",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Ashtra\" non-Tuner from your Deck in Defense Position, then you can change 1 face-up monster you control to face-down Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Summon using a Level 1 Tuner. If an \"Ashtra\" and/or face-down card(s) you control would be destroyed by card effect, you can banish this card from your GY instead. You can only use each effect of \"Ashtrata Tamayori\" once per turn.",
+    "race": "Fairy",
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "attribute": "FIRE",
+    "archetype": "Ashtra",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ashtrata-tamayori-16041",
+    "card_images": [
+        {
+            "id": 101403018,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403018.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403018.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403018.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

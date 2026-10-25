@@ -1,0 +1,42 @@
+{
+    "id": 101403049,
+    "name": "Codaedalus",
+    "typeline": [
+        "Sea Serpent",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "2 WATER monsters\r\nYou can only Special Summon \"Codaedalus(s)\" once per turn. This card's name becomes \"Umi\" while on the field. If this card is Link Summoned: You can activate this effect; during the End Phase of this turn, add 1 card from your GY to your hand that mentions \"Atlantis, City of the Sea Dragon\", except \"Codaedalus\". Once per turn: You can send 1 face-up \"Umi\" you control to the GY; send up to 2 Spells/Traps on the field to the GY.",
+    "race": "Sea Serpent",
+    "atk": 1400,
+    "def": null,
+    "level": null,
+    "attribute": "WATER",
+    "archetype": "Atlantis, City of the Sea Dragon",
+    "linkval": 2,
+    "linkmarkers": [
+        "Right",
+        "Bottom"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/codaedalus-16043",
+    "card_images": [
+        {
+            "id": 101403049,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403049.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403049.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403049.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
