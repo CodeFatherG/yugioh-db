@@ -11,16 +11,18 @@ on:
 
 jobs:
   weekly:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04          # pin the OS so image upgrades don't break the job
     permissions:
       contents: write
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
+
     - name: Set up Python 3.12
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
-        python-version: "3.12.3"
-        
+        python-version: "3.12"     # latest available 3.12.x patch
+        cache: pip
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
@@ -29,7 +31,6 @@ jobs:
     - name: Run Download
       run: |
         if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.card_count }}" ]; then
-          # Convert to integer by removing decimal part
           card_count=$(echo "${{ github.event.inputs.card_count }}" | awk '{print int($1)}')
           python ./main.py --card-count $card_count
         else
@@ -40,15 +41,15 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-    
+
     - name: Commit changes
       run: |
         git add cards/
         git add meta.json
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update dataset and build: $(date +'%Y-%m-%d %H:%M')")
-    
+
     - name: Install SSH key
-      uses: webfactory/ssh-agent@v0.5.0
+      uses: webfactory/ssh-agent@v0.9.0
       with:
         ssh-private-key: ${{ secrets.ACTION_DEPLOY_KEY }}
 
