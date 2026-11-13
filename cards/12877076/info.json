@@ -10,6 +10,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/awakening-of-the-crystal-ultimates-13274",
     "card_sets": [
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN106",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: Legend of the Crystal Beasts",
             "set_code": "SDCB-EN016",
             "set_rarity": "Common",
@@ -27,8 +34,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.21",
-            "tcgplayer_price": "0.17",
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.16",
             "ebay_price": "0.99",
             "amazon_price": "0.25",
             "coolstuffinc_price": "0.99"

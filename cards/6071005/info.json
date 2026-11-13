@@ -16,6 +16,29 @@
     "attribute": "DARK",
     "archetype": "Witchcrafter",
     "ygoprodeck_url": "https://ygoprodeck.com/card/witchcrafter-marka-15733",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN047",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN047",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 6071005,
@@ -26,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.64",
+            "tcgplayer_price": "2.38",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

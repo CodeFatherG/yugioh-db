@@ -23,6 +23,13 @@
             "set_price": "1.86"
         },
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN101",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 12",
             "set_code": "OP12-EN023",
             "set_rarity": "Common",
@@ -54,8 +61,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.05",
-            "tcgplayer_price": "0.10",
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.11",
             "ebay_price": "0.99",
             "amazon_price": "0.99",
             "coolstuffinc_price": "0.25"

@@ -1,6 +1,6 @@
 {
     "id": 21419436,
-    "name": "Unchained Soul Rage Abominator",
+    "name": "Unchained Soul of Abominable Rage",
     "typeline": [
         "Fiend",
         "Link",
@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "2+ monsters, including a Fiend monster\r\nIf your opponent Special Summons a monster(s) face-up (except during the Damage Step): You can target 1 of them; destroy 1 Fiend monster you control, and if you do, negate the targeted monster's effects until the end of this turn. When a monster effect is activated on the field and you control a Link-4 or higher \"Unchained\" Link Monster (Quick Effect): You can banish this card from your GY; destroy the monster that activated that effect. You can only use each effect of \"Unchained Soul Rage Abominator\" once per turn.",
+    "desc": "2+ monsters, including a Fiend monster\r\nIf your opponent Special Summons a monster(s) face-up (except during the Damage Step): You can target 1 of them; destroy 1 Fiend monster you control, and if you do, negate the targeted monster's effects until the end of this turn. When a monster effect is activated on the field and you control a Link-4 or higher \"Unchained\" Link Monster (Quick Effect): You can banish this card from your GY; destroy the monster that activated its effect. You can only use each effect of \"Unchained Soul of Abominable Rage\" once per turn.",
     "race": "Fiend",
     "atk": 2100,
     "def": null,
@@ -22,7 +22,30 @@
         "Right",
         "Bottom"
     ],
-    "ygoprodeck_url": "https://ygoprodeck.com/card/unchained-soul-rage-abominator-15738",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/unchained-soul-of-abominable-rage-15738",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN057",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN057",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN057",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 21419436,
@@ -33,8 +56,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.91",
+            "tcgplayer_price": "2.50",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

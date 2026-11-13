@@ -148,6 +148,13 @@
             "set_rarity": "Common",
             "set_rarity_code": "(C)",
             "set_price": "4.15"
+        },
+        {
+            "set_name": "Ultimate Tournament Pack 2",
+            "set_code": "UP02-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -161,7 +168,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.10",
-            "tcgplayer_price": "0.83",
+            "tcgplayer_price": "0.63",
             "ebay_price": "1.25",
             "amazon_price": "3.75",
             "coolstuffinc_price": "3.99"

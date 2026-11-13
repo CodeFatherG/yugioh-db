@@ -1,12 +1,35 @@
 {
     "id": 7293697,
-    "name": "Toon World the Perfect World",
+    "name": "Perfect Toon World",
     "type": "Spell Card",
     "humanReadableCardType": "Field Spell",
     "frameType": "spell",
-    "desc": "This card's name becomes \"Toon World\" while in the Field Zone. Once per turn: You can add 1 \"Toon\" card, or 1 card that mentions a \"Toon\" card's name, from your Deck to your hand. You can only use this effect of \"Toon World the Perfect World\" thrice per turn. Before resolving another activated card or effect, you can banish 1 Toon monster you control until immediately after that card/effect resolves, also you cannot banish monsters with that same original name with this effect of \"Toon World the Perfect World\" for the rest of this turn.",
+    "desc": "This card's name becomes \"Toon World\" while in the Field Zone. Once per turn, during your Main Phase: You can add 1 \"Toon\" card, or 1 card that mentions a \"Toon\" card by name, from your Deck to your hand. You can only use this effect of \"Perfect Toon World\" thrice per turn. If another card's effect activates, at the start of its resolution, you can banish 1 Toon monster you control until immediately after that effect resolves (each unique original monster name can only be banished once per turn, by you, by this effect of \"Perfect Toon World\").",
     "race": "Field",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/toon-world-the-perfect-world-15654",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/perfect-toon-world-15654",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN044",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN044",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN044",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "banlist_info": {
         "ban_ocg": "Limited"
     },
@@ -20,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "12.15",
+            "tcgplayer_price": "9.12",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -1,6 +1,6 @@
 {
     "id": 94014327,
-    "name": "Unchained Enma Lord Yama",
+    "name": "Unchained Firelord of Yama",
     "typeline": [
         "Fiend",
         "Link",
@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "2+ monsters, including an \"Unchained Soul\" monster\r\nDuring your End Phase: You can target up to 2 Fiend monsters in your GY that were destroyed and sent there this turn; Special Summon them, but you cannot Special Summon, except Fiend monsters, while you control either of those face-up monsters. If this card on the field would be destroyed by battle or card effect, you can destroy 1 face-up card on either field instead. You can only use each effect of \"Unchained Enma Lord Yama\" once per turn.",
+    "desc": "2+ monsters, including an \"Unchained Soul\" monster\r\nDuring your End Phase: You can target up to 2 Fiend monsters in your GY that were destroyed this turn; Special Summon them, but for each one, as long as it remains face-up in your Monster Zone, you cannot Special Summon, except Fiend monsters. If this card on the field would be destroyed by battle or card effect, you can destroy 1 other face-up card on either field instead. You can only use each effect of \"Unchained Firelord of Yama\" once per turn.",
     "race": "Fiend",
     "atk": 3000,
     "def": null,
@@ -23,7 +23,30 @@
         "Bottom",
         "Bottom-Right"
     ],
-    "ygoprodeck_url": "https://ygoprodeck.com/card/unchained-enma-lord-yama-15737",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/unchained-firelord-of-yama-15737",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN056",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN056",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN056",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 94014327,
@@ -34,8 +57,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.38",
+            "tcgplayer_price": "2.63",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

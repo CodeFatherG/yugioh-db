@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "1+ Link Monsters\r\nIf this card is Link Summoned, or at the end of the Damage Step if this card battled: Destroy as many monsters your opponent controls as possible, then inflict 300 damage to your opponent for each Link Monster in your GY. While face-up on the field, this card is also LIGHT, WATER, FIRE, and WIND-Attribute. Unaffected by the activated effects of monsters that share an Attribute with this card. If this card with 1000 or more ATK would be destroyed by battle or card effect, you can make its ATK become reduced by 1000 instead.",
+    "desc": "1+ Link Monsters\r\nWhile face-up on the field, this card is also LIGHT, WATER, FIRE, and WIND-Attribute, also it is unaffected by the activated effects of monsters with the same Attribute. If this card is Link Summoned, or at the end of the Damage Step if this card battled: Destroy as many monsters your opponent controls as possible, then inflict 300 damage to your opponent for each Link Monster in your GY. If this card with 1000 or more ATK would be destroyed by battle or card effect, you can change its ATK to be 1000 less than its current ATK instead.",
     "race": "Cyberse",
     "atk": 5000,
     "def": null,
@@ -24,6 +24,29 @@
         "Bottom-Right"
     ],
     "ygoprodeck_url": "https://ygoprodeck.com/card/perfectron-hydradrive-dragon-15620",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN028",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN028",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN028",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "banlist_info": {
         "ban_tcg": "Limited",
         "ban_ocg": "Limited"
@@ -38,8 +61,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.69",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

@@ -1,0 +1,43 @@
+{
+    "id": 59128241,
+    "name": "King of Beasts, Risen from the Valley of Flames",
+    "typeline": [
+        "Cyberse",
+        "Link",
+        "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "3 FIRE Effect Monsters\r\n(This card is always treated as \"Salamangreat Heatleo\".)\r\nFace-up monsters on the field become FIRE. During the Main Phase, if this card was Link Summoned using \"Salamangreat Heatleo\" (Quick Effect): You can target 1 card your opponent controls; shuffle it into the Deck, then you can make the ATK of 1 FIRE monster your opponent controls become the ATK of 1 monster in your GY. You can only use this effect of \"King of Beasts, Risen from the Valley of Flames\" once per turn.",
+    "race": "Cyberse",
+    "atk": 2300,
+    "def": null,
+    "level": null,
+    "attribute": "FIRE",
+    "archetype": "Salamangreat",
+    "linkval": 3,
+    "linkmarkers": [
+        "Top",
+        "Bottom-Left",
+        "Bottom-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/king-of-beasts-risen-from-the-valley-of-flames-16049",
+    "card_images": [
+        {
+            "id": 59128241,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59128241.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59128241.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59128241.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

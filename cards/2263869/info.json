@@ -58,6 +58,27 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN037",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN037",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN037",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Maze of Muertos",
             "set_code": "MZMU-EN117",
             "set_rarity": "Rare",
@@ -89,7 +110,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.31",
+            "cardmarket_price": "0.38",
             "tcgplayer_price": "0.28",
             "ebay_price": "150.00",
             "amazon_price": "54.99",

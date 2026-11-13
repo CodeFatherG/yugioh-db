@@ -19,6 +19,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/askaan-the-bicorned-ghoti-13422",
     "card_sets": [
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN093",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Power of the Elements",
             "set_code": "POTE-EN089",
             "set_rarity": "Common",
@@ -36,8 +43,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
-            "tcgplayer_price": "0.08",
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.09",
             "ebay_price": "0.99",
             "amazon_price": "0.25",
             "coolstuffinc_price": "0.25"

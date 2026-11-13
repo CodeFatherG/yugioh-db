@@ -46,6 +46,27 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN035",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN035",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN035",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "OTS Tournament Pack 30",
             "set_code": "OP30-EN003",
             "set_rarity": "Ultimate Rare",
@@ -105,8 +126,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.40",
-            "tcgplayer_price": "0.46",
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "0.38",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "17.99"

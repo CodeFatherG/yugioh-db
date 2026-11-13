@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-statue-14565",
     "card_sets": [
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN080",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Maze of the Master",
             "set_code": "MZTM-EN045",
             "set_rarity": "Ultra Rare",
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "13.44",
-            "tcgplayer_price": "14.10",
+            "cardmarket_price": "0.55",
+            "tcgplayer_price": "1.45",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

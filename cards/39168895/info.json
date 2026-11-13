@@ -52,6 +52,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN063",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Tournament Pack 8",
             "set_code": "TP8-EN011",
             "set_rarity": "Common",
@@ -83,8 +90,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.64",
-            "tcgplayer_price": "1.14",
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "1.12",
             "ebay_price": "0.99",
             "amazon_price": "3.09",
             "coolstuffinc_price": "2.99"

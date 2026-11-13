@@ -1,0 +1,27 @@
+{
+    "id": 100464005,
+    "name": "Finger Game",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Each player places 2 cards from their Deck on top of their Deck in any order, then they declare a number from 0 to 4, then they excavate the top 2 cards of their Deck. The player(s) whose declared number is the same as the number of monsters among all 4 excavated cards adds 1 of their excavated cards to their hand, also they place the other on the bottom of their Deck. The player(s) whose declared number is not the same places their excavated cards on the bottom of their Deck in any order. You can only activate 1 \"Finger Game\" per turn.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/finger-game-16063",
+    "card_images": [
+        {
+            "id": 100464005,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100464005.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100464005.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100464005.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

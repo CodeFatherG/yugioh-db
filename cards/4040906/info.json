@@ -1,0 +1,36 @@
+{
+    "id": 4040906,
+    "name": "Invincible Rocket Warrior",
+    "typeline": [
+        "Warrior",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be destroyed by card effects. You can only use each of the following effects of \"Invincible Rocket Warrior\" once per turn. You can send 1 Spell/Trap that mentions \"Dark Time Wizard\" from your Deck to the GY; Special Summon this card from your hand, then you can make 1 monster your opponent controls lose 1500 ATK, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion Monsters. When this card declares an attack: You can add 1 Level 4 Warrior monster from your Deck to your hand.",
+    "race": "Warrior",
+    "atk": 1500,
+    "def": 1300,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "Dark Time Wizard",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/invincible-rocket-warrior-16047",
+    "card_images": [
+        {
+            "id": 4040906,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4040906.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4040906.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4040906.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

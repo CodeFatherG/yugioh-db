@@ -31,6 +31,13 @@
             "set_price": "1.11"
         },
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN099",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Rising Rampage",
             "set_code": "RIRA-EN082",
             "set_rarity": "Rare",
@@ -48,8 +55,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.19",
-            "tcgplayer_price": "0.42",
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.41",
             "ebay_price": "0.99",
             "amazon_price": "0.99",
             "coolstuffinc_price": "0.25"

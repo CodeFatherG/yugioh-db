@@ -1,6 +1,6 @@
 {
     "id": 47095439,
-    "name": "Zenetnakht Sphinx",
+    "name": "Zenet-Nakhte Sphinx",
     "typeline": [
         "Zombie",
         "Ritual",
@@ -9,14 +9,23 @@
     "type": "Ritual Effect Monster",
     "humanReadableCardType": "Ritual Effect Monster",
     "frameType": "ritual",
-    "desc": "You can Ritual Summon this card with any \"Zenet\" card. This card equipped with an Equip Card is unaffected by your opponent's activated effects. You can only use each of the following effects of \"Zenetnakht Sphinx\" once per turn. You can discard this card; add 1 \"Zenet\" card from your Deck to your hand, except \"Zenetnakht Sphinx\". (Quick Effect): You can send 1 face-up Normal Monster Card you control to the GY; change as many monsters your opponent controls as possible to face-down Defense Position, then you can Special Summon 1 Normal Monster from your GY.",
+    "desc": "You can Ritual Summon this card with a \"Zenet\" card. Unaffected by your opponent's activated effects, while equipped with an Equip Card. You can only use each of the following effects of \"Zenet-Nakhte Sphinx\" once per turn. You can discard this card; add 1 \"Zenet\" card from your Deck to your hand, except \"Zenet-Nakhte Sphinx\". (Quick Effect): You can send 1 face-up Normal Monster Card you control to the GY; change as many monsters your opponent controls as possible to face-down Defense Position, then you can Special Summon 1 Normal Monster from your GY.",
     "race": "Zombie",
     "atk": 5000,
     "def": 2500,
     "level": 12,
     "attribute": "DARK",
     "archetype": "Zenet",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/zenetnakht-sphinx-15859",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zenet-nakhte-sphinx-15859",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN003",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 47095439,

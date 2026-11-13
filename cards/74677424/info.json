@@ -284,6 +284,13 @@
             "set_price": "0.00"
         },
         {
+            "set_name": "Ultimate Tournament Pack 2",
+            "set_code": "UP02-EN001",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Yu-Gi-Oh! Power of Chaos: Joey the Passion promotional cards",
             "set_code": "PCJ-EN001",
             "set_rarity": "Prismatic Secret Rare",
@@ -332,7 +339,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.14",
-            "tcgplayer_price": "0.25",
+            "tcgplayer_price": "0.26",
             "ebay_price": "2.99",
             "amazon_price": "2.69",
             "coolstuffinc_price": "0.99"

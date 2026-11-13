@@ -1,0 +1,36 @@
+{
+    "id": 100460050,
+    "name": "Ghostrick Lich",
+    "typeline": [
+        "Zombie",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. If this card is Normal Summoned or flipped face-up: Set 1 \"Ghostrick\" Quick-Play Spell or \"Ghostrick\" Normal Trap from your Deck (it can be activated this turn), also you cannot Special Summon for the rest of this turn, except DARK monsters. You can only use this effect of \"Ghostrick Lich\" once per turn. Once per turn: You can change this card to face-down Defense Position.",
+    "race": "Zombie",
+    "atk": 1500,
+    "def": 600,
+    "level": 3,
+    "attribute": "DARK",
+    "archetype": "Ghostrick",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ghostrick-lich-16055",
+    "card_images": [
+        {
+            "id": 100460050,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100460050.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100460050.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100460050.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

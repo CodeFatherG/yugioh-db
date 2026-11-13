@@ -25,6 +25,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN078",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Valiant Smashers",
             "set_code": "VASM-EN017",
             "set_rarity": "Collector's Rare",
@@ -49,8 +56,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "6.74",
-            "tcgplayer_price": "10.52",
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.64",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "29.99"

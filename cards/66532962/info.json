@@ -20,6 +20,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/magistus-chorozo-14564",
     "card_sets": [
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN090",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN100",
             "set_rarity": "Super Rare",
@@ -37,8 +44,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "3.10",
-            "tcgplayer_price": "10.36",
+            "cardmarket_price": "0.37",
+            "tcgplayer_price": "0.39",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

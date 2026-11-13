@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/evil-hero-dead-end-prison-14701",
     "card_sets": [
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN081",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN002",
             "set_rarity": "Quarter Century Secret Rare",
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "7.61",
-            "tcgplayer_price": "8.60",
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "1.14",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

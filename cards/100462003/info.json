@@ -1,0 +1,40 @@
+{
+    "id": 100462003,
+    "name": "Endymion, the Lord of Magistus",
+    "typeline": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
+    "type": "Pendulum Effect Monster",
+    "humanReadableCardType": "Pendulum Effect Monster",
+    "frameType": "effect_pendulum",
+    "desc": "[ Pendulum Effect ] \nEach time a Spell Card is activated, place 1 Spell Counter on this card when it resolves. During your Main Phase: You can destroy this card, and if you do, add 1 \"Magistus\" or \"Endymion\" monster from your Deck to your hand, except a Level 7 monster. You can only use this effect of \"Endymion, the Lord of Magistus\" once per turn.\n\n[ Monster Effect ] \n[ Pendulum Effect ] Each time a Spell Card is activated, place 1 Spell Counter on this card when it resolves. During your Main Phase: You can destroy this card, and if you do, add 1 \"Magistus\" or \"Endymion\" monster from your Deck to your hand, except a Level 7 monster. You can only use this effect of \"Endymion, the Lord of Magistus\" once per turn.\n[ Monster Effect ] Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Extra Deck) by banishing 1 face-up Spell you control. You can only Special Summon \"Endymion, the Lord of Magistus\" once per turn this way. Cannot be destroyed by battle or card effects while equipped with an Equip Card. At the end of the Damage Step, if this card attacked: You can banish 1 face-up Spell you control, or remove 3 Spell Counters from your field; this card gains 500 ATK, also it can attack again in a row.",
+    "race": "Spellcaster",
+    "pend_desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when it resolves. During your Main Phase: You can destroy this card, and if you do, add 1 \"Magistus\" or \"Endymion\" monster from your Deck to your hand, except a Level 7 monster. You can only use this effect of \"Endymion, the Lord of Magistus\" once per turn.",
+    "monster_desc": "[ Pendulum Effect ] Each time a Spell Card is activated, place 1 Spell Counter on this card when it resolves. During your Main Phase: You can destroy this card, and if you do, add 1 \"Magistus\" or \"Endymion\" monster from your Deck to your hand, except a Level 7 monster. You can only use this effect of \"Endymion, the Lord of Magistus\" once per turn.\n[ Monster Effect ] Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Extra Deck) by banishing 1 face-up Spell you control. You can only Special Summon \"Endymion, the Lord of Magistus\" once per turn this way. Cannot be destroyed by battle or card effects while equipped with an Equip Card. At the end of the Damage Step, if this card attacked: You can banish 1 face-up Spell you control, or remove 3 Spell Counters from your field; this card gains 500 ATK, also it can attack again in a row.",
+    "atk": 2700,
+    "def": 1700,
+    "level": 7,
+    "attribute": "DARK",
+    "archetype": "Endymion",
+    "scale": 9,
+    "ygoprodeck_url": "https://ygoprodeck.com/card/endymion-the-lord-of-magistus-16066",
+    "card_images": [
+        {
+            "id": 100462003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100462003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100462003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100462003.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

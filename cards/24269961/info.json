@@ -46,6 +46,13 @@
         },
         {
             "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN100",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
             "set_code": "MAMS-EN125",
             "set_rarity": "Starlight Rare",
             "set_rarity_code": "(StR)",
@@ -69,8 +76,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "8.66",
-            "tcgplayer_price": "8.66",
+            "cardmarket_price": "0.44",
+            "tcgplayer_price": "0.83",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "6.99"

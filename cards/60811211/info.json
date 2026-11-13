@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is Normal or Special Summoned: Banish (face-down) the top 8 cards of your Deck. Gains these effects based on the total number of face-down banished cards.\r\n\u25cf 10+: Cannot be destroyed by battle.\r\n\u25cf 20+: Once per turn (Quick Effect): You can target 1 card on the field; destroy it.\r\n\u25cf 30+: Once per turn, during your opponent's End Phase: You can add 1 of your face-down banished cards to your hand.\r\n\u25cf 40+: Skip both players' Draw Phases.",
+    "desc": "If this card is Normal or Special Summoned: Banish (face-down) 8 cards from the top of your Deck. Gains effects based on the number of face-down banished cards.\r\n\u25cf 10+: Cannot be destroyed by battle.\r\n\u25cf 20+: Once per turn (Quick Effect): You can target 1 card on the field; destroy it.\r\n\u25cf 30+: Once per turn, during your opponent's End Phase: You can add 1 of your face-down banished cards to your hand.\r\n\u25cf 40+: Skip the Draw Phase.",
     "race": "Psychic",
     "atk": 3000,
     "def": 2400,
@@ -16,6 +16,15 @@
     "attribute": "DARK",
     "archetype": "Trirealm Rift",
     "ygoprodeck_url": "https://ygoprodeck.com/card/trirealm-rift-darkness-15882",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN038",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 60811211,

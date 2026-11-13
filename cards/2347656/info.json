@@ -25,6 +25,27 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN031",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN031",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN031",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Quarter Century Stampede",
             "set_code": "RA04-EN295",
             "set_rarity": "Platinum Secret Rare",
@@ -77,8 +98,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.35",
-            "tcgplayer_price": "0.31",
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.26",
             "ebay_price": "2.99",
             "amazon_price": "27.99",
             "coolstuffinc_price": "3.99"

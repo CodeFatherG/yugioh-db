@@ -4,10 +4,33 @@
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Activate 1 of these effects;\r\n\u25cf Destroy 1 \"Witchcrafter\" monster you control and 1 card your opponent controls.\r\n\u25cf Fusion Summon 1 \"Witchcrafter\" Fusion Monster from your Extra Deck, by shuffling Spellcaster monsters from your GY and/or banishment into the Deck.\r\nDuring your End Phase, if you control a \"Witchcrafter\" monster, while this card is in your GY: You can add this card to your hand. You can only use 1 \"Witchcrafter Celebration\" effect per turn, and only once that turn.",
+    "desc": "Activate 1 of these effects;\r\n\u25cf Destroy 1 \"Witchcrafter\" monster you control and 1 card your opponent controls.\r\n\u25cf Fusion Summon 1 \"Witchcrafter\" Fusion Monster from your Extra Deck, by shuffling Spellcaster monsters from your GY or banishment into the Deck.\r\nDuring your End Phase, if this card is in your GY and you control a \"Witchcrafter\" monster: You can add this card to your hand. You can only use 1 \"Witchcrafter Celebration\" effect per turn, and only once that turn.",
     "race": "Quick-Play",
     "archetype": "Witchcrafter",
     "ygoprodeck_url": "https://ygoprodeck.com/card/witchcrafter-celebration-15689",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN050",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN050",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN050",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 6958567,
@@ -18,8 +41,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.31",
+            "tcgplayer_price": "0.41",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

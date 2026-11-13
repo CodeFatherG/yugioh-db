@@ -25,6 +25,27 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN029",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN029",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN029",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Magnificent Monsters",
             "set_code": "MAMO-EN046",
             "set_rarity": "Ultra Rare",
@@ -57,7 +78,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.17",
-            "tcgplayer_price": "0.22",
+            "tcgplayer_price": "0.24",
             "ebay_price": "1.64",
             "amazon_price": "3.59",
             "coolstuffinc_price": "0.39"

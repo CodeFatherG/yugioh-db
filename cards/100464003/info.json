@@ -1,0 +1,36 @@
+{
+    "id": 100464003,
+    "name": "Craydeath the Four Dimensional Dragon",
+    "typeline": [
+        "Dragon",
+        "Synchro",
+        "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuners\r\nWhen the fourth attack of each turn is declared: You can make this card's ATK become 4000. You can banish up to 4 cards from your hand, then activate this effect based on the number banished (but you can only use each of these effects of \"Craydeath the Four Dimensional Dragon\" once per turn);\r\n\u25cf 1: Special Summon 1 Level 4 or lower monster from your hand.\r\n\u25cf 2: Banish 1 Level 4 or lower monster on the field.\r\n\u25cf 3: Send 1 DARK monster from your Deck to the GY.\r\n\u25cf 4: Draw 5 cards instead of 1 for your normal draw during your next Draw Phase.",
+    "race": "Dragon",
+    "atk": 2400,
+    "def": 2400,
+    "level": 8,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/craydeath-the-four-dimensional-dragon-16061",
+    "card_images": [
+        {
+            "id": 100464003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100464003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100464003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100464003.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 100464002,
+    "name": "Black Shasta",
+    "typeline": [
+        "Dinosaur",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is in your hand and you control a Normal Monster or a Dinosaur monster: You can Special Summon this card. If this card is destroyed by battle or card effect and sent to the GY: You can equip this card to 1 face-up monster on the field as an Equip Spell with these effects.\r\n\u25cf The equipped monster loses 2400 ATK.\r\n\u25cf If the equipped monster has 2500 or more original ATK, neither player can activate its effects.\r\nYou can only use each effect of \"Black Shasta\" once per turn.",
+    "race": "Dinosaur",
+    "atk": 1200,
+    "def": 1200,
+    "level": 6,
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/black-shasta-16059",
+    "card_images": [
+        {
+            "id": 100464002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100464002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100464002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100464002.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

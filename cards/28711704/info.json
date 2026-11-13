@@ -26,6 +26,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN076",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Quarter Century Bonanza",
             "set_code": "RA03-EN272",
             "set_rarity": "Platinum Secret Rare",
@@ -64,8 +71,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "8.50",
-            "tcgplayer_price": "9.17",
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "1.18",
             "ebay_price": "7.25",
             "amazon_price": "19.99",
             "coolstuffinc_price": "7.99"

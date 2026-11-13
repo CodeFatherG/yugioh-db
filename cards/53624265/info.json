@@ -30,6 +30,13 @@
             "set_rarity": "Rare",
             "set_rarity_code": "(R)",
             "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN073",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
         }
     ],
     "card_images": [
@@ -42,8 +49,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.27",
-            "tcgplayer_price": "0.54",
+            "cardmarket_price": "0.47",
+            "tcgplayer_price": "0.35",
             "ebay_price": "0.99",
             "amazon_price": "0.83",
             "coolstuffinc_price": "0.49"

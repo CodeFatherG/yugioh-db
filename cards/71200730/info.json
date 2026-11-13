@@ -59,6 +59,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN062",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Speed Duel Tournament Pack 6",
             "set_code": "STP6-EN020",
             "set_rarity": "Common",
@@ -90,8 +97,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.15",
-            "tcgplayer_price": "0.28",
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.22",
             "ebay_price": "2.99",
             "amazon_price": "0.98",
             "coolstuffinc_price": "0.25"

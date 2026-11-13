@@ -33,6 +33,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN072",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Speed Duel Starter Decks: Match of the Millennium",
             "set_code": "SS04-ENB08",
             "set_rarity": "Common",
@@ -64,8 +71,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "3.26",
-            "tcgplayer_price": "5.85",
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.78",
             "ebay_price": "6.49",
             "amazon_price": "2.13",
             "coolstuffinc_price": "3.99"

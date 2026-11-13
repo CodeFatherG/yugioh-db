@@ -9,7 +9,7 @@
     "type": "Fusion Monster",
     "humanReadableCardType": "Fusion Effect Monster",
     "frameType": "fusion",
-    "desc": "1 \"Witchcrafter\" monster + 1 Spellcaster monster\r\nDuring the Main or Battle Phase (Quick Effect): You can activate 1 of these effects;\r\n\u25cf Add 1 \"Witchcrafter\" Spell from your Deck to your hand.\r\n\u25cf Reveal 1 \"Witchcrafter\" Normal or Quick-Play Spell in your hand; apply that Spell's activation effect.\r\nDuring your End Phase: You can return 1 of your banished \"Witchcrafter\" cards to the GY. You can only use each effect of \"Witchcrafter Pupils\" once per turn.",
+    "desc": "1 \"Witchcrafter\" monster + 1 Spellcaster monster\r\nDuring the Main or Battle Phase (Quick Effect): You can activate 1 of these effects;\r\n\u25cf Add 1 \"Witchcrafter\" Spell from your Deck to your hand.\r\n\u25cf Reveal 1 \"Witchcrafter\" Normal or Quick-Play Spell in your hand; apply that card's activation effect.\r\nDuring your End Phase: You can return 1 of your banished \"Witchcrafter\" cards to the GY. You can only use each effect of \"Witchcrafter Pupils\" once per turn.",
     "race": "Spellcaster",
     "atk": 1800,
     "def": 2100,
@@ -17,6 +17,29 @@
     "attribute": "FIRE",
     "archetype": "Witchcrafter",
     "ygoprodeck_url": "https://ygoprodeck.com/card/witchcrafter-pupils-15734",
+    "card_sets": [
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN049",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN049",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN049",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 69964858,
@@ -27,8 +50,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.38",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

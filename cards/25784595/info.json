@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/bone-archfiend-14017",
     "card_sets": [
         {
+            "set_name": "Magnificent Maestros",
+            "set_code": "MAMS-EN077",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Structure Deck: The Crimson King",
             "set_code": "SDCK-EN003",
             "set_rarity": "Common",
@@ -35,8 +42,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "1.37",
-            "tcgplayer_price": "1.52",
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.36",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.25"
