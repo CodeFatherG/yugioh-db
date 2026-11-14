@@ -1,0 +1,36 @@
+{
+    "id": 100463001,
+    "name": "Obelisk the Tormentor, the Pharaoh's Memory",
+    "typeline": [
+        "Divine-Beast",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. When you draw this card, or an opponent's monster declares a direct attack: You can reveal this card in your hand; Special Summon from your GY as many monsters destroyed this turn as possible, then Tribute as many monsters you control as possible, and if you do, Special Summon this card, then if you Tributed 3 or more monsters, destroy as many monsters your opponent controls as possible, and if you do, halve your opponent's LP. You can only use this effect of \"Obelisk the Tormentor, the Pharaoh's Memory\" once per Duel.",
+    "race": "Divine-Beast",
+    "atk": 4000,
+    "def": 4000,
+    "level": 10,
+    "attribute": "DIVINE",
+    "archetype": "Egyptian God",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/obelisk-the-tormentor-the-pharaoh-s-memory-16076",
+    "card_images": [
+        {
+            "id": 100463001,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100463001.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100463001.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100463001.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

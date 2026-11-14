@@ -1,0 +1,36 @@
+{
+    "id": 100461101,
+    "name": "Arcana Force VIII - The Strength",
+    "typeline": [
+        "Fairy",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is in your hand and a card that has a coin tossing effect is on the field: You can Special Summon this card. You can only use this effect of \"Arcana Force VIII - The Strength\" once per turn. If this card is Summoned: Toss a coin.\r\n\u25cf Heads: Take control of 1 monster your opponent controls.\r\n\u25cf Tails: Your opponent takes control of 1 other monster you control.",
+    "race": "Fairy",
+    "atk": 1800,
+    "def": 1800,
+    "level": 5,
+    "attribute": "LIGHT",
+    "archetype": "Arcana Force",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/arcana-force-viii-the-strength-16077",
+    "card_images": [
+        {
+            "id": 100461101,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100461101.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100461101.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100461101.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 101404002,
+    "name": "Krystal Cloud Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If you control no monsters, or all monsters you control mention \"Endless Darkness\": You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 monster that mentions \"Endless Darkness\" from your Deck to your hand, except a Level 6 monster, or if you have a banished \"Blue-Eyes\" monster, you can add 2 such monsters with different Attributes from each other instead. You can only use each effect of \"Krystal Cloud Dragon\" once per turn.",
+    "race": "Dragon",
+    "atk": 2500,
+    "def": 1000,
+    "level": 6,
+    "attribute": "LIGHT",
+    "archetype": "Endless Darkness",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/krystal-cloud-dragon-16075",
+    "card_images": [
+        {
+            "id": 101404002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101404002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101404002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101404002.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

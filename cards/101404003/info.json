@@ -1,0 +1,36 @@
+{
+    "id": 101404003,
+    "name": "Assault Slash Wyvern",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can send to the GY, or banish, 1 \"Blue-Eyes\" monster from your Deck. If you have a banished \"Blue-Eyes\" monster: You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" or 1 monster that mentions \"Endless Darkness\", except \"Assault Slash Wyvern\", from your Deck or GY. You can only use each effect of \"Assault Slash Wyvern\" once per turn.",
+    "race": "Dragon",
+    "atk": 1800,
+    "def": 1000,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "Endless Darkness",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/assault-slash-wyvern-16078",
+    "card_images": [
+        {
+            "id": 101404003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101404003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101404003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101404003.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 101404004,
+    "name": "Saggi the Dark Sacrifice Clown",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 Spell/Trap that mentions \"Endless Darkness\" or 1 \"Dark Sacrifice\" from your Deck to your hand. During your opponent's turn, if you have a banished \"Blue-Eyes\" monster (Quick Effect): You can Tribute this card, then target 1 monster on the field; destroy it. If a Dragon monster(s) you control would be destroyed by card effect, you can banish this card from your hand or field instead. You can only use each effect of \"Saggi the Dark Sacrifice Clown\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 600,
+    "def": 1500,
+    "level": 3,
+    "attribute": "DARK",
+    "archetype": "Endless Darkness",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/saggi-the-dark-sacrifice-clown-16072",
+    "card_images": [
+        {
+            "id": 101404004,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101404004.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101404004.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101404004.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
