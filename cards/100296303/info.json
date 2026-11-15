@@ -1,0 +1,36 @@
+{
+    "id": 100296303,
+    "name": "Spellbook Genius of Prophecy",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is added to your hand, except by drawing it: You can Special Summon it. If you have \"Regulus, the Prince of Endymion\" in your field or GY: You can banish 1 Spell from your GY; Special Summon 1 monster from your hand. During the Battle Phase (Quick Effect): You can banish 1 Spell from your GY, then target 1 face-up monster on the field; change it to face-down Defense Position. You can only use each effect of \"Spellbook Genius of Prophecy\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 500,
+    "def": 400,
+    "level": 2,
+    "attribute": "WATER",
+    "archetype": "Prophecy",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spellbook-genius-of-prophecy-16082",
+    "card_images": [
+        {
+            "id": 100296303,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100296303.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100296303.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100296303.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
