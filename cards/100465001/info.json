@@ -1,0 +1,36 @@
+{
+    "id": 100465001,
+    "name": "Bau the Black Dog Beast",
+    "typeline": [
+        "Beast",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 Level 7 or higher DARK monster with 2500 DEF, 1 \"Stairway to the Underworld\", or 1 \"Domain of the Dark Ruler\" from your Deck to your hand. If this card is Tributed or banished: You can target 1 Counter Trap in your GY; add it to your hand. You can only use each effect of \"Bau the Black Dog Beast\" once per turn.",
+    "race": "Beast",
+    "atk": 1800,
+    "def": 1200,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "Emissary of Darkness",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bau-the-black-dog-beast-16104",
+    "card_images": [
+        {
+            "id": 100465001,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100465001.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100465001.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100465001.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

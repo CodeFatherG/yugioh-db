@@ -1,0 +1,35 @@
+{
+    "id": 100465013,
+    "name": "Beetle Gardna",
+    "typeline": [
+        "Insect",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal Summoned or flipped face-up: You can target 1 monster in your opponent's GY; Special Summon it to your field in Defense Position, but its effects are negated, also it becomes an Insect monster. If this card is sent to the GY and you control a face-up non-Insect monster: You can banish 1 face-up monster on the field until the End Phase. You can only use each effect of \"Beetle Gardna\" once per turn.",
+    "race": "Insect",
+    "atk": 0,
+    "def": 2000,
+    "level": 4,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/beetle-gardna-16098",
+    "card_images": [
+        {
+            "id": 100465013,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100465013.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100465013.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100465013.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

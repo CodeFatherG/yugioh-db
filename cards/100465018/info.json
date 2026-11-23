@@ -1,0 +1,38 @@
+{
+    "id": 100465018,
+    "name": "Ancient Dragon Priestess",
+    "typeline": [
+        "Spellcaster",
+        "Fusion",
+        "Tuner",
+        "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Tuner Effect Monster",
+    "frameType": "fusion",
+    "desc": "1 Fusion, Synchro, Xyz, or Link Monster + 1 Spellcaster monster\r\n(This card is always treated as an \"Invoked\" and \"Magistus\" card.)\r\nIf this card is Fusion Summoned: You can activate this effect; until the end of this turn, all face-up monsters your opponent currently controls lose 1800 ATK, also negate their effects. You can banish this card from your GY, then target 1 \"Magistus\" or \"Aleister\" monster in your GY; Special Summon it. You can only use each effect of \"Ancient Dragon Priestess\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 2800,
+    "def": 2800,
+    "level": 8,
+    "attribute": "LIGHT",
+    "archetype": "Invoked",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-dragon-priestess-16089",
+    "card_images": [
+        {
+            "id": 100465018,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100465018.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100465018.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100465018.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

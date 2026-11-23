@@ -1,0 +1,36 @@
+{
+    "id": 100465006,
+    "name": "Cyber Alnair",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control a Machine \"Cyber\" monster. If this card is Special Summoned: You can add 1 \"Cyber Emergency\" from your Deck to your hand. If this card is banished: You can activate this effect; during the End Phase of this turn, shuffle up to 7 of your banished Machine \"Cyber\" monsters into the Deck. You can only use each effect of \"Cyber Alnair\" once per turn.",
+    "race": "Machine",
+    "atk": 1000,
+    "def": 1600,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "Cyber",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-alnair-16101",
+    "card_images": [
+        {
+            "id": 100465006,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100465006.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100465006.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100465006.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 100465005,
+    "name": "Cyber Thuban",
+    "typeline": [
+        "Machine",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 \"Cyber\" Spell/Trap from your GY. If this card is Special Summoned: You can add 1 Machine \"Cyber\" monster from your Deck to your hand, except \"Cyber Thuban\". If this card is sent to the GY: You can activate this effect; your opponent cannot activate cards or effects when you Special Summon a Level 10 LIGHT Machine monster(s) this turn. You can only use each effect of \"Cyber Thuban\" once per turn.",
+    "race": "Machine",
+    "atk": 2100,
+    "def": 1000,
+    "level": 5,
+    "attribute": "LIGHT",
+    "archetype": "Cyber",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-thuban-16106",
+    "card_images": [
+        {
+            "id": 100465005,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100465005.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100465005.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100465005.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 65116919,
+    "name": "Ghostrick Spunkie",
+    "typeline": [
+        "Fiend",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. When your opponent activates a monster effect on the field (Quick Effect): You can Special Summon this card from your hand in face-down Defense Position, and if you do, place 1 \"Ghostrick\" Field Spell or \"Ghostrick\" Continuous Trap from your hand or Deck face-up on your field, then if your opponent has 5 or more cards in their GY, you can Special Summon 1 monster from your hand in face-down Defense Position. Once per turn: You can change this card to face-down Defense Position.",
+    "race": "Fiend",
+    "atk": 300,
+    "def": 200,
+    "level": 1,
+    "attribute": "DARK",
+    "archetype": "Ghostrick",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ghostrick-spunkie-16085",
+    "card_images": [
+        {
+            "id": 65116919,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65116919.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65116919.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65116919.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
