@@ -1,6 +1,6 @@
 {
     "id": 10884847,
-    "name": "Zenetmes Nekhbet",
+    "name": "Zenet-Mose Nekhbet",
     "typeline": [
         "Zombie",
         "Ritual",
@@ -9,14 +9,23 @@
     "type": "Ritual Effect Monster",
     "humanReadableCardType": "Ritual Effect Monster",
     "frameType": "ritual",
-    "desc": "You can Ritual Summon this card with any \"Zenet\" card. This card equipped with an Equip Card cannot be destroyed by battle. You can only use each of the following effects of \"Zenetmes Nekhbet\" once per turn. You can discard this card; add 1 \"Zenet\" card from your GY to your hand, except \"Zenetmes Nekhbet\". (Quick Effect): You can Special Summon 1 face-up Normal Monster Card from your Spell & Trap Zone, and if you do, equip this card you control to it as an Equip Spell that gives it 2500 ATK.",
+    "desc": "You can Ritual Summon this card with a \"Zenet\" card. Cannot be destroyed by battle, while equipped with an Equip Card. You can only use each of the following effects of \"Zenet-Mose Nekhbet\" once per turn. You can discard this card; add 1 \"Zenet\" card from your GY to your hand, except \"Zenet-Mose Nekhbet\". (Quick Effect): You can Special Summon 1 face-up Normal Monster Card from your Spell & Trap Zone, and if you do, equip this card you control to it as an Equip Spell that gives it 2500 ATK.",
     "race": "Zombie",
     "atk": 2800,
     "def": 1500,
     "level": 6,
     "attribute": "DARK",
     "archetype": "Zenet",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/zenetmes-nekhbet-15858",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zenet-mose-nekhbet-15858",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 10884847,

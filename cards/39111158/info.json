@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/tri-horned-dragon-3313",
     "card_sets": [
         {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN012",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legend of Blue Eyes White Dragon",
             "set_code": "LOB-000",
             "set_rarity": "Secret Rare",
@@ -63,7 +70,7 @@
     "card_prices": [
         {
             "cardmarket_price": "1.95",
-            "tcgplayer_price": "3.82",
+            "tcgplayer_price": "3.83",
             "ebay_price": "19.99",
             "amazon_price": "39.98",
             "coolstuffinc_price": "2.99"

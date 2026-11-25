@@ -1,13 +1,22 @@
 {
     "id": 46983930,
-    "name": "The Stars of Raise Moon",
+    "name": "Stars of Raise Moon",
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Place 1 \"Raise Moon\" card from your Deck on top of your Deck, except \"The Stars of Raise Moon\", but you cannot place another card with the same name with this effect of \"The Stars of Raise Moon\" this turn, also neither player can add cards from the Deck to the hand for the rest of this turn after this card resolves, except by drawing them. You can banish this card from your GY, then activate 1 of these effects;\r\n\u25cf Each player draws 1 card.\r\n\u25cf If you control a Spellcaster \"Raise Moon\" Xyz Monster: Draw 1 card.",
+    "desc": "Place 1 \"Raise Moon\" card from your Deck on top of your Deck, except \"Stars of Raise Moon\" (each unique card name can only be placed once per turn, by you, by this effect of \"Stars of Raise Moon\"), also for the rest of this turn after this card resolves, neither player can add cards from their Main Deck to their hand, except by drawing them. You can banish this card from your GY, then activate 1 of these effects;\r\n\u25cf Each player draws 1 card.\r\n\u25cf If you control a Spellcaster \"Raise Moon\" Xyz Monster: Draw 1 card.",
     "race": "Normal",
     "archetype": "Raise Moon",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/the-stars-of-raise-moon-15917",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/stars-of-raise-moon-15917",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN024",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 46983930,

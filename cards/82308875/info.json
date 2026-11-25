@@ -25,6 +25,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN054",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Star Pack 2014",
             "set_code": "SP14-EN027",
             "set_rarity": "Common",
@@ -49,7 +56,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.79",
+            "cardmarket_price": "0.74",
             "tcgplayer_price": "6.31",
             "ebay_price": "15.00",
             "amazon_price": "18.66",

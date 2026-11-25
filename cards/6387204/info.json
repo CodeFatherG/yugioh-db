@@ -19,6 +19,20 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/number-c6-chronomaly-chaos-atlandis-563",
     "card_sets": [
         {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN028",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN028",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Premium Gold",
             "set_code": "PGLD-EN018",
             "set_rarity": "Gold Secret Rare",
@@ -37,7 +51,7 @@
     "card_prices": [
         {
             "cardmarket_price": "5.07",
-            "tcgplayer_price": "2.22",
+            "tcgplayer_price": "2.50",
             "ebay_price": "4.95",
             "amazon_price": "0.25",
             "coolstuffinc_price": "2.99"

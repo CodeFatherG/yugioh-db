@@ -4,9 +4,25 @@
     "type": "Spell Card",
     "humanReadableCardType": "Quick-Play Spell",
     "frameType": "spell",
-    "desc": "Declare 2, 3, or 4 Attributes; apply this effect based on the number declared, also during the End Phase of this turn, you must send all cards you control to the GY, unless you have activated effects of monsters of all declared Attributes in your field and/or GY this turn.\r\n\u25cf 2: Target 1 monster on the field; banish it.\r\n\u25cf 3: Draw 2 cards, then discard 1 card.\r\n\u25cf 4: Negate the effects of 2 face-up cards on the field.\r\nYou can only activate 1 \"Power of the Duelist\" per turn.",
+    "desc": "Declare 2, 3, or 4 Attributes; apply the appropriate effects.\r\n\u25cf 2: Target 1 monster on the field; banish it.\r\n\u25cf 3: Draw 2 cards, then discard 1 card.\r\n\u25cf 4: Negate the effects of 2 face-up cards on the field.\r\nYou can only activate 1 \"Power of the Duelist\" per turn. During the End Phase of this turn, check all monster effects you activated on the field or in the GY this turn. Unless they included monsters from every Attribute you declared when activating this card, you must send all cards you control to the GY.",
     "race": "Quick-Play",
     "ygoprodeck_url": "https://ygoprodeck.com/card/power-of-the-duelist-16033",
+    "card_sets": [
+        {
+            "set_name": "Immortal Phoenix",
+            "set_code": "IMPH-EN067",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Immortal Phoenix",
+            "set_code": "IMPH-EN067",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 71599345,

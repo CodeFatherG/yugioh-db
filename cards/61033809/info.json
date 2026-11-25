@@ -1,6 +1,6 @@
 {
     "id": 61033809,
-    "name": "Sky Thunder Trirealm Rift Yomi",
+    "name": "Trirealm Rift Havocs",
     "typeline": [
         "Psychic",
         "Effect"
@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can reveal this card in your hand; banish it (face-down), and if you do, add 1 of your face-down banished \"Trirealm Rift\" cards to your hand, except a Level 5 monster. You can only use this effect of \"Sky Thunder Trirealm Rift Yomi\" once per turn. If this card is Normal or Special Summoned: Banish (face-down) the top 5 cards of your Deck. Once per turn, when your opponent activates a monster effect (Quick Effect): You can shuffle 1 of your face-down banished \"Trirealm Rift\" monsters with the same Attribute into the Deck, and if you do, negate the activation.",
+    "desc": "If this card is Normal or Special Summoned: Banish (face-down) 5 cards from the top of your Deck. You can reveal this card in your hand; banish this card (face-down), and if you do, add 1 of your face-down banished \"Trirealm Rift\" cards to your hand, except a Level 5 monster. You can only use this effect of \"Trirealm Rift Havocs\" once per turn. Once per turn, when your opponent activates a monster effect (Quick Effect): You can shuffle 1 of your face-down banished \"Trirealm Rift\" monsters with the same Attribute as that monster into the Deck, and if you do, negate that activation.",
     "race": "Psychic",
     "atk": 1000,
     "def": 2500,
     "level": 5,
     "attribute": "LIGHT",
     "archetype": "Trirealm Rift",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-thunder-trirealm-rift-yomi-15878",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trirealm-rift-havocs-15878",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN035",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 61033809,

@@ -18,6 +18,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/labradorite-dragon-5286",
     "card_sets": [
         {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN047",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Shadow Specters",
             "set_code": "SHSP-EN001",
             "set_rarity": "Super Rare",
@@ -43,7 +50,7 @@
     "card_prices": [
         {
             "cardmarket_price": "0.15",
-            "tcgplayer_price": "0.69",
+            "tcgplayer_price": "0.70",
             "ebay_price": "0.99",
             "amazon_price": "0.25",
             "coolstuffinc_price": "0.25"

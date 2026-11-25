@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "You can discard 1 other card; Special Summon this card from your hand. If this card is Special Summoned: You can add 1 \"Sun God\" card from your Deck to your hand, except \"Helpoemer, Chanter of the Sun God\", then if your opponent's LP are at least 2000 higher than yours, you can discard 1 random card from their hand. During the End Phase, if \"The Immortal Sun God\" was sent to your GY this turn: You can add this card from your GY to your hand. You can only use each effect of \"Helpoemer, Chanter of the Sun God\" once per turn.",
+    "desc": "If this card is in your hand: You can discard 1 other card; Special Summon this card. If this card is Special Summoned: You can add 1 \"Sun God\" card from your Deck to your hand, except \"Helpoemer, Chanter of the Sun God\", then if your opponent's LP are at least 2000 higher than yours, you can discard 1 random card from their hand. During the End Phase, if \"The Immortal Sun God\" was sent to your GY this turn: You can add this card from the GY to your hand. You can only use each effect of \"Helpoemer, Chanter of the Sun God\" once per turn.",
     "race": "Fiend",
     "atk": 2000,
     "def": 1400,
@@ -16,6 +16,15 @@
     "attribute": "DARK",
     "archetype": "Sun God",
     "ygoprodeck_url": "https://ygoprodeck.com/card/helpoemer-chanter-of-the-sun-god-15908",
+    "card_sets": [
+        {
+            "set_name": "Immortal Phoenix",
+            "set_code": "IMPH-EN001",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 82951145,

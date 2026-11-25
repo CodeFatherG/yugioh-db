@@ -72,6 +72,13 @@
             "set_price": "0"
         },
         {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN045",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Modern Decks 2026",
             "set_code": "L26D-ENX23",
             "set_rarity": "Common",
@@ -89,7 +96,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
+            "cardmarket_price": "0.15",
             "tcgplayer_price": "0.21",
             "ebay_price": "6.95",
             "amazon_price": "24.99",

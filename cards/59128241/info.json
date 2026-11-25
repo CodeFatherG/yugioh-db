@@ -9,7 +9,7 @@
     "type": "Link Monster",
     "humanReadableCardType": "Link Effect Monster",
     "frameType": "link",
-    "desc": "3 FIRE Effect Monsters\r\n(This card is always treated as \"Salamangreat Heatleo\".)\r\nFace-up monsters on the field become FIRE. During the Main Phase, if this card was Link Summoned using \"Salamangreat Heatleo\" (Quick Effect): You can target 1 card your opponent controls; shuffle it into the Deck, then you can make the ATK of 1 FIRE monster your opponent controls become the ATK of 1 monster in your GY. You can only use this effect of \"King of Beasts, Risen from the Valley of Flames\" once per turn.",
+    "desc": "3 FIRE Effect Monsters\r\n(This card is always treated as \"Salamangreat Heatleo\".)\r\nAll face-up monsters on the field become FIRE. During the Main Phase, if you control this card that was Link Summoned using \"Salamangreat Heatleo\" as material (Quick Effect): You can target 1 card your opponent controls; shuffle it into the Deck, then you can make the ATK of 1 FIRE monster your opponent controls become equal to 1 monster in your GY. You can only use this effect of \"King of Beasts, Risen from the Valley of Flames\" once per turn.",
     "race": "Cyberse",
     "atk": 2300,
     "def": null,
@@ -23,6 +23,22 @@
         "Bottom-Right"
     ],
     "ygoprodeck_url": "https://ygoprodeck.com/card/king-of-beasts-risen-from-the-valley-of-flames-16049",
+    "card_sets": [
+        {
+            "set_name": "Immortal Phoenix",
+            "set_code": "IMPH-EN048",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Immortal Phoenix",
+            "set_code": "IMPH-EN048",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 59128241,

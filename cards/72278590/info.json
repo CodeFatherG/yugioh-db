@@ -1,13 +1,22 @@
 {
     "id": 72278590,
-    "name": "Zenet Per Akh",
+    "name": "Zenet Per Aarkh",
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Add 1 \"Zenet\" monster from your Deck to your hand. If you discard a \"Zenet\" Ritual Monster(s) while this card is in your GY (except during the Damage Step): You can banish this card; Special Summon 1 non-Effect Fusion Monster from your Extra Deck with ATK less than or equal to any of the discarded monsters' as a Normal Monster Card, but for the rest of this turn, it cannot attack directly, also you cannot activate non-Zombie monster effects. You can only use each effect of \"Zenet Per Akh\" once per turn.",
+    "desc": "Add 1 \"Zenet\" monster from your Deck to your hand. If you discard a \"Zenet\" Ritual Monster(s) while this card is in your GY (except during the Damage Step): You can banish this card; Special Summon 1 non-Effect Fusion Monster from your Extra Deck with ATK less than or equal to the discarded monster's ATK (it is treated as a Normal Monster Card), but it cannot attack directly this turn, also you cannot activate monster effects for the rest of this turn, except Zombie monsters. You can only use each effect of \"Zenet Per Aarkh\" once per turn.",
     "race": "Normal",
     "archetype": "Zenet",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/zenet-per-akh-15857",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zenet-per-aarkh-15857",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN007",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 72278590,

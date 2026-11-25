@@ -1,6 +1,6 @@
 {
     "id": 33822112,
-    "name": "Mad Tempest Trirealm Rift Ploutonion",
+    "name": "Trirealm Rift Savage Storms",
     "typeline": [
         "Psychic",
         "Effect"
@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "(Quick Effect): You can reveal this card and 1 other \"Trirealm Rift\" card in your hand; banish both (face-down), and if you do, draw 2 cards. You can only use this effect of \"Mad Tempest Trirealm Rift Ploutonion\" once per turn. If this card is Normal or Special Summoned: Banish (face-down) the top 7 cards of your Deck. Once per turn (Quick Effect): You can shuffle 1 of your face-down banished \"Trirealm Rift\" monsters into the Deck, then you can shuffle 1 monster your opponent controls with the same Attribute into the Deck.",
+    "desc": "If this card is Normal or Special Summoned: Banish (face-down) 7 cards from the top of your Deck. (Quick Effect): You can reveal this card and 1 \"Trirealm Rift\" card in your hand; banish both those cards (face-down), and if you do, draw 2 cards. You can only use this effect of \"Trirealm Rift Savage Storms\" once per turn. Once per turn (Quick Effect): You can shuffle 1 of your face-down banished \"Trirealm Rift\" monsters into the Deck, then you can shuffle 1 monster your opponent controls with the same Attribute as that monster into the Deck.",
     "race": "Psychic",
     "atk": 2100,
     "def": 2800,
     "level": 7,
     "attribute": "WIND",
     "archetype": "Trirealm Rift",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/mad-tempest-trirealm-rift-ploutonion-15877",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trirealm-rift-savage-storms-15877",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN037",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN037",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 33822112,

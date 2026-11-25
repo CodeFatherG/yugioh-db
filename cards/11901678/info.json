@@ -39,6 +39,13 @@
             "set_price": "3.64"
         },
         {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN013",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Collection 4: Joey's World Mega Pack",
             "set_code": "LCJW-EN054",
             "set_rarity": "Rare",
@@ -105,7 +112,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.59",
+            "cardmarket_price": "0.54",
             "tcgplayer_price": "0.83",
             "ebay_price": "7.95",
             "amazon_price": "5.17",

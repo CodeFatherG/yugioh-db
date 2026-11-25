@@ -1,6 +1,6 @@
 {
     "id": 47605577,
-    "name": "Raise Moon Starter Squeeze",
+    "name": "Squeeze, the New Moon of Raise Moon",
     "typeline": [
         "Aqua",
         "Effect"
@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "(Quick Effect): You can discard this card, then activate 1 of these effects (but you can only use each of these effects of \"Raise Moon Starter Squeeze\" once per turn);\r\n\u25cf You cannot Special Summon from the Extra Deck until the end of the next turn, except Rank 7 Xyz Monsters, also this turn, each time a card(s) is added to your opponent's hand, except by drawing it, immediately draw 1 card.\r\n\u25cf Draw 1 card.\r\nYou cannot add cards from the Deck to the hand during the Duel you activate this effect, except by drawing them.",
+    "desc": "You cannot add cards from the Main Deck to your hand during the Duel you activate this card's effect, except by drawing them. (Quick Effect): You can discard this card, then activate 1 of these effects (but you can only use each effect of \"Squeeze, the New Moon of Raise Moon\" once per turn);\r\n\u25cf This turn, each time a card(s) is added to your opponent's hand, except by drawing it, draw 1 card, also you cannot Special Summon from the Extra Deck until the end of the next turn after this effect resolves, except Rank 7 Xyz Monsters.\r\n\u25cf Draw 1 card.",
     "race": "Aqua",
     "atk": 700,
     "def": 1400,
     "level": 7,
     "attribute": "WATER",
     "archetype": "Raise Moon",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/raise-moon-starter-squeeze-15890",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/squeeze-the-new-moon-of-raise-moon-15890",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN021",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 47605577,

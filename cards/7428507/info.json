@@ -1,6 +1,6 @@
 {
     "id": 7428507,
-    "name": "Burial Summit Trirealm Rift Helheim",
+    "name": "Trirealm Rift Gorging Gorge",
     "typeline": [
         "Psychic",
         "Effect"
@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "During the Main Phase (Quick Effect): You can reveal this card in your hand; banish it (face-down), and if you do, Special Summon 1 of your face-down banished \"Trirealm Rift\" monsters, except a Level 6 monster. You can only use this effect of \"Burial Summit Trirealm Rift Helheim\" once per turn. If this card is Normal or Special Summoned: Banish (face-down) the top 6 cards of your Deck. Other \"Trirealm Rift\" cards you control cannot be destroyed by your opponent's card effects, also your opponent cannot target them with card effects.",
+    "desc": "If this card is Normal or Special Summoned: Banish (face-down) 6 cards from the top of your Deck. During the Main Phase (Quick Effect): You can reveal this card in your hand; banish this card (face-down), and if you do, Special Summon 1 of your face-down banished \"Trirealm Rift\" monsters, except a Level 6 monster. You can only use this effect of \"Trirealm Rift Gorging Gorge\" once per turn. Other \"Trirealm Rift\" cards you control cannot be destroyed by your opponent's card effects, also your opponent cannot target them with card effects.",
     "race": "Psychic",
     "atk": 2400,
     "def": 1200,
     "level": 6,
     "attribute": "EARTH",
     "archetype": "Trirealm Rift",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/burial-summit-trirealm-rift-helheim-15876",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trirealm-rift-gorging-gorge-15876",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN036",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 7428507,

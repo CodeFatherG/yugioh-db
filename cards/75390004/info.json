@@ -17,6 +17,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/megazowler-6345",
     "card_sets": [
         {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN046",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Legendary Collection 4: Joey's World Mega Pack",
             "set_code": "LCJW-EN147",
             "set_rarity": "Common",
@@ -34,7 +41,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "10.33",
+            "cardmarket_price": "11.75",
             "tcgplayer_price": "11.78",
             "ebay_price": "6.34",
             "amazon_price": "4.64",

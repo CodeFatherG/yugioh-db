@@ -9,6 +9,13 @@
     "ygoprodeck_url": "https://ygoprodeck.com/card/delta-of-invitation-14799",
     "card_sets": [
         {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN052",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
             "set_name": "Supreme Darkness",
             "set_code": "SUDA-EN066",
             "set_rarity": "Common",
@@ -26,8 +33,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.13",
-            "tcgplayer_price": "0.36",
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.37",
             "ebay_price": "0.00",
             "amazon_price": "0.00",
             "coolstuffinc_price": "0.00"

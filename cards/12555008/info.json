@@ -4,10 +4,26 @@
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Choose opponent's Main Monster Zones equal to the number of Normal Monsters and \"Zenet\" Ritual Monsters you control; negate the first monster effect activated in each of those zones that resolves this turn. If the total ATK of all Normal Monster Cards you control is more than 3000: You can banish this card from your GY, then target 1 monster your opponent controls; send it to the GY. You can only use each effect of \"Zenet Cataract\" once per turn.",
+    "desc": "Choose a number of your opponent's Main Monster Zones equal to the number of Normal Monsters and \"Zenet\" Ritual Monsters you control; this turn, the first activated monster effect in each of those zones is negated. If the total ATK of all Normal Monster Cards you control is more than 3000: You can banish this card from your GY, then target 1 monster your opponent controls; send it to the GY. You can only use each effect of \"Zenet Cataract\" once per turn.",
     "race": "Normal",
     "archetype": "Zenet",
     "ygoprodeck_url": "https://ygoprodeck.com/card/zenet-cataract-15853",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 12555008,

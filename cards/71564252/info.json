@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Neither player can add cards from their Deck to their hand except by drawing them. During either player's turn, when your opponent would Special Summon exactly 1 monster: You can send this face-up card to the Graveyard; negate the Special Summon, and if you do, destroy it.",
+    "desc": "Neither player can add cards from their Deck to their hand except by drawing them. When your opponent would Special Summon exactly 1 monster (Quick Effect): You can send this face-up card to the GY; negate the Special Summon, and if you do, destroy it.",
     "race": "Thunder",
     "atk": 1900,
     "def": 800,
@@ -104,8 +104,8 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "3.62",
-            "tcgplayer_price": "4.93",
+            "cardmarket_price": "3.75",
+            "tcgplayer_price": "4.68",
             "ebay_price": "23.99",
             "amazon_price": "7.46",
             "coolstuffinc_price": "7.99"

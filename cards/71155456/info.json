@@ -1,6 +1,6 @@
 {
     "id": 71155456,
-    "name": "Trirealm Rift of Sky Sheol",
+    "name": "Trirealm Rift Heavens",
     "typeline": [
         "Psychic",
         "Effect"
@@ -8,14 +8,23 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "If this card is Normal or Special Summoned: Banish (face-down) the top 2 cards of your Deck. You can only use each of the following effects of \"Trirealm Rift of Sky Sheol\" once per turn. If this card is in your hand and you control a \"Trirealm Rift\" monster: You can Special Summon this card. During your Main Phase: You can add up to 2 of your face-down banished \"Trirealm Rift\" Spells/Traps with different names to your hand, also you cannot activate cards or effects for the rest of this turn, except \"Trirealm Rift\" cards or effects.",
+    "desc": "If this card is Normal or Special Summoned: Banish (face-down) 2 cards from the top of your Deck. You can only use each of the following effects of \"Trirealm Rift Heavens\" once per turn. If this card is in your hand and you control a \"Trirealm Rift\" monster: You can Special Summon this card. During your Main Phase: You can add up to 2 of your face-down banished \"Trirealm Rift\" Spells/Traps with different names to your hand, also you cannot activate non-\"Trirealm Rift\" cards or effects for the rest of this turn.",
     "race": "Psychic",
     "atk": 1200,
     "def": 200,
     "level": 2,
     "attribute": "LIGHT",
     "archetype": "Trirealm Rift",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/trirealm-rift-of-sky-sheol-15884",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trirealm-rift-heavens-15884",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN032",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 71155456,

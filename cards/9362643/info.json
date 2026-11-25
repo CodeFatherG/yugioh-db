@@ -1,13 +1,29 @@
 {
     "id": 9362643,
-    "name": "The Glitter of Raise Moon",
+    "name": "The Bright Lights of Raise Moon",
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Special Summon 1 \"Raise Moon\" Xyz Monster from your Extra Deck, and if you do, attach this card to it, then you can shuffle all \"Raise Moon\" cards in your GY into the Deck. You can banish this card from your GY; draw 1 card. You can only use this effect of \"The Glitter of Raise Moon\" once per turn. You cannot add cards from the Deck to the hand during the Duel you activate either of this card's effects, except by drawing them.",
+    "desc": "Special Summon 1 \"Raise Moon\" Xyz Monster from your Extra Deck, and if you do, attach this card to it, then you can shuffle all \"Raise Moon\" cards in your GY into the Deck. You can banish this card from your GY; draw 1 card. You can only use this effect of \"The Bright Lights of Raise Moon\" once per turn. You cannot add cards from the Main Deck to your hand during the Duel you activate either of this card's effects, except by drawing them.",
     "race": "Normal",
     "archetype": "Raise Moon",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/the-glitter-of-raise-moon-15886",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-bright-lights-of-raise-moon-15886",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN026",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN026",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 9362643,

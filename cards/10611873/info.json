@@ -1,6 +1,6 @@
 {
     "id": 10611873,
-    "name": "Raise Moon Lamp Croucier",
+    "name": "Kulshe, the Beacon of Raise Moon",
     "typeline": [
         "Dragon",
         "Effect"
@@ -8,14 +8,30 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "When you draw this card: You can reveal it; Special Summon it. If Summoned this way: You can target 1 Spell/Trap your opponent controls; place it on the bottom of the Deck. You can discard this card; draw 1 card. You cannot add cards from the Deck to the hand the turn you activate this effect, except by drawing them. You can only use this effect of \"Raise Moon Lamp Croucier\" once per turn.",
+    "desc": "When you draw this card: You can reveal it; Special Summon this card. If you do: You can target 1 Spell/Trap your opponent controls; place it on the bottom of the Deck. You can discard this card; draw 1 card. You cannot add cards from the Main Deck to your hand the turn you activate this effect, except by drawing them. You can only use this effect of \"Kulshe, the Beacon of Raise Moon\" once per turn.",
     "race": "Dragon",
     "atk": 2800,
     "def": 700,
     "level": 7,
     "attribute": "FIRE",
     "archetype": "Raise Moon",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/raise-moon-lamp-croucier-15889",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kulshe-the-beacon-of-raise-moon-15889",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN020",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN020",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 10611873,

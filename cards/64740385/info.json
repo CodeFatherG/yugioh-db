@@ -9,7 +9,7 @@
     "type": "Fusion Monster",
     "humanReadableCardType": "Fusion Effect Monster",
     "frameType": "fusion",
-    "desc": "1 \"Sun God\" monster you control + 2 face-up monsters on the field\r\nCannot be used as Fusion Material. Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) to your opponent's Main Monster Zone by sending the above cards from either field to the GY, but if you Special Summon this card with the second method, you can only Special Summon once for the rest of this turn. You can only Special Summon \"Lava Golem, Steelcage of the Sun God\" once per turn this way, no matter which method you use. Once per turn, during your Standby Phase: Take 1000 damage.",
+    "desc": "1 \"Sun God\" monster you control + 2 face-up monsters on the field\r\nCannot be used as Fusion Material. Must be either Special Summoned (from your Extra Deck, to your opponent's Main Monster Zone, by sending the above cards from either field to the GY, after which you can only Special Summon once more the rest of this turn), or Fusion Summoned. You can only Special Summon \"Lava Golem, Steelcage of the Sun God\" once per turn this way, no matter which method you use. Once per turn, during your Standby Phase: Take 1000 damage.",
     "race": "Fiend",
     "atk": 3000,
     "def": 2500,
@@ -17,6 +17,15 @@
     "attribute": "FIRE",
     "archetype": "Sun God",
     "ygoprodeck_url": "https://ygoprodeck.com/card/lava-golem-steelcage-of-the-sun-god-15903",
+    "card_sets": [
+        {
+            "set_name": "Immortal Phoenix",
+            "set_code": "IMPH-EN031",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 64740385,

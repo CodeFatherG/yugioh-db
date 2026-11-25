@@ -1,13 +1,22 @@
 {
     "id": 96205925,
-    "name": "Trirealm Rift Gospel",
+    "name": "Trirealm Rift Delectation",
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "Activate this card by banishing (face-down) 5 cards from your GY and/or the top of your Deck. During your Main Phase, you can Normal Summon 1 \"Trirealm Rift\" monster, in addition to your Normal Summon/Set (you can only gain this effect once per turn). During your Main Phase: You can banish (face-down) 1 \"Trirealm Rift\" monster you control whose original Level is 4 or lower, and if you do, Special Summon 1 of your face-down banished Level 5 or higher \"Trirealm Rift\" monsters. You can only use this effect of \"Trirealm Rift Gospel\" once per turn.",
+    "desc": "Activate this card by banishing (face-down) 5 cards from your GY and/or the top of your Deck. During your Main Phase, you can Normal Summon 1 \"Trirealm Rift\" monster in addition to your Normal Summon/Set (you can only gain this effect once per turn). During your Main Phase: You can banish (face-down) 1 \"Trirealm Rift\" monster you control whose original Level is 4 or lower, and if you do, Special Summon 1 of your face-down banished Level 5 or higher \"Trirealm Rift\" monsters. You can only use this effect of \"Trirealm Rift Delectation\" once per turn.",
     "race": "Continuous",
     "archetype": "Trirealm Rift",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/trirealm-rift-gospel-15915",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trirealm-rift-delectation-15915",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 96205925,

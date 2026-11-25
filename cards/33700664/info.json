@@ -1,13 +1,29 @@
 {
     "id": 33700664,
-    "name": "Trirealm Rift Territory - Valvols",
+    "name": "Trirealm Rift Vilvortex",
     "type": "Spell Card",
     "humanReadableCardType": "Field Spell",
     "frameType": "spell",
-    "desc": "Activate this card by banishing (face-down) 5 cards from your GY and/or the top of your Deck. During your Main Phase: You can add 1 of your face-down banished \"Trirealm Rift\" cards to your hand, except \"Trirealm Rift Territory - Valvols\". You can only use this effect of \"Trirealm Rift Territory - Valvols\" once per turn. While you control a Level 5 or higher \"Trirealm Rift\" monster and you have no cards in your Deck, your opponent cannot activate cards or effects during your turn.",
+    "desc": "Activate this card by banishing (face-down) 5 cards from your GY and/or the top of your Deck. During your Main Phase: You can add 1 of your face-down banished \"Trirealm Rift\" cards to your hand, except \"Trirealm Rift Vilvortex\". You can only use this effect of \"Trirealm Rift Vilvortex\" once per turn. During your turn, while you control a Level 5 or higher \"Trirealm Rift\" monster and have no cards in your Deck, your opponent cannot activate cards or effects.",
     "race": "Field",
     "archetype": "Trirealm Rift",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/trirealm-rift-territory-valvols-15879",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/trirealm-rift-vilvortex-15879",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN039",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+        },
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN039",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 33700664,

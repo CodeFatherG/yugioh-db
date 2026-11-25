@@ -4,7 +4,7 @@
     "type": "Spell Card",
     "humanReadableCardType": "Continuous Spell",
     "frameType": "spell",
-    "desc": "Any monster sent to the Graveyard is banished instead.",
+    "desc": "Any monster sent to the GY is banished instead.",
     "race": "Continuous",
     "ygoprodeck_url": "https://ygoprodeck.com/card/dimensional-fissure-6856",
     "card_sets": [
@@ -103,7 +103,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.36",
+            "cardmarket_price": "0.38",
             "tcgplayer_price": "0.45",
             "ebay_price": "5.00",
             "amazon_price": "4.78",

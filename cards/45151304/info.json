@@ -1,13 +1,22 @@
 {
     "id": 45151304,
-    "name": "Am Duazenet",
+    "name": "Amduat Zenet",
     "type": "Trap Card",
     "humanReadableCardType": "Normal Trap",
     "frameType": "trap",
-    "desc": "Ritual Summon 1 \"Zenet\" Ritual Monster from your hand or GY, by sending Normal Monster Cards with different names from each other from your hand, Deck, and/or face-up field to the GY whose total Levels equal or exceed its Level, then you can equip 1 Normal Monster from your GY to it as an Equip Spell. If a Normal Monster Card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only activate 1 \"Am Duazenet\" per turn.",
+    "desc": "Ritual Summon 1 \"Zenet\" Ritual Monster from your hand or GY, by sending Normal Monster Cards with different names from your hand, Deck, and/or face-up field to the GY whose total Levels equal or exceed its Level, then you can equip 1 Normal Monster from your GY to it as an Equip Spell. If a Normal Monster Card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only activate 1 \"Amduat Zenet\" per turn.",
     "race": "Normal",
     "archetype": "Zenet",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/am-duazenet-15852",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/amduat-zenet-15852",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN009",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 45151304,

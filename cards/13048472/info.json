@@ -4,8 +4,9 @@
     "type": "Spell Card",
     "humanReadableCardType": "Normal Spell",
     "frameType": "spell",
-    "desc": "Add 1 Ritual Spell from your Deck to your hand, and add 1 Ritual Monster from your Deck or GY to your hand whose name is listed on that Ritual Spell. You can only activate 1 \"Pre-Preparation of Rites\" per turn.",
+    "desc": "Add 1 Ritual Spell from your Deck to your hand, and add 1 Ritual Monster from your Deck or GY to your hand whose name is mentioned on that Ritual Spell. You can only activate 1 \"Pre-Preparation of Rites\" per turn.",
     "race": "Normal",
+    "archetype": "Rites",
     "ygoprodeck_url": "https://ygoprodeck.com/card/pre-preparation-of-rites-1126",
     "card_sets": [
         {
@@ -127,7 +128,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.10",
+            "cardmarket_price": "0.08",
             "tcgplayer_price": "0.12",
             "ebay_price": "3.25",
             "amazon_price": "4.69",

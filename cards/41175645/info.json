@@ -8,7 +8,7 @@
     "type": "Effect Monster",
     "humanReadableCardType": "Effect Monster",
     "frameType": "effect",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 Spellcaster-Type monster, and cannot be Special Summoned by other ways. This card gains 500 ATK for each card in your hand. Once per turn, during either player's turn, when a Spell Card is activated: You can negate the activation. If this card is destroyed by battle, or if this card in its owner's control is destroyed by an opponent's card effect: You can Special Summon 1 \"Silent Magician\" monster from your hand or Deck, except \"Silent Magician\", ignoring its Summoning conditions.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 Spellcaster monster. Gains 500 ATK for each card in your hand. Once per turn, when a Spell Card is activated (Quick Effect): You can negate the activation. If this card is destroyed by battle, or if this card in its owner's control is destroyed by an opponent's card effect: You can Special Summon 1 \"Silent Magician\" monster from your hand or Deck, except \"Silent Magician\", ignoring its Summoning conditions.",
     "race": "Spellcaster",
     "atk": 1000,
     "def": 1000,
@@ -91,7 +91,7 @@
     ],
     "card_prices": [
         {
-            "cardmarket_price": "0.06",
+            "cardmarket_price": "0.05",
             "tcgplayer_price": "0.21",
             "ebay_price": "3.95",
             "amazon_price": "89.98",

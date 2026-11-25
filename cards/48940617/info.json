@@ -1,13 +1,22 @@
 {
     "id": 48940617,
-    "name": "Zenet Thunderfall",
+    "name": "Zenet Thunder Fall",
     "type": "Trap Card",
     "humanReadableCardType": "Counter Trap",
     "frameType": "trap",
-    "desc": "When your opponent activates a Spell/Trap Card while you control a Normal Monster or \"Zenet\" Ritual Monster: Negate the activation, and if you do, destroy that card. If the total ATK of all Normal Monster Cards you control is more than 3000: You can banish this card from your GY; Set 1 \"Zenet\" Spell/Trap from your Deck or GY, except \"Zenet Thunderfall\". You can only use each effect of \"Zenet Thunderfall\" once per turn.",
+    "desc": "When your opponent activates a Spell/Trap Card and you control a Normal Monster or a \"Zenet\" Ritual Monster: Negate the activation, and if you do, destroy that card. If the total ATK of all Normal Monster Cards you control is more than 3000: You can banish this card from your GY; Set 1 \"Zenet\" Spell/Trap from your Deck or GY, except \"Zenet Thunder Fall\". You can only use each effect of \"Zenet Thunder Fall\" once per turn.",
     "race": "Counter",
     "archetype": "Zenet",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/zenet-thunderfall-15854",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/zenet-thunder-fall-15854",
+    "card_sets": [
+        {
+            "set_name": "Glorious Victors",
+            "set_code": "GLVI-EN011",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+        }
+    ],
     "card_images": [
         {
             "id": 48940617,
