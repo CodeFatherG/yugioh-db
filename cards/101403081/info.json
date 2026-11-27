@@ -1,0 +1,35 @@
+{
+    "id": 101403081,
+    "name": "Nahar-Dex, Driver of the Seven Swords",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If you control a monster and the total Levels of Effect Monsters you control are 7 or lower: You can Special Summon this card from your hand or GY, but banish it when it leaves the field. If this card is Normal or Special Summoned from the hand: You can destroy as many other monsters on the field with a Level as possible, and if you do, this card gains 700 ATK for each card destroyed, until the end of this turn. You can only use each effect of \"Nahar-Dex, Driver of the Seven Swords\" once per turn.",
+    "race": "Dragon",
+    "atk": 2000,
+    "def": 3000,
+    "level": 7,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nahar-dex-driver-of-the-seven-swords-16109",
+    "card_images": [
+        {
+            "id": 101403081,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101403081.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101403081.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101403081.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 100463003,
+    "name": "Illusion Palladium Oracle Mahad",
+    "typeline": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If you have a banished LIGHT or DARK monster, you can Special Summon this card (from your hand). You can only Special Summon \"Illusion Palladium Oracle Mahad\" once per turn this way. This card's original ATK is doubled while a DARK monster is on the field. If this card destroys a monster by battle and you have \"Dark Magician\" in your field or GY: Inflict damage to your opponent equal to the destroyed monster's original ATK.",
+    "race": "Spellcaster",
+    "atk": 2500,
+    "def": 2100,
+    "level": 7,
+    "attribute": "LIGHT",
+    "archetype": "Palladium",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/illusion-palladium-oracle-mahad-16111",
+    "card_images": [
+        {
+            "id": 100463003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/100463003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/100463003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/100463003.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 101404022,
+    "name": "White-Horned Buster Dragon",
+    "typeline": [
+        "Dragon",
+        "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while the total ATK of your banished monsters is 4000 or higher, or while you have 5 or more face-down banished cards. You can only Special Summon \"White-Horned Buster Dragon\" once per turn this way. When your opponent activates a monster effect, or Spell Card or effect, on the field (Quick Effect): You can banish 1 card of the same type (Monster or Spell) from your GY; negate the activation, then this card gains 600 ATK. You can only use this effect of \"White-Horned Buster Dragon\" once per turn.",
+    "race": "Dragon",
+    "atk": 4000,
+    "def": 1400,
+    "level": 10,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/white-horned-buster-dragon-16107",
+    "card_images": [
+        {
+            "id": 101404022,
+            "image_url": "https://images.ygoprodeck.com/images/cards/101404022.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101404022.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101404022.jpg"
+        }
+    ],
+    "card_prices": [
+        {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+        }
+    ]
+}
